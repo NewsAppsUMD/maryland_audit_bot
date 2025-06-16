@@ -1,0 +1,1316 @@
+Title: State Department of Assessments and Taxation
+Date: 12/16/2013
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d0acc9d724560674288
+Extracted: 2025-06-16T22:39:40.641575
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+State Department of Assessments and Taxation
+December 2013
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+ This report and any related follow-up correspondence are available to the public through the
+Office of Legislative Audits at 301 W. Preston Street, Room 1202, Baltimore, Maryland
+21201. The Office may be contacted by telephone at 410-946-5900, 301-970-5900, or 1-877-
+486-9964.
+ Electronic copies of our audit reports can be viewed or downloaded from our website at
+http://www.ola.state.md.us.
+ Alternate formats may be requested through the Maryland Relay Service at 1-800-735-2258.
+ The Department of Legislative Services – Office of the Executive Director, 90 State Circle,
+Annapolis, Maryland 21401 can also assist you in obtaining copies of our reports and related
+correspondence. The Department may be contacted by telephone at 410 946-5400 or 301
+970-5400.
+
+--- Page 5 ---
+Table of Contents
+Executive Summary 5
+Background Information 7
+Agency Responsibilities 7
+Baltimore City Historic Tax Credits 7
+Status of Findings From Preceding Audit Report 8
+Findings and Recommendations 9
+Real Property Assessments
+Finding 1 – Certain Aspects of DAT’s Quality Assurance Process 10
+for Real Property Assessments and Related Documentation Requirements
+Were Not Formalized
+Finding 2 – Physical Exterior Inspections Were Not Performed for All 13
+Properties in Accordance With State Law
+Assessment Administration Valuation System (AAVS)
+Finding 3 – AAVS Had Vulnerabilities That Placed Assessment Data at 14
+Risk and Certain Historical Data Was Not Archived
+Finding 4 – DAT Procedures Did Not Ensure Certain Data Recorded in 16
+AAVS Were Complete and Accurate
+Administration of Certain Tax and Credit Programs
+* Finding 5 – DAT Had Not Performed Timely and Comprehensive 18
+Verifications of Certain Returns and Tax Credit Applications
+Information Systems Security and Control
+Finding 6 – Access and Monitoring Controls Over the AAVS System 20
+Database Were Not Sufficient to Protect Critical Data
+Finding 7 – DAT’s Network Was Not Adequately Secured 21
+Finding 8 – Malware Protection on DAT Workstations and Servers 23
+Needs Improvement
+Finding 9 – An Up-to-Date and Comprehensive Disaster Recovery Plan Did 24
+Not Exist
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Contractual Services
+* Finding 10 – DAT Did Not Adequately Monitor Certain Contract Billings 25
+Cash Receipts
+* Finding 11 – Sufficient Controls Were Not Established Over Certain 26
+Collections
+Audit Scope, Objectives, and Methodology 29
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+4
+
+--- Page 7 ---
+Executive Summary
+Legislative Audit Report on the
+State Department of Assessments and Taxation (DAT)
+December 2013
+ Certain aspects of DAT’s quality assurance process for real property
+assessments need to be improved. For example, DAT oversight of the
+local assessment offices should be formalized to help ensure local
+assessment offices and their assessors are complying with DAT
+assessment policies. Furthermore, DAT policies lacked specificity
+regarding the documentation to be maintained to support certain
+assessment values and to evidence the review and approval of those
+values by local office supervisors (Finding 1).
+DAT should enhance its quality control process by formalizing policies
+pertaining to the oversight of local assessment offices performed by area
+supervisors, and the documentation to be maintained to support assessment
+values and to evidence those values were reviewed and approved by the local
+office supervisors.
+ Physical exterior inspections were not performed for all properties in
+accordance with State law and a record of inspections performed was not
+maintained (Finding 2).
+DAT should take appropriate actions to help ensure compliance with State law
+regarding the physical inspection of properties and should maintain records of
+inspections conducted.
+ The Assessment Administration and Valuation System (AAVS) had
+access vulnerabilities that placed critical assessment data at risk of
+unauthorized modification. For example, all AAVS users, including those
+with read-only access could modify critical data without a record
+identifying the changes being prepared. Furthermore, DAT did not
+establish procedures to ensure that certain data (such as property sales
+and permit information) received from local jurisdictions were properly
+recorded in AAVS (Findings 3 and 4).
+DAT should perform a full evaluation of AAVS to identify system access
+vulnerabilities and should ensure appropriate modifications are made. Also,
+DAT should establish procedures to ensure the completeness and accuracy of
+data input into AAVS.
+5
+
+--- Page 8 ---
+ Personal property returns submitted by businesses for calendar years
+2008 through 2011 had not been reviewed to ensure the values reported to
+DAT were proper, and appropriate actions were not taken to identify
+businesses that failed to file or submitted returns late. DAT also had not
+completed audits of applications received from individuals who qualified
+for homeowners’ and renters’ tax credits during calendar years 2009
+through 2011 (Finding 5).
+DAT should review personal property returns timely and enhance procedures
+to identify late or non-filers of returns. DAT should also perform timely
+audits of approved homeowners’ and renters’ tax credit applications, and take
+appropriate action to recover any tax credits that are determined to have been
+improperly granted to homeowners and renters.
+ Security and control weaknesses were noted with respect to DAT’s
+information systems and network, and proper internal controls were not
+established for certain payments to contractors and for the processing of
+cash receipts (Findings 6 – 11).
+DAT should take the recommended actions to improve information security
+controls, to ensure the propriety of contractor payments and to verify all
+collections received were deposited.
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities
+The State Department of Assessments and Taxation (DAT) is responsible for
+administering the State’s real and personal property tax laws as well as for various
+functions applicable to corporations (for example, issuing corporate charters and
+collecting certain taxes, such as gross receipts taxes). DAT also administers
+programs that provide property tax credits primarily to homeowners and renters
+who meet the related eligibility requirements (such as gross income limitations).
+DAT’s headquarters is located in Baltimore City and it operates assessment and
+taxation offices in each of the State’s 24 local subdivisions. According to the
+State’s and DAT’s accounting records, during fiscal year 2012, DAT’s
+expenditures totaled approximately $131.5 million and revenue collected totaled
+approximately $232 million. DAT’s 2011 annual report identified the total
+assessable real property tax base subject to State tax rates to be valued at $690
+billion consisting of 2,171,132 individual properties.
+Baltimore City Historic Tax Credits
+The Tax Property Article of the Annotated Code of Maryland provides a property
+tax credit of up to 25 percent of properly documented expenses of a private owner
+taxpayer for the restoration and preservation of a structure that the Mayor and
+City Council of Baltimore City have determined to be of historic or architectural
+value. According to published reports, errors in the calculation of such Historic
+Tax Credits resulted in certain Baltimore City properties being granted excessive
+property tax credits.
+The Baltimore City Director of Finance and the DAT Director, in a jointly issued
+letter to the Chairman of the Senate Budget and Taxation Committee dated
+October 17, 2013, provided an overview of the tax credit calculation problem and
+the related procedural solution. The directors indicated that the problem resulted
+from a change in computation methodology by the City that used assessments that
+had not been adjusted for certain situations, such as appeals. DAT and the City
+have now developed a new process whereby DAT will certify assessment
+amounts to the City for use in calculating the Historic Tax Credit. The directors
+believe the new process will lead to a more consistent and uniform calculation of
+the credit.
+7
+
+--- Page 10 ---
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of eight of the nine findings
+contained in our preceding audit report dated August 4, 2010. We determined
+that DAT satisfactorily addressed four of the findings and four other findings
+were not resolved and are repeated in this report. These four repeated findings
+appear as three findings in this report. During this audit, we did not review the
+status of the one remaining finding because it was addressed in our February 2013
+performance audit entitled Department of Assessments and Taxation - Homestead
+Property Tax Credits.
+8
+
+--- Page 11 ---
+Findings and Recommendations
+Real Property Assessments
+Background
+The Department of Assessment and Taxation’s (DAT) Real Property Valuation
+Division is responsible for assessing property on a three-year cycle by reviewing
+one-third of all property in Maryland every year and certifying the assessed value
+to the 24 local governments for each property within their respective subdivision.
+The valuation of property is conducted by assessors working in the 24 local
+assessment offices (one per county including Baltimore City), under the
+Division’s direction and oversight. DAT maintains an Assessment
+Administration Valuation System (AAVS) as its primary database system. AAVS
+includes a wide range of information and history about individual properties,
+including assessed values. Under the provisions of the Tax-Property Article of
+the Annotated Code of Maryland, DAT is responsible for promoting fairness in
+taxation for Maryland property owners by uniformly assessing properties
+throughout the State at market value.
+DAT has adopted national standards for assessing real property as issued by the
+International Association of Assessing Officers (IAAO). IAAO has issued
+technical standards for various topics related to property tax administration,
+property tax policy, and valuation of property including mass appraisal and
+related disciplines. The objective of IAAO standards, which represent a
+consensus in the assessing profession, is to provide a systematic means by which
+assessing officers can improve and standardize the operation of their offices.
+IAAO standards are advisory in nature and the use of, or compliance with, these
+standards is voluntary.
+Annually, DAT prepares an Assessment Ratio Report to measure the quality of
+real property assessments as of January 1st by reviewing sales for the six-month
+period before and after January 1st. The Report is used to compare its assessed
+values with the sales values and evaluate the variation against standards
+developed by IAAO for ratio studies. According to DAT’s 2012 Assessment
+Ratio Report, measured variation was within the acceptable ranges set forth by the
+IAAO for properties assessed at January 1, 2012.
+According to DAT’s 2011 State Department of Assessments and Taxation Report,
+the total assessable real property tax base subject to State and County tax rates
+was valued at approximately $690 billion.
+9
+
+--- Page 12 ---
+Per State law, DAT shall attempt to determine the most effective and equitable
+method to assess property. DAT uses several assessment methods to determine
+properties’ assessed values. Commercial properties are primarily assessed using
+the Maryland value, income, and reconcile assessment methods. For residential
+properties, the primary assessment method used is the Maryland value method.
+The Maryland value method is based on market conditions and depreciation. The
+method establishes a market value index (MVI) adjustment factor to adjust the
+assessed value of the properties, primarily based on the analysis of sales data for
+comparable properties within a designated geographic area.
+Finding 1
+Certain aspects of DAT’s quality assurance process for real property
+assessments and related documentation requirements were not formalized.
+Analysis
+DAT needs to formalize certain quality assurance processes over real property
+assessments and to clarify the related documentation requirements. IAAO
+standards state that quality assurance is an important aspect of every valuation
+system, and the lack of effective quality assurance can result in minor or major
+gaps, ranging from loss of data to failure to recognize or correct inequities. IAAO
+standards also state that valuation procedures and models should be documented.
+DAT has instituted certain aspects of a comprehensive quality assurance program,
+such as conducting ratio studies (for example, the Annual Assessment Ratio
+report required by State law). DAT also employs residential and commercial
+property area supervisors to oversee the local assessment offices. However,
+written guidance was not established regarding certain oversight and supervision
+performed by area supervisors and local office supervisors to help ensure
+compliance with DAT assessment policies and IAAO standards. Furthermore,
+our review of the assessment practices at three local assessment offices identified
+variations in the documentation maintained to support property assessment values.
+Specifically, we noted the following conditions:
+ DAT’s independent review processes involving area supervisors were not
+formalized. While area supervisors are responsible for oversight of the local
+assessment offices, the extent of area supervisor’s reviews, the method for
+communicating the related findings and corrective actions, and the
+documentation requirements related to such reviews, were not established in
+DAT policy. Consequently, DAT had no formal mechanism for assessing the
+effectiveness of the reviews or the level of compliance of local assessment
+offices with assessment policies.
+10
+
+--- Page 13 ---
+At one local office, we noted widespread reductions in assessed land values
+(which is separate from the values for the dwellings) for residential properties.
+Specifically, our extraction of data from AAVS indicated that 16,948 of
+60,199 accounts for which valuations were performed for the 2012 – 2013 tax
+year received land value reductions ranging from 20 percent to 43 percent.
+These reductions decreased the assessable base of these properties by
+approximately $285.5 million. While local assessment office personnel could
+not provide the rationale or documentation to support the reductions (for
+example, sales analysis), management personnel at DAT headquarters advised
+us that the reductions were likely done to take into account declining sales in
+the jurisdiction. Furthermore, DAT advised us that it believed large
+adjustments such as these would have been discussed with an area supervisor.
+However, no documentation was provided to substantiate the area supervisor
+had reviewed and agreed with the reductions.
+ DAT had not established written policies delineating the responsibilities of
+local assessment office supervisory personnel regarding the documentation to
+be maintained to evidence their review and approval of assessment values.
+For example, the primary basis for residential assessments is the computation
+of a market value index (MVI) by assessors that considers property sales in
+certain geographic areas (such as a neighborhood) to compute a factor used to
+adjust values for properties with similar characteristics. Although the factors
+computed by assessors are entered into AAVS by supervisors, there was no
+requirement that supervisors review the computations for reasonableness and
+document their approvals before entry into AAVS.
+We were advised by DAT management that local office supervisors
+performed “spot checks” of work performed by assessors by reviewing sales
+ratios analysis and percentage change reports generated from AAVS.
+However, there was no formal policy requiring the performance of spot
+checks, the nature or extent of the spot checks, or the documentation to be
+maintained evidencing that the spot checks were performed. IAAO standards
+state that every assessment jurisdiction should establish procedures for
+internal review of work product, including supervisory review of appraisal
+and assessment work.
+ DAT’s policies lacked specificity regarding the documentation that should be
+maintained to support individual property assessments under each assessment
+method. In this regard, our review disclosed variations in the nature and level
+of documentation maintained by the three local offices to support real
+property assessments recorded in AAVS for certain commercial and
+residential properties.
+11
+
+--- Page 14 ---
+Specifically, our review of 39 commercial real property assessments (with
+values totaling of approximately $700 million) disclosed that 12 properties
+(with assessed values of $161 million) lacked certain information
+substantiating the recorded values. For example, 8 of these properties, located
+in two jurisdictions, were assessed under the income capitalization method
+(which uses the property’s income stream as the basis for determining the
+assessed value). For 4 of these properties with assessed values totaling $58
+million, DAT lacked current information on which to base the assessments
+(for example, income information obtained during a prior assessment period
+was used in calculating the assessment). IAAO standards state that the income
+approach is the preferred method in valuing commercial property if sufficient
+income data are available. For the other 4 properties, the assessed values
+recorded in AAVS ($91 million) did not agree with the supporting
+documentation prepared by assessors ($106 million). Consequently, for these
+properties, it is unclear which valuation amounts were the appropriate values
+to use for assessment purposes.
+Our review of six residential properties with a total assessable base of $1.5
+million in one jurisdiction disclosed that the local office did not retain
+documentation supporting the MVI used to adjust the assessed values for five
+of those properties having an assessable basis of $1.3 million. We requested
+support for the MVIs calculated for other properties in the applicable
+geographic locations (wards); however, the local office could not provide us
+any documentation to support the MVIs. There were approximately 9,400
+properties assessed using the Maryland value method in those wards. We
+noted that another local assessment office maintained documentation of the
+sales that were considered in developing the MVIs for its neighborhoods and
+explanations were on file to support the MVI used in performing the
+assessment, including when the MVI was not based on comparable sales due
+to the lack of sales activity in the area.
+Recommendation 1
+We recommend that DAT formalize certain aspects of its quality assurance
+process by
+a. specifying the nature and extent of the reviews to be conducted by area
+supervisors, including the method for communicating the findings and
+corrective actions and the related documentation requirements;
+b. establishing the responsibilities of local office supervisory personnel and
+related documentation requirements regarding their review and approval
+of assessors’ work and the resulting assessment values; and
+c. specifying the documentation to be maintained to support assessment
+values for commercial and residential properties under each assessment
+method.
+12
+
+--- Page 15 ---
+Finding 2
+Physical exterior inspections were not performed for all properties in
+accordance with State law.
+Analysis
+DAT does not perform physical exterior inspections for all properties due for
+reassessment during the three-year assessment cycle as required by State law.
+Furthermore, DAT lacked policies governing how physical inspections should be
+documented. DAT is responsible for valuing all real property in the State
+triennially based on an exterior physical inspection of the property in accordance
+with Title 8 of the Tax-Property Article of the Annotated Code of Maryland.
+We were advised by DAT that the physical inspections of properties, as required
+by State law, have not been conducted for many years primarily because of
+staffing shortages. Per DAT records, as of fiscal year 2012, 152 field assessors
+were responsible for assessing 2,171,132 statewide accounts over the three-year
+cycle, which represents a reduction of 78 assessors since fiscal year 2002.
+Consequently, DAT only required inspections when certain significant events
+occurred such as when a property was sold during the assessment period, when a
+new building was constructed or, at a minimum, every nine years. In addition,
+DAT personnel advised us that they were able to rely on property sales and permit
+data received from the local governments to obtain updated property information.
+However, as noted in Finding 4, sufficient controls were not established over data
+received from the local governments.
+DAT management advised us that it has received 22 additional assessor positions
+during fiscal years 2013 and 2014, but that those positions are not sufficient to
+enable it to comply with the physical inspection law. DAT management further
+advised us that a law change may be necessary. In this regard, IAAO standards
+indicate that a physical review including an on-site verification of physical
+characteristics should be conducted at least every four to six years. In addition,
+other techniques that employ digital imaging technology may be available to
+assist in identifying changes in property characteristics.
+The number of physical inspections conducted by the local offices could not be
+determined by DAT, since documentation requirements were not established and
+a record of all inspections was not maintained. AAVS has the capability to record
+inspection data, including storing photographs; however, the system generally
+was not used for this purpose or required to be used by DAT.
+13
+
+--- Page 16 ---
+Recommendation 2
+We recommend that DAT
+a. take appropriate actions (such as requesting a law change, using
+technology) to help ensure compliance with State law regarding the
+physical inspection of properties;
+b. establish documentation requirements for inspections conducted; and
+c. maintain records of property inspections conducted and the results.
+Assessment Administration and Valuation System
+In October 2006, the Board of Public Works approved a multi-year contract
+totaling approximately $7.6 million with a vendor to develop and implement an
+Assessment Administration and Valuation System (AAVS). AAVS provides
+DAT with a centralized database, which performs real property valuations and
+other assessment administration functions such as appeal processing and the
+generation of assessment notices. On December 31, 2008, the original vendor
+was purchased by a new vendor, effectively assigning all interests and obligations
+under the contract to the new vendor. As of October 2012, DAT had paid the
+vendors a total of approximately $6.9 million for AAVS. AAVS was accepted in
+April 2011 when it went operational in all 24 local assessment offices and at
+DAT’s headquarters location.
+Finding 3
+AAVS had access vulnerabilities that placed critical assessment data at risk
+of unauthorized modification and certain historical data was not archived.
+Analysis
+AAVS had critical access vulnerabilities and vendor software updates were not
+installed. Additionally, DAT did not maintain a historical record of assessment
+data changes for one assessment tax year nor maintain certain documentation
+pertaining to system conversion. Specifically, we noted the following conditions:
+ Due to deficiencies in the AAVS program, system users could perform
+unauthorized modifications to critical data via commonly used functions
+without detection. We noted all users (including read-only users) could
+modify critical server data, application data, and database data without
+detection, because the modifications made in this manner would not be
+recorded by the system. The system developer’s technical proposal for the
+implementation of AAVS indicated users would not be able to modify certain
+critical database files. Upon OLA bringing this matter to its attention DAT
+notified the AAVS vendor and DAT advised us that the vendor was working
+14
+
+--- Page 17 ---
+to resolve the issue. At the time of our audit, there were 424 active AAVS
+user accounts, 50 of which were read-only.
+ As of February 27, 2013, we noted DAT was running a version of AAVS that
+was eight versions behind the currently available version. Although we could
+not readily determine the nature of the changes in each version, we did note
+that each version of AAVS had multiple software updates associated with it.
+ DAT did not ensure a historical record of changes to AAVS data pertaining to
+assessments for the 2012 - 2013 tax year was maintained. For each
+assessment year, shortly after assessment notices are mailed, the production
+database for the year is copied to a separate database for archiving; however, a
+historical record of changes was not maintained for the assessments prepared
+for the 2012 - 2013 tax year. DAT officials advised us that they mistakenly
+did not copy this data when archiving the database. As a result, the trail of
+assessment changes or other supporting data recorded in AAVS for that year
+is no longer available.
+ DAT did not maintain complete records of the automated real property system
+conversion to ensure all property details were properly transferred. While
+DAT did maintain some preliminary reports on the conversion process and
+had control totals, no documentation was maintained to show control totals
+after the conversion. We were advised by DAT management that it believes
+the process of transferring records from the previous system to AAVS was
+complete and accurate, as local jurisdictions and other parties (two years later)
+have not noticed any issues with the data that had been received from AAVS.
+Nevertheless, DAT should have retained documentation to substantiate the
+conversion results in case problems subsequently arose.
+Recommendation 3
+We recommend that DAT
+a. perform a full evaluation of AAVS to identify access vulnerabilities and
+ensure appropriate modifications are made;
+b. ensure that the most current version of AAVS is being used and
+implement all software updates in a timely manner;
+c. maintain historical records of changes to AAVS data; and
+d. in the future, maintain complete records of the results of any system
+conversions.
+15
+
+--- Page 18 ---
+Finding 4
+DAT procedures did not ensure that certain data recorded in AAVS were
+complete and accurate.
+Analysis
+DAT procedures did not ensure that certain data recorded into AAVS were
+complete and accurate. Specifically, procedures were not formalized to ensure all
+relevant data from local county government offices were received and accurately
+entered into AAVS at any of the three local assessment offices we reviewed.
+Specifically, our review noted the following conditions:
+ For two local offices, critical information (real property sales, transfers, and
+permit improvement data) was entered into AAVS via a manual process based
+on paper documents received from local government agencies. However, a
+receiving log of such documents was not prepared to establish initial
+accountability and control to ensure all information received was entered into
+AAVS. This is significant because permits issued which result in $100,000 or
+more in improvements require the completion of an assessment at that time.
+Furthermore, there were no documented supervisory reviews to ensure all data
+recorded in AAVS, such as sales activity and construction permit information,
+was properly supported. DAT advised us that supervisors perform “spot
+checks” of keyed data. Nevertheless, as previously mentioned, these spot
+checks were not documented.
+ In the third local assessment office, data were received electronically from the
+local government and used to update AAVS. However, there was no
+verification that data entered to AAVS were properly processed. We noted
+that for this electronically received data, there were system-generated reports
+of data processed, including processing errors. While DAT headquarters
+personnel advised us that the local assessment office was responsible for
+reviewing these reports, the local office’s supervisor advised us that they
+lacked sufficient knowledge to review and interpret the reports.
+Consequently, errors were not corrected. DAT headquarters’ personnel
+further advised us that they were working to change this report so it would be
+more reader friendly.
+According to the IAAO standard on mass appraisal related to quality control over
+data collection, a quality control program should review samples of finished work
+for completeness and accuracy, and keep tabulations of items coded correctly or
+incorrectly.
+16
+
+--- Page 19 ---
+Recommendation 4
+We recommend that DAT enhance procedures by requiring each local
+assessment office to
+a. establish a log to provide initial accountability and control over all
+property transaction documents received from local governments;
+b. ensure that the pertinent information from documents or electronic data
+received are properly recorded in AAVS and any data entry errors are
+resolved; and
+c. ensure that supervisors verify that critical data recorded in AAVS are
+properly supported, and that this verification is documented.
+Administration of Certain Tax and Credit Programs
+Background
+DAT is responsible for administering programs related to assessing the personal
+property of certain entities, granting tax credits to eligible homeowners and
+renters, and collecting franchise taxes from certain companies.
+Annually, DAT assesses business-owned personal property (such as furniture,
+certain equipment, and inventory) based on returns filed by specific entities (such
+as corporations, limited liability companies, and partnerships) as prescribed by
+State law. Personal property assessments are certified by DAT and are provided
+to Maryland’s 24 local subdivisions. These jurisdictions (and municipal
+governments, when applicable) use the assessed values to calculate the taxes and
+then issue personal property tax bills to the applicable entities. According to its
+records, as of May 31, 2013, DAT had processed 306,355 accounts related to the
+filing of personal property returns for the calendar year ended 2011 providing the
+local subdivisions with a personal property assessable taxable base of $11.6
+billion.
+Homeowners and renters are eligible for tax credits based on meeting certain
+income eligibility requirements. In addition, eligible renters must be over the age
+of 60, disabled, or under the age of 60 with dependent children. The
+homeowners’ credit limits the property tax paid based on household income up to
+$60,000 combined household income. The renters’ credit is calculated based on
+income with the maximum credit being $750. DAT pays local jurisdictions for
+homeowners’ credits and individual renters for renters’ credits. During fiscal year
+2012, DAT approved homeowners’ tax credits totaling approximately $62.6
+million to 52,594 taxpayers and renters’ tax credits totaling approximately $2.7
+million to 8,316 taxpayers.
+17
+
+--- Page 20 ---
+State law requires telephone, electricity, and natural gas providers to file a
+franchise tax return by March 15th following the end of the calendar year and pay
+DAT a franchise tax on gross receipts for the year. During fiscal year 2012,
+DAT’s franchise tax collections totaled approximately $127.1 million.
+Finding 5
+DAT had not performed timely and comprehensive verification procedures
+to help ensure the accuracy of information on certain returns and tax credit
+applications.
+Analysis
+Certain verification procedures established by DAT were not performed timely or
+were not comprehensive. These procedures were designed to help ensure the
+accuracy of information submitted on personal property returns, franchise tax
+returns, and applications for homeowner’s and rental tax credits. Specifically, our
+review disclosed the following conditions:
+ As of March 2013, DAT’s procedure to audit selected personal property
+returns had not been performed for returns submitted for calendar years 2008
+through 2011 (the latest tax year completed at the time of our audit). Such
+audits verify the propriety of the reported personal property values and ensure
+the return information was accurately recorded into DAT’s personal property
+assessment system for certification purposes. Our test of 20 personal property
+returns submitted for calendar years 2010 and 2011 disclosed that due to a
+data entry error made for one return, the combined assessed value of personal
+property in two jurisdictions should have been recorded as $36,500 but,
+instead, no value was recorded. We were advised by DAT these audits of
+personal property returns were not completed due to staffing issues and the
+significant amount of time required to manually enter personal property data
+into the assessment system. Although reviews of returns would still be
+necessary, DAT should determine the feasibility of instituting electronic filing
+of the returns to improve overall efficiency and accuracy.
+Similarly, as of March 2013, DAT had not completed audits of the selected
+applications received from homeowners and renters who were granted tax
+credits for calendar years 2009 through 2011. At that time, DAT advised that
+it was reviewing credits granted in 2009. For example, one type of audit
+involves the random selection of five percent of approved applications to
+ensure the taxpayer qualified for the credit, that proper supporting
+documentation (such as a federal income tax return) was submitted, and that
+the related data were recorded properly in DAT’s automated system. This
+condition was commented upon in our preceding audit report. Our test of 15
+homeowners’ credits processed during the period of February 2012 to March
+18
+
+--- Page 21 ---
+2013 for a total of approximately $69,000, disclosed that supporting
+documentation for 5 credits totaling approximately $16,600 was not on file.
+In addition, one applicant received a credit of $529 more than they should
+have due to a data entry error.
+Additionally, as of January 2013, DAT could not substantiate the extent to
+which franchise tax returns dating back to calendar year 2007 had been
+reviewed. Although DAT indicated that some, but not all returns for each
+year had been reviewed, a record of the specific returns reviewed and the
+results was not maintained. DAT requires that every franchise tax return
+(approximately 290 for calendar year 2010) be reviewed to verify
+mathematical accuracy and to validate certain information reported on the tax
+return (such as, the gross operating revenues earned by the companies).
+Similar conditions regarding the backlog of franchise tax returns to be
+reviewed were commented upon in our preceding audit report.
+ Data matches to identify entities that failed to file personal property returns as
+required were conducted on a very limited basis. As of January 2013, the
+latest match between DAT’s records and the Comptroller of Maryland’s State
+vendor payment records and active sales tax accounts records was conducted
+for the calendar year 2009 filings. Furthermore, the match only included the
+entities located in one county. That match identified 1,227 potential non-
+filing entities. Based on DAT’s records, we noted that as of the 2011 filing
+year, businesses operating in seven counties have not been subject to any
+match processes dating back to 2005. State law requires DAT to place
+businesses in forfeited status, which provides that the business should be
+prohibited from conducting business in the State, when the business fails to
+file at least one annual personal property return and remit the related filing fee
+(generally $300 annually).
+ DAT did not ensure all jurisdictions submitted electronic files of
+homeowners’ tax credits redeemed on the paid property tax bills. During our
+audit period, 11 jurisdictions had not submitted any of the required monthly
+electronic redemption reports, which would enable DAT to determine if
+excess credits were claimed and consequently funds were owed to the State.
+Differences may occur due to a property being transferred, thus altering the
+allowable tax credit. DAT approved homeowners’ credits totaling $18.9
+million for these 11 jurisdictions in fiscal year 2012. For the 13 jurisdictions
+that submitted the files, we noted there was no documentation that DAT
+reviewed the results of the electronic matches for 5 jurisdictions.
+19
+
+--- Page 22 ---
+Recommendation 5
+We recommend that DAT
+a. perform timely verifications of personal property tax returns, approved
+homeowners’ and renters’ tax credit applications, and franchise tax
+returns (repeat);
+b. expand its data matches to identify entities that did not file personal
+property returns, and consider a risk-based approach for following up on
+non-filing entities;
+c. ensure that local jurisdictions submit monthly electronic redemption
+reports and generate exception reports of redeemed credits versus
+approved credits and perform documented reviews of the exceptions; and
+d. determine the cost benefits of instituting electronic filing for personal
+property tax returns.
+Information Systems Security and Control
+Background
+DAT operates several critical computer applications and databases on its internal
+network and on the Comptroller of Maryland’s Annapolis Data Center (ADC)
+mainframe. These include the server based AAVS, property tax credit databases,
+and the mainframe based Maryland Business Entity System, which contains
+registrations of business entities and related filings and assessments. DAT also
+operates a statewide network that connects its local offices and the DAT
+headquarters’ internal network. DAT’s statewide network provides users’ access
+to various information technology services including the AAVS system, ADC
+mainframe based applications, a database management system, network services,
+email services, and Internet access.
+Finding 6
+Access and monitoring controls over the AAVS database were not sufficient
+to protect critical data.
+Analysis
+Access and monitoring controls over the AAVS database were not sufficient to
+protect critical data. Specifically, we noted the following conditions:
+ A default administrative database account unnecessarily had full access to the
+AAVS database. Since this account included local server administrators by
+default, all local administrators on the database server had full administrative
+access to this database. Also, anyone able to achieve local administrator
+20
+
+--- Page 23 ---
+privileges would automatically have full administrative access to this database and
+could perform unauthorized modifications to critical data.
+ Numerous critical security related events for the AAVS database were not
+logged. In addition, although the database was set to record failed login
+attempts, we were advised that these failed login attempts were not reviewed.
+Finally, for security events that were logged, documented reviews of logged
+activity did not exist.
+The State of Maryland Department of Information Technology (DoIT)
+Information Security Policy states that each agency must establish an
+authorization process which specifically grants access to information ensuring
+that access is strictly controlled, audited, and that it supports the concepts of “least
+possible privilege”. This Policy also requires that procedures be developed to
+routinely (for example daily or weekly) review audit records for indications of
+unusual activities, suspicious activities or suspected violations, and report
+findings to appropriate officials for prompt resolution.
+Recommendation 6
+We recommend that DAT
+a. limit access to all critical databases to personnel whose job duties require
+such access; and
+b. log critical security events for the AAVS database, regularly review these
+logs, investigate unusual or questionable items and document and retain
+these reviews and investigations.
+Finding 7
+The DAT network was not adequately secured.
+Analysis
+The DAT network was not adequately secured. DAT operated virtual private
+network connections to its network, a firewall at its network interfaces, and a
+network-based intrusion detection and prevention system (IDPS). Specifically,
+we noted the following conditions:
+ DAT improperly allowed two untrusted third parties with the capability to
+access its entire internal network by use of virtual private network
+connections. For example, one vendor could access the entire DAT internal
+network over all ports via virtual private networks. Consequently, such access
+could allow the vendors to conduct unauthorized and inappropriate activities
+on DAT’s systems.
+21
+
+--- Page 24 ---
+ DAT’s firewall was not properly configured to send all critical network traffic
+to the network-based IDPS for analysis. Specifically, the firewall was not
+configured to send any traffic from outside of the DAT network (for example,
+Internet traffic) to the IDPS for analysis.
+ Due to improper configuration, the IDPS did not analyze any network traffic
+sent by the firewall. Therefore, the network-based IDPS device was not
+providing any intrusion detection protection for the DAT network.
+ DAT did not use Host-based Intrusion Protection Systems (HIPS) on critical
+web servers that processed encrypted traffic. The absence of HIPS coverage
+for such traffic created network security risk in that DAT’s network-based
+IDPS cannot read encrypted traffic flowing into its network whereas HIPS can
+read and analyze such traffic and protect critical web servers from malicious
+traffic.
+ Remote administrative access to the network-based IDPS module was not
+adequately restricted to only those users who required such access. For
+example, through connections with the Internet, individuals could make a
+remote management connection to the IDPS module.
+DoIT’s Information Security Policy requires that agency systems be configured to
+monitor and control communications at external boundaries. Strong network
+security uses a layered approach, relying on various resources, and is structured
+according to assessed network security risk. Properly configured IDPS protection
+can aid significantly in the detection/prevention of and response to potential
+network security breaches and attacks. Furthermore, without proper monitoring,
+critical network security breaches may occur that could otherwise possibly be
+detected and prevented.
+Recommendation 7
+We recommend that DAT
+a. configure its firewall and virtual private networks to achieve a “least
+privilege” security strategy giving individuals and devices only those
+privileges needed to perform assigned tasks;
+b. modify the network-based IDPS and firewall configurations to ensure
+that all critical network traffic is sent to and reviewed by the IDPS
+module;
+c. perform a documented review and assessment of its network security
+risks, identify how IDPS and HIPS coverage should be best applied to its
+network, and implement such coverage for all critical portions of its
+network; and
+22
+
+--- Page 25 ---
+d. restrict remote access to the network-based IDPS module to only
+those users requiring such access.
+Finding 8
+Malware protection on DAT workstations and servers needs improvement.
+Analysis
+Malware protection on DAT workstations and servers needs improvement.
+Specifically, our review disclosed the following conditions:
+ DAT did not ensure that malware protection software was installed on all
+DAT servers. Although DAT had procedures for configuring workstations
+with malware protection software, similar procedures did not exist for servers.
+ DAT was not using an enterprise-wide management tool to monitor and
+manage the use of malware protection software on its workstations and
+servers. Therefore, DAT could not effectively and efficiently monitor its
+deployed malware protection software to ensure that such software was
+always installed and operating properly on all DAT workstations and servers.
+Furthermore, DAT did not verify that malware protection software and the
+related definition files were kept up-to-date on all DAT workstations and
+servers.
+ Certain workstations were configured with users having administrator rights.
+Administrator rights are the highest permission level that can be granted to
+users and allow users to install software and change configuration settings.
+Our testing of eight workstations disclosed that employees’ user accounts
+were all defined with administrator rights rather than with user rights. As a
+result, if these workstations were infected with malware, the malware would
+run with administrative rights and expose these workstations to a greater risk
+of compromise than if the workstations’ user accounts operated with only user
+rights.
+Industry best practices recommend that organizations should employ automated
+tools to continuously monitor workstations, servers, and mobile devices for
+active, up-to-date anti-malware protection. Furthermore, the DoIT Information
+Security Policy, states that agencies should configure security settings of
+information technology products to the most restrictive mode consistent with
+operational requirements.
+23
+
+--- Page 26 ---
+Recommendation 8
+We recommend that DAT develop and implement enterprise-wide automated
+procedures to
+a. ensure that all workstations and servers are configured with anti-
+malware software that is operating properly,
+b. regularly confirm that anti-malware software and the related definition
+files are properly updated on its workstations and servers, and
+c. limit local administrative rights on user workstations to only personnel
+that require such access for their job duties.
+Finding 9
+An up-to-date and comprehensive disaster recovery plan did not exist.
+Analysis
+DAT did not have an up-to-date and comprehensive information technology
+disaster recovery plan (DRP) for recovering from disaster scenarios (for example,
+a fire). Specifically, the DRP did not address certain required provisions such as
+an alternate site, complete listings of hardware and software components, and
+restoration of network connectivity. At the time of our review, the plan had not
+been updated for five years. Without an up-to-date and comprehensive DRP, a
+disaster could cause significant delays (for an undetermined period of time) in
+restoring operations for information systems, such as AAVS, beyond the expected
+delays that would exist in a planned recovery scenario. The State of Maryland
+Information Technology (IT) Disaster Recovery Guidelines provide information
+on the minimum required elements needed for a complete information system
+DRP.
+Recommendation 9
+We recommend that DAT maintain a comprehensive disaster recovery plan,
+which is updated at least annually, in accordance with the aforementioned IT
+Disaster Recovery Guidelines, with update efforts being documented.
+24
+
+--- Page 27 ---
+Contract Monitoring
+Finding 10
+DAT did not adequately monitor certain contract billings.
+Analysis
+DAT did not monitor certain payments to contractors or otherwise verify that
+contractor-submitted billings were proper prior to payment resulting in potential
+overpayments. Our review of 19 billings totaling approximately $1.3 million
+during fiscal years 2011 through 2013 made by four contractors disclosed the
+following conditions related to two contractors:
+ DAT was charged incorrect rates for three fiscal year 2012 billings totaling
+approximately $228,300 from one contractor resulting in potential
+overpayments of approximately $5,000. The contractor provided lock box
+services, under a statewide contract procured by the State Treasurer’s Office
+(STO). Although we were advised by STO personnel that the applicable
+contract had expired in June 2011, STO was in the process of obtaining a new
+contract and the rates from the previous contract were to remain in effect for
+fiscal year 2012. However, the rates billed to DAT did not agree with the
+previous contract rates, resulting in the aforementioned potential
+overpayments. Payments to this contractor totaled approximately $302,000
+for services received during fiscal year 2012. Similar conditions were
+commented upon in our preceding audit report.
+ DAT did not verify the contractor-reported level of services for document
+preparation and imaging services. The contract, which was effective October
+2010, provided that the contractor would bill DAT a standard monthly fee
+based on an estimated annual total of images it scanned. The contract
+provided for an annual payment settlement based on an audit performed by the
+contractor to determine the actual number of images scanned. The contractor
+was paid approximately $498,000 during the period October 2010 through
+May 2012.
+DAT did not maintain its own record of images scanned per month to
+independently verify the contractor’s monthly reported activity. Our tally of
+scanned batch totals for one month (93,000 images) differed with the
+contractor’s report of activity for that month (120,000 images) by
+approximately 27,000, which under the contract rates would have a value of
+approximately $6,900.
+25
+
+--- Page 28 ---
+Furthermore, an annual settlement had not occurred even though the
+contractor reported fewer scanned images than the number specified for the
+monthly fee that was charged. The vendor reported to DAT that it scanned
+approximately 553,000 fewer images than were billed, which represented
+potential overpayments to the contractor of approximately $139,500 for the
+period October 2010 through August 2012.
+Recommendation 10
+We recommend that DAT establish procedures to ensure the propriety of
+contractor billings. Specifically, we recommend that DAT
+a. maintain records necessary to perform verifications of contractor
+billings,
+b. verify that billed costs agree with contractual terms and conditions
+(repeat), and
+c. seek recovery of any overpayments identified including those
+mentioned above (repeat).
+Cash Receipts
+Finding 11
+Sufficient controls were not established over certain collections.
+Analysis
+DAT had not established adequate accountability and control over cash and check
+collections received at DAT’s headquarters office (such as, filing fees and
+recoveries of excess tax credits from the counties). Cash collections are initially
+recorded on a cash register and subsequently posted to an automated system or on
+a manual check log. According to DAT’s records, during fiscal year 2012, cash
+and check collections at the headquarters location totaled approximately $23.5
+million (approximately $2.5 million in cash and $21 million in checks). Our
+review disclosed the following control deficiencies:
+ For certain collections, documentation was lacking to substantiate that
+independent verifications were performed to ensure that cash and check
+collections received were recorded in the automated system and were
+deposited. Our test of collections from 24 days totaling approximately $4.7
+million received during fiscal years 2011 and 2012 disclosed collections from
+20 days totaling approximately $1.5 million for which there was no
+documentation that DAT had performed the verifications.
+26
+
+--- Page 29 ---
+ Recordation of “no fee” transactions was not adequately controlled. Since
+State law prohibits DAT from charging a fee for services provided to certain
+entities (such as, non-profit organizations), the automated system permits the
+recording of a no fee transaction to account for such services. However, we
+noted that 14 employees who had access to collections could also record a no
+fee transaction in DAT’s automated system. Additionally, 8 employees with
+access to collections had the ability to remove a payment transaction recorded
+in the automated system and record a no fee transaction in its place. This
+capability is needed, for example, in the case of cashier error. Yet, output
+reports of no fee transactions recorded in the automated system were not
+generated and reviewed by supervisory personnel. As a result, collections
+could be misappropriated without detection. According to DAT records, a
+total of 1,309 no fee transactions were recorded in DAT’s automated system
+during fiscal year 2012, and 391 payments totaling approximately $86,700
+were removed from the system during fiscal years 2011 and 2012.
+Similar conditions were commented upon in our preceding audit report.
+According to the Comptroller of Maryland—General Accounting Division’s
+Accounting Procedures Manual, a verification of cash receipts from initial
+recordation to deposit is to be performed by an employee independent of the cash
+receipts function. The Manual also requires supervisors to review and approve
+adjustments to cash receipts.
+Recommendation 11
+We recommend that DAT
+a. document the performance of independent verifications of recorded
+collections to deposit (repeat); and
+b. generate output reports of “no fee” transactions recorded in the
+automated system, and ensure that supervisory personnel independent of
+the cash receipts functions review these transactions for propriety
+(repeat).
+We advised DAT on accomplishing the necessary separation of duties using
+existing personnel.
+27
+
+--- Page 30 ---
+28
+
+--- Page 31 ---
+Audit Scope, Objectives, and Methodology
+We have audited the State Department of Assessments and Taxation (DAT) for
+the period beginning August 21, 2009 and ending July 29, 2012. The audit was
+conducted in accordance with generally accepted government auditing standards.
+Those standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DAT’s financial
+transactions, records and internal controls, and to evaluate its compliance with
+applicable State laws, rules, and regulations. We also determined the status of the
+findings included in our preceding audit report.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of materiality and risk. The areas
+addressed by the audit included corporate fees and taxes, tax credits, real property
+assessments, procurements and disbursements, information systems, cash receipts,
+and payroll. Our audit procedures included inquiries of appropriate personnel,
+inspection of documents and records, and observations of DAT’s operations. We
+also tested transactions and performed other auditing procedures that we
+considered necessary to achieve our objectives. Data provided in this report for
+background or informational purposes were deemed reasonable, but were not
+independently verified.
+DAT provides certain support services (such as payroll, invoice processing,
+maintenance of accounting records and related fiscal functions) to the Property
+Tax Assessment Appeals Board. These support services are included within the
+scope of our audits of DAT.
+DAT’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+29
+
+--- Page 32 ---
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DAT’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to DAT that did not warrant inclusion in this report.
+DAT’s response to our findings and recommendations is included as an appendix
+to this report. As prescribed in the State Government Article, Section 2-1224 of
+the Annotated Code of Maryland, we will advise DAT regarding the results of our
+review of its response.
+30
+
+--- Page 34 ---
+RESPONSE OF THE STATE DEPARTMENT OF
+ASSESSMENTS AND TAXATION (SDAT) TO LEGISLATIVE
+AUDITOR’S REPORT OF NOVEMBER 2013
+Finding 1 by the Auditor:
+Certain aspects of DAT’s quality assurance process for real property assessments
+and related documentation requirements were not formalized.
+SDAT Response: The Department concurs with the Auditor’s Finding, and it has
+already taken steps to implement Recommendations 1 a, b, and c to provide
+greater transparency here. SDAT has developed a written, formalized policy for
+the reports and audits to be conducted by the Area Supervisors whose duty it is to
+oversee the performance of the County Supervisors of Assessment and the
+assessors assigned to that office. Specific reports will be reviewed by the Area
+Supervisors to ensure compliance of local assessment offices with assessment
+procedures. For the reassessment of Group 2 properties for the January 1, 2014
+assessment notices, a memorandum dated August 12, 2013 was sent out to all
+local Supervisors of Assessment identifying specific reports and other items of
+information to be produced for review by the Area Supervisors. This detailed
+memorandum will be issued each year prior to that year’s reassessment work for
+the next one-third Group of residential and commercial properties.
+Regarding documentation to support assessment values as discussed in
+Recommendation 1b, the annual memorandum described above included a
+provision that an Area Supervisor must sign off whenever land values are
+adjusted across the board for a particular community. Similarly, each local
+Supervisor of Assessments will sign off and documents will be retained showing
+that they have independently checked and verified the individual Market Value
+Indexes (MVIs) being used in certain geographic areas. Incidentally, although
+the Supervisors did perform the proper sales analysis for the MVIs in all three
+subdivisions the Auditors visited, the retained documentation did exist in two of
+the three subdivisions. When the local Supervisors also perform the regular spot
+checks of the work performed each year, the central administration of Real
+Property will require that the particular checkoffs will be noted in the AAVS
+system.
+Finally, the Auditor’s Recommendation 1c suggests that the Department
+maintain documentation to support assessment value for commercial and
+residential properties under EACH assessment method. For commercial
+properties, there are three different assessment methods for valuing properties but
+standard appraisal law and Maryland court decisions specify that the assessor
+should use his or her professional judgment as to which assessment method
+produces the best indication of market value. Therefore, the Department will
+maintain specific documentation only for the assessment method used and only in
+those instances where the data exists for a particular commercial account.
+
+--- Page 35 ---
+Finding 2 by the Auditor:
+Physical exterior inspections were not performed for all properties in accordance
+with State law.
+SDAT Response: The Department agrees with the Auditor’s Finding here and is
+already taking specific actions to address the Auditor’s second and third
+Recommendations. The State Supervisor of Real Property Assessments is issuing
+a new procedure on the requirements for documenting in the agency’s AAVS
+system all of the inspections actually conducted by local assessors each year. The
+AAVS system will produce a standardized report on that information for each
+local jurisdiction.
+The first Recommendation of the Auditor here is to take appropriate
+actions (such as requesting a law change, using technology) to help ensure
+compliance with State law regarding the physical inspection of properties. Under
+Maryland’s triennial assessment law, the physical inspection requirement would
+entail that the Department physically inspect one-third of the 2,171,132 total
+residential and commercial accounts or approximately 723,000 properties each
+year. The Auditor also notes that the Department has 78 fewer assessors in fiscal
+year 2012 than in fiscal year 2002. In this same 10 year period, there was an
+addition of 177,348 new properties to be assessed. Although the Department has
+received 22 additional assessor positions in fiscal years 2013 and 2014, those
+positions are not sufficient to comply with the physical inspection law. Based on
+these facts, the Department is actively exploring the cost of a pilot project in one
+major subdivision to obtain satellite imagery of real properties at a sufficient
+resolution to replace physical inspection of properties. Once the Department
+determines the feasibility of this project and once it collects a year’s worth of data
+in 2014 on the number of physical inspections actually conducted with the
+additional assessor positions noted above, the agency expects to propose
+departmental legislation on the physical inspection law to the 2015 session of the
+General Assembly.
+Finding 3 by the Auditor:
+AAVS has access vulnerabilities that placed critical assessment data at risk of
+unauthorized modification and certain historical data was not archived.
+SDAT Response: The Department concurs in the Auditor’s Finding and will
+comply with the four Recommendations but needs to supply “context” to the
+Auditor’s comments. While the Department’s IT managers want to acknowledge
+major credit to the Auditor’s IT Unit for finding this particular vulnerability
+where all users could modify critical server data, the Department submits there is
+an extremely remote possibility that someone else would discover this
+vulnerability. As the Auditor notes, the Department promptly notified the AAVS
+vendor to prepare a permanent system fix to correct the problem. On December
+10, 2013, the vendor provided an update that the problem will be remedied by
+January 15, 2014.
+2
+
+--- Page 36 ---
+Regarding the Auditor’s comment that as of February 27, 2013 that the
+Department was running a much earlier version of AAVS, the agency advised the
+Auditor that SDAT was awaiting funding on July 1, 2013 for the installation of
+new servers before installing the latest version of AAVS. Those servers have now
+been installed and so has the next version of AAVS.
+Regarding the retention of the complete records for the data conversion
+from the old Real Property CAMA system to the new AAVS system, it needs to
+be noted that the Department did keep this information for five years prior to the
+time it was discarded (six months before the Auditor began this audit of the
+Department). If there are ever future conversions, the Department will keep such
+records in perpetuity or until at least the next audit of the agency by the
+Legislative Auditor.
+Finding 4 by the Auditor:
+DAT procedures did not ensure that certain data recorded in AAVS were
+complete and accurate.
+SDAT Response: The Department concurs in the Auditor’s three
+Recommendations here. The August 2013 Memorandum from the State
+Supervisor for Real Property discussed in the SDAT Response to Finding 1 also
+required checking on AAVS inputs of the applicable data by the Supervisor of
+Assessments or Commercial/Residential manager in the larger jurisdictions. The
+report generated by one of the three subdivisions is being critically reviewed by
+headquarters administration to rewrite its parameters; hopefully, with the
+cooperation of the local jurisdiction for the automated input of its information.
+The Auditor’s comments referring to permit information and sales reflects the fact
+that the Department is implementing a new system for this information in AAVS.
+Steps to track permit and sales are evolving and being implemented.
+During calendar year 2013, more Assessment offices have been able to import
+building permits which allows for better tracking. The import of this information
+also required SDAT to contact local governments to revise the manner in which
+they electronically presented the building permit data. After a property is
+physically inspected for a building permit greater than $100,000 resulting in an
+out of cycle reassessment, then specific fields in the AAVS system are utilized to
+input and collect the information for supervisory review.
+Finding 5 by the Auditor:
+DAT had not performed timely and comprehensive verification procedures to help
+ensure the accuracy of information on certain returns and tax credit applications.
+SDAT’s Response: The Department concurs in the Auditor’s Finding and will
+undertake different steps to implement the four Recommendations that affect
+Personal Property Assessments, Homeowners’/Renters’ Tax Credits, and
+Franchise Taxes collected from telephone, electric and natural gas providers.
+3
+
+--- Page 37 ---
+The Auditor’s first comment in this Finding deals with a particular audit
+not being performed by SDAT on certain personal property returns due to staffing
+issues and the significant amount of time required to manually enter personal
+property data into the assessment system. The Auditor recommends the
+Department to determine the feasibility of instituting electronic filing of the
+returns to improve overall efficiency and the accuracy of the information entered.
+The Department has begun the process to obtain a system for the electronic filing
+of personal property returns, and we project its implementation on January 1,
+2015 with the start of the filing of returns that year. This electronic filing system
+also should free up some resources to conduct a specialized audit noted by the
+Auditor to determine which business entities should be required to continue filing
+a personal property return in subsequent years. In the meantime, the Department
+will again conduct the two audits each year for all seven counties noted in the
+Auditor’s description of this Finding.
+The Auditor offers two sets of comments on the different audits performed
+by the Homeowners’/Renters’ Tax Credit Programs. The first comments note that
+the Tax Credit Programs had not “completed” audits of selected applications for
+certain years. The Auditor also notes that this condition was commented upon in
+the Auditor’s preceding audit report. The Department is performing all of the
+audits just not as “timely” as the Auditor would like. For the record, it should be
+noted that there is an automatic 18 month delay in performing an audit in a new
+year because of the time period by which the Department receives the electronic
+transmission of the income tax information from the IRS. The primary reason
+that these audits cannot be more timely is because the Tax Credit Programs had
+four positions abolished in the last Cost Containment. The Tax Credit Programs
+need additional positions if the Department is to complete the audits the agency
+designed in a more timely manner. As a result, the Department has requested
+additional positions for fiscal year 2015 for the Tax Credit Programs.
+For the Tax Credit Programs, the Auditor also noted that some local
+jurisdictions had not submitted monthly electronic redemption reports for all
+months showing the amounts of recaptured tax credits upon a transfer of the
+property. The Tax Credit administration will send out a written directive to the
+affected County Finance Offices to ensure that they submit the electronic report
+on a monthly basis even if there are no accounts to report in later months, and it
+will follow up on any jurisdiction that does not respond with a monthly report.
+The Auditor’s final comment in this Finding states that SDAT did not
+substantiate the extent to which franchise tax returns had been reviewed. This
+condition was also commented upon in the preceding audit report. For the 2008
+returns, the Department had timely reviewed the returns of the top thirty filers
+who pay the largest amounts of the franchise taxes. As of August 2013, the audit
+completion rates were as follows: 2008 – 90%; 2009 – 82%; 20120 – 82%;
+2011 – 76%; and 2012 – 28%. All returns could not be audited because the
+Department’s Franchise Tax Unit has had two of its three positions vacant for two
+4
+
+--- Page 38 ---
+years because of retirements and recruitment problems for this highly specialized
+work unit. Now that all three positions have been filled, the Department
+committed to the Auditor during the Discussion Note period for this audit that the
+agency would perform a specified number of audits each year, by a certain date,
+and appropriate documentation of the audits would be permanently noted in the
+records. The new audit schedule requires that audits will be completed on 70% of
+the returns within one year of receipt, and 100% of the returns will be audited
+within 20 months of receipt. Accounts with more $1 million in annual Franchise
+Tax payments will be completed within 8 months of receipt. During the
+Discussion Note period for this audit, the Department specified in the “exit”
+conference that the Auditor would have to raise at that time any objections it had
+to the specific audit parameters the Department proposed here. No objections
+were raised, and the Department has already implemented the specific audit
+schedule provided to the Auditor.
+Finding 6 by the Auditor:
+Access and monitoring controls over the AAVS database were not sufficient to
+protect critical data.
+SDAT Response: SDAT concurs in the Finding and Recommendations. It must
+be emphasized that this Finding and Recommendation “b” to document reviews
+of logs of security events will result in a massive amount of work for the IT Unit
+that will require the agency to obtain a new full-time employee in the FY’15
+Budget Request to function as a dedicated Security Officer employee performing
+these tasks exclusively. It also should be noted that the Agency’s total number of
+IT employees in this Unit has declined from 20 to 13 employees from 2008 to
+2013. The necessary security reports have been written and produced but cannot
+be thoroughly audited until that new employee is hired in the FY’15 budget.
+Finally, it should be noted regarding Recommendation “a” on critical
+database access that only three senior level managerial employees have system
+administrator access to the AAVS database.
+Finding 7 by the Auditor:
+The DAT network was not adequately secured.
+SDAT Response: The Department concurs in the Auditor’s Finding/
+Recommendations and has taken the following actions.
+Recommendation “a” to configure its firewall and virtual private networks to a
+“least privilege” strategy.
+1. The Internet. SDAT has disconnected the line for the Image 1 server, and
+it is no longer used. This action was taken while the Auditor was here.
+2. AAVS Vendor. SDAT’s CIO has limited the access by this vendor to just
+a preview test server and not on the main database. The ports were limited
+to just this server.
+5
+
+--- Page 39 ---
+3. Virtual Private Networks (VPN). SDAT’s CIO has removed one VPN.
+The partner VPN is limited to use by the AAVS vendor to access the
+preview server.
+Recommendation “b” to modify network-based IDPS and firewall to send critical
+network to office to review by the IDPS module. We are in the process of
+ordering new equipment to allow review of all network traffic. The new
+equipment will be installed in July/August 2014, and it will be configured to
+address any of the concerns raised here by the Auditor.
+Recommendation “c” to review network security risks is addressed in finding 6
+and involves the hiring of a dedicated Security Officer employee performing these
+tasks exclusively.
+Recommendation “d” is to restrict remote access to the IDPS module only to
+those needing such access. Currently, the network based device only allow access
+by the CIO and Deputy Director. The new Security Officer will be granted
+access.
+Finding 8 by the Auditor:
+Malware protection on DAT workstations and servers need improvement.
+SDAT Response: The Department concurs in the Finding and provides the
+following information regarding the agency’s implementation of the Auditor’s
+Recommendations.
+Recommendation “a” to ensure all workstations/servers are configured with anti-
+malware software that is operating properly. SDAT’s response is that it did not
+have a new computer to use as a server for this Malware. With the new 2015
+budget, the Department will obtain a computer to use as a server for Malware, and
+then explore the capabilities and option for using the software to serve all of its
+computer workstations.
+Recommendation “b” to regularly confirm that anti-malware software and related
+definition files are properly updated. The new server will have software installed
+to regularly confirm updates on workstations and servers.
+Recommendation “c” to limit local administrative rights on user workstations to
+only necessary personnel. The Department is in the process of removing all
+administrator rights from all workstations. Currently, we have completed this
+project in five of the twenty-four Assessment offices.
+Finding 9 by the Auditor:
+An up-to-date and comprehensive disaster recovery plan did not exist.
+6
+
+--- Page 40 ---
+SDAT Response: The Department concurs in the Auditor’s Finding and
+Recommendation. Though we do have a disaster recovery plan in place, the
+agency’s IT Unit is in the process of updating our documentation, which will be
+annually maintained.
+Finding 10 by the Auditor:
+DAT did not adequately monitor certain contract billings.
+SDAT Response: The Department concurs in the Auditor’s Finding and will
+implement the three Recommendations. However, the Department must provide a
+fuller explanation as to what occurred regarding the two contract billings that are
+the subject of this Finding.
+The first contract billing involved a “lock box” service provided under a
+contract procured by the State Treasurer’s Office (STO). The Auditor notes that
+this condition was commented upon in the preceding audit period. The
+Department presented documentation to the Auditor in the Discussion Note period
+of earlier instances where the efforts by the agency’s accounting chief to get
+applicable rate information from the STO resulted in being ignored or being
+rebuffed by STO personnel administering the statewide lockbox contract. At the
+exit interview, the Department requested the Audit Manager to intercede on the
+Department’s behalf by providing directly to the STO the specific rate
+information for the period in question indicating an overcharge occurred and a
+refund was due for the year in question. Once that information is provided, the
+Department will complete the review of this billing.
+The second contract billing involves a contract for document imaging
+services. The Auditor is correct in noting that the Department did not maintain a
+monthly record of images scanned per month. The Department does perform a
+review of the annual reconciliation report on the total number of images scanned
+in the reporting period. The Auditor is incorrect in stating that the annual
+settlement had not occurred for the specific reporting period. The Department
+had instead directed the vendor to perform a new major imaging initiative to scan
+personal property tax returns and apply the end of year reconciliation amount as
+partial payment towards the cost of the new major imaging project. In the prior
+reporting period, the Department had received an $80,000 check payment from
+the vendor for the fewer scanned images provided under the contract.
+The Department has already required and the vendor has responded in
+revising the monthly invoice document so the agency can better monitor the
+number of documents imaged monthly for each of the separate departmental
+programs (Charter, Homestead, and Personal Property) using the imaging
+services.
+Finding 11 by the Auditor:
+Sufficient controls were not established over certain collections.
+7
+
+--- Page 41 ---
+SDAT Response: The Department concurs in the Auditor’s Finding and has
+already taken steps to implement the two Recommendations. The first
+Recommendation deals with a particular subset of cash/check collections. A
+major independent audit (including computer report verification) was performed
+by the Department on all collections in the cash receipts process for a period of
+time to verify the cash receipts entered into the MBES system with the daily
+deposit record. No discrepancies were found. Going forward, our lead
+accountant will perform a daily verification of all of the cash receipts entered into
+the MBES system and the daily deposit. Also, the cash register will be closed
+later so that all cash receipts will be entered into the system by Charter staff by
+the close of business for that day’s receipts and so that an exact reconciliation
+amount can be certified since cash receipts are no longer being received or
+processed after the cash register was closed.
+The Department is producing a new automated report on “no fee”
+transactions for copies of documents provided primarily to State and local
+government agencies. An independent supervisor will review on a test basis the
+appropriateness of the “no fee” status on the sampled transactions to determine if
+further review for more accounts is appropriate. That review will entail a
+matching of the “no fee” document and the request on the letterhead stationary of
+the office making the request. The review of the sampled accounts will be
+documented with the supervisor’s initials, the date it occurred, and an attachment
+of the letter request.
+8
+
+--- Page 42 ---
+AUDIT TEAM
+Adam J. Westover, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+John F. Nogel, CPA, CFE
+Senior Auditor
+R. Brendan Coffey, CPA, CISA
+Omar A. Gonzalez, CPA
+Information Systems Senior Auditors
+Michael D. Cheese
+Marissa L. Eby
+Evan E. Naugle
+LaTeasa R. Robertson
+Staff Auditors
+Matthew D. Walbert
+Information Systems Staff Auditor
