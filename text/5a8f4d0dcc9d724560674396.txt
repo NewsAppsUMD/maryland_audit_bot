@@ -1,0 +1,754 @@
+Title: University System of Maryland - Coppin State University
+Date: 03/04/2016
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d0dcc9d724560674396
+Extracted: 2025-06-17T14:21:58.141342
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+University System of Maryland
+Coppin State University
+March 2016
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Executive Summary 5
+Background Information 7
+Agency Responsibilities 7
+Status of Findings From Preceding Audit Report 7
+Findings and Recommendations 9
+Student Accounts and Financial Aid
+Finding 1 – CSU Did Not Establish Adequate Controls Over Student 9
+Residency Status Determinations
+* Finding 2 – CSU Lacked Controls to Ensure the Propriety of 10
+Financial Aid Posted to Student Accounts
+Informational Systems Security and Control
+Finding 3 – The CSU Internal Network Was Not Properly Secured 11
+Equipment
+* Finding 4 – Equipment Was Not Properly Controlled and 12
+Accounted For
+Cash Receipts
+Finding 5 – CSU Did Not Establish Sufficient Control Over Mail 14
+Collections
+Payroll
+Finding 6 – Payroll Adjustments Were Not Independently Reviewed and 14
+Approved and System Access Was Not Appropriate
+Contract Monitoring
+Finding 7 – Food Service Commission Payments Were Not 15
+Adequately Verified
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Audit Scope, Objectives, and Methodology 17
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Executive Summary
+Legislative Audit Report on University System of Maryland (USM)
+Coppin State University (CSU)
+March 2016
+ Student residency determinations were not independently reviewed for
+propriety. Proper residency status for each student is critical to ensure
+that the proper amount of tuition (in-state or out-of-state) is charged
+(Finding 1).
+CSU should require an independent review and approval of residency status
+determinations.
+ Adjustments to financial aid awards were not independently verified, and
+certain employees had inappropriate access to the automated financial
+aid records since they could both initiate the posting of financial aid in
+student accounts and release or disburse the aid (Finding 2).
+CSU should ensure that adjustments to financial aid awards are independently
+reviewed and approved, and that incompatible user capabilities are eliminated.
+ CSU’s computer network was not properly secured since numerous
+contractor accounts provided for unrestricted network level access to all
+of CSU’s administrative and student-related servers. Contractors are
+used by CSU to support certain computer systems and applications
+(Finding 3).
+CSU should ensure that contractors have only the system access they need to
+perform their job duties.
+ Equipment, which totaled approximately $17.8 million as of June 30,
+2014, was not accounted for and controlled as required by USM and CSU
+policies. For example, CSU did not properly maintain critical equipment
+records, and physical inventories of equipment were not taken as
+required (Finding 4).
+CSU should comply with USM and CSU equipment policies and procedures.
+ CSU did not establish sufficient control over mail collections, which
+totaled approximately $612,000 during the six-month period ending in
+June of 2014. (Finding 5).
+5
+
+--- Page 8 ---
+CSU should restrictively endorse checks immediately upon receipt and ensure
+that the initial record of collections is forwarded directly to the independent
+employee responsible for ensuring that all mail collections are processed.
+ Critical payroll and leave balance adjustments were not subject to a
+documented independent review and approval, and unnecessary system
+access capabilities were assigned (Finding 6).
+CSU should ensure that adjustments to payroll and leave balances are subject
+to a documented independent review and approval, and that system access
+capabilities are properly assigned.
+ CSU did not adequately verify commission payments from its food
+services contractor, which totaled approximately $367,000 in fiscal year
+2014. The contractor is required to pay CSU 15 percent of specified sales
+revenue. However, CSU did not verify sales reported by the contractor to
+available detailed sales reports (Finding 7).
+CSU should use available sales reports to verify the propriety of commission
+payments.
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities
+Coppin State University (CSU) is a comprehensive public institution of the
+University System of Maryland (USM) and operates under the jurisdiction of the
+USM’s Board of Regents. CSU provides a broad range of baccalaureate
+programs in both traditional arts and sciences, teacher education and nursing, as
+well as select professionally oriented graduate programs. Student enrollment for
+the spring 2015 semester totaled 3,066, consisting of 2,578 undergraduate
+students and 488 graduate students. Approximately 89 percent of CSU’s student
+enrollment for the spring 2015 semester was classified as in-state and 11 percent
+was out-of-state. CSU’s budget is funded by unrestricted revenues, such as
+tuition and fees and a State general fund appropriation, and restricted revenues,
+such as federal grants and contracts. According to the State’s accounting records,
+CSU’s revenues for fiscal year 2015 totaled approximately $106.6 million,
+including a State general fund appropriation of approximately $42.3 million.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the 12 findings contained in
+our preceding audit report dated November 18, 2013. We determined that CSU
+satisfactorily addressed 10 of the findings. The remaining 2 findings are repeated
+in this report.
+7
+
+--- Page 10 ---
+8
+
+--- Page 11 ---
+Findings and Recommendations
+Student Accounts and Financial Aid
+Finding 1
+Coppin State University (CSU) did not establish adequate controls over
+student residency status determinations.
+Analysis
+Student residency status determinations were not independently reviewed for
+propriety. Although output reports of residency status determinations recorded in
+CSU’s automated records were generated for subsequent review, the two
+employees responsible for performing the reviews were also responsible for
+making residency determinations and submitting them for recording in the
+automated system. As a result, improper residency status determinations could be
+recorded without being readily detected.
+The University System of Maryland’s (USM) Board of Regents Policy on Student
+Classification for Admission and Tuition Purposes states that an individual
+seeking in-state status shall have the burden of providing clear and convincing
+evidence that he or she satisfies the requirements and standards set forth in the
+Policy. Accurate student residency determinations are critical because of the
+significant differences between in-state and out-of-state student tuition rates. For
+example, full-time undergraduate tuition and fee charges for the Spring 2015
+semester totaled $3,312 for Maryland residents and $5,942 for nonresidents. CSU
+records all students as out-of-state upon admission and adjusts residency status to
+in-state for those students who are eligible. According to CSU’s records, there
+were approximately 900 residency status changes from out-of-state to in-state
+processed during fiscal year 2014.
+Recommendation 1
+We recommend that CSU establish procedures requiring a documented
+independent review, at least on a test basis, of in-state residency
+determinations recorded in its automated system to ensure that the residency
+status was proper.
+9
+
+--- Page 12 ---
+Finding 2
+CSU had not established proper controls over financial aid posted to student
+accounts.
+Analysis
+Internal controls were not sufficient to ensure the propriety of financial aid posted
+to student accounts. According to CSU’s records, during fiscal year 2014,
+financial aid awarded to students, including grants and scholarships, totaled
+approximately $31.1 million.
+ Adjustments to financial aid award amounts were not independently verified
+for propriety. CSU’s system automatically calculates award amounts and
+generates recommended financial aid award packages for students based on
+various eligibility criteria. CSU employees may manually record adjustments
+to those award amounts based on individual student situations, such as when a
+student drops classes and may no longer be eligible for the original award
+amount. However, our review disclosed that these adjustments were not
+subject to supervisory review and approval to ensure their propriety.
+ Three employees had system access capabilities that allowed them to
+manually initiate the recordation of financial aid in student accounts, as well
+as to release (disburse) the aid with no further system approval requirements.
+Similar conditions were commented upon in our preceding audit report.
+Recommendation 2
+We recommend that CSU
+a. establish procedures to ensure that financial aid award adjustments are
+reviewed and approved by supervisory personnel based on a review of
+supporting documentation (repeat); and
+b. eliminate incompatible user capabilities so that the same individual
+cannot initiate the recordation of financial aid and release (disburse) the
+aid (repeat).
+10
+
+--- Page 13 ---
+Information Systems Security and Control
+Background
+CSU’s Information Technology Division provides information systems support to
+CSU through the operation and maintenance of campus-wide administrative
+applications, such as the student administration/human resources and the
+financials systems. The Division also operates an integrated administrative and
+academic computer network, which provides connections to multiple servers used
+for administrative applications and related databases. The campus network also
+includes separate file servers, Internet connectivity, and a pair of redundant
+perimeter firewalls. In addition, CSU connects to the Maryland Research and
+Education Network for Internet access and to send and receive data to and from
+other USM institutions.
+Finding 3
+The CSU internal network was not properly secured.
+Analysis
+The CSU internal network was not properly secured. Specifically, we noted the
+following conditions:
+ Contractors had unnecessary network level access to the CSU network,
+placing various devices at risk. CSU utilized contractors to remotely support
+certain CSU systems and applications. Our analysis, performed during June
+2015, determined that there were 14 contractor accounts defined to the CSU
+domain that had unrestricted network level access to all of CSU’s
+administrative and student-related servers and to three additional network
+segments containing numerous network devices. These contractors worked
+remotely via a virtual private network connection to the CSU network. We
+were advised by CSU personnel that these contractors should only have
+network level access to specified devices (for example, servers specifically
+related to their projects). However, these contractors had unnecessary
+network level access to numerous other critical CSU devices (for example
+unrelated servers and workstations). The USM IT Security Standards Version
+3.0 mandates that institutions implement authentication and authorization
+processes that uniquely identify all users and appropriately control access to
+systems.
+ Authentication controls over administrative access to CSU’s two perimeter
+firewalls were inadequate because password requirements for length,
+complexity, age, and history were not enforced. The firewalls performed the
+authentication of users attempting to administer the firewalls. The USM IT
+11
+
+--- Page 14 ---
+Security Standards identify specific requirements for password length,
+complexity, age, and history, and state that institutions shall follow strong
+password characteristics and management practices, requiring users to adhere
+to institutional usage, construction, and change requirements.
+Recommendation 3
+We recommend that CSU
+a. restrict each contractor’s network level access to only those devices that
+each contractor needs to access, and
+b. ensure that its firewalls’ authentication and password control settings
+comply with the minimum standards required by the USM IT Security
+Standards.
+Equipment
+Finding 4
+CSU did not establish adequate procedures to account for and control its
+equipment inventory.
+Analysis
+CSU did not establish adequate procedures to account for and control its
+equipment inventory in accordance with USM and CSU policies. According to
+CSU’s records, equipment totaled approximately $17.8 million as of June 30,
+2014.
+ An equipment control account was not maintained. A control account should
+be maintained as a continuous summary of transactions and to serve as a total
+dollar value control over amounts included in the detail records.
+ CSU did not adequately account for equipment, including sporting and audio-
+visual items, in its Physical Education Complex by properly tagging and
+recording the equipment in its records. During our preceding audit, CSU
+advised us that these procedures had not been performed because this
+equipment had been purchased with State capital funds under the oversight of
+the Maryland Stadium Authority (MSA). At that time, CSU provided us with
+a listing of expenditures totaling approximately $8.5 million that CSU claimed
+were equipment items in the Complex; however, that list lacked specificity,
+such as the identification of individual pieces of equipment. We were advised
+by CSU management that, as of February 2015, they had not identified in their
+detail records the equipment items in the Complex, and had not placed
+equipment tags on the items to identify them as State property. Regardless of
+12
+
+--- Page 15 ---
+the original source of funding, the equipment is in the custody of CSU and
+should be properly accounted for.
+ CSU did not conduct physical inventories of equipment as required. As of
+February 2015, CSU had not conducted a physical inventory of all sensitive
+and non-sensitive equipment during our current or preceding audit periods,
+and was not able to determine when the last inventory was taken.
+ In addition to the aforementioned equipment in the Physical Education
+Complex, our test of 11 items from the detailed equipment listings and
+purchase records noted that 6 of these items had not been tagged with a unique
+tag number or otherwise identified as State property. Furthermore, our test of
+nine sensitive computer-related items (including tablets and laptop computers)
+totaling approximately $9,000 purchased during our audit period disclosed
+that seven items totaling $5,600 had not been recorded in CSU’s detail records
+as of February 2015.
+Similar conditions regarding a lack of adequate procedures and controls over
+equipment were commented upon in our preceding audit report. USM’s Board of
+Regents Policy for Capitalization and Inventory Control sets guidelines for the
+minimal level of control for equipment and requires institutions to establish a set
+of formal written policies. Additionally, the Policy indicates that equipment
+inventory records should include any items of equipment for which the institution
+is the custodian. The Policy also requires that complete physical inventories be
+performed and reconciled to the related records at least biennially. CSU’s Policy
+on Capitalization and Inventory Control requires that inventory be tagged and
+records maintained for sensitive equipment items with a cost of $300 or more, for
+all computers, and for other equipment with a value over $5,000.
+Recommendation 4
+We recommend that CSU
+a. establish a control account and periodically reconcile the account to the
+corresponding detail records (repeat);
+b. ensure that all equipment purchases, as well as the aforementioned items
+purchased through MSA, are properly recorded in the detail records
+(repeat);
+c. perform documented periodic physical inventories of equipment items,
+reconcile the results to the related detail records, and investigate any
+missing or unaccounted for items (repeat); and
+d. ensure that equipment items are tagged with a unique property tag
+number identifying the items as State property.
+13
+
+--- Page 16 ---
+Cash Receipts
+Finding 5
+CSU did not establish sufficient control over mail collections.
+Analysis
+CSU did not establish sufficient control over mail collections that, according to
+CSU’s records, totaled $612,000 over a six-month period in fiscal year 2014.
+Specifically, checks received in the mail by the Bursar’s Office were not
+immediately restrictively endorsed for deposit only. Rather, the checks were
+endorsed after they were received by the cashier’s office and recorded on CSU’s
+automated cash register system. Furthermore, the initial record of mail
+collections was not forwarded to the employee responsible for verifying all
+collections received had been recorded in the cash register system. Instead, the
+documents, along with the mail collections, were first given to other employees
+for processing. Consequently, the initial record of collections could be altered to
+conceal a misappropriation of the collections prior to recording on the cash
+register system.
+Recommendation 5
+We recommend that CSU
+a. restrictively endorse checks immediately upon receipt; and
+b. ensure that the employees who prepare the initial record of collections
+forward the record, or a copy of the record, directly to the independent
+employee responsible for verifying that collections received in the mail
+were processed in the automated cash register system.
+Payroll
+Finding 6
+CSU did not ensure that adequate controls existed over the recordation of
+critical payroll transactions and that employee access to record transactions
+was appropriate.
+Analysis
+CSU did not ensure that adequate controls existed over the recordation of critical
+payroll transactions and that employee access to record transactions was
+appropriate.
+14
+
+--- Page 17 ---
+ Four employees had system access to process payroll adjustments, such as to
+add new employees and change pay rates, without adequate supervisory
+review and approval. Although an output report of adjustments processed was
+generated for purposes of supervisory review, our test of 10 adjustments
+processed during October and November 2014 noted that there was no
+documentation that 7 of these adjustments had been reviewed. Furthermore,
+one of these four employees was responsible for approving certain
+adjustments, such as accumulated leave payouts for terminated employees.
+ Eight employees could modify employee leave balances, including their own,
+and these leave adjustments were not subject to independent supervisory
+review. Furthermore, six of these employees did not require this access.
+According to industry best practices, as described by the State of Maryland
+Information Security Policy Access Control Requirements, system access should
+be limited to the appropriate authorized individuals and be properly controlled.
+According to the State’s records, during fiscal year 2014, CSU’s payroll
+expenditures totaled approximately $38.7 million.
+Recommendation 6
+We recommend that CSU
+a. ensure that adjustments to payroll and leave balances are subject to a
+documented independent review and approval; and
+b. assign system access capabilities only to those employees who require
+such capabilities to perform their job duties, and remove the
+aforementioned unnecessary access capabilities.
+Contract Monitoring
+Finding 7
+CSU did not adequately verify commissions received from its food services
+vendor.
+Analysis
+CSU did not adequately verify commissions received from the vendor contracted
+to manage its food services operations. CSU’s food services contract required the
+vendor to pay commissions to CSU totaling 15 percent of the vendor’s annual
+board, retail, and external catering sales revenue or $350,000, whichever was
+greater. However, CSU did not verify sales amounts reported by the vendor to
+detailed sales reports to help ensure the propriety of commission payments
+received. Our review of five commission payments during fiscal years 2014 and
+15
+
+--- Page 18 ---
+2015 totaling approximately $335,000 disclosed that CSU did not verify the
+reported sales totals. During fiscal year 2014, commissions received from the
+vendor by CSU totaled approximately $367,000.
+Recommendation 7
+We recommend that CSU verify commission payments for propriety by
+comparing gross sales upon which the commission payments are based to
+detailed sales reports.
+16
+
+--- Page 19 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the University System of
+Maryland (USM) – Coppin State University (CSU) for the period beginning
+March 27, 2012 and ending November 19, 2014. The audit was conducted in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine CSU’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included purchases and disbursements, student accounts
+receivable, cash receipts, information systems security and control, payroll,
+student financial aid, corporate purchasing cards, and equipment. We also
+determined the status of the findings included in our preceding audit report.
+Our audit did not include certain support services (such as endowment accounting
+and bond financing) provided to CSU by the USM Office. These support services
+are included within the scope of our audit of the USM Office. In addition, our
+audit did not include an evaluation of internal controls over compliance with
+federal laws and regulations for federal financial assistance programs and an
+assessment of CSU’s compliance with those laws and regulations because the
+State of Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including CSU.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+CSU’s operations, and tests of transactions. Generally, transactions were selected
+for testing based on auditor judgment, which primarily considers risk. Unless
+otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+17
+
+--- Page 20 ---
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+various sources were sufficiently reliable for the purposes the data were used
+during this audit. We also extracted data from CSU’s financial system for the
+purpose of testing certain areas, such as student accounts receivable and financial
+aid. We performed various tests of the relevant data and determined that the data
+were sufficiently reliable for the purposes the data were used during the audit.
+Finally, we performed other auditing procedures that we considered necessary to
+achieve our audit objectives. The reliability of data used in this report for
+background or informational purposes was not assessed.
+CSU’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings related to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect CSU’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to CSU that did not warrant inclusion in this report.
+18
+
+--- Page 21 ---
+The response from the USM Office, on behalf of CSU, to our findings and
+recommendations is included as an appendix to this report. As prescribed in the
+State Government Article, Section 2-1224 of the Annotated Code of Maryland,
+we will advise the USM Office regarding the results of our review of its response.
+19
+
+--- Page 23 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+COPPIN STATE UNIVERSITY
+MARCH 27, 2012 TO NOVEMBER 19, 2014
+Student Accounts and Financial Aid
+Finding 1
+Coppin State University (CSU) did not establish adequate controls over
+student residency status determinations.
+Recommendation 1
+We recommend that CSU establish procedures requiring a documented
+independent review, at least on a test basis, of in-state residency
+determinations recorded in its automated system to ensure that the residency
+status was proper.
+University response
+The University agrees with these recommendations.
+CSU is compliant with implementing and conducting independent review of a
+10% sample size (new student undergraduates). The following procedures have
+been implemented to address the issue of independent review of residency
+determinations:
+The Vice President for Enrollment Management is responsible for evaluating new
+student residency determinations as indicated by reporting from the Office of
+Information Technology (OIT) identifying cyclical entry of residency coding for
+students. Currently, the position of Vice President for Enrollment Management is
+vacant and the university is undergoing a hiring search. In the interim, until the
+position of Vice President for Enrollment Management is filled, the Residency
+Coordinator will be performing this function.
+The Vice President for Enrollment Management (the Residency Coordinator in
+the interim), receives the OIT report and use indicators (source office/personnel,
+effective dates in the system, term of entry for student) to qualify the residency
+determination.
+The Vice President for Enrollment Management, Residency Coordinator in the
+interim, researches and documents for department attributed students’ the
+justifications for residency coding changes (e.g. submission of residency
+information form & supporting evidence, Residency Appeals Petition, etc.)
+making notation within the Residency (Audit) Changes Report to verify the
+determination.
+
+--- Page 24 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+COPPIN STATE UNIVERSITY
+MARCH 27, 2012 TO NOVEMBER 19, 2014
+Finding 2
+CSU had not established proper controls over financial aid posted to student
+accounts.
+Recommendation 2
+We recommend that CSU
+a. establish procedures to ensure that financial aid award adjustments are
+reviewed and approved by supervisory personnel based on a review of
+supporting documentation (repeat); and
+b. eliminate incompatible user capabilities so that the same individual
+cannot initiate the recordation of financial aid and release (disburse) the
+aid (repeat).
+University response
+The University agrees with these recommendations and has implemented the
+following corrective actions:
+a. With respect to Pell Awards, an Information System program that is already
+available was utilized beginning in the Fall (2015) to adjust individual Pell
+Awards to the “enrollment status” – i.e., credit load – of each student. An
+exception report has been developed to identify all non-Pell award
+adjustments. This report is reviewed and approved on a monthly basis. Hard
+copies of the report will be signed off as documentation of the review and
+approval process.
+b. Electronic packaging is a batch process without manual intervention.
+Accordingly, there is no meaningful separation between the initiation and
+release of the resulting aid packages. An exception report has been developed
+to identify all Cost of Attendance reviewed and approved adjustments. This
+process is completed on monthly basis by the Director of Financial Aid.
+Currently, the Associate Director of Financial Aid is serving as the Interim
+Director of Financial Aid until a new permanent Director is identified.
+Information Systems Security and Control
+Finding 3
+The CSU internal network was not properly secured.
+
+--- Page 25 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+COPPIN STATE UNIVERSITY
+MARCH 27, 2012 TO NOVEMBER 19, 2014
+Recommendation 3
+We recommend that CSU
+a. restrict each contractor’s network level access to only those devices that
+each contractor needs to access, and
+b. ensure that its firewalls’ authentication and password control settings
+comply with the minimum standards required by the USM IT Security
+Standards.
+University response
+The University agrees with these recommendations and has implemented the
+following corrective actions:
+a. Vendor access was already restricted at two levels: the server level and the
+application level. Per the recommendation, CSU will add the network level
+restrictions as well.
+b. CSU currently uses the password standards on individual accounts as required
+for monitoring account activity. The password currently used on firewalls by
+the network staff uses the CSU password complexity scheme. Also, the
+firewall can only be accessed from certain servers on the network which has
+the CSU password complexity. Per the recommendation, CSU has enabled the
+password control settings on the firewall.
+Equipment
+Finding 4
+CSU did not establish adequate procedures to account for and control its
+equipment inventory.
+Recommendation 4
+We recommend that CSU
+a. establish a control account and periodically reconcile the account to the
+corresponding detail records (repeat);
+b. ensure that all equipment purchases, as well as the aforementioned items
+purchased through MSA, are properly recorded in the detail records
+(repeat);
+c. perform documented periodic physical inventories of equipment items,
+reconcile the results to the related detail records, and investigate any
+missing or unaccounted for items (repeat); and
+
+--- Page 26 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+COPPIN STATE UNIVERSITY
+MARCH 27, 2012 TO NOVEMBER 19, 2014
+d. ensure that equipment items are tagged with a unique property tag
+number identifying the items as State property.
+University response
+The University agrees with these recommendations and has implemented the
+following corrective actions:
+a. In March 2015 the University brought online an Asset Management
+System (AMS). All capital and sensitive equipment assets are currently
+being recorded in the AMS by the Controller’s Office Fixed Asset
+Accountant. Control accounts have been established in the general ledger.
+Asset transactions recorded in AMS are imported into the general ledger
+monthly. The general ledger control accounts and AMS totals are
+reconciled as part of the month-end close process.
+b. At March 31, 2015 the Controller’s office began loading into the AMS
+equipment located and tagged from the physical inventory process.
+Additionally, newly purchased capital equipment items are entered into
+AMS central detailed records on a monthly basis. The remaining work to
+be completed includes the breakout of MSA purchased equipment cost
+initially included in building cost for the Physical Education Complex
+(PEC) and Health and Human Services Building (HHSB) and the process
+to locate and tag the equipment. Recent changes in staffing have resulted
+in delays in efforts to complete this process. Estimated completion time
+which includes training new staff on Asset Management System is August
+2016.
+c. Procedures established in the implementation of the AMS include an
+annual inventory of recorded and tagged equipment. The first annual
+inventory is scheduled to begin in June 2016.
+d. The University implemented an equipment inventory process (February
+2015) which includes University property tags with a unique number
+system and color coded for capital (blue) and sensitive (red) equipment.
+
+--- Page 27 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+COPPIN STATE UNIVERSITY
+MARCH 27, 2012 TO NOVEMBER 19, 2014
+Cash Receipts
+Finding 5
+CSU did not establish sufficient control over mail collections.
+Recommendation 5
+We recommend that CSU
+a. restrictively endorse checks immediately upon receipt; and
+b. ensure that the employees who prepare the initial record of collections
+forward the record, or a copy of the record, directly to the independent
+employee responsible for verifying that collections received in the mail
+were processed in the automated cash register system.
+University response
+a. Procedures implemented immediately upon discussion with OLA (February
+2015), require the staff person responsible for the money mail log to use a
+restrictive endorsement stamp for checks received in the mail at time of
+receipt and recording on the money mail log.
+b. Procedures implemented immediately upon discussion with OLA (February
+2015), require the staff person responsible for the money mail log to provide a
+copy of the original log directly to the person performing verification
+procedures.
+Payroll
+Finding 6
+CSU did not ensure that adequate controls existed over the recordation of
+critical payroll transactions and that employee access to record transactions
+was appropriate.
+Recommendation 6
+We recommend that CSU
+a. ensure that adjustments to payroll and leave balances are subject to a
+documented independent review and approval; and
+
+--- Page 28 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+COPPIN STATE UNIVERSITY
+MARCH 27, 2012 TO NOVEMBER 19, 2014
+b. assign system access capabilities only to those employees who require
+such capabilities to perform their job duties, and remove the
+aforementioned unnecessary access capabilities.
+University response
+a. The University agrees to improve documentation of “independent review”
+(which may not be equivalent to “supervisory approval”) of adjustments to
+payroll. The root cause of these shortcomings was due to inadequate staffing
+levels. These issues were addressed by modifying the business processes
+within the payroll function. In addition, access for the Training Specialist has
+been adjusted to “view only,” and access for Assistant Vice President for
+Human Resources was adjusted to “approve only”.
+b. The University agrees with this recommendation and has taken, or will take,
+the following actions: On February 27, 2015 the HR system was changed to
+prevent anyone from being able to modify and approve his/her own leave
+record. Of the seven employees cited as not requiring the capability to modify
+leave records, the Junior Human Resources Information Systems Analyst does
+need to retain this access. This position is the back-up to Human Resources
+Information System Manager. However, a process for independent review of
+leave adjustments was implemented on August 1, 2015. Redesign of the
+security roles of the other six employees is underway and will be completed
+by March 31, 2016.
+Contract Monitoring
+Finding 7
+CSU did not adequately verify commissions received from its food services
+vendor.
+Recommendation 7
+We recommend that CSU verify commission payments for propriety by
+comparing gross sales upon which the commission payments are based to
+detailed sales reports.
+
+--- Page 29 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+COPPIN STATE UNIVERSITY
+MARCH 27, 2012 TO NOVEMBER 19, 2014
+University response
+In January 2015, the Director of Auxiliary Services was terminated and the
+Department was reorganized. Contract Management was moved to the Office of
+Procurement Services, and functional management of Dining and Housing was
+moved to Student Affairs. In response to the OLA examination of these matters,
+the Contract Manager implemented a procedure of verifying Commission
+payments by comparing detailed sales records to gross sales amounts used to
+calculate the Commissions.
+
+--- Page 30 ---
+A T
+UDIT EAM
+Mark S. Hagenbuch, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+Robert A. Wells, CPA
+Senior Auditor
+Michael K. Bliss, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Senior Auditors
+Jaime A. DeWitt, CPA
+Charles F. Drasher, III
+Reni V. Lazova
+Staff Auditors
+Edward O. Kendall
+Matthew D. Walbert
+Information Systems Staff Auditors
