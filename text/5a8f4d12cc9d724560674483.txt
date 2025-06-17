@@ -1,0 +1,1588 @@
+Title: Maryland Insurance Administration
+Date: 11/20/2014
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d12cc9d724560674483
+Extracted: 2025-06-17T19:00:27.226795
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Insurance Administration
+November 2014
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+ This report and any related follow-up correspondence are available to the public through the
+Office of Legislative Audits at 301 W. Preston Street, Room 1202, Baltimore, Maryland
+21201. The Office may be contacted by telephone at 410-946-5900, 301-970-5900, or 1-877-
+486-9964.
+ Electronic copies of our audit reports can be viewed or downloaded from our website at
+http://www.ola.state.md.us.
+ Alternate formats may be requested through the Maryland Relay Service at 1-800-735-2258.
+ The Department of Legislative Services – Office of the Executive Director, 90 State Circle,
+Annapolis, Maryland 21401 can also assist you in obtaining copies of our reports and related
+correspondence. The Department may be contacted by telephone at 410 946-5400 or 301
+970-5400.
+
+--- Page 5 ---
+Table of Contents
+Executive Summary 5
+Background Information 7
+Agency Responsibilities 7
+Status of Findings From Preceding Audit Report 7
+Findings and Recommendations 9
+Premium Tax System
+Finding 1 – The Procurement of a New Premium Tax System Did Not 9
+Comply With State Procurement Regulations and the Project Was Not
+Adequately Planned
+Finding 2 – An MIA Management Employee Exercised Excessive Control 12
+Over the Premium Tax System Procurement and Implementation
+* Finding 3 – The Premium Tax System Was Not Properly Secured and a 14
+Contractor Had Complete Control Over the System
+Finding 4 – MIA Lacked Assurance That the Premium Tax System Was 15
+Properly Protected From External Threats and Unauthorized Changes
+Administration of Premium Tax Filings
+Finding 5 – MIA Had Not Established Adequate Controls Over Audits of 18
+Premium Tax Filings and a Number of Errors Were Detected
+Finding 6 – Procedures Were Not Sufficient to Ensure Certain Premium 20
+Tax Payments Were Received Timely
+Finding 7 – MIA Had Not Established Proper Controls Over Premium Tax 21
+Refunds
+* Finding 8 – MIA Did Not Reconcile its Records of Premium Tax Revenues 22
+With the Corresponding State Accounting Records
+Financial Examination Services
+Finding 9 – Sufficient Controls Were Not Established Over Financial 24
+Examination Services Task Order Awards and Modifications
+Cash Receipts
+* Finding 10 – MIA Lacked Accountability and Control Over Certain 26
+Cash Receipts
+* Denotes items repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Producer Licensing
+Finding 11 – Sufficient Controls Were Not Established For the 27
+Issuance of Producer Licenses
+* Finding 12 – MIA Lacked Assurance That Producer Licensing and 28
+Pre-Licensing Services Systems Were Protected Against Operational
+and Security Risks
+Purchases and Disbursements
+Finding 13 – Proper Internal Controls Were Not Established Over 30
+Purchases and Disbursement Transactions
+Information Systems Network
+Finding 14 – Administrative Access to MIA’s Network Was Excessive 31
+Audit Scope, Objectives, and Methodology 33
+Agency Response Appendix
+* Denotes items repeated in full or part from preceding audit report
+4
+
+--- Page 7 ---
+Executive Summary
+Legislative Audit Report on the
+Maryland Insurance Administration (MIA)
+November 2014
+As a result of our audit, we determined that MIA’s accountability and compliance
+level was unsatisfactory, in accordance with the rating system we established in
+conformity with State law.
+ The procurement of the new automated premium tax system did not
+comply with State procurement regulations governing competitive
+procurements and contract modifications. In addition, the system
+development and implementation proceeded without a plan and related
+specifications. While the new system provided certain new capabilities,
+other capabilities that were available in the former system were lost,
+which had adversely impacted operations (Finding 1). Furthermore, an
+MIA management employee exercised control over virtually all aspects of
+the procurement and implementation of the new premium tax system
+(Finding 2). MIA collected premium taxes totaling $458 million during
+fiscal year 2014.
+MIA should ensure that future procurements comply with State procurement
+regulations; develop a comprehensive plan prior to system development
+including required functionality and cost estimates; and separate the
+procurement, contract monitoring, and invoice approval functions.
+ The premium tax system was not properly secured to restrict and control
+access. The premium tax system contractor had complete control over
+the system and unnecessary access to the remainder of the MIA network
+(Finding 3). In addition, MIA lacked assurance that the premium tax
+system was properly secured and configured to protect it from external
+threats and unauthorized changes (Finding 4).
+MIA should restrict access to the premium tax system, including the access
+provided to the contractor. MIA should also periodically obtain security
+vulnerability assessments and securely configure its servers and applications.
+5
+
+--- Page 8 ---
+ MIA had not established adequate controls over audits of premium tax
+filings, including a lack of independent supervisory review of audit
+results. Our tests of the results for 43 audits disclosed inaccuracies or
+documentation deficiencies with 11 audits, with premium tax payments
+totaling $50.9 million, including the issuance of a duplicate account credit
+and failure to assess penalties and interest (Finding 5). In addition,
+procedures were not sufficient to ensure certain tax payments were
+received timely. Consequently, penalties and interest were not always
+assessed for late payments (Finding 6).
+MIA should establish controls to ensure premium tax audits are properly
+completed and that penalties and interest are assessed, as applicable.
+ MIA had not established proper internal controls over premium tax
+refunds. For example, certain refunds were approved and authorized for
+payment by the same supervisory employee and some refunds appeared
+to be duplicates (Finding 7). In addition, MIA did not reconcile its
+records of premium tax revenues with the corresponding State
+accounting records (Finding 8).
+MIA should establish controls to ensure independent supervisory personnel
+are responsible for approving refunds. In addition, MIA should reconcile its
+premium tax records with the corresponding State records.
+ Sufficient controls were not established for the issuance of producer
+licenses (Finding 11). MIA also lacked assurance that the outsourced
+producer and pre-licensing services systems were protected against
+operational and security risks (Finding 12).
+MIA should take the recommended actions to ensure the propriety of
+transactions recorded in the producer licensing system. In addition, MIA
+should seek to amend existing agreements to require service providers to
+obtain independent security assurance reports.
+ Effective controls were not established over financial examination
+services, cash receipts, purchases and disbursements, and IT network
+access (Findings 9, 10, 13, and 14).
+MIA should ensure that appropriate controls are established and followed.
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities
+The Maryland Insurance Administration (MIA) operates under the authority of the
+Insurance Article, Title 2, of the Annotated Code of Maryland. MIA is
+responsible for licensing and regulating insurers, insurance agents, and brokers
+who conduct business in the State, and for monitoring the financial solvency of
+licensed insurers. MIA is also responsible for collecting taxes levied on all
+premiums collected by insurance companies within the State. According to
+MIA’s records, as of June 30, 2014, there were 1,723 insurers authorized to
+conduct business in the State. MIA’s records also indicated that direct premiums
+written by domestic and foreign companies operating in Maryland in calendar
+year 2014 totaled $29.4 billion.
+According to the State’s records, during fiscal year 2014 MIA’s revenues totaled
+$489 million, including $458 million of premium taxes, and its expenditures
+totaled $29 million. As required by State law, MIA transferred $338 million in
+revenue to the State’s General Fund, $123 million to the Maryland Health Care
+Rate Stabilization Fund, and $28 million to the State’s Insurance Regulation Fund
+in fiscal year 2014.
+As the State’s insurance regulator, MIA is responsible for overseeing and
+enforcing many of the requirements under the Patient Protection and Affordable
+Care Act (ACA). The federal ACA, as amended by the federal Health Care and
+Education Reconciliation Act of 2010, seeks to increase health insurance quality,
+reduce costs to individuals and the government, and lower the number of
+uninsured individuals by expanding public and private coverage options. During
+fiscal year 2013, MIA dedicated staff resources to the contract form and premium
+rate review of health insurance policies that are offered on the Maryland Health
+Benefit Exchange.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of seven findings contained in
+our preceding audit report dated June 22, 2011. We determined that MIA
+satisfactorily addressed three of the findings. The remaining four findings are
+repeated in this report.
+7
+
+--- Page 10 ---
+8
+
+--- Page 11 ---
+Findings and Recommendations
+Premium Tax System
+Background
+The Insurance Article of the Annotated Code of Maryland generally provides for
+the imposition of an annual tax on insurance companies for premiums derived
+from insurance business transacted in the State. According to Maryland Insurance
+Administration (MIA) records, premium taxes collected totaled approximately
+$458 million during fiscal year 2014. Insurance companies are required to make
+estimated tax payments at specific intervals (quarterly) throughout the calendar
+year. By March 15 of each year, insurance companies are required to file a final
+tax return reporting premiums written during the preceding calendar year and
+remit any remaining premium taxes due to the State. Insurance companies that do
+not submit premium taxes by the due date are subject to interest charges and
+penalties in accordance with State law. Both the premium taxes and related
+interest and penalties are subject to subsequent audit by MIA.
+For many years, MIA used a legacy premium tax system to record premium taxes
+reported by insurance companies on quarterly tax declaration forms and final
+returns that were mailed to MIA, along with their payments. In 2011, MIA’s
+information technology (IT) staff began in-house development of a new system to
+provide additional automated capabilities, including allowing insurance
+companies to file the required tax declarations electronically and make statutorily
+required payments online. This in-house project was subsequently abandoned
+and, in February 2012, MIA implemented a new automated system created by a
+contractor under an agreement with MIA.
+Finding 1
+The procurement of the new premium tax system did not comply with State
+procurement regulations and the project was not adequately planned.
+Analysis
+MIA did not comply with State procurement regulations and did not exercise
+appropriate oversight when obtaining IT consultant services pertaining to the
+replacement of its legacy premium tax system. Specifically, in September 2011,
+MIA conducted an improper procurement process to hire a contractor to assist its
+IT staff with the in-house development of a new premium tax system.
+Furthermore, when the subsequent decision was made to abandon this project,
+MIA significantly changed the scope of the contractor’s services without initiating
+a new competitive procurement process. The change required the same contractor
+to solely implement an entirely new proprietary premium tax system – a project
+that proceeded without the benefit of a project plan with related specifications and
+9
+
+--- Page 12 ---
+cost estimates. While the new system had additional capabilities to allow
+insurance companies to electronically file the required tax forms and make
+statutorily required payments online, other capabilities that were available in the
+former legacy system were lost, which had adversely impacted operations. As of
+April 2014, MIA’s contracts with this IT contractor were valued at approximately
+$221,000 and related payments totaled $210,300.
+Improper Procurement of IT Consulting Services
+MIA did not follow State procurement regulations when it solicited IT consulting
+services in September 2011 to create an online payment feature for the new
+premium tax system under development by MIA’s IT staff. This would allow
+insurance companies to pay premium taxes through a web-based portal. Our
+review of the procurement process disclosed that the request for proposals did not
+identify the technical requirements and their relative importance for bid
+evaluation purposes, as required by regulations. MIA received two bids,
+including one from the aforementioned contractor. This contractor was
+subsequently awarded the contract even though two of the three employees who
+conducted the bid evaluations gave a higher rating to the unsuccessful bidder.
+The unsuccessful bidder also offered a lower hourly rate ($68 per hour versus $95
+per hour). Furthermore, although both of those evaluators (who were MIA IT
+employees) indicated that neither bidder was technically qualified, the contract
+was awarded to the lower-rated and higher-cost bidder for $25,000 without any
+documentation explaining the basis for the decision or the award amount as
+required by regulations. Since the contract did not exceed $25,000, it was not
+subject to approval by the Department of Information Technology (DoIT).
+Failure to Initiate New Procurement after Significant Scope Change
+Shortly after the award, MIA decided to significantly change the scope of the
+contractor’s services instead of soliciting a new procurement. Specifically, the
+contractor was directed to implement a new premium tax system using an
+insurance tax program developed and owned by the contractor and implemented
+in one other state. MIA advised that this decision was made because its internal
+premium tax system development project was not progressing, and the
+management employee overseeing the project was familiar with the contractor’s
+product, having previously worked for this other state’s insurance commissioner
+during the system’s implementation. This decision was made despite the
+availability of other existing software applications, including one endorsed by the
+National Association of Insurance Commissioners. In addition, although the
+original procurement amount was increased, the change in scope was never
+documented or approved.
+10
+
+--- Page 13 ---
+Lack of Formal Project Planning
+A comprehensive development and implementation plan was not prepared for this
+new premium tax system, which became operational in February 2012 with basic
+functionality. Specifically, at the start of the project, MIA did not prepare
+documentation to outline the required system capabilities and features, including
+security safeguards, and did not establish maximum cost thresholds or deliverable
+dates. Consequently, MIA lacked assurance that the product would meet
+functionality requirements, including DoIT security requirements, and would
+facilitate its existing business operations. This may have contributed to a number
+of additional tasks and costs that were added to the project at various times over
+the 22 months following February 2012. While the system did enable insurance
+companies to report and pay taxes online, certain other capabilities of the former
+system were not implemented until 2013 or not at all. In our opinion, the
+implementation of the new premium tax system adversely affected operations and
+security controls as commented upon in Findings 3 and 5. For example, the
+capability of the previous system to automatically audit the premium tax
+information and to calculate amounts due based on prior year overpayments was
+lost.
+Lack of Approval for Contract Modifications
+MIA did not always justify and/or obtain appropriate approvals for related
+contract modifications. After the initial contract was executed for $25,000, two
+modifications totaling $24,940 were executed without justification for the
+modification and without seeking DoIT approval, which was required once the
+contract value exceeded $25,000. After system installation and payment of the
+aforementioned $49,940, MIA entered into a sole source contract for $42,750
+with the contractor to continue the implementation, which was approved by DoIT.
+While certain modifications to this sole source contract were approved by DoIT
+and the Board of Public Works (BPW), the last modification executed at the time
+of our review for $48,100 was artificially split and entered into the State’s records
+as two separate transactions in September and December 2013 and thus were not
+submitted for approval.
+State procurement regulations generally require that all procurements over
+$25,000 be competitively bid and that those exceeding $200,000 be approved by
+BPW. State procurement regulations also require DoIT to approve all IT contract
+awards greater than $25,000 and any modification that results in the cumulative
+contract amount exceeding $25,000.
+11
+
+--- Page 14 ---
+Recommendation 1
+We recommend that MIA
+a. comply with State procurement regulations governing competitive
+procurements and contract modifications and obtain BPW and DoIT
+approvals, as required;
+b. ensure contract modifications are properly justified and not artificially
+split to avoid having to obtain required approvals; and
+c. develop a comprehensive plan prior to further system development
+detailing the required functionality, planned deliverables, and cost
+estimates.
+Finding 2
+An MIA management employee exercised excessive control over the
+procurement and implementation of the premium tax system.
+Analysis
+The MIA management employee who oversaw the premium tax system project
+discussed in Finding 1 influenced virtually all aspects of the procurement and
+implementation, and due to a familiarity with the contractor subsequently tasked
+with developing the new system, created the appearance of a conflict of interest.
+The management employee exercised excessive control over the procurement of
+the contractor initially hired to assist in the in-house development of a new tax
+system and authorized payments for work beyond the original scope, which
+resulted in the implementation of an existing proprietary premium tax system that
+this contractor had developed. The management employee was also responsible
+for monitoring the contractor’s work, requesting contract modifications, and
+approving all contactor invoices for payment.
+As previously mentioned, in September 2011, MIA procured the services of a
+contractor to assist its in-house IT staff with the development of an automated
+premium tax system. Prior to the decision to solicit these contractor services, this
+MIA management employee communicated with the contractor to obtain the
+contractor’s hourly rate for similar services and referred the contractor to MIA
+management. While MIA decided it should conduct a formal solicitation, this
+contractor’s financial proposal in response to the solicitation reflected the
+previously obtained hourly rate.
+Furthermore, the management employee was on the three-member evaluation
+committee for this procurement. Although the other two evaluators, who were
+MIA IT employees, communicated to the management employee that neither
+bidder was qualified to assist with the in-house development project, the
+management employee recommended to the procurement officer, a direct
+12
+
+--- Page 15 ---
+subordinate, that the contract be awarded to the other bidder. Certain
+documentation provided by MIA was insufficient to determine what ratings were
+given by the individual evaluators. MIA was also unable to provide us with
+documentation justifying the award except that, according to the procurement
+officer’s solicitation summary, the winning bidder’s technical proposal “was
+superior in the opinion of one evaluator,” that evaluator being the management
+employee. The losing bidder’s cost proposal was ranked higher (had a lower cost)
+by all three evaluators.
+The original work set out in the contractor procurement was later abandoned, and
+this management employee recommended that the contractor instead install the
+contractor’s proprietary premium tax system. The management employee was
+responsible for monitoring the contractor’s work on this new system and for
+approving all contactor invoices for payment. The employee also initiated
+modifications to the scope of work and, as mentioned in Finding 1, several
+modifications did not include adequate justifications. These modifications were
+approved by the aforementioned procurement officer who was the management
+employee’s subordinate.
+The management employee advised us that knowledge of the premium tax
+system’s capabilities and its successful implementation at the employee’s former
+place of employment (another state) was what prompted the recommendation of
+this contractor and that the employee had only indirect knowledge of the
+contractor. According to this employee, the other state is the only state, other
+than Maryland, where this premium tax system is currently used.
+Senior management personnel at the State Ethics Commission advised us that the
+aforementioned conditions could violate several of the State ethics laws. For
+example, Section 5-506 of the General Provisions Article of the Annotated Code
+of Maryland generally prohibits an employee from intentionally using the prestige
+of office or public position for that employee’s private gain or that of another.
+Any final decision related to violations of the State ethics laws would ultimately
+be determined by the State Ethics Commission.
+Furthermore, the Governor’s Executive Order 01.01.2007.01 provides that State
+employees shall endeavor to avoid any actions creating the appearance that they
+are violating applicable laws or the ethical standards. This Order, dated February
+14, 2007, requires that all departments and agencies of the State immediately
+report any instance of possible criminal or unethical conduct by an employee or
+contractor of the State to the Governor’s Chief Counsel and to the Office of the
+Attorney General – Criminal Division.
+13
+
+--- Page 16 ---
+Recommendation 2
+We recommend that MIA
+a. separate the duties over procurement functions, contract monitoring, and
+invoice approval functions, so that one individual does not maintain
+excessive control over each process; and
+b. immediately refer this issue to the State Ethics Commission and comply
+with the Governor’s Executive Order.
+We advised MIA on accomplishing the necessary separation of duties using
+existing personnel.
+Finding 3
+The premium tax system was not properly secured to restrict and control
+access. The premium tax system contractor had complete control over the
+system and unnecessary access to the remainder of the MIA network.
+Analysis
+The premium tax system was not properly secured to restrict and control access.
+The contractor responsible for the implementation and on-going operation and
+maintenance of the system had complete control over the system and had
+unnecessary access to the remainder of the MIA network.
+ The contractor was responsible for program code development and placing the
+code into production without independent review or testing. The contractor,
+rather than MIA staff, was also responsible for database administration and
+server administration for the host server. As a result, the contractor could
+make unapproved changes to the production premium tax system and/or data
+without detection. In addition, the contractor and two MIA management
+operational employees (including the management employee mentioned in
+Finding 2) had unnecessary access to modify security settings in the premium
+tax system for themselves and other employees.
+ The contractor was also defined as the primary administrator for the third-
+party online payment system (provided by a bank) used to process premium
+tax payments that automatically post to the premium tax system. Because of
+this capability, the contractor could issue credits through the payment system
+and alter the underlying records so that improper credits would not be readily
+detected. Our testing disclosed that no credits had been processed during our
+audit period through the third-party payment system.
+ Finally, we noted that the contractor was improperly granted unrestricted
+access to the entire MIA internal network. Specifically, MIA allowed the
+14
+
+--- Page 17 ---
+contractor access to the entire MIA network, over all ports, through a virtual
+private network (VPN). However, MIA’s firewalls were not configured to
+limit this traffic to only devices and ports required by this contractor. A
+similar condition was commented upon in our preceding audit report with
+respect to the previous premium tax system.
+The DoIT Information Security Policy states that agencies must ensure that the
+systems enforce separation of duties through assigned access authorizations.
+Agency systems must enforce the most restrictive access capabilities required for
+specified tasks. The Policy also mandates that agencies ensure that only
+authorized individuals (employees or agency contractors) have access to
+confidential information and that such access is strictly controlled, audited, and
+that it supports the concepts of “least possible privilege” and “need to know.”
+Recommendation 3
+We recommend that MIA
+a. establish appropriate review and testing procedures for program code
+developed by contractors, ensure only code approved by MIA supervisory
+personnel is placed into production, and ensure proper controls are
+maintained over database and server administration;
+b. remove security modification access to the system from the contractor
+and MIA operational employees and assign it to appropriate MIA IT
+personnel;
+c. immediately remove the contractor’s administrator access to the
+premium tax third-party payment system and assign such access to an
+appropriate MIA employee; and
+d. configure its firewalls to filter VPN traffic and limit contractor access to
+only those devices and ports involved with the contractor’s support
+activities (repeat).
+Finding 4
+MIA lacked assurance that the premium tax system was properly secured
+and configured to protect it from external threats and unauthorized changes.
+Analysis
+MIA did not adequately secure and configure the premium tax system application,
+host server, and database to protect against external threats and unauthorized
+changes.
+ Web application vulnerability assessments had not been performed to help
+identify the existence of potentially serious security vulnerabilities within the
+premium tax system application’s program code. In addition, a web
+15
+
+--- Page 18 ---
+application firewall was not used to protect the application and the related
+database. As a result, the application could contain security vulnerabilities
+which, if exploited, could result in improper changes to and unauthorized
+disclosure of critical data.
+ The premium tax system host server, database, and application were not
+configured securely. For example, the application was using the database
+default administrator account to connect to the premium tax system database
+and, as a result, the application had excessive privileges on the database and
+could even delete the database. In addition, all of the approximately 2,774
+customer userids and passwords were stored in clear text and were not
+encrypted.
+ The database was not configured to log any critical database security activity
+such as failed login attempts, direct changes to critical data tables, changes to
+database security settings, and use of certain critical privileges. These
+conditions could result in unauthorized or inappropriate activities affecting the
+integrity of the production database information going undetected by
+management.
+ Neither the premium tax system database nor its host server was updated for
+numerous security-related patches. For example, as of December 2, 2013, our
+review disclosed that the server’s operating system software had not been
+patched for a period of 964 days. Accordingly, the operating system was not
+updated for 144 operating system security-related software updates.
+ MIA’s account and password controls over the premium tax system
+application and database were not sufficient. Specifically, the database
+configuration did not require users to comply with database password rules.
+Additionally, certain account and password settings for both the application
+and the database were not in compliance with the DoIT Information Security
+Policy. For example, password length and complexity for both the application
+and database either were not enabled or were not set in accordance with DoIT
+requirements. In addition, both the application and database did not support
+the use of account lockout.
+The DoIT Information Security Policy states that agencies shall create and
+maintain system hardening procedures to ensure up-to-date security best practices
+are deployed at all levels of IT systems (operating systems, applications,
+databases, and network devices).
+16
+
+--- Page 19 ---
+Recommendation 4
+We recommend that MIA
+a. periodically obtain security vulnerability assessments for the application
+code, remediate all confirmed vulnerabilities identified by the
+assessments, document these processes, and retain this documentation for
+future reference;
+b. use a web application firewall to gain additional security protection;
+c. securely configure the premium tax system host server, database, and
+application;
+d. configure the premium tax system database to log critical security
+activity, periodically perform independent reviews of these logs,
+document these reviews, and retain this documentation for future
+reference;
+e. update the premium tax system database and host server for all security-
+related patches; and
+f. implement strong controls over accounts and passwords that are in
+accordance with the requirements of the DoIT Information Security
+Policy.
+Administration of Premium Tax Filings
+Background
+According to State law, insurance companies must file their final premium tax
+returns by March 15 of each year. In addition, companies are required to file
+quarterly estimated tax declarations and make quarterly payments if their total tax
+liability for the current year is reasonably expected to exceed $1,000. MIA
+primarily accepts payments via electronic check or paper check. Electronic check
+payments are processed through a third-party online payment system, which
+automatically updates the payment history in the premium tax system. Paper
+checks are manually input to the premium tax system by MIA.
+MIA conducts desk audits of each insurance company’s annual tax return. The
+audits are conducted to ensure that premiums written as recorded on the tax return
+agree to premiums reported to a third-party database (National Association of
+Insurance Commissioners - NAIC) to ensure that both quarterly and final
+premium tax payments were made on time and for appropriate amounts, and to
+initiate refunds for tax overpayments. According to State law, MIA has up to
+three years from the tax return due date to audit the filed tax returns to assess any
+additional taxes owed and any penalties and interest. If payments exceed taxes
+owed, MIA issues a refund to the company. According to MIA records, as of
+October 2013, MIA completed 1,909 audits of 2011 and 2012 tax returns with
+taxes paid totaling $488.4 million.
+17
+
+--- Page 20 ---
+Finding 5
+MIA had not established adequate controls over audits of premium tax
+filings. Our tests of the audit results disclosed a number of errors, including
+the issuance of a duplicate account credit and failure to assess penalties and
+interest.
+Analysis
+MIA had not established adequate controls over audits of premium tax filings. In
+addition, our tests of the audits conducted disclosed numerous errors that included
+the issuance of a duplicate account credit and the failure to identify reporting
+discrepancies and assess interest and penalties as provided by law. In our
+opinion, the loss of automated auditing capabilities, which were previously
+available in the former premium tax system, coupled with the failure to institute
+sufficient controls over the new manual audit process, contributed to the audit
+errors.
+Our review of controls identified two MIA employees had the capability to record
+tax payments in the premium tax system and were also responsible for performing
+and finalizing tax audits without independent review. As a result, improper
+information could be recorded in the premium tax system which could lead to the
+issuance of inappropriate refund checks by MIA. Furthermore, one of these two
+employees both performed and finalized the same audits for a six-month period
+(January 2013 through June 2013). During this time, we noted audits of 91 tax
+returns with premium tax payments totaling $113.8 million related to tax years
+2011 and 2012 that were performed and approved by this employee. We were
+advised this was the result of an inadequate number of supervisory personnel
+available due to vacancies.
+Additionally, we noted that certain limitations of MIA’s premium tax system
+precluded adequate accountability over changes made to recorded data.
+Specifically, after audits were finalized, changes could be made to the tax records
+of individual companies maintained on the system without supervisory approval
+and a historical record of those changes.
+We tested the audits conducted of 43 tax returns for tax years 2011 and 2012 for
+companies with premium tax payments totaling $141.7 million. Our test
+disclosed inaccuracies or documentation deficiencies with 11 audits, with
+payments totaling $50.9 million, of which 6 audits were not subject to
+independent supervisory review. (Some of these audits contained more than one
+deficiency.)
+ Our review of the audit performed of one 2011 tax return disclosed that a
+credit was improperly applied to the account of one company, which resulted
+in a refund. Specifically, a $403,000 refund was properly authorized to the
+18
+
+--- Page 21 ---
+company for overpayments related to its calendar years 2008 through 2010
+returns. However, these overpayments were also credited to the company
+during the 2011 calendar year audit. In this regard, the credit was applied
+against the 2011 tax liability for that year, which was $190,000, and the
+balance of $213,000 was refunded to the company. MIA personnel were
+unaware of this situation until we brought it to their attention.
+ For 7 audits of premium tax returns with payments totaling $41.6 million (6 of
+which were performed by the aforementioned employee without independent
+approval), MIA did not assess penalties and interest assessments totaling
+approximately $158,000 for late tax payments and underpayments related to
+the final tax return. In addition, based on our expanded test of 5 other audits,
+we determined that MIA did not always ensure that companies remitted the
+proper tax amounts in their quarterly tax declarations in accordance with State
+law. Our test of 25 tax payments (quarterly and final payments by these 5
+companies) totaling $21.7 million, made for premiums written in calendar
+year 2011, disclosed that 7 payments totaling $2.8 million did not include the
+proper amounts throughout the year or were paid late. These conditions
+should have resulted in penalties and interest totaling $125,000 being
+assessed. No explanation regarding the failure to assess these penalties and
+interest, or documentation indicating the State Insurance Commissioner had
+waived the penalties and interest as allowed by State law, were provided.
+ For 2 audits of premium tax returns with payments totaling $14 million, MIA
+did not identify differences between the premiums written according to the tax
+returns and the companies’ self-reported premiums recorded in NAIC’s
+database. Because the tax payments are based on premiums written,
+differences could indicate improper premium tax remittances which could
+have resulted in penalties and interest being assessed. MIA was unaware of
+these differences until we brought them to its attention. Based on the
+premiums reported in the national regulatory database, these two companies
+underpaid taxes totaling $70,200.
+Unlike MIA’s former premium tax system, the new system that was implemented
+in February 2012 could not perform the audit function. An automated audit
+function would help ensure that duplicate credits are not applied and the amounts
+of premiums written according to the tax returns agrees to those reported to the
+NAIC. As a result, the audit function was performed manually, which made the
+process more prone to errors.
+Recommendation 5
+We recommend that MIA
+a. ensure that the individuals responsible for auditing transactions do not
+have the capability to record tax payments in the premium tax system;
+19
+
+--- Page 22 ---
+b. ensure that premium tax audits are reviewed by independent supervisory
+personnel;
+c. ensure that changes to approved tax audits are approved by supervisory
+personnel and that a historical record of the changes is maintained;
+d. impose penalties and interest unless a waiver is approved by the State
+Insurance Commissioner;
+e. ensure that companies remit the proper quarterly tax payments and that
+penalties and interest are properly assessed, as applicable;
+f. ensure that premiums reported on the tax filings agree with the NAIC’s
+database and any differences are resolved; and
+g. review the aforementioned discrepancies and take corrective action.
+Finding 6
+Procedures were not sufficient to ensure certain premium tax payments were
+received timely.
+Analysis
+MIA had not established procedures to ensure certain premium tax payments were
+received by the due dates established in State law. Specifically, MIA had not
+established procedures to document the date of receipt of premium tax payments
+for payments received in the mail. State law requires estimated and final tax
+payments to be postmarked by the required filing dates. However, MIA used the
+date the premium tax payments were processed on the system rather than the
+postmark dates to determine whether taxes were paid timely. The former date
+was used, in part, because the premium tax system did not have a dedicated data
+field in which the postmark date could be entered for mailed-in payments.
+Our test of 27 payments totaling $7.4 million received in the mail between April
+2011 and March 2013 disclosed that MIA did not record a postmark date for any
+of the payments in the premium tax system. We were able to verify that 5 of the
+payments were received timely because MIA had retained the envelopes;
+however, no documentation existed for the remaining 22 payments showing the
+postmark date. Nine of the 22 payments, totaling $4.5 million, appear to have
+been received late based on the dates recorded by insurance companies on the tax
+declaration statements (that is, the dates on the documents were subsequent to the
+filing deadlines). Based on these dates, penalties and interest totaling $156,000
+could have been assessed.
+Since the postmark date was not recorded, we were advised by MIA management
+that it had decided not to assess penalties and interest for tax returns processed
+within 10 days of the required filing date for all March 15, 2013 final tax returns
+and within 5 additional days of the required filing date for all subsequent
+20
+
+--- Page 23 ---
+quarterly tax declaration payments. In January 2013, via postings on its website,
+MIA discouraged insurance companies from making payment by direct fund
+transfers (ACH credit payments) because of difficulties reconciling the related
+records. We noted the number of check payments received through the mail
+increased significantly from $14.3 million in the month of June 2012 to $39.8
+million in the month of June 2013.
+As a result of the aforementioned deficiencies, MIA did not maximize recoveries
+of penalties and interest due to the State for late payments made by insurance
+companies. Total penalties and interest assessed in fiscal year 2013 was
+$930,000.
+Recommendation 6
+We recommend that MIA
+a. record the postmark date of premium tax payments so that a
+determination can be made regarding the timeliness of payments in
+accordance with law, and
+b. assess penalties and interest for any late payments, as required.
+Finding 7
+MIA had not established proper internal controls over premium tax refunds.
+Analysis
+MIA had not established proper internal controls over premium tax refunds
+determined by the related tax audits. As a result, improper refunds could be made
+without detection. Our test of 27 refunds totaling $7.8 million issued during the
+period from December 2011 through July 2013 disclosed the following
+conditions:
+ Ten refunds totaling $4.1 million were approved and released for payment by
+the same supervisory employee between June and November 2012. Based
+on our tests, these ten refunds appeared proper. In December 2012, MIA
+changed its procedure to require that refunds be approved and released by
+different employees. However, procedures over premium tax refunds were
+still not adequate. Specifically, the supervisory employee who approved all
+refund request forms was not independent since the employee had full access
+to the premium tax system, including the ability to modify the mailing address
+where a refund would be sent. Although refunds were released for payment
+by a second supervisory employee, this employee did not review the approved
+audit results in the premium tax system on which the refunds were based to
+confirm that refunds were proper, but relied on the refund request form
+approved by the aforementioned employee.
+21
+
+--- Page 24 ---
+ Five refunds totaling approximately $146,000, issued between August and
+November 2012, appeared to be duplicates of previously issued refunds. Four
+of the five checks were cashed by the receiving insurance companies. MIA
+could not explain how the duplicate refunds occurred and, as of January 16,
+2014, these overpayments had not been recovered. We expanded our review
+to all 930 refunds, totaling $45.3 million, made during our audit period, and
+we identified a total of 28 potential duplicate payments (that is, same payment
+amounts and payees) totaling approximately $361,000.
+Beginning in March 2012 (final return filing for tax year 2011), MIA
+discontinued applying overpayments to future year tax assessments, resulting in a
+significant increase in refunds issued from $6.4 million in fiscal year 2011 to $21
+million in fiscal year 2012.
+Recommendation 7
+We recommend that
+a. an independent supervisory employee who does not have access to the
+premium tax system be responsible for releasing refunds for payment
+based on a review of the audit results, and
+b. duplicate refunds issued be investigated and appropriate actions be taken
+to recover the overpayments.
+Finding 8
+MIA did not reconcile its records of premium tax revenues with the
+corresponding State accounting records.
+Analysis
+MIA did not reconcile its records of premium tax revenues with the corresponding
+State accounting records. As a result, there was a lack of assurance that all
+revenues were properly reflected in the premium tax system and in the State’s
+accounting records.
+Premium tax checks received in the mail and direct fund transfers (ACH credits)
+are manually posted to the State’s accounting records; MIA separately posts these
+transactions to the premium tax system. However, MIA did not reconcile these
+transactions in the State’s records with the premium tax system. Our test of 64
+payments totaling $27.3 million reflected in the State’s records that were received
+during the period between June 2012 and July 2013, disclosed 33 payments
+totaling $15.7 million that were not recorded in the premium tax system as of
+September 12, 2013.
+22
+
+--- Page 25 ---
+MIA also did not reconcile the receipt of electronic checks processed through its
+third-party online payment system with the State’s accounting records. Payments
+processed online post automatically to the premium tax system, even if the
+payment ultimately fails to clear the paying bank. Failed payments are identified
+by the State Treasurer’s Office and posted to the State’s accounting records and
+are to be investigated by MIA personnel and then manually posted to the premium
+tax system as a chargeback. We tested five chargebacks posted in the State’s
+accounting records totaling $16.4 million, received in fiscal years 2012 and 2013;
+our test disclosed one chargeback totaling $2.2 million recorded in the State’s
+records on March 19, 2012 that was not recorded in the premium tax system as of
+January 2014. Although the chargeback was not reflected in the premium tax
+system, we determined that MIA subsequently identified the failed payment
+during the desk audit of the company’s tax return and made appropriate
+adjustments.
+Critical tax data posted to the premium tax system, such as amounts due and paid,
+are used when conducting periodic premium tax audits, and for collecting
+additional taxes due or issuing refunds for overpayments. Consequently, it is
+imperative that all such data be accurately recorded. The lack of comprehensive
+reconciliations has been commented upon in our six preceding audit reports
+dating back to November 1996.
+Recommendation 8
+We recommend that MIA
+a. reconcile its premium tax records with the corresponding State records
+(repeat), and
+b. investigate the aforementioned differences and take appropriate action.
+Financial Examination Services
+Background
+The Insurance Article, Title 2, of the Annotated Code of Maryland requires MIA
+to conduct financial examinations of the approximately 70 insurance companies,
+health management organizations, and managed care organizations domiciled in
+Maryland at least once every five years. The purpose of these examinations is to
+ensure the continued financial solvency of the insurers and compliance with State
+law and requirements of the NAIC. MIA’s Examinations and Audits (E&A) unit
+is responsible for these examinations.
+To supplement E&A employees in conducting the financial examinations, MIA
+routinely contracted with certain pre-approved vendors for additional personnel.
+Specifically, in September 2011, the Board of Public Works approved a three-
+year master contract, valued at $9.5 million, with six pre-approved vendors. The
+23
+
+--- Page 26 ---
+contract included five different levels of assistance (staff employee, senior
+examiner, examiner-in-charge, senior management, and assistant chief examiner).
+Each vendor bid a specific hourly rate for each level of assistance, based on an
+estimated number of hours as stated in the related MIA solicitation. Work was
+awarded to the vendors as needed and a minimum level of work was not
+guaranteed.
+Assistance for individual examinations was awarded using task order requests for
+proposals. All six of the pre-approved vendors are solicited for individual
+examinations. The requests for proposals include the actual prior audit time and,
+based on projected start and end dates of the examination, the number of staff and
+the levels of assistance needed to supplement MIA personnel. The vendors’
+responses include a technical proposal describing the experience levels of
+available personnel with the specific type of examination, and a financial proposal
+stating the number of hours needed by each level of assistance to complete the
+examination. The vendor with the highest overall rating is awarded the task.
+The selected vendor performs the work described in the task order agreement in
+cooperation with and subject to the supervision of MIA personnel who are
+responsible for the planning and overall monitoring of the individual
+examinations. In addition, the MIA project manager coordinates and oversees all
+examination task orders and related billings. As of April 10, 2014, 18 task orders
+had been issued through this master contract with related payments totaling $4.7
+million.
+Finding 9
+Sufficient controls were not established over financial examination services
+task order awards and modifications.
+Analysis
+Controls over the awarding and modifying of task orders for financial
+examination services were not adequate and the MIA project manager exercised
+excessive control over these processes. Specifically, the project manager who
+monitored contract activity and authorized vendor payments was primarily
+responsible for evaluating task order proposals, compiling the evaluation results,
+recommending task order awards, and requesting any subsequent contract
+modifications. Effective independent oversight was not exercised to help ensure
+the integrity of the award and contract modification decision processes.
+The process for evaluating proposals for individual task orders was controlled by
+the project manager. The proposals submitted by the pre-approved vendors were
+rated by an evaluation committee consisting of the project manager and two
+subordinates. The project manager compiled the ratings of the evaluation
+24
+
+--- Page 27 ---
+committee and notified the procurement officer of the results. However, the
+procurement officer did not perform an independent review of the evaluation
+results before awarding the task orders. Rather, the procurement officer relied on
+the project manager’s recommendation without determining whether there was
+appropriate support. Our review of the ratings for the winning vendors for the 18
+task order proposals totaling $5.3 million disclosed that, in each instance, certain
+evaluations were missing, and 9 evaluations for task orders totaling $2.3 million
+were not dated or signed by the evaluators. Furthermore, there was no
+documentation of the project manager’s own ratings for any of the proposals. We
+also noted that certain proposals from winning vendors included services that
+were not originally requested. MIA was subsequently advised by legal counsel
+that such proposals should be disqualified by the evaluation committee.
+In addition, task order modifications were approved without adequate
+justifications. Specifically, 5 of the 18 task orders were subsequently increased
+by $1.3 million, representing an increase of 140 percent over the original 5 task
+order amounts. Our review disclosed that the project manager’s requests for
+contract modifications did not sufficiently explain the need for the increases in
+cost, and the procurement officer accepted these requests when approving the
+modifications without obtaining additional details. For example, one task order
+that was originally issued for $217,508 was later modified to $800,000. The
+request did not specify what additional work was necessary or which levels of
+assistance would be increased.
+Recommendation 9
+We recommend that MIA
+a. establish effective independent oversight of the task order award and
+contract modification functions so that one individual does not maintain
+excessive control over the related decisions,
+b. retain adequate documentation of the task order proposal evaluation
+ratings and decisions, and
+c. ensure that task order modifications are adequately justified.
+25
+
+--- Page 28 ---
+Cash Receipts
+Finding 10
+MIA lacked accountability and control over certain cash receipts.
+Analysis
+MIA lacked accountability and control over cash receipts received at its office.
+According to the State’s records, MIA’s cash receipts totaled approximately $154
+million during fiscal year 2013, with the vast majority of these collections
+consisting of mail receipts of premium taxes, insurance company assessments,
+and licensing fees.
+ Checks received in the mail were not recorded immediately upon receipt.
+Instead, the checks were forwarded to another employee before being
+recorded in a log. In addition, we noted that some checks were not recorded
+in the log but were instead posted directly to the State’s accounting records.
+Our test of 15 deposits totaling $52.7 million, received between September
+2012 and June 2013, disclosed that the checks included in two deposits
+totaling $12.5 million were not recorded.
+ Collections were not always deposited timely. Our aforementioned test of 15
+deposits noted 223 individual premium tax payments totaling $21 million that
+were deposited from three to eight days after the dates received.
+ Deposit verifications were performed by the employee who recorded the
+checks in the log, rather than by an employee independent of the receipt and
+deposit functions. Although MIA advised us that new procedures were
+established in July 2013 to ensure collections were deposited, our review of
+those procedures disclosed that the verification process was not sufficient.
+Similar conditions regarding the lack of initial recordation and an independent
+verification of cash deposits were commented upon in our preceding audit report.
+As a result of the above-noted deficiencies, there is a lack of assurance that all
+receipts were deposited and properly accounted for.
+Recommendation 10
+We recommend that MIA ensure that
+a. cash receipts are immediately recorded when received (repeat),
+b. collections are deposited in a timely manner, and
+c. an employee independent of the cash receipts function performs and
+documents the deposit verifications (repeat).
+We advised MIA on accomplishing the necessary separation of duties using
+existing personnel.
+26
+
+--- Page 29 ---
+Producer Licensing
+Background
+The Producer Licensing Unit issues licenses to qualified resident and nonresident
+individuals and business entities to act as insurance producers. Insurance
+producers sell, solicit, or negotiate insurance contracts and contract renewals for
+persons issuing such contracts for compensation. MIA is responsible for licensing
+producers who meet requirements set forth in State law, such as education and
+experience, and who pass an examination given by MIA. A producer must be
+licensed in each category of insurance (for example, life, accident) in which the
+producer transacts business. Most licenses are issued for a two-year period. In
+fiscal year 2013, 68,198 producer licenses were issued or renewed, with related
+collections totaling approximately $2.1 million.
+Since December 5, 2009, MIA has contracted with the NAIC to use its producer
+licensing system for all producer information, demographics, contacts, and license
+status. The vast majority of applicants for a producer license apply online through
+this system. For applicants who apply through the mail, MIA employees
+manually enter application and payment data and update licensee demographic
+data and qualifications into the system. MIA also contracted with a pre-licensing
+services vendor to provide a standardized electronic examination system to
+include application processing, online examinations, examination grading, and
+reporting. The contract provides for the vendor to be compensated with a portion
+of the exam fees paid by individual applicants. The vendor received
+approximately $247,000 in fiscal year 2013 for the administration of
+approximately 9,900 pre-licensing exams.
+Finding 11
+Sufficient controls were not established for the issuance of producer licenses.
+Analysis
+Sufficient controls were not established for the issuance of insurance producer
+licenses. As a result, improper transactions could be recorded in the producer
+licensing system without detection and could result in the improper issuance of
+licenses.
+ We were advised that the individual who recorded receipts in the producer
+licensing system from applicants who applied through the mail also reconciled
+licensing receipts recorded in the system with receipts recorded in the State’s
+accounting records. This individual was not independent and the
+reconciliations performed were not documented and subject to supervisory
+review.
+27
+
+--- Page 30 ---
+ Five employees had the capability to both process (edit) and approve license
+applications that were flagged during the online application process. Online
+applications are flagged under certain circumstances (such as when there are
+questions regarding eligibility). Although we were advised by MIA
+management that all licenses are subject to a supervisory review, this review
+is limited to a small number (such as less than one percent) of licenses and,
+therefore, would not necessarily include licenses processed by the
+aforementioned five employees. A total of 181 applications were reviewed
+for licenses issued in calendar year 2013.
+Recommendation 11
+We recommend that MIA ensure that
+a. reconciliations of all license fees as recorded in the State’s accounting
+records with the fees recorded in the producer licensing system are
+performed by an independent employee and are documented, and
+b. capabilities to process and approve licenses are separated.
+We advised MIA on accomplishing the necessary separation of duties using
+existing personnel.
+Finding 12
+MIA lacked assurance that the insurance producer licensing and pre-
+licensing services systems were sufficiently protected against operational and
+security risks.
+Analysis
+MIA lacked assurance that any operational and security risks related to the
+insurance producer licensing and pre-licensing systems had been identified and
+corrected, as necessary. Specifically, MIA had not performed security reviews of
+the service providers’ operations, or as an alternative, obtained any reports
+resulting from independent reviews conducted of either system. Furthermore, the
+agreements between MIA and each of the two service providers did not require
+that comprehensive, independent reviews be performed of the systems.
+Consequently, there was no assurance that the service providers had established
+controls to secure MIA data, including personally identifiable information such as
+social security numbers. Appropriate controls would ensure that
+ intrusion detection, malware prevention, vulnerability scanning, and patch
+management have been implemented;
+ reports of authorized and unauthorized access attempts, and other security and
+audit events, are reviewed on a regular basis;
+28
+
+--- Page 31 ---
+ policies and procedures for user account and password controls are in
+accordance with Maryland government or industry best practices;
+ documented policies and procedures exist and have been implemented for
+business continuity and/or disaster recovery; and
+ system data are backed up, encrypted, and stored offsite in an appropriate
+facility, and that such backup and storage procedures are tested regularly.
+The American Institute of Certified Public Accountants has issued guidance
+concerning examinations of service organizations. Based on this guidance,
+service organizations (like the aforementioned service providers) may contract for
+an independent review of controls and the resultant independent auditor’s report is
+referred to as a Service Organization Controls (SOC) report. There are several
+types of SOC reports, with varying scope and levels of review and auditor testing.
+One type of report, referred to as a SOC 2 Type 2 report, includes the results of
+the auditor’s review of controls placed in operation and tests of operating
+effectiveness for the period under review and could include an evaluation of
+system security, availability, processing integrity, confidentiality, and privacy.
+Due to the nature and sensitivity of the information contained in the insurance
+producer licensing and pre-licensing systems, we believe a SOC 2 Type 2 report
+would be appropriate. A similar situation regarding the failure to address certain
+security and operational risks of the service providers was commented upon in our
+preceding audit report.
+Recommendation 12
+We recommend that MIA
+a. seek to amend the existing agreements and ensure that future agreements
+with service providers processing MIA data include provisions requiring
+the service providers to regularly obtain SOC 2 Type 2 reviews
+pertaining to their system operations (repeat), and
+b. obtain and review copies of these SOC 2 Type 2 reports from the service
+providers and ensure that the related independent reviews adequately
+address critical security concerns over each system and that the service
+providers implement all critical report recommendations.
+29
+
+--- Page 32 ---
+Purchases and Disbursements
+Finding 13
+MIA did not establish proper controls over purchases and disbursements
+and did not always comply with State procurement regulations.
+Analysis
+Proper internal controls were not established over purchases and disbursements,
+and MIA did not always comply with State procurement regulations.
+Specifically, MIA did not establish approval paths for all purchases in the State’s
+Financial Management Information System (FMIS), as one employee had the
+capability to initiate and approve purchase orders in two departments without
+independent approval. Within those two departments, we noted purchase orders
+processed without independent approval for which payments totaled
+approximately $701,000 in fiscal year 2013. Furthermore, two employees
+responsible for approving purchase orders online through FMIS for all other
+departments, advised us that they did not review supporting documentation, such
+as requisitions, bidding quotes, and contracts, to verify the propriety of the
+purchases and compliance with State procurement regulations.
+Our test of 15 contracts awarded during our audit period totaling $749,000 found
+that, for 5 contract awards totaling $298,000, MIA did not comply with certain
+procurement regulations. For example, MIA awarded two information
+technology (IT) services contracts totaling $161,000 without obtaining DoIT
+approval, and Board of Public Works’ (BPW) approval was not obtained for one
+of the two (valued at $131,000) that was a sole source award. MIA also could not
+provide a sole source justification for that contract.
+We also noted that temporary personnel services totaling $390,000 were routinely
+procured without obtaining competitive bids and executing a written contract. We
+were advised by MIA that the chosen vendor had provided similar services since
+fiscal year 2011. Consequently, there is a lack of assurance that the State
+obtained these services at the best value.
+Finally, the two employees responsible for approving all MIA disbursements
+advised us that they did not always verify that goods and services purchased were
+received prior to approving invoices for payment. Our test of 20 invoices totaling
+approximately $661,000, paid between April 2012 and August 2013, disclosed
+that 10 invoices, totaling approximately $397,000, lacked support evidencing that
+these individuals had determined that the goods or services had been received.
+According to the State’s accounting records, MIA processed disbursements
+totaling $20.6 million through FMIS during fiscal year 2013. State procurement
+30
+
+--- Page 33 ---
+regulations require that any IT contract award (hardware, software, and related
+services) over $25,000 be submitted to DoIT for approval. In addition, the
+regulations require that all sole source contracts exceeding $100,000 be presented
+to the BPW and that the reasons for sole source procurements be documented.
+Finally, State procurement regulations generally require that competitive bids be
+obtained for all procurements over $5,000 and that written contracts be prepared.
+Recommendation 13
+We recommend that MIA
+a. establish independent online approval requirements for all critical
+purchasing transactions;
+b. ensure adequate supporting documentation is reviewed to verify the
+propriety of critical transactions such as purchase orders and invoices;
+and
+c. comply with the requirements of the State procurement regulations and
+DoIT policies by obtaining the appropriate approvals, providing sole
+source justifications when needed, and conducting competitive
+procurements when required.
+Information Systems Network
+Background
+MIA’s Management Information Systems Division manages the development,
+maintenance, and support of the MIA IT infrastructure including all related
+networking and telecommunications systems. The Division maintains a network
+which includes email, application and database services, and connectivity to the
+Internet. MIA’s critical systems include the premium tax system, the producer
+licensing system, and the enterprise system which is used for licensing,
+complaints, and case tracking.
+Finding 14
+Administrative access to MIA’s network was excessive.
+Analysis
+Administrative access to MIA’s network was excessive. Specifically, we noted
+that six accounts (assigned to five different individuals) were improperly
+classified as domain administrators. Accounts that are domain administrators are
+the most powerful and privileged accounts in the system. As a result of this
+condition, these accounts had administrative control over all MIA domain
+resources and could make unauthorized modifications to critical data without
+detection.
+31
+
+--- Page 34 ---
+The DoIT Information Security Policy states that each agency must establish an
+authorization process which specifically grants access to information ensuring
+that access is strictly controlled, audited, and that it supports the concepts of “least
+privilege possible” and “need-to-know.”
+Recommendation 14
+We recommend that domain administrator privileges only be assigned to
+users requiring such privileges.
+32
+
+--- Page 35 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Insurance
+Administration (MIA) for the period beginning September 29, 2010 and ending
+August 4, 2013. The audit was conducted in accordance with generally accepted
+government auditing standards. Those standards require that we plan and perform
+the audit to obtain sufficient, appropriate evidence to provide a reasonable basis
+for our findings and conclusions based on our audit objectives. We believe that
+the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MIA’s financial
+transactions, records and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included purchases and disbursements, cash receipts,
+information systems security and control, accounts receivable, premium tax
+audits, and producer licensing and examinations. We also determined the status
+of the findings included in our preceding audit report.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+MIA’s operations, and tests of transactions. We also performed various data
+extracts of pertinent information from the State’s Financial Management
+Information System (such as revenue and expenditure data). The extracts are
+performed as part of ongoing internal processes established by the Office of
+Legislative Audits and were subject to various tests to determine data reliability.
+We determined that the data extracted from these various sources were
+sufficiently reliable for the purposes the data were used during this audit. Finally,
+we performed other auditing procedures that we considered necessary to achieve
+our objectives. Data provided in this report for background or informational
+purposes was not assessed.
+MIA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+33
+
+--- Page 36 ---
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect MIA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to MIA that did not warrant inclusion in this report.
+As a result of our audit, we determined that MIA’s accountability and compliance
+level was unsatisfactory. The primary factors contributing to the unsatisfactory
+rating were the significance of our audit findings, and the number of repeat audit
+findings from our preceding report. Our rating conclusion has been made solely
+pursuant to State law and rating guidelines approved by the Joint Audit
+Committee. The rating process is not a practice prescribed by professional
+auditing standards.
+MIA’s response to our findings and recommendations is included as an appendix
+to this report. As prescribed in the State Government Article, Section 2-1224 of
+the Annotated Code of Maryland, we will advise MIA regarding the results of our
+review of its response.
+34
+
+--- Page 38 ---
+Maryland Insurance Administration
+Response to Legislative Fiscal Compliance Audit Report
+November 19, 2014
+The Maryland Insurance Administration’s (“MIA”) responses to each finding and corresponding
+recommendation contained in the Legislative Fiscal Compliance Audit Report (the “Report”) for
+the period beginning September 29, 2010 and ending August 14, 2013 are set forth below. The
+MIA takes seriously the findings in the Report and, as evidenced below, has corrected or is
+working to correct the issues noted. The Report contains 14 recommendations, which are
+comprised of 42 sub-recommendations. As of November 19, 2014, the MIA has implemented
+more than two-thirds of the 42 sub-recommendations, and is in the process of implementing the
+remaining sub-recommendations.
+Finding 1:
+The procurement of the new premium tax system did not comply with State procurement
+regulations and the project was not adequately planned.
+Recommendation 1:
+We recommend that the MIA
+a. comply with State procurement regulations governing competitive procurements and contract
+modifications and obtain BPW and DoIT approvals, as required;
+b. ensure contract modifications are properly justified and not artificially split to avoid having
+to obtain required approvals; and
+c. develop a comprehensive plan prior to further system development detailing the required
+functionality, planned deliverables, and cost estimates.
+MIA Response:
+The MIA agrees with Finding 1 and the corresponding recommendation. The MIA has
+implemented organizational changes, personnel changes, and new procedures to ensure
+compliance with all state procurement regulations and requirements governing competitive
+procurements and contract modifications. Specifically, the MIA has hired a new Procurement
+Officer, who shall work within the Office of the Commissioner and will report directly to the
+Deputy Commissioner. Beginning September 2014, the MIA also commenced monthly
+procurement meetings that include the Commissioner, Deputy Commissioner, Procurement
+Officer, the MIA’s Principal Counsel, and an Assistant Attorney General with experience in
+procurement law. At each meeting, participants review the status of active procurements,
+identify the parameters of anticipated future procurements, and ensure compliance with all
+applicable legal and procedural requirements. All information technology system procurements
+must be supported by a comprehensive plan detailing the required functionality, planned
+deliverables, and cost estimates.
+1
+
+--- Page 39 ---
+Finding 2:
+An MIA management employee exercised excessive control over the procurement and
+implementation of the premium tax system.
+Recommendation 2:
+We recommend that MIA
+a. separate the duties over procurement functions, contract monitoring, and invoice approval
+functions, so that one individual does not maintain excessive control over each process; and
+b. immediately refer this issue to the State Ethics Commission and comply with the Governor’s
+Executive Order.
+MIA Response:
+The MIA agrees with Finding 2 and the corresponding recommendation. The MIA’s
+procurement function now resides in the Office of the Commissioner, and the Procurement
+Officer reports directly to the Deputy Commissioner. Contract monitoring functions reside with
+the contract manager in the division of the MIA requiring the procured goods or services, and the
+MIA’s Fiscal Unit provides final approval of contract invoices for payment.
+In accordance with Executive Order 01.01.2007.01, the Commissioner referred the issue raised
+in connection with Finding 2 to the Assistant Attorney General who serves as the MIA’s
+Principal Counsel, and advised the Chief Legal Counsel to the Governor of that referral.1 By
+letter dated October 1, 2014, the MIA’s Principal Counsel, on behalf of the Maryland Insurance
+Commissioner, requested that the State Ethics Commission initiate an investigation to determine
+whether the actions of the management employee identified in connection with Finding 2
+violated State ethics laws.
+Finding 3:
+The premium tax system was not properly secured to restrict and control access. The premium
+tax system contractor had complete control over the system and unnecessary access to the
+remainder of the MIA network.
+1 Executive Order 01.01.2007.01 provides, in pertinent part:
+O. All departments and agencies of the State shall immediately refer to the Assistant
+Attorney General of the Department or Agency or to the Deputy Attorney General with
+supervisory responsibility for the Attorney General’s Criminal Investigations Division,
+any instance of possible criminal or unethical conduct by any employee or contractor of
+this State, for such action as the Office of the Attorney General deems appropriate. All
+departments and agencies shall also immediately advise the Chief Legal Counsel to the
+Governor of any such referrals.
+2
+
+--- Page 40 ---
+Recommendation 3:
+We recommend that MIA
+a. establish appropriate review and testing procedures for program code developed by
+contractors, ensure only code approved by MIA supervisory personnel is placed into
+production, and ensure proper controls are maintained over database and server
+administration;
+b. remove security modification access to the system from the contractor and MIA operational
+employees and assign it to appropriate MIA IT personnel;
+c. immediately remove the contractor’s administrator access to the premium tax third-party
+payment system and assign such access to an appropriate MIA employee; and
+d. configure its firewalls to filter VPN traffic and limit contractor access to only those devices
+and ports involved with the contractor’s support activities (repeat).
+MIA Response:
+With the exception of the following, as it relates to the premium tax system contractor’s access
+to the MIA network, the MIA agrees with Finding 3 and the corresponding recommendation.
+The MIA disagrees with the statement that the premium tax system contractor had unnecessary
+access to the remainder of the MIA network. While the premium tax system contractor had
+access to the server dedicated exclusively to the premium tax system, the contractor did not have
+the authentication authority (user ID and password) to access any MIA application or database
+server other than the server hosting the premium tax system. The contractor also did not have
+the administrative rights (user ID and password) to access the MIA network routers, switches or
+firewall.*
+On a going forward basis, all program code developed by contractors will follow MIA’s standard
+procedures to ensure that a segregation of duties exists between the application developer and the
+code migration progress. The MIA also will conduct user acceptance testing on code changes to
+the premium tax system and all other applications, before changes are migrated into production.
+As of May 30, 2014, the MIA removed the premium tax system contractor’s access for security
+modifications; removed the contractor’s administrative access to the third party payment system;
+and disabled the contractor’s access to MIA’s VPN service.
+Effective September 14, 2014, the MIA transferred premium tax system access and user set-up
+responsibilities to the agency’s Management Information Systems (“MIS”) unit, to segregate
+these functions from employees who have premium tax payment posting, premium tax audit, or
+premium tax audit supervisory functions.
+________________________
+*Auditor’s Comment: The MIA response, while correct, does not address the finding that MIA’s firewalls were not
+configured to restrict this contractor’s access to only specific devices over necessary ports. As a result, the
+contractor had access, at a network level, to all MIA network devices, thereby putting every device in MIA’s
+internal network at risk if they were not properly secured.
+3
+
+--- Page 41 ---
+Finding 4:
+MIA lacked assurance that the premium tax system was properly secured and configured to
+protect it from external threats and unauthorized changes.
+Recommendation 4:
+We recommend that MIA
+a. periodically obtain security vulnerability assessments for application code, remediate all
+confirmed vulnerabilities identified by the assessments, document these processes, and retain
+this documentation for future reference;
+b. use a web application firewall to gain additional security protection;
+c. securely configure the premium tax system host server, database, and application;
+d. configure the premium tax system database to log critical security activity, periodically
+perform independent reviews of these logs, document these reviews, and retain this
+documentation for future reference;
+e. update the premium tax system database and host server for all security-related patches; and
+f. implement strong controls over accounts and passwords that are in accordance with the
+requirements of the DoIT Information Security Policy.
+MIA Response:
+The MIA agrees with Finding 4 and the corresponding recommendation. The MIA currently is
+working with DoIT’s Security Office to schedule a security vulnerability test on MIA web
+applications. Once conducted, the MIA will remediate all vulnerabilities identified, document
+these processes and retain this documentation for future reference. In addition, the MIA
+requested and received approval for a FY15 budget amendment that will provide funds to
+purchase a web application firewall to gain additional security protection for all MIA web
+applications. This budget amendment also will provide funding to contract with a security
+consulting firm to conduct periodic security vulnerability tests on the MIA network infrastructure
+and web applications.
+The MIA already has increased the security configurations on the premium tax system host
+server, database and application and applied all current security-related patches to both the
+premium tax system database and the Windows operating system installed on the host server.
+The MIA will add logging features to its premium tax system database and a System
+Administrator (SA) account will be created to provide the MIA Database Administrators with
+access to the system logs for daily reviews. Documentation of these reviews also will be created
+as evidence for future audit verification. In addition, the MIA will strengthen the password
+capabilities in the premium tax system to comply with the requirements of the DoIT Information
+Security Policy.
+4
+
+--- Page 42 ---
+Finding 5:
+MIA had not established adequate controls over audits of premium tax filings. Our tests of the
+audit results disclosed a number of errors, including the issuance of duplicate account credit and
+failure to assess penalties and interest.
+Recommendation 5:
+We recommend that MIA
+a. ensure that individuals responsible for auditing transactions do not have the capability to
+record tax payments in the premium tax system;
+b. ensure that premium tax audits are reviewed by independent supervisory personnel;
+c. ensure that changes to approved tax audits are approved by supervisory personnel and that a
+historical record of the changes is maintained;
+d. impose penalties and interest unless a waiver is approved by the State Insurance
+Commissioner;
+e. ensure that companies remit the proper quarterly tax payments and that penalties and interest
+are properly assessed, as applicable;
+f. ensure that premiums reported on the tax filings agree with the NAIC’s database and any
+differences are resolved; and
+g. review the aforementioned discrepancies and take corrective action.
+MIA Response:
+The MIA agrees with Finding 5 and the corresponding recommendation. The MIA wishes to
+clarify, however, that although its prior premium tax system had certain automated auditing
+capabilities, those capabilities were limited, unreliable, and required a 100% manual review.
+The MIA has implemented, or is in the process of implementing, all aspects of Recommendation
+5. Specifically, effective September 15, 2014, the premium tax audit function was reassigned to
+the MIA’s Examination and Auditing Division (“E&A”), while the responsibility for posting
+premium tax payments remains with the MIA’s Fiscal Unit. There is no overlap of staff in these
+two distinct areas of the Agency, and MIA E&A personnel have no capability to record tax
+payments in the premium tax system. Any changes to premium tax audits must be approved and
+documented by supervisory personnel who do not conduct premium tax audits. Adherence to
+this requirement is monitored by way of a quarterly report identifying the premium tax auditor
+and the approving supervisor for each premium tax audit. The MIA has amended its written
+premium tax audit procedure to make clear that in all cases, the auditor must compare the
+premiums reported on tax filings with those reported on the NAIC annual statement and resolve
+any discrepancies.
+The MIA is conducting a review of the audits identified as deficient in connection with Finding
+5. If the MIA’s analysis confirms that penalties or interest could have been assessed, that finding
+5
+
+--- Page 43 ---
+will be documented in the MIA’s audit notes and the penalties and interest will be assessed or the
+rationale for waiving penalties and interest will be documented.2
+Finding 6:
+Procedures were not sufficient to ensure certain premium tax payments were received timely.
+Recommendation 6:
+We recommend that MIA
+a. record the postmark date of premium tax payments so that a determination can be made
+regarding the timeliness of payments in accordance with law, and
+b. assess penalties and interest for any late payments, as required.
+MIA Response:
+The MIA agrees with Finding 6 and the corresponding recommendation. The MIA has
+implemented procedures for receiving, sorting and distributing mail that require envelopes to be
+stapled to all mail received as a record of the date on which the item was postmarked. In
+addition, MIA staff who post payment information in the premium tax system now are required
+to record the postmark date of each payment received. The MIA will assess penalties and
+interest for late payments as appropriate, or will document the rationale for waiving such
+penalties and interest.3
+Finding 7:
+MIA had not established proper internal controls over premium tax refunds.
+Recommendation 7:
+We recommend that
+a. an independent supervisory employee who does not have access to the premium tax system
+be responsible for releasing refunds for payment based on a review of the audit results; and
+b. duplicate refunds issued be investigated and appropriate actions be taken to recover the
+overpayments.
+MIA Response:
+The MIA agrees with Finding 7 and the corresponding recommendation. The MIA has
+established and implemented a procedure pursuant to which an independent supervisory
+employee who does not have access to the premium tax system is responsible for releasing
+refunds for payment based on a review of the audit results.
+2 The Commissioner may waive the penalty and interest on late payments if the insurer proves that it: (i)
+made a good faith effort to comply with the requirements of § 2-113 of the Insurance Article (related to
+the payment of taxes of fees in immediately available funds); and (ii) exercised due diligence to initiate
+payment correctly and on a timely basis.
+3 See footnote 2.
+6
+
+--- Page 44 ---
+The MIA has investigated all 28 refunds identified in the Report as potential duplicate refunds.
+To date, the MIA has recovered approximately $131,000 in duplicate payments, and is pursuing
+recovery of the additional $15,000.
+Finding 8:
+MIA did not reconcile its records of premium tax revenues with the corresponding State
+accounting records.
+Recommendation 8:
+We recommend that MIA
+a. reconcile its premium tax records with the corresponding State records (repeat), and
+b. investigate the aforementioned differences and take appropriate action.
+MIA Response:
+The MIA agrees with Finding 8 and the corresponding recommendation. The MIA has
+implemented a policy requiring that all financial transactions must be posted in the premium tax
+application within 48 hours of deposit and reconciled with State accounting records on a monthly
+basis.
+The MIA is in the process of investigating the differences identified in the report and will take
+any appropriate corrective action.
+Finding 9:
+Sufficient controls were not established over financial examination services task order awards
+and modifications.
+Recommendation 9:
+We recommend that MIA
+a. establish effective independent oversight of the task order award and contract modification
+functions so that one individual does not maintain excessive control over the related
+decisions;
+b. retain adequate documentation of the task order proposal evaluation ratings and decisions;
+and
+c. ensure that task order modifications are adequately justified.
+MIA Response:
+The MIA agrees with Finding 9 and the corresponding recommendation. The MIA has
+implemented organizational changes, personnel changes, and new procedures to help ensure
+compliance with all state procurement regulations and requirements governing competitive
+procurements and contract modifications. Specifically, the MIA has hired a new Procurement
+Officer, who shall work within the Office of the Commissioner and report directly to the Deputy
+Commissioner. Beginning September 2014, the MIA also commenced monthly procurement
+meetings that include the Commissioner, Deputy Commissioner, Procurement Officer, the
+7
+
+--- Page 45 ---
+MIA’s Principal Counsel, and an Assistant Attorney General with experience in procurement
+law. At each meeting, meeting participants review the status of active procurements (including
+task order awards and contract and task order modifications), identify the parameters of
+anticipated future procurements (including task order awards and contract and task order
+modifications), and ensure compliance with all applicable legal and procedural requirements,
+including proper segregation of duties.
+In addition, the MIA has changed its staffing approach for financial examinations. With the
+exception of specialty financial examination services,4 all financial examination services for
+financial examinations commenced on or after March 4, 2014 are being conducted by MIA-
+employed financial examiners. The MIA no longer is awarding task orders for those financial
+examination services.
+Finding 10:
+MIA lacked accountability and control over certain cash receipts.
+Recommendation 10:
+We recommend that MIA ensure that
+a. cash receipts are immediately recorded when received (repeat);
+b. collections are deposited in a timely manner; and
+c. an employee independent of the cash receipts function performs and documents the deposit
+verifications (repeat).
+MIA Response:
+The MIA agrees with Finding 10 and the corresponding recommendation. Specifically, the MIA
+agrees that all receipts should be deposited in a timely fashion. To that end, in November 2013,
+the MIA converted to an online remote deposit service system by which all mail receipts are
+electronically recorded and deposited on the day they are received. The MIA also has revised its
+procedures to ensure that an employee independent of the cash receipts function performs and
+documents deposit verifications. Further, the MIA is investigating the feasibility of purchasing a
+scanner for the mail room employee who opens envelopes and immediately restrictively endorses
+checks received, to enable that employee to create a log by scanning the check as a .pdf
+document, prior to providing the check to a second employee for deposit.
+Finding 11:
+Sufficient controls were not established for the issuance of producer licenses.
+4 Specialty financial examination services include those services performed by specialists in the areas of
+information technology, actuarial science, investment, and reinsurance. Specialty financial examination
+services are performed on behalf of the MIA by a primary contractor or, if the primary contractor is
+unavailable or has a conflict, by a secondary contractor. No task orders are awarded in connection with
+these services.
+8
+
+--- Page 46 ---
+Recommendation 11:
+We recommend that MIA ensure that
+a. reconciliations of all license fees as recorded in the State’s accounting records with the fees
+recorded in the producer licensing system are performed by an independent employee and are
+documented; and
+b. capabilities to process and approve licenses are separated.
+MIA Response:
+The MIA agrees with Finding 11 and the corresponding recommendation. The MIA has
+established and implemented a procedure requiring that an independent employee reconcile all
+license fees as recorded in the State’s accounting records with the fees recorded in the producer
+licensing system on a monthly basis, document that reconciliation, and obtain written verification
+of that reconciliation by an MIA supervisory employee.
+The MIA also has established a procedure segregating the producer license application
+processing function from producer license application approval function, and shall confirm
+adherence to that procedure based upon a monthly audit of approximately 20% of all applications
+processed.
+Finding 12:
+MIA lacked assurance that the insurance producer licensing and pre-licensing services systems
+were sufficiently protected against operational and security risk.
+Recommendation 12:
+We recommend that MIA
+a. seek to amend the existing agreements and ensure that future agreements with service
+providers processing MIA data include provisions requiring the service providers to regularly
+obtain SOC 2 Type 2 reviews pertaining to their system operations (repeat); and
+b. obtain and review copies of these SOC 2 Type 2 reports from the service providers and
+ensure that the related independent reviews adequately address critical security concerns over
+each system and that the service providers implement all critical report recommendations.
+MIA Response:
+The MIA agrees with the importance of ensuring that Producer Licensing services are protected
+against operational and security risk. On a going forward basis, the MIA will seek to include in
+producer pre-licensing and licensing vendor contracts a requirement that the vendor regularly
+obtain SOC 2 Type 2 reviews and provide the MIA with copies of those reviews.
+The MIA obtained from its pre-licensing vendor a copy of its SOC 2, Type 2 audit for the period
+covering July 1, 2013 to June 30, 2014. The audit included review and testing of 34 functions.
+Only one exception was noted, and that exception was corrected. The MIA’s licensing vendor,
+which provides services to every department of insurance in the United States, obtains SOC 1
+9
+
+--- Page 47 ---
+audits conducted by a third party on an annual basis. That vendor provided and will continue to
+provide the MIA with copies of its independent audit results.
+Finding 13:
+MIA did not establish proper controls over purchases and disbursements and did not always
+comply with State procurement regulations.
+Recommendation 13:
+We recommend that MIA
+a. establish independent online approval requirements for all critical purchasing transactions;
+b. ensure adequate supporting documentation is reviewed to verify the propriety of critical
+transactions such as purchase orders and invoices; and
+c. comply with the requirements of the State procurement regulations and DoIT policies by
+obtaining the appropriate approvals, providing sole source justifications when needed, and
+conducting competitive procurements when required.
+MIA Response:
+The MIA agrees with Finding 13 and the corresponding recommendation. The MIA has updated
+its Fiscal Procedures to ensure that appropriate approval for all purchase and disbursement
+transactions is obtained, and that MIA employees approving such transactions document their
+review of supporting documentation.
+The MIA also has implemented organizational changes, personnel changes, and new procedures
+to help ensure compliance with all state procurement regulations and requirements governing
+competitive procurements and contract modifications. Specifically, the MIA has hired a new
+Procurement Officer, who shall work within the Office of the Commissioner and report directly
+to the Deputy Commissioner. Beginning September 2014, the MIA also commenced monthly
+procurement meetings that include the Commissioner, Deputy Commissioner, Procurement
+Officer, the MIA’s Principal Counsel, and an Assistant Attorney General with experience in
+procurement law. At each meeting, participants review the status of active procurements,
+identify the parameters of anticipated future procurements, and ensure compliance with all
+applicable legal and procedural requirements.
+Finding 14:
+Administrative access to MIA’s network was excessive.
+Recommendation 14:
+We recommend that domain administrator privileges only be assigned to users requiring such
+privileges.
+10
+
+--- Page 48 ---
+MIA Response:
+The MIA agrees with Finding 14 and the corresponding recommendation, and has resolved this
+issue. As of May 30, 2014, MIS Technical Support personnel and infrastructure project resource
+staff have been removed from the MIA domain administrator account. As an aside, the premium
+tax system contractor never had domain administrator account privileges.
+11
+
+--- Page 49 ---
+A
+UDIT
+T
+EAM
+Heather A. Warriner, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+Terry S. Gibson, CFE
+Senior Auditor
+R. Brendan Coffey, CPA, CISA
+John C. Venturella
+Information Systems Senior Auditors
+Brian S. Han, CPA
+Joshua A. Naylor
+Richard Tran
+Staff Auditors
