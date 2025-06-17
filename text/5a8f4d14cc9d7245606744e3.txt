@@ -1,0 +1,1410 @@
+Title: Department of Transportation - Motor Vehicle Administration
+Date: 05/19/2014
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d14cc9d7245606744e3
+Extracted: 2025-06-17T19:20:10.437575
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Department of Transportation
+Motor Vehicle Administration
+November 2017
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Status of Findings From Preceding Audit Report 5
+Findings and Recommendations 6
+Licensing – Controls Over Issuance and Inventory 6
+Finding 1 – Although an internal investigation revealed that the Motor
+Vehicle Administration (MVA) issued 270 fraudulent federally non-
+compliant driver’s licenses and identification cards, the scope was
+limited and we found many additional products that may have been
+issued improperly. MVA also did not alter its procedures to correct
+the related control deficiencies.
+Finding 2 – Adequate controls were not established over MVA’s 11
+inventory stock of blank driver’s license and identification cards.
+Licensing – Suspension and Revocation
+Finding 3 – MVA did not ensure that all driving records were reviewed 13
+for possible administrative action, and our tests disclosed several
+records for which required administrative action was not taken.
+Finding 4 – MVA did not ensure that required supervisory reviews of 14
+critical transactions recorded on driving records, including license
+suspensions and revocations, were adequately performed and
+documented.
+Contract Procurement and Monitoring
+Finding 5 – MVA did not ensure that labor rates included in a $21.4 15
+million information technology (IT) contract were the most favorable
+available, and MVA’s procedures for monitoring IT contracts and
+billings did not ensure hours billed were reasonable, receipt of
+deliverables, and compliance with contract terms.
+Finding 6 – MVA did not adequately control electronically submitted 18
+bids.
+3
+
+--- Page 6 ---
+Cash Receipts
+Finding 7 – MVA did not have adequate procedures to ensure that 19
+differences between recorded collections and amounts deposited by
+branch offices were adequately investigated and resolved.
+* Finding 8 – Collections received at MVA headquarters for vehicle 21
+registration renewals processed at county offices were not adequately
+controlled.
+Information Systems and Controls
+Finding 9 – Controls over the virtual server environment did not 23
+properly protect critical virtual servers.
+Finding 10 – Procedures for securing MVA’s numerous computers were 23
+not sufficient.
+Ignition Interlock Program
+Finding 11 – Employees responsible for reviewing and approving 24
+changes to critical data relating to the Ignition Interlock Program
+also had access capability allowing them to change these data,
+compromising effective internal control over the Program.
+Corporate Purchasing Cards
+Finding 12 – MVA did not adequately monitor corporate purchasing 25
+card purchases and did not always comply with related State policies
+and procedures.
+Audit Scope, Objectives, and Methodology 27
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The Motor Vehicle Administration (MVA) is part of the Maryland Department of
+Transportation and functions under certain provisions of the Transportation
+Article of the Annotated Code of Maryland. MVA has jurisdiction over a variety
+of activities related to the ownership and operation of motor vehicles, including
+the registration and titling of vehicles. MVA maintains a headquarters location in
+Anne Arundel County and 24 branch offices throughout the State with a total
+authorized workforce of approximately 1,700 employees. According to MVA
+records, during fiscal year 2016, MVA’s collections, which primarily consisted of
+motor vehicle excise tax receipts and vehicle registration fees, totaled $1.7 billion.
+According to the State’s accounting records, MVA’s expenditures totaled
+approximately $220.3 million during fiscal year 2016, of which $61.2 million was
+for contractual services.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the nine findings contained
+in our preceding audit report dated May 19, 2014. We determined that MVA
+satisfactorily addressed eight of these findings. The remaining finding is repeated
+in this report.
+5
+
+--- Page 8 ---
+Findings and Recommendations
+Licensing – Controls Over Issuance and Inventory
+Background
+The Motor Vehicle Administration (MVA) is responsible for issuing commercial
+and non-commercial driver’s licenses, license renewals, corrected licenses,
+learner’s permits, and personal identification cards. MVA uses a computerized
+driver’s licensing application system that includes an electronic license
+application process that performs various verifications, such as matching the
+applicant’s social security number (SSN) with a database maintained by the
+federal Social Security Administration.
+Chapter 309, Laws of Maryland 2013, effective January 1, 2014, authorized MVA
+to issue federally non-compliant products (driver’s licenses and identification
+cards) to Maryland residents who do not have a SSN and who do not have lawful
+authority to be in the United States, provided that, for the previous two years,
+these individuals filed Maryland income tax returns or were claimed as a
+dependent on returns filed for those years. These products cannot be used for
+official purposes as determined by the Secretary of the United States Department
+of Homeland Security; for example, they cannot be used to purchase firearms,
+access commercial flights, or enter federal buildings.
+According to MVA’s records, during fiscal year 2016, MVA processed
+approximately 6.7 million licensing transactions, which included 889,000 new
+driver’s licenses resulting in $53.9 million in revenue. As of August 25, 2016,
+there were approximately 4.8 million active products, including at least 82,660
+federally non-compliant products.
+Finding 1
+Although an internal investigation revealed that MVA issued 270 fraudulent
+federally non-compliant driver’s license (DL) and identification (ID) cards,
+the scope of the investigation was limited and we found many additional
+products that may have been issued improperly. MVA also did not alter its
+procedures to correct the related control deficiencies.
+Analysis
+Although its internal investigation identified a number of federally non-compliant
+DL and ID cards that MVA had improperly issued at one branch location based
+on counterfeit documents, MVA did not alter its procedures to address the related
+control deficiencies. Furthermore, MVA did not expand the scope of its
+investigation to determine the full extent of such occurrences. Our data analyses
+6
+
+--- Page 9 ---
+identified many more federally non-compliant DL or ID cards that could have
+been improperly issued because of the use of fraudulent documentation by
+applicants.
+An internal MVA investigation revealed that 270 federally non-compliant DL or
+ID cards had been improperly issued to walk-in applicants based on counterfeit
+documents presented at an MVA branch location during a six-month period. In
+addition to the documentation requirements for all applicants regarding proof of
+identity and Maryland residency, applicants for federally non-compliant products
+must also provide a letter from the Comptroller of Maryland, which reflects a
+control number unique to each individual filer, as evidence of Maryland income
+tax filings for the previous two years. It is a violation of State law for applicants
+to knowingly make a false statement or to use false, fictitious, or fraudulently
+altered documents when applying for a Maryland DL or ID card, which can result
+in penalties of $500 and/or two months in jail.
+MVA conducted this internal investigation based on an employee tip about
+suspicious or unethical activity on the part of two MVA customer agents at this
+branch. MVA’s investigation included a review of all the products issued by
+these two customer agents for the period from October 13, 2015 through March 7,
+2016. MVA referred the results of its investigation to the Maryland Attorney
+General – Criminal Division, the Governor’s Office, the U.S. Attorney’s Office
+for the District of Maryland, and the U.S. Department of Homeland Security’s
+Immigration and Customs Enforcement. As a result of MVA’s investigation, two
+employees were terminated and the 270 DL or ID cards were canceled.
+Internal Control Deficiencies Were Not Addressed
+Although the resultant report identified control deficiencies with MVA’s
+procedures for processing applications for individuals who applied in person at
+branch locations without an appointment, MVA did not change its procedures.
+For example, MVA did not stop processing walk-in applications, nor did it
+institute certain automated verification procedures for such applications that are
+performed when applicants schedule appointments in advance.
+Applicants for a non-compliant DL or ID card are instructed to make an
+appointment using MVA’s Central Scheduling System and apply in person at an
+MVA location. During the appointment-scheduling process, an automated
+verification is performed through the System to ensure that the applicant received
+a valid letter (with a unique control number) from the State Comptroller
+indicating the individual met the tax filing requirements under State law and that
+the Comptroller letter control number was not previously used.
+7
+
+--- Page 10 ---
+If the applicant walked in without scheduling an appointment, this automated
+verification was not performed. Specifically, during the walk-in application
+process, only a limited verification was performed using MVA’s driver’s
+licensing application system (DLS) to ensure the Comptroller letter control
+number was in the proper format and was a valid number. There was no
+automated verification in DLS to ensure the Comptroller letter control number
+was issued to that applicant and was not previously used to obtain a product.
+In addition, MVA did not conduct periodic reviews of its records to identify
+instances in which the same Comptroller letter control number was used by
+multiple individuals to obtain a product, and to identify instances in which an
+applicant’s name did not agree to the name assigned to the Comptroller letter
+control number, so that appropriate follow-up action could be taken.
+OLA’s Expanded Analysis Identified Additional Improperly Issued DL and ID
+Cards
+MVA’s internal investigation was focused on a limited number of employees for a
+relatively short period and was not expanded to determine the full extent of such
+occurrences. Therefore, we conducted certain data analyses and matches to
+determine whether additional DL or ID cards could have been improperly issued.
+Specifically, using MVA’s DLS and its official record of Maryland DL and ID
+cards, we extracted data for all active products, as of August 25, 2016, identifying
+4.8 million products, of which 82,660 were obtained using a Comptroller letter
+control number. As a result, we identified 329 individuals who may have
+improperly received federally non-compliant DL or ID cards due to the use of a
+fraudulent Comptroller letter control number.
+ Multiple individuals used the same Comptroller letter control number to
+obtain DL or ID cards. Specifically, 225 individuals used 62 Comptroller
+letter control numbers to obtain a DL or ID card. For example, one
+Comptroller letter control number was used to obtain 16 DL or ID cards.
+Since every applicant must obtain his or her own unique control number, the
+use of the same number by multiple applicants would suggest fraudulent use
+of that number.
+ We identified a number of instances in which the names on the Comptroller’s
+records of letters issued (as received by MVA from daily files from the
+Comptroller containing data for a one-year period) differed from the names on
+the MVA file for the same Comptroller letter control number. Specifically,
+222 individuals had obtained a DL or ID card using a Comptroller letter
+control number in which the individual’s first and/or last name did not match
+the name of the individual who was assigned the related number. This
+8
+
+--- Page 11 ---
+included 104 individuals who were not previously identified in our first
+analysis of 225 individuals. The potential exists for a greater number of such
+occurrences since data received daily from the Comptroller is only for a one-
+year period and MVA does not retain older versions of the data.
+We judgmentally selected 15 of the 329 unique DL or ID cards identified by these
+analyses and reviewed the individual files, including all documentation provided
+to MVA to obtain the products. Our test disclosed that 14 of the 15 DL or ID
+cards appeared to have been issued based on fraudulent documentation. The
+remaining instance appeared to be the result of a clerical error in recording the
+applicant’s name.
+We also used MVA’s official DL and ID records for all active products and
+identified at least 499 non-compliant DL or ID cards where the same primary
+residence address was used by multiple individuals. Specifically, we identified 21
+residential addresses that were used as the primary address for 11 to 40
+individuals each. Of these 499 products, 497 were not identified by our
+aforementioned analyses. Although there may be legitimate reasons for multiple
+applicants to list the same address, the frequency with which certain addresses
+were used appeared questionable.
+We judgmentally selected 10 of these 497 DL or ID cards and reviewed the
+individual files, including all documentation provided to MVA to obtain the
+products. Our test disclosed that 5 appeared to have been issued based on
+fraudulent documentation, such as counterfeit bank statements used as proof of
+Maryland residency. Accordingly, this may be another useful review for MVA to
+perform to identify improperly issued DL or ID cards.
+While MVA did periodically perform reviews to identify addresses that were
+listed as the primary residence for multiple DL or ID cards, these reviews were
+not sufficient. Investigators performed site visits to these addresses and
+interviewed certain individuals, such as the homeowner or property manager, to
+determine whether to cancel DL or ID cards for certain individuals who
+improperly listed the address as their primary residence. The investigators did not
+routinely review the documentation on file at MVA, which may provide
+additional information to help their investigative efforts.
+9
+
+--- Page 12 ---
+A summary of our analyses is included in the table below. We provided MVA
+with the detailed results of our analyses and testing.
+Table 1: Schedule of OLA Analyses, Testing, and Results
+For Non-compliant Products as of August 25, 2016
+Analysis Performed
+Same Same
+Names
+Comptroller Address Totals
+Did
+Letter Used Used
+Not
+Multiple Multiple
+Match
+Times Times
+Total Number of Unique
+Products Potentially
+Issued Based on 225 104 497 826
+Fraudulent
+Documentation
+Number Selected
+10 5 10 25
+for Testing
+Number Tested That
+Appeared to Be 10 4 5 19
+Fraudulent
+Efforts to Recover Fraudulently Obtained DL and ID Cards Were Limited
+According to MVA management, its investigators typically attempt to retrieve
+fraudulently obtained products. However, because fraudulent residency
+documentation (in addition to fraudulent Comptroller letters) was often provided
+during the application process, MVA’s recovery efforts were limited. Many
+individuals may still have these products in their possession, allowing them to, for
+example, drive and establish bank accounts if the products are not otherwise
+validated.
+Recommendation 1
+We recommend that MVA
+a. develop procedures, such as an automated verification process for all
+federally non-compliant applicants, to ensure the same Comptroller letter
+control number cannot be used by more than one applicant to obtain a
+10
+
+--- Page 13 ---
+DL or ID card and to ensure that the control number was issued to the
+applicant;
+b. develop procedures to periodically identify instances in which a
+Comptroller letter control number was improperly used to obtain a
+Maryland DL or ID card, perform documented investigations, including
+a review of applicable supporting documentation, and take appropriate
+action;
+c. expand its review of addresses used by multiple applicants to include a
+review of applicable supporting documentation, take appropriate follow-
+up action, and document work performed;
+d. investigate the results of our analyses and cancel any cards which were
+improperly issued, including the 19 products identified in our tests, and
+refer the applicants to the appropriate authorities; and
+e. identify the circumstances involved in issuing the potentially fraudulent
+non-compliant products identified in our analyses and, in consultation
+with the Office of the Attorney General – Criminal Division, take
+appropriate action.
+Finding 2
+Adequate controls were not established over MVA’s inventory stock of blank
+driver’s license and identification cards.
+Analysis
+Adequate controls were not established over MVA’s inventory stock of blank
+driver’s license and identification cards maintained at its headquarters location, as
+one employee had unilateral control over these cards. Specifically, this employee
+ordered new cards from the vendor, received the cards, and recorded the receipt of
+the cards and their unique inventory numbers in MVA’s inventory tracking
+system without independent review. This employee also participated in periodic
+physical inventories of the card stock. Consequently, there was a lack of
+assurance that all cards received were properly recorded and accounted for. Since
+the cards exhibit certain graphics referring to their purpose and identifying the
+State of Maryland, there is a potential for these cards to be used for fraudulent
+purposes. Consequently, it is incumbent upon MVA to ensure that adequate
+controls are established to properly record and account for all cards received.
+Our review of one purchase of 328,200 cards made in June 2016 disclosed that
+only 320,700 cards were recorded in the inventory tracking system, a difference
+of 7,500 cards. We were informed by the aforementioned employee that the
+7,500 cards were received, but were not recorded because they were to be used for
+11
+
+--- Page 14 ---
+testing purposes. This was confirmed by MVA management; however, there was
+no documentation of the disposition of these cards.
+The Department of General Services’ Inventory Control Manual requires that the
+employee who receives inventory items be separate from the employee who
+records the inventory items in the agency’s records, and that the employee
+responsible for ordering items be separate from the employee who receives them.
+Recommendation 2
+We recommend that MVA
+a. adequately separate employee duties relating to the procurement, receipt,
+and recording of its driver’s license and identification card inventory
+stock;
+b. develop a procedure, such as a documented independent supervisory
+review, to ensure that all cards received are properly recorded in the
+inventory tracking system; and
+c. determine and document the disposition of the aforementioned 7,500
+cards.
+We advised MVA on accomplishing the necessary separation of duties using
+existing personnel.
+Licensing – Suspension and Revocation
+Background
+MVA is responsible for processing certain administrative actions relating to
+driver’s licenses, such as license suspensions and revocations. MVA receives
+information daily that impacts drivers’ licenses, consisting primarily of traffic
+citations and case convictions from the State’s district and circuit courts and from
+other State and local entities. MVA personnel review this information and
+determine any appropriate administrative action. For example, as specified in
+State law, a license suspension or revocation generally occurs when a driver
+accumulates a specified number of points on his or her driving record (8 and 12
+points, respectively) based on traffic citations received. License suspensions may
+also result from other offenses, such as the failure to pay court-ordered child
+support and the existence of outstanding arrest warrants.
+When MVA has determined that a license should be suspended or revoked, the
+driving record with the manual determination is scanned into MVA’s Document
+Imaging and Workflow System (DIWS) and the decision code is entered, which
+automatically generates a letter of notification to the licensee advising him or her
+12
+
+--- Page 15 ---
+of the determination. According to its records, MVA processed 279,533
+suspension and revocation actions during calendar year 2015.
+Finding 3
+MVA did not ensure that all driving records were being reviewed, as
+required, for possible administrative action, and our tests disclosed several
+records for which required administrative action was not taken.
+Analysis
+Although MVA had established procedures to identify driving records to be
+reviewed for potential administrative action resulting from traffic offenses
+incurred, certain records were erroneously excluded from these procedures. After
+our inquiries during the audit, MVA determined that certain cases in which the
+driver had already accumulated 8 or 12 points on his or her driving record were
+being incorrectly excluded from these review procedures. Our test of 31 excluded
+records disclosed that required administrative action, such as license suspension,
+was not taken against 8 of the drivers.
+MVA converted traffic-related conviction information it received from the courts
+on a daily basis to the required number of points as specified in State law, and
+automatically posted the points to each individual’s driving record. An automated
+report was generated of driving records to be reviewed by MVA personnel based
+on the accumulated points on each record to determine what, if any,
+administrative action should be taken.
+In response to our audit inquiries, MVA determined that cases in which the
+driver’s license had already been suspended or revoked were being erroneously
+excluded from the report and, therefore, were not subject to its review. For
+example, the report would exclude the driving record of a driver with a currently
+revoked license (that is, had already accumulated 12 points) even if the driver was
+later convicted of an offense requiring additional points. Such records should be
+reviewed for a possible extension of the initial revocation.
+We obtained an automated file of traffic offense convictions resulting in an
+accumulated assessment of 8 or more points for 10 days during calendar year
+2015 and compared the file with the count of driving records printed and
+reviewed by MVA for these days. This comparison disclosed 5 days in which the
+total count of driving records printed (393) was 34 records less than the number of
+licenses identified by the automated file of traffic offense convictions (427).
+Consequently, these 34 driving records were not subject to the review process and
+any administrative actions required were not imposed.
+13
+
+--- Page 16 ---
+With the assistance of MVA personnel, we reviewed 31 of the 34 records
+identified on 2 of these days. Our review disclosed that 8 of the 31 drivers should
+have had administrative action taken against them, such as license suspension,
+revocation, or an extension of an existing suspension or revocation. For example,
+2 drivers who were serving a 30-day suspension subsequently accumulated more
+points which should have resulted in a 90-day suspension. The remaining 23 did
+not require any additional administrative action primarily because of the timing of
+the violations and the court convictions.
+Recommendation 3
+We recommend that MVA
+a. ensure that all driving records with 8 and 12 accumulated points are
+reflected on reports for subsequent review to determine if administrative
+action is required;
+b. investigate the aforementioned 8 driving records noted in our review and
+take appropriate action; and
+c. identify and investigate other driving records which have not been
+reviewed, and take appropriate action in consultation with legal counsel.
+Finding 4
+MVA did not ensure that required supervisory reviews of critical
+transactions recorded on driving records, including license suspensions and
+revocations, were adequately performed and documented.
+Analysis
+MVA did not ensure that required supervisory reviews of critical transactions
+recorded on driving records were adequately performed and documented. These
+reviews are meant to ensure the propriety of these transactions, such as the
+addition or removal of a license suspension or revocation, and accordingly, the
+accuracy of the related driving record. MVA’s policy requires the supervisory
+review of five percent of critical transactions processed.
+ Supervisory reviews were not always performed as required. Our test of
+1,044 critical transactions processed by 10 employees over five days disclosed
+that, although 46 (4.4 percent) of the critical transactions tested had been
+reviewed, none of the 176 transactions processed by 2 employees were
+reviewed. Additionally, the number of transactions reviewed for 2 other
+employees fell short of the five percent requirement. For example, only 1 of
+95 critical transactions performed by one of these employees on the date
+tested was subject to supervisory review.
+14
+
+--- Page 17 ---
+ Our review of the 31 records referred to in Finding 3 (that is, records with an
+accumulated assessment of 8 or more points that were excluded from the
+administrative action review procedures) disclosed 5 instances in which a
+supervisor indicated that the transaction had been subject to supervisory
+review. Specifically, the supervisor noted that his or her review was
+performed by examining the transaction and related notes recorded on the
+applicable driving record in DIWS. However, as previously noted, these
+driving records had not been scanned into DIWS and, accordingly, no
+administrative action (critical transaction) was taken. Consequently,
+supervisory review would have been an impossibility. Each supervisory
+review conducted should be accurately documented.
+Recommendation 4
+We recommend that MVA
+a. conduct supervisory reviews of critical transactions recorded on driving
+records in accordance with its policy, and
+b. ensure that all such reviews are adequately and accurately documented.
+Contract Procurement and Monitoring
+Finding 5
+MVA did not ensure that labor rates included in a $21.4 million information
+technology (IT) contract were the most favorable available, and MVA’s
+procedures for monitoring IT contracts and reviewing the related billings did
+not ensure hours billed were reasonable, receipt of all deliverables, and
+compliance with all contract terms.
+Analysis
+MVA did not ensure that a $21.4 million IT services contract was procured at the
+most favorable labor rates available. In addition, MVA’s procedures for
+monitoring this and other IT contracts and for reviewing the related billings were
+not effective in ensuring hours billed and paid for were reasonable, the receipt of
+all deliverables, and compliance with all contract terms. We examined four IT
+contracts that were in effect during our audit period that had a collective value of
+$57.2 million with related payments totaling $40.2 million as of May 11, 2017.
+The contracts covered a full range of IT services to modernize and standardize
+driver’s licensing and other business systems.
+15
+
+--- Page 18 ---
+Most Favorable Rates for Certain Labor Categories Were Not Obtained From One
+Vendor
+MVA procured the $21.4 million contract, effective June 2013, using a
+competitive sealed proposal process when lower rates for certain required labor
+categories could have been obtained through a Consulting and Technology
+Services (CATS) master contract maintained by the State’s Department of
+Information Technology.
+While the use of CATS to procure IT services is not required, the CATS master
+contract may offer a financial advantage to an agency by providing preapproved
+vendors with established not-to-exceed billing rates for each vendor and labor
+category. In this instance, the vendor selected by MVA was also an approved
+vendor under CATS; consequently, MVA could have either used CATS or
+required the vendor to match the lower rates it offered under CATS. Although the
+labor rates for certain labor categories included in the contract procured by MVA
+were lower than the CATS contract, the labor rates for other categories were
+higher. Over the course of the contract term, which continues through June 2023,
+the higher contract rates could potentially cost MVA an additional $272,000.
+Based on our review of three invoices, we noted that MVA paid at least $7,609
+more than if MVA had obtained the rates available under the CATS master
+contract.
+Effective Contract Monitoring Was Not Established
+For two contracts valued at $17.8 million, MVA did not establish comprehensive
+task orders to direct the work and to allow MVA to effectively monitor the
+contractor and related billings. For one of these two contracts, the deliverables
+stated in the contract were not specific to help ensure that expected outcomes
+were achieved. Furthermore, MVA did not issue task orders with specific
+deliverables, estimated hours, and related costs that would help ensure that work
+on individual tasks did not continue for inordinate periods resulting in excessive
+costs. We noted that the work relating to one requirement (system migration),
+had an initial completion date of February 15, 2016, according to the contractor’s
+status report, but this date changed to January 16, 2017 on a subsequent status
+report.
+For the other contract, MVA did not review the task order proposals submitted by
+the vendor to ensure the work was appropriate and the proposed costs were
+reasonable. Our review disclosed two proposals for tasks that were specifically
+excluded from the scope of work or were included in an earlier price proposal,
+resulting in an overpayment of $97,279. Furthermore, the task order proposals
+did not include completion dates as required. For example, one task, valued at
+$58,394, remained unfinished and was subsequently included in the next task
+16
+
+--- Page 19 ---
+order, increasing the cost to $63,915. Only a portion of the work was completed
+and the task was again included in the subsequent contract with the same
+contractor. MVA advised that the task was ultimately completed, but could not
+provide documentation of the final cost for this work.
+For three contracts totaling $46.6 million, MVA lacked sufficient evidence, such
+as required delivery acceptance forms, that deliverables were properly completed.
+For two of the contracts, MVA lacked evidence that required status reports, daily
+training records, and project transition plans were received, reviewed, and
+accepted as satisfactory. For one of these two contracts and for the third contract,
+either MVA could not provide meeting minutes to evidence that required periodic
+progress meetings were held or meeting minutes showed numerous occasions
+where there were no MVA employees in attendance. The weekly meetings were
+meant to provide an opportunity to review completed work, deliverables in
+progress, and planned upcoming work. Under these circumstances, there is a lack
+of assurance that MVA received all the services it paid for.
+For two contracts totaling $28.6 million, MVA did not review the qualifications
+of new contractor employees, and did not approve the employees, as called for in
+the contracts. Between the two contracts, MVA paid for work performed by eight
+individuals who were not approved in the original contracts, and who were not
+subsequently approved by MVA. In addition, MVA did not prepare required
+periodic evaluations for any of the contractor employees providing services under
+these two contracts.
+Insufficient Review of Invoices
+For two contracts valued at $17.8 million, MVA did not adequately review the
+related invoices to ensure compliance with contract terms and rates. For one
+contract, the task order proposals and related invoices totaling $1.1 million for
+two software modifications we reviewed were based on a flat fee; however, the
+contract generally required such tasks to be performed on a time and materials
+basis for established labor categories and to be supported by timesheets.
+Under the terms of the other contract, monthly payments were to be based on the
+number of hours worked by each contract employee. However, our review of
+three invoices and the related timesheets submitted by the contractor disclosed
+that the contractor adopted a billing practice, without formal approval from MVA,
+in which time worked by a contractor employee in excess of 8 hours per day was
+not immediately billed, but was instead accrued by the contractor to be billed at a
+later date when the employee did not work. As of September 2016, the
+contractor’s records indicated that there were 321 accrued hours, valued at
+$27,992, owed to the contractor by MVA, and there was no indication that MVA
+17
+
+--- Page 20 ---
+monitored the accrued time for propriety. In addition, on the three invoices
+tested, the hourly rate charged for one employee ($85) was higher than the
+approved contract rate ($76), resulting in overpayments totaling $6,552.
+Recommendation 5
+We recommend that MVA
+a. take all appropriate steps, including consideration of CATS contracts, to
+obtain the lowest labor rates available for IT services required;
+b. establish task orders to direct contractor work including estimated hours,
+not-to-exceed costs, milestones, and completion dates;
+c. review task order proposals to ensure the work is appropriate and the
+proposed costs are reasonable;
+d. adequately monitor contracts to ensure that all contract requirements are
+met and deliverables are completed to MVA’s satisfaction, including
+completion of signed delivery acceptance forms as required;
+e. ensure that all contractor employees are reviewed for qualifications,
+properly approved, and that a periodic evaluation is performed for each
+resource as required;
+f. ensure that all billings are in accordance with the time and materials
+provisions of the contracts and established task orders and reflect
+approved contract rates paid; and
+g. perform a documented review of all invoices submitted for the contracts
+tested to identify any overpayments made and take appropriate action to
+recover any overpayments made, including those we identified.
+Finding 6
+MVA did not adequately control electronically submitted vendor bids.
+Analysis
+MVA had not established adequate controls over electronically submitted vendor
+bids. For computer hardware and software procurements, MVA routinely
+instructed vendors to submit their competitive sealed bids directly to the email
+account of its procurement officer. However, the bid submissions were not
+required to be password protected. Additionally, MVA did not maintain
+documentation to indicate when the electronic bids were opened, nor were the
+bids opened publicly. Our review of five procurements totaling $3.8 million with
+bids that were electronically submitted disclosed that MVA did not properly
+secure the electronic bids, document the bid openings, and hold the bid openings
+in public for any of the electronic submissions.
+18
+
+--- Page 21 ---
+Recommendation 6
+We recommend that MVA
+a. establish procedures, such as requiring password protection, to properly
+secure competitively sealed bids received electronically;
+b. ensure that all competitively sealed bids are opened publicly; and
+c. maintain documentation of bid openings.
+Cash Receipts
+Background
+MVA collects fees and penalties for a variety of activities related to the ownership
+and operation of motor vehicles, including the registration and titling of vehicles,
+licensing passenger and commercial drivers, and enforcing insurance compliance.
+Collections are received at the headquarters location in Anne Arundel County and
+at 24 branch offices that individually may offer a full range of services or limited,
+express services. MVA also operates its eStore, which provides online services to
+its customers with connectivity via the Internet, and kiosks located at certain
+shopping centers and branch offices. Furthermore, several county government
+offices are authorized to process certain MVA transactions and collect and submit
+the related fees to MVA.
+According to its records, MVA’s fiscal year 2016 collections totaled $1.7 billion.
+Of this amount, $376.2 million was received as walk-in collections at branch
+offices. During our audit, we reviewed cash receipts procedures and controls at
+three branch offices that had fiscal year 2016 receipts totaling $184.4 million.
+Finding 7
+MVA did not have adequate procedures to ensure that differences between
+recorded collections and amounts deposited by branch offices were
+adequately investigated and resolved.
+Analysis
+Procedures performed at MVA headquarters to account for all fees collected and
+recorded in MVA’s Titling and Registration Information System (TARIS) by
+branch office employees were not adequate. Differences between recorded fee
+collections, bank deposits, and cash receipts recorded in the State’s records were
+not always adequately resolved, and investigations were not properly documented
+and subject to supervisory review.
+ During daily TARIS reconciliations, discrepancies between recorded fee
+collections and the corresponding bank deposits were not always adequately
+19
+
+--- Page 22 ---
+investigated. For example, the employee performing the reconciliations often
+accepted notifications of deposit corrections received from the bank as full
+resolution of a discrepancy without conducting an investigation. Our test of
+13 branch deposits totaling $184,000, with discrepancies totaling $94,900,
+disclosed that 6 discrepancies totaling $18,300 were considered resolved in
+this manner. However, in one instance, we determined that the bank
+erroneously credited MVA’s account for $5,000 to resolve a deposit
+difference that was actually caused by an MVA recording error, not an actual
+difference in the deposit amount. According to MVA records, there were
+5,728 discrepancies identified during the period from July 1, 2014 through
+March 7, 2016 totaling $23.6 million.
+In addition, if the employee could not resolve a deposit discrepancy, the
+discrepancy was referred to the employee responsible for investigating
+chargeback transactions and was listed on the TARIS reconciliation as
+resolved. However, no follow-up was performed to ensure that the difference
+was subsequently resolved. Of the 13 deposits tested, 3 discrepancies totaling
+$24,500 were referred to this employee to be reviewed in conjunction with the
+investigation of chargebacks, and were documented as reconciled without
+adequate follow-up to ensure that the items were actually resolved.
+ Similarly, investigations of chargeback transactions, which were differences
+between cash receipts recorded on the State’s records and those recorded by
+the bank as deposited, were also insufficient. The employee who investigated
+chargebacks did not always examine adequate documentation, such as source
+documents prepared by the applicable branch office, to resolve differences
+between the State’s records and the bank’s records. The employee often
+relied solely on deposit data already recorded in MVA’s records. However,
+relying only on such data may not provide a complete and accurate
+explanation as to why the chargeback occurred. Chargeback transactions were
+reported to MVA by the Office of the State Treasurer. Adjusting entries to
+clear the chargeback clearing account totaled $14 million for our audit period.
+ The aforementioned investigations of reconciling items and chargeback
+transactions were not adequately documented. For example, the employee
+who investigated deposit discrepancies did not maintain documentation of the
+review performed and how items were resolved. For all 13 deposit
+discrepancies we tested, MVA reprinted all the supporting documentation
+(TARIS deposit information, banking online documentation) at our request.
+Finally, these investigations and adjustments were not subject to independent
+supervisory review and approval.
+20
+
+--- Page 23 ---
+Recommendation 7
+We recommend that MVA
+a. ensure that differences identified by the daily reconciliations and
+chargeback transactions are adequately investigated, including an
+examination of all relevant supporting documentation;
+b. maintain adequate documentation of the investigations performed; and
+c. provide for supervisory review and approval of the investigations and
+any resulting adjustments.
+Finding 8
+Collections received at MVA headquarters for vehicle registration renewals
+processed at county offices were not adequately controlled.
+Analysis
+Collections received at MVA headquarters from 12 counties for vehicle
+registration renewals processed on behalf of MVA were not adequately
+controlled. Certain counties, including those that do not have MVA branch
+offices, have authority under State law to process registration renewals at their
+county offices and collect the related fees. These counties periodically forwarded
+the related fees to MVA by check. These transactions were recorded in TARIS
+when processed by the counties, but the transactions were not released to update
+MVA’s detail records until the related checks were received and processed for
+deposit by MVA. Amounts remitted to MVA by these 12 counties during fiscal
+year 2015 totaled $3.7 million.
+ Checks received from county offices were not always recorded and
+restrictively endorsed immediately upon receipt. Specifically, checks received
+in the afternoon were not recorded and restrictively endorsed until the
+following day. Although these checks were maintained overnight in a locked
+cabinet within a secured room, numerous employees had access to the room as
+well as the cabinet key which was maintained in an unlocked drawer.
+ Duties were not adequately segregated since the same employee who received
+the county checks and the related supporting documentation was also
+responsible for performing the daily reconciliation designed to ensure that all
+collections received were deposited and properly recorded in MVA’s records.
+ MVA did not ensure that the funds and supporting documentation due from
+the county offices were received in a timely manner and that the
+documentation supported the transactions processed by the county offices.
+Our test of 10 checks totaling $99,700 disclosed that 3 checks totaling
+21
+
+--- Page 24 ---
+$45,600 were dated from 10 to 29 business days after the date of the last
+registration renewal to which the checks applied. In addition, all required
+supporting documentation was not submitted relating to 4 checks totaling
+$37,300. State law requires county offices to submit all fees collected, and the
+related record of registration renewals for each day at the end of each week.
+Under these conditions, errors or other discrepancies could occur without timely
+detection. Similar conditions were commented upon in our preceding audit
+report.
+Recommendation 8
+We recommend that MVA
+a. secure checks prior to deposit and ensure they are recorded and
+restrictively endorsed immediately upon receipt (repeat);
+b. segregate the cash collection, account monitoring, and deposit verification
+functions (repeat); and
+c. monitor county transactions to ensure that all related collections and
+supporting documentation are received at least weekly by MVA in
+accordance with State law (repeat).
+We advised MVA on accomplishing the necessary separation of duties using
+existing personnel.
+Information Systems and Controls
+Background
+MVA’s Office of Information Resources (OIR) provides information technology
+services to MVA. OIR operates and maintains various applications, servers, and
+local networks throughout MVA’s numerous locations, including the headquarters
+location and its branch offices located throughout the State. OIR interacts with
+various contractors that provide information technology related services to MVA.
+In addition, the Maryland Department of Transportation – Office of
+Transportation Technology Services operates a mainframe computer for certain
+MVA applications, such as the Driver Licensing system.
+22
+
+--- Page 25 ---
+Finding 9
+Controls over the MVA virtual server environment did not properly protect
+critical virtual servers.
+Analysis
+Controls over the MVA virtual server environment did not properly protect
+critical virtual servers. Specialized software allows for a single physical host
+server’s resources (that is, memory, CPU, and storage) to be defined and
+subdivided into multiple virtual servers which can each operate as a separate,
+unique server. As of October 2016, MVA was using 27 physical host servers to
+host 190 virtual servers that primarily supported the critical eStore system which
+provides online services to MVA customers with connectivity via the Internet and
+kiosks located at MVA branch offices. These host and virtual servers are
+managed via a central management console. We determined that 24 user accounts
+(assigned to 16 unique individuals) were improperly granted the administrator
+role over the aforementioned central management console that allowed these
+individuals to make unauthorized changes to MVA’s virtual server environment
+including the servers supporting the critical eStore system.
+The State of Maryland Information Security Policy, states that agencies must
+ensure that only authorized individuals (employees or agency contractors) have
+access to confidential information and that such access is strictly controlled,
+audited, and that it supports the concepts of “least possible privilege” and “need to
+know.”
+Recommendation 9
+We recommend that MVA restrict administrative access to its virtual server
+environment to individuals whose job duties require such access.
+Finding 10
+Procedures for securing MVA’s numerous computers were not sufficient.
+Analysis
+Procedures for securing MVA’s numerous computers were not sufficient.
+ MVA operated approximately 3,900 workstations and servers to support its
+operations. Our testing determined that 607 of these computers did not have
+any malware protection (either host or network based malware protection).
+ MVA personnel advised that they periodically verified that host based
+malware protection software was installed and operational on its computers by
+23
+
+--- Page 26 ---
+comparing computer counts from its malware protection consoles to computer
+counts of its directory services. However, there was no documentation that
+substantiated these comparisons were performed.
+The State of Maryland Information Security Policy states that agencies, at a
+minimum, must protect against malicious code (viruses, worms, Trojan horses) by
+implementing (anti-virus, anti-malware) solutions that, to the extent possible,
+include a capability for automatic updates.
+Recommendation 10
+We recommend that MVA
+a. ensure that all managed computers are running current, operational
+versions of its host based malware protection software by performing
+periodic comparisons of computer counts from its malware protection
+consoles to computer counts from its directory services; and
+b. document these comparisons and retain the documentation for future
+reference.
+Ignition Interlock Program
+Finding 11
+Employees responsible for reviewing and approving changes to critical data
+relating to the Ignition Interlock Program (IIP) also had access capability
+allowing them to change these data, compromising effective internal control
+over the Program.
+Analysis
+Certain employees responsible for reviewing and approving changes to critical
+data relating to the IIP also had access capability allowing them to change these
+data, compromising effective internal control over the Program. Specifically,
+seven employees who were responsible for reviewing and approving such
+adjustments, either in a primary or back-up capacity, also had access granting
+them the capability to adjust critical IIP data, such as the driver violation and the
+period a driver was required to be in the Program. Furthermore, these employees
+could process an unauthorized adjustment transaction and then delete the record
+of the transaction after the change was made, thereby ensuring the adjustment
+would not appear on the output reports for review purposes. As a result, improper
+IIP transactions could be recorded without detection. The aforementioned
+Information Security Policy requires that agencies maintain appropriate audit
+trails of significant security events related to critical applications.
+24
+
+--- Page 27 ---
+The IIP was established to formalize the monitoring process of the ignition
+interlock device which helps prevent individuals convicted of alcohol-related
+driving violations from driving while intoxicated. Drivers are enrolled in the
+program for a certain period as a result of a court order, administrative hearing
+order, or MVA Medical Advisory Board recommendation, or may voluntarily
+enroll in the program in lieu of a driver’s license suspension or revocation.
+According to MVA records, as of February 16, 2016 there were 10,584 drivers
+actively enrolled in the IIP.
+Recommendation 11
+We recommend that MVA
+a. take appropriate action to ensure that all changes to critical IIP
+information are subject to independent supervisory review and approval,
+and
+b. remove the IIP transaction deletion capability from all users.
+Corporate Purchasing Cards
+Finding 12
+MVA did not adequately monitor corporate purchasing card (CPC)
+purchases and did not always comply with related State policies and
+procedures.
+Analysis
+MVA did not adequately monitor CPC purchases and comply with the
+requirements of the Comptroller of Maryland’s Corporate Purchasing Card
+Policy and Procedures Manual. According to the bank’s records, as of June 30,
+2016 MVA had 87 active cards, and the related expenditures totaled
+approximately $1.9 million during fiscal year 2016.
+ Our test of 25 purchasing card transactions totaling approximately $53,000
+disclosed purchases totaling $35,640 that appeared to have been split into
+smaller transactions to circumvent competitive procurement requirements of
+the State procurement regulations or the cardholder’s single transaction
+spending limit. For example, one cardholder made three purchases on the
+same day, in amounts ranging from $1,959 to $2,029, for the same product
+from the same vendor. Two days later, this cardholder and a second
+cardholder made three additional purchases, each under $2,300, for the same
+product from the same vendor. Both cardholders had single transaction limits
+of $2,500. State procurement regulations generally require the use of
+statewide commodity contracts when available and provide that procurements
+25
+
+--- Page 28 ---
+may not be divided to avoid the use of the competitive procurement process.
+Furthermore, the Manual prohibits artificially splitting purchases to
+circumvent CPC spending limits.
+ Supervisory personnel did not perform a documented review of available
+Level-3 purchasing card data to help determine the propriety of the CPC
+transaction, as required by the Manual. Level-3 data, which are provided by
+certain merchants, provide detailed descriptions of items purchased and
+provide supervisory personnel with additional information to help detect
+questionable purchases.
+ MVA did not maintain a list of disputed transactions, as required by the
+Manual, nor did it adequately follow up with the bank to ensure that
+appropriate credit was received when the bank was advised of fraudulent
+transactions. During our testing of CPC transactions, we noted that one
+cardholder identified and reported six fraudulent transactions totaling $1,071
+to the bank; however, credit had not been received and no follow-up action
+had been taken until we brought this to MVA’s attention in July 2016, 20
+months after the fraudulent charges were first reported.
+Recommendation 12
+We recommend that MVA ensure compliance with the Corporate Purchasing
+Card Policy and Procedures Manual. Specifically, we recommend that MVA
+a. ensure that CPC transactions are not split to circumvent established
+controls and in violation of Manual requirements;
+b. incorporate and document the use of Level-3 purchasing card data in
+supervisory reviews of the activity logs to help ensure the propriety of
+CPC activity; and
+c. establish procedures to follow-up, in a timely manner, on potentially
+fraudulent transactions referred to the bank.
+26
+
+--- Page 29 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Department of
+Transportation – Motor Vehicle Administration (MVA) for the period beginning
+July 25, 2012 and ending December 14, 2015. The audit was conducted in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MVA’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included the titling and registration, licensing, license
+suspension and revocation, and insurance compliance processes, as well as
+procurements and disbursements for MVA’s operating expenses, cash receipts,
+payroll, and information systems security. We also determined the status of the
+findings contained in our preceding audit report.
+Our audit did not include certain payroll support services (such as, processing of
+personnel transactions and maintenance of employee leave records) provided to
+MVA by the State Highway Administration. These support services are included
+within the scope of our audit of the State Highway Administration.
+Our audit also did not include an evaluation of internal controls over compliance
+with federal laws and regulations for federal financial assistance programs and an
+assessment of MVA’s compliance with those laws and regulations because the
+State of Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including MVA.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+MVA’s operations, and tests of transactions. Generally, transactions were
+selected for testing based on auditor judgment, which primarily considers risk.
+Unless otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+27
+
+--- Page 30 ---
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System and the Maryland Department of
+Transportation’s Financial Management Information System (such as revenue and
+expenditure data) and from the contractor administering the State’s Corporate
+Purchasing Card Program (credit card activity). The extracts are performed as
+part of ongoing internal processes established by the Office of Legislative Audits
+and were subject to various tests to determine data reliability. We determined that
+the data extracted from these sources were sufficiently reliable for the purposes
+the data were used during this audit.
+We also extracted data from MVA’s automated systems for the purpose of testing
+the propriety of licenses issued and motor vehicle registration and titling, as well
+as certain administrative actions such as license suspensions and revocations. We
+performed various tests of the relevant data and determined that the data were
+sufficiently reliable for the purposes the data were used during the audit. Finally,
+we performed other auditing procedures that we considered necessary to achieve
+our audit objectives. The reliability of data used in this report for background or
+informational purposes was not assessed.
+MVA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect MVA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+28
+
+--- Page 31 ---
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to MVA that did not warrant inclusion in this report.
+The response from the Maryland Department of Transportation, on behalf of
+MVA, to our findings and recommendations is included as an appendix to this
+report. As prescribed in the State Government Article, Section 2-1224 of the
+Annotated Code of Maryland, we will advise the Department regarding the results
+of our review of its response.
+29
+
+--- Page 34 ---
+Maryland Department of Transportation
+Motor Vehicle Administration
+Draft Audit Responses
+Period July 25, 2012 to December 14, 2015
+Licensing - Controls over Issuance and Inventory
+Finding 1
+Although an internal investigation revealed that MVA issued 270 fraudulent federally non-
+compliant driver’s license (DL) and identification (ID) cards, the scope of the investigation
+was limited and we found many additional products that may have been issued improperly.
+MVA also did not alter its procedures to correct the related control deficiencies.
+Recommendation 1
+We recommend that MVA
+a. develop procedures, such as an automated verification process for all federally non-compliant
+applicants, to ensure the same Comptroller letter control number cannot be used by more
+than one applicant to obtain a DL or ID card and to ensure that the control number was issued
+to the applicant;
+b. develop procedures to periodically identify instances in which a Comptroller letter control
+number was improperly used to obtain a Maryland DL or ID card, perform documented
+investigations, including a review of applicable supporting documentation, and take
+appropriate action;
+c. expand its review of addresses used by multiple applicants to include a review of applicable
+supporting documentation, take appropriate follow-up action, and document work performed;
+d. investigate the results of our analyses and cancel any cards which were improperly issued,
+including the 19 products identified in our tests, and refer the applicants to the appropriate
+authorities; and
+e. identify the circumstances involved in issuing the potentially fraudulent non-compliant
+products identified in our analyses and, in consultation with the Office of the Attorney
+General – Criminal Division, take appropriate action.
+Response:
+a. The Administration concurs with this recommendation. The MDOT MVA takes the issue of
+fraud very seriously. In 2013, Maryland passed a law authorizing the issuance of driver’s
+licenses and identification cards to individuals who cannot demonstrate lawful status. The
+MDOT MVA already identified and immediately took administrative action against the
+employees who did not follow the required procedures of ensuring the customer had an
+appointment, which enforces a unique Comptroller Number. In addition, prior to the
+legislative audit, the MDOT MVA initiated programming modifications in the Driver
+Licensing System (DLS) to ensure that if a Comptroller Number has already been used, the
+system will not allow the transaction to be completed. This change was completed in April
+2017.
+
+--- Page 35 ---
+b. The Administration concurs with this recommendation. With the implementation of the new
+programming in the DLS system, if there is an attempt to utilize a Comptroller Number that
+has already been used, the system will stop the transaction and it will be reviewed by MDOT
+MVA Investigations.
+c. The Administration concurs with the recommendation. For the past two years, MDOT MVA
+Investigations Division has been using an application that identifies if there are multiple
+products issued in different names (i.e. no family relation) at a particular address. The
+investigator will review the documents and personally visit the location, if necessary, to
+verify whether the individuals reside at that address. If fraud is detected, then the products
+are cancelled. During Calendar Year 2016, there were 360 license cancellations due to this
+process. In addition, in March 2017, the MDOT MVA implemented a program in which if a
+specific address is utilized a particular number of times, it will stop the transaction and refer
+the individual to MDOT MVA Investigations for address verification. During Calendar Year
+2017 through September, the MDOT MVA has canceled 1,204 licenses for residency fraud.
+All reviews are being documented by MDOT MVA Investigations Division.
+d. The Administration concurs with the recommendation and in December 2016 initiated the
+process of canceling 18 of the 19 cards. One card was determined not to be fraudulent. As of
+November 3, 2017, all 18 remaining cards have been cancelled. When a driver’s license is
+canceled because of residency fraud, that individual is required to meet with an investigator.
+If the MDOT MVA investigator concludes that there is sufficient probable cause to believe
+that the customer committed fraud in their application, the MDOT MVA investigator will
+issue a written citation charging the individual with violating Transportation Article § 16-301
+(a), knowingly and fraudulently obtaining a driver’s license by misrepresentation. During
+Calendar Year 2016, 146 citations were issued. A citation requires the customer to appear in
+court and they face a maximum penalty of 2 months imprisonment, a $500 fine, or both.
+e. The Administration concurs with this recommendation. The MDOT MVA has taken swift
+action to address fraud in the Comptroller Number and in residency as identified above. For
+any individual or employee engaging in criminal conduct, MDOT MVA Investigations
+Division contacts appropriate local, state, or federal law enforcement for possible
+prosecution.
+Finding 2
+Adequate controls were not established over MVA’s inventory stock of blank driver’s
+license and identification cards.
+Recommendation 2
+We recommend that MVA
+a. adequately separate employee duties relating to the procurement, receipt, and recording of its
+driver’s license and identification card inventory stock;
+b. develop a procedure, such as a documented independent supervisory review, to ensure that
+all cards received are properly recorded in the inventory tracking system; and
+c. determine and document the disposition of the aforementioned 7,500 cards.
+We advised MVA on accomplishing the necessary separation of duties using existing personnel.
+
+--- Page 36 ---
+Response:
+a. The Administration concurs with this recommendation. As of December 30, 2016, we
+implemented the steps to segregate the duties related to the procurement, receipt, and
+recording, of driver’s license and identification card inventory.
+b. The Administration concurs with this recommendation. In January 2016, a procedure was
+implemented that requires independent documented supervisory review of all cards within
+the inventory system.
+c. The Administration concurs with this recommendation. We investigated all of the 7,500
+cards in question, of which 6,465 cards were verified though collection of data from parallel
+testing and user acceptance testing programs. The balance of 1,035 cards were used for
+Disaster Recovery Site and Maintenance Testing prior to establishing a perpetual record. All
+1,035 cards were destroyed after testing was completed.
+Licensing – Suspension and Revocation
+Finding 3
+MVA did not ensure that all driving records were being reviewed, as required, for possible
+administrative action, and our tests disclosed several records for which required
+administrative action was not taken.
+Recommendation 3
+We recommend that MVA
+a. ensure that all driving records with 8 and 12 accumulated points are reflected on reports for
+subsequent review to determine if administrative action is required;
+b. investigate the aforementioned 8 driving records noted in our review and take appropriate
+action; and
+c. identify and investigate other driving records which have not been reviewed, and take
+appropriate action in consultation with legal counsel.
+Response:
+a. The Administration concurs with this recommendation. The MDOT MVA implemented
+procedures in January 2017 to ensure that all records with 8 and 12 point accumulations are
+reviewed for administrative actions.
+b. The Administration concurs with this recommendation. The MDOT MVA completed a
+review of the 8 identified cases and determined 2 of the 8 cases required additional
+administrative action. As of November 2017, the appropriate administrative actions on these
+2 license holders have been instituted.
+c. The Administration concurs with this recommendation. The MDOT MVA is reviewing
+reports from January 1, 2016 forward to identify if there are additional cases that warrant
+further administrative action. We anticipate completing the manual review by the end of
+January 2018.
+
+--- Page 37 ---
+Finding 4
+MVA did not ensure that required supervisory reviews of critical transactions recorded on
+driving records, including license suspensions and revocations, were adequately performed
+and documented.
+Recommendation 4
+We recommend that MVA
+a. conduct supervisory reviews of critical transactions recorded on driving records in
+accordance with its policy, and
+b. ensure that all such reviews are adequately and accurately documented.
+Response:
+a. The Administration concurs with this recommendation. On October 20, 2016, the MDOT
+MVA policy on auditing critical transactions was redistributed to management and
+supervisors to ensure audits are conducted per that policy.
+b. The Administration concurs with this recommendation. Management has met with the
+appropriate personnel to remind staff of the appropriate policies and will conduct periodic
+reviews of audit documentation to ensure that requirements are met.
+Contract Procurement and Monitoring
+Finding 5
+MVA did not ensure that labor rates included in a $21.4 million information technology
+(IT) contract were the most favorable available, and MVA’s procedures for monitoring IT
+contracts and reviewing the related billings did not ensure hours billed were reasonable,
+receipt of all deliverables, and compliance with all contract terms.
+Recommendation 5
+We recommend that MVA
+a. take all appropriate steps, including consideration of CATS contracts, to obtain the lowest
+labor rates available for IT services required;
+b. establish task orders to direct contractor work including estimated hours, not-to-exceed costs,
+milestones, and completion dates;
+c. review task order proposals to ensure the work is appropriate and the proposed costs are
+reasonable;
+d. adequately monitor contracts to ensure that all contract requirements are met and deliverables
+are completed to MVA’s satisfaction, including completion of signed delivery acceptance
+forms as required;
+e. ensure that all contractor employees are reviewed for qualifications, properly approved, and
+that a periodic evaluation is performed for each resource as required;
+f. ensure that all billings are in accordance with the time and materials provisions of the
+contracts and established task orders and reflect approved contract rates paid; and
+g. perform a documented review of all invoices submitted for the contracts tested to identify
+any overpayments made and take appropriate action to recover any overpayments made,
+including those we identified.
+
+--- Page 38 ---
+Response:
+a. The Administration partially concurs and does use the CATS contract when deemed
+appropriate. However, there will be times when a stand-alone RFP is a better procurement
+method. Additionally, the CATS contract does not have the full range of vendors available
+that MDOT MVA might want to allow the opportunity to propose. Also, the RFP cited was
+reviewed and approved by DoIT, and was presented on their BPW agenda for approval. This
+was such an important and large project, MDOT MVA wanted to allow the best companies
+available on the open market to propose, not just those on the CATS contract.
+b. The Administration concurs with the recommendation. As of January 2017, MDOT MVA
+issues task orders detailing work to be completed, estimated hours, not-to-exceed limits, and
+completion dates for future work on this contract.
+c. The Administration concurs with the recommendation. As of January 2017, MDOT MVA
+has implemented a task order proposal review process to ensure proposed work and levels of
+effort are appropriate and reasonable to the task. The contractor produces a Work Breakdown
+Structure (WBS) detailing the tasks required to complete the task order, including estimated
+hours, milestones, and completion dates. The WBS is evaluated and adjusted as required to
+meet the task order requirements and keep costs at or below the funds allocated to the
+contract. The MDOT MVA process ensures the contractor adheres to the WBS parameters
+laid out in the contract.
+d. The Administration concurs with the recommendation. MDOT MVA project or contract
+managers ensure all contract deliverables are listed and monitored until completion. MDOT
+MVA project or contract managers have reviewed the Deliverables Tracker for the project
+and verified tasks to be monitored are sufficiently documented in the Deliverables Tracker.
+Project or contract manager updates the tracker as needed weekly. In May 2017, the MDOT
+MVA started to validate that executed signed acceptance forms are submitted for deliverables
+that are completed to the satisfaction of the MDOT MVA.
+e. The Administration concurs with the recommendation. As of January 2017, the MDOT
+MVA implemented a revised process to review and provide approvals for substituted
+resources. In addition, MDOT MVA prepares evaluations for any contracted resources as
+required by the contract.
+f. The Administration concurs with the recommendation. As of January 2017, the contract
+manager reviews, verifies and documents that billings are in accordance with provisions of
+the contracts and established task orders.
+g. The Administration concurs with this recommendation. MDOT MVA conducted a
+documented review of all invoices and determined that they were charged appropriately for
+the resource requested. The invoices reflected the wrong labor category for a resource.
+MDOT MVA requested that the vendor submit corrected invoices to reflect the appropriate
+labor category and the vendor made the changes.
+In addition, formal contract management training is under development and will be presented
+prior to the end of July 2018 to all MDOT MVA Project Managers, Contract Managers, and Task
+Managers, as well as any employees, no matter the title or job classification, that are responsible
+for any type of management, monitoring, reviewing, and/or payment of contracts and invoices.
+
+--- Page 39 ---
+Finding 6
+MVA did not adequately control electronically submitted vendor bids.
+Recommendation 6
+We recommend that MVA
+a. establish procedures, such as requiring password protection, to properly secure
+competitively sealed bids received electronically;
+b. ensure that all competitively sealed bids are opened publicly; and
+c. maintain documentation of bid openings.
+Response:
+a. The Administration concurs with the recommendation. We have established standard
+operating procedures (SOP) for bid openings, hardcopy and electronic. To ensure the
+appropriate level of security, as of October 1, 2017, the electronic bid opening SOP includes
+password protection requirements.
+b. The Administration concurs with the recommendation. We publicly open all competitive
+sealed bids, electronic and hardcopy effective October 1, 2017.
+c. The Administration concurs with the recommendation. Effective October 1, 2017, we
+document all bid openings by creating a bid smmary which includes the contract number;
+bid opening date; and name, city, state, and total bid price of each bidder.
+Cash Receipts
+Finding 7
+MVA did not have adequate procedures to ensure that differences between recorded
+collections and amounts deposited by branch offices were adequately investigated and
+resolved.
+Recommendation 7
+We recommend that MVA
+a. Ensure that differences identified by the daily reconciliations and chargeback transactions
+are adequately investigated, including an examination of all relevant supporting
+documentation;
+b. maintain adequate documentation of the investigations performed; and
+c. provide for supervisory review and approval of the investigations and any resulting
+adjustments.
+Response:
+a. The Administration concurs with this recommendation. In September 2016, the Accounting
+Division implemented new procedures (these procedures also apply to recommendations b
+and c) ensuring that differences identified in daily reconciliations and chargeback
+transactions are adequately investigated. Investigative support documentation is reviewed
+by the supervisor and maintained with the corresponding adjusting entries.
+
+--- Page 40 ---
+b. The Administration concurs with this recommendation. The Accounting Division will
+continue to maintain adequate documentation of investigations performed.
+c. The Administration concurs with this recommendation. The Accounting Division will
+continue to ensure that the daily reconciliations, investigations, and corresponding
+adjustments are reviewed and approved by supervisory personnel.
+Finding 8
+Collections received at MVA headquarters for vehicle registration renewals processed at
+county offices were not adequately controlled.
+Recommendation 8
+We recommend that MVA
+a. secure checks prior to deposit and ensure they are recorded and restrictively endorsed
+immediately upon receipt (repeat);
+b. segregate the cash collection, account monitoring, and deposit verification functions
+(repeat); and
+c. monitor county transactions to ensure that all related collections and supporting
+documentation are received at least weekly by MVA in accordance with State law (repeat).
+We advised MVA on accomplishing the necessary separation of duties using existing personnel.
+Response:
+a. The Administration concurs with the auditor’s recommendation. As of July 2016, the
+Accounting Division has implemented procedures to secure checks prior to deposit and
+ensure that they are recorded and restrictively endorsed immediately upon receipt. Further,
+effective March 3, 2017, all checks are received and restrictively endorsed by the remittance
+processor room supervisor.
+b. The Administration concurs with the recommendation and has implemented procedures as
+of July 2016 to segregate the cash collections and access, account monitoring, adjustments,
+and deposit verification functions.
+c. The Administration partially concurs with the auditor’s recommendation. Late deposits
+have decreased significantly because of the MDOT MVA’s close monitoring of this issue.
+Only 2 of the 12 locations have more than one occurrence of lateness, an improvement over
+the prior legislative audit where all locations had occurrences of lateness. The Accounting
+Division regularly monitors county transactions, and communicates with jurisdictions when
+aware of late transactions to ensure that all collections and supporting documentation are
+received at least weekly. Consistent with legislative audit recommendations, MDOT MVA
+will discontinue this program for counties who continue to submit late deposits. This could
+cause significant customer service issues for the nearly 20,000 customers who renewed their
+vehicle registration through this option in 2016.
+
+--- Page 41 ---
+Information Systems and Controls
+Finding 9
+Controls over the MVA virtual server environment did not properly protect critical virtual
+servers.
+Recommendation 9
+We recommend that MVA restrict administrative access to its virtual server environment to
+individuals whose job duties require such access.
+Response:
+The Administration concurs with the finding and as of March 31, 2017, the issue was resolved.
+The unauthorized access for the individuals was removed. Each agency has its own directory
+group and only sees their own environment. As of April 2017, quarterly reviews are conducted
+to review accesses. Results of each review are documented and reviewed/signed off by
+management.
+Finding 10
+Procedures for securing MVA’s numerous computers were not sufficient.
+Recommendation 10
+We recommend that MVA
+a. ensure that all managed computers are running current, operational versions of its host based
+malware protection software by performing periodic comparisons of computer counts from
+its malware protection consoles to computer counts from its directory services; and
+b. document these comparisons and retain the documentation for future reference.
+Response:
+a. The Administration concurs with the recommendation. Beginning April 1, 2017, bi-weekly
+reviews are being conducted to compare the number of devices per network directory records
+versus the number of managed devices. Separate bi-weekly reviews are conducted to ensure
+all devices have the latest malware/anti-virus software installed (not more than 90 days since
+last available update).
+b. The Administration concurs with the recommendation. Results of each review are
+documented and reviewed/signed off by management and retained for audit purposes as of
+April 2017.
+Ignition Interlock Program
+Finding 11
+Employees responsible for reviewing and approving changes to critical data relating to the
+Ignition Interlock Program (IIP) also had access capability allowing them to change these
+data, compromising effective internal control over the Program.
+
+--- Page 42 ---
+Recommendation 11
+We recommend that MVA
+a. take appropriate action to ensure that all changes to critical IIP information are subject to
+independent supervisory review and approval, and
+b. remove the IIP transaction deletion capability from all users.
+Response:
+a. The Administration concurs with this recommendation. Programming revisions were
+completed in May 2017 to ensure an independent supervisory review of case modifications.
+The reports have been modified to reflect the user ID of both the individual performing the
+audit approval and the individual who performed the transaction. Additionally, the system
+has been programmed to block approval if the auditor approver and the individual who
+performed the transaction have the same user ID.
+b. The Administration concurs in part with this recommendation. The ‘deletion’ action is a tool
+used for queue management to remove an item from a work queue but does not remove the
+item from the record. Programming revisions in May 2017 limited this function to only the
+Section Manager and Business System Administrator because this type of functionality is
+still necessary in certain cases within the system. The program changes also allowed
+consolidation on certain entries on one soundex record where there are many work items.
+Corporate Purchasing Cards
+Finding 12
+MVA did not adequately monitor corporate purchasing card (CPC) purchases and did not
+always comply with related State policies and procedures.
+Recommendation 12
+We recommend that MVA ensure compliance with the Corporate Purchasing Card Policy and
+Procedures Manual. Specifically, we recommend that MVA
+a. ensure that CPC transactions are not split to circumvent established controls and in violation
+of Manual requirements;
+b. incorporate and document the use of Level-3 purchasing card data in supervisory reviews of
+the activity logs to help ensure the propriety of CPC activity; and
+c. establish procedures to follow-up, in a timely manner, on potentially fraudulent transactions
+referred to the bank.
+Response:
+The Administration concurs with all recommendations.
+a. In August 2016 and again in February 2017, a Memorandum was distributed to all
+cardholders and reviewers as a reminder that split purchases are strictly prohibited. In
+addition, an email notification of this violation to the CPC policy and regulation is being sent
+to specific cardholders and their reviewers who are identified as either splitting a transaction
+or there is an appearance of splitting a transaction.
+
+--- Page 43 ---
+A revised notice related to cardholder security and card usage will be distributed to all
+cardholders and reviewers by December 2017. A Small Procurement Record (SPR) form is
+being developed to outline systematic procedures on how to make a small purchase of $5,000
+or less. Prior to April 2018, the SPR form will be distributed to all cardholders and
+reviewers, and posted on the Office of Procurement and Contracts intranet site, to be used
+when making a CPC purchase. A formal and updated CPC Training is under development
+and will be completed by all cardholders and reviewers prior to the end of July 2018.
+b. Effective September 2017, Level-3 purchasing card data and bank reports are analyzed
+monthly to ensure appropriate and compliant CPC activity. All questionable purchases are
+being addressed in writing by the CPC Program Administrator (CPCPA) via an email inquiry
+to the cardholder and reviewer. A valid response is required and documented by the CPCPA.
+c. Prior to February 2018, a standard operating procedure will be established for potentially
+fraudulent transactions that have been referred to the bank, including timelines for follow-up.
+
+--- Page 44 ---
+A T
+UDIT EAM
+William R. Smith, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+Julia M. King
+Marissa L. Riddle, CPA
+Senior Auditors
+J. Gregory Busch
+Matthew D. Walbert, CISA
+Information Systems Senior Auditors
+Monica G. Pressley
+Dianne P. Ramirez
+Tu N. Vuong
+Staff Auditors

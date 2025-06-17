@@ -1,0 +1,611 @@
+Title: State Lottery Agency
+Date: 12/08/2008
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d13cc9d7245606744c7
+Extracted: 2025-06-17T19:16:15.873824
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+State Lottery Agency
+May 2012
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+ This report and any related follow-up correspondence are available to the public through the
+Office of Legislative Audits at 301 West Preston Street, Room 1202, Baltimore, Maryland
+21201. The Office may be contacted by telephone at 410-946-5900, 301-970-5900, or 1-877-
+486-9964.
+ Electronic copies of our audit reports can be viewed or downloaded from our website at
+http://www.ola.state.md.us.
+ Alternate formats may be requested through the Maryland Relay Service at 1-800-735-2258.
+ The Department of Legislative Services – Office of the Executive Director, 90 State Circle,
+Annapolis, Maryland 21401 can also assist you in obtaining copies of our reports and related
+correspondence. The Department may be contacted by telephone at 410-946-5400 or 301-
+970-5400.
+
+--- Page 4 ---
+2
+
+--- Page 5 ---
+Table of Contents
+Executive Summary 5
+Background Information 7
+Agency Responsibilities 7
+Financial Information 7
+Video Lottery Terminal Program 8
+Status of Findings From Preceding Audit Report 8
+Findings and Recommendations 9
+Information Systems Security and Control
+Finding 1 – SLA’s Network Was Not Adequately Secured 9
+Finding 2 – Mainframe Security Reporting and Review Procedures Were 11
+Not Adequate
+Finding 3 – Service Level Agreements and the Related Independent 12
+Reports Did Not Address Certain Risks
+Video Lottery Terminal Program
+Finding 4 – Supervisory Review and Approval of the Resolution of 13
+Incidents and Instances of Non-Compliance Was Not Documented
+Finding 5 – SLA Did Not Adequately Monitor Video Lottery Terminals 14
+for Periods of Inoperability
+Finding 6 – SLA Lacked Adequate Procedures Over the Issuance of 15
+Licenses and Registrations and the Related Fees
+Audit Scope, Objectives, and Methodology 17
+Agency Response Appendix
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Executive Summary
+Legislative Audit Report on the
+State Lottery Agency (SLA)
+May 2012
+ A number of security and control deficiencies were noted with regard to
+SLA’s information systems. For example, the network was not
+adequately secured against external threats, and mainframe security
+reports were not comprehensive or independently reviewed.
+SLA should take the recommended actions to improve information systems
+controls and security.
+ Supervisory review and approval of the resolution of incidents
+(complaints from the public) and instances of non-compliance with
+established internal control policies investigated by its employees located
+at various casinos was not documented.
+SLA should ensure that supervisory review is performed and documented to
+ensure proper disposition of these incidents and instances of non-compliance
+reported.
+ SLA did not adequately monitor video lottery terminals (VLT) operations
+for periods of VLT inoperability.
+SLA should promptly obtain and review reports identifying periods of VLT
+inoperability and take appropriate actions.
+ Documented supervisory reviews did not exist for the issuance of all
+licenses, and independent comparisons were not performed to ensure the
+proper fees were collected for licenses issued.
+SLA should ensure that supervisory reviews of all licenses issued are
+performed and documented, and that appropriate fees were collected.
+5
+
+--- Page 8 ---
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities
+The State Lottery Agency (SLA) administers and operates various lottery games
+to generate revenue primarily for the State’s General Fund, the Maryland Stadium
+Authority, and certain other governmental funds and agencies. In fiscal 2011,
+there were 4,200 licensed lottery agents that sold instant tickets and online tickets
+to the public through the use of computerized terminals. Online games include
+traditional games, such as Pick 3/Pick 4; multi-state games, such as Mega
+Millions and Power Ball; and monitor games, such as Keno. SLA’s
+responsibilities for the operation of these games require continuous oversight and
+marketing of lottery gaming operations as well as the development of new games.
+SLA has entered into an agreement with an online gaming contractor to help
+fulfill these responsibilities as well as to perform the daily operation and
+maintenance of the gaming system.
+The State Lottery Commission, which consists of nine members appointed by the
+Governor with the advice and consent of the State Senate, has oversight
+responsibilities for SLA’s operations. In November 2008, the Commission
+assumed responsibility for regulating the operation of the video lottery terminal
+program.
+Financial Information
+According to SLA’s audited financial statements for the fiscal year ended June
+30, 2011, gross revenues totaled approximately $1.8 billion of which:
+ $1 billion was used for prize claims;
+ $114 million was distributed for agent commissions and claims fees;
+ $111 million was used to pay SLA’s operating expenses;
+ $20 million was transferred to the Maryland Stadium Authority in accordance
+with the State Government Article of the Annotated Code of Maryland;
+ $499 million was credited to the General Fund of the State; and
+ $67 million was credited to Other Governmental Funds/Agencies, as
+authorized by State law.
+SLA engages an independent accounting firm to perform an annual audit of its
+financial statements and monthly audits of special-purpose financial statements,
+and to provide assistance in technical accounting matters. In the related audit
+reports for the fiscal years ended June 30, 2008, 2009, 2010, and 2011 the firm
+7
+
+--- Page 10 ---
+stated that SLA’s financial statements presented fairly, in all material respects, its
+financial position, results of its operations and its cash flows for the years then
+ended, in conformity with accounting principles generally accepted in the United
+States of America.
+Video Lottery Terminal Program
+Chapter 4 of the 2007 special session established the operational and regulatory
+framework for the video lottery terminal (VLT) program in the State. In
+November 2008, Maryland voters approved a constitutional amendment
+authorizing up to 15,000 VLTs at five specified locations in the State. Upon
+approval of this amendment, the law which authorized the licensing of VLT
+gaming became effective.
+Three of the five licenses to operate a VLT facility (casino) in Maryland have
+been awarded for the Cecil, Worcester, and Anne Arundel County locations. The
+gaming contractor licensees are responsible for the daily operations of the casino
+with onsite monitoring being performed by SLA. SLA has also entered into an
+agreement with a contractor to operate a central computer system that performs
+VLT accounting and provides monitoring, command, and control functions for the
+VLTs. The casinos in Cecil and Worcester Counties began VLT gaming
+operations on September 27, 2010 and January 4, 2011, respectively. Ground
+breaking for the Anne Arundel County facility took place on January 27, 2011
+and it is expected to open during fiscal year 2012. As of December 2011, the
+State had received one bid for the Baltimore City location and two bids for the
+Allegany County location and was in the process of reviewing these bids.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the four findings contained
+in our preceding audit report dated December 8, 2008. We determined that SLA
+satisfactorily addressed these findings.
+8
+
+--- Page 11 ---
+Findings and Recommendations
+Information Systems Security and Control
+Background
+SLA’s Division of Information Technology manages the development,
+maintenance, and support of SLA’s information technology infrastructure,
+including all related networking, telecommunications, and business information
+systems. The Division’s staff operates a mainframe computer which hosts
+numerous systems used for multiple purposes including: SLA agent
+administration, tracking of SLA annuity winners, claims administration, financial
+systems operations and monitoring, and review of sales. In addition, the Division
+operates an internal network which includes email, application, and database
+servers. Furthermore, the internal network connects to networkMaryland, the
+Internet, and a contractor network used for support of SLA games.
+The SLA wide area network (WAN) also supports the oversight and monitoring
+of the VLTs in the casinos. WAN connections are operational for the Cecil
+County and Worcester County casinos and a contractor providing accounting,
+monitoring, and control functions for the casinos, on behalf of SLA.
+As previously mentioned, SLA engaged two contractors to provide support for
+SLA games (including processing and oversight and monitoring of video lottery
+terminals and the online gaming system). SLA entered into service level
+agreements with these two contractors which defined the terms and requirements
+for the contractual services. In addition, to provide assurance that the terms of the
+agreements were complied with, SLA received periodic, independent reports from
+another contractor which included descriptions of the contractors’ controls and
+security procedures and the results of tests designed to ensure that these controls
+and security procedures were effective for designated periods.
+Finding 1
+The SLA network was not adequately secured from untrusted traffic and the
+network was not adequately protected by the intrusion detection and
+prevention system.
+Analysis
+The SLA network was not adequately secured from untrusted traffic and the
+network was not adequately protected by the intrusion detection and prevention
+system (IDPS). Specifically, we noted the following conditions:
+9
+
+--- Page 12 ---
+ The firewalls installed to protect the SLA network allowed unnecessary and
+insecure connections to network devices in the internal network. The
+firewalls’ rules were not configured to adequately secure connections into
+these networks from the Internet, networkMaryland, and other untrusted
+sources. Therefore, critical network devices were susceptible to attacks which
+could result in a loss of data integrity or the interruption of critical network
+services.
+ Network traffic from a contractor to SLA’s secondary claims center and
+backup data center was not filtered by any SLA device. As a result, critical
+network devices at the centers were susceptible to attacks.
+ The IDPS was not properly used to protect critical portions of the network.
+Specifically, the IDPS was not properly positioned to monitor and filter
+network traffic from two untrusted third-party networks. Also, the device
+used for intrusion detection and prevention had not been supported by its
+vendor since December 2009. As a result, the IDPS device did not protect the
+SLA network from new types of attacks.
+The State of Maryland’s Department of Information Technology (DoIT)
+Information Security Policy requires firewalls be configured to achieve a “least
+privilege” security strategy. The Policy also requires that intrusion
+detection/prevention tools be employed to monitor system events, detect attacks,
+and identify unauthorized use of information systems and/or confidential
+information.
+Recommendation 1
+We recommend that SLA
+a. configure its firewalls to achieve a least privilege security strategy giving
+entities, individuals, and devices only those access privileges needed to
+perform assigned tasks;
+b. filter network traffic between the aforementioned contractor and the
+SLA’s secondary claims center and backup data center to achieve a least
+privilege security strategy;
+c. implement IDPS coverage for all critical portions of its network; and
+d. ensure that its intrusion detection and prevention devices are supported
+by their vendors and that the devices are kept up to date for all
+significant vendor updates.
+10
+
+--- Page 13 ---
+Finding 2
+Mainframe security reporting and review procedures were not adequate.
+Analysis
+Mainframe security reporting and review procedures were not adequate.
+Specifically, we noted the following conditions:
+ SLA was generating a mainframe security report on a daily basis; however,
+this report did not include several significant security events such as creating
+and changing users’ assigned capabilities.
+ The mainframe administrator (responsible for creating and changing users,
+assigning special privileges, and assigning menu functions to users) was
+solely responsible for reviewing the mainframe security report. As a result,
+any security actions performed by the administrator were not subject to an
+independent review. In addition, although we were advised that the
+mainframe security report was reviewed on a daily basis, these reviews were
+not documented.
+These conditions could result in unauthorized or inappropriate activities (affecting
+the integrity of the mainframe data), which could go undetected by management.
+The State of Maryland’s Department of Information Technology (DoIT)
+Information Security Policy requires an audit trail process to ensure accountability
+of system and security-related events; and a process to ensure that all systems
+have the ability to log and report specific security incidents and all attempted
+violations of system security.
+Recommendation 2
+We recommend that SLA
+a. redesign the security report to include all critical security related events;
+and
+b. perform independent reviews of this security report, document these
+reviews, and retain the documentation for future reference.
+11
+
+--- Page 14 ---
+Finding 3
+The service level agreements and the related independent reports did not
+address certain security and operational risks.
+Analysis
+The service level agreements and the related independent reports did not address
+certain security and operational risks. For example, we noted that the agreements
+did not contain a provision that required the contractors to perform daily
+documented reviews of audit logs, which is a DoIT requirement for State
+agencies. Furthermore, we noted that the independent reports, which were
+intended to provide assurance that the provisions of the agreements were met, did
+not address several information technology security related provisions of the
+agreements. For example, the independent reports did not indicate whether
+intrusion detection, malware prevention, vulnerability scanning, and antivirus
+protection had been implemented by the contractors. We provided SLA with
+complete lists of provisions which should be included in the agreements and
+existing provisions in the agreements that were not addressed by the independent
+reviews and reports.
+Recommendation 3
+We recommend that SLA
+a. attempt to amend the aforementioned service level agreements to add
+language to address the provisions that we presented to SLA;
+b. require contractors to obtain and review the independent reports that
+address all critical contractual provisions relating to security, availability,
+processing integrity, confidentiality, and privacy contained in the
+contracts between SLA and the contractors and;
+c. ensure future contracts contain provisions to address significant security
+and operational risks.
+Video Lottery Terminal Program
+Background
+According to State law, each video lottery terminal (VLT) operator, manufacturer,
+gaming contractor, and video lottery employee must be licensed by the State
+Lottery Agency (SLA). Applicants for licenses must provide various financial
+information and are subject to a background investigation. According to SLA’s
+records, as of May 2011, 1,448 licenses had been issued. In addition, vendors
+providing non-gaming services at the casinos (such as janitorial services) must be
+registered by SLA. As of June 6, 2011, 93 vendors were registered by SLA
+according to its records. Licensees and registered vendors are provided with
+12
+
+--- Page 15 ---
+security badges that provide them access to the casino, including non-public
+areas.
+Up to a maximum of 15,000 VLTs may be installed at the five authorized
+locations throughout the State. As of January 10, 2012, the Cecil County and
+Worcester County casinos had 2,300 operational VLTs, which are owned by the
+State. Under contracts with the State, nine VLT vendors provide maintenance and
+support and are required to meet certain timeframes to return inoperable VLTs to
+operation or SLA may assess liquidated damages.
+Each gaming contractor operating a casino is required to comply with certain
+SLA-approved internal control and operational policies. State law requires an
+SLA employee or agent to be present during the operation of any video lottery
+terminal location for the purpose of receiving complaints from the public (referred
+to as “incidents”) and conducting investigations into the operation of the VLTs
+and the maintenance of the VLTs, associated equipment, and software.
+Finding 4
+Supervisory review and approval of the resolution of incidents and instances
+of non-compliance at the casinos was not documented.
+Analysis
+Although SLA employees assigned to monitor casino operations completed
+compliance control reports documenting incidents and instances of non-
+compliance with established internal control policies and their resolution, there
+was no documented supervisory review and approval of these reports. As a result,
+there was a lack of assurance that the appropriate action to resolve the incidents
+was taken. We sighted the compliance control reports completed from November
+2010 to March 2011 at the two casinos in operation (for example, the Cecil
+County casino had 57 such reports during this period). We noted numerous
+incidents on the reports (such as, access to the rear of the casino not being
+monitored as required by the established internal control policies, the actual VLT
+payout rate not being in accordance with SLA’s agreed upon rate, and VLT
+machines experiencing unanticipated shutdowns). Although we were advised that
+these reports were reviewed during periodic site visits to the casinos by SLA
+supervisory employees, there was no documentation of these reviews.
+Recommendation 4
+We recommend that SLA supervisory personnel document their review and
+approval of the compliance control reports to ensure proper disposition.
+13
+
+--- Page 16 ---
+Finding 5
+SLA did not adequately monitor the VLT operations for periods of VLT
+inoperability.
+Analysis
+SLA lacked adequate procedures to monitor the VLT operations for periods of
+inoperability to ensure that contractual requirements had been fulfilled and that
+the opportunity to collect gaming revenues had been maximized. Furthermore,
+SLA did not assess liquidated damages against the contractors providing the
+VLTs when terms of the contract were not met. According to the related
+contracts, the contractors were required to ensure inoperable VLTs were returned
+to an operational state within 90 minutes, and SLA could assess liquidated
+damages if the contractor failed to return an inoperable VLT to an operational
+status within 90 minutes. The damages may be up to $50 for each hour or
+fraction thereof in excess of the 90 minutes.
+Beginning in February 2011, reports were available to SLA from its central VLT
+system that noted the time it took the contractors to return the VLTs to an
+operational status; however, we were advised by SLA management that as of
+August 2011, SLA had not obtained or reviewed these reports. We obtained the
+reports for the period February 2011 to August 2011 (which we did not verify).
+These reports indicated 78 instances of inoperability exceeding 90 minutes
+involving 125 VLT machines. We calculated that liquidated damages totaling
+$60,000 could have been assessed for machines that were down for more than 90
+minutes. According to SLA’s records, the average revenue per VLT at the two
+operating facilities was $182 per day.
+Although SLA was unaware of the number and length of the periods of
+inoperability, upon our inquiry, management informed us that, in its opinion, due
+to the fact that the casinos have been opened less than a year and that there could
+be a number of undisclosed reasons for the machines being inoperable, liquidated
+damages would not have been assessed. Nevertheless, SLA should have been
+monitoring the activity.
+Recommendation 5
+We recommend that SLA
+a. regularly obtain and review the reports identifying the time the VLT
+machines are inoperable;
+b. assess liquidated damages as permitted by the contract when deemed
+appropriate; and
+c. formally document its reasons when liquidated damages are not assessed.
+14
+
+--- Page 17 ---
+Finding 6
+Adequate procedures and controls were not established over the issuance of
+licenses and registrations and the related fees.
+Analysis
+SLA lacked sufficient controls over certain aspects of the licensing functions for
+the VLT operations. Specifically, we noted the following conditions:
+ SLA did not ensure that independent supervisory review of each license
+issued was documented. Our test of 10 licenses issued to certain employees
+who were issued badges to access the casino disclosed that SLA could not
+provide us with documentation supporting the independent review of 3
+principal employees. A principal employee is a video lottery employee who
+owns, controls, or manages a license or otherwise exercises control over the
+video lottery function of a licensee.
+ SLA had not established procedures to ensure that, upon termination, licensed
+and registered individuals were returning their related badges to SLA.
+ Therewas no independent comparison performed to ensure that an appropriate
+fee was collected before the background investigations were performed and
+licenses issued. These fees, which ranged from $187 for a non-gaming
+employee to $35,000 for a manufacturer license, are initially received by an
+employee in the SLA Finance Office. The Finance Office employee then
+notifies the VLT Licensing Unit that the fees were received. However, the
+Unit did not ensure the appropriate fee was collected before the background
+investigations were conducted and licenses issued.
+ SLA did not have a procedure in place to ensure that all vendors doing
+business with the casinos were properly registered. Registration with SLA is
+required so that it can ensure the business relationship is in the best interest of
+the State and that the companies are registered with the State of Maryland. In
+this regard, a May 2011 SLA internal audit report identified 23 unregistered
+vendors doing business with a casino during calendar year 2011.
+Based on the above conditions, there was a lack of assurance that all licenses were
+properly issued by SLA, access to the casino facilities was properly controlled,
+that all license fees were properly received before background checks were
+performed and licenses were issued, and vendors were properly registered.
+15
+
+--- Page 18 ---
+Recommendation 6
+We recommend that SLA
+a. ensure that independent supervisory personnel review licenses issued
+and, on a test basis, verify the related approval documentation, and that
+these procedures are documented and retained for future reference;
+b. establish procedures to ensure that all badges are returned upon
+termination;
+c. ensure that applicable fees are collected before background checks are
+performed and licenses are issued; and
+d. establish procedures to ensure that all vendors are properly registered.
+16
+
+--- Page 19 ---
+Audit Scope, Objectives, and Methodology
+We have audited the State Lottery Agency (SLA) for the period beginning March
+17, 2008 and ending March 6, 2011. The audit was conducted in accordance with
+generally accepted government auditing standards. Those standards require that
+we plan and perform the audit to obtain sufficient, appropriate evidence to
+provide a reasonable basis for our findings and conclusions based on our audit
+objectives. We believe that the evidence obtained provides a reasonable basis for
+our findings and conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine SLA’s financial
+transactions, records and internal controls, and to evaluate its compliance with
+applicable State laws, rules, and regulations. We also determined the status of the
+findings included in our preceding audit report.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of materiality and risk. The audit
+addressed the operation of the lottery games and VLT operations, including the
+accountability and controls over proceeds and payouts. In addition, the audit
+addressed certain SLA financial operational areas such as purchases and
+disbursements, checking accounts, accounts receivable, cash receipts, and
+information technology systems. Our audit procedures included inquiries of
+appropriate personnel, inspection of documents and records, and observations of
+SLA’s operations. We also tested transactions and performed other auditing
+procedures that we considered necessary to achieve our objectives. Data provided
+in this report for background or informational purposes were deemed reasonable,
+but were not independently verified.
+SLA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+17
+
+--- Page 20 ---
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings that we consider to be significant deficiencies in the
+design or operation of internal control that could adversely affect SLA’s ability to
+maintain reliable financial records, operate effectively and efficiently, and/or
+comply with applicable laws, rules, and regulations. Our report also includes
+findings regarding significant instances of noncompliance with applicable laws,
+rules, or regulations. Other less significant findings were communicated to SLA
+that did not warrant inclusion in this report.
+SLA’s response to our findings and recommendations is included as an appendix
+to this report. As prescribed in the State Government Article, Section 2-1224 of
+the Annotated Code of Maryland, we will advise SLA regarding the results of our
+review of its response.
+18
+
+--- Page 22 ---
+Findings and Recommendations
+Information Systems Security and Control
+Finding 1
+The SLA network was not adequately secured from untrusted traffic and the network was not
+adequately protected by the intrusion detection and prevention system.
+Recommendation 1
+We recommend that SLA
+a. configure its firewalls to achieve a least privilege security strategy giving entities,
+individuals, and devices only those access privileges needed to perform assigned tasks;
+b. filter network traffic between the aforementioned contractor and the SLA’s secondary
+claims center and backup data center to achieve a least privilege security strategy;
+c. implement IDPS coverage for all critical portions of its network; and
+d. ensure that its intrusion detection and prevention devices are supported by their
+vendors and that the devices are kept up to date for all significant vendor updates.
+SLA Response:
+SLA agrees with the recommendations and as of April 2012 is in full compliance as follows:
+a. Least privileged security status was implemented during the MSLA network infrastructure
+upgrade that was completed in April 2012.
+b. All traffic between our claims center and the backup data center is now being filtered as the
+result of the installation of the new Cisco ASA firewall in our secondary claims center in
+April 2012.
+c. IDPS has been implemented with the installation of our IDS in April 2012.
+d. All intrusion detection and prevention devices were replaced with currently supported
+hardware and software during the infrastructure upgrade that was completed in April 2012.
+
+--- Page 23 ---
+Finding 2
+Mainframe security reporting and review procedures were not adequate.
+Recommendation 2
+We recommend that SLA
+a. redesign the security report to include all critical security related events; and
+b. perform independent reviews of this security report, document these reviews, and
+retain the documentation for future reference.
+SLA Response:
+SLA agrees with the recommendations and as of November 2011 was in full compliance as
+follows:
+a. The security report has been redesigned and now includes all critical security events.
+b. An independent review of the security reports is being performed and documented.
+Finding 3
+The service level agreements and the related independent reports did not address certain security
+and operational risks.
+Recommendation 3
+We recommend that SLA
+a. attempt to amend the aforementioned service level agreements to add language to
+address the provisions that we presented to SLA;
+b. require contractors to obtain and review the independent reports that address all
+critical contractual provisions relating to security, availability, processing integrity,
+confidentiality, and privacy contained in the contracts between SLA and the
+contractors and;
+c. ensure future contracts contain provisions to address significant security and
+operational risks.
+
+--- Page 24 ---
+SLA Response:
+SLA agrees with the recommendations and will work with the vendors to attempt to amend the
+service level agreements and require contractors to obtain and review independent reports that
+address all critical contractual provisions as specified by the auditors. Furthermore, SLA agrees
+to ensure future contracts contain provisions to address significant security and operational risks.
+Video Lottery Terminal Program
+Finding 4
+Supervisory review and approval of the resolution of incidents and instances of non-compliance
+at the casinos was not documented.
+Recommendation 4
+We recommend that SLA supervisory personnel document their review and approval of
+the compliance control reports to ensure proper disposition.
+SLA Response:
+SLA agrees with the recommendation and supervisory personnel are documenting their review
+and approval of the compliance control reports to ensure proper disposition.
+Finding 5
+SLA did not adequately monitor the VLT operations for periods of VLT inoperability.
+Recommendation 5
+We recommend that SLA
+a. regularly obtain and review the reports identifying the time the VLT machines are
+inoperable;
+b. assess liquidated damages as permitted by the contract when deemed appropriate; and
+c. formally document its reasons when liquidated damages are not assessed.
+
+--- Page 25 ---
+SLA Response:
+SLA agrees with the recommendations.
+Procedures have been implemented to monitor VLTs that have been inoperable for more than 90
+minutes and to assess liquidated damages against the manufacturer service providers when
+deemed appropriate. As of April 30, 2012, the agency has assessed and subsequently collected
+$22,200 in liquidated damages for periods of VLT inoperability for the period of February 2011
+through February 2012. VLT inoperability is reviewed on a monthly basis, and liquidated
+damages are assessed when deemed appropriate or reasons for not assessing damages are
+formally documented.
+Finding 6
+Adequate procedures and controls were not established over the issuance of licenses and
+registrations and the related fees.
+Recommendation 6
+We recommend that SLA
+a. ensure that independent supervisory personnel review licenses issued and, on a test
+basis, verify the related approval documentation, and that these procedures are
+documented and retained for future reference;
+b. establish procedures to ensure that all badges are returned upon termination;
+c. ensure that applicable fees are collected before background checks are performed and
+licenses are issued; and
+d. establish procedures to ensure that all vendors are properly registered.
+SLA Response:
+SLA agrees with the recommendations. License approvals are now reviewed on a monthly basis
+by independent personnel to ensure that cases are properly documented and approved.
+Procedures have been established to ensure that badges are returned upon termination.
+Procedures also have been established to ensure that all fees are collected prior to performing
+background checks and also to ensure that all vendors are properly registered.
+
+--- Page 26 ---
+A T
+UDIT EAM
+William R. Smith, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+Laura J. Tucholski, CPA, CFE
+Senior Auditor
+R. Brendan Coffey, CPA
+John C. Venturella
+Information Systems Senior Auditors
+Alexander M. Prodey
+Ryan P. Stecher
+Staff Auditors
+Eric Alexander
+Information Systems Staff Auditor
