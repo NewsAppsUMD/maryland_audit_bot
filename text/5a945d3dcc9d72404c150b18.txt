@@ -1,0 +1,2555 @@
+Title: Review of the Documents Provided by the Maryland Health Benefit Exchange
+Date: 04/03/2014
+Type: Special Reports and Letters
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a945d3dcc9d72404c150b18
+Extracted: 2025-06-18T11:14:06.717231
+--------------------------------------------------------------------------------
+
+--- Page 2 ---
+Senator Thomas McLain Middleton April 3, 2014
+Delegate Peter A. Hammen
+2) Procurement documents. These documents consisted of various MHBE-issued
+Request for Proposals (RFP), proposals received from interested vendors, proposal
+evaluation documents prepared by MHBE and certain contracts.
+3) Emails. There was an assortment of emails to and from a variety of individuals.
+Many of the documents we received (26 percent) contained redactions, with the
+procurement documents being heavily redacted.
+The scope of the review was guided by the Joint Oversight Committee’s request.
+Generally, the primary areas included in the review were: procurement and contracting; project
+planning and management; HIX system design; resource management; HIX system testing and
+contingency planning; and training of consumer assistance groups. Our review was limited to
+examining the documents received from MHBE. We did not perform tests, interview relevant
+parties and stakeholders, or attempt to substantiate or refute the accuracy of the information in
+the documents or determine their completeness. We also do not know whether we received all
+documents that MHBE made available to the public. We did submit a few questions to
+BerryDunn to obtain clarification on specific matters concerning the IV&V reports. Our review
+was not conducted in accordance with generally accepted government auditing standards.
+Our observations are based on our understanding and interpretation of the information in
+the documents reviewed. Because of the limitations of this review, we do not believe our
+observations provide a complete understanding of the processes employed and decisions made
+by MHBE. We believe the most informative documents made available to us were the IV&V
+reports issued by BerryDunn from January 2013 through September 2013. Generally, these
+reports addressed all areas included in this review and were the primary source of our
+observations, with the exception of contract procurements.
+Summary Observations
+The documents we reviewed indicate that the HIX development process faced many
+challenges. The early IV&V reports identified several critical project planning and management
+processes and protocols that had not been established even though the contract to develop HIX
+was awarded ten months prior to the issuance of the first IV&V report. For example, IV&V
+reports with January and February 2013 dates identified the lack of an overall project plan,
+insufficient staffing by MHBE and the vendors, and the lack of a State program director to
+manage project development efforts. At the end of February, only seven months remained
+before the October 1, 2013 go-live date for the Maryland Health Connection.
+With each IV&V report, the consultant identified new risks and issues, including
+recommendations to mitigate those risks and resolve the issues. In the IV&V reports issued
+through September 30, 2013, the consultant identified 46 risks and 48 issues4, of which 9 risks
+and 28 issues were outstanding as of September 30, 2013. (See Exhibit C for a listing of all risks
+and issues.) Many were designated as high-impact risks and issues, covering many aspects of
+the HIX system development process, including project management, software development, and
+system testing and security.
+4 Per BerryDunn’s IV&V reports, “A project risk is something that has not yet happened that could adversely impact
+project schedule, scope or cost. A project issue is something that is already happening and that adversely impacts
+project schedule and cost.” Over time, a risk can be resolved, accepted with no action, replaced by another risk or
+developed into an issue. For example, 18 of the 46 risks were either elevated to an issue or replaced by another risk.
+2
+
+--- Page 4 ---
+4
+
+--- Page 5 ---
+Office of Legislative Audits’ Detailed Observations
+Background
+Maryland Health Benefit Exchange Organization
+The Maryland Health Benefit Exchange (MHBE) was established as a public corporation and an
+independent unit of State government pursuant to Chapter 2, Laws of Maryland 2011, effective
+June 1, 2011.
+MHBE is governed by a nine-member Board of Trustees (Board) consisting of the Secretary of
+the Department of Health and Mental Hygiene, the Maryland Insurance Commissioner, the
+Executive Director of the Maryland Health Care Commission, and six members appointed by the
+Governor with the advice and consent of the Senate. The Board appoints an Executive Director
+of the MHBE, who serves at the pleasure of the Board. The Governor designates the Chair of the
+Board. The Board is required to create and consult with advisory committees and appoint to the
+advisory committees representatives of specified organizations.
+MHBE is subject to numerous State laws including adoption of regulations under the
+Administrative Procedure Act, access to public records, open meetings, immunity and liability of
+State personnel, public ethics, procurement laws for minority business participation and policies
+for exempt units, and whistleblower and certain provisions of State personnel law. However,
+MHBE is exempt from State or local taxation and specified provisions of procurement law,
+although the Board is required to have an open and transparent procurement process. The
+Executive Director is authorized to hire staff that is not subject to State actions governing
+compensation, including furloughs, pay cuts, or any other general fund cost savings measure.
+Function of MHBE
+The federal Patient Protection and Affordable Care Act (ACA), as amended by the federal
+Health Care and Education Reconciliation Act of 2010, required each state by January 1, 2014,
+to establish a health benefit exchange that makes available qualified health plans to qualified
+individuals and employers and that meets certain other requirements. MHBE was tasked with
+this responsibility in Maryland.
+The Systems Integrator5 (SI) request for proposal (RFP) provided to us describes the phases for
+the project as follows:
+ Phase 1: Core Exchange Functions and Modified Adjusted Gross Income (MAGI)
+Medicaid Eligibility Determinations. The purpose of Phase 1 is to provide individuals and
+small businesses with tools to compare qualified health plans, obtain information about those
+plans, and enroll in an insurance product, as well as to establish eligibility for, and enroll in
+all applicable State health subsidy programs as defined in the ACA.
+o Phase 1a: Selected Exchange Functions and MAGI Eligibility Determinations.
+Phase 1a encompasses creating the capacity for the HIX to provide individuals with tools
+to compare qualified health plans, obtain information about those plans, enroll in an
+insurance product, be evaluated for eligibility for all applicable State health subsidy
+programs and have net cost calculated after the subsidy is applied.
+5 The SI was responsible for the technical development of HIX.
+5
+
+--- Page 6 ---
+o Phase 1b: Maintenance, Hosting, Operations and Other Selected Services. MHBE
+may elect to issue Optional Task Orders for maintenance, hosting, operations and
+additional HIX functions not fully addressed in Phase 1a. MHBE is still making
+decisions about how it will address some of the ACA requirements, including how it will
+run the Small Business Health Options Program Exchange. After these decisions are
+made6, MHBE may issue Optional Task Orders or use other strategies to procure these
+services.
+ Phase 2: Integrating Non-MAGI Medicaid Eligibility Determinations. In Phase 2, the
+HIX may include the ability to perform non-MAGI Medicaid eligibility determinations. If
+this capability is achieved, seniors, people with disabilities, and individuals needing long-
+term care services would also have their eligibility for Medicaid determined through the HIX.
+ Phase 3: Integrating Social Services Programs. In Phase 3, the HIX may add the capacity
+to conduct eligibility determinations for other social services programs, such as the
+Supplemental Nutrition Assistance Program and Temporary Assistance for Needy Families.
+The use of the same eligibility system for multiple health and human services programs may
+simplify the related enrollment processes.
+Basis for Office of Legislative Audits’ Observations
+The documents provided to and reviewed by us covered only Phase 1 (both 1a and 1b). As far as
+we could tell, this is the extent of the work contracted for by MHBE, including the extent of the
+Independent Validation and Verification (IV&V)7 reviews of the project. The majority of our
+observations were obtained from the 10 IV&V reports8 by BerryDunn (the IV&V consultant)
+dated between January 8, 2013 and September 30, 2013 covering the period from November 1,
+2012 through September 30, 2013. Other documents provided to us at times supported or
+corroborated some of the information in the IV&V reports but did little to give us more insight
+regarding the HIX development process. As directed by the Joint Oversight Committee on the
+Maryland Health Benefit Exchange, we focused our review on the areas of contract
+procurements; project management; features of the eligibility and enrollment IT system; resource
+management; testing and contingency planning for the eligibility and enrollment IT system; and
+training, coordination, and utilization of consumer assistance personnel.
+Contract Procurements
+We were provided with a number of documents related to the procurement of various contracts,
+although many contained redactions of key information. From our review of those documents,
+we determined that MHBE employed competitive RFP processes to obtain consultants and
+technical services. The proposals from the SI bidders identified subcontractors to be used and
+included recommendations for software, hardware and hosting services. The IV&V services
+6 The RFP states that certain business decisions, such as how to address some ACA requirements, were still open
+while obtaining the services of the SI. This would indicate the need for significant communication, coordination, and
+interaction between the State executives responsible for MHBE and the technical-side project management office
+(PMO).
+7 Generally, IV&Vs are typically performed while IT systems are under development to address the questions of
+whether the system is being built using practices that lead to a successful implementation (verification – “Are you
+building it right?”), and whether the completed system will provide the needed functionality to satisfy the intended
+business purpose (validation – “Are you building the right thing?”). The actual scope of the IV&V work is typically
+customized to address the client’s specific concerns as delineated in the RFP and contract.
+8 Collectively, each IV&V report consisted of a Monthly Review Report and a Project Status Report. The reports
+contained BerryDunn’s evaluation of the process and status of the design, development, and implementation of the
+HIX, generally following the guidance of the Project Management Institute’s Body of Knowledge.
+6
+
+--- Page 7 ---
+consultant was also selected using a competitive RFP process. A competitive process was used
+for obtaining navigators, assisters, application counselors, and other consumer assistance
+personnel (these groups would eventually assist customers in signing up for healthcare coverage
+through MHBE).
+We did see indications that proposals were evaluated, although we did not receive evaluation
+documents for every bidder in every category of service. Primarily due to heavy redaction, no
+conclusions can be offered on the choices made by MHBE. We could not determine, from the
+documents provided, the extent to which MHBE complied with applicable law and polices or
+sought legal advice about the procurement processes (for example, the extent of the required
+involvement of the Maryland Department of Information Technology [DoIT] and compliance
+with DoIT policies and procedures).
+Eligibility and Enrollment IT System (HIX) Development Contract
+Based on the documentation provided, four vendors submitted proposals in response to MHBE’s
+October 21, 2011 RFP for the SI contract. We could not determine the propriety of the contract
+award as certain key documents, such as documents relating to the advertisement, technical
+evaluation, and award were either redacted or not provided. For example, the technical
+evaluation sheet prepared to evaluate vendors that submitted proposals had all critical
+information redacted. That is, the evaluation sheets did not indicate who participated in the
+evaluation process, when the evaluation took place, the definitions of the rating categories, the
+definitions of the ratings, and all of the evaluators’ comments were redacted.
+According to the RFP, the SI was responsible for developing the HIX eligibility and enrollment
+system to support the State of Maryland in implementing key elements of the federal ACA. In
+response to this RFP, this contract was executed with Noridian Administrative Services, LLC on
+February 22, 2012 for the period January 2, 2012 through December 31, 2013, with a cost not to
+exceed approximately $68.6 million. The contract provided for three additional one-year
+renewal options as well as a task order process for additional services and maintenance. Under
+the contract, Noridian agreed to meet all of the functional business, technical, and service level
+requirements set forth in the RFP such as offering individuals and small businesses the
+opportunity to compare and enroll in health plans, as well as to evaluate customers’ eligibility for
+affordability programs. Noridian’s response to the RFP indicated that its proposed software
+(which included multiple commercial-off-the-shelf [COTS] software applications), architecture,
+and data model would allow the State to meet the tight deadlines of the ACA as well as provide
+the State’s intended functionality for other social service programs. For example, the HIX
+system was intended to function in conjunction with certain data systems at the Department of
+Health and Mental Hygiene (DHMH) and the Department of Human Resources (DHR) in order
+to determine eligibility for certain programs.
+The technical proposal from Noridian listed a number of proposed subcontractors, and identified
+their areas of expertise and the specific COTS software to be used. However, we noted when
+reviewing the IV&V reports that one named significant subcontractor (EngagePoint) being used
+by Noridian was not listed in the Noridian proposal. The RFP (the terms of which are
+incorporated into the related contract) stated, “The Contractor may not subcontract any portion of
+the services provided under this Contract without obtaining the prior written approval of
+MHBE’s Contract Monitor, nor may the Contractor assign this Contract or any of its rights or
+obligations hereunder, without the prior written approval of MHBE’s Contract Monitor.” We
+did not receive any documentation regarding the approval of this subcontractor.
+7
+
+--- Page 8 ---
+IV&V Services Contract
+We did not receive the RFP or contract documents for the IV&V services. The only
+documentation we received related to the IV&V services were highly redacted evaluations for a
+number of bidders, including the successful bidder, BerryDunn.
+Call Center and Other Consumer Assistance Programs
+We could not determine the propriety of the contract award for the Consolidated Service Center,
+which includes call center services, or the awards for the Connector entities9 based on the
+procurement documentation we received. Specifically, for the Consolidated Service Center, we
+received 7 proposals (based on other documentation, there may have been 11 proposals). The
+proposals and related technical evaluations were heavily redacted. Also, the executed contract
+for these services was not provided.
+For the Connector entities, we were provided with the RFP and the grant agreement signature
+pages for 6 vendors, one for each designated geographical region. According to the RFP, the
+maximum grant awards available for the first year of the grant were approximately $23.6 million
+in total for all 6 regions; however, without the actual agreements, we could not determine the
+actual award amounts.
+Project Management
+Planning and Management
+The project planning and management function was initially identified by BerryDunn as a major
+area of concern in its IV&V report dated February 8, 2013, and continued to be cited as a major
+concern for the months leading up to the October 1, 2013 website go-live date.
+The IV&V report dated September 30, 2013 included these comments:
+“…one of the major concerns raised earlier in the program was the lack of a consolidated
+work plan. By not having a consolidated work plan in place for managing the overall
+progress of the program, it is difficult for leadership to compare metrics or for everyone to
+understand the real status of the program. A fully managed work plan would also allow
+stakeholders to understand the status of the development efforts for the remaining
+functionality.”
+“IV&V still believes the lack of many of the fundamental systems development lifecyle and
+project management best practices makes it very difficult for leadership to understand the
+current state of the program collectively.”
+The same report indicated that the related project management risks and issues were accepted by
+the State without resolution so that all parties could focus on the development and
+implementation of a working system.
+Regarding the management of the project, we noted that a State project management office
+(PMO) existed, but it was not evident from the documents who were members of the office (such
+9 According to the MHBE website, Connector entities are responsible for organizing all partners and services across
+each of six regions in the State, providing a single point of engagement for MHBE. Connector entities are to
+employ trained and certified navigators to counsel and enroll residents into qualified health plans and Medicaid
+through the Maryland Health Connection, as well as employ non-certified personnel, known as assisters, to provide
+assistance and enrollment information.
+8
+
+--- Page 9 ---
+as specific employees and/or contractors). The IV&V report dated February 26, 2013 also
+identified early concerns about management oversight:
+“…there is no one person functioning as the overall Program Manager for the MHBE effort.
+The State PMO manages the technical effort; however there is no one focused on how those
+technical components, which are currently being developed by Noridian, track back to the
+overall program.”
+“Much of the responsibility of the oversight program falls on the PMO, and the committee of
+CIOs, which makes it difficult for anyone to go to one place and understand the state of the
+overall effort.”
+BerryDunn reported that a management structure was established with the appointment of a
+Program Director in March 2013. Two subsequent IV&V reports indicated that certain progress
+was being made, but management efforts were inconsistent, and certain roles and responsibilities
+were not clearly established. Subsequent reports did not address this area.
+Coordination
+This project required extensive coordination among many parties within the State and its
+contractors, especially between MHBE and Noridian. Various IV&V reports noted concerns
+about communications among the parties.
+The RFP indicated one document that needed to be submitted was a communication management
+plan (required as part of the planning phase). Furthermore, Noridian in their proposal indicated
+that a communications log would be maintained as well as a decision and agreement log. This
+decision and agreement log, per Noridian’s technical proposal, would capture decisions and
+agreements that may have been reached in meetings or at other project events. The
+documentation received did not indicate the extent to which the communication management
+plan, communications log, or decision and agreement log were used and how useful they were to
+the State in managing the project.
+Early IV&V reports expressed concerns with communications among all parties working on the
+project. These concerns were included in several IV&V reports until they were closed for an
+unspecified reason in the IV&V report dated April 30, 2013.
+The early IV&V reports contained the following communication concerns:
+January 8, 2013 IV&V report:
+“There is a risk to the project that inefficient communication between project teams (the
+State PMO, Noridian, State staff, and the IV&V vendor) could have a negative impact on
+project results. Additional vendors will be added to the team… which will increase the
+importance of effective cross-project team communication.”
+“…this communication matrix10 should include content … so that it is clear who is
+responsible, accountable, consulted, and informed.”
+10 Per Noridian’s technical proposal, “We will use the general stakeholder groups defined in our overall
+Communications Management Plan and identify stakeholder subgroups and then assign membership to the
+subgroups. Once that has been accomplished, the Noridian Group will match our list of all communication vehicles
+related to implementation tasks and, with assistance from the Exchange, determine who needs what and how often.
+This will result in a communications matrix which will list all stakeholders by their subgroup with their specific
+communication needs and the frequency of the distributions.”
+9
+
+--- Page 10 ---
+February 8, 2013 IV&V report:
+“The project team communications with the IV&V team have improved; however there is
+still a need to determine exactly how additional vendors added to the project will receive
+adequate, appropriate, and timely communications.”
+February 26, 2013 IV&V report:
+“BD [BerryDunn] understands that Noridian, with input from the state PMO, manages a
+communication matrix. We recommend that the project communication matrix be
+updated/revised/developed to address the communication vehicles and various parties
+involved on the project. This communication matrix should look for ways to simplify,
+standardize, and improve the way that information is shared with the project stakeholders.”
+April 30, 2013 IV&V report:
+“A central repository should be adopted that houses the integrated work plan, a unified
+project calendar that shows all project related meetings, templates for agendas and meeting
+minutes, risks and issues repository, decision log, integrated work plan, meeting minutes,
+and executive status dashboard would assist with communication. The State should require
+that all teams coordinate activities through this central repository. In addition, working
+sessions and meetings should follow an agenda, minutes should be shared and saved to the
+project repository, and decisions made/discussed should be updated in the centralized log in
+SharePoint [collaboration software], including issues raised and decisions made during
+‘offline’ meetings.”
+Also, in the IV&V report dated April 30, 2013, a new concern was cited dealing with the lack of
+centralized meetings and suggestions on how to improve in this area:
+“There is no centralization of meetings.”
+“We suggest a group distribution list to send emails and all project meetings should be
+listed on the PMO Sharepoint Site.”
+“The State has accepted this risk and notes that this is at the bottom of its priority list. The
+State is currently asking that agendas and meeting minutes be provided for all meetings.”
+No updates were provided on this issue in the May or subsequent IV&V reports because, as
+noted, the State accepted the issue without resolution.
+The documents provided indicate that during the course of the project many meetings among
+stakeholders were occurring and vendor status reports were being provided (for example,
+weekly); however, we noted the following comments from the IV&V report dated September 30,
+2013:
+“Daily stand-up meetings continue to be held to focus the development process and have
+become integral to the project as it nears go-live. IV&V is grateful for being included in
+initial go/no-go meetings: however, during the last weeks of September critical project team
+meetings have been cancelled, causing concern over communication as well as the ability to
+assess the HIX system for the October 1 go-live.”
+“IV&V notes there continues to be a need for some sort of high‐level communication (e.g., a
+high‐level weekly status report) that could be provided to the Executive Sponsors so they
+have a documented account of the project successes and/or setbacks to date.”
+10
+
+--- Page 11 ---
+Oversight, Accountability, and Transparency
+The oversight and governance structure that may have existed to oversee and steer the HIX
+development process was not apparent in the documents we received. Furthermore, documents
+did not shed light on who (whether an individual or group of individuals) was responsible for
+making key decisions regarding project direction and results and whether a go/no go meeting
+was held before the go-live date on October 1, 2013 as recommended by BerryDunn. There was
+no indication that DoIT had been involved with the project before October 1, 2013.
+The IV&V reports provided the most, but limited, information about project oversight. The early
+IV&V reports made references to meetings and briefings with the “Executive Team” and
+“Executive Committee.” Based on documents reviewed, we could not determine the specific
+individuals who were providing executive leadership via the Team and Committee. We did note
+some references that were made in those reports about key project stakeholders consisting of
+executive-level staff from Noridian, DHMH, DHR, and MHBE.
+There was no conclusive documentation about what was discussed and who participated in any
+such meetings with BerryDunn. It is not known whether those meetings included discussions
+about the IV&V findings and risk mitigation recommendations. We noted that IV&V reports
+identified the State’s response to these recommendations, but who actually received the IV&V
+reports and provided those responses is not indicated in any documents.
+On a broader scale, the documents we received did not include any meeting agendas or minutes.
+Furthermore, the emails we received did not shed any light on who was making key project
+direction and oversight decisions up to the October 1, 2013 go-live date. For example, none of
+the documents attributed key decisions to the MHBE Board or the former MHBE Executive
+Director.
+The BerryDunn reports contained the names of individuals or groups (for example, the State’s
+project management office) that served as the points of contact for specific areas covered by
+BerryDunn’s work. The extent to which these persons were responsible for addressing concerns
+raised in the reports was not evident.
+The SI RFP indicated that a Change Control Board (CCB) would be established to approve, in
+accordance with the Change Management Plan submitted by the SI, all contract activities,
+variances, and software/hardware releases. The CCB per the RFP shall be composed of Noridian
+and stakeholders from but not limited to DHR, DHMH, and the Maryland Insurance
+Administration (MIA). The IV&V report dated September 30, 2013 indicated the CCB had not
+been established. Because of a lack of documentation received, the extent to which the Change
+Management Plan was executed is unknown.
+“IV&V also reviewed the Change Management Plan (Version 7.1, dated 8/15/2013) that was
+provided as part of the ORR [operational readiness review] documentation. This document
+appears to be complete but several sections appear to be lacking in specific details or
+process steps and speaks in generalities. Another big unknown for this project continues to
+be the SI’s plans for executing the Change Management Plan, including establishing the
+Change Control Board. As of the September 18 weekly meeting, the Plan is scheduled to be
+put in place by September 27, 2013. However, the reporting of this date continues to be
+moved by the SI with little explanation, and the fact that the team has not been established
+with a significant lead time before go‐live is worrisome to IV&V.”
+The extent to which stakeholders were involved in the approval of project deliverables is
+unknown. According to the SI RFP, MHBE was to develop written acceptance criteria for all
+11
+
+--- Page 12 ---
+deliverables during the different phases of the project per the RFP; however, we did not receive
+any documents which detailed the deliverable acceptance process. In this regard, the IV&V
+report dated May 28, 2013 stated the following:
+May 28, 2013 IV&V report:
+“There is concern that there may be a breakdown in the deliverable review process across
+agencies.”
+“Based on interviews there is a concern DHR's comments have not been addressed in the
+deliverables and system design and the resulting system may not fully support key
+stakeholder needs.”
+“Based on interviews with DHR, there is a perception that their leadership is not being
+included in decision-making forums for the MHBE and communication issues are re-
+surfacing. An example would be the decisions around the Deliverable Review for [the
+detailed design review] documents where DHR feedback was not fully incorporated or
+issues mitigated.”
+This risk was closed in the IV&V report dated July 31, 2013; however, concerns were expressed
+in the IV&V report dated September 30, 2013 regarding out-dated deliverables submitted as part
+of the operational readiness review.
+Regarding the go-live decision, the following comment was included in the IV&V report dated
+September 30, 2013:
+“The go/no-go meeting needs to be conducted, with the following stakeholders:
+architecture, carrier point of contact, IV&V training, interfaces, data center team,
+application integration team, State O&M [Operations & Maintenance], Noridian O&M, call
+center, UAT [User Acceptance Testing 11], performance test, Curam12, Connecture, EP
+Financials, EXACT13, release management, change control board, DHR, DHMH, MHBE,
+Executive Team, Program Manager (SI), Program Manager (State), Development Manager
+(SI), Operational Security, Application Security, compliance (State and the SI), DBAs
+[Database Administrator], system test, and integration test.”
+There is no indication in the documents whether this meeting had taken place.
+DoIT security guidelines and project oversight were mentioned in the SI RFP. However, no
+DoIT representative was listed as a stakeholder in the RFP. From the documents received, we
+did not note any involvement of DoIT during the project development and management leading
+up to the October 1, 2013 go-live date.
+11 User Acceptance Testing for software development is the process by which the product is tested in “real world”
+conditions to determine whether requirements were met.
+12 Curam references that suite of Curam Applications purchased through Noridian to operate the functional aspects
+of the HIX.
+13 EXACT is a Noridian-provided COTS product designed to integrate data from many different IT systems into the
+HIX and allow the HIX to interact with those systems.
+12
+
+--- Page 13 ---
+Features of the Eligibility and Enrollment IT System
+Design
+The IV&V reports and other documents provided included minimal insight relating to the
+technical design of the eligibility and enrollment system. However, the system software
+development area was a major area of concern in most of the IV&V reports issued by
+BerryDunn. The early IV&V reports disclosed concerns about software development. Although
+the June and July IV&V reports noted some improvements, software development concerns were
+highlighted in the last two monthly reports issued before the October 1, 2013 go-live date.
+The IV&V report dated February 26, 2013 included specific software development concerns
+related to the security, reporting, and the lack of documentation to understand the EXACT
+portion of the HIX. In the following IV&V reports, software development continued to be an
+area of concern:
+March 26, 2013 IV&V report:
+“Visibility into how the EXACT subsystem operates, specifically in reference to the product,
+and features of the product remain unclear for many stakeholders and IV&V.”
+“There is a risk that the Curam streamlined application planned delivery date will
+negatively impact project progress in Maryland. Currently, the application is unable to
+provide dynamic application scripts which can be used to provide users with streamline
+questions based on their situation and responses to previously submitted answers. A
+technical solution is required in order for the application to comply with CMS [Centers for
+Medicare & Medicaid Services] requirements.…”
+April 30, 2013 IV&V report:
+“IV&V has uncovered significant gaps in the software development area during our monthly
+interview process.”
+According to the IV&V reports dated June 28, 2013 and July 31, 2013, BerryDunn commented
+that much-needed gains in maturing the overall services had been accomplished and there were
+improvements noted relating to certain system integrations and communication between
+development teams. However, as of July 31, 2013, only 1 of the 3 concerns raised in the IV&V
+report dated February 26, 2013 had been closed. In the IV&V Report dated August 30, 2013,
+additional concerns were mentioned:
+“Feature freeze for version V1 (to support the October 1 go-live) of code is Labor day
+weekend yet the project System Integrator has been unable to publish a document of what
+features will be in the October 1 release and, critically, what functionality will be deferred.
+The State needs enough time to provide solid contingency plans around functional gaps in
+the software.”
+In its IV&V report dated September 30, 2013, BerryDunn indicated that the specific functionality
+that the State could expect at the October 1, 2013 go-live date was unclear. The following
+comments were included in the September 30, 2013 IV&V report:
+“We are concerned with all of the unknowns and last minute code development along with no
+clear picture of what the functionality will be for the October 1st go-live, the IV&V team is
+raising a risk with the vendor not documenting the exact functionality that will be available
+so that the MHBE can fully understand what they are getting. With that stated, we are
+13
+
+--- Page 14 ---
+raising an issue that there has been no documented list of what is acceptable by the MHBE
+as a viable solution for an October 1 delivery.”
+“We are concerned that the activities required for transitioning components of the
+application into the production environment and the hand‐offs necessary for the iterative
+cycle of fixing production issues, applying patches to the system and maintaining the
+hardware and software will be performed successfully.”
+Interoperability with the Medicaid Management Information System (MMIS) and Other Systems
+The SI RFP indicated that the HIX shall maintain the ability to support interoperability and
+integration across DHMH’s, DHR’s, and MIA’s portfolio of systems as well as various federal
+systems. In addition, diagrams were included in the RFP which detailed all of the system
+interactions prior to the HIX implementation and the proposed interaction between the systems
+with the new HIX.
+BerryDunn identified interoperability functionality as an area of concern throughout the entire
+IV&V review period. For example, the lack of a data conversion plan14 involving other systems
+was first commented upon in the IV&V report dated February 26, 2013:
+“The lack of a detailed data conversion plan for all Exchange components at this point in
+the timeline creates significant risk to project success. Lack of a detailed data conversion
+plan that identifies the key elements will inhibit the ability to convert data fields for
+CARES15 and MMIS16.”
+Excerpts from subsequent IV&V reports indicate continued concerns about data conversion
+involving other systems up to the October 1, 2013 go-live date as follows:
+June 28, 2013 IV&V report:
+“The project's data mapping efforts continue to mature. The mapping of requirements is
+currently targeting a June 30, 2013 completion date.”
+“Data conversion rollout goes in parallel with critical code release for the project which is
+likely coupled. In addition, the rollout schedule needs to account for end of year processing
+requirements of state systems. Concerns that development resources may not be able to
+support data conversion and a major release at the same time.”
+July 31, 2013 IV&V report:
+“There is a risk that Noridian development resources may not be able to support data
+conversion and a major release at the same time.”
+“MMIS testing is incomplete.”
+14 Per SI RFP, “The offeror shall provide a comprehensive data conversion plan from legacy systems to HIX. The
+Plan should include, but not limited to: data structure model analysis, data mapping, conversion process design and
+execution.”
+15 The Clients’ Automated Resource and Eligibility System is a case management system which keeps track of
+eligibility for Medical Assistance (MA) and other social services. CARES will remain the system of record for non-
+MA services. MA Case Management system will have bi-directional information exchange with CARES.
+16 MMIS pays Medicaid and Maryland Children’s Health Program claims. All eligible customers are enrolled into
+this system.
+14
+
+--- Page 15 ---
+“CARES/CIS17 certification may not be completed in time to develop UAT data sets. CIS
+certification effort is significant and requires detailed coordination and testing.…”
+September 30, 2013 IV&V report:
+“The project has missed the first deliverable, the mock 1 conversion test. The schedule
+needs to be updated and revamped to integrate mock 1 testing into the remaining 2 mock
+sessions in October and November.”
+“Interface to CARES/CIS is incomplete. CIS certification effort is significant and requires
+detailed coordination. Data set within CARES/CIS has HIX project incompatible future
+dates in the existing data set that is not resolved. CARES/CIS certification may not be
+completed in time to develop UAT data sets and UAT start date.”
+Controls to Protect the Privacy of Consumer Personal Information
+Major concerns identified in the IV&V reports throughout the entire reporting period about the
+security components of HIX were not fully resolved prior to the October 1, 2013 go-live date.
+Presumably, these concerns could have adverse implications regarding the protection and privacy
+of consumer personal information.
+February 26, 2013 IV&V report:
+“The lack of a detailed Security Architecture and strategy across all Exchange components
+at this point in the development timeline creates a significant risk to project success.”
+April 30, 2013 IV&V report:
+“The security design for the project remains a risk. Progress is being made through recent
+and upcoming meetings including a two-day security workgroup meeting to review the
+design, create a detailed project plan, and assign resources.”
+July 31, 2013 IV&V report:
+“Security integration into the project is slow and development continues to fix integration
+breaks around single sign-on and Tivoli integration. User self-provisioning appears
+complete with an initial skeleton landing page in place allowing for true end to end user
+login experience and account management. Unfortunately, there still has been no viewing
+of the security components by the State of IV&V to validate that any of these components are
+working well enough to pass UAT or security test plans.”
+August 30, 2013 IV&V report:
+“A demonstration of the application of security components of the project has not
+occurred.”
+September 30, 2013 IV&V report:
+“Many deliverables were late for the security components. Items such as “Single Sign-On
+(SSO), Self-Registration, Remote Identity Proofing (RIDP). It was difficult to get a
+perspective on the quality of these deliverables. The security demo requested by CMS, the
+state, and IV&V several months back has not been able to be scheduled.”
+“…data integrity/data security components of the service remains a high area of concern.”
+17 CIS is DHR’s client information system.
+15
+
+--- Page 16 ---
+“Operationally security still requires additional work to be completed before go-live…we
+are concerned about the operations staff not having enough time to complete all checklist
+items related to security.”
+Broad Usability of the System
+The overall accessibility of the HIX was an area of concern on the IV&V report dated April 30,
+2013 and remained an unknown as of the IV&V report dated September 30, 2013. The system is
+required to meet certain federal section 508 compliance requirements which relate to the
+accessibility of the system18. Several IV&V reports indicated that Noridian had not prepared a
+listing of compliance requirements. According to the IV&V report dated September 30, 2013,
+based on the information provided by Noridian, BerryDunn was unable to determine if the
+system would meet the aforementioned requirements. Specifically, the Section 508 Product
+Assessment disclosed that of the 67 criteria outlined in the document, the system supports 2
+criteria, does not support 3 criteria, supports 13 criteria with exceptions, and 49 criteria were not
+applicable. An excerpt from the IV&V report dated September 30, 2013 is as follows:
+“At this point, IV&V is unable to determine if the system will meet the federal 508
+compliance criteria. For example, of the 13 criteria that the application “supports with
+exceptions,” Noridian has not listed the features of the product that do not meet the criteria
+(and how) nor have they listed what aspects of the product do not meet the criteria (and
+how).”
+Resource Management
+Based on the lack of information regarding resource management in the documents submitted,
+we were unable to adequately evaluate the efficiency, effectiveness, and economy with which
+resources were used and internal controls were in place to manage MHBE finances. Regarding
+finances, some invoices paid by MHBE to contractors were included in the documents provided
+to us. These invoices had signatures suggesting an approval process.
+Our efforts regarding resource management focused on staffing issues raised in the IV&V
+reports relating to both State and vendor personnel. BerryDunn’s early reports indicate a lack of
+state and vendor personnel, as well as a lack of staffing plans. While additional hiring actions
+were taken by the State and vendors, we could not determine whether staffing plans were ever
+submitted.
+BerryDunn’s early reports starting in January 8, 2013 identified risks pertaining to the lack of
+adequate State personnel and a staffing plan:
+“State staffing is very lean for a project of this size and complexity and there is a risk it may
+not be sufficient to complete the work necessary prior to federal/state deadlines.”
+“BerryDunn hasn't yet been provided the staffing plan for additional staff (DHMH, DHR,
+and the Exchange) that will be required to fulfill the needs of the exchange.”
+18 Section 508 of the Rehabilitation Act of 1973, as amended requires, in part, that individuals with disabilities, who
+are members of the public seeking information or services from a federal agency, have access to and use of
+information and data that is comparable to that provided to the public who are not individuals with disabilities,
+unless an undue burden would be imposed on the agency.
+16
+
+--- Page 17 ---
+The lack of a staffing plan continued to be commented upon in the IV&V reports through April.
+The May IV&V report indicated that the related risk was accepted by the State without
+resolution. However, the IV&V report dated September 30, 2013 contained this comment:
+“The Project Management Office organizational structure appears to be more effective,
+fully staffed and providing more clear reporting lines and inter-vendor communication.”
+A concern about vendor staffing was raised initially in the IV&V report dated February 26, 2013:
+“Vendor staffing is very lean for a project of this size and complexity and there is a risk it
+may not be sufficient to complete the work necessary prior to federal/state deadlines.”
+“The staffing plan needs to be in place to meet the needs of the Consolidated Work Plan
+and to address staffing across the whole program.”
+The lack of adequate vendor staffing and a vendor staffing plan were commented upon in
+subsequent reports. The July IV&V report indicated that some action was taken by Noridian to
+hire personnel. Nevertheless, the report contained the following comment:
+“IV&V is continuing to monitor the impact of the vendor having a lean team, especially
+with the recent attrition of key development personnel. The staffing plan needs to be in
+place to meet the needs of the integrated work plan and to address staffing across the
+whole program.”
+The IV&V report dated July 31, 2013 indicated that the related risk was accepted by the State
+without resolution. The IV&V report dated September 30, 2013 reiterated the concern about the
+attrition of key Noridian personnel and the risk that all desired features and functionality would
+not be available for the October 1, 2013 go-live date.
+Testing and Contingency Planning for the Eligibility and Enrollment IT System
+Testing
+Major concerns were identified by BerryDunn throughout the entire review period regarding
+planning and performance testing of HIX. While the severity of those concerns varied, overall
+the reports indicated that a comprehensive testing strategy did not exist and when testing did take
+place, it was untimely and limited in scope.
+Based on the specific conditions identified in the IV&V reports, testing was not given sufficient
+vendor support (such as a dedicated test environment), and in the later phases of the project the
+vendor did not test changes to the system before placing them into the production system.
+Proper testing is necessary to ensure the system works prior to going live.
+The IV&V report dated January 8, 2013, included this comment about the lack of a
+comprehensive testing strategy:
+“There is a risk that without a comprehensive testing strategy (particularly given the Agile
+nature of this project) that appropriate testing will not occur. We are aware of a Test Plan
+deliverable from Noridian that addresses various aspects of software testing (Unit Testing,
+Integration Testing, System Testing, UAT, and Post Production Testing). Members of the
+Noridian and the PMO teams reported that testing approaches are not being followed as
+documented within the plan. Additionally, the testing plan does not include detailed
+approaches for Regression Testing, Data Validation, UAT, Extract-Transform/Load
+Testing/Data Validation, and Stress and Volume Testing of the system. The plan also
+17
+
+--- Page 18 ---
+identifies that it would need a future update and it’s unclear when this update will be
+provided. We are also not aware of a formal process to release test results formally to the
+team as a result of completing/carrying testing activities.”
+Subsequent IV&V reports continued to address this area of concern. According to the IV&V
+report dated May 28, 2013, Noridian hired an additional internal PMO individual to assist with
+UAT planning. Nevertheless, concerns persisted up to the October 1, 2013 go-live date. The
+following comments about testing were included in the IV&V report dated September 30, 2013:
+“Testing of complex households with a variety of income levels and conditions has not
+worked well. A major concern is the lack of full Integration and end‐to‐end testing that was
+to start in July / August timeframe. As of this reporting period, full integration and
+end‐to‐end testing has not been completed due to continued problems with performance,
+environments, and code (bugs) issues.”
+“…the project has not demonstrated the ability to deliver quality release or documentation
+for a UAT. Because of functional gaps in the UAT environment, many scenarios could not be
+run.”
+“System testing remains challenging due to environmental instability and volume of
+enhancement at the tail end of code freeze for release 1.”
+“Performance testing interviews were requested by IV&V, but were continually pushed out
+by the SI, and not conducted. No update was possible and remains a major concern as we
+approach the October 1 go-live.”
+“Performance testing is being done on non like-for-like environment from production.”
+“Test coverage for critical features being introduced in release candidates 5.0 through go-
+live may not be included as part of performance testing.”
+“Capacity loads could not be properly assessed due to lack of true integration and UAT
+testing.”
+Contingency Planning
+There appeared to be some level of contingency planning present after the concern was raised by
+BerryDunn in its IV&V reports dated April 30, 2013 and May 28, 2013. For example, the May
+report included the following comments:
+“No clear date for executing the State's contingency plans exists.”
+“The IV&V team will continue to work closely with the technical team to determine if there
+is a need to raise awareness to leadership on the necessity of evoking contingency plans.”
+“As for a contingency plan, we received a draft; however, the current focus is to complete
+necessary deliverables for CMS’s visit at the end of May to determine whether the program
+can remain independent or will be folded into the Federal Program.”
+According to the IV&V report dated June 28, 2013, MHBE produced a contingency planning
+matrix which included dates and triggers for each activity. However, we did not receive any
+documentation of its contents including the available options, especially if major system
+functionality problems occurred. Furthermore, contingency planning activities as they relate to
+HIX just prior to the October 1, 2013 go-live date included specific functionality issues.
+18
+
+--- Page 19 ---
+The IV&V report dated September 30, 2013 contained these comments about contingency
+planning activities:
+“System Integrator has been unable to publish a document of what features will be in the
+10/1 release. The State has begun executing contingency plans around functional gaps…”
+“The State needs a definitive list of the features that are in the 10/1MDHIX release and the
+features that are deferred in order to conduct contingency planning activities.”
+BerryDunn further recommended in the IV&V report dated September 30, 2013 that MHBE:
+“Publish an authoritative document and begin contingency planning analysis, if required.
+Document manual processes and service gaps, ensure that all functional gaps in the MDHIX
+service are covered with manual processes and that details around these processes are in
+place and non‐citizen roles understand their day‐one responsibilities, handoffs, and help
+mechanisms.”
+Training, Coordination, and Utilization of Consumer Assistance Personnel
+Training
+The effectiveness of the training provided to navigators, assisters, application counselors, call
+center staff, and other consumer assistance personnel was impaired because the HIX had not
+been completed at the October 1, 2013 go-live date.
+According to the IV&V report dated September 30, 2013, MHBE had different training vendors
+for the two types of training. Producers, caseworkers, navigators, assistors and call center staff
+were trained by one vendor about policy matters and working through solutions for client
+problems and issues. Noridian provided the system-focused training for caseworkers and
+navigators so that they would know how to use the Connection website and be able to train other
+staff to use it. Both training vendors were reportedly working hard to train their audiences and
+several training sessions had been completed.
+The IV&V report dated September 30, 2013, indicated that the training materials had not been
+finalized, and did not include manuals for each of the stakeholders. Also, the system training
+documentation did not clearly identify the differences for the various parties expected to
+interface with the Connection website.
+According to the IV&V report dated September 30, 2013, a significant impediment to the
+training efforts related to the status of the HIX:
+“Because the HIX Solution is not complete, it is important to understand that the training
+materials are not able to cover all of the functionality that the solution can perform. As a
+result, the training vendors must either provide training material updates or supplemental
+training materials that address system changes and downstream process flow impacts. The
+training vendors have not yet communicated their plans to provide updated training
+materials and the IV&V Team advises that the training vendors plan for updating training
+materials as soon as what is possible [sic].”
+19
+
+--- Page 20 ---
+A concern about the amount of training time that would be available for the consumer assistance
+personnel was first reported by BerryDunn in its IV&V report dated May 28, 2013 as follows:
+“The contract for the training vendor has not been awarded, and the timeline for training
+all stakeholders prior to the October 1, 2013 deadline is very short.”
+The issue was closed in the IV&V report dated June 28, 2013 after the contract was awarded.
+Coordination
+The IV&V report dated September 30, 2013 stated that appropriate communications channels
+appeared to have been set up with navigators and other partners to interact with the State and
+potential users of the Connection website as follows:
+“It appears to IV&V that appropriate communications channels have been established to
+disseminate information to Brokers, TPAs, Navigators, Carriers, and other partners. The
+MHBE has been receiving a large volume of questions from carriers and instituted an email
+account to receive carrier questions. Emails sent to this address generate a ticket and
+MHBE commits to answering questions within five business days.”
+The documents provided to us did not indicate whether these communication channels were
+effective or if MHBE had met its response commitment.
+Utilization
+How many individual navigators, assistors, application counselors, call center staff, and other
+consumer personnel were utilized once the Connection website went live could not be
+determined based on the documentation received. The documents we received included some
+feedback forms from the public. Certain forms contained negative comments about the
+Connection website, but it was not always clearly indicated whether a problem was caused by
+consumer assistance personnel or the website itself.
+20
+
+--- Page 21 ---
+Exhibit A Page 1 of 1
+List of IV&V Documents Received
+Report Name Report Dated Reporting Period Pages
+Project Status Report 1/8/2013 11/1/12 to 11/30/12 33
+Monthly Review Report 1/8/2013 11/7/12 to 12/12/12 34
+Project Status Report 2/8/2013 12/15/12 to 1/15/13 23
+Monthly Review Report 2/8/2013 12/13/12 to 1/15/13 22
+Project Status Report 2/26/2013 1/16/13 to 2/15/13 68
+Monthly Review Report 2/26/2013 1/16/13 to 2/15/13 47
+Project Status Report 3/26/2013 2/18/13 to 3/15/13 52
+Monthly Review Report 3/26/2013 2/18/13 to 3/15/13 50
+Project Status Report 4/30/2013 3/15/13 to 4/15/13 55
+Monthly Review Report 4/30/2013 3/16/13 to 4/15/13 53
+Project Status Report 5/28/2013 4/16/13 to 5/15/13 65
+Monthly Review Report 5/28/2013 4/16/13 to 5/15/13 55
+Project Status Report 6/28/2013 5/16/13 to 6/15/13 63
+Monthly Review Report 6/28/2013 5/16/13 to 6/15/13 57
+Project Status Report 7/31/2013 6/15/13 to 7/15/13 73
+Monthly Review Report 7/31/2013 6/15/13 to 7/15/13 58
+Project Status Report 8/30/2013 7/16/13 to 8/15/13 68
+Monthly Review Report 8/30/2013 7/16/13 to 8/15/13 57
+Project Status Report 9/30/2013 8/16/13 to 9/15/13 77
+Monthly Review Report 9/30/2013 8/16/13 to 9/15/13 58
+Draft Project Status Report 10/25/2013 9/16/13 to 10/15/13 60
+Draft Monthly Review Report 10/25/2013 9/16/13 to 10/15/13 49
+Total IV&V Documents Reviewed 22
+Total Pages Reviewed 1,177
+21
+
+--- Page 22 ---
+22
+
+--- Page 23 ---
+Exhibit B – Page 1 of 3
+List of All Other Documents Received
+Public Information Act Documents received on 2/21/14 Public Information Act Documents received on 2/21/14 (Continued)
+Name of Document Pages Name of Document Pages
+08‐07‐Arequest.pdf 1 Lower Shore Communications and Outreach Plan.Revised ‐ Lower.docx 6
+12‐6‐13 Closed Session Statement.pdf 1 Lower Shore Connector Entity Advertising Budget‐Lower.xlsx 3
+AccountZIPcodes.pdf 21 Lower Shore Proposed Outreach Plan‐Lower.xls 2
+AgencyInformation.pdf 2 Lower Shore Social Media Strategy.docx 2
+Carrier‐Business‐Agreement.pdf 17 Southern Region Marketing Plan.xlsx 4
+Connector_Entity_Solicitation.pdf 63 Western Social Media Accounts.xlsx 1
+feedback‐forms.pdf 190 April 2013 CE Meeting.pptx 15
+Invoices.pdf 10 CE August 22 Meeting.pptx 59
+MHBE Payments.pdf 29 CE August 8 Marketing Update.pptx 10
+MHBE‐Ravens.pdf 13 CE June 27 Meeting.pdf 46
+RR Donnelley Proposal.pdf 24 CE November 2013 Meeting.pptx 14
+Issa letter 11.13.13.pdf 2 CE Sept2013 PPT.pptx 26
+MD Health Progress Act 2013.pdf 83 CE Sept 9 Partnership Briefing.pptx 14
+MHBE List of Supporting Documents.docx 1 MHC CVS Events SOP CE.pdf 1
+Signed Acknowledged Receipt of Goods.pdf 2 MHC Giant SOP CE_Nov2013.pdf 1
+Connector_Entity_Solicitation_Final.pdf 63 Education Presentation.pdf 27
+Public Info CAISS ‐ MBHE Technical Proposal 02282013.docx 36 Glossary of Terms ‐ English.pdf 4
+Public Info CAISS Financial Proposal MHBE.docx 7 Glossary of Terms ‐ Spanish.pdf 5
+Response Letter CAISS Capital 4.19.13.pdf 1 MDCounties_map_final.pdf 1
+Calvert Healthcare Solutions PIA.pdf 45 mhc_consumer_1PAGE_CUST_r1.pdf 1
+FHS_MHBE_Connector Entity_Budget Narrative_7_28.13.pdf 6 mhc_consumer_1PG_handout.pdf 1
+FHS_MHBE_Connector Entity_Financial Solicitation_2 28 13_FIN.pdf 10 mhc_consumer_1PG_handout_Spanish.pdf 1
+FHS_MHBE_Connector EntityTech Solicitation_2 28 13_2PM FINAL.pdf 72 mhc_consumer_2PAGE_CUST_r1.pdf 2
+HERO HEALTHY FLORIDA, LLC PIA ‐ FINANCIAL ‐ CENTRAL.pdf 2 mhc_consumer_2PG_overview.pdf 2
+HERO HEALTHY FLORIDA, LLC PIA ‐ TECHNICAL ‐ CENTRAL.pdf 12 mhc_event_flyer_template.pdf 1
+HERO HEALTHY FLORIDA, LLC PIA ‐ FINANCIAL ‐ CAPITAL.pdf 2 mhc_event_flyer_template_Spanish.pdf 1
+HERO HEALTHY FLORIDA, LLC PIA ‐ TECHNICAL ‐ CAPITAL.pdf 12 mhc_income_eligibility_CUST_r1.pdf 1
+HCAM Central Region Financial Redacted.pdf 64 mhc_medicaid_CUST_r1.pdf 2
+HCAM Central Region Technical Redacted.pdf 142 Value of Health Insurance ‐ English.pdf 2
+HCAM Upper Shore Financial Redacted.pdf 29 Value of Health Insurance ‐ Spanish.pdf 2
+HCAM Upper Shore Technical Redacted.pdf 93 value‐of‐health‐insurance‐spanish.pdf 2
+Financial Proposal Healthy Howard 022813 REDACTED.pdf 19* value_of_health_insurance_english.pdf 2
+Technical Proposal Healthy Howard 022813 REDACTED.pdf 126* CE Marketing Guidelines.pdf 1
+Montgomery County Technical Response PIA Connector.pdf 34 Connector manual ‐V1.pdf 13
+1_Seedco_Technical_Response_Narrative_Central_Region_PIA.pdf 40 MHBE_Media_Protocol_CEs_11062013.pdf 2
+2_Seedco_Technical_Response_Required_Forms_Central_Region_PIA.pdf 57 MHC_styleguide_connector.pdf 8
+3_Seedco_Technical_Response_Roles_Resumes_Central_Region_PIA.pdf 24 1. MD 31‐101 & 31‐113.pdf 15
+4_Seedco_Financial_Response_Central_Region_PIA.pdf 23 2. Individual Exchange Navigator Certification and Training Standards.pdf 3
+5_Seedco_Technical_Response_Appendices_Central_Region_PIA.pdf 22 3. Renewal, Reinstatement, Deactivation, and Suspension or Revocation of 3
+1_Seedco_Technical_Response_Narrative_UES _PIA.pdf 39 Certification.pdf
+2_Seedco_Technical_Responses_Required_Forms_UES_PIA.pdf 37 CSC RFP Evaluation Matrix MBHE EVALUATION B.pdf 2*
+3_Seedco_Technical_Responses_Roles_Resumes_UES_PIA.pdf 15 1 ‐ Title Page.pdf 1
+4_Seedco_Financial_Response_UES_PIA.pdf 15 10 ‐ Additional Economic Benefits.pdf 1
+5_Seedco_Technical_Response_Appendices_UES_PIA.pdf 14 11 ‐ Capabilities Response.pdf 45
+Lower Shore Connector Entity Financial.pdf 6 3 ‐ Transmittal Letter.pdf 1
+Lower Shore Connector Entity Technical.pdf 63 4 ‐ Executive Summary.pdf 4
+Calvert Healthcare Solutions.pdf 1 5 ‐ Project Plan ‐ Gantt Chart.pdf 1
+HCAM.pdf 1 5 ‐ Proposed Work Plan.pdf 4
+Healthy Howard.pdf 1 5 ‐ Timeline.pdf 1
+Montgomery County.pdf 86 6 ‐ Corporate Quals ‐ Legal Actions.pdf 3
+SEECO.pdf 1 6 ‐ Corporate Quals.pdf 9
+Worcester County.pdf 1 7 ‐ Experience and Qualifications of Proposed Staff.pdf 8
+faq_familes_Spanish_r1.pdf 9 8‐ Technical Response.pdf 1
+Health‐Care‐Tax‐Credits‐for‐Small‐Businesses.pdf 1 Appendices.pdf 812
+health_coverage_glossary_english.pdf 4 Appendix 10 ‐ NPC.pdf 7
+health_coverage_glossary_spanish.pdf 5 Appendix 9 Angel Consolidated 3‐22‐13.pdf 89
+Maryland‐Health‐Connection‐Overview‐Fact‐Sheet‐2pg‐Spanish.pdf 2 Potential Properties.pdf 4
+MHC_ApplicationCheckList_091813.pdf 1 Table of Contents.pdf 1
+MHC_ApplicationCheckList_spanish.pdf 1 Cognosante Redacted Supplemental BAFO.pdf 3*
+mhc_fraud_protection.pdf 1 Cognosante_MD_Consolidated Service Center_Volume l_Technical_PIA 181*
+mhc_fraud_protection_spanish.pdf 1 Version.pdf
+mhc_income_eligibility.pdf 1 Gognosante Redacted 1 Time Charge Cost Estimate Supplemental BAFO.pdf 2*
+mhc_income_eligibility_Spanish.pdf 1 Connextions CSC Technical Redacted.pdf 77*
+mhc_MEDICAID_factsheets.pdf 2 1 Time Charges Cost Estimate Attachmnet B OH Detail Redacted by HM 12213.pdf 2*
+mhc_medicaid_Spanish.pdf 2 Faneuil Inc _MHBE Technical Proposal_final_redacted.pdf 76*
+mhc_RaisingAwareness_factsheet.pdf 1 MHBE CSC Pricing Narrative BAFO Revised Redacted.pdf 5*
+mhc_smallbiz_english.pdf 2 Faneuil Inc _MHBE Technical Proposal_final_redacted.pdf 1*
+mhc_smallbiz_SHOP_Spanish.pdf 2 Redacted Supplemental BAFO.pdf 2*
+mhc_smallbiz_taxcredits_Spanish.pdf 2 Revised BAFO Supplemental Letter.pdf 1*
+CE Communications & Outreach Plan ‐ Capital Region (3).pdf 6 Revised F1 Pricing Proposal Redacted.pdf 5*
+CE Communications & Outreach Plan ‐ Central Region (3).pdf 8 06 Section 4_IBM Proposed Work Plan_REDACTED.pdf 2
+CE Communications & Outreach Plan ‐ LES Region (3).pdf 6 09 Section 8_IBM Technical Response to RFP Reqmts_REDACTED.pdf 1*
+CE Communications & Outreach Plan ‐ Western Region (4).pdf 7 16 Attachment F_IBM Compensation_REDACTED.pdf 1*
+CE Communications & Outreach Plan ‐Southern Region (4).pdf 6 Maximus ECM Fully Executed Contract 100313.docx 11
+CE Communications & Outreach Plan ‐Upper Eastern Shore Region (4).pdf 6 MaximusProposal1.pdf 30*
+Capital Region Comms Plan.doc 3 MaximusProposal2.pdf 41
+Capital Region MarketingPlan.doc 3 MaximusProposal3.pdf 30
+Central Region Communications Plan.pptx 10 Certificate of Insurance.docx 4*
+Door to HealthCare Western Maryland Outreach Plan.docx 6 A ‐ Implementation Plan.docx 3
+Lower Shore Comms Plan.docx 4 B ‐ MD Certificate of Good Standing.doc 1*
+23
+
+--- Page 24 ---
+Exhibit B – Page 2 of 3
+List of All Other Documents Received
+Public Information Act Documents received on 2/21/14 (Continued) Public Information Act Documents received on 2/21/14 (Continued)
+Name of Document Pages Name of Document Pages
+D ‐ Dunn & Bradstreet 2012.docx 10 V1_Tech_Section8.docx 325
+J ‐ Job Descriptions.doc 11 V1_Tech_Section9‐12.docx 27
+emails1.pdf 196* Assyst Eval redacted (1).pdf 4*
+emails2.pdf 137* Bazilio Cobb IVV Eval redacted (1).pdf 4*
+emails3.pdf 844* BerryDunn IVV Eval redacted.pdf 5*
+emails4.pdf 51* Credence IVV Eval v2 redacted.pdf 5*
+MD HIX Appendix A (CGI).docx 2 CSG IVV Eval redacted.pdf 3*
+MD HIX Appendix B (CGI).docx 6 HIX IV&V Vendor Recommendation to the Exchange Board REDACTED.pdf 9*
+MD HIX Appendix C (CGI).docx 2 PCG IVV Eval redacted.pdf 5*
+MD HIX Appendix D (CGI).docx 2 SLI IVV Eval redacted.pdf 4*
+MD HIX Appendix E (CGI).docx 8 Team IVV Eval redacted.pdf 4*
+MD HIX Appendix F (CGI).docx 2 VIP IVV Eval redacted.pdf 5*
+MD HIX Appendix G (CGI).docx 4 Budget Narrative.pdf 23*
+MD HIX Appendix H (CGI).docx 2 Exec Staff offer letters ‐ redacted.pdf 5
+MD HIX Appendix I (CGI)_redacted.docx 10* Expense reports.pdf 23*
+MD HIX Appendix J (CGI).docx 30 Former Exec Staff offer letters ‐ redacted.pdf 2*
+MD HIX Appendix K (CGI)_redacted.docx 8* MHBE Positions.pdf 2
+MD HIX Appendix L (CGI)_redacted.docx 4* MHBE Staff Salaries.pdf 2
+MD HIX Appendix M (CGI)_redacted.docx 102* Pearce raises.pdf 10
+MD HIX Section 1 (CGI).docx 14 Pearce termination.pdf 2
+MD HIX Section 10 (CGI)_redacted.docx 4* Connector_Entity_Solicitation_Final.pdf 63
+MD HIX Section 2 (CGI).docx 4 Individual Exchange Navigator Attestation.pdf 2
+MD HIX Section 3 (CGI)_redacted.docx 10* Copy of Navigator RFP Review Eval 1 BP 2 PIA.pdf 2*
+MD HIX Section 4 (CGI)_redacted.docx 74* Copy of Navigator RFP Review Evaluation_ MKR PIA.pdf 2*
+MD HIX Section 5 (CGI)_redacted.docx 86* Technical Proposal Evaluation Tool ‐ Navigator PIA.pdf 2*
+MD HIX Section 6 (CGI)_redacted.docx 58* 0. Table of Contents Financial Proposal.pdf 1
+MD HIX Section 8 (CGI)_redacted.docx 24* 1. Transmittal Letter.pdf 1
+MD HIX Section 9 (CGI).docx 4 2. Financial Response REDACTED.pdf 4*
+Vol II ‐ CGI_REDACTED BAFO Financial Proposal_Exchange 6 3 Attachment A ‐ TORFP Rates REDACTED.pdf 1*
+DHMSO294031_013112.docx AIR BusinessProposal‐Navigator‐Training Procurement and Role 35*
+Vol II ‐ MD HIX (CGI) redacted.docx 37* Definition‐REDACTED.pdf
+00) VOL I. TECHNICAL PROPOSAL State of Maryland‐ 408 BerryDunn Financial Proposal REDACTED ‐ MHBE Navigator FINAL.pdf 5*
+FINALasSENT_12.18.11_noon.docx BerryDunn Technical Proposal REDACTED ‐ MHBE Navigator FINAL.pdf 61*
+0a) VOL I. ‐ Transmittal Letter Signature Page_12.17.11.pdf 1 FHC proposal to MD HIX Navigator Final.pdf 11
+1a) VOL I. ‐ Sect. 5 ‐ MD HIX ‐ Work Plan (ProjSched) ‐ FINAL_12.17.11.mpp 1 Financial Proposal Redacted FINAL.pdf 3*
+1b) VOL I. ‐ Sect. 5 ‐ MD HIX ‐ Work Plan (ProjSched) ‐ FINAL_12.17.11.pdf 108 MD Financial Proposal ‐ Redacted.pdf 4
+2) VOL I. ‐ Sect. 10 ‐ Cert of Insurance ‐ 1.43 ‐ Primary Casualty_12.17.11.pdf 1 MD Technical Proposal ‐ Redacted.pdf 60
+3a) VOL I. ‐ 4.4.2 ADD'L REQ'D TECH SUBMISSIONS (2. thru 7.) ‐ MD 15 MD Technical Proposal Redacted FINAL.pdf 64
+HIX_12.17.11.pdf MHBE Navigator‐AIR Technical Proposal_Redacted.pdf 94*
+3b) VOL I. ‐ 4.4.2 ADD'L REQ'D TECH SUBMISSIONS ‐ (3. MBE ATTACH D‐ 3 GPStrategiesfinancial‐docs.pdf 10*
+1)_12.17.11.pdf GPStrategiestechnical‐docs.pdf 251*
+4) VOL I ‐ 4 4 2 ADD'L REQ'D TECH SUBMISSIONS ‐ ( 8 Consol Reqt ATTACH 30
+V)_FINAL_12.18. 11.xlsx Public Information Act Documents ‐ Batch 2 received on 3/18/14
+5) VOL I. ‐ Dell Appendix A ‐ Addendum 01 (signed)_12.17.11.pdf 1 Name of Document Pages
+6) VOL I. ‐ Dell Appendix B ‐ MD Assumptions V2_12.17.11.docx 9 Maryland Health Benefit Exchange‐ DHMSO294031 ‐ Dell Team Orals 44
+7a) VOL I. ‐Dell Appendix C1 ‐ AU MD HIX Commitment Letter 12.16.11.docx 1 Clarification.pdf
+7b) VOL I. ‐ Dell Appendix C2 ‐ BenefitMall_MD HIX Commitment 1 Noridian Group OralsClarification for the MD Exchange FINAL.pdf 22
+Letter_12.16.11.pdf SCANNED Award Rec Mem.pdf 7*
+7c) VOL I. ‐ Dell Appendix C3 ‐ CMA ‐ HIX Committment Letter 12.16.11.doc 1 Scanned CGI Key Personnel Change Additional Supporting Information.pdf 1*
+7d) VOL I. ‐ Dell Appendix C4 ‐ Cognosante ‐ MD HIX ‐ Commitment Letter 1 Scanned CGI Oral Follow‐up LetterResponse 01 ‐ CHMS0294031_010912.pdf 1*
+_12.16.11.pdf SCANNED Tech Eval Mem.pdf 10*
+7e) VOL I. ‐ Dell Appendix C5 ‐ DigDoc HIX Commitment Letter 12.16.11.pdf 1 4) VOL I ‐ 4 4 2 ADD'L REQ'D TECH SUBMISSIONS ‐ ( 8 Consol Reqt ATTACH 144
+7f) VOL I. ‐ Dell Appendix C6 ‐ GANTECH_ MD HIX ‐ Commitment 1 V)_FINAL_12.18. 11.xlsx
+Letter_12.16.11.pdf 7d) VOL I. ‐ Dell Appendix C4 ‐ Cognosante ‐ MD HIX ‐ Commitment Letter 1
+7g) VOL I. ‐ Dell Appendix C7 ‐ Speridian_MD HIX_Commitment 1 _12.16.11.pdf
+Letter_12.16.11.jpg Task Order Award to Perform IT Development Services for Phase 1B 9*
+VOL II ‐ Sect 00 ‐ FINANCIAL REDACTED PROPOSAL ‐ FINAL ‐ State of 24 Interoperability for the MHBE 11.08.12.pdf
+Maryland_12 16 11_3 pm.docx Task Order Award to Perform IT Development Services for the Small 8*
+Infosys Response Consolidated_Requirements_Spreadsheet Dec 18.xlsx 43 Business Health Option Program (SHOP) for the MHBE 09.28.12.pdf
+Infosys Response to MHBE RFP ‐ Part 1 Dec 18.docx 210 Sharfstein_emails1.pdf 447*
+Infosys Response to MHBE RFP ‐ Part 2 Dec 18.docx 93 Sharfstein_emails2.pdf 3
+Attachment U ‐ Oral Presentation Guidelines_120711_FINAL.pdf 7 Sharfstein_emails3.pdf 140*
+Maryland Health Benefit Exchange ACA RFP ‐ FINAL ‐ PDF.pdf 315 Sharfstein_emails4.pdf 67
+Maryland Health Benefit Exchange ACA RFP Addendum 1 ‐ FINAL.pdf 6 Freedman Financial Proposal ‐ Redacted.pdf 1*
+Maryland Health Benefit Exchange ACA RFP Addendum 2 ‐ FINAL.pdf 4 Freedman Technical Proposal ‐Redacted.pdf 31*
+MD Exchange ACA RFP Attachment V ‐ Consolidated Requirements 43 0. Table of Contents Technical Proposal.pdf 1
+Spreadsheet ‐ PDF.pdf 1. Transmittal Letter.pdf 1
+Award Rec Mem.pdf 7* 2. Technical Proposal.pdf 21
+Noridian Standard Contract.docx 18* 3.1 HHS Certification Regarding Lobby.pdf 1
+Tech Eval Memo.pdf 9* 3.2 Certification Regarding Environmental Smoke.pdf 1
+V1_Tech_Section1‐7.pdf 140 3.4 Affidavit.pdf 7
+V1_Tech_Section12H.pdf 84 4. Attachment A MD RFP_Team Resumes.pdf 17
+V1_Tech_Section8.pdf 325 5. Append. B Study of Navigator Program and Consumer Assistance.pdf 90
+V1_Tech_Section9‐12.pdf 27 6. Appendix C MO‐HITECH RFI.pdf 19
+V2_Financial_Intro.docx 2 REDACTED ‐ Attachment D.pdf 4*
+V2_Financial_Intro.pdf 2 MD_Navigant Tech_Navigator_ 6‐15‐2012_RDCT.pdf 73*
+V2_Financial_PricingSchedules_PIA.xlsx 0 navigant financial redacted 3.7.142014‐03‐07‐111721.pdf 2*
+V1_Tech_Section1‐7.docx 140 Attachment B.pdf 14*
+V1_Tech_Section12H.xlsx 85 Attachment C.pdf 1*
+V1_Tech_Section5A.pdf 23 Attachment D.pdf 1*
+24
+
+--- Page 25 ---
+Exhibit B – Page 3 of 3
+List of All Other Documents Received
+Public Information Act Documents ‐ Batch 2 received on 3/18/14 (Continued) Public Information Act Documents ‐ Batch 2 received on 3/18/14 (Continued)
+Name of Document Pages Name of Document Pages
+Attachment E.pdf 1* SCANNED 2 of 3 Infosys redacted technical proposal.pdf 50
+Response to MD Exchange ACA BAFO Final.pdf 6 SCANNED 3 of 3 Infosys redacted technical proposal.pdf 23
+Summary of Financial Proposal.pdf 28* Attachment B.pdf 14*
+Contract Mod for Noridian Phase 1A Change Orders.pdf 7* Attachment C.pdf 1*
+V2_Financial_Intro.pdf 2 Attachment D.pdf 1*
+Attachment U ‐ Oral Presentation Guidelines_120711_FINAL.pdf 7 Attachment E.pdf 1*
+Maryland Health Benefit Exchange ACA RFP ‐ FINAL ‐ PDF.pdf 315 Response to MD Exchange ACA BAFO Final.pdf 6
+Maryland Health Benefit Exchange ACA RFP Addendum 1 ‐ FINAL.pdf 6 Summary of Financial Proposal.pdf 28*
+Maryland Health Benefit Exchange ACA RFP Addendum 2 ‐ FINAL.pdf 4 Contract Mod for Noridian Phase 1A Change Orders.pdf 7*
+MD Exchange ACA RFP Attachment V ‐ Consolidated Requirements Spreadsheet ‐ 43 V2_Financial_Intro.pdf 2
+PDF.pdf Attachment U ‐ Oral Presentation Guidelines_120711_FINAL.pdf 7
+02.22.12 Noridian standard contract.pdf 18* Maryland Health Benefit Exchange ACA RFP ‐ FINAL ‐ PDF.pdf 315
+Task Order Award to Perform IT Data Center Hosting Services for the MHBE 8* Maryland Health Benefit Exchange ACA RFP Addendum 1 ‐ FINAL.pdf 6
+06.03.13.pdf Maryland Health Benefit Exchange ACA RFP Addendum 2 ‐ FINAL.pdf 4
+Task Order Award to Perform IT Development Services for Phase 1B 9* MD Exchange ACA RFP Attachment V ‐ Consolidated Requirements 43
+Interoperability for the MHBE 11.08.12.pdf Spreadsheet ‐ PDF.pdf
+Task Order Award to Perform IT Development Services for the Small Business 8* 02.22.12 Noridian standard contract.pdf 18
+Health Option Program (SHOP) for the MHBE 09.28.12.pdf Task Order Award to Perform IT Data Center Hosting Services for the MHBE 8*
+Task Order Award to Perform System Maintenance and Operations for the MHBE 8* 06.03.13.pdf
+10.01.13.pdf Task Order Award to Perform System Maintenance and Operations for the 8*
+Noridian MD Exchange ACA RFP Clarification FINAL.pdf 52 MHBE 10.01.13.pdf
+Tech Proposal Section 1‐7 (1 of 3).pdf 50 Noridian MD Exchange ACA RFP Clarification FINAL.pdf 52
+Tech Proposal Section 1‐7 (2 of 3).pdf 52 Tech Proposal Section 1‐7 (1 of 3).pdf 50
+Tech Proposal Section 1‐7 (3 of 3).pdf 38 Tech Proposal Section 1‐7 (2 of 3).pdf 52
+Tech Proposal Section 12H (1 of 2).pdf 29 Tech Proposal Section 1‐7 (3 of 3).pdf 38
+Tech Proposal Section 12H (2 of 2).pdf 30 Tech Proposal Section 12H (1 of 2).pdf 29
+Tech Proposal Section 8 (1 of 5).pdf 25 Tech Proposal Section 12H (2 of 2).pdf 30
+Tech Proposal Section 8 (2 of 5).pdf 35 Tech Proposal Section 8 (1 of 5).pdf 25
+Tech Proposal Section 8 (3 of 5).pdf 44 Tech Proposal Section 8 (2 of 5).pdf 35
+Tech Proposal Section 8 (4 of 5).pdf 28 Tech Proposal Section 8 (3 of 5).pdf 44
+Tech Proposal Section 8 (5 of 5).pdf 60 Tech Proposal Section 8 (4 of 5).pdf 28
+Tech Proposal Section 9‐12.pdf 32 Tech Proposal Section 8 (5 of 5).pdf 60
+Tech Proposal Section5A.pdf 24 Tech Proposal Section 9‐12.pdf 32
+Pearce 1 of 5.pdf 80* Tech Proposal Section5A.pdf 24
+Pearce 2 of 5.pdf 61* Total Pages Reviewed 13374
+Pearce 3 of 5.pdf 65* Total PIA Documents Reviewed 394
+Pearce 4 of 5.pdf 61* Total PIA Documents Redacted 108
+Pearce 5 of 5.pdf 70*
+SCANNED Vol II ‐ CGI_REDACTED BAFO Financial Proposal_Exchange 6*
+DHMSO294031_013112.pdf
+SCANNED MD HIX Vol II (CGI) redacted.pdf 38* Note 1: Items marked with an asterisk had one or more pages
+SCANNED PART 1 OF 2 CGI Response_RFP Clarification Questions Set No 56*
+redacted.
+1_012012_Ex.pdf
+SCANNED PART 2 OF 2 CGI Response_RFP Clarification Questions Set No 54*
+1_012012_Ex.pdf Note 2: Certain documents had the same titles as other
+SCANNED Appendix PART 1 OF 3.pdf 100
+SCANNED Appendix PART 2 OF 3.pdf 64* documents and these generally appeared to contain the same
+SCANNED Appendix PART 3 OF 3.pdf 48* information. Nevertheless, we reviewed both documents.
+SCANNED Section PART 1 OF 4.pdf 66
+SCANNED Section PART 2 OF 4.pdf 62
+SCANNED Section PART 3 OF 4.pdf 58*
+SCANNED Section PART 4 OF 4.pdf 86*
+DELL_BAFO Hardware List.pdf 1
+DELL_Maryland Health Benefit Exchange BAFO.pdf 13
+SCANNED BAFO Pricing of Hardware Software.pdf 2*
+VOL_II _‐_FINANCIAL__PROPOSAL_‐_FINAL_‐ 24
+_State_of_Maryland_BAFO_REDACTED.pdf
+VOL II ‐ Sect 00 ‐ FINANCIAL REDACTED PROPOSAL ‐ FINAL ‐ State of Maryland 24
+(FEIN Redacted).pdf
+DELL_State of Maryland RFP Clarification Set No 1 ‐ FINAL.pdf 31
+00) VOL I. TECHNICAL PROPOSAL State of Maryland‐ 261
+FINALasSENT_12.18.11_noon.docx
+0a) VOL I. ‐ Transmittal Letter Signature Page_12.17.11.pdf 1
+1b) VOL I. ‐ Sect. 5 ‐ MD HIX ‐ Work Plan (ProjSched) ‐ FINAL_12.17.11.pdf 108
+2) VOL I. ‐ Sect. 10 ‐ Certif of Insurance ‐ 1.43 ‐ Primary Casualty_12.17.11.pdf 1
+3 b) VOL I 4.4.2 (FEINs redacted).pdf 3
+15
+3a) VOL I. ‐ 4.4.2 ADD'L REQ'D TECH SUBMISSIONS (2. thru 7.) ‐ MD HIX_12.17.11.pdf
+5) VOL I. ‐ Dell Appendix A ‐ Addendum 01 (signed)_12.17.11.pdf 1
+6) VOL I. ‐ Dell Appendix B ‐ MD Assumptions V2_12.17.11.docx 9
+7a) VOL I. ‐Dell Appendix C1 ‐ AU_MD HIX Commitment Letter_12.16.11.docx 1
+7b) VOL I. ‐ Dell Appendix C2 ‐ BenefitMall_MD HIX Commitment 1
+Letter_12.16.11.pdf
+7c) VOL I. ‐ Dell Appendix C3 ‐ CMA ‐ MD HIX Committment Letter_12.16.11.doc 1
+7e) VOL I. ‐ Dell Appendix C5 ‐ DigiDoc_MD HIX ‐ Commitment Letter_12.16.11.pdf 1
+7f) VOL I. ‐ Dell Appendix C6 ‐ GANTECH_ MD HIX ‐ Commitment 1
+Letter_12.16.11.pdf
+7g) VOL I. ‐ Dell Appendix C7 ‐ Speridian_MD HIX_Commitment 1
+Letter_12.16.11.jpg
+SCANNED 1 of 3 Infosys redacted technical proposal.pdf 50
+25
+
+--- Page 26 ---
+26
+
+--- Page 27 ---
+Exhibit C – Page 1 of 5
+Summary of Risks and Issues per IV&V Reports
+Introduction of Exhibit C
+Exhibit C is a summary of the risks and issues identified in the BerryDunn IV&V reports dated between
+January 8, 2013 and September 30, 2013. For BerryDunn’s definition of a risk and issue, see page 2
+(footnote 4) above. We included a summary, impact rating, area of review affected, and status (that is,
+open, closed, etc.) of each risk on pages 2 and 3 of the Exhibit. Similarly, we included the same
+information relating to each issue on pages 4 and 5.
+27
+
+--- Page 28 ---
+5
+fo
+2
+egaP
+– C tibihxE
+stropeR
+V&VI
+rep
+seussI
+dna
+sksiR
+fo yrammuS
+28
+setaD
+noissimbuS
+tropeR
+V&VI
+rep
+aerA
+derevoC
+ksiR
+tseuqeR
+COJ
+stropeR V&VI morf etouQ noitpircseD ksiR
+tcapmI
+F
+E
+D
+C
+B
+A
+A
+O
+O
+O
+O
+N
+●
+●
+muideM
+1R
+33R
+O
+O
+O
+O
+O
+N
+●
+●
+●
+hgiH
+2R
+4I
+O
+N
+●
+●
+hgiH
+3R
+7R
+O
+N
+●
+●
+hgiH
+4R
+5I
+O
+N
+●
+hgiH
+5R
+C
+O
+O
+O
+O
+O
+O
+O
+N
+●
+hgiH
+6R
+92
+,82R
+O
+O
+O
+O
+O
+N
+●
+●
+hgiH
+7R
+C
+O
+O
+O
+N
+●
+●
+hgiH
+8R
+51I
+O
+O
+O
+N
+●
+●
+hgiH
+9R
+6I
+N
+●
+hgiH
+01R
+7I
+N
+●
+hgiH
+11R
+31I
+O
+O
+O
+N
+●
+●
+muideM
+21R
+71I
+O
+O
+N
+●
+●
+hgiH
+31R
+63R
+O
+O
+O
+O
+N
+●
+●
+●
+hgiH
+41R
+55I
+O
+O
+O
+O
+O
+O
+N
+●
+hgiH
+51R
+C
+O
+O
+O
+O
+N
+●
+●
+hgiH
+61R
+61I
+O
+O
+N
+●
+●
+hgiH
+71R
+M
+M
+M
+M
+O
+O
+O
+N
+●
+hgiH
+81R
+23R
+O
+O
+N
+●
+hgiH
+91R
+C
+O
+O
+N
+●
+●
+hgiH
+02R
+M
+M
+M
+O
+O
+N
+●
+●
+hgiH
+12R
+41I
+N
+●
+●
+hgiH
+22R
+O
+O
+O
+O
+O
+N
+●
+●
+hgiH
+32R
+9/30/2013
+8/30/2013
+7/31/2013
+6/28/2013
+5/28/2013
+4/30/2013
+3/26/2013
+2/26/2013
+2/8/2013
+1/8/2013
+ksiR
+ot tneiciffus eb
+ton
+yam ti ksir
+a si ereht dna ytixelpmoc dna ezis siht fo tcejorp a rof nael yrev si gniffats etatS" ".senildaed etats/laredef ot roirp yrassecen krow eht etelpmoc
+metsys lla
+tset
+dna ,yfirev
+,etelpmoc ot tneiciffus eb ton lliw stnirps eerht gniniamer eht taht ksir a si erehT" ".evil-og erofeb stnenopmoc
+siht no rucco ot
+deen
+taht seitivitca
+rojam lla seifitnedi taht nalp tcejorp deliated a fo kcal eht taht ksir a si erehT"
+yb deganam enilemit
+level-hgih
+gniveihca fo doohilekil eht dnatsrednu ot ytiliba s’tcejorP eht tibihni yam ,tcejorp ".OMP eht dna naidiroN
+decafretni nehw
+ylreporp
+krow
+ton yam tub ,yllaudividni krow yam stnenopmoc metsys eht taht ksir a si erehT" ".metsys detargetni eno fo trap sa derugifnoc dna
+,naidiroN ,OMP
+etatS
+eht( smaet
+tcejorp neewteb noitacinummoc tneiciffeni taht tcejorp eht ot ksir a si erehT"
+".stluser
+tcejorp no tcapmi evitagen a evah dluoc )rodnev V&VI eht dna ,ffats etatS
+".yteritne sti ni
+dewollof
+gnieb
+yltnerruc ton ni egdelwonk ruo ot taht nalp tnemeganam ytilauq a sah naidiroN"
+,)tcejorp siht fo
+erutan
+eligA eht
+nevig yralucitrap( ygetarts gnitset evisneherpmoc a tuohtiw ,taht ksir a si erehT" ".rucco ton lliw gnitset etairporppa ".ygetarts ecafretni llarevo eht gnidrager stsixe ni-yub redlohekats fo kcal A"
+llac eht dna rodnev
+dna ytilicaf
+retnec atad eht eruces dna erucorp ot s'PFR gnipoleved si etatS eht hguohtlA"
+noitcudorp eht
+tset
+ylreporp ot
+ecalp ni eb t'now retnec llac dna erutcurtsarfni siht ksir a si ereht ,rodnev retnec ".enildaed 3102 yluJ eht ot roirp erawtfos dna tnemnorivne
+rof elbisnopser
+si ohw reganaM
+margorP a yllacificeps thgisrevo tnemeganaM margorP llarevo on si erehT" ".troffe EBHM eritne eht fo ssergorp eht gnikcart
+".EBHM
+eht
+rof detnemucod ro detacinummoc neeb ton sah tcejorp eht rof htap lacitirc ehT"
+ot redro ni gniniart
+tnempoleved
+eviecer ot redro ni maet eht no tneserp eb tsum lennosrep tnempoleved etatS" ".tnemeriuqer noitacifitrec-erp teem
+eht ni tniop siht
+ta
+stnenopmoc
+egnahcxE lla ssorca ygetarts dna erutcetihcrA ytiruceS deliated a fo kcal ehT" ".sseccus tcejorp ot ksir tnacifingis a setaerc enilemit tnempoleved
+setaerc enilemit
+eht ni tniop
+siht ta stnenopmoc egnahcxE lla rof nalp noisrevnoc atad deliated a fo kcal ehT" ".sseccus tcejorp ot ksir tnacifingis
+".ksir
+tcejorp
+tnacifingis
+setaerc tcejorp eht ni tniop siht ta tnempoleved troper deliated a fo kcal ehT"
+dna gninnalp )BSE(
+suB ecivreS
+esirpretnE eht fo gnidnatsrednu lareneg dna noitatnemucod fo kcal a si erehT"
+".tcejorp
+eht ot ksir a si hcihw ,XIH eht fo noitrop TCAXE eht gnidrager ygetarts
+tneiciffus eb ton
+yam
+ti ksir a
+si ereht dna ytixelpmoc dna ezis siht fo tcejorp a rof nael yrev si gniffats rodneV" ".senildaed etats/laredef ot roirp yrassecen krow eht etelpmoc ot
+detadilosnoc
+eht
+htiw egap
+emas eht no eb tsum RHD dna ,HMHD ,EBHM neewteb pihsredael evitucexE" ".eruliaf rof ksir tnacifingis a eb lliw ereht ro hcaorppa nalp krow
+tcejorp tcapmi
+ylevitagen
+lliw etad yreviled dennalp noitacilppa denilmaerts maruC eht taht ksir a si erehT" ".dnalyraM ni ssergorp
+ton seod ssecorp
+refsnart
+egdelwonk dna tnemeganam egdelwonk a ,EBHM eht no snoitisop yek eht roF" ".tsixe
+seussi dna
+sksir
+rof sessecorp
+rieht etacinummoc ylesicnoc ton seod troper sutats s'rodneV TI emirP ehT"
+eb lliw tnedifnoc
+ton
+era yeht taht
+setivitca yna rof sevitanretla gniyfitnedi dna ,snoitamitse enildaed ,tnemeganam ".31/12/7 no TAU yb ydaer
+si TAU
+taht
+emit emas
+eht gnirud sresu lanretxe niart dna slairetam gniniart etaerc lliw srodnev gniniarT" ".gnirucco
+htiw egnahcxe
+eht
+fo ecnailpmoc
+eht gnitset rof ecalp ni erudecorp/nalp lamrof on si ereht taht ksir a si erehT" ".snoitaluger dna selur etatS dna laredeF eht
+
+--- Page 29 ---
+5
+fo
+3
+egaP
+– C tibihxE
+stropeR
+V&VI
+rep
+seussI
+dna
+sksiR
+fo
+yrammuS
+29
+F
+E
+D
+C
+B
+A
+C
+O
+O
+N
+●
+hgiH
+42R
+M
+M
+M
+O
+N
+●
+●
+hgiH
+52R
+C
+N
+●
+hgiH
+62R
+C
+O
+N
+●
+hgiH
+72R
+C
+O
+N
+●
+hgiH
+82R
+A
+O
+O
+N
+●
+●
+●
+hgiH
+92R
+12I
+N
+●
+muideM
+03R
+O
+O
+O
+N
+●
+woL
+13R
+M
+O
+O
+N
+●
+●
+muideM
+23R
+C
+O
+O
+N
+●
+●
+hgiH
+33R
+C
+N
+●
+muideM
+43R
+42
+,32I
+N
+●
+●
+woL
+53R
+O
+O
+N
+●
+●
+hgiH
+63R
+C
+C
+,N
+●
+woL
+73R
+A
+N
+●
+●
+●
+muideM
+83R
+A
+N
+●
+●
+●
+muideM
+93R
+O
+O
+N
+●
+muideM
+04R
+3
+etoN
+N
+●
+●
+woL
+14R
+N
+●
+woL
+24R
+N
+●
+woL
+34R
+N
+●
+●
+hgiH
+44R
+N
+●
+muideM
+54R
+N
+●
+muideM
+64R 1etoN
+64
+N
+0
+9
+O
+13
+11
+C
+41
+2etoN
+4
+A
+9
+4
+M
+5
+# R
+3etoN
+31
+# I
+3
+9/30/2013
+8/30/2013
+7/31/2013
+6/28/2013
+5/28/2013
+4/30/2013
+3/26/2013
+2/26/2013
+2/8/2013
+1/8/2013
+setaD
+noissimbuS
+tropeR
+V&VI
+rep
+aerA
+derevoC
+ksiR
+tseuqeR
+COJ
+stropeR
+V&VI morf etouQ
+noitpircseD ksiR
+ksiR
+tcapmI
+taht
+yaw a ni metsys
+"eB-oT" eht
+ot deppam neeb ton evah
+sessecorp ssenisuB sI-sA taht nrecnoc
+a si erehT"
+".EBHM eht
+fo ssecorp ssenisub wen
+eht dnatsrednu ylluf ot ytinummoC resU
+eht swolla
+egnahc gnitaerc
+si gnireenigne-er
+sssecorp ssenisub
+fo gnidnatsrednu fo kcal eht taht nrecnoc
+si erehT"
+".snoisses gninnalp
+TAU eht ni
+etapicitrap ot detcepxe
+era ohw sredlohekats suoirav rof seussi
+tnemeganam
+sa noitatnemucod
+ssecorp
+ssenisub
+niatbo ot desu gnieb
+era sgniteem gninnalp TAU taht nrecnoc
+a si erehT"
+".gninnalp
+TAU evitceffe rof yrassecen
+stpircs tset gnidliub no gnisucof
+ot desoppo
+".seicnega
+ssorca
+ssecorp
+weiver elbareviled eht
+ni nwodkaerb a eb yam ereht taht nrecnoc
+si erehT"
+tset 008 fo
+latot
+a rof ,soiranecs
+tset 001 htiw hcae
+,secivres thgie gnitset seriuqer gnitset
+3 evaW SMC"
+".detucexe gnieb
+soiranecs
+si ytilanoitcnuf
+tahw fo eludehcs
+raelc a fo kcal eht
+htiw dna ,TAU tuohguorht gniog-no si
+tnempoleveD"
+eb nac soiranecs
+tahw fo eludehcs
+etarucca na poleved
+ot gnitset TAU rof tluciffid si ti ,nehw
+elbaliava
+".nehw
+dna detset
+PE ,erutcennoC
+,maruC otni
+noitargetni OSS .dehsinifnu
+si krow tnempoleved )OSS( nO
+ngiS elgniS"
+".etelpmocni
+si TCAXE dna stcudorp STOC
+slaicnaniF
+ta
+ngised erutcetihcra
+noitcudorp
+eht tup yam tnemnorivnE
+gnigatS a sa RD rof erutcurtsarfni gnisoprup
+lauD" ".ksir
+dna ,napSlliB
+,erutcennoC
+,maruC edulcni stcudorp
+ehT .TAU gnirud sesaeler gnivah stcudorP
+STOC" ".TCAXE
+skeew owt
+lanoitiddA
+.3102
+,1 rebotcO litnu dereviled
+eb ton lliw stiucriC .ytivitcennoC
+retneC llaC"
+".pu-tes
+rof deriuqer
+eht dna SMC
+yb weiver ot
+syad 03 ot pU .XIH eht
+rof tcartnoC gnitsoH fo stnemeriuqer
+weiver SMC"
+".3102
+,51 enuJ fo etad ffo-tuc
+troper eht fo sa etelpmoc ton si tcartnoc
+gnitsoH
+".stes atad
+TAU
+poleved
+ot emit ni detelpmoc eb
+ton yam noitacifitrec SIC/SERAC :secafretnI
+etatS"
+".tuollor noisrevnoc atad rof gniludehcs
+raey fo dnE"
+".dliub deifitnedi na evah ton seod
+latroP SBAN"
+".ezis siht
+tcejorp a rof stnemnorivne fo egatrohs
+a si erehT"
+".TAU rof elbaliava ton si tnemnorivnE
+gnigatS"
+ro
+etatS ot ytivitcennoc
+ro ytilibaliava
+ecivres XIH tcapmi
+dluoc retnec atad eno ni erutcurtsarfni
+ot segnahC"
+".etarepo ot XIH rof dedeen secivres
+laredeF
+".10/01 yb detelpmoc
+eb ton yam noitatnemelpmi dna gninnalp
+snoitarepO"
+".sredlohekats
+tcejorp lanretni
+etairporppa htiw gniteem noisiced
+og-on/og A"
+".10/01
+erofeb dessap dna
+demrofrep eb tsum gnitset )RD( yrevoceR
+retsasiD"
+".deludehcs
+neeb ton sah tset retnec llac yrevocer
+retsasid A"
+XIHDM erusne
+ot gnitset noisserger
+evisnetxe evah
+dluohs snoitaluclac ]snoitcuder ecivres
+tsoc[ RSC"
+".yltcerroc gnikrow dna ecnailpmoc
+ni si ecivres
+".seitilibisnopser
+O&M dna
+ytnarraW fo noitaenileD fo gnidnatsrednu
+raelc oN"
+skraM
+kciT
+fo
+noitanalpxE
+tseuqeR
+COJ rep aerA
+derevoC
+egnahc a ot eud deifidom erew taht sksir
+5 erew erehT
+ksiR
+weN
+stnemerucorP tcartnoC
+- A
+dna desolc erew hcihw secnatsmucric
+dna stneve
+ni
+sksiR
+31/03/9
+weN
+sedulcnI
+31/03/9
+fo sa
+ksiR
+nepO
+tnemeganaM tcejorP
+- B
+ksir rehtona
+sa denepo
+devloseR
+&
+desolC
+metsyS
+TI
+tnemllornE
+dna ytilibigilE
+eht fo serutaeF
+- C
+wol dna ,muidem ,hgih taht su demrofni
+nnuD yrreB
+etatS
+eht
+yb detpeccA
+ksiR
+tnemeganaM ecruoseR
+- D
+evitaroballoc ni maet rieht yb denimreted
+era sgnitar
+nwonknU
+sutatS
+,tropeR
+morf gnissiM
+ksiR
+.srebmem maet rieht lla htiw
+snoitasrevnoc
+02
+detacidnI
+# ksiR
+ot
+devoM
+gninnalP
+ycnegnitnoC
+dna
+metsyS TI tnemllornE
+dna ytilibigilE
+eht fo gnitseT - E
+:seussi gniwollof eht otni dednapxe dna
+detalacse ksiR
+detacidnI
+# eussI
+ot
+devoM
+seititnE
+noitcennoC
+fo noitanidrooC
+dna
+,noitazilitU ,gniniarT
+- F
+15 ,05 ,94 ,84 ,74 ,14 ,83 ,63 ,43
+,33 ,13 ,92 ,82
+
+--- Page 30 ---
+5
+fo
+4
+egaP
+–
+C
+tibihxE
+stropeR
+V&VI
+rep
+seussI
+dna
+sksiR
+fo
+yrammuS
+30
+F
+E
+D
+C
+B
+A
+C
+N
+●
+hgiH
+1I
+C
+O
+N
+●
+hgiH
+2I
+C
+N
+●
+hgiH
+3I
+C
+O
+N
+●
+hgiH
+4I
+C
+O
+N
+●
+hgiH
+5I
+C
+O
+N
+●
+hgiH
+6I
+C
+O
+N
+●
+hgiH
+7I
+C
+O
+O
+O
+N
+●
+●
+deM
+8I
+O
+O
+O
+O
+O
+N
+●
+●
+hgiH
+9I
+A
+A
+A
+A
+O
+N
+●
+deM
+01I
+C
+O
+N
+●
+●
+hgiH
+11I
+A
+A
+A
+A
+O
+N
+●
+●
+deM
+21I
+C
+O
+N
+●
+●
+●
+deM
+31I
+C
+N
+●
+●
+hgiH
+41I
+C
+N
+●
+●
+hgiH
+51I
+C
+N
+●
+●
+hgiH
+61I
+C
+N
+●
+●
+hgiH
+71I
+O
+O
+O
+N
+●
+hgiH
+81I
+O
+O
+O
+N
+●
+●
+hgiH
+91I
+C
+N
+●
+●
+woL
+02I
+C
+N
+●
+hgiH
+12I
+O
+O
+N
+●
+deM
+32I
+C
+N
+●
+deM
+42I
+O
+N
+●
+hgiH
+52I
+O
+N
+●
+hgiH
+62I
+O
+N
+●
+hgiH
+72I
+N
+●
+hgiH
+82I
+N
+●
+●
+●
+woL
+92I
+N
+●
+deM
+13I
+N
+●
+●
+●
+woL
+33I
+N
+●
+●
+woL
+43I
+N
+●
+deM
+63I
+4/30/2013
+evah
+smaet
+OMP
+etatS dna naidiroN
+eht htiw sweivretni gnidnif-tcaf gniludehcs ot detaler segnellahC"
+".troper
+sutats
+ylhtnom dna
+troper
+ylhtnom V&VI eht poleved ot ytiliba smaet V&VI eht detceffa
+siht dna
+,sgniteem
+gnirrucer-non
+dna
+gnirrucer
+fo eludehcs eht otni detargetni ylluf ton si maet V&VI ehT" ".tcejorp eht ni etapicitrap ylevitceffe ot ytiliba ruo stimil
+5/28/2013
+setaD
+noissimbuS
+tropeR
+V&VI
+rep
+aerA
+derevoC
+eussI
+tseuqeR
+COJ
+stropeR
+V&VI
+morf etouQ noitpircseD eussI
+#
+eussI
+tcapmI
+9/30/2013
+8/30/2013
+7/31/2013
+6/28/2013
+3/26/2013
+2/26/2013
+2/8/2013
+1/8/2013
+".detseuqer
+evah
+ew
+noitatnemucod/noitamrofni eht fo lla deviecer ton sah nnuDyrreB"
+si tcejorp
+siht
+no rucco
+ot deen taht
+seitivitca
+rojam lla seifitnedi taht nalp tcejorp deliated a fo kcal ehT"
+".tcejorp
+siht fo epocs eht gnidnatsrednu morf sredlohekats gnitneverp
+V&VI
+eht
+dna
+,ffats
+etatS ,naidiroN
+,OMP
+etatS eht( smaet tcejorp neewteb noitacinummoc tneiciffenI" ".stluser tcejorp no tcapmi evitagen a gnivah si )rodnev
+rof elbisnopser
+si ohw
+reganaM margorP
+a yllacificeps thgisrevo tnemeganam margorP llarevo on si erehT" ".troffe EBHM eritne eht fo ssergorp eht gnikcart
+".EBHM
+eht rof
+detnemucod
+ro detacinummoc neeb ton sah tcejorp eht fo epocs ehT"
+ton
+evah
+noitarepo
+evil gnirud detcudnoc
+eb lliw sessecorp ssenisub rojam emos woh rof snoissucsiD"
+".etad
+ot stroffe gnitset/tnempoleved
+ni deredisnoc neeb ton erofereht evah dna edam neeb
+".troffe
+eht
+gniganam
+rof loot evitca
+na eb ot raeppa ton seod EBHM eht rof detaerc nalp krow ehT" ".sgniteem fo noitazilartnec on si erehT" ".stsixe snalp ycnegnitnoc s'etatS eht gnitucexe rof etad raelc oN" ".denimreted neeb ton sah EBHM eht rof htap lacitirc ehT"
+eviecer
+ot
+elbaliava eb tonnac
+erofereht dna derih neeb ton evah lennosrep tnempoleved etatS" ".stnemeriuqer lanoitarepo teem ot redro ni gniniart tnempoleved
+sredlohekats
+lla gniniart
+rof enilemit
+eht
+dna ,dedrawa neeb ton sah rodnev gniniart eht rof tcartnoc ehT" ".trohs yrev si enildaed 3102 ,1 rebotcO eht ot roirp
+tnemnorivne
+noitcudorp
+eht tset ylreporp
+ot ecalp ni eb ton yam rodnev retnec llac dna erutcurtsarfni ehT" ".enildaed lanoitarepo eht ot roirp erawtfos dna
+eb
+ton
+yam
+ti ksir
+a si ereht dna
+ytixelpmoc
+dna ezis siht fo tcejorp a rof nael yrev si gniffats rodneV"
+".senildaed
+etats/laredef ot roirp yrassecen krow eht etelpmoc ot tneiciffus
+ni tniop
+siht
+ta
+stnenopmoc
+egnahcxE
+lla
+ssorca ygetarts dna erutcetihcrA ytiruceS deliated a fo kcal ehT"
+".sseccus
+tcejorp ot ksir tnacifingis a setaerc enilemit tnempoleved eht
+dna tnacifingis
+si XIH
+eht rof gnifoorp
+ytitnedi dna noitartsiger-fles fo ssecorp nogol eht fo tnempoleveD" ".eludehcs dniheb ".naidiroN yb dehsilbatse neeb sah ssecorp tnuoccA worcsE oN"
+ot ytiliba
+stimil
+ecivres
+XIH eht nihtiw
+swolf
+ssenisub lacitirc fo sweiver etarucca dna ylemit gnidivorp toN" ".ytilanoitcnuf lacitirc )V&VI( yltnednepedni etadilav " .dehsinifnu si krow tnempoleved )OSS( nO ngiS elgniS" ".etelpmocni si SIC/SERAC ot ecafretnI" ".etelpmocni si gnitset SIMM"
+".ecivres XIHDM
+eht rof 1/01 rof ytilanoitcnuf ecivres fo tsil dehsilbup a fo kcaL"
+".ytilanoitcnuf
+etelpmoc gnikcal si stneutitsnoc SBAN troppus ot erawtfoS" ".etelpmoc ton si tnempoleved secitoN" ".gnitset dne-ot-dne lluf etelpmoc ton seod gnitset ecnamrofreP"
+".noitcudorp
+morf
+tnemnorivne
+ekil-rof-ekil non no enod gnieb si gnitset ecnamrofreP"
+eb ton
+yam
+evil-og
+hguoht 0.5 setadidnac
+esaeler ni decudortni gnieb serutaef lacitirc rof egarevoc tseT" ".gnitset ecnamrofrep fo trap sa dedulcni ".rebmem ffats eno ylno fo stsixe maet ecnamrofrep ehT" ".detcudnoc gnieb ton si gnitset esabatad ecnamrofreP"
+".esu
+detimil dah sah sessecorp dna atad eliforp resu fo daolpu kluB"
+
+--- Page 31 ---
+5
+fo
+5
+egaP
+–
+C tibihxE
+stropeR
+V&VI
+rep
+seussI
+dna
+sksiR
+fo
+yrammuS
+31
+F
+E
+D
+C
+B
+A
+N
+●
+woL
+83I
+N
+●
+hgiH
+14I
+N
+●
+hgiH
+44I
+N
+●
+●
+●
+●
+deM
+54I
+N
+●
+hgiH
+64I
+N
+●
+hgiH
+74I
+N
+●
+●
+hgiH
+84I
+N
+●
+●
+●
+woL
+94I
+N
+●
+hgiH
+05I
+N
+●
+●
+hgiH
+15I
+N
+●
+deM
+25I
+54R,N
+●
+●
+hgiH
+35I
+N
+●
+deM
+45I
+N
+●
+●
+hgiH
+55I
+N
+●
+deM
+65I
+N
+●
+deM
+75I
+tseuqeR
+COJ
+rep
+aerA
+derevoC
+taht eussi wen
+a
+etacidni deppiks era taht
+srebmun
+eussI
+1etoN
+84
+eussI
+weN
+N
+0
+stnemerucorP
+tcartnoC
+- A
+.doirep gnitroper
+emas eht ni desolc
+dna
+denepo
+saw
+82
+seussI
+31/03/9
+weN
+sedulcnI
+31/03/9
+fo
+sa
+eussI
+nepO
+O
+62
+tnemeganaM
+tcejorP
+- B
+wol dna
+,muidem
+,hgih taht su demrofni
+nnuD
+yrreB
+2etoN
+71
+eussI
+devloseR
+&
+desolC
+C
+22
+metsyS
+TI
+tnemllornE
+dna
+ytilibigilE
+eht
+fo serutaeF
+- C
+evitaroballoc
+ni maet rieht yb denimreted
+era
+sgnitar
+2
+devlosernU
+&
+etatS
+eht
+yb
+detpeccA
+eussI
+A
+6
+tnemeganaM
+ecruoseR
+- D
+.srebmem
+maet rieht lla htiw
+snoitasrevnoc
+1
+#R
+dna
+metsyS
+TI
+tnemllornE
+dna ytilibigilE
+eht
+fo gnitseT
+- E
+51
+gninnalP
+ycnegnitnoC
+5
+seititnE
+noitcennoC
+fo
+noitanidrooC
+dna ,noitazilitU
+,gniniarT
+- F
+4/30/2013
+3/26/2013
+2/26/2013
+2/8/2013
+1/8/2013
+stropeR
+V&VI
+morf
+etouQ noitpircseD
+eussI
+#
+eussI
+".etelpmocni
+si gnitset yrevocer
+dna pukcaB"
+".noitulos
+eht esu
+ot
+woh
+no ediug
+desab-selor
+a edivorp
+ton seod slairetam
+gniniart
+metsyS"
+".sredlohekats
+lla ot
+detacinummoc
+dna
+detnemucod
+neeb
+ton evah noiretirc ecnatpecca
+metsyS"
+,tnemeganam
+reyolpme
+,ssecorp
+slaeppa
+eht
+no noitamrofni
+gnissim si noitatnemucod
+gniniart
+metsyS"
+rekorb
+dna
+)APT(
+noitartsinimdA
+ytraP
+drihT
+,tnemeganam
+reirrac ecnarusni ,tnemeganam
+eeyolpme ".ytilanoitcnuf
+".etad
+evil-og
+10/01 eht ekam ton
+lliw gnitropeR"
+skraM
+kciT
+fo
+noitanalpxE
+detacidnI
+#ksiR
+ot
+devoM
+6/28/2013
+5/28/2013
+setaD
+noissimbuS
+tropeR
+V&VI
+rep
+aerA
+derevoC
+eussI
+tseuqeR
+COJ
+tcapmI
+".stsixe tnemeganam
+eliforp resu rof ytilibapac
+lartnec
+oN"
+".dehsinifnu
+era
+smetsys esabatad
+noitcudorp eht fo stcepsa
+lanoitarepO"
+".XIH
+eht
+fo ytilanoitcnuf
+wen tset
+ot
+ssecorp ekil-TAU gniog-no
+na fo
+kcaL"
+".detcudnoc
+gnieb
+si
+krow tahw
+tcelfer
+ton seod ariJ htiw gnikcart
+tcefed/guB"
+".sreyal
+erutcurtsarfni
+dna noitacilppa eht ta
+ytilibats
+fo
+kcaL"
+".sesabatad
+ni atad
+gnitsixe
+gniteled
+tuohtiw sesaeler
+edargpu ot erudecorp denifed
+a fo
+kcaL"
+ssorca
+detanidrooc
+ron
+ecalp
+ni
+ton
+si
+noitcudorp
+ot sesaeler
+rof
+ssecorp lortnoC egnahC
+lanoitarepO
+nA"
+".evil-og
+rof smaet
+eht
+".tcejorp
+eht
+ni
+tniop
+siht ta
+smetsys
+noitcudorp
+ot ssecca detalugernu sah
+tnempoleveD"
+rof
+ksir
+ecudortni
+yam
+hcihw
+tcejorp
+eht rof
+elbaliava
+ton si
+eludehcs
+ytilanoitcnuf ]3102[
+1/01 derrefeD"
+".selbareviled lanoitcnuf
+]4102[
+1/1
+eht
+".dedivorp
+neeb
+ton
+evah
+stroper scirtem
+metsys dna noitacilppa
+,esabatad
+,beW"
+".maruC morf
+eulav
+thgir gnitupmoc ton
+noitaluclac
+RSC"
+9/30/2013
+8/30/2013
+7/31/2013

@@ -1,0 +1,750 @@
+Title: State Corporate Purchasing Card Program
+Date: 03/26/2014
+Type: Performance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a945d3acc9d72404c150a62
+Extracted: 2025-06-18T10:54:11.923532
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Performance Audit Report
+State Corporate Purchasing Card Program
+Additional Data Analysis Techniques Should Be Employed to Strengthen
+Program Integrity
+March 2014
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+ This report and any related follow-up correspondence are available to the public through
+the Office of Legislative Audits at 301 West Preston Street, Room 1202, Baltimore,
+Maryland 21201. The Office may be contacted by telephone at 410-946-5900, 301-970-
+5900, or 1-877-486-9964.
+ Electronic copies of our audit reports can be viewed or downloaded from the Internet via
+http://www.ola.state.md.us.
+ Alternate formats may be requested through the Maryland Relay Service at 1-800-735-
+2258.
+ The Department of Legislative Services – Office of the Executive Director, 90 State Circle,
+Annapolis, Maryland 21401 can also assist you in obtaining copies of our reports and
+related correspondence. The Department may be contacted by telephone at (410) 946-
+5400 or (301) 970-5400.
+
+--- Page 5 ---
+Table of Contents
+Executive Summary 5
+Background Information 7
+Audit Scope, Objectives, and Methodology 11
+Findings and Recommendations
+Finding 1 – The General Accounting Division Had Not Required 14
+State Agencies to Use Level-3 Data to Monitor Their
+Cardholders’ Purchasing Activities
+Finding 2 – Certain Aspects of CPC Transactions Can Be 15
+Evaluated on a Global Basis Using Computer Matching
+Processes of the Bank’s Online System to Identify
+Circumstances or Trends that May Indicate the
+Inappropriate Use of CPCs
+Exhibit – Cases With Inappropriate Purchases 19
+Agency Response Appendix
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Executive Summary
+Legislative Audit Report on the State Corporate Purchasing Card Program
+March 2014
+We conducted a performance audit of the State’s Corporate Purchasing Card
+(CPC) Program to identify processes and data analysis techniques that could
+be used to enhance the integrity of the Program.
+The State introduced the CPC Program to streamline procurement and
+accounts payable functions for small purchases by eliminating required
+paperwork (such as requisitions, purchase orders, and invoice and payment
+processing documents). For fiscal year 2013, State CPC purchases totaled
+$260 million. Due to the large amount of purchases made, it is important to
+maintain and enhance the integrity of the Program.
+The Comptroller of Maryland – General Accounting Division has established
+certain policies and practices to help ensure that CPCs are used for
+appropriate purposes. The policies stipulate the acceptable purchasing card
+uses, and require cardholders to acknowledge that they understand the
+policies and that they can be held liable for unauthorized purchases. Both
+automated and manual process controls have been established. Some
+controls are preventive, such as automatically limiting the type of merchants
+where the CPCs can be used (based on merchant codes), limiting the amounts
+that can be purchased by each cardholder, and requiring multiple
+authorizations to establish an individual cardholder account. Other controls
+are detective, such as strict recordkeeping requirements for each transaction
+and monthly post-purchase reviews of each transaction by supervisory
+personnel.
+The integrity of the Program relies primarily on the cardholders using the CPCs
+in accordance with the acceptable use policies and on the cardholders’
+immediate supervisor conducting a thorough review of individual cardholder’s
+purchase transactions to ensure compliance with the policies. However, with
+respect to supervisor reviews of CPC transactions, our audits of State
+agencies have disclosed instances where the reviews were not evident, were
+cursory or incomplete, were performed without having received all required
+documentation from the card user, and appeared to be performed without
+adequate diligence to protect State funds.
+Our audit disclosed that GAD had not required State agencies to use L-3 data
+to assist in monitoring cardholders’ purchasing activities. We found L-3 data
+to be a very useful tool for evaluating the propriety of CPC transactions. L-3
+data, which are available from the purchasing card bank, includes significant
+5
+
+--- Page 8 ---
+descriptive information captured by certain merchants for each purchase,
+such as item description and quantity, combined with detailed merchant
+information and cardholder information.
+Our examination of L-3 data identified four cardholders who made
+inappropriate CPC purchases which, based on our investigation and the
+investigations of the agencies involved, totaled approximately $255,000. We
+found that L-3 data item descriptions alone can raise suspicion, such as the
+purchase of obviously inappropriate items like guitars and toy soldier figures.
+Also, attempts to conceal improper purchases are obvious when the items
+purchased described in the L-3 data do not agree to the cardholders’
+descriptions of the items purchased as recorded in their purchase activity
+logs.
+Since the L-3 data are available and easy to use, we believe that GAD should
+require all State agencies using CPCs to use the L-3 data and provide
+guidance on how the data can be incorporated into the agencies’ verification
+processes. For the State agencies, the process can be done centrally at the
+agency or by the immediate supervisors that review their subordinates’ CPC
+transactions. However, since not all vendors supply L-3 data, it’s important
+that other controls remain in place to ensure the integrity of the CPC Program.
+Our audit also identified other automated analysis techniques, which we have
+described in this report that could be useful under specific circumstances.
+6
+
+--- Page 9 ---
+Background Information
+Program History and Description
+In fiscal year 1997, the State implemented its Corporate Purchasing Card
+(CPC) Program upon approval by the Board of Public Works. The Program was
+intended to streamline procurement and accounts payable functions by
+eliminating paperwork (requisitions, purchase orders, and the associated
+invoice processing) for many small purchases. For fiscal year 2013, State
+CPC purchases totaled $260 million and the average CPC purchase was
+$353. Since inception of the CPC Program through June 30, 2013, State
+agency CPC purchases have totaled approximately $3 billion. Additionally, the
+card vendor pays the State an annual rebate based on the State’s total
+purchase volume for each 12-month period. We were advised by GAD that the
+card vendor paid the State a rebate of $4.1 million for the contract year
+ending in April 2012.
+Program Controls
+The Comptroller of Maryland – General Accounting Division (GAD) is the lead
+agency for administering the Program. GAD has established Program policies
+and procedures applicable to all State agencies to reduce the potential for
+fraud, waste, and abuse.
+GAD has established and maintains the Corporate Purchasing Card Program
+Policy and Procedures Manual. This Manual was issued in April 2001 and
+was last revised in October 2010. The Manual provides user agencies with
+information and guidance regarding card issuance, card security, appropriate
+card use, and documentation. The Manual also requires that each cardholder
+sign an agreement certifying that he or she will comply with applicable
+procurement policies and is responsible for unauthorized purchases.
+In addition, GAD and the card vendor have taken certain centralized actions to
+help ensure the propriety of transactions processed under the Program.
+Specifically, GAD and the card vendor instituted certain control mechanisms,
+including the following procedures:
+ Establishing single transaction dollar limits as follows: State agencies
+(including University System of Maryland) - $5,000; Emergency Response
+Cards - $25,000.
+7
+
+--- Page 10 ---
+ Blocking certain merchant category codes so that the system will not
+approve transactions attempted with merchants in these categories.
+Blocked codes include merchants coded as personal service providers
+(such as beauty shops, restaurants, movie theaters, liquor stores,
+gambling establishments, and automated teller machines). The
+purchasing card vendor assigns merchant codes, and GAD makes the
+determination of which codes to block.
+ Limiting the State’s liability for lost and stolen cards. The card vendor
+provides protection from liability for fraudulent use by cardholders up to
+$100,000 per card provided prompt and timely actions are taken by the
+State agency, such as terminating cardholders who make fraudulent
+purchases.
+ Reviewing for questionable purchases on a monthly basis. GAD uses data
+provided by the card vendor to attempt to identify questionable purchases
+(purchases from certain merchant codes that are deemed susceptible to
+misuse). GAD requires user agencies to investigate such purchases and
+provide assurance that these purchases were proper.
+In addition, various controls are available to the individual State agencies to
+further control card use and limit potential exposure to inappropriate
+transactions. For example, a daily transaction limit and a monthly dollar limit
+may be set for each individual card.
+These controls have been designed to reduce the likelihood of flagrant types
+of abuse such as those noted in recent United States Government
+Accountability Office (GAO) audit reports on federal government purchasing
+card programs. For example, the GAO has noted the use of cards to make
+inappropriate purchases such as electronics for home use and cash
+advances.
+8
+
+--- Page 11 ---
+Purchasing Card Processing
+The following is a simplified illustration showing the flow of the purchasing
+card use, and the payment and reconciliation processes.
+State Agency
+CPC Processor
+Purchasing cardholders in
+agencies order/charge goods Merchants submit
+and services within State purchasing
+daily/monthly dollar limits on card information
+card.
+Cardholders are to record
+purchase transaction details on
+activity logs (vendor, date, dollar
+amount, description).
+CPC Bank
+Cardholders are to reconcile
+monthly purchasing card
+statements received from the CPC Transaction Details
+card vendor to the activity logs.
+Approving agency officials are to GAD
+review activity logs, card
+statements and supporting Detail of Statewide
+documentation (vendor invoices) activity received by GAD.
+to ensure that purchases are
+reasonable and necessary.
+GAD pays card vendor
+(within 25 days of the
+Approving agency officials are to end of the billing cycle)
+sign and date activity logs for and posts activity to
+completeness and accuracy. State accounting
+records.
+All documentation is to be
+submitted to Agency Fiscal
+Officers, who are to reconcile State Accounting
+agency purchasing card activity Records
+to State accounting records.
+9
+
+--- Page 12 ---
+10
+
+--- Page 13 ---
+Audit Scope, Objectives, and Methodology
+Scope
+We conducted a performance audit of the State’s Corporate Purchasing Card
+(CPC) Program to identify processes and data analysis techniques that could
+be used to enhance the integrity of the Program. We conducted this audit
+under the authority of the State Government Article, Section 2-1221 of the
+Annotated Code of Maryland and performed it in accordance with generally
+accepted government auditing standards. Those standards require that we
+plan and perform the audit to obtain sufficient, appropriate evidence to
+provide a reasonable basis for our findings and conclusions based on our
+audit objectives. We believe that the evidence obtained provides a
+reasonable basis for our findings and conclusions based on our audit
+objectives.
+Objective
+The objective of this audit was to identify transaction review processes and
+data analysis techniques that could be used to enhance the integrity of the
+State’s Corporate Purchasing Card Program.
+Methodology
+To accomplish our objectives, we reviewed applicable State laws and
+regulations, as well as policies and procedures established by GAD and other
+selected State agencies to maintain the integrity of the CPC Program. We
+interviewed personnel at GAD and at the selected agencies that processed
+transactions tested during the audit. We obtained information from
+representatives of other government purchasing card programs and reviewed
+relevant reports published by the United States Government Accountability
+Office. We obtained electronic files detailing transactions processed by the
+State’s purchasing card vendor for the period from December 25, 2009 to
+January 25, 2012 which included approximately 1.5 million transactions
+totaling $521 million and performed automated analyses of the data. We
+reviewed the data received from the vendor and found it to be reliable for our
+audit purposes. When our analysis raised suspicion of potential inappropriate
+CPC activity, we extended our review to certain cardholder transactions before
+and after the period above to determine the frequency and extent of the
+potential violations.
+11
+
+--- Page 14 ---
+Using the data from the vendor, we performed several types of automated
+tests to identify and determine the propriety of items or services that were
+purchased as well as the propriety or legitimacy of the vendors from whom
+those items or services were purchased. We reviewed documents at various
+State agencies to determine the reliability of the Level-3 detail transaction
+data and the propriety of selected transactions (were purchases adequately
+supported, approved, and reasonable).
+Our audit did not include the review or evaluation of the CPC vendor’s
+information system. We also did not review GAD or individual agencies’
+processes for issuing purchasing cards and assigning individual card credit
+limits, nor did we evaluate all internal controls of the agencies whose
+transactions were selected for testing. Furthermore, we did not test all
+transactions for violations of purchasing card policies, such as missing
+receipts, lack of supervisor review, and lending of CPC card to others. In
+general, we did not test CPC procedures and controls, which are typically
+covered during our fiscal compliance audits of GAD and State agencies.
+Fieldwork and Agency Response
+We conducted our fieldwork from January 2012 to October 2012 and updated
+agency personnel and legal actions as of December 2013. The Comptroller of
+Maryland’s response to our findings and recommendations is included in an
+appendix to this report. As prescribed in the State Government Article,
+Section 2-1224 of the Annotated Code of Maryland, we will advise the
+Comptroller regarding the results of our review of its response.
+12
+
+--- Page 15 ---
+Findings and Recommendations
+Conclusion
+The Comptroller of Maryland – General Accounting Division (GAD) has
+established certain policies and procedures to help ensure that corporate
+purchase cards (CPC) are used for appropriate purposes. Our audit disclosed
+additional actions could be taken by GAD to help improve the integrity of the
+program. For example, our audit disclosed that CPC Level-3 (L-3) data are a
+valuable source of information that can facilitate an efficient review of the
+propriety of CPC transactions by an agency’s finance office personnel, central
+staff, or internal auditors. Review of L-3 data could supplement other control
+activities. In particular, L-3 data could be used by CPC cardholders’
+supervisors to enhance their review of CPC transactions and could serve as a
+means of identifying cardholder attempts to conceal inappropriate CPC
+purchases.
+Our examination of the L-3 data for CPC transactions from December 2009 to
+January 2012 resulted in the identification and investigation of inappropriate
+purchases by four cardholders. We subsequently determined that one of
+these cases had been identified and investigated by the agency prior to our
+examination. The remaining three cases were reported to the appropriate
+agency management personnel for further agency investigation and
+administrative actions, such as employee terminations. Investigations of
+these four cases resulted in the identification of inappropriate purchases
+totaling approximately $255,000. The cases were also referred to the Office
+of the Attorney General – Criminal Division. Ultimately, for these four
+referrals, prosecutions were undertaken and convictions were obtained.
+In addition to examining the L-3 data, we evaluated various other data
+analysis techniques. We concluded that these other analysis techniques
+could be useful in attempting to identify misuse or fraud in CPC transactions
+and believe the techniques could be used by agency management to further
+evaluate the integrity of CPC transactions.
+Background
+The integrity of the CPC Program relies primarily on the cardholders using the
+CPCs in accordance with the acceptable use policies and on the card user’s
+immediate supervisor conducting a thorough review of individual purchase
+transaction documents to ensure that each purchase is properly described
+and documented and that each purchase relates to an appropriate business
+13
+
+--- Page 16 ---
+purpose of the agency. However, the effectiveness of the supervisory review
+of purchase transactions is dependent on the abilities of and diligence
+exercised by these supervisors and others responsible for reviewing detailed
+CPC activity. For example, supervisors must ensure that cardholders
+accurately maintain logs identifying each purchase and that accurate and
+valid itemized receipts are provided. With the advent of advanced
+technologies, documentation can be altered or fraudulent documentation can
+be easily created to misrepresent the purchases made.
+Finding 1
+State agencies were not required to use L-3 data to assist them in monitoring
+their cardholders’ purchasing activity.
+Analysis
+State agencies were not required to use L-3 data to assist them in monitoring
+their cardholders’ purchasing activity such as through requirements
+established in GAD’s Corporate Purchasing Card Program Policy and
+Procedures Manual. Our experience using L-3 data indicated that it was
+readily available, easy to use, and provided significant information about
+items purchased. Specifically, we used L-3 data to identify and investigate
+apparent improper purchases by four cardholders. We were able to
+determine that the cardholders intentionally concealed the nature of their
+purchases by providing fictitious or altered receipts and/or misleading user
+log entries.
+During 2011, GAD began using L-3 data to monitor State agencies purchases.
+Although beneficial, GAD’s monitoring has limitations in that GAD does not
+have specific knowledge about State agencies’ purchasing needs to reliably
+assess the appropriateness of certain purchases. Moreover, because
+cardholder purchase activity logs are maintained at the agencies, GAD cannot
+readily compare L-3 data to the logs. Improper purchases are obvious when
+the items purchased described in the L-3 data do not agree to the
+cardholders’ descriptions of the items purchased as recorded in the purchase
+activity logs.
+Our investigation of the four cardholders who made inappropriate purchases,
+as well as the investigations conducted by the agencies involved, resulted in
+the identification of inappropriate purchases totaling approximately
+$255,000. See the Exhibit – Cases With Inappropriate Purchases, beginning
+on page 19, for detailed descriptions of the four cases in which inappropriate
+purchases were noted. The issues identified during this audit have been or
+14
+
+--- Page 17 ---
+will be fully addressed, as appropriate, in our fiscal compliance audit reports
+on the applicable agencies, which may contain more detailed
+recommendations relevant to each specific agency.
+L-3 data are available to GAD and State agencies through the purchasing card
+bank’s online system. Similar to an invoice and a cash register receipt, L-3
+data include detailed descriptive information for each purchase, as well as
+detailed merchant and cardholder information. L-3 data are much more
+informative than the basic data that typically appears on a CPC cardholder’s
+monthly statement received from the CPC bank, which typically consists of the
+transaction date, dollar amount, merchant name, and city and state.
+L-3 data are captured and reported electronically to the purchasing card
+processor along with other purchase information by some merchants (the
+submission of L-3 data by merchants is voluntary). While many merchants do
+provide L-3 data, the majority of merchants do not provide such data. Thus,
+the use of L-3 data as a mechanism to improve CPC Program integrity should
+be reviewed as a tool to supplement other control processes.
+Recommendation 1
+To enhance the integrity of the CPC program, we recommend that GAD amend
+its Program Manual to require State user agencies to regularly obtain and use
+L-3 data and provide guidance to the agencies as to how the L-3 data can be
+used in their CPC verification procedures.
+Finding 2
+Certain aspects of CPC transactions can be evaluated on a global basis using
+computer matching processes or the purchasing card bank’s online system to
+identify circumstances or trends that may indicate the inappropriate use of
+CPCs.
+Analysis
+Certain aspects of CPC transactions can be evaluated on a global basis using
+computer matching processes or the purchasing card bank’s online system to
+identify circumstances or trends that may indicate inappropriate use of CPCs.
+Examples of such methods and techniques are described below. One
+significant case is presented below to illustrate potential results of using
+these techniques.
+15
+
+--- Page 18 ---
+Declined Transaction Review
+This method isolates all CPC attempted transactions that were rejected when
+the card was used, and evaluates the frequency of the rejection
+circumstances, such as the number of times rejections occurred for each
+cardholder, the nature of the establishment where the purchases were
+attempted, and the type of commodity that was attempted to be purchased.
+Frequent attempts under similar circumstances by one cardholder (such as
+repeated attempts to purchase alcoholic beverages, gasoline, or common
+carrier travel) could indicate deliberate attempts to misuse the CPC card.
+Multiple Vendors at One Address
+This method evaluates whether the vendors paid by CPCs are legitimate and
+independent vendors. Multiple vendors using a residential address or an
+address known to use mail-stop boxes could indicate non-existent merchants
+who provide no goods or services for the charges made, or who charge
+inflated prices for merely taking orders for deliveries actually fulfilled by other
+merchants. Typically, the cardholder is directing the purchasing activity to
+such vendors in exchange for kickbacks or has an ownership interest in the
+vendor.
+Employee Address and Vendor Address are the Same
+This method involves matching employee addresses (for example, from the
+agency’s human resource records) with vendor addresses. The risks are
+similar to those for Multiple Vendors at One Address, as discussed above.
+High Dollar Volume of Purchases by One Cardholder from an Obscure Vendor
+This method involves creating a cross-tabulation of the number, frequency
+and volume of CPC purchases by cardholders and vendors. Subsequently, the
+tables are examined to identify unusually high activity by one cardholder with
+little-known vendors. Again, the risks are similar to those for Multiple Vendors
+at One Address, as discussed above.
+Purchases Structured to Avoid Transaction Limits
+This method evaluates CPC activity for artificial splitting of single purchase
+amounts that exceed the $5,000 single CPC transaction limit or the
+applicable individual card limits. It involves examining for multiple purchases
+on a single day or on nearby dates from a vendor that, in total, exceed the
+applicable limits. Typically, but not always, this is done by splitting the single
+purchase amount into a series of smaller charges of equal amounts that are
+under the individual limit, or into a series of charges equal to the limit with the
+last charge making up the balance of the single purchase amount. Structured
+purchases are usually entered into for card user or agency convenience to
+16
+
+--- Page 19 ---
+avoid complying with State procurement laws and regulations that may
+require multiple quotes or bidding, and the employee may receive no self-
+benefit from this scheme, However, this scheme could be used to direct the
+purchases to a particular vendor in exchange for kickbacks.
+Additional Scrutiny for Unusual Vendors or Payees
+This method consists of examining the CPC data (both from the issuing bank
+and/or in the cardholder monthly package of statements, logs, receipts, and
+approvals) for unusual practices or seemingly mismatched descriptions. For
+example, payments to a PayPal account from a CPC card should raise
+questions as to the nature of what is being bought since PayPal is an account
+used to accumulate and disburse funds rather than a provider of goods or
+physical services. (The following paragraph describes a case in which PayPal
+was used to facilitate inappropriate activity.) Another example would be
+where the vendor name indicates a service-type provider (such as a barber
+shop or beauty shop, which are prohibited merchants) but the descriptions of
+items purchased indicate goods such as food were bought. These
+mismatches or unusual practices when found should raise suspicion for the
+reviewer and be resolved through further inquiries or investigation.
+By reviewing CPC data for unusual vendors, we noted one instance in which
+an on-line payment processing service was used to facilitate inappropriate
+CPC activity. This situation was commented upon in our audit report on the
+University System of Maryland – Coppin State University (CSU) dated
+November 18, 2013. Specifically, CSU paid a retired employee who returned
+to work for the campus $25,800 through an on-line payment processing
+service using a CPC card. This was done during the period from July 6, 2010
+to October 5, 2010 to circumvent the earnings limitation for retirees
+established by State law (Section 23-407 of the State Personnel and Pensions
+Article of the Annotated Code). State law requires a reduction of retirement
+benefits for individuals that work for the State after retirement. In general,
+the amount of retirement allowance must be reduced if the sum of the
+individual’s earnings and the retirement allowance exceed the individual’s
+average final compensation. This limitation applies for five full calendar years
+after the date the individual retires.
+In this case, the individual performed the same duties as prior to retirement,
+and an employee-employer relationship continued to exist. Payments to this
+individual should have been made using the State’s contractual employee
+payroll process through the State’s Central Payroll Bureau (CPB). When the
+employee initially retired and continued to work in the same capacity as prior
+to retirement, the employee was paid properly as a contractual employee
+17
+
+--- Page 20 ---
+through CPB. However, because the State Retirement Agency (SRA) matches
+its records of retiree pay to CPB payments, the SRA identified and recovered
+from the employee the excess payments made during fiscal years 2008 and
+2009. Subsequently, the retired employee requested to be paid by CPC,
+which effectively precluded SRA from identifying the wage payments and
+recovering amounts in excess of the earnings limitation.
+We were advised that the employee that authorized the use of the CPC to pay
+this employee was terminated by the campus for this and other inappropriate
+activities, and the employee’s supervisor received a written reprimand.
+Recommendation 2
+We recommend that GAD establish or sponsor orientation and training
+programs for agencies’ management and CPC supervisors about other
+available techniques for analyzing and assessing the propriety of CPC
+transactions. Other transaction screening techniques for evaluating the
+propriety of CPC transactions should be considered by agencies for their
+particular circumstances.
+18
+
+--- Page 21 ---
+Exhibit
+Cases With Inappropriate Purchases
+Case 1 – Local Health Department
+Using L-3 data, we found that purchases totaling $45,640 made by one
+cardholder at a Local Health Department between January 2008 and February
+2012 appeared to have no legitimate business purpose. The descriptions
+entered on the CPC activity logs by the cardholder did not agree to the L-3
+descriptions recorded directly by the retailer for the items actually purchased.
+Table 1 below describes these purchases.
+Table 1
+Questionable Purchases Noted at a Local Health Department
+Items Purchased Quantity Purchased Amount Paid
+Guitars 56 $ 30,183
+Guitar Accessories 77 7,898
+Watches 17 2,412
+Pellet Guns 9 1,257
+Binoculars 9 1,039
+Knives 24 813
+Toys 16 610
+Books 14 426
+Military Memorabilia 19 424
+Clothes 11 295
+Men's Vitamins 15 283
+Totals 267 $ 45,640
+Source: Bank L-3 data
+All of these questionable purchases were made from an Internet retailer. As
+such, all receipts were computer-generated and thus could be easily falsified.
+The employee who made these purchases indicated on the CPC activity logs
+that the questionable purchases were for legitimate items such as ink
+cartridges and computer software and provided his supervisor with fictitious
+computer-generated receipts that corresponded to the descriptions recorded
+in the activity logs.
+19
+
+--- Page 22 ---
+The employee’s supervisor does not appear to have been aware of L-3 data
+since the data had not been reviewed as part of the supervisory review of the
+cardholder’s CPC transactions. Had the supervisor’s review of CPC
+transactions included the review of L-3 data, the questionable purchases,
+which were made over a four-year period, would likely have been detected at
+an earlier time since the purchase descriptions provided by the retailer
+differed so dramatically from the descriptions entered by the cardholder on
+the activity logs.
+In addition, in our opinion, the supervisor probably should have questioned
+why a fairly small agency needed to purchase such a large quantity of ink
+cartridges, software, and other office supplies. This lack of a diligent
+supervisory evaluation of the reasonableness of the purchases also allowed
+the fraud to continue over a long period.
+As a result of these fraudulent purchases, the employee was terminated from
+State service by the Department of Health and Mental Hygiene effective May
+21, 2012. Furthermore, this former employee was prosecuted by the Office of
+the Attorney General - Criminal Division. The employee had pleaded guilty of
+theft between $10,000 and $100,000 and was sentenced to serve a six-
+month prison term. Also, we were advised that as a result of the supervisor’s
+failure to detect these improper purchases over an extended period of time,
+the supervisor retired from State service effective July 1, 2012.
+20
+
+--- Page 23 ---
+Case 2 – Department of Juvenile Services
+Using L-3 data, we found that one employee at a Department of Juvenile
+Services (DJS) facility had purchased 41 gift cards totaling $4,185 in 13
+separate CPC transactions between May 2010 to April 2011. The purchase of
+gift cards using a CPC is strictly prohibited by GAD policies. Even though some
+of these transactions had been subjected to a supervisory review, the monthly
+cardholder activity logs did not properly describe the actual items purchased
+(none of the descriptions in the activity logs indicated the purchase of gift
+cards, but instead listed descriptions that appeared to be for legitimate
+business purposes). Furthermore, the transactions were not always
+supported by an itemized receipt or invoice. However, the supervisor had
+apparently never questioned the missing receipts.
+The employee’s supervisor does not appear to have been aware of the
+existence of L-3 data because the data had not been reviewed as part of the
+supervisory review of the cardholder’s CPC transactions. Had the supervisor
+reviewed the L-3 data, the purchase of prohibited gift cards would have been
+readily apparent. Since there was evidence that the employee purposely
+attempted to conceal the prohibited purchases, we performed a more
+thorough review of all of this cardholder’s CPC activity.
+In addition to the prohibited gift card purchases, our analysis of this
+cardholder’s CPC activity over a three-year period identified significant
+increases in CPC activity, especially with one vendor. Specifically, CPC
+purchases in calendar years 2009, 2010, and 2011 by this cardholder totaled
+$50,894, $128,375, and $245,639, respectively, and purchases from one
+vendor during the same periods totaled approximately $13,329, $31,635,
+and $106,759, respectively. Also, there was no written contract that had
+been solicited for bids or negotiated between the vendor and the State or DJS
+during the periods in question. In our opinion, these circumstances should
+have raised questions had DJS supervisors and management been
+conducting a diligent review of CPC activity. However, we found no indication
+that this cardholder’s CPC activity had been evaluated by DJS supervisors or
+management.
+After we brought these circumstances to DJS management’s attention, it
+initiated an investigation of the employee's CPC transactions. As a result of
+the investigation, DJS identified other questionable purchases totaling
+$91,443 made by this employee from April 2011 through March 2012. Of
+this amount, $56,844 related to unauthorized purchases from the one vendor
+with the dramatic increase in CPC sales to the DJS employee. Improper
+21
+
+--- Page 24 ---
+purchases identified by DJS included commercial kitchen equipment and
+large quantities of food that were never delivered to a DJS facility.
+In our opinion, lax attention by DJS supervisors and management regarding
+required CPC procedures facilitated this employee’s frauds. Our review of the
+cardholder's transaction activity disclosed that there were no monthly
+cardholder document packages (supervisor reviewed cardholder activity logs,
+monthly purchasing card statements, and transaction receipts) available for
+the period from May 2011 through February 2012 at either the DJS regional
+accounting office or at the satellite location where the employee worked.
+Furthermore, there was no indication that anyone at the DJS regional office
+questioned why monthly cardholder packages ceased being submitted
+although the employee had increasing CPC activity. GAD’s Corporate
+Purchasing Card Program Policy and Procedures Manual requires that State
+agencies reconcile monthly cardholder activity and ensure the related
+documents are filed in an easily retrievable and secure manner for future
+review. DJS’ procedures required that the document packages be forwarded
+from the satellite location to a regional accounting office for reconciliation and
+filing.
+We were advised by DJS that the employee who made these questionable
+purchases was terminated from State service in May 2012. Furthermore, this
+former employee was prosecuted by the Office of the Attorney General -
+Criminal Division. The employee pleaded guilty to theft and was sentenced to
+serve 15 years in prison with 14 years suspended and is required to pay
+$94,868 in restitution.
+Although this employee’s immediate supervisors did not detect the improper
+purchases over an extended period of time, no disciplinary action was taken
+against the supervisors. Furthermore, no disciplinary actions were taken
+against employees of the regional accounting office who did not question the
+lack of monthly cardholder packages or increased purchasing activity.
+22
+
+--- Page 25 ---
+Case 3 – University System of Maryland – University of Maryland
+Baltimore County
+During our review of L-3 data, we found that an employee at the University
+System of Maryland (USM) – University of Maryland Baltimore County (UMBC)
+had purchased gift cards with a value totaling $4,356. UMBC policy prohibits
+the purchase of gift cards with CPCs. After we brought this issue to the
+attention of UMBC management, it initiated an investigation of the employee’s
+CPC transactions. As a result of this investigation, additional questionable
+purchases made by this employee were identified, and the matter was
+referred to the Office of the Attorney General – Criminal Division for its
+consideration. This situation was originally reported upon in our audit report
+on the University System of Maryland – University of Maryland Baltimore
+County dated May 8, 2012.
+The employee’s supervisor did not use the L-3 data to determine the propriety
+of CPC purchases as UMBC advised us that it was unaware of the existence of
+L-3 data at the time of the questionable purchases. Had L-3 data been
+reviewed, at least some of the improper purchases, such as the gift cards,
+would have been readily identifiable. In addition, it appeared that CPC
+purchases were not always thoroughly reviewed by the employee’s supervisor.
+Specifically, even though the supervisor approved the cardholder’s monthly
+CPC activity logs, the logs did not include all of the purchases on the monthly
+statements, certain purchases were not supported by vendor invoices, and
+receipts were altered to obscure identification of the items purchased.
+The employee responsible for the improper purchases was terminated by
+UMBC effective March 8, 2012. In January 2013, the former employee
+pleaded guilty to felony theft and received a five-year suspended sentence,
+supervised probation, community service and was ordered to pay restitution
+of $6,693. The supervisor who approved the cardholder’s improper
+purchases was issued a letter of reprimand.
+23
+
+--- Page 26 ---
+Case 4 – Military Department
+During our review of L-3 data for this audit, we noted that an employee of the
+Military Department purchased gift cards totaling $39,600 between
+December 24, 2009 and August 6, 2010. We contacted the Department’s
+management about the employee’s purchase of these gift cards. We were
+advised that the Department had begun an investigation into this employee’s
+CPC purchases as a result of a special review of federal grant expenditures
+that identified CPC purchases delivered to the cardholder’s home address.
+The investigation identified 372 questionable CPC purchases totaling
+$107,493 made by the employee from February 2008 to October 2010. In
+addition to gift cards, the employee purchased personal items such as home
+electronics and clothing. Fictitious invoices were prepared by the employee
+using legitimate item descriptions, such as office supplies, to avoid detection.
+This situation was also commented upon in our audit report on the Military
+Department dated May 30, 2013.
+Although the documentation supporting CPC expenditures was reviewed by
+the designated supervisors on a monthly basis, the Department’s monitoring
+procedures did not include the use of L-3 data to help determine the propriety
+of CPC transactions. The L-3 data would have alerted the Department, as it
+did us, of the purchases of the prohibited gift cards and possibly many of the
+other inappropriate CPC purchases by this cardholder. Using the L-3 data may
+have identified the inappropriate purchases significantly earlier than when the
+purchases were actually discovered, and accordingly would have been useful
+to stop the inappropriate purchasing before such a large number of
+transactions had occurred. Also, in our opinion, the supervisor should have
+questioned why computer-generated receipts were submitted by the employee
+when original paper receipts should have been readily available, and why so
+many office supplies were being purchased.
+The Department terminated this individual’s employment in February 2011.
+In March 2011, at the direction of the Office of the Attorney General –
+Criminal Division, the Department referred the matter to federal law
+enforcement for further action. The employee pleaded guilty of wire fraud in
+federal court and was sentenced to six months in prison, followed by six
+months of home detention with electronic monitoring. The former employee
+was also ordered to pay restitution of $107,493. The supervisor who
+approved these purchases was allowed to retire in lieu of termination.
+24
+
+--- Page 29 ---
+General Accounting Division (GAD) Responses to Office of Legislative
+Audit (OLA) Performance Audit
+Finding 1
+State agencies were not required to use L-3 data to assist them in monitoring their
+cardholders’ purchasing activity.
+Recommendation 1
+To enhance the integrity of the CPC program, we recommend that GAD amend its Program
+Manual to require State user agencies to regularly obtain and use L-3 data and provide
+guidance to the agencies as to how the L-3 data can be used in their CPC verification
+procedures.
+GAD Response:
+While we agree that L-3 data is an extremely useful tool in the review and verification of
+corporate purchasing card transactions, it should be noted that this level of detail is only
+available from less than 40% of the VISA merchants.
+On several occasions (June 2011, October 2011, July 2012, and June 2013), GAD conducted
+training sessions and/or provided instructions to the Purchasing Card Program Administrators
+(PCPAs) on the use of L-3 data. GAD will continue to provide training to user agencies on how
+the L-3 data can be used in their verification procedures. In addition, GAD will amend its
+Program Manual by the end of this fiscal year to require that user agencies generate the L-3 data
+report monthly and review and document the results.
+Finding 2
+Certain aspects of CPC transactions can be evaluated on a global basis using computer
+matching processes or the purchasing card bank’s online system to identify circumstances or
+trends that may indicate the inappropriate use of CPCs.
+Recommendation 2
+We recommend that GAD establish or sponsor orientation and training programs for
+agencies’ management and CPC supervisors about other available techniques for analyzing
+and assessing the propriety of CPC transactions. Other transaction screening techniques for
+evaluating the propriety of CPC transactions should be considered by agencies for their
+particular circumstances.
+
+--- Page 30 ---
+General Accounting Division (GAD) Responses to Office of Legislative
+Audit (OLA) Performance Audit
+GAD Response:
+We agree that additional transaction screening techniques for evaluating the propriety of CPC
+transactions should be considered by user agencies. When the Program Manual is amended by
+the end of this fiscal year, it will list the additional screening techniques that should be
+implemented by the agencies for their particular circumstances. Appropriate orientation and
+training programs will be developed by fiscal year end and provided annually and when
+requested by specific user agencies.

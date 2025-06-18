@@ -1,0 +1,1471 @@
+Title: Department of Assessments and Taxation - Homestead Property Tax Credits
+Date: 02/28/2013
+Type: Performance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a945d3acc9d72404c150a6c
+Extracted: 2025-06-18T10:55:20.215739
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Performance Audit Report
+Department of Assessments and Taxation
+Homestead Property Tax Credits
+A Comprehensive Compliance Program Should be Established
+Data System Controls Should be Enhanced and Data Matches Should be
+Performed to Monitor Continued Eligibility of Properties for the Credits
+Actions Should be Taken to Maximize the Recovery of Taxes for Improperly
+Granted Credits
+February 2013
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+ This report and any related follow-up correspondence are available to the public through
+the Office of Legislative Audits at 301 West Preston Street, Room 1202, Baltimore,
+Maryland 21201. The Office may be contacted by telephone at 410-946-5900, 301-970-
+5900, or 1-877-486-9964.
+ Electronic copies of our audit reports can be viewed or downloaded from our website at
+http://www.ola.state.md.us.
+ Alternate formats may be requested through the Maryland Relay Service at 1-800-735-
+2258.
+ The Department of Legislative Services – Office of the Executive Director, 90 State Circle,
+Annapolis, Maryland 21401 can also assist you in obtaining copies of our reports and
+related correspondence. The Department may be contacted by telephone at 410-946-
+5400 or 301-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Executive Summary 5
+Background Information 7
+Purpose of Homestead Credit 7
+Value of Homestead Credits and Recent Trends 8
+HTC Eligibility Criteria and Application Requirements 9
+DAT Organization and Responsibilities 10
+DAT Automated Systems and Processes 11
+Statistical Analysis of Properties Designated as Eligible for the HTC 11
+Audit Scope, Objectives, and Methodology 13
+Findings and Recommendations 17
+Objective 1: Evaluation of Procedures and Controls Over the HTC 17
+Conclusion
+Finding 1 – DAT Had Not Developed a Comprehensive Compliance 18
+Program to Help Ensure That HTCs Are Only Granted for Eligible
+Properties
+Finding 2 – Procedures Over the HTC Application Processing Need 20
+Improvement
+Finding 3 – DAT Did Not Establish Adequate Controls Over Its 22
+Automated Records to Prevent or Detect Unauthorized Changes
+to HTC Eligibility Determinations
+Finding 4 – Certain Policies and Requirements Could be Established 23
+to Improve DAT Oversight of the HTC Program
+Finding 5 – DAT Does Not Plan to Investigate the Propriety of HTCs 25
+Received in Prior Years on Properties Removed From Eligibility
+After the Application Filing Period
+Finding 6 – DAT’s Real Property Records Were Not Formatted in a 26
+Manner to Facilitate Computer Matches
+Objective 2: Procedures to Detect Properties Improperly Deemed 27
+Eligible for HTCs
+Conclusion
+Finding 7 – Additional Automated Procedures Are Available to Help 27
+Ensure Properties Remain Eligible for the HTC on an Ongoing Basis
+County Homestead Credit Cap Percentages Exhibit A
+Sample Calculation of the Homestead Property Tax Credit Exhibit B
+Agency Response Appendix
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Executive Summary
+Legislative Audit Report on the Department of Assessments and Taxation
+Homestead Property Tax Credits
+February 2013
+We conducted a performance audit to assess the State Department of
+Assessments and Taxation’s (DAT) procedures for ensuring that Homestead
+Property Tax Credits (HTC) are only granted for eligible properties. The audit
+was conducted at the direction of the General Assembly’s Joint Audit
+Committee. Our audit had two objectives:
+1. To evaluate DAT’s procedures and controls for initially approving HTCs and
+for periodically reviewing properties’ continuing eligibility for HTCs.
+2. To identify automated methods and data sources DAT could use to
+systematically evaluate properties for continued HTC eligibility.
+The audit disclosed several areas where DAT can improve its processes to
+ensure that only eligible properties receive an HTC and recoveries of HTCs
+provided for ineligible properties are maximized. Our audit also disclosed
+additional automated procedures are available to DAT to ensure that HTCs are
+provided for only eligible properties on an ongoing basis.
+DAT had not developed a comprehensive compliance program to ensure that
+HTCs are only granted for eligible properties. Such a program should include
+written procedures for the processing of HTC applications, establish the
+responsibilities and the related processes to be performed at both DAT
+headquarters and the local assessment offices, and establish procedures to
+monitor the local assessment offices’ activities. Furthermore, local
+assessment offices were not consistently using available sources of
+information to help identify properties that may not be eligible to receive the
+HTC.
+Our review also disclosed that procedures over HTC application processing
+need improvement. Applications received by DAT are initially screened, which
+includes a comparison of the applicant’s property address to the
+homeowner’s federal tax return address to help ensure that property owners
+do not receive HTCs for more than one property. However, the screening
+process could be enhanced by comparing applicant names with the property
+owner names in the real property records. Also, procedures over the approval
+of certain applications need to be strengthened. Users’ access and
+5
+
+--- Page 8 ---
+capabilities for the systems that control HTC eligibility should be periodically
+evaluated and limited as appropriate, and changes made to critical system
+data fields should be independently reviewed.
+DAT should also develop a policy regarding the recovery of all improperly
+granted HTCs as allowable under law and consider proposing legislation
+requiring homeowners to notify DAT regarding changes in property status that
+would render the property no longer eligible for the HTC. Consideration should
+also be given to standardizing the owner naming conventions used in DAT
+databases to enhance automated matching capabilities.
+DAT should develop a plan to investigate the propriety of HTCs received in
+prior years on properties that will be removed from eligibility because an
+application was not submitted by the deadline or was not approved.
+DAT also does not perform other automated processes to help identify, on an
+ongoing basis, properties that are no longer eligible for the HTC. Our audit
+identified several matching processes that DAT could employ to help ensure
+that HTCs are proper on an ongoing basis. When we performed these
+matches, numerous instances of ineligible properties were noted.
+As part of the audit, we conducted a statistical sample of the 1,343,271
+properties classified as eligible for the HTC in DAT’s records as of June 1,
+2012 to determine the extent to which properties were actually ineligible for
+HTCs. Based on the results, we are 95 percent confident that between 8,422
+properties and 109,409 properties classified as eligible for the HTC were
+actually ineligible. Our sample was selected before the application filing
+deadline of December 31, 2012 had passed; therefore, some of these
+properties may ultimately become ineligible for the HTC due to the failure to
+file an application or because the application is not approved.
+6
+
+--- Page 9 ---
+Background Information
+Purpose of Homestead Credit
+The State Department of Assessments and Taxation (DAT) is responsible for
+administering the State’s real and personal property tax laws, including the
+Homestead Property Tax Credit (HTC). State Law (Section 9-105 of the Tax-
+Property Article of the Annotated Code of Maryland) established the HTC to
+help homeowners who have had large assessment increases on their principal
+residence. The law limits the increase in county and State taxable
+assessments on individual owner-occupied properties to a fixed percentage of
+the preceding year’s taxable assessment. Every county and municipality is
+required to establish the limit on taxable assessment increases at 10 percent
+or less each year. (See Exhibit A for a list of Maryland’s 24 subdivision HTC
+percentages.) The State limits the taxable assessment increase to 10 percent
+for determining the State portion of the HTC.
+As an example, assume a residential property’s prior taxable assessment was
+$100,000 and the new assessment is $160,000 to be phased in over three
+years (that is, increased $20,000 per year during the 3-year phase-in period).
+The first year phase-in assessment would be $120,000. However, a 5
+percent county assessment limit over the prior year’s taxable assessment
+would limit the first year county taxable assessment to $105,000. The
+difference between $120,000 and $105,000 is $15,000; the county’s
+portion of the tax credit would apply to the taxes due on the $15,000. If the
+county tax rate was $1.04 per $100 of assessed value, the HTC on the
+county’s portion of the property tax would be $156.00 ($15,000 ÷ 100 x
+$1.04). Similarly, the State’s portion of the HTC would be based on a taxable
+assessment of $110,000 (that is, a 10 percent increase over the prior year)
+and the State tax rate of $0.112 per $100 of assessed value. Accordingly,
+the State tax credit for the first year would be $11.20 ($10,000 ÷ 100 x
+$0.112). The State credit is much less than the county credit because the
+State property tax rate per $100 of assessed value is much lower than county
+rates, and the State credit is always based on a 10 percent annual taxable
+assessment increase whereas counties frequently use lower limits. The HTC
+is shown on the property tax bill as a credit reducing the total property tax
+owed. Exhibit B provides a sample calculation of the HTC based on certain
+application filing dates.
+7
+
+--- Page 10 ---
+Value of Homestead Credits and Recent Trends
+Based on DAT’s records, we estimated that, during fiscal year 2013, the total
+reduction in property tax revenue from the credit for the State’s 23 counties
+and Baltimore City will total approximately $323.1 million. The reduction in
+State property tax revenue attributable to the credit during fiscal year 2013
+will be approximately $2.3 million.
+Not all properties that meet eligibility requirements for the HTC will actually
+receive a credit in any given year, and the properties that do or do not receive
+a credit can change from year-to-year based on application of the relevant
+limits and rates. For example, no credit is received in tax years where the
+assessment increase over the preceding tax year is less than the limits
+established by the individual jurisdictions and the State.
+As home values and assessments have declined in recent years, fewer
+homeowners are receiving an HTC on their eligible property. According to
+DAT’s records, for fiscal year 2013, there were 1,342,991 properties eligible
+for the HTC but only 600,197 (44.7 percent) of the properties actually
+received a credit. As shown by the following two tables, which are based on
+DAT’s records, Statewide residential property assessed values have declined
+considerably in recent years, and as a result the total value of all HTCs has
+also declined. Many of the 742,794 properties eligible for an HTC but not
+currently receiving one could begin receiving an HTC if their property
+assessment values increase.
+Statewide Average Change in Residential Real Property Assessments
+From the Preceding Three-Year Assessment Cycle2
+FY 2010 FY 2011 FY 2012 FY 2013
+-3.4% -20% -22% -17%
+2 Approximately one-third of residential properties are assessed each year with an estimated
+value as of December 31. The fiscal year 2013 change in values, for example, represents the
+change in property assessments from the fiscal year 2010 assessments on those same
+properties.
+8
+
+--- Page 11 ---
+Statewide Estimated Value of Homestead Property Tax Credits to Homeowners
+(Reduction in Property Tax Revenue Collected)
+Percent
+FY 2010 FY 2011 FY 2012 FY 2013 Change
+FY 10-13
+County $1,313,455,340 $950,462,722 $585,177,392 $323,124,929 (75.4%)
+State $86,821,366 $35,129,889 $8,073,850 $2,252,360 (97.4%)
+HTC Eligibility Criteria and Application Requirements
+According to State law, only owner-occupied residences are eligible for the
+credit and a property owner can only receive the credit on one property. An
+owner must reside at the property for at least six months of the year, including
+July 1 of the year for which the credit is received. Married couples are
+considered a single entity for HTC eligibility. Therefore, if a married couple
+receives the HTC on one residence, neither spouse is allowed to receive the
+HTC on another property in the State.
+Legislation enacted by the Maryland General Assembly during the 2007
+Legislative Session requires homeowners to submit an application for the HTC
+(which includes their social security numbers) to DAT. For all properties in
+which ownership was transferred after December 31, 2007, the new
+homeowner can only receive an HTC when a properly completed application is
+submitted to DAT and the information in the application indicates that the
+property qualifies for the HTC.
+In addition, all homeowners whose properties are eligible for an HTC but had
+never submitted an application (generally those who purchased their
+properties prior to January 1, 2008 when there was no application
+requirement) were required to submit an application to DAT by December 31,
+2012 to continue to remain eligible for the HTC. Under current law,
+homeowners who failed to submit an HTC application by this deadline will lose
+the HTC effective with the tax year starting July 1, 2013. As of January 17,
+2013, according to DAT records, there were approximately 513,000
+properties eligible for the HTC (including 183,000 that are receiving an HTC)
+for which an application had not been received by DAT. Homeowners who
+miss the December 31, 2012 filing deadline but file the application by June
+30, 2014 can have their HTC eligibility and credit reinstated on the same
+assessment basis as it was previously calculated but cannot retroactively
+receive the credit for the tax year beginning July 1, 2013. Applications
+received after June 30, 2014 will result in the properties being assessed at
+9
+
+--- Page 12 ---
+their full value beginning July 1, 2014 with the HTC limits applied
+prospectively based on the full value. This is demonstrated in Exhibit B which
+is an example of the calculation of the HTC based on the date an application
+is filed and approved.
+DAT Organization and Responsibilities
+DAT’s headquarters is located in Baltimore and it operates assessment offices
+in each of the State’s 24 local subdivisions. DAT headquarters maintains an
+HTC office currently staffed by 11 employees who are almost exclusively
+devoted to processing and approving HTC applications. As required by State
+law, DAT is reimbursed by the State’s 24 subdivisions for the cost to maintain
+this office (according the State records, approximately $617,000 during fiscal
+year 2012).
+The local assessment offices have a total of approximately 390 employees.
+The primary responsibility of the local assessment offices is to assess and
+reassess the State’s approximately 2.2 million taxable real property parcels
+every three years. Owner data are entered in the real property records by the
+local assessments offices for the 23 counties upon notification of a new deed.
+Owner data for properties in Baltimore City are uploaded to DAT’s real
+property records from the City Government’s property system which records
+new deeds. When a property is transferred to a new owner as evidenced by a
+deed, the property should lose its HTC eligibility until a valid application for the
+credit is filed by the new owner. The local assessment offices perform certain
+procedures to help ensure ongoing compliance with HTC eligibility
+requirements as part of the assessment process and investigate allegations
+about property owners who are improperly receiving HTCs.
+During the 2012 Legislative session, legislation was enacted which requires a
+person who has been granted an HTC for which they did not qualify to be
+assessed all state and local taxes that they would have otherwise paid. This
+legislation also states if a person is found by DAT to have willfully
+misrepresented facts regarding qualification for the HTC, the person shall be
+assessed a penalty of 25 percent of the HTC received for which the person did
+not qualify. Prior to the enactment of this legislation, there was no statutory
+provision that specifically addressed recovery of prior HTCs improperly
+received. However, Title 14 of the Tax-Property Article of the Annotated Code
+of Maryland contains a statute of limitations provision that allows for the
+recovery of taxes imposed under the Article owed for the most recent seven
+years. When DAT detects HTCs granted for ineligible properties, it generally
+forwards the related information to the local taxing authorities so that they
+10
+
+--- Page 13 ---
+can bill property owners for the amounts attributable to the credits owners
+improperly received during a given period.
+DAT Automated Systems and Processes
+DAT headquarters maintains a Homestead Credit Application System to
+receive online HTC applications and to process mailed-in applications. The
+Application System conducts certain initial screening tests for eligibility and
+flags applications needing further review and information before DAT
+headquarters authorizes HTC eligibility in the System. On a weekly basis, the
+Application System updates the Assessment and Administration Valuation
+System (AAVS) for any changes made at DAT headquarters for HTC eligibility.
+AAVS is DAT’s primary property database system that includes a wide range of
+information and history about individual properties, including assessment
+values. The information from AAVS is provided annually to local jurisdiction
+taxing authorities so they can calculate the property taxes and credits and
+prepare their respective property tax bills.
+Within AAVS, certain data fields are used to identify HTC eligible properties.
+The Owner Occupancy Field, which is maintained and updated by the local
+assessment offices, is used to identify whether a property is eligible for the
+HTC based on information accumulated by the local assessor, usually during
+the triennial field assessment of each property. The Homestead Qualification
+Field is primarily maintained by DAT headquarters via updates of the HTC
+Application System. Both the Owner Occupancy and Homestead Qualification
+Fields must deem a property as HTC eligible before AAVS will calculate the
+reduced taxable assessment for a property needed to carry out the HTC law.
+Statistical Analysis of Properties Designated as Eligible for the HTC
+To estimate the number of properties that may be improperly classified as
+eligible for the HTC, we tested a statistical sample of properties classified as
+eligible for the HTC as of June 1, 2012. (This was before the December 31,
+2012 deadline for homeowners to submit HTC applications, so both the
+population and sample included properties that had grandfathered HTC
+eligibility and properties that had HTC eligibility determined through the
+application process.) The population consisted of 1,343,271 properties
+classified as eligible as of June 1, 2012 for the HTC in DAT’s AAVS from which
+we selected a random sample of 114 properties. Based on the information
+available to us, we determined that 5 of the 114 properties tested (4.39
+percent) were improperly classified as eligible for the HTC. Three of these five
+properties had actually received an HTC for fiscal year 2013. For four of these
+five properties, we determined that the property owner was deceased and it
+11
+
+--- Page 14 ---
+did not appear that the property was occupied by an assignee, survivor, or
+personal representative of the property owner thus making the property
+ineligible for the credit (since the property was not owner-occupied). For the
+fifth property, we determined that the property was not owner occupied
+(property owner was not deceased in this case). Based on identifying 5
+properties ineligible for the HTC within the sample, we are 95 percent
+confident that between 0.63 percent (8,422 properties) and 8.14 percent
+(109,409 properties) of properties classified as eligible for the HTC in AAVS as
+of the start of fiscal year 2013 were ineligible for the HTC (percentages are
+rounded). The central (or best) estimate is that 58,970 (4.39 percent)
+properties were incorrectly listed as eligible for the HTC. The five properties
+that we determined to be ineligible for the HTC were referred to DAT for
+further investigation.
+12
+
+--- Page 15 ---
+Audit Scope, Objectives, and Methodology
+Scope
+We conducted a performance audit to assess the State Department of
+Assessments and Taxation’s (DAT) procedures for ensuring that Homestead
+Property Tax Credits (HTC) are only granted for eligible properties. The audit
+was conducted at the direction of the General Assembly’s Joint Audit
+Committee. We conducted this audit under the authority of the State
+Government Article, Section 2-1221 of the Annotated Code of Maryland and
+performed it in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to
+obtain sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. We believe that the
+evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+Objectives
+Our audit had two objectives:
+1. To evaluate DAT’s procedures and controls for initially approving HTCs and
+for periodically reviewing properties’ continuing eligibility for HTCs.
+2. To identify automated methods and data sources DAT could use to
+systematically evaluate properties for continued HTC eligibility.
+Methodology
+To perform the audit, we studied the laws applicable to the HTC, and reviewed
+available regulations, policies, manuals, and directives of DAT. We also
+interviewed numerous DAT employees and obtained an understanding of
+DAT’s procedures and the key information systems used to process and
+record HTCs and related records. We also used statistical sampling to
+estimate the error rate for properties designated in DAT’s records as eligible
+for an HTC as of June 1, 2012. However, due to the variability of local
+jurisdiction’s HTC rates, property values, and other factors we could not
+reliably estimate from our sample the total dollar value of tax credits that had
+been issued for all ineligible properties.
+We obtained data files from DAT, other state agencies (such as the Motor
+Vehicle Administration), and local subdivisions and used these data files to
+perform various comparisons to DAT’s records. We evaluated and/or tested
+13
+
+--- Page 16 ---
+the files from these data sources and determined the records were
+appropriate and reliable for our purposes. We also determined that the data
+files from DAT that we used were complete.
+Objective 1
+We reviewed procedures and controls over the approval of HTCs at DAT
+headquarters and DAT policies issued to govern local assessment offices’
+handling of HTC matters. We also evaluated the procedures used to detect
+properties improperly designated as being eligible for HTCs subsequent to
+initial approval, and reviewed employees’ access and capabilities on the
+systems used to record application data and other property data which
+designates properties as eligible for the HTC. We also reviewed procedures at
+the Anne Arundel County, Baltimore City and Worcester County local
+assessment offices, and made inquiries on specific issues at other local
+assessment offices as needed. The Baltimore City local assessment office
+was selected because it has a large dollar value of HTCs and has been the
+subject of several newspaper articles on properties being improperly
+designated as eligible for HTCs. Anne Arundel County was selected because it
+also has a large dollar value of credits due to its low assessment cap (that is,
+a maximum two percent increase over the prior year’s taxable assessment).
+Worcester County was selected because it has a large number of non-owner
+occupied properties that are ineligible for the HTC.
+Objective 2
+We performed computer matches to various data sources and employed data
+mining techniques using DAT’s records as recorded in the application system
+and real property records to identify properties potentially improperly
+designated as eligible to receive an HTC. We conducted these matches to
+determine whether these automated techniques could be worthwhile for
+ongoing monitoring purposes. The principal data sources used for our
+matching were:
+ The Maryland Motor Vehicle Administration’s file of individuals who
+surrendered their Maryland drivers’ licenses during fiscal years 2010
+through 2012.
+ Property owners’ addresses from their most recent income tax returns.
+ DAT’s real property records (Assessment and Administration Valuation
+System) to identify multiple properties with the same owner based on
+owners’ addresses.
+ Files of licensed rental properties maintained by five local governments.
+ Lists of properties in foreclosure during fiscal year 2012 obtained from
+two circuit courts.
+14
+
+--- Page 17 ---
+We subsequently selected a sample of the match results and reviewed related
+records and documents to determine if the properties were actually eligible for
+the credit. To assess the propriety of HTC eligibility and credits approved for
+individual properties, we reviewed homeowners’ federal income tax return
+addresses maintained by DAT, their addresses on file with the Motor Vehicle
+Administration, court records such as divorce filings and recorded property
+deeds, rental and vacant property listings maintained by local governments,
+the HTC applications maintained by DAT, and a commercial database of public
+records. By reviewing the data sources, we were able to determine with
+reasonable certainty whether properties were eligible under law for HTCs. We
+did not contact property owners directly to obtain their representations about
+their properties. We did provide our findings about individual properties to
+DAT for its subsequent review and administrative actions. DAT had corrected
+the eligible status of the properties and notified the local taxing authorities for
+several of the properties improperly designated as eligible for an HTC while we
+were still performing audit fieldwork.
+For individual properties we deemed ineligible for an HTC, we determined
+from DAT’s records of applicable assessments and rates the value of HTCs
+granted for ineligible properties for each year the property did not qualify for
+an HTC (for fiscal years 2006 through 2013 as appropriate).
+Fieldwork and Agency Response
+We conducted our fieldwork from June 2012 to December 2012. DAT’s
+response to our findings and recommendations is included as an appendix to
+our audit report. As prescribed in the State Government Article, Section 2-
+1224 of the Annotated Code of Maryland, we will advise DAT regarding the
+results of our review of their response.
+15
+
+--- Page 18 ---
+16
+
+--- Page 19 ---
+Findings and Recommendations
+Objective 1
+Evaluation of Procedures and Controls over the Homestead Tax
+Credit (HTC)
+Conclusion
+The State Department of Assessments and Taxation (DAT) needs to improve
+oversight of the HTC program and its processes to ensure that only eligible
+properties receive an HTC and recoveries of HTCs granted for ineligible
+properties are maximized.
+DAT had not developed a documented comprehensive compliance program to
+help ensure that HTCs are only granted for eligible properties. Specifically,
+DAT had not established written procedures for processing HTC applications.
+Such a program also would formally establish the responsibilities and the
+related processes to be performed at both DAT headquarters and the local
+assessment offices and would establish procedures for the monitoring of the
+local offices.
+Additionally, our audit disclosed that procedures over HTC application
+processing need improvement. In this regard, applicant names should be
+compared to property owner names in the real property records and
+procedures over the approval of certain applications need to be strengthened
+by ensuring independent supervisory personnel verify the propriety of the
+related HTC granted. Users’ access and capabilities for the systems that
+maintain HTC eligibility information should be periodically evaluated and
+limited to those necessary for the employees to carry out their job duties and
+changes made to critical data fields should be independently reviewed.
+DAT should also develop a policy regarding the recovery of all improperly
+granted HTCs as allowable under law and consider proposing legislation
+requiring homeowners to notify DAT regarding changes in property status that
+would affect eligibility for the HTC. Furthermore, DAT should develop a plan to
+investigate the propriety of HTCs received in prior years on properties
+removed from eligibility for not completing an application. Specifically, DAT
+estimated that, as of January 17, 2013, it had received approximately
+175,000 applications that had not been processed, which is far less than the
+513,000 properties deemed eligible for the HTC in DAT’s records for which an
+application had not been filed (including 183,000 properties with HTCs
+17
+
+--- Page 20 ---
+totaling $87 million for the tax year beginning July 1, 2013). Finally,
+consideration should also be given to standardizing the owner naming
+conventions used in DAT databases to enhance automated matching
+capabilities.
+Findings
+Finding 1
+DAT had not developed a documented comprehensive compliance program to
+help ensure that HTCs are only granted for eligible properties.
+Analysis
+DAT had not developed a documented comprehensive compliance program
+establishing the responsibilities and related processes to be performed by
+headquarters and the 24 local assessment offices to help ensure that HTCs
+are only granted for eligible properties. Specifically, DAT had not established
+formal written procedures to be performed during the initial processing of an
+HTC application, nor had DAT established formal procedures to be performed
+to ensure the ongoing eligibility of properties for the HTC. Additionally, DAT
+had not performed a resource analysis to determine whether additional
+resources would be needed to implement an effective compliance program,
+and how the resources would be funded.
+DAT’s headquarters HTC office is responsible for initially processing and
+approving HTC applications. However, DAT has not established written
+procedures or guidance regarding the processing of the applications such as
+the procedures to be used to validate information on the applications, how
+issues noted during review of the applications are to be resolved, and the
+roles and responsibilities of DAT employees, including employee
+responsibilities for approving the applications and accessing and updating the
+automated real property records.
+Similarly, as part of the assessment process, local assessment offices may
+detect HTC properties that subsequently become ineligible. However, DAT
+had not prepared written guidance that specifies what procedures local
+assessment offices should use to detect ineligible HTC properties. In this
+regard, while the current HTC application process provides a cost-effective
+means to help prevent individuals from receiving the HTC on more than one
+property in the State, the process is not sufficient to ensure the continued
+eligibility of properties. For example, a property owner receiving an HTC in
+Maryland could move his or her principal residence out-of-state without selling
+the property or notifying DAT of the change in status of the property receiving
+18
+
+--- Page 21 ---
+the HTC. There is currently no requirement that property owners notify DAT of
+changes in circumstances that would render the property ineligible for the
+credit (as addressed in Finding 4). Also, DAT does not periodically perform
+automated procedures to monitor continued HTC eligibility (as addressed in
+Finding 7).
+DAT headquarters does not perform any documented monitoring of the local
+assessment offices’ procedures for detecting properties that are improperly
+designated as HTC eligible. As a result, our review of procedures and controls
+at three local assessment offices disclosed that the offices were not
+consistently performing detection procedures. For example, at two of the
+three offices reviewed, documented reviews of the United States Postal
+Service National Change of Address list were not performed. DAT pays for this
+service in part to enable local offices to detect home owners who move and
+thus their properties may become ineligible for the HTC. We were advised by
+one local office this list is considered a useful tool to detect homeowners who
+are no longer entitled to an HTC, while two other offices did not consider the
+list to be a useful tool.
+We also noted that one of the local assessment offices reviewed did not
+adequately assess ownership changes reported by the local government
+finance office that are uploaded to the Assessment and Administration
+Valuation System (AAVS). This report includes changes of ownership or
+address and is the primary mechanism by which the local assessments office
+can identify properties whose eligibility for the HTC may have changed.
+Accordingly, the local assessment office needs to evaluate these changes to
+determine whether the changes result in a property losing eligibility for HTC.
+However, the local DAT office could not document any review for 8 out of 10
+properties which we tested from the report. Of those 8 properties, 6
+properties were improperly receiving the HTC. The 6 properties received
+improper County and State HTCs totaling $8,903 and $142, respectively, for
+fiscal years 2011 through 2013.
+During the course of our audit, we were advised by DAT management that a
+lack of resources would limit the extent of any compliance program. As
+previously mentioned, DAT maintains an HTC office with 11 employees (8 full-
+time budgeted positions and 3 temporary positions) that have been almost
+exclusively devoted to processing and approving HTC applications. DAT
+management advised us that when the volume of applications diminishes
+after the December 31, 2012 deadline, the 11 employees in the HTC office
+will begin performing certain compliance activities. However, the extent to
+which these employees could be used to address ongoing compliance
+monitoring has not been analyzed by DAT nor has DAT otherwise analyzed its
+19
+
+--- Page 22 ---
+overall staffing resources for implementing a compliance program.
+Consequently, the funding necessary to support a comprehensive compliance
+program has not been researched. In accordance with law, DAT is reimbursed
+by the State’s 24 subdivisions for the cost to maintain the HTC office for
+processing and approving applications. Additional tax revenue mostly benefits
+the counties and municipalities when HTCs granted for ineligible properties
+are detected and removed. Therefore, it would be reasonable for the local
+governments to bear a portion of the cost of maintaining a compliance
+program to detect HTCs that were granted for ineligible properties.
+Recommendation 1
+We recommend that DAT
+a. develop and document a comprehensive compliance program to help
+ensure that HTCs are only granted for eligible properties, including
+specifically defining the roles and responsibilities of headquarters and the
+local assessment offices when processing HTC applications and ensuring
+ongoing compliance;
+b. provide for periodic monitoring by headquarters of the HTC compliance
+activities performed at the local assessment offices, including ensuring
+that local offices use available sources of information to identify ineligible
+properties; and
+c. perform an analysis of personnel and resource funding requirements for
+developing a comprehensive compliance program and submit a proposal
+for consideration by appropriate Executive Department agencies and the
+General Assembly.
+Finding 2
+Procedures over the HTC application processing need improvement.
+Certain enhancements are needed to improve procedures and controls over
+the HTC application processing. Specifically, we noted the following
+conditions:
+ Since it began processing applications for the HTC in 2008, DAT has not
+routinely compared the property owner names on HTC applications to the
+property owners’ names in the real property records in AAVS. This
+comparison could identify situations whereby someone other than a
+property owner (such as a renter) could manually apply for the HTC and an
+ineligible property could be deemed eligible to receive an HTC based on an
+application submitted by a non-owner. In addition, other discrepancies
+could be detected between information in the HTC application system and
+AAVS which affect HTC eligibility.
+20
+
+--- Page 23 ---
+We matched the names of property owners listed in DAT’s real property
+records to the names on HTC applications as of June 2012. This
+comparison disclosed 26,240 instances in which the name on the
+application did not agree to the name in the real property records. (This
+comparison was generally made using the property account number and
+the property owners’ last names.) For fiscal year 2013, these properties
+received HTCs that reduced county and state property tax revenue by
+approximately $8.2 million and $146,000, respectively. We tested 20 of
+these properties and determined that 15 of the properties should not have
+been designated as eligible for the HTC at the time of the match.
+We also noted that for 10 of the 15 properties the HTCs were based on
+applications previously submitted by the former owners of the properties.
+In these cases, it appeared that ownership of the properties had changed
+and, although the new owners’ names were recorded in AAVS, the data
+fields affecting HTC eligibility were not updated by the applicable local
+assessment offices. Once a property changed owners, the HTC eligibility
+should have been removed pending receipt of an application from the new
+owner. These 15 properties were referred to DAT for further investigation.
+ DAT did not establish adequate controls over the subsequent approval of
+HTC applications initially suspended from processing. Specifically, to
+ensure the propriety of approved HTC applications, including those
+approved after being suspended, an output report of approved
+applications was reviewed by two DAT supervisors. However, these two
+supervisors also approved the HTC applications. Consequently, there was
+a lack of assurance that applications approved by these employees were
+proper as there was no independent review of the approvals.
+When the addresses on HTC applications did not agree to owner’s income
+tax filing address, the applications were placed in a pending status. The
+pending applications were manually researched, such as by checking
+Motor Vehicle Administration records or by contacting the applicant, and
+subsequently approved or denied by a DAT employee.
+ DAT had a backlog of unprocessed applications. Specifically, we were
+advised by DAT management that it had an estimated 175,000
+unprocessed applications on hand as of January 17, 2013. The backlog
+resulted from the large number of applications that were received near the
+December 31, 2012 deadline and the increased level of related activity
+(phone inquiries) that greatly reduced the level of application processing.
+In this regard, we noted that DAT only had approximately 1,500
+unprocessed applications as of June 18, 2012.
+21
+
+--- Page 24 ---
+Recommendation 2
+We recommend that DAT
+a. compare the names on HTC applications to the listed owners of the
+properties and review and investigate approved HTC applications for which
+the applicant’s name(s) does not match the listed property owner(s);
+b. investigate the aforementioned properties that were improperly granted
+an HTC, establish the cause of the inappropriate designation, and
+establish appropriate guidance and controls;
+c. ensure independent supervisory personnel verify the propriety of the tax
+credits granted for applications that were initially suspended from
+processing, at least on a test basis; and
+d. ensure the backlog of HTC applications is processed as soon as possible.
+Finding 3
+DAT did not establish adequate controls over its automated records to prevent
+or detect unauthorized changes to HTC eligibility determinations.
+Analysis
+DAT did not establish adequate controls over the real property records (the
+AAVS) or the Homestead Application System to prevent or detect unauthorized
+changes to eligibility determinations. Specifically, we noted that certain
+system access was not adequately restricted and that edits to critical data
+fields in both AAVS and the Application System were not subject to
+independent supervisory review. Although the certain information in AAVS,
+such as the Homestead Qualification Field, is generally updated weekly in
+AAVS for new actions recorded in the Application System, the information can
+also be manually edited in AAVS by certain DAT employees and these edits are
+not reviewed by independent supervisory personnel. The potential impact of
+this control weakness is exacerbated by the large number of employees who
+were assigned critical system capabilities. As of August 2012, 400 employees
+had access to the AAVS with 371 of these employees being assigned access
+capabilities that allowed the users to change information such as the
+Homestead Qualification Field in AAVS.
+In addition, our test of 59 employees having access to the Homestead
+Application System disclosed that 4 employees had unnecessary access to
+delete an application and the ability to perform other functions on AAVS
+without supervisory review and approval. DAT does not review these edits for
+propriety.
+22
+
+--- Page 25 ---
+We noted eligibility information for HTCs recorded in the Application System
+and in the AAVS did not always agree. We performed a match between AAVS
+system data effective July 2012 and the Homestead Application System data
+effective June 2012, The match identified 1,134 properties in which the AAVS
+system indicated the application was approved or the property had a
+grandfathered HTC eligibility but was actually either rejected or pending in the
+Homestead Application System. Applications rejected or placed in the
+pending status should render the property ineligible on AAVS. We selected 20
+properties from our match and identified 11 properties that, based on the
+application and other external data sources, were not eligible for the HTC but
+were classified as eligible for the HTC in AAVS.
+Recommendation 3
+We recommend that DAT
+a. establish procedures to ensure edits to critical fields affecting HTC
+eligibility are independently reviewed,
+b. evaluate the propriety of employee access capabilities for critical data
+fields in the HTC Application System and AAVS and remove access that
+employees do not require for their job duties, and
+c. identify all discrepancies between AAVS and the Homestead Application
+System regarding eligibility for HTC and research the propriety of the
+discrepancies and make the necessary changes.
+Finding 4
+Certain policies and requirements could be established to improve DAT
+oversight of the HTC program.
+Analysis
+DAT should adopt a policy regarding the recovery of all improperly granted
+HTCs as allowable under law and should consider proposing legislation
+requiring homeowners to notify it of changes in property status which would
+affect HTC eligibility.
+ DAT did not develop a policy regarding the recovery of all improperly
+granted HTCs as allowable under law. When DAT detected HTCs granted
+for ineligible properties, it advised the local taxing authorities and
+requested them to recover the taxes not paid as a result of HTCs being
+granted for ineligible properties. State law specifies that the local taxing
+authorities, not DAT, are responsible for the collection of property taxes.
+However, our review of procedures at three local assessments offices
+indicated that DAT did not research and/or inform the local taxing
+authority of improperly granted HTC’s received beyond the prior three
+23
+
+--- Page 26 ---
+years. We were advised by DAT that the records needed to conduct the
+research for earlier years were not readily available in its systems.
+Prior to July 1, 2012, there was no statutory provision that specifically
+addressed the recovery of prior HTCs improperly received. However, Title
+14 of the Tax-Property Article of the Annotated Code of Maryland
+contained a statute of limitations provision that allows for the recovery of
+taxes imposed under the Article owed for the most recent seven years.
+Legislation enacted during the 2012 legislative session requires a
+property owner who had been granted an HTC for which they did not
+qualify to be assessed all state and local taxes (without a time limit) that
+they would have otherwise paid.
+The forgone tax revenue from prior years can be significant. For example,
+we reviewed 30 properties from lists maintained by two local assessment
+offices of properties determined to have improperly received HTCs.
+Although 19 of these properties received HTCs for more than three years,
+the local assessment offices did not research beyond the most recent
+three years to determine how long the properties had improperly received
+the HTC so that improperly received credits could be recovered to the
+fullest extent possible. Consequently, we estimate that these properties
+may have had their taxes improperly reduced by an additional $52,516
+and $6,435 for the County and State, respectively, during fiscal years
+2006 through 2012.
+ There is no legal requirement that homeowners notify DAT of changes in
+circumstances affecting a property’s eligibility for the HTC. Specifically,
+although DAT is automatically made aware of certain changes in a
+property’s status (such as via the recordation of a new deed), there is no
+requirement for a homeowner to notify DAT of certain other changes that
+would render a property ineligible for the credit (such as the homeowner
+moving out of state). We were advised by DAT management that a legal
+provision that would require that such circumstances be reported to DAT
+would be helpful in their monitoring the ongoing eligibility of properties for
+the credit.
+Recommendation 4
+We recommend that DAT
+a. develop a policy regarding recovery of HTCs granted for ineligible
+properties to the fullest extent allowable under law and develop the
+related recordkeeping resources,
+b. ensure that the policy on recovery of improperly granted HTCs for prior
+years is consistently followed by the local assessment offices, and
+24
+
+--- Page 27 ---
+c. consider proposing legislation to require homeowners to notify it regarding
+changes in property status that would affect eligibility for the HTC.
+Finding 5
+DAT does not have a plan to investigate the propriety of HTCs received in prior
+years on properties removed from eligibility after the application filing period.
+DAT does not have a plan to evaluate the propriety of HTCs received in prior
+years on properties removed from eligibility after the December 31, 2012
+deadline because an application was not submitted or was not approved.
+Many such property owners may never send in an application if they have
+been receiving an HTC to which they were not entitled. As of January 17,
+2013, there are 512,823 properties currently deemed eligible for the HTC
+that may have not submitted an application and will lose HTC eligibility unless
+an application was submitted before the deadline and it is approved. (As
+mentioned in Finding 2, DAT had a large unprocessed application backlog.)
+Additionally, 182,782 of these properties are designated for HTCs that would
+reduce their fiscal year 2014 County and State property tax bills by
+approximately $86.9 million and $409,000, respectively. Therefore, the
+amount of improperly granted HTC’s received in prior years could be
+significant.
+DAT officials advised us that it does not have the resources to pursue such a
+large number of cases. However, as previously mentioned (see Finding 1),
+DAT has not performed an analysis of its staffing needs nor analyzed
+additional funding necessary to support a comprehensive compliance
+program regarding HTC.
+Recommendation 5
+We recommend that DAT
+a. develop a plan to investigate property owners who have previously
+received HTCs for which applications had not been submitted or approved,
+and determine if HTCs were granted for ineligible properties in prior years;
+and
+b. request local taxing authorities to recover taxes for the value of HTCs
+granted for ineligible properties in prior years to the extent allowed by law.
+25
+
+--- Page 28 ---
+Finding 6
+DAT’s real property records were not formatted in a manner to facilitate
+computer matches.
+Analysis
+DAT’s real property records were not formatted in a manner to facilitate
+computer matches. Specifically, owner names were not consistently recorded
+in the same data fields and all owners were not always specifically listed in
+the DAT real property records. There are two owner’s name fields in AAVS that
+allow 34 characters each. In most (but not all) cases, the owner’s name is
+entered with the last name first. A second owner may be entered on either
+the first field with the first owner or the second field. In other cases, a second
+or other additional owner may be implied but not specifically entered. For
+instance, the records may state “and wife” or “et al”. There are approximately
+two million residential real properties in the State; accordingly, adding all
+owners to current AAVS records and formatting the existing AAVS records
+consistently would require a significant commitment of resources.
+Typically, owner data are entered in AAVS by the local assessments offices for
+the 23 counties upon notification of a new deed. Owner data for properties in
+Baltimore City is uploaded to AAVS from the City Government’s property
+system which records new deeds.
+While the consistent recordation of property owners’ names is not critical to
+the administration of the assessment process, there is no assurance that
+matches performed using the owners’ name, or portion thereof, will identify all
+properties that meet the match criteria given such inconsistencies.
+Furthermore, the lack of a consistent method to format names and the
+records that lack the names of all property owners makes it impractical for the
+HTC application system to automatically compare HTC applicant names to
+property owner names.
+Recommendation 6
+We recommend that DAT determine the feasibility of
+a. establishing a protocol for recording owner names in its automated real
+property records and requiring the protocol to be used uniformly by all
+assessment offices; and
+b. adding all owners to the current real property records and formatting the
+existing records consistently, at least on a prospective basis.
+26
+
+--- Page 29 ---
+Objective 2
+Procedures to Detect Properties Improperly Deemed Eligible for
+HTCs
+Conclusion
+DAT should use additional automated procedures to ensure the continued
+eligibility of properties receiving the HTC.
+The only automated screening process currently used at DAT headquarters to
+prevent improperly approving HTCs is the comparison of the property address
+to the homeowner’s federal tax return address performed when an HTC
+application is initially received. This procedure does provide some assurance
+that property owners do not receive an HTC for more than one property.
+However, this screening process is not repeated in subsequent years, and DAT
+does not perform other automated processes to ensure the continued
+eligibility of properties that previously were approved as eligible for the HTC.
+Our audit identified several matching processes, as described below, that DAT
+could employ to help ensure the ongoing eligibility of properties for the HTC.
+Certain of the matches can be performed on a statewide basis by DAT
+headquarters and others could be performed at the local assessment offices
+based on records available from the local jurisdictions.
+Finding 7
+Additional automated procedures are available to help ensure properties
+remain eligible for the HTC on an ongoing basis.
+Analysis
+Additional automated procedures are available to help ensure properties
+remain eligible for the HTC on an ongoing basis. As previously mentioned,
+DAT has not established a comprehensive compliance program to verify the
+ongoing eligibility of properties for the HTC.
+We identified various automated matching processes that, if used, would
+enhance DAT’s ability to identify properties that are no longer eligible for an
+HTC. Below we describe five matches we performed to identify properties no
+longer eligible for the HTC and the results of those matches, (as would be
+expected, match results overlapped in some cases; that is, identified the
+same questionable properties). Our results demonstrate that these matches
+can detect properties that are potentially improperly classified as eligible for
+the HTC. While the results of any matches will need to be verified by DAT
+27
+
+--- Page 30 ---
+contacting the owner before any action is taken to remove an HTC, the
+matches provided an effective starting point to identify properties needing
+further review.3 Also, since not all properties classified as eligible for the HTC
+will actually receive a credit, DAT’s subsequent research of matched
+properties should focus first on the properties actually receiving credits.
+It should also be noted that we performed the matches before the application
+filing deadline of December 31, 2012 had passed, and thus some properties
+identified as matches may not be considered eligible for the HTC after
+applications have been processed.
+Motor Vehicle Administration Match
+Using individuals’ last names and a portion of the properties’ addresses, we
+compared a file from the Motor Vehicle Administration (MVA) of individuals
+who surrendered their drivers’ licenses during fiscal years 2010 through 2012
+to homeowners whose properties were classified as eligible for the HTC for
+fiscal year 2013.4 The match disclosed 24,751 properties classified as
+eligible for the HTC for which at least one owner had surrendered their drivers’
+license. Furthermore, 10,367 of these properties had their fiscal year 2013
+county property taxes reduced by approximately $7.2 million and 891 of these
+properties had their state property taxes reduced by approximately $32,000.
+Our test of 25 properties designated as eligible for the HTC in which an
+owner(s) had surrendered their drivers’ license, according to the MVA file,
+disclosed that 21 properties were not eligible for the credit, including 6
+properties for which an application had been filed and approved. Of these 21
+properties, 20 properties improperly had their county and state taxes reduced
+by approximately $178,000 and $9,000, respectively during fiscal years 2010
+through 2013.
+Income Tax Records Match
+With the assistance of the Comptroller of Maryland, the address individuals
+used to file their most recent Maryland state income tax returns (generally the
+2011 tax year) was compared to the property address used by the same
+individuals when they applied for the HTC (the Comptroller used the
+individuals’ social security numbers when performing the comparison). We
+then compared the match results to properties classified as eligible for the
+3 There are various reasons why the match results are not conclusive evidence of a property
+improperly receiving the HTC. For example, in the Motor Vehicle Administration match
+mentioned below, the match was performed using the last name and the property address.
+As a result, an adult child that lived at the address and surrendered their driver license would
+show up as a match result, although eligibility for the HTC would not be affected if the parents
+continued to live at the same address.
+4 Per our test, most drivers surrendered their Maryland licenses because they moved to
+another state. However, certain licenses in the MVA file were surrendered for other reasons
+such as court orders or medical conditions.
+28
+
+--- Page 31 ---
+HTC for fiscal year 2013. Our match disclosed 11,231 properties classified
+as eligible for the HTC for which the applicants filed Maryland tax returns
+listing an out-of-state address. Of these properties, 4,156 had their fiscal year
+2013 county property taxes reduced by approximately $2.8 million and 652
+properties had their state taxes reduced by approximately $25,000. Our
+match also disclosed 140,885 additional properties classified as eligible for
+the HTC whose applicants’ state income tax returns listed a different Maryland
+address than the property for which they received an HTC (that is, the HTC
+property may no longer be their principal residence). Of these properties,
+73,706 had their fiscal year 2013 county property taxes reduced by
+approximately $48.2 million and 15,554 properties had their state property
+taxes reduced by approximately $493,000. Our test of 30 properties
+receiving an HTC for which the owner(s) listed an address other than the HTC
+property address on their Maryland income tax returns disclosed that 11 were
+not eligible for the credit although applications had been filed and approved
+for all 11 properties. Based on our research, these 11 properties had their
+county and State taxes improperly reduced by $248,133 and $22,111,
+respectively, during fiscal years 2007 through 2013.
+Multiple Properties Analysis
+This match was performed using only DAT’s records from the AAVS. We sorted
+the statewide listing of properties eligible for the HTC for fiscal year 2013 by
+the addresses the owner provided for tax and assessment notice mailing
+purposes to identify mailing addresses used for more than one property. This
+sorting disclosed 9,506 mailing addresses that were used for two or more
+properties classified as eligible for the HTC, pertaining to 26,058 properties.
+Of these properties, 10,880 had their fiscal year 2013 county property taxes
+reduced by approximately $5.4 million and 4,828 properties had their state
+property taxes reduced by approximately $148,000. Our test of 12 pairs of
+properties receiving the HTC (24 properties) that had the same tax mailing
+address disclosed that 8 of the 24 properties were not eligible for the credit,
+including 1 property for which an application had been filed and approved.
+These 8 properties had their county and state taxes improperly reduced by
+approximately $95,500 and $5,600 respectively, during fiscal years 2007
+through 2013. Although the new Application System screening process
+should generally prevent an owner from receiving an HTC on more than one
+property due to use of social security numbers, this address sorting analysis
+would have been useful to detect inappropriate credits during the period when
+applications were being filed. Additionally, even after the submitted
+applications have been processed, this analysis could still be useful to detect
+prior inappropriate credits issued for properties where the owners did not file
+an HTC application.
+29
+
+--- Page 32 ---
+Rental Properties Match
+Using property addresses, we matched files from five jurisdictions of licensed
+rental properties to properties classified as eligible for the HTC for fiscal year
+2013.5 Our match disclosed 9,258 properties classified as eligible for the HTC
+that were identified as rental properties according to local government
+records. Of these properties, 4,013 had their fiscal year 2013 county
+property taxes reduced by approximately $3.3 million, and 1,427 properties
+had their state property taxes reduced by approximately $53,000. Our test of
+25 of the 4,013 properties designated as eligible for the HTC for a property
+that was classified as a rental property by local governments disclosed that
+11 properties were not eligible for the credit for certain years, including 5
+properties for which an application had been filed and approved. Of these 11
+properties, 10 properties had their county and state taxes improperly reduced
+by approximately $54,000 and $2,600, respectively, during fiscal years 2007
+through 2013.
+Review of Foreclosed Properties
+We compared two circuit courts’ records of foreclosure cases filed in fiscal
+year 2012 to properties classified as eligible for the HTC for fiscal year 2013.6
+We reviewed approximately 330 cases out of approximately 5,900 foreclosure
+cases to identify 30 properties for which the foreclosure process was
+completed as of June 30, 2012 and which were identified in DAT’s records as
+eligible for the HTC. Our test of these 30 properties eligible for the HTC for a
+residence that was foreclosed disclosed that 25 properties were not eligible
+for the credit, including 10 properties for which an application had been filed
+and approved. Furthermore, 10 of these properties were not owner occupied
+prior to the foreclosure proceedings. Of these 25 properties, 16 properties
+improperly had their county taxes reduced by approximately $15,300 during
+fiscal years 2007 through 2013.
+According to the Department of Housing and Community Development, there
+were 15,293 foreclosures in the State during fiscal year 2012. Legislation
+passed during the 2012 legislative session requires that financial institutions
+that take possession of properties during foreclosure proceedings are
+required to notify DAT of such actions. These properties would no longer be
+eligible for the HTC.
+5 The five jurisdictions used for our match were Baltimore City, Ocean City and Baltimore,
+Montgomery, and Howard Counties. These counties and cities and certain other jurisdictions
+in the state require rental properties to be registered or licensed.
+6 The two courts covered Baltimore City and Prince George’s County where, based on
+Department of Housing and Community Development records, there was known to be many
+foreclosures.
+30
+
+--- Page 33 ---
+We discussed these procedures to detect HTCs granted for ineligible
+properties with DAT management. They agreed that more procedures, such
+as the matches we performed, should be used to detect homeowners
+receiving HTCs to which they are not entitled. While automated procedures to
+detect properties improperly designated as eligible for the HTC can be
+performed without a large commitment of resources, investigating potentially
+ineligible properties can be a time-consuming process. For this reason, DAT
+management maintained that performing such procedures for every
+potentially ineligible property would generally not be possible with DAT’s
+existing staff. However, the investigation of match results could be prioritized
+such as by investigating properties actually receiving an HTC first.
+Additionally, as previously mentioned (Finding 1), DAT has not analyzed its
+staffing needs to determine the adequacy of its staff at both its headquarters
+and local assessment offices.
+Recommendation 7
+We recommend that DAT develop automated procedures to detect properties
+that are ineligible for the HTC on an ongoing basis, such as data matches
+against other state and local agencies’ records.
+31
+
+--- Page 34 ---
+Exhibit A
+Maryland Counties and Baltimore City
+Homestead Credit Cap
+Over Preceding Year’s Taxable Assessment
+Effective July 1, 2012
+PERCENTAGE
+SUBDIVISION
+LIMIT
+Allegany 107
+Anne Arundel 102
+Baltimore City 104
+Baltimore 104
+Calvert 110
+Caroline 105
+Carroll 105
+Cecil 108
+Charles 107
+Dorchester 105
+Frederick 105
+Garrett 105
+Harford 105
+Howard 105
+Kent 105
+Montgomery 110
+Prince George's 104
+Queen Anne's 105
+St. Mary's 105
+Somerset 110
+Talbot 100
+Washington 105
+Wicomico 105
+Worcester 103
+32
+
+--- Page 35 ---
+Exhibit B
+Sample Calculation of the Homestead Property Tax Credit
+These tables below show an example of the Homestead Property Tax Credits (HTC) that would be applied to a property
+depending when the current homeowner first applied for a tax credit that is approved by DAT. (The example assumes no
+change in property ownership.) The tables also show the interaction of the HTC and the three-year phase-in of the full
+market value appraisal of the property. The calculations are based on the following conditions:
+Property Value:
+ $300,000 previous full market value appraisal with grandfathered HTC
+ $450,000 full market value appraisal at January 1, 2012
+ $400,000 full market value appraisal at January 1, 2015
+ A three-year phase-in of the January 1, 2012 appraisal increase
+County Property Tax:
+ County tax rate of $1.00 per $100.00 of county taxable assessment
+ County HTC cap on taxable assessment increases of 5 percent per year
+State Property Tax:
+ State tax rate of $0.112 per $100.00 of state taxable assessment
+ State HTC cap on taxable assessment increases of 10 percent per year
+Owner First Applies for HTC by December 31, 2012
+Appraised Full Value Taxable Assessment Assessment Reduction Tax Reduction
+Full‐Value Three‐Year Due to HTC Cap for Tax Calculation Due to HTC
+Assessments Phase‐In County State County State County State
+Prior Assessed Full Value $300,000
+New Assessed Full Value at 1/1/12 450,000
+For Tax Year Starting 7/1/12 $350,000 $315,000 $330,000 $35,000 $20,000 $350 $22
+For Tax Year Starting 7/1/13 400,000 330,750 363,000 69,250 37,000 693 41
+For Tax Year Starting 7/1/14 450,000 347,288 399,300 102,713 50,700 1,027 57
+New Assessed Full Value at 1/1/15 400,000
+For Tax Year Starting 7/1/15 400,000 364,652 400,000 35,348 ‐ 353 ‐
+For Tax Year Starting 7/1/16 400,000 382,884 400,000 17,116 ‐ 171 ‐
+For Tax Year Starting 7/1/17 400,000 400,000 400,000 ‐ ‐ ‐ ‐
+Total six‐year tax reduction due to HTC: $2,594 $121
+Owner First Applies for HTC by June 30, 2014
+Appraised Full Value Taxable Assessment Assessment Reduction Tax Reduction
+Full‐Value Three‐Year Due to HTC Cap for Tax Calculation Due to HTC
+Assessments Phase‐In County State County State County State
+Prior Assessed Full Value $300,000
+New Assessed Full Value at 1/1/12 450,000
+For Tax Year Starting 7/1/12 $350,000 $315,000 $330,000 $35,000 $20,000 $350 $22
+For Tax Year Starting 7/1/13 400,000 400,000 400,000 ‐ ‐ ‐ ‐
+For Tax Year Starting 7/1/14 450,000 347,288 399,300 102,713 50,700 1,027 57
+New Assessed Full Value at 1/1/15 400,000
+For Tax Year Starting 7/1/15 400,000 364,652 400,000 35,348 ‐ 353 ‐
+For Tax Year Starting 7/1/16 400,000 382,884 400,000 17,116 ‐ 171 ‐
+For Tax Year Starting 7/1/17 400,000 400,000 400,000 ‐ ‐ ‐ ‐
+Total six‐year tax reduction due to HTC: $1,902 $79
+Owner First Applies for HTC after June 30, 2014 or Never Applies
+Appraised Full Value Taxable Assessment Assessment Reduction Tax Reduction
+Full‐Value Three‐Year Due to HTC Cap for Tax Calculation Due to HTC
+Assessments Phase‐In County State County State County State
+Prior Assessed Full Value $300,000
+New Assessed Full Value at 1/1/12 450,000
+For Tax Year Starting 7/1/12 $350,000 315,000 330,000 35,000 20,000 350 22
+For Tax Year Starting 7/1/13 400,000 400,000 400,000 ‐ ‐ ‐ ‐
+For Tax Year Starting 7/1/14 450,000 450,000 450,000 ‐ ‐ ‐ ‐
+New Assessed Full Value at 1/1/15 400,000
+For Tax Year Starting 7/1/15 400,000 400,000 400,000 ‐ ‐ ‐ ‐
+For Tax Year Starting 7/1/16 400,000 400,000 400,000 ‐ ‐ ‐ ‐
+For Tax Year Starting 7/1/17 400,000 400,000 400,000 ‐ ‐ ‐ ‐
+Total six‐year tax reduction due to HTC: 350 22
+33
+
+--- Page 37 ---
+Comments and Response of the Department of Assessments and
+Taxation (DAT) to the Findings and Recommendations of the
+Legislative Auditors Regarding Homestead Tax Credits
+Finding 1 – DAT had not developed a documented comprehensive compliance
+program to help ensure that HTCs are only granted for eligible properties.
+DAT Comments and Response: The Department concurs with the Auditors’
+finding here and the three specific recommendations (a, b, and c) under this item.
+a) Once the Department completes the significant data programming and
+administrative processing of the 175,000 applications received in the last four
+months before the December 31, 2012 application deadline, DAT will develop
+(during the first half of fiscal 2014) a comprehensive written manual describing the
+specific procedures to validate applications. That manual will combine existing
+procedures historically utilized by the local Assessment Offices to validate
+eligibility and the newer procedures developed by the central application
+processing unit in 2007 as well as incorporating certain automated procedures
+proposed in this Audit.
+b) The manual will provide a specific list of audits to be performed by local
+Assessment Offices and a mandatory monthly schedule for performing those
+duties.
+c) The Department will prepare for the submission of the Fiscal 2015
+Budget Request a detailed proposal for additional positions and funding for
+implementing the comprehensive compliance program proposed by this Audit to
+be considered by the Executive Department of Budget and Management and the
+General Assembly. For the record, this fiscal request will be substantial because of
+the demonstrated need in the Audit for an increased number of employees. The
+Legislative Auditors had a team of two managers and six field employees at the
+Department for six months to find and validate limited numbers of improper
+Homestead Tax Credits. In this regard, it must be emphasized that the
+Department’s employees in the local Assessment Offices who perform Homestead
+audits do so on a part-time basis because they have other regular assessment
+related duties to perform each day. Finally, legislation will have to be introduced
+accompanying the budget request that will amend the existing Homestead
+application law to provide for local governments to reimburse the Department for
+1
+
+--- Page 38 ---
+the cost of the additional employees and other administrative costs for
+implementing these new ongoing audits. Given that legislation is likely to be
+enacted in the 2013 session that will extend the Homestead application deadline
+until December 31, 2013, there is sufficient time for the Executive Budget
+Department and the General Assembly to approve the funding for additional
+Homestead employees for the Department.
+Finding 2 – Procedures over the HTC application processing need improvement.
+DAT Comments and Response: The Department concurs with the Auditors’
+finding here and the four specific recommendations (a, b, c, and d) under this item.
+a) and b) Initially, the Department had compared the names of all HTC
+applicants with the name in its legal ownership file in the AAVS Real Property
+System. However, that practice was discontinued for electronically filed
+applications after a careful review of exceptions showed that the program was
+producing a large number of “false positive” exceptions based upon revision to a
+maiden name by the former spouse or et al (“and others”) ownership of the
+property. The Department has continued to check the applicant name and the
+ownership name for all paper applications that are manually entered into the data
+system as well as for the substantial number of applications “imaged” into the
+system via the “KOFAX” system.
+The Department will implement (by December 31, 2013) an additional
+computer program that will retroactively compare applicant name with ownership
+name for all electronically filed applications in each calendar year. That program
+will produce a better “exceptions” report that can be individually investigated by
+the Department. The report also will contain a section for dealing with ownership
+discrepancies where the original applicant owner has died and the AAVS system’s
+“stop” credit feature for transferred properties did not apply because the property
+was transferred via inheritance and not transferred for a financial “consideration”
+to a new, unrelated owner.
+c) Given the limited number of “full-time” Homestead Tax Credit
+employees (8 permanent employees) to process and audit the 1.1 million
+applications, the Department is going to have to assign (by July 1, 2013) a
+managerial level employee from a totally unrelated agency program to perform a
+spot review on a test basis of the proprietary of tax credit eligibility for initially
+suspended applications.
+2
+
+--- Page 39 ---
+d) The Department has already developed an orderly plan to process by
+March 31, 2013 (in just three months after the December 31, 2012 deadline), the
+175,000 applications received in the past four months. The Department could not
+process this group of applications as they were received because its limited number
+of employees were occupied answering the 87,000 telephone calls and 13,000 e-
+mails received in this same four month period.
+Finding 3 – DAT did not establish adequate controls over its automated records
+to prevent or detect unauthorized changes to HTC eligibility determinations.
+DAT Comments and Response: DAT concurs with the finding and the three
+recommendations (a, b, and c) under this item.
+a) The Department will establish a procedure (by December 31, 2013) to
+have an independent supervisory review on a test basis of changes to critical fields
+such as deleting a Homestead application.
+b) The Department has already begun restricting system access to AAVS as
+it relates to the Homestead Qualification Field. The only reason that 371 of 400
+employees had access that included the ability to change such information as the
+Homestead Qualification Field was because AAVS is a new system itself where
+Assessment Office employees were testing its applications and functionality. The
+Department’s IT managers will continue to monitor and eliminate data permission
+for employees who do not have an ongoing need for such access to perform their
+specific job duties.
+c) The Department’s IT Unit will develop (by December 31, 2013) a report
+identifying any discrepancies between AAVS and the Homestead Application
+System on Homestead eligibility. The Department submits that most of the
+differences are due to timing issues based upon the updating of the systems by the
+agency’s IT Unit.
+Finding 4 – Certain policies and requirements could be established to improve
+DAT oversight of the HTC Program.
+DAT Comments and Response:
+a) The Department can agree with the finding of the Auditors that there
+needs to be a fixed policy on the number of years for recapturing Homestead Tax
+Credits improperly received by the homeowner. However, the Department does
+3
+
+--- Page 40 ---
+not agree with their determination that a “general” statute of limitations provision
+for recovery of taxes for seven years (found in Section 14-1101 of the Tax-
+Property Article) applies to the recovery of Homestead Tax Audits improperly
+received.
+The Department’s legal counsel has advised that the authority to collect any
+past taxes has been unclear until the passage of Chapter 701, Laws of Maryland
+2012 adding subsection (n) to §9-105. Before that enactment creating a 25%
+penalty for willful misrepresentation beginning for the July 1, 2012 tax year, the
+legal argument against the collection of taxes for prior years is that “once an
+assessment becomes final then there was no specific statutory authority for
+adjusting the assessment upwards after that ‘finality’ to recapture the taxes offset
+by an erroneous Homestead Tax Credit”.
+The Department notes that the three prior years recapture of tax credits
+observed by the Auditors in the three different County Assessment Offices has
+been the consistent determination of that policy by the agency. DAT decided on
+the three prior year recapture policy for several reasons: (1) the time period is
+consistent with the limited three year period by which a homeowner can claim a
+refund of taxes erroneously paid found at Section 14-915, Tax-Property Article; (2)
+the three prior year period is consistent with the number of years of federal tax
+return information that the Department is able to retain for data storage purposes in
+order to audit Homestead eligibility in the first place; and (3) the majority of the
+local governments (whom the Auditors note have the legal responsibility to collect
+taxes and who would receive the bulk of the tax dollars recaptured) have requested
+that time period be used by the Department.
+The Department has advised the Auditors that there is a separate property
+tax appeal from a homeowner in Baltimore City that has just commenced which
+challenges the legal right to collect even three prior years of improperly granted
+Homestead Credits. Pending the outcome of that appeal, the Department will
+continue to follow a policy statewide of advising local governments of the
+recaptured tax credits for up to three prior years. When in the course of the
+investigation of a Homestead account that the Department employee finds more
+years of improper receipt of a credit beyond the three, then the employee will
+advise the county government employee receiving the information of the additional
+years. Because of the labor intensive nature of the effort required to investigate
+more than a three year period and because of the limitation on the number of years
+of automated records, the Department does not have sufficient staff to investigate
+4
+
+--- Page 41 ---
+every Homestead recovery for a seven year period even if the longer period is
+determined to be permissible under the law.
+b) As the Auditors have suggested, DAT will introduce departmental
+legislation at the 2014 session that will require homeowners to notify the
+Department of changes in the property’s status that would affect eligibility for the
+HTC. That legislation also will include a proposal creating a specific provision for
+recapture of Homestead Tax Credits and the number of years to be recaptured.
+Finding 5 – DAT does not have a plan to investigate the proprietary of HTCs
+received in prior years on properties removed from eligibility after the
+application filing period.
+DAT Comments and Response: The Department agrees with the finding and can
+comply with the two recommendations if the Executive Budget Department and
+the General Assembly approves funding for a significant number of additional
+employees in the Homestead Program.
+There will be a six figure amount of homeowners who did not apply by the
+December 31, 2012 deadline for a variety of reasons. Although a large number of
+these homeowners did not apply because they know they no longer mathematically
+qualify for an actual credit due to reduced assessments, there will still be a six
+figure amount of homeowners receiving a credit who did not apply.
+The Department will run a report of the nonfilers in descending order by the
+amount of Homestead Credit granted on the property. Given the current likelihood
+that legislation will be enacted in the 2013 session to extend the Homestead
+application filing deadline for another year until December 31, 2013, there will be
+another year and sufficient time for funds to be appropriated to provide additional
+employees to perform this particular and other audits suggested in this Audit
+Report. Those employees also will be needed to perform the tasks to recapture any
+improperly granted credits for multiple prior years. There is no overstatement in
+emphasizing how manually labor intensive and time consuming it becomes to
+investigate individual property owners where the Department must meet a legally
+sustainable standard of proving nonresidency for any year the tax credit is
+removed.
+Finding 6 – SDAT’s real property records were not formatted in a manner to
+facilitate computer matches.
+5
+
+--- Page 42 ---
+DAT Comments and Response: The Department agrees with the finding and will
+comply with the recommendation requesting the agency to explore the feasibility
+of changing its Real Property format for all property records to better facilitate
+computer matches on property owner name for the Homestead Program.
+The Department has made appropriate inquiries and it is not economically
+feasible to obtain a vendor to add all owners to the current AAVS records and
+reformat the existing AAVS records for 2.1 million properties. This process would
+require the vendor to examine every deed for every property to make these
+changes. However, the Department will review its existing instructions regarding
+the entry of ownership changes and issue a revised instruction to ensure
+consistency in the inclusion of additional names.
+Finding 7 – Additional automated procedures are available to help ensure
+properties remain eligible for the HTC on an ongoing basis.
+DAT Comments and Response: The Department agrees with the Auditors’
+finding and will adopt the one principal recommendation made here for the agency
+to use additional automated procedures to ensure the continued eligibility of
+properties receiving the HTC.
+The Department believes that the automated procedure that will produce the
+most fruitful results is the Motor Vehicle Administration (MVA) match. It needs
+to be noted for the record that prior to the date when the Department began the
+administration of the Homestead application law in 2007, the agency had requested
+the MVA to agree to provide certain MVA records in an automated format.
+Instead, the MVA agreed to provide the Department with the capability to look up
+the driving records of persons on a manual, individual basis because of the
+significant number of demands the MVA receives for its information. For this
+Audit, the Auditors were able to request the MVA to provide them with a
+specialized spreadsheet showing all drivers in Maryland who had surrendered their
+driver’s license or identification card to another State. As a result, a member of the
+General Assembly has introduced, after discussions with the Department,
+legislation (SB645) that would require the MVA and the counties to provide
+electronic records information to assist the Department in determining eligibility
+for the Homestead Property Tax Credit. The MVA match report will be produced
+by July 30, 2013 based on conversations already taking place between the two
+agencies.
+6
+
+--- Page 43 ---
+The second automated procedure is the Income Tax Records match.
+Because the Comptroller’s Office ran and edited the report instead of providing the
+underlying data, the results here will require significant individual testing and
+investigation of the exceptions. That investigation also will require the
+Department to obtain a particular commercial vendor’s information service that the
+Legislative Auditors routinely have in their offices. There are many valid reasons
+for having a different tax return address such as a return filed by a separated
+spouse, an elderly parent filing a return at the address of an adult son or daughter,
+an adult child moving from the home, or the Comptroller’s Office using a different
+tax year’s address for the return. Since the Department matched the Homestead
+property address income tax return in our federal income tax database, the
+Department believes that this particular automated procedure will produce less
+positive results. Depending on the number of applications the Department receives
+based on the filing deadline extension legislation, the Department expects to
+produce this report on July 1, 2014.
+The third automated procedure recommended by the Auditors is the Multiple
+Properties Analysis which the Department will begin performing on an automated
+report basis on December 31, 2013. The Auditors note that this audit is useful for
+properties not yet submitting a Homestead application. Otherwise, the Homestead
+application screening process prevents an owner from receiving a HTC on more
+than one property due to the comparison of Social Security numbers. In addition,
+there is a longstanding manual letter issuance and credit removal process in the
+local Assessment Offices where the employees send out an inquiry whenever a
+property owner uses a different “mail to address” for receipt of Assessment
+Notices or tax bills. This new automated procedure will be included in the
+comprehensive compliance manual the Department is developing pursuant to
+Recommendation 1 of this Report.
+The fourth automated procedure is the Rental Properties Match which is an
+audit that the local Assessment Offices (in counties where rental licensing exists)
+have been performing for years. The Auditors have acknowledged to the
+Department that several of the properties in their test of 25 properties had already
+been earmarked for recapture by the local Assessment Office. The Auditors had
+requested their own independent rental property lists from the local governments
+without reference to earlier lists and the time periods for those lists. As was noted
+in the larger Audit Report, it is essential for the Department to contact individual
+property owners to receive an explanation of the property’s use. Recently, the
+Department had found several instances where the City Government had
+incorrectly indicated that a property was a currently licensed rental property when
+7
+
+--- Page 44 ---
+in fact the property had been purchased two years earlier by the former tenant. The
+local Assessment Office employees will continue reviewing these reports as they
+are received from local governments.
+The fifth and final automated procedure discussed by the Auditors is the
+Review of Foreclosed Properties. The Department would assign the lowest
+priority to this audit because the Department successfully had departmental
+legislation enacted in the 2012 session that requires a mortgage lender to report the
+foreclosure order on the property to the Department within 60 days of
+“ratification” of the Order by the court. Equally important, the legislation contains
+a self policing mechanism that places a lien on the property until the Homestead
+Tax Credit amount for that tax year is paid. The local Assessment Offices that
+administer the new mortgage foreclosure reporting law are already sending lists of
+these properties to the Homestead Section to remove Homestead Credits for those
+properties still receiving them. At our own initiative, the Department will seek (by
+December 31, 2013) an electronic listing from the Department of Labor, Licensing,
+and Regulation (DLLR) of its new (effective October 1, 2012) registry of
+foreclosed properties to compare to a listing of properties receiving a Homestead
+Tax Credit in the Department’s AAVS.
+The Legislative Auditors conclude this section of the Audit Report noting
+that “while automated procedures can be performed without a large commitment of
+resources, investigating potentially ineligible properties can be a time-consuming
+process”. All of these procedures will have to be prioritized if the Department
+does not receive a significant commitment of new employees.
+It is important to note again, as was mentioned previously in the comments
+and response to finding 1, that the Department is still in the midst of the data
+programming and administrative processing of those application the Homestead
+office received in the four months before the December 31, 2012 application
+deadline. Also, pending legislation introduced in the current session of the General
+Assembly appears likely to extend the application deadline through December 31,
+2013. If this occurs, a significant number of the 8 permanent employees the
+Department intends to commit to performing some of the reviews on the results
+from new automated procedures will be needed to continue the processing of
+applications that are received throughout the extended application period.
+Therefore, all of the suggested timelines in this response for beginning the reviews
+of automated procedures are subject to revision based on the number of
+applications received in the extended filing period, the number of telephone calls
+received by the Homestead Section in the extended filing period, and the number
+8
+
+--- Page 45 ---
+of new employees, if any, the Department receives in the fiscal 2015 budget
+request.
+9
+
+--- Page 46 ---
+A T
+UDIT EAM
+Stephen C. Pease, CPA
+Audit Manager
+Julia M. King
+Senior Auditor
+Jared J. Bardall
+Daniel R. Brann, CPA
+Michael D. Cheese
+Jason M. Goldstein
+Brian S. Han
+Kevin J. Mercer
+Staff Auditors
