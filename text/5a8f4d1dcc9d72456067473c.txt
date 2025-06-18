@@ -1,0 +1,790 @@
+Title: University System of Maryland - University of Maryland, Baltimore
+Date: 04/08/2013
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d1dcc9d72456067473c
+Extracted: 2025-06-18T05:57:28.965257
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+University System of Maryland
+University of Maryland, Baltimore
+September 2016
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Status of Findings From Preceding Audit Report 5
+Findings and Recommendations 6
+Student Financial Aid
+Finding 1 – UMB lacked an independent verification of adjustments 6
+to financial aid awards posted to student accounts, and certain
+employees had incompatible system access capabilities that
+allowed them to both adjust and disburse financial aid awards.
+Finding 2 – There was no independent verification to ensure that all 7
+fund requests for reimbursement of federal financial aid were
+received.
+Student Accounts Receivable
+Finding 3 – Several employees, including some who did not require 7
+the applicable system capabilities for their job duties, could
+process certain student account transactions, such as tuition
+waivers, without independent verification.
+Purchases and Disbursements
+Finding 4 – Certain employees were assigned system access 9
+capabilities to process purchase orders and disbursement
+transactions without independent review and approval.
+Interagency Agreement
+Finding 5 – Through an interagency agreement, UMB acquired 10
+certain information technology services totaling $539,000 on
+behalf of the Maryland Longitudinal Data System Center, which
+allowed the Center to avoid using a competitive procurement
+process for those services.
+Payroll
+Finding 6 – UMB did not always use available output reports to 11
+ensure that only valid payroll adjustments were processed.
+3
+
+--- Page 6 ---
+Information Systems Security and Control
+Finding 7 – The UMB network was not sufficiently secured in that 12
+properly configured firewall rules and effective intrusion
+detection prevention system coverage did not exist.
+Finding 8 – UMB procedures were not sufficient for maintaining and 14
+securing numerous workstations against malware.
+Audit Scope, Objectives, and Methodology 16
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The University of Maryland, Baltimore (UMB) provides professional and
+graduate level instruction through its schools of Dentistry, Law, Medicine,
+Nursing, Pharmacy, and Social Work, and its Graduate School. UMB students
+who receive instruction in health care professions obtain clinical experience at
+various health care facilities, including the University of Maryland Medical
+Center, which is a component of the University of Maryland Medical System
+Corporation.
+For the Fall 2015 semester, UMB’s enrollment totaled 6,329 students. UMB’s
+budget is funded by unrestricted revenues, such as tuition and student fees, a State
+general fund appropriation, and restricted revenues, such as federal grants and
+contracts. According to the State’s records, fiscal year 2015 revenues totaled
+approximately $1.05 billion, which included a State general fund appropriation of
+$199.1 million. These records also indicated that UMB’s expenditures for fiscal
+year 2015 totaled approximately $1.05 billion.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the seven findings
+contained in our preceding audit report dated April 8, 2013. We determined that
+UMB satisfactorily addressed these findings.
+5
+
+--- Page 8 ---
+Findings and Recommendations
+Student Financial Aid
+Finding 1
+The University of Maryland, Baltimore (UMB) lacked an independent
+verification of adjustments to financial aid awards posted to student
+accounts, and certain employees had incompatible system access capabilities
+that allowed them to both adjust and disburse financial aid awards.
+Analysis
+Sufficient controls were not established to ensure the propriety of financial aid
+posted to student accounts. According to UMB’s records, during fiscal year 2015,
+financial aid awarded to students, including grants and scholarships, totaled
+approximately $138 million.
+Adjustments to financial aid award amounts were not independently verified for
+propriety. UMB’s financial aid system automatically calculates award amounts
+and generates recommended financial aid award packages for students based on
+various eligibility criteria. UMB employees may manually record adjustments to
+those award amounts based on individual student situations, such as when a
+student drops classes and may no longer be eligible for the original award amount.
+However, these adjustments were not subject to independent supervisory review
+and approval, using available output reports, to ensure their propriety.
+Additionally, seven employees responsible for manually recording adjustments to
+financial aid awards in student accounts also had system access capabilities that
+allowed them to release (disburse) the aid even though these capabilities were not
+necessary to perform their job duties.
+Recommendation 1
+We recommend that UMB
+a. use available output reports to independently verify that all adjustments
+to financial aid were proper, and
+b. eliminate incompatible user capabilities so that the same individual
+cannot both adjust and release (disburse) financial aid.
+6
+
+--- Page 9 ---
+Finding 2
+There was no independent verification to ensure that all fund requests for
+reimbursement of federal financial aid were received.
+Analysis
+UMB did not have an adequate process to ensure that funds were deposited in the
+State’s bank account for all requests to the federal government for reimbursement
+of financial aid. UMB received federal financial aid for student grants and loans
+totaling approximately $122 million for the 2014-2015 academic year, primarily
+from the United States Department of Education (USDOE).
+An independent employee did not use available output reports of federal financial
+aid funds requested to verify that all requested funds were received and deposited
+into the State’s bank account. This procedure is a particularly important control
+based on representations we received from the USDOE regarding the
+requirements for changing the bank account into which requested funds are
+deposited. In this regard, USDOE’s procedures and documentation requirements
+would allow the employee responsible for requesting federal financial aid to
+redirect the funds to be deposited into a different bank account. Accordingly,
+there was a lack of assurance that all funds due to UMB were received and
+deposited into the State’s account.
+Recommendation 2
+We recommend that an employee independent from the process of requesting
+federal financial aid use available automated reports of requests made to
+verify that all requested funds were properly deposited into the State’s bank
+account.
+Student Accounts Receivable
+Finding 3
+Several employees, including some who did not require the applicable system
+capabilities for their job duties, could process certain transactions, such as
+tuition waivers, without independent verification.
+Analysis
+Controls over critical transactions posted to student accounts in UMB’s automated
+system were not sufficient. Several employees processed these transactions
+without independent verification of their propriety, and other employees had
+system access capabilities that allowed them to process certain of these
+7
+
+--- Page 10 ---
+transactions even though they did not require these capabilities to perform their
+job duties.
+Several employees responsible for processing tuition waivers, making and
+recording residency determinations, writing off delinquent student accounts, or
+removing system holds from student accounts that were intended to prevent
+students with delinquent accounts from registering for classes could do so without
+independent verification of the transactions. Automated output reports of these
+transactions either were not generated or were not used in a manner that provided
+for an adequate independent verification. For example, the employee responsible
+for verifying the propriety of tuition waivers posted to student accounts could also
+record the waivers. Consequently, there was a lack of assurance that all tuition
+waivers, which totaled approximately $3.1 million for the Fall 2014 and Spring
+2015 semesters, were valid.
+In addition, 11 employees had system access capabilities that allowed them to
+write-off student account balances or modify student residency status even though
+they did not require these capabilities to perform their job duties.
+During the 2014-2015 academic year, student account charges totaled
+approximately $145.2 million. Each of the aforementioned transactions could
+significantly affect a student’s account balance and, therefore, must be adequately
+controlled.
+Recommendation 3
+We recommend that UMB
+a. establish procedures, including the use of available output reports, to
+independently verify the propriety of critical transactions posted to
+student accounts; and
+b. remove the aforementioned unnecessary employee system access
+capabilities.
+8
+
+--- Page 11 ---
+Purchases and Disbursements
+Finding 4
+Certain employees were assigned system access capabilities to process
+purchase orders and disbursement transactions without independent review
+and approval.
+Analysis
+UMB did not establish adequate controls over certain purchasing and
+disbursement transactions processed in its automated system. As a result,
+unauthorized transactions could be processed that may not be readily detected.
+ Eighteen employees had been assigned system access capabilities that allowed
+them to process purchase orders that were not subject to independent review
+and approval. In lieu of an on-line approval process, UMB’s procedures
+required these users to submit a paper copy of purchase orders that exceeded a
+specified dollar amount to their supervisors for review. However, output
+reports were not generated and used to ensure that all applicable purchase
+orders were subject to this independent review and approval process. UMB
+processed purchase orders during fiscal year 2015 totaling approximately
+$113.5 million.
+ Two employees had been assigned system access capabilities that allowed
+them to process certain types of disbursement transactions, such as
+honorariums and stipends, and release the transactions to the Comptroller of
+Maryland’s General Accounting Division for payment without further
+automated or manual review and approval. According to UMB’s records,
+these two employees processed disbursements totaling approximately
+$404,000 and $95,000, respectively, for these types of transactions during the
+period July 1, 2012 through June 30, 2015.
+Recommendation 4
+We recommend that UMB ensure that all purchase orders in excess of the
+dollar amounts specified by UMB and all disbursement transactions are
+subject to independent review and approval.
+9
+
+--- Page 12 ---
+Interagency Agreement
+Finding 5
+Through an interagency agreement, UMB acquired certain information
+technology services totaling $539,000 on behalf of the Maryland Longitudinal
+Data System Center, which allowed the Center to avoid using a competitive
+procurement process for those services.
+Analysis
+UMB acquired certain information technology services for the Maryland
+Longitudinal Data System Center through an existing interagency agreement
+between UMB and the Center, allowing the Center to avoid using a competitive
+procurement process for those services. UMB’s interagency agreement and
+related contract extensions with the Center were for research services and covered
+the period from July 1, 2013 to June 30, 2016 at a total cost of approximately $1.2
+million for the three years. However, the Center and UMB improperly used the
+agreement to procure additional services from third-party vendors, and oversight
+of the vendors remained under the control of the Center.
+Specifically, through the interagency agreement, the Center requested UMB to
+contract with two vendors to obtain the services of two specific individuals for
+information technology services during the period from July 2014 to March 2016,
+at a cost of approximately $539,000. The interagency agreement was amended to
+support these additional costs and services. Additionally, UMB’s agreement with
+the Center included a facilities and administrative fee, ranging from 10 to 15
+percent that UMB added to its billings to the Center, even though UMB did not
+exercise any contractual responsibilities other than procuring the contracts and
+processing related payments to the companies. Specifically, the daily supervision
+and monitoring of the individuals and companies, including assigning tasks and
+ensuring that defined responsibilities were fulfilled, was performed by the Center.
+The Center provided UMB with a sole source explanation that stated that the
+requested individuals had previously worked as contractors on the initial
+development of the Center’s information technology system. However, this
+explanation did not justify why no other vendor could provide the services nor did
+it explain why the Center needed UMB to conduct the hiring. Furthermore, UMB
+did not provide prior notification of the sole source procurements to the
+University System of Maryland (USM) Office as required. USM Procurement
+Policies and Procedures requires prior notification be given in writing for any
+sole source procurement exceeding $100,000.
+10
+
+--- Page 13 ---
+UMB believes that the contracted services were within the scope of work for the
+interagency agreement because the data provided by the information system was
+used for the research covered by the agreement and, therefore, it was justified in
+acquiring these services on behalf of the Center. However, the specific contracted
+services were beyond what was anticipated in the original scope of work and the
+work was performed for, and directed by, the Center and not UMB. UMB also
+advised that the proposed contract amounts were evaluated and considered to be
+reasonable. However, because these services were obtained under an interagency
+agreement between State agencies, the Center avoided using a competitive
+procurement process and obtaining control agency approval for the procurements
+as required by State procurement regulations. Accordingly, assurance was
+lacking that these services were obtained at the most advantageous cost to the
+State. We confirmed with staff at the Board of Public Works that the use of an
+interagency agreement to procure these contractual services was not appropriate.
+Recommendation 5
+We recommend that UMB
+a. discontinue using interagency agreements which enable another agency to
+avoid a competitive procurement process; and
+b. notify the USM Office of all sole source procurements in excess of
+$100,000, including the aforementioned contracts, as required.
+Payroll
+Finding 6
+UMB did not always use available output reports to ensure that only valid
+adjustments to its payroll were processed.
+Analysis
+Available output reports were not always being reviewed to ensure that only
+authorized payroll adjustments, such as payments for overtime and accumulated
+leave, were processed by UMB’s payroll department. Each pay period, UMB
+submitted its approved payroll to the University of Maryland, College Park
+(UMCP) to be forwarded to the State’s Central Payroll Bureau (CPB) for final
+processing. Although output reports of payroll processed by CPB were available,
+not all UMB departments used these reports to verify that only approved payroll
+adjustments were processed. Our review of procedures in place at five
+departments disclosed three, with 1,168 employees, that were not using the output
+reports for verification purposes.
+11
+
+--- Page 14 ---
+According to UMB’s records, the University had 6,743 regular employees as of
+October 2015. According to the State’s records, UMB’s payroll expenditures
+totaled approximately $741.3 million for fiscal year 2015.
+Recommendation 6
+We recommend that UMB establish procedures requiring independent
+review and approval of the payroll output reports subsequent to CPB
+processing for all departments to ensure that only properly approved payroll
+adjustments were processed by UMB’s payroll department.
+Information Systems Security and Control
+Background
+UMB’s Center for Information Technology Services (CITS) provides information
+technology support to UMB, including its six professional schools, its graduate
+school, and its administrative and academic units by developing and maintaining
+University-wide administrative applications, such as the student information
+management system and the financial system.
+CITS also operates UMB’s campus-wide network, which is used for both
+administrative and academic purposes, with connections to numerous buildings on
+the UMB campus. The internal network has Internet connectivity and network
+connections to USM institutions over the Maryland Research and Education
+Network. In addition, the campus network is connected to the networks of several
+affiliated entities (for example, the University of Maryland Medical System
+Corporation). The internal network includes a perimeter firewall and redundant
+firewalls at the core of the network to logically segment administrative portions of
+the campus network from untrusted network segments (for example, student
+computer labs and private companies leasing space from the University). CITS
+personnel maintain the aforementioned UMB perimeter and core firewalls.
+Finding 7
+The UMB network was not sufficiently secured in that properly configured
+firewall rules and effective intrusion detection prevention system coverage
+did not exist.
+Analysis
+The UMB network was not sufficiently secured in that properly configured
+firewall rules and effective intrusion detection prevention system coverage did not
+exist.
+12
+
+--- Page 15 ---
+ The core firewalls contained 4,433 rules allowing access to the internal
+network from various sources which were not used by any network traffic for
+an extended period of time (139 days at the time of our test work). These
+rules allowed access to the UMB internal network by certain untrusted parties,
+including students, and allowed access to critical servers supporting the
+student information management system and financial system. Firewall rules
+allowing access to the UMB internal network which remain unused and
+unnecessary for extended periods of time represent a security risk to the UMB
+network which could be exploited to attack critical devices and systems. The
+USM IT Security Standards states that firewalls should be configured to block
+all services not required and disable unused ports, and hide and prevent direct
+accessing of trusted network addresses from untrusted networks.
+ Effective intrusion detection prevention system (IDPS) coverage for encrypted
+network traffic received from untrusted parties did not exist. Specifically, the
+UMB network-based IDPS devices did not have the capability to decrypt
+encrypted traffic and the host-based intrusion detection prevention software
+(HIPS) installed on 123 servers was not properly used to address exploits in
+encrypted traffic. The absence of effective IDPS coverage for encrypted
+traffic created a network security risk as such traffic could contain malicious
+exploits which are not detected or dropped. According to the National
+Institute of Standards Guide to Intrusion Detection and Prevention Systems,
+complete IDPS coverage includes the use of a properly-configured, network-
+based IDPS that decrypts and analyzes encrypted traffic, and/or the effective
+use of a HIPS on critical servers, to aid significantly in the detection and
+prevention of, and response to, potential network security breaches and
+attacks.
+ Network traffic originating from numerous untrusted sources (for example,
+the University of Maryland Medical System Corporation) on the UMB
+campus-wide network to over 100 UMB administrative network segments (for
+example, the Finance Division) was not subject to the UMB network-based
+IDPS protection. In addition, the aforementioned HIPS coverage for any of
+this traffic was deemed to be ineffective. Therefore, there was no effective
+IDPS coverage for this network traffic. The aforementioned IT Security
+Standards states that institutions must establish automated and manual
+processes for intrusion detection and/or prevention.
+13
+
+--- Page 16 ---
+Recommendation 7
+We recommend that UMB
+a. perform periodic documented reviews of its firewall rules to ensure that
+only necessary rules remain active and delete/disable rules based on these
+reviews; and
+b. perform a documented review and assessment of its network security
+risks, identify how IDPS and/or HIPS coverage should be best applied to
+its network, and implement this coverage for traffic (including encrypted
+traffic) from all untrusted parties.
+Finding 8
+UMB procedures were not sufficient for maintaining and securing numerous
+workstations against malware.
+Analysis
+Procedures were not sufficient for maintaining and securing numerous UMB
+workstations against malware.
+ Certain workstations were configured with users having administrative rights.
+Administrative rights are the highest permission level that can be granted and
+allow users to install software and change configuration settings. Our test of
+206 workstations disclosed that 14 employees’ user accounts (other than
+system and network administrators) were defined with administrative rights
+rather than with user rights. As a result, if the workstations used by accounts
+with administrative rights were infected with malware, the malware would run
+with administrative rights and expose these workstations to a greater risk of
+compromise than if the workstations’ user accounts operated with only user
+rights.
+ Certain workstations tested had not been updated with the latest releases for
+software products that are known to have significant security-related
+vulnerabilities. Although the vendors for these software products frequently
+provide software patches to address these vulnerabilities, UMB had not
+updated all of its computers for these patches. For example, of 10 computers
+tested for one of these software products, we noted that 7 computers were
+running older versions of this software that had not been updated for periods
+ranging from 2 to 57 months.
+ UMB did not effectively use application restriction software on over 1,000
+CITS maintained workstations. Such software can restrict unauthorized
+applications from executing on workstations in an effort to protect these
+14
+
+--- Page 17 ---
+workstations from malware (such as ransomware). Specifically, UMB
+personnel advised us that application restriction software was installed on only
+173 of the CITS maintained workstations but was not configured to restrict
+unauthorized applications from executing on these workstations. The United
+States Computer Emergency Readiness Team recommends that application
+restriction software be used to protect computer networks from ransomware.
+The USM IT Security Standards states that institutions must install software to
+protect systems from malicious programs such as viruses, trojans, and worms.
+Recommendation 8
+We recommend that UMB
+a. ensure that administrator rights on workstations are restricted to only
+those individuals requiring such rights;
+b. promptly install all critical security-related software updates on its
+computers; and
+c. develop, implement, and enforce an application restriction software
+policy that properly protects CITS maintained workstations.
+15
+
+--- Page 18 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the University System of
+Maryland (USM) – University of Maryland, Baltimore (UMB) for the period
+beginning September 7, 2011 and ending June 30, 2015. The audit was conducted
+in accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine UMB’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included purchases and disbursements, student accounts
+receivable, cash receipts, information systems security and control, payroll,
+working funds, student financial aid, and corporate purchasing cards. We also
+determined the status of the findings contained in our preceding audit report.
+Our audit included support services provided by UMB to certain other USM
+institutions (such as processing certain construction vendor payments). Our audit
+did not include certain support services provided to UMB by the USM Office.
+These support services (such as bond financing) are included within the scope of
+our audit of the USM Office. In addition, our audit did not include an evaluation
+of internal controls over compliance with federal laws and regulations for federal
+financial assistance programs and an assessment of UMB’s compliance with those
+laws and regulations because the State of Maryland engages an independent
+accounting firm to annually audit such programs administered by State agencies,
+including the components of the USM.
+To accomplish our objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+UMB’s operations, and tests of transactions. Generally, transactions were
+selected for testing based on auditor judgment, which primarily considers risk.
+Unless otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+16
+
+--- Page 19 ---
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as expenditure data) and the
+State’s Central Payroll Bureau (payroll data), as well as from the contractor
+administering the State’s Corporate Purchasing Card Program (credit card
+activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+various sources were sufficiently reliable for the purposes the data were used
+during this audit. We also extracted data from UMB’s financial systems for the
+purpose of testing certain areas, such as financial aid and student accounts
+receivable. We performed various tests of the relevant data and determined that
+the data were sufficiently reliable for the purposes the data were used during the
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+UMB’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect UMB’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to UMB that did not warrant inclusion in this report.
+17
+
+--- Page 20 ---
+The response from the USM Office, on behalf of UMB, to our findings and
+recommendations is included as an appendix to this report. As prescribed in the
+State Government Article, Section 2-1224 of the Annotated Code of Maryland,
+we will advise the USM Office regarding the results of our review of its response.
+18
+
+--- Page 22 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE
+SEPTEMBER 7, 2011 TO JUNE 30, 2015
+Student Financial Aid
+Finding 1
+The University of Maryland, Baltimore (UMB) lacked an independent
+verification of adjustments to financial aid awards posted to student
+accounts, and certain employees had incompatible system access capabilities
+that allowed them to both adjust and disburse financial aid awards.
+Recommendation 1
+We recommend that UMB
+a. use available output reports to independently verify that all adjustments
+to financial aid were proper, and
+b. eliminate incompatible user capabilities so that the same individual
+cannot both adjust and release (disburse) financial aid.
+University response
+We agree with the recommendation.
+a. Procedures were implemented during the audit requiring documented
+supervisory review and approval of manual financial aid award adjustments
+prior to the entry of the adjustment into the system. Additionally, the daily
+output report of financial aid disbursements is reviewed, and the review is
+documented, by an independent employee who does not have the capability to
+modify and disburse financial aid awards in the system. For FY 15, total
+manual financial aid award adjustments processed were $620,460.
+b. Incompatible user capabilities were eliminated during the audit, so the same
+individual cannot both adjust and disburse financial aid awards to student
+accounts.
+Finding 2
+There was no independent verification to ensure that all fund requests for
+reimbursement of federal financial aid were received.
+Recommendation 2
+We recommend that an employee independent from the process of requesting
+federal financial aid use available automated reports of requests made to
+verify that all requested funds were properly deposited into the State’s bank
+account.
+
+--- Page 23 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE
+SEPTEMBER 7, 2011 TO JUNE 30, 2015
+University response
+The procedure for requesting federal financial aid is tightly controlled at UMB,
+with just three employees (one primary and two backup) authorized in the federal
+system to execute financial aid draws. A verification was regularly performed to
+ensure that authorized draws were deposited, but as the State Treasurer’s Office
+(STO) also informed us, we believed that there were verification procedures in
+place at the United States Department of Education (USDOE) that would have
+precluded one of those employees from executing draws to any account other than
+the State’s bank account. When the weakness identified in this finding was
+brought to our attention, we instituted an additional independent verification that
+will also ensure that all draws identified in the federal funds request system were
+deposited to the authorized State bank account. So, although we agree to
+implement the recommendation, the best this additional work will provide is
+another detective control. To create a preventative control, the auditor should
+instruct the STO to establish a restriction with the USDOE that would prevent any
+State agency or institution of higher education from changing the bank account to
+which federal funds are directed unless the STO has first authorized such a
+change.
+Student Accounts Receivable
+Finding 3
+Several employees, including some who did not require the applicable system
+capabilities for their job duties, could process certain transactions, such as
+tuition waivers, without independent verification.
+Recommendation 3
+We recommend that UMB
+a. establish procedures, including the use of available output reports, to
+independently verify the propriety of critical transactions posted to
+student accounts; and
+b. remove the aforementioned unnecessary employee system access
+capabilities.
+University response
+We agree with the recommendation.
+a. UMB has established procedures to ensure that the propriety of critical
+transactions posted to student accounts is now verified by someone who
+does not have the ability to process such transactions. Output reports are
+
+--- Page 24 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE
+SEPTEMBER 7, 2011 TO JUNE 30, 2015
+being used where they are available. Where output reports are not already
+available, they are being created to aid in the independent verifications.
+b. UMB has removed the unnecessary employee system access capabilities
+via system enhancements to limit access points on certain critical screens.
+Purchases and Disbursements
+Finding 4
+Certain employees were assigned system access capabilities to process
+purchase orders and disbursement transactions without independent review
+and approval.
+Recommendation 4
+We recommend that UMB ensure that all purchase orders in excess of the
+dollar amounts specified by UMB and all disbursement transactions are
+subject to independent review and approval.
+University response
+We agree with the recommendation. For the processing of purchase orders, we
+will evaluate the capabilities that exist within our automated financial system and
+determine if an output report can be generated and used to ensure that all purchase
+orders in excess of specified dollar thresholds are subject to independent review
+and approval. Additionally, for the processing of the specific types of
+disbursement transactions questioned, which represents less than one percent of
+the total disbursements processed by the two employees, we removed the
+employees’ voucher release abilities before audit fieldwork was completed.
+Therefore, all voucher batches that they create are subject to an independent
+review and approval before submission for payment.
+Interagency Agreement
+Finding 5
+Through an interagency agreement, UMB acquired certain information
+technology services totaling $539,000 on behalf of the Maryland Longitudinal
+Data System Center, which allowed the Center to avoid using a competitive
+procurement process for those services.
+
+--- Page 25 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE
+SEPTEMBER 7, 2011 TO JUNE 30, 2015
+Recommendation 5
+We recommend that UMB
+a. discontinue using interagency agreements which enable another agency to
+avoid a competitive procurement process; and
+b. notify the USM Office of all sole source procurements in excess of
+$100,000, including the aforementioned contracts, as required.
+University response
+a. The interagency agreement with the Maryland Longitudinal Data System
+Center (MLDSC), which has been in place for several years, established
+UMB as the collaborative research and policy services branch of the
+MLDSC for the purpose of conducting research and analysis as required
+by a United States Department of Education grant to the Maryland State
+Department of Education (MSDE). At the core of the federal grant funded
+research, was a need to develop an information technology system to
+collect and organize the data that UMB was to analyze. The services to
+create that system were originally procured by MSDE on behalf of
+MLDSC, but were not completed. Since a complete system was needed
+for UMB to analyze the data, and since the sole source request from the
+UMB principal investigator was to procure the services of the contractors
+who had developed the system thus far, UMB evaluated the request and
+determined that it fit the criteria for a sole source procurement under the
+existing agreement. It was clear that the contractors had unique
+qualifications to complete a system that they themselves had developed
+and that a fully functioning system was necessary to carry out the
+requirements of the existing interagency agreement. UMB will continue
+to follow the instructions provided by the Department of Budget and
+Management regarding interagency agreements and USM Procurement
+Policies and Procedures when evaluating procurement requests under
+interagency agreements. MLDSC, as stated in response to the same
+finding taken in their audit report, stated that they would no longer procure
+vendor services under interagency agreements. The system is fully
+developed and operational and the contractors’ services ended as of June
+30, 2016.
+b. We agree to notify the Vice Chancellor for Administration and Finance,
+University System of Maryland, of sole source procurements in
+accordance with the USM Procurement Policies and Procedures.
+
+--- Page 26 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE
+SEPTEMBER 7, 2011 TO JUNE 30, 2015
+Payroll
+Finding 6
+UMB did not always use available output reports to ensure that only valid
+adjustments to its payroll were processed.
+Recommendation 6
+We recommend that UMB establish procedures requiring independent
+review and approval of the payroll output reports subsequent to CPB
+processing for all departments to ensure that only properly approved payroll
+adjustments were processed by UMB’s payroll department.
+University response
+We agree with the recommendation. Procedures have been revised to require all
+departments to compare the preliminary and final payroll report (i.e., cost center
+report/payroll register) to verify that only properly approved payroll adjustments
+were processed by UMB’s payroll department.
+Information Systems Security and Control
+Finding 7
+The UMB network was not sufficiently secured in that properly configured
+firewall rules and effective intrusion detection prevention system coverage
+did not exist.
+Recommendation 7
+We recommend that UMB
+a. perform periodic documented reviews of its firewall rules to ensure that
+only necessary rules remain active and delete/disable rules based on these
+reviews; and
+b. perform a documented review and assessment of its network security
+risks, identify how IDPS and/or HIPS coverage should be best applied to
+its network, and implement this coverage for traffic (including encrypted
+traffic) from all untrusted parties.
+
+--- Page 27 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE
+SEPTEMBER 7, 2011 TO JUNE 30, 2015
+University response
+We agree with the recommendation.
+a. UMB will perform periodic reviews of the firewall rules, evaluate the
+rules, and appropriately delete rules to ensure that only necessary and
+properly constructed rules remain active. These reviews are documented
+and retained for future reference in accordance with UMB’s Firewall
+Review Procedure.
+b. UMB completed an assessment of network security risks relative to the
+UMB WAN’s third party network traffic flowing to critical systems and
+has purchased and implemented a state-of-the-art next generation firewall.
+The new firewall provides an additional intrusion detection prevention
+system (IDPS) that expands network-based coverage and serves as another
+layer of network security, and will enable inspection of SSL traffic to
+critical systems.
+Finding 8
+UMB procedures were not sufficient for maintaining and securing numerous
+workstations against malware.
+Recommendation 8
+We recommend that UMB
+a. ensure that administrator rights on workstations are restricted to only
+those individuals requiring such rights;
+b. promptly install all critical security-related software updates on its
+computers; and
+c. develop, implement, and enforce an application restriction software
+policy that properly protects CITS maintained workstations.
+University response
+We agree with the recommendation.
+a. UMB policy restricts administrative rights on workstations for non-IT
+related employees. UMB will ensure that administrator rights on
+workstations are restricted to only those individuals requiring such rights.
+b. UMB will continue to apply the latest patches and updates to ensure that
+workstations are kept up-to-date, and investigate solutions when updates
+are incompatible with a critical business software application.
+c. UMB is in the process of implementing application restriction software to
+prevent unauthorized software from executing.
+
+--- Page 28 ---
+A T
+UDIT EAM
+Mark S. Hagenbuch, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+David O. Mauriello, CPA
+Robert A. Wells, CPA
+Senior Auditors
+Eric Alexander, CPA, CISA
+R. Brendan Coffey, CPA, CISA
+Information Systems Senior Auditors
+Joseph J. Burke, III
+Lindsay M. Fertig, CPA
+Kathryn A. Jones
+Aleksandr T. Strack
+Staff Auditors
+Steven D. Bryant
+Matthew D. Walbert, CISA
+Information Systems Staff Auditors
