@@ -1,0 +1,587 @@
+Title: Maryland Department of Health - Medical Care Programs Administration - Administrative Service Organization for Behavioral Health Services
+
+
+NOTE: OLA conducts separate audits of Medical Care Programs Administration (MCPA) operations. The scope of this audit included MCPA’s fiscal activities with respect to monitoring the Behavioral Health Administration’s (BHA) Administrative Service Organization (ASO). The ASO is responsible for providing benefit management services for the Public Behavioral Health System operated by BHA.
+Date: 01/13/2020
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5e1e06aca1ce58135032e337
+Extracted: 2025-06-19T06:24:15.800210
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Health
+Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+January 2020
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Shelly L. Hettleman (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Mark S. Chang
+Senator George C. Edwards Delegate Keith E. Haynes
+Senator Katie Fry Hester Delegate Michael A. Jackson
+Senator Cheryl C. Kagan Delegate David Moon
+Senator Benjamin F. Kramer Delegate April R. Rose
+Senator Cory V. McCray Delegate Geraldine Valentino-Smith
+Senator Justin D. Ready Delegate Karen Lewis Young
+Senator Craig J. Zucker One Vacancy
+To Obtain Further Information
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 ꞏ 301-970-5900 ꞏ 1-877-486-9964 (Toll Free in Maryland)
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities and Audit Scope 4
+Administrative Service Organization (ASO) 4
+Status of Findings From Preceding Audit Report 5
+Findings and Recommendations 6
+Behavioral Health Service Authorizations
+Finding 1 – The Medical Care Programs Administration (MCPA) did 6
+not ensure that the ASO properly authorized behavioral health
+services and that the bases for the authorizations were adequately
+documented.
+Provider Audits
+ Finding 2 – MCPA did not direct the ASO to recover certain provider 7
+overpayments identified during audits, did not ensure the ASO
+recovered overpayments once directed to do so, and did not ensure
+that deficiencies identified by provider audits were corrected.
+Provider Payments
+Finding 3 – MCPA did not have a process to verify that adjustments to 8
+provider payments processed by the ASO were proper.
+Information Systems Security and Control
+Finding 4 – Intrusion detection prevention system coverage did not exist 9
+for encrypted traffic, and sensitive personally identifiable information
+was stored without adequate safeguards.
+Audit Scope, Objectives, and Methodology 11
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities and Audit Scope
+The Medical Care Programs Administration (MCPA) of the Maryland
+Department of Health (MDH) operates under both Title XIX of the federal Social
+Security Act (Medicaid) and State law. Medicaid is a joint federal and state
+entitlement program for low-income individuals. The program is administered by
+the states, which are required to provide healthcare coverage to all applicants who
+meet the program’s eligibility criteria.
+MCPA and the Behavioral Health Administration (BHA) of MDH work together
+to provide behavioral health services to the citizens of Maryland. Specifically,
+BHA serves as the State’s behavioral health authority and operates the Public
+Behavioral Health System to provide mental health and substance-related disorder
+services. MCPA contracts with an Administrative Service Organization (ASO)
+that is responsible for providing benefit management services for the System.
+MCPA also monitors and accounts for the activities of the ASO.
+The scope of this audit included MCPA’s monitoring of the ASO contract
+deliverables, claims processing (including denied claims), provider audits, and
+information systems security. Separate audits are conducted of MCPA’s primary
+functions (such as recipient eligibility, long-term care, and hospital services),
+Managed Care Organizations, and pharmacy programs.
+Administrative Service Organization
+The ASO is responsible for ensuring behavioral ASO Benefit Services Duties
+health recipient eligibility, authorizing recipient
+•Review service requests from providers
+services, paying provider claims, and performing
+and authorize services that are medically
+oversight of providers to ensure the propriety and necessary.
+accuracy of claims and related services. The •Receive, adjudicate, and approve
+behavioral health claims submitted through
+current ASO contract spans three years
+its electronic claims processing system.
+beginning on January 1, 2015, with two
+•Pay providers using State-funded bank
+additional one-year options, both of which were accounts.
+exercised. The ASO contract’s cumulative value •Process claims eligible for federal
+reimbursement in the Medicaid
+(including option years) totals approximately
+Management Information System.
+$93.2 million. The contract value includes a
+•Conduct provider audits to ensure services
+monthly administrative fee for each recipient billed complied with applicable laws and
+who is eligible to receive behavioral health regulations and recover any improper
+payments.
+services.
+4
+
+--- Page 7 ---
+According to State records, during fiscal year 2018, behavioral health claims
+disbursements made by the ASO from two State-funded bank accounts totaled
+$1.4 billion. The vast majority of these claims were eligible for federal fund
+participation (reimbursement) which is normally at least 50 percent of the amount
+paid.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of 3 of the 15 findings
+contained in our preceding audit report of MCPA dated August 18, 2017. As
+disclosed in the following table, we determined that MCPA satisfactorily
+addressed 2 of these 3 findings. The remaining finding is repeated in this report.
+Our audit did not include a review of 12 findings contained in our preceding
+MCPA audit report that related to MCPA’s primary functions and managed care
+organizations that are included in our separate MCPA audits.
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+MCPA did not monitor the ASO to ensure that deficiencies
+Repeated
+Finding 9 noted during provider audits conducted by the ASO were
+(Current Finding 2)
+corrected and related overpayments were recovered.
+MCPA did not ensure the ASO resolved rejected behavioral
+Finding 10 health claims timely, resulting in the payment of potentially Not repeated
+improper claims and the loss of federal fund reimbursements.
+Access controls over the ASO’s servers hosting the portal and
+the web-server software were inadequate, intrusion detection
+Finding 11 prevention system coverage did not exist for encrypted traffic, Not repeated
+and sensitive personally identifiable information was stored
+without adequate safeguards.
+5
+
+--- Page 8 ---
+Findings and Recommendations
+Behavioral Health Service Authorizations
+Finding 1
+The Medical Care Programs Administration (MCPA) did not ensure that the
+Administrative Service Organization (ASO) properly authorized behavioral
+health services and that the bases for the authorizations were adequately
+documented.
+Analysis
+MCPA did not ensure that the ASO properly authorized behavioral health services
+and that the bases for the authorizations were adequately documented. MCPA
+management advised us that Behavioral Health Administration (BHA) personnel
+conducted annual audits of the ASO as a means to verify the propriety of its
+behavioral health services authorizations. However, our review disclosed that
+these audits were not routinely performed.
+Specifically, only one ASO audit was conducted since July 2015. This audit,
+conducted in April 2017, reviewed authorizations made by the ASO during
+calendar year 2016. While we were advised that BHA planned to conduct an
+audit of calendar year 2018 authorizations, the audit had not been initiated as of
+July 29, 2019, and there was no plan to audit the 2017 authorizations. According
+to MCPA management, annual audits had not been conducted due to turnover of
+the BHA personnel responsible for supervising the audits.
+This failure to audit the ASO’s behavioral health services authorizations is
+significant because the April 2017 audit identified certain authorized services that
+were not appropriate for the clients’ diagnoses, resulting in clients being placed in
+inappropriate levels of care. The audit also identified certain authorizations that
+lacked appropriate documentation, such as that necessary to support client
+symptoms and the reasons services were authorized. We could not readily
+determine whether the improper service authorizations resulted in any
+overpayments to providers.
+Recommendation 1
+We recommend that MCPA ensure that the ASO properly authorized
+behavioral health services and that the bases for the authorizations were
+adequately documented. Specifically, we recommend that MCPA ensure
+that
+a. BHA personnel conduct audits of the ASO at least annually, and
+6
+
+--- Page 9 ---
+b. appropriate corrective action is taken to address deficiencies identified by
+these audits.
+Provider Audits
+Finding 2
+MCPA did not direct the ASO to recover certain provider overpayments
+identified during audits, did not ensure the ASO recovered overpayments
+once directed to do so, and did not ensure that deficiencies identified by
+provider audits were corrected.
+Analysis
+MCPA did not direct the ASO to recover certain provider overpayments identified
+during provider audits performed by the ASO, did not ensure that the ASO
+recovered overpayments once directed to do so, and did not ensure that
+deficiencies identified by the audits were corrected. In accordance with the
+contract, the ASO conducted 300 provider audits each year, which is MCPA’s
+primary means of validating the behavioral health claims. Provider audits
+routinely identified deficiencies in claims submitted and overpayments to
+providers.
+ MCPA failed to follow its procedure to direct the ASO to recover certain
+overpayments totaling approximately $35,000 identified during provider
+audits that we tested. The ASO notified BHA of the results of the audits,
+including any overpayments identified. BHA was responsible for reviewing
+the audit results to determine if additional corrective action was warranted,
+and to inform the providers that overpayments would be recovered by
+reducing future payments. BHA then notified MCPA, which was responsible
+for directing the ASO to recover the overpayments. However, our test of 10
+provider audits conducted by the ASO disclosed that, for 5 audits completed
+during the period between February and September 2018, MCPA did not
+direct the ASO to recover approximately $35,000 in improper claims. After
+our inquiries in February 2019, the overpayments were recovered between 4
+and 11 months after the related provider audits were completed.
+ When MCPA did direct the ASO to recover provider overpayments, it did not
+obtain sufficient documentation from the ASO to verify that recoveries
+actually occurred. Specifically, MCPA relied on emails from the ASO
+confirming that it had processed the recoveries and did not obtain supporting
+documentation to evidence the actual recovery of the funds.
+7
+
+--- Page 10 ---
+ MCPA did not verify that deficiencies identified by the ASO during the
+provider audits were resolved. Providers were required to submit corrective
+action plans to BHA to address significant deficiencies (for example, failure to
+maintain client records in accordance with State regulations) noted during the
+audits. BHA relied on designated county or multi-county authorities, referred
+to as Core Service Agencies and Local Addiction Authorities (generally local
+health departments or private contractors), to review the plans and ensure the
+providers implemented the necessary corrective actions. Neither MCPA nor
+BHA performed any oversight of this process. As a result, there is a lack of
+assurance that the deficiencies were properly resolved.
+Similar conditions regarding MCPA’s failure to ensure provider overpayments
+were recovered and corrective actions were taken were commented upon in
+MCPA’s preceding audit report.
+Recommendation 2
+We recommend that MCPA
+a. timely direct the ASO to recover overpayments identified during audits,
+b. obtain documentation to verify that the ASO recovered the provider
+overpayments (repeat), and
+c. develop a process to monitor the implementation of provider corrective
+action plans to ensure noted deficiencies are properly addressed (repeat).
+Provider Payments
+Finding 3
+MCPA did not have a process to verify that adjustments to provider
+payments processed by the ASO were proper.
+Analysis
+MCPA did not have a process to verify that adjustments to provider payments
+processed by the ASO were proper. The ASO makes adjustments to provider
+payments for a variety of reasons, including to recover overpayments identified
+during the ASO’s audits of providers (as previously detailed in Finding 2) and to
+account for changes in billing rates.
+According to the ASO’s records, which we tested and found to be reliable in the
+aggregate, during the period from July 2015 through December 2018, the ASO
+processed approximately 13,000 adjustments, which resulted in either increasing
+or decreasing the related provider payments, by approximately $35.0 million.
+8
+
+--- Page 11 ---
+Recommendation 3
+We recommend that MCPA establish a process to verify, at least on a test
+basis, that adjustments to provider payments processed by the ASO are
+valid.
+Information Systems Security and Control
+Finding 4
+Intrusion detection prevention system coverage did not exist for encrypted
+traffic, and sensitive personally identifiable information was stored without
+adequate safeguards.
+Analysis
+Intrusion detection prevention system (IDPS) coverage did not exist for encrypted
+traffic, and sensitive personally identifiable information (PII) was stored without
+adequate safeguards.
+ IDPS coverage did not exist for almost all untrusted encrypted traffic entering
+the ASO’s network. Specifically, we determined that IDPS coverage did not
+exist for 71 of 78 internal locations receiving encrypted traffic from untrusted
+sources such as providers. Strong network security uses a layered approach,
+relying on various resources structured according to assessed network security
+risks. Complete IDPS coverage includes, when there is encrypted traffic, the
+use of a network-based IDPS that is supplemented (where necessary) with
+host-based intrusion prevention to aid significantly in the detection/prevention
+of, and response to, potential network security breaches and attacks.
+ The ASO stored sensitive PII, related to Medicaid recipients, without adequate
+safeguards in place. We noted PII related to over 2.7 million and 2.85 million
+unique individuals, stored in two separate storage areas, was at risk.
+The State of Maryland Information Technology Security Manual requires that
+agencies protect against malicious code by implementing solutions including the
+use of IDPS to monitor system events, detect attacks and identify unauthorized
+use of information systems and/or confidential information. The Manual also
+requires agencies to protect confidential data using encryption technologies and/or
+other substantial mitigating controls.
+9
+
+--- Page 12 ---
+Recommendation 4
+We recommend that MCPA require that the ASO
+a. implement necessary IDPS coverage for encrypted traffic entering its
+network, and
+b. require that the ASO implement appropriate safeguards over Medicaid
+recipients’ PII.
+10
+
+--- Page 13 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Department of
+Health (MDH) - Medical Care Program Administration’s (MCPA) fiscal activities
+with respect to monitoring the Behavioral Health Administration’s Administrative
+Service Organization (ASO) for the period beginning July 1, 2015 and ending
+December 31, 2018. The audit was conducted in accordance with generally
+accepted government auditing standards. Those standards require that we plan
+and perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings
+and conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MCPA’s financial
+transactions, records and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included MCPA’s monitoring of the ASO contract
+deliverables, claims processing (including denied claims), provider audits, and
+information systems security. We also determined the status of 3 of the 15
+findings contained in our preceding audit report of MCPA.
+Our audit did not include certain support services provided to MCPA by MDH.
+These support services (such as payroll, purchasing, contract procurement,
+maintenance of accounting records, and related fiscal functions) are included
+within the scope of our audit of the MDH - Office of the Secretary and Other
+Units. In addition, our audit did not include an evaluation of internal controls
+over compliance with federal laws and regulations for federal financial assistance
+programs and an assessment of MCPA’s compliance with those laws and
+regulations because the State of Maryland engages an independent accounting
+firm to annually audit such programs administered by State agencies, including
+MCPA.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel (including certain ASO employees), inspection of
+documents and records, observations of MCPA’s operations, and tests of
+transactions. Generally, transactions were selected for testing based on auditor
+judgement, which primarily considers risk. Unless otherwise specifically
+indicated, neither statistical nor non-statistical audit sampling was used to select
+11
+
+--- Page 14 ---
+the transactions tested. Therefore, the results of the tests cannot be used to project
+those results to the entire population from which the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We performed various tests of the relevant data and
+determined that the data were sufficiently reliable for the purposes the data were
+used during the audit. Finally, we performed other auditing procedures that we
+considered necessary to achieve our objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+MCPA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect MCPA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes a finding regarding a significant instance of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to MCPA that did not warrant inclusion in this
+report.
+The response from MDH, on behalf of MCPA, to our findings and
+recommendations, is included as an appendix to this report. As prescribed in the
+State Government Article, Section 2-1224 of the Annotated Code of Maryland,
+we will advise MDH regarding our review of its response.
+12
+
+--- Page 16 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Behavioral Health Service Authorizations
+Finding 1
+The Medical Care Programs Administration (MCPA) did not ensure that the
+Administrative Service Organization (ASO) properly authorized behavioral health services
+and that the bases for the authorizations were adequately documented.
+We recommend that MCPA ensure that the ASO properly authorized behavioral health
+services and that the bases for the authorizations were adequately documented.
+Specifically, we recommend that MCPA ensure that
+a. BHA personnel conduct audits of the ASO at least annually, and
+b. appropriate corrective action is taken to address deficiencies identified by these audits.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1a Agree Estimated Completion Date: 04/30/20
+Please provide details of MCPA has completed all the annual audits identified as incomplete
+corrective action or in OLA’s report (CY 2015-2018) and has established written
+explain disagreement. standard operating procedure to improve internal work flows and
+ensure proper documentation justifying authorizations processed by
+the ASO. BHA personnel will complete the 2019 ASO audit by April
+30, 2020. MCPA has acquired a new ASO beginning services as of
+January 1, 2020 and will begin conducting annual audits of this new
+vendor’s authorizations by no later than Spring of 2021.
+Additionally, MCPA will utilize the newly established standard
+operating procedure to ensure authorizations are adequately
+justified and appropriately documented moving forward.
+Recommendation 1b Agree Estimated Completion Date: 4/30/20
+Please provide details of MCPA’s completed annual audit reports (CY 2015 -2018) confirmed
+corrective action or the ASO was appropriately authorizing services. In a few instances
+explain disagreement. where medical necessity criteria were in question, MCPA expanded
+the audit scope and ultimately confirmed that the approval of
+services was justified. BHA personnel will complete the 2019 ASO
+Page 1 of 6
+
+--- Page 17 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+audit by April 30, 2020 and take any appropriate action to address
+deficiencies. Moving forward MCPA will complete annual audits as
+required and take appropriate action when deficiencies are
+identified.
+Page 2 of 6
+
+--- Page 18 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Provider Audits
+Finding 2
+MCPA did not direct the ASO to recover certain provider overpayments identified during
+audits, did not ensure the ASO recovered overpayments once directed to do so, and did not
+ensure that deficiencies identified by provider audits were corrected.
+We recommend that MCPA
+a. timely direct the ASO to recover overpayments identified during audits,
+b. obtain documentation to verify that the ASO recovered the provider overpayments
+(repeat), and
+c. develop a process to monitor the implementation of provider corrective action plans to
+ensure noted deficiencies are properly addressed (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2a Agree Estimated Completion Date: 3/31/20
+Please provide details of Since the conclusion of OLA’s audit, MCPA has issued letters of
+corrective action or determination to all providers identified with audit findings and
+explain disagreement. overpayments; and directed the ASO to retract paid claims from
+these providers. MCPA has also made significant staff
+enhancements to monitor the ASO, including hiring a Compliance
+Director specifically responsible for ensuring timely direction to the
+ASO related to the recovery of overpayments. MCPA has confirmed
+collection of all overpayments identified through CY2018 and will
+do the same for CY2019.
+Recommendation 2b Agree Estimated Completion Date: 3/31/2020
+Please provide details of MCPA has confirmed collection of all overpayments identified
+corrective action or through CY2018 and will do the same for CY2019.
+explain disagreement. Based on the information provided during this audit, MDH is also
+implementing a monthly review to confirm the ASO has performed
+the requested retraction. The review includes obtaining payment
+Page 3 of 6
+
+--- Page 19 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+records and testing 5 retractions per month to verify provider
+overpayments have been recovered.
+Recommendation 2c Agree Estimated Completion Date: 03/31/20
+Please provide details of MCPA has modified their audit tracker to include investigation
+corrective action or status updates, authorizations for overpayment recovery from the
+explain disagreement. MDH/OIG and MFCU, retraction request, and status of provider
+appeals. The tracker is monitored and reviewed monthly by MCPA
+and the ASO to provide updates and confirm accuracy.
+Additionally, MCPA issues Performance Improvement Plans (PIPs)
+through Local Behavioral Health Authorities (LBHAs) who have
+direct responsibility for monitoring providers within their
+jurisdictions. MCPA will provide training to LBHAs local systems
+managers on PIPs and audit follow-up processes. The PIPs are
+included in the audit tracker and reviewed monthly by MCPA and
+the ASO. These PIPs include steps to increased audit scope for
+repeated instances of non-compliance and criteria for referrals for
+fraud investigation to the MDH/OIG and/or MFCU.
+Provider Payments
+Finding 3
+MCPA did not have a process to verify that adjustments to provider payments processed
+by the ASO were proper.
+We recommend that MCPA establish a process to verify, at least on a test basis, that
+adjustments to provider payments processed by the ASO are valid.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3 Agree Estimated Completion Date: 03/31/20
+Page 4 of 6
+
+--- Page 20 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Please provide details of MCPA will develop a written standard operating procedure to
+corrective action or verify and validate that adjustments to provider payments processed
+explain disagreement. by the ASO are proper.
+Page 5 of 6
+
+--- Page 21 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Information Systems Security and Control
+Finding 4
+Intrusion detection prevention system coverage did not exist for encrypted traffic, and
+sensitive personally identifiable information was stored without adequate safeguards.
+We recommend that MCPA require that the ASO
+a. implement necessary IDPS coverage for encrypted traffic entering its network, and
+b. require that the ASO implement appropriate safeguards over Medicaid recipients’ PII.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: 03/31/20
+Please provide details of MCPA has selected a new ASO to begin services effective January 1,
+corrective action or 2020. MCPA has required the new ASO to have IDPS coverage for
+explain disagreement. encrypted traffic entering its network. Additionally, the prior ASO’s
+system was upgraded to follow the level of security required through
+CY 2019 until the new ASO begins.
+Recommendation 4b Agree Estimated Completion Date: 03/31/20
+Please provide details of The new ASO is contractually obligated to ensure appropriate
+corrective action or safeguards are in place over Medicaid recipients PII, including
+explain disagreement. ensuring data encryption levels meet requirements. MCPA will
+conduct a review of the new vendor’s PII safeguards in the first 90
+days of the new contract.
+Page 6 of 6
+
+--- Page 22 ---
+A T
+UDIT EAM
+Edward A. Rubenstein, CPA
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Information Systems Audit Manager
+James M. Fowler
+Senior Auditor
+Eric Alexander, CPA, CISA
+J. Gregory Busch, CISA
+Information Systems Senior Auditors
+Stephen R. Alexander
+Jordan T. Duke
+Staff Auditors
