@@ -1,0 +1,1555 @@
+Title: Maryland Health Benefit Exchange
+Date: 05/06/2021
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=609414aca1ce581310dbfcdf
+Extracted: 2025-06-19T11:51:00.407544
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Health Benefit Exchange
+January 2025
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Benjamin T. Brooks, Sr. Delegate Andrea Fletcher Harrison
+Senator Paul D. Corderman Delegate Steven C. Johnson
+Senator Katie Fry Hester Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David H. Moon
+Senator Clarence K. Lam, M.D. Delegate Julie Palakovich Carr
+Senator Cory V. McCray Delegate Emily K. Shetty
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+January 28, 2025
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Health Benefit
+Exchange (MHBE) for the period beginning March 9, 2020 and ending June 30,
+2023. MHBE is primarily responsible for the establishment and operation of the
+Maryland state-based health insurance exchange, which is intended to provide a
+marketplace for individuals, families, and small businesses to purchase affordable
+health coverage as a means to reduce the number of Maryland residents who have
+no health insurance.
+Our audit disclosed that MHBE did not request supporting documentation from
+applicants who reported having zero income when State wage records indicated
+the applicant had income exceeding the Medicaid qualification threshold. Rather,
+MHBE only required these applicants to self-certify that they did in fact have zero
+income when they applied for benefits. Our analysis identified numerous
+individuals which State wage records indicated had income before, during, and
+subsequent to their application that exceeded the income thresholds. For
+example, one applicant self-certified zero income in February 2023 when State
+wage records indicated income totaling $62,400 in each of the quarters ending
+December 2022, March 2023, and June 2023. Based on various factors, including
+the unreported income, the applicant did not qualify for Medicaid.
+Our audit also disclosed that MHBE did not ensure that it used the most current
+income data to verify the reported income submitted by Medicaid applicants. Our
+
+--- Page 4 ---
+test of 30 Medicaid enrollees who submitted an application during our audit
+period identified 10 enrollees for which MHBE’s verification did not use the most
+current income data available, including 2 enrollees that would not have qualified
+for Medicaid if the most current available income data had been used.
+In addition, MHBE did not verify certain applicants’ income against available
+federal tax information which would identify all potential applicant income, such
+as dividend and alimony payments. In addition, MHBE did not always ensure
+that manual overrides of applicant eligibility were independently reviewed and
+approved.
+Furthermore, MHBE did not adequately pursue the collection of $649 million in
+insurance provider fees collected by the Maryland Insurance Administration that
+should have been transferred into the MHBE Fund. In fiscal year 2023, MHBE
+did not transfer $15 million to the Health Equity Resource Community Reserve
+Fund due to a lack of funds. We also noted that MHBE did not always publish
+contract awards and document bid proposal openings.
+Our audit also disclosed cybersecurity-related findings. However, in accordance
+with the State Government Article, Section 2-1224(i) of the Annotated Code of
+Maryland, we have redacted the findings from this audit report. Specifically,
+State law requires the Office of Legislative Audits to redact cybersecurity
+findings in a manner consistent with auditing best practices before the report is
+made available to the public. The term “cybersecurity” is defined in the State
+Finance and Procurement Article, Section 3.5-301(b), and using our professional
+judgment we have determined that the redacted findings fall under the referenced
+definition. The specifics of the cybersecurity findings were previously
+communicated to those parties responsible for acting on our recommendations.
+As further explained on page 9 of this report, our audit scope was limited with
+respect to MHBE’s Medicaid eligibility determination and redetermination
+processes because of restrictions imposed by the federal Internal Revenue Code
+on access to federal tax information as well as MHBE’s application of those
+restrictions to applicant data.
+Finally, our audit included a review to determine the status of the three findings
+contained in our preceding audit report. For the non-cybersecurity-related
+findings, we determined that MHBE did not satisfactorily addressed those two
+findings which are repeated in this report.
+MHBE’s response to this audit is included as an appendix to this report. We have
+edited MHBE’s response to remove certain vendor names or products and links to
+2
+
+--- Page 5 ---
+websites and online documents, as allowed by our policy. Consistent with State
+law, we have redacted the elements of MHBE’s response related to the
+cybersecurity audit findings.
+In accordance with State law, we have reviewed the response, and we identified
+certain instances in which statements in the response conflict with or disagree
+with the report findings. In this regard, MHBE disagreed with several of our
+recommendations despite agreeing with the factual accuracy of the related
+analysis. In each instance, we reviewed and reassessed our audit documentation,
+reaffirmed the validity of our findings, and we continue to maintain that our
+recommendations are valid.
+In accordance with generally accepted government auditing standards, we have
+included “auditor’s comments” within MHBE’s response to explain our position.
+We will advise the Joint Audit and Evaluation Committee of any outstanding
+issues that we cannot resolve with MHBE.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 7
+Agency Responsibilities 7
+Financial Activity 8
+Audit Scope Limitation 9
+Potential Federal Fund Liability 10
+Status of Findings From Preceding Audit Report 10
+Findings and Recommendations 12
+Medicaid Eligibility
+Finding 1 – The Maryland Health Benefits Exchange (MHBE) did not 13
+request supporting documentation from applicants who reported having
+zero income when State wage records reflected the applicant had
+income that exceeded the Medicaid income qualification threshold.
+Finding 2 – MHBE did not ensure it used the most current income 15
+data in its verification process resulting in inaccurate enrollment
+determinations for Medicaid applicants.
+ Finding 3 (Policy Issue) – MHBE continues to rely solely on State 16
+wage records to verify income of certain applicants even though it
+excluded many types of applicant income.
+ Finding 4 – MHBE did not always ensure that manual overrides of 18
+applicant eligibility were independently reviewed and approved.
+MHBE Fund
+Finding 5 – MHBE did not adequately pursue the collection of $649 19
+million in insurance provider fees collected by the Maryland Insurance
+Administration that should have been transferred to the MHBE Fund.
+Procurements
+Finding 6 – MHBE did not always publish contract awards and document 20
+bid proposal openings.
+ Denotes item repeated in full or part from preceding audit report
+5
+
+--- Page 8 ---
+Information Systems Security and Control
+Finding 7 – Redacted cybersecurity-related finding 21
+Finding 8 – Redacted cybersecurity-related finding 21
+Audit Scope, Objectives, and Methodology 22
+Agency Response Appendix
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities
+Under the provisions of the Insurance Article of the Annotated Code of Maryland,
+the Maryland Health Benefit Exchange (MHBE) is a public corporation and
+independent unit of State government that was established to implement the
+federal Patient Protection and Affordable Care Act (ACA) in Maryland.
+Consistent with the ACA, the primary purpose of MHBE is to reduce the number
+of Maryland residents who have no health insurance.
+MHBE has a nine-member Board of Trustees (the MHBE Board) that includes the
+Secretary of the Maryland Department of Health (MDH), the Maryland Insurance
+Commissioner, the Executive Director of the Maryland Health Care Commission,
+and six other persons appointed by the Governor including three who represent
+employers and individual consumer interests. The MHBE Board is responsible
+for governing and managing MHBE. Under its enabling legislation, MHBE is
+exempt from a number of State laws and regulations, including procurement and
+inventory control. Consequently, the MHBE Board is responsible for establishing
+various policies and procedures governing MHBE operations.
+MHBE established Maryland’s state-based health insurance exchange, referred to
+as the Maryland Health Connection (MHC), to provide a marketplace for
+individuals, families, and small businesses to purchase affordable health coverage.
+The MHC was implemented in October 2013 and consists of several computer
+processing platforms that perform various functions. Acting together, these
+platforms enable Maryland residents to explore qualified health, dental, and vision
+insurance plans, compare rates, and determine their eligibility for tax credits, cost
+sharing reductions, and public assistance programs such as Medical Assistance
+(Medicaid) and the Maryland Children’s Health Insurance Program. Once an
+individual or family selects a qualified health plan or available program, they may
+use the MHC internet portal to enroll in that plan or program.
+MDH has agreements with both MHBE and the Department of Human Services
+(DHS) delegating responsibility for Medicaid eligibility determinations and
+redeterminations. MHBE is responsible for processing income-based
+determinations via its automated system, and DHS is responsible for processing
+non-income based determinations (such as, for applicants applying for other DHS
+benefits such as disability or Temporary Cash Assistance). Applications that are
+rejected or flagged by the MHC are forwarded to DHS or MDH for additional
+processing and review.
+7
+
+--- Page 10 ---
+Since April 1, 2014, small business owners have been able to enroll their
+employees in health insurance plans certified under the ACA Small Business
+Health Options Program. Employers with 1 to 50 employees may purchase
+insurance plans directly from an insurance provider, a third-party administrator, or
+a broker, and for those who are eligible, employers receive federal small business
+tax credits.
+MHBE also administers the Connector Program, which provides grants to entities
+organized geographically in Maryland to provide outreach and enrollment
+services in their respective regions with the purpose of educating and assisting
+Maryland residents in obtaining health insurance.
+During the 2018 Legislative Session, the Maryland General Assembly passed
+emergency legislation (Chapter 6, Laws of Maryland 2018, effective March 19,
+2018) establishing the State Reinsurance Program beginning January 1, 2019,
+administered by MHBE. The Program reduces healthcare premiums for all
+Maryland consumers in the individual market by reimbursing qualifying,
+individual health insurers for a percentage of an enrollee’s claims. The Program
+is funded through federal funds1 and a State health insurance provider fee
+assessed and collected by the Maryland Insurance Administration, which is to be
+subsequently transferred to MHBE.
+Financial Activity
+According to the State’s records, MHBE’s fiscal year 2023 expenditures totaled
+approximately $572.6 million. These expenditures were funded by State funds
+totaling $49.9 million and federal funds totaling $522.7 million. MHBE’s
+expenditures related primarily to information technology development, outreach
+and consumer assistance, reinsurance payments administered by MHBE, and
+agency operations necessary to maintain MHC (see Figure 1 on the following
+page). The healthcare costs associated with individuals enrolled in Medicaid via
+MHC are included in the budget of the MDH – Medical Care Programs
+Administration.
+1 Federal funding is via a State Innovation Waiver through Section 1332 of the Affordable Care
+Act (ACA). Maryland has a waiver in place through December 2028 which provides federal
+funds to pay for reinsurance. These funds are allowed to carry over if they are not all needed in
+the year provided. Any reinsurance amounts above the federal funding must be covered by State
+funds.
+8
+
+--- Page 11 ---
+Figure 1
+MHBE Positions, Expenditures, and Funding Sources
+Full-Time Equivalent Positions as of June 30, 2023
+Positions Percent
+Filled 65 97.0%
+Vacant 2 3.0%
+Total 67
+Fiscal Year 2023 Expenditures
+Expenditures Percent
+Salaries, Wages & Fringe Benefits $ 9,763,210 1.7%
+Operating Expenses 562,885,841 98.3%
+Total $572,649,051
+Fiscal Year 2023 Funding Sources
+Funding Percent
+General Fund $ 3,549,620 0.6%
+Special Fund 45,243,251 7.9%
+Federal 522,734,940 91.3%
+Reimbursable Fund 1,121,240 0.2%
+Total $572,649,051
+Source: State financial and personnel records
+Audit Scope Limitation
+Our audit scope was limited with respect to MHBE’s Medicaid eligibility
+determination and redetermination processes due to restrictions imposed by the
+federal Internal Revenue Code (IRC) on access to federal tax information (FTI) as
+well as MHBE’s application of those restrictions to applicant data. According to
+the State Government Article, Section 2-1223 of the Annotated Code of
+Maryland, our access to records extends to all agency records except as prohibited
+by the federal IRC. Section 6103 of the IRC provides that FTI may be used by
+officers, employees, and contractors of the United States Department of Health
+and Human Services, an Exchange established under the Affordable Care Act, or
+a State agency for purposes of determining eligibility as it relates to health care
+options. Internal Revenue Service Publication 1075 further describes that the
+9
+
+--- Page 12 ---
+authority to receive federal tax return information does not extend to independent
+State audit agencies unless a contractual relationship is established which
+conforms to the disclosure requirements of IRC Section 6103.
+To determine applicant eligibility, MHBE performs certain procedures including,
+as discussed further in Finding 3, matching certain applicant attested financial
+information against FTI to verify the recorded income. MHBE and OLA worked
+together with legal counsel to establish an agreement in accordance with federal
+requirements to allow OLA access to FTI for testing. Despite months of effort, it
+was determined that the process would be onerous and would compromise our
+independence and ultimately we were unable to work out terms. As a result,
+during our audit, we could not review MHBE’s eligibility determination and
+redetermination processes for which FTI information was used to assess whether
+proper determinations were being made.
+Potential Federal Fund Liability
+MHBE had a $28.4 million potential liability to the federal government related to
+a 2015 audit finding by the federal Department of Health and Human Services –
+Office of the Inspector General (HHS – OIG) which sighted certain misallocated
+expenditures. This issue was also addressed in our reports on the Statewide
+Review of Budget Closeout Transactions for Fiscal Year 2018 (dated January 15,
+2019), 2019 (dated January 16, 2020), 2020 (dated January 26, 2021), 2021 (dated
+January 26, 2022), and 2022 (dated January 26, 2023).2 According to MHBE
+personnel, there has been no resolution of this matter as of November 2024.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the three findings contained
+in our preceding audit report dated May 6, 2021. As disclosed in Figure 2 on the
+following page, for the non-cybersecurity-related findings, we determined those
+two findings are repeated in this report.
+2 Our Statewide Review of Budget Closeout Transactions for Fiscal Year 2023 (dated January 19,
+2024) did not include a comment regarding the potential liability to the federal government
+because that report had a reduced scope of work that did not include MHBE.
+10
+
+--- Page 13 ---
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+MHBE continues to rely solely on the Maryland
+Finding 1
+Automated Benefits System (MABS) to verify the
+(Policy Repeated
+income of certain applicants even though MABS
+Issue) (Current Finding 3)
+excluded many types of applicant income.
+Manual overrides of applicant eligibility status were
+not subject to independent review and approval and,
+Finding 2 Repeated
+consequently, unauthorized changes could be made
+(Current Finding 4)
+without detection.
+Remote access to the internal agency network by
+MHBE employees used a single authentication
+Finding 3 measure, and traffic from remote network Status Redacted3
+connections by certain affiliated third parties was
+not filtered.
+3 Specific information on the current status of this cybersecurity–related finding has been redacted
+from the publicly available report in accordance with State Government Article, Section 2-
+1224(i) of the Annotated Code of Maryland.
+11
+
+--- Page 14 ---
+Findings and Recommendations
+Medicaid Eligibility
+Background
+The Maryland Health Benefit Exchange (MHBE) and the Maryland Department
+of Health4 (MDH) have a memorandum of understanding (MOU) since April
+2012 under which MHBE processes Medical Assistance eligibility determinations
+and redeterminations for income-based coverage groups. This includes certain
+categorically eligible or medically needy applicants with household income up to
+138 percent of federal poverty guidelines – the dollar threshold of which is
+determined by family size.
+Individuals may now apply for Medical Assistance or a Qualified Health Plan
+through the Maryland Health Connection (MHC), which is MHBE’s consumer
+exchange system portal. Individuals may access MHC by phone via MHBE’s
+consumer support contractor, directly through the MHC website, using the MHC
+mobile app, or in-person at various locations that are capable of providing
+personal assistance with eligibility determinations. These locations include local
+departments of health, local departments of social services, insurance brokers, and
+designated MHBE connector entities.
+In accordance with MCPA’s applicant data verification plan approved by the
+federal Centers for Medicare and Medicaid Services, MHBE matches applicant
+attested identification information (such as, date of birth and social security
+number) and citizenship or immigration status through the Federal Data Sharing
+Hub (FDSH). Simultaneously, MHBE matches applicant attested income to the
+Maryland Department of Labor’s (MDL) Division of Unemployment Insurance
+(DUI) information system, referred to as BEACON.5 BEACON is an electronic
+database that contains employer reported wages for most Maryland workers and
+unemployment insurance benefits paid.
+In certain situations, such as, if no BEACON records are located, applicant
+attested income is verified to annual federal tax information (FTI) on FDSH.
+Discrepancies are subject to a manual verification performed by designated
+Department of Human Services (DHS) or MDH employees. A similar process is
+4 As Maryland’s administering agency for the Medical Assistance program (Medicaid), MDH’s
+Medical Care Programs Administration (MCPA) is responsible for establishing regulations,
+guidelines, and procedures for Medical Assistance applicant eligibility.
+5 BEACON was implemented in October 2021 and the previous MDL information system was the
+Maryland Automated Benefit System (MABS).
+12
+
+--- Page 15 ---
+used to verify Medicaid enrollee income during the annual redetermination
+process.
+According to MHBE records, during fiscal year 2023, individuals applying (both
+new application and renewals) for health insurance coverage through MHC
+resulted in 1,260,950 individuals who were determined to be eligible for Medicaid
+and 176,953 individuals who were enrolled in a qualified health plan. According
+to State records, Medicaid-related payments made by MDH totaled approximately
+$15.1 billion during fiscal year 2023.
+Finding 1
+MHBE did not request supporting documentation from applicants who
+reported having zero income when BEACON reflected the applicant had
+income that exceeded the Medicaid income qualification threshold.
+Analysis
+MHBE did not request supporting documentation from applicants who reported
+having zero income when BEACON reflected the applicant had income that
+exceeded the Medicaid income qualification threshold. Rather, MHBE only
+required these applicants to sign an affidavit self-certifying that they had no
+income without any additional support to explain the discrepancy. This practice
+was inconsistent with MHBE’s procedure for applicants that reported income that
+did not agree with BEACON who had to submit evidence supporting the reported
+income.
+At our request, MHBE generated a report which identifed 5,488 Medicaid
+applicants in fiscal year 2023 who self-certified as having no income after MHBE
+had identified through BEACON that the applicants income exceeded the income
+qualification threshold for Medicaid. From this report, we matched the 4,465
+applicants that had a social security number6 to BEACON income data for the
+quarter before the application was filed, and the subsequent two quarters
+(including the quarter in which the application was filed).
+Our match disclosed 467 applicants for which BEACON reported income from
+the same employer in the quarter prior, during, and subsequent to the application
+raising questions about the validity of the affidavit. We tested seven of the match
+results7 and determined that none of the applicants qualified for Medicaid based
+on various factors including BEACON reported income. For example, one
+applicant completed the self-certification of zero income in February 2023.
+6 Not all Medicaid applicants have a social security number.
+7We selected seven test items from the match results with significant overall income earnings
+combined for the quarter of application and the following quarter.
+13
+
+--- Page 16 ---
+Our review of the related BEACON income disclosed that this applicant had
+income of $62,400 in each of the quarters ending December 2022, March 2023,
+and June 2023 (the period prior, during, and subsequent to the application) for a
+total income of $187,200. Based on various factors, including BEACON reported
+income, we determined the applicant did not qualify for Medicaid. MHBE was
+not aware of this discrepancy until we brought it to its attention and therefore had
+not attempted to address the discrepancy with the applicant. As of May 2024,
+Medicaid expenditures for this applicant since they enrolled in Medicaid totaled
+$15,827.
+While federal regulations allowed MHBE the flexibility of accepting such an
+affidavit, federal regulations also allowed MHBE to request an explanation and
+supporting documentation for any discrepancies.8 MHBE is subject to MCPA’s
+guidance on Medicaid eligibility determinations and therefore any changes to
+MHBE’s procedures for zero income applicants would need MCPA approval.
+The MOU between MHBE and MCPA required MHBE to ensure compliance
+with federal and State laws for detection and prevention of fraud, waste and abuse
+by performing analytics and assessments, in consultation with MDH, to identify
+and mitigate potentially fraudulent activities.
+Recommendation 1
+We recommend that MHBE
+a. in collaboration with MDH, modify the supporting documentation
+requirement for applicants who reported zero income when BEACON
+reported income that exceeded the Medicaid eligibility threshold, so that
+eligibility will only be granted if the applicant provides an explanation
+and supporting documentation for any discrepancies;
+b. investigate all instances when applicant’s affidavits conflict with
+BEACON data, including those noted above; and
+c. refer instances of potential fraud, waste, and abuse, including those
+identified above, to the Office of Inspector General for Health.
+8 During the pandemic health emergency, MHBE was federally prohibited from disenrolling
+Medicaid recipients. As such, MHBE asserted that even if applicants improperly obtained
+eligibility, they could not be disenrolled. We question whether this prohibition would apply to
+cases of potential fraud and MHBE was unable to provide documentation to support that it would
+be prohibited from disenrolling applicants who fraudulently applied. Moreover, a related federal
+regulation (42 CFR 435.940) states that, “nothing in this regulation should be construed as
+limiting the State’s program integrity measures or affecting the State’s obligation to ensure that
+only eligible individuals receive benefits.”
+14
+
+--- Page 17 ---
+Finding 2
+MHBE did not ensure it used the most current income data in its verification
+process resulting in inaccurate enrollment determinations for Medicaid
+applicants.
+Analysis
+MHBE did not ensure that it used the most current income data to verify income
+reported by Medicaid applicants. Under an MOU with MDL, MHBE sends
+applicant data to MDL to match against State wage records. The MOU provides
+that, in accordance with federal regulations, MDL is to use the most current wage
+data for the verification. Our review disclosed that MHBE did not ensure its
+system consistently used the most current available data from MDL.
+We tested 30 Medicaid enrollees9 who submitted an application during our audit
+period that had income verified against State wage records. Our test identified 10
+enrollees for which MHBE’s verification used income data that was between one
+and three quarters older than the most current available income data as of the date
+of application. Our further review of these 10 enrollees disclosed that 2 would
+not have qualified for Medicaid if the most current available income data had
+been used because the income for the more recent quarter exceeded the Medicaid
+income eligibility threshold.
+Recommendation 2
+We recommend that MHBE
+a. establish procedures to ensure that the most recent income data is used to
+verify applicant reported income; and
+b. identify all instances where non-current income data was used, and take
+the necessary corrective action for any applicants who were not eligible
+based on the current data.
+9 Our test included 12 items which were processed by MABS prior to its replacement with
+BEACON in October 2021. We selected from both initial applications as well as redetermination
+applications throughout our audit period. Our test was limited to only applications which were
+verified against State sources due to the scope limitation prohibiting our access to FTI.
+15
+
+--- Page 18 ---
+Finding 3 (Policy Issue)
+MHBE continues to rely solely on State wage records to verify income of
+certain applicants even though it excluded many types of applicant income.
+Analysis
+MHBE continues to rely solely on State wage records from BEACON10 to verify
+the income of certain applicants even though it excluded many types of applicant
+income. As noted in our two prior audit reports, MHBE conducts income
+verifications using federal tax information (FTI) only if no State wage record was
+located on BEACON for the applicant. If the BEACON wage and unemployment
+compensation data matched the applicant attested income within certain tolerance
+levels, no additional verification was performed using FTI. If the BEACON wage
+and unemployment data exceeded the applicant attested income beyond the
+tolerable level, a manual review was performed, which also did not involve using
+FTI.
+Using BEACON data exclusively for income verification purposes has inherent
+limitations that restrict its effectiveness. BEACON data does not include all types
+of income and, therefore, may not identify applicants who omit or underreport
+their income. While BEACON does include State unemployment compensation it
+does not include interest, dividend, alimony, and rental income that may be
+included in FTI – all of which must be considered for Medicaid eligibility. In
+addition, BEACON would not identify wages earned from certain employers
+exempt from reporting wages to the State (such as federal agencies and non-
+Maryland-based employers) and would not identify any net earnings from self-
+employment, all of which would be included in FTI.
+Federal regulations require state-based exchanges to request financial information
+from various state (for example, DUI) and federal agencies (for example, Internal
+Revenue Service data that is necessary to verify applicants’ income). These
+regulations have permitted the development of varying income verification
+processes across the country. Specifically, according to the individual State and
+District of Columbia Medicaid/Children’s Health Insurance Program eligibility
+verification plans, 26 states and the District of Columbia utilize FTI data to verify
+income eligibility, while other states have elected to not use FTI. See Figure 3 on
+the following page.
+10 Maryland Automated Benefits System (MABS) was used by the Maryland Department of Labor
+Division of unemployment Insurance for income and unemployment data prior to BEACON.
+16
+
+--- Page 19 ---
+Figure 3
+States That Elected to Use FTI in Medicaid Eligibility
+Verifications
+Source: Medicaid website (https://www.medicaid.gov)
+MHBE’s income verification methodology is consistent with Maryland MCPA's
+federally approved plan. However, based on the above noted income omissions,
+we believe there are opportunities for a more comprehensive income verification
+process. Due to the limitations imposed on us by the federal IRC and MHBE
+(described in the Audit Scope Limitation section of this report), we were unable to
+assess the significance of MHBE not accessing additional FTI for the income
+verification process.
+A similar condition regarding the comprehensiveness of information used in
+determining Medicaid eligibility was commented upon in our two preceding
+reports dating back to October 30, 2018. In response to our most recent prior
+audit report, MHBE agreed to collaborate with MCPA by June 30, 2022 to assess
+various methods, including the usefulness of using FTI data, to obtain at the
+point-in-time income information from consumers and other electronic sources.
+During our current audit we noted that MHBE had not collaborated with MCPA
+17
+
+--- Page 20 ---
+as indicated in its response and was unable to explain why the assessment was not
+done.
+Recommendation 3
+We recommend that MHBE in collaboration with MCPA conduct a study
+using FTI data in addition to BEACON to assess the significance and
+usefulness of formally incorporating that data into its verification
+methodology (repeat).
+Finding 4
+MHBE did not always ensure that manual overrides of applicant eligibility
+were independently reviewed and approved.
+Analysis
+MHBE did not always ensure that manual overrides of applicant eligibility were
+independently reviewed and approved. During the period September 2022
+through August 2023 there were 3,976 manual overrides (1,906 processed by
+MHBE and its contractor, 2,009 by MDH, and 61 by DHS employees).
+Reviews of Manual Overrides Were Not Comprehensive and Independent
+MHBE did not review 675 of the 1,906 overrides (35 percent) processed by
+MHBE employees or its contractor during the period of September 2022 and
+August 2023 due in part to errors in the output reports used for the review. In
+addition, beginning in July 2022, the MHBE employee responsible for the review
+and approval of MHBE employees and contractors’ overrides could also process
+overrides. We reviewed override reports for September 2022 through August
+2023 and there were no instances of the employee reviewing their own overrides.
+Once we brought this lack of independence to MHBE’s attention, MHBE
+removed the employee’s ability to perform overrides.
+A similar condition regarding the lack of independent reviews for manual
+overrides was commented upon in our preceding audit report. In its response,
+MHBE indicated that it would implement procedures to ensure that independent
+supervisory reviews would be performed by December 31, 2021. However, as
+noted above, MHBE did not implement the recommended procedures. MHBE
+management could not explain why the procedures were not implemented in
+accordance with its response to the prior report.
+MHBE Did Not Ensure the Propriety of MDH and DHS Eligibility Overrides
+MHBE did not have a process to ensure that overrides of applicant eligibility
+performed by MDH and DHS employees were independently reviewed and
+18
+
+--- Page 21 ---
+approved. Due to the large percentage of overrides performed by MDH, we
+reached out to MDH management personnel who advised that it was not
+reviewing the overrides performed by its employees. At our request, MHBE
+reviewed 20 overrides performed by MDH and DHS employees and concluded
+that 16 overrides were improper. For example, an employee performed an
+override to add retroactive coverage when the applicant had not applied for
+retroactive coverage.
+Recommendation 4
+We recommend that MHBE
+a. ensure that all applicant eligibility overrides processed by MHBE
+employees and its contractors are independently reviewed and approved
+(repeat);
+b. develop and implement procedures to ensure that eligibility overrides
+performed by MDH and DHS employees are independently reviewed and
+approved; and
+c. take appropriate corrective action for any improper overrides, including
+those identified above.
+MHBE Fund
+Finding 5
+MHBE did not adequately pursue the collection of $649 million in insurance
+provider fees collected by the Maryland Insurance Administration (MIA)
+that should have been transferred to the MHBE Fund.
+Analysis
+MHBE did not pursue the collection of $649 million in insurance provider fees
+collected by MIA that should have been transferred to the MHBE Fund. State law
+provides that MIA was to collect insurance provider fees and deposit them in the
+MHBE Fund. The MHBE Fund was established in 2011 to help cover the
+expenses of MHBE’s operation and administration. Legislation effective March
+2018 expanded the use of the MHBE Fund to cover the costs of the State
+Reinsurance Program under which MHBE reimburses qualifying individual health
+insurers for a percentage of an enrollee’s claims.
+Our review disclosed that as of September 2023, MIA had not received $649
+million in provider fees from MIA that were collected between January 2019
+through June 2023. MHBE submitted multiple requests to MIA between 2019
+and 2021to transfer the funds, but MIA did not comply with the request. MHBE
+stopped requesting the funds in 2021 after it received notice from DBM indicating
+19
+
+--- Page 22 ---
+it would take care of the transfer, but DBM did not transfer the funds. In response
+to our inquiries in January 2024, MIA transferred $641 million11 to MHBE.
+The failure to obtain the funds from MIA impacted MHBE’s ability to timely
+transfer certain funds. Specifically, although MHBE was able to cover its
+operation and administration costs using other funding sources (such as, federal
+funds), it did not transfer $15 million to the Health Equity Resource Community
+Reserve Fund (HERCRF) in fiscal year 2023 due to a lack of funds. These funds
+were to be used to support areas that demonstrate measurable and documented
+health disparities and poor health outcomes to facilitate reduction of health
+disparities, health costs, and hospital admissions. MHBE subsequently
+transferred the funds to HERCRF in January 2024.
+Recommendation 5
+We recommend that MHBE follow-up with MIA to ensure the timely
+transfer of fees collected on its behalf.
+Procurements
+Finding 6
+MHBE did not always publish contract awards and document bid proposal
+openings.
+Analysis
+MHBE did not always publish contract awards and document bid proposal
+openings. According to State records, MHBE’s procurements totaled $249.8
+million during our audit period. Our test of six of these procurements12 totaling
+$110.6 million, disclosed the following conditions:
+ As of March 2024, MHBE had not published 2 of the 6 contracts totaling
+$13.1 million that were awarded 8 to 30 months prior. For three other
+contracts tested totaling $92.3 million, MHBE did not record the date of the
+publication and therefore, we could not readily determine when MHBE
+published those awards.
+ MHBE procedures did not require documentation of the opening of vendor
+bid proposals. Our test disclosed that MHBE did not document the opening of
+11 MIA withheld certain funds collected in accordance with State law, relating to funds that will be
+transferred to a different State agency for fiscal year 2024.
+12 Our selection of test items was based on the significance of vendor payments during the period
+March 9, 2020 through June 30, 2023.
+20
+
+--- Page 23 ---
+the proposals for three of the six procurements totaling $97 million.
+Specifically, MHBE did not document that two employees were present
+during the proposal openings, the date of the opening, and the specific
+proposals that were opened.
+MHBE is exempt from a number of State laws and regulations, including State
+procurement laws and regulations. The MHBE Board established procurement
+policies and procedures governing MHBE’s procurements which require contract
+awards to be published on its website but did not specify a time period (such as,
+within 30 days from date of the award). Publishing awards provides transparency
+over State procurements. MHBE procedures also require bids be opened in the
+presence of two employees and that the date and time opened be documented.
+However, the procedures do not include a similar requirement for the opening of
+bid proposals.
+Recommendation 6
+We recommend that MHBE
+a. post its contract awards on its website as required by its policies,
+b. enhance contract award posting policies to require the publication date
+on the website as well as a required posted period (e.g. within 30 days of
+award), and
+c. establish procedures to document the opening of bid proposals.
+Information Systems Security and Control
+We determined that the Information Systems Security and Control section,
+including Findings 7 and 8 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore are subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following findings, including the analysis, related
+recommendations, along with MHBE’s responses, have been redacted from this
+report copy.
+Finding 7
+Redacted cybersecurity-related finding.
+Finding 8
+Redacted cybersecurity-related finding.
+21
+
+--- Page 24 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Health Benefit
+Exchange (MHBE), for the period beginning March 9, 2020 and ending June 30,
+2023. The audit was conducted in accordance with generally accepted
+government auditing standards except for certain requirements related to
+obtaining sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. Specifically, as described
+on page 9, our audit scope was limited with respect to assessing certain aspects of
+internal controls over the Medicaid eligibility process and the related compliance
+with State laws, rules, and regulations. This scope limitation was due to
+restrictions imposed by the federal Internal Revenue Code on access to federal tax
+information as well as MHBE’s application of those restrictions to applicant data.
+Generally accepted government auditing standards require that we plan and
+perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives.
+Except for the effects of the scope limitation described above, we believe that the
+evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MHBE’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included procurements and disbursements, the Medicaid
+eligibility process, State Reinsurance Program, federal fund reimbursements, the
+MHBE Fund, payroll, and information systems security and control. We also
+determined the status of the findings contained in our preceding audit report.
+Our audit did not include certain grant management support services provided to
+MHBE by the Maryland Department of Health (MDH). These support services
+(such as drawdowns of Medicaid federal funds including indirect cost allocations,
+reconciling of grant revenue and expenditures, and recording payment
+transactions in the State’s accounting system) are included within the scope of our
+audit of the MDH – Office of the Secretary and Other Units. In addition, our
+audit did not include an evaluation of internal controls over compliance with
+federal laws and regulations for federal financial assistance programs and an
+assessment of MHBE’s compliance with those laws and regulations because the
+22
+
+--- Page 25 ---
+State of Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including MHBE.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of March 9, 2020 to June 30, 2023, but may include transactions before or
+after this period as we considered necessary to achieve our audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of MHBE’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from this source
+were sufficiently reliable for the purposes the data were used during this audit.
+We also extracted data from MHBE’s Maryland Health Connection system for the
+purpose of selecting test items and performing data analytics. We performed
+various tests of the relevant data and determined that the data were sufficiently
+reliable for the purposes the data were used during the audit. Finally, we
+performed other auditing procedures that we considered necessary to achieve our
+objectives. The reliability of data used in this report for background or
+informational purposes was not assessed.
+MHBE’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+23
+
+--- Page 26 ---
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to MHBE, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect MHBE’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations.
+In addition, this report includes a finding which is identified as a “Policy Issue”.
+Such findings represent significant operational or financial-related issues for
+which formal criteria may not necessarily exist, and for which management has
+significant discretion in addressing, but the recommendation represents prudent
+and or practical actions, which we believe should be implemented by the agency
+to improve outcomes. Other less significant findings were communicated to
+MHBE that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+24
+
+--- Page 27 ---
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to MHBE and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+MHBE’s response to our findings and recommendations is included as an
+appendix to this report. Depending on the version of the audit report, responses to
+any cybersecurity findings may be redacted in accordance with State law. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise MHBE regarding the results of our review of
+its response.
+25
+
+--- Page 28 ---
+Docusign Envelope ID: 6DB45990-413A-4E47-A08C-609126819CBC
+APPENDIX
+Mr. Brian S. Tanen, CPA, CFE
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+January 17, 2025
+Dear Mr. Tanen:
+Enclosed please find responses and corrective actions with timeframes which address the
+final recommendations from OLA’s finance performance audit of Maryland Health Benefit
+Exchange (MHBE) for period of March 9, 2020 through June 30, 2023.
+MHBE’s executive leadership team has promptly addressed the audit recommendations. In
+addition, MHBE’s Director of Compliance and Privacy will follow-up on the corrective actions to
+ensure ongoing compliance. Our team takes great strides to improve MHBE’s overall operations,
+accountability, security and transparency and will continue to do so into the future.
+I want to thank the OLA audit team for their professionalism, thoroughness and collegiality
+during their on-site review. If you have any questions or require additional information, please do
+not hesitate to contact me at 410-547-1270.
+Sincerely,
+Michele Eberle,
+Executive Director
+Enclosure
+Cc: Dr. Laura Herrera Scott, Chair, MHBE Board of Trustees
+Scott R. Brennan, Director of Compliance and Privacy, MHBE
+
+--- Page 29 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Medicaid Eligibility
+Finding 1
+MHBE did not request supporting documentation from applicants who reported
+having zero income when BEACON reflected the applicant had income that
+exceeded the Medicaid income qualification threshold.
+We recommend that MHBE
+a. in collaboration with MDH, modify the supporting documentation requirement
+for applicants who reported zero income when BEACON reported income that
+exceeded the Medicaid eligibility threshold, so that eligibility will only be
+granted if the applicant provides an explanation and supporting documentation
+for any discrepancies;
+b. investigate all instances when applicant’s affidavits conflict with BEACON data,
+including those noted above; and
+c. refer instances of potential fraud, waste, and abuse, including those identified
+above, to the Office of Inspector General for Health.
+
+--- Page 30 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Agency Response
+Analysis Factually Accurate
+Please provide MHBE agrees with the material facts established in OLA’s finding.
+additional comments as Regarding the decision to rely solely on an attestation of income, the
+deemed necessary. Maryland Department of Health relies on 42 CFR 435.952, the reasonable
+compatibility rule, for its approach to the zero-dollar income attestation.
+42 CFR 435.952(c)(2), provides that “If information provided by or on
+behalf of an individual is not reasonably compatible with information
+obtained through an electronic data match, the agency must seek
+additional information from the individual, including, "including--(i) a
+statement which reasonably explains the discrepancy, or [emphasis
+added] (ii) other information (which may include documentation)."
+MHBE maintains that it is not required to request supporting
+documentation from applicants who reported having zero income.
+Furthermore, MHBE may rely solely on an affidavit of the applicant,
+explaining the discrepancy between any electronic record of income with
+their actual current income, without additional documentation. This
+practice conforms to the policies and procedures of the Maryland
+Department of Health (MDH), which are established directly from federal
+and state regulations governing Medicaid eligibility and enrollment
+criteria. Notably, MHBE is bound by MDH policies governing this
+particular requirement and does not have discretion to deviate from that
+guidance in the implementation of its business operation systems, which
+are effectuated through technical applications comprising HBX.
+During the eligibility determination process, as it is performed as a part
+of the application process, MDH, with approval from CMS, has elected
+not to stop the application at the point of a no-income declaration and
+require a Verification Checklist (VCL) to seek the explanation. Instead,
+Maryland allows the individual to choose from a list of explanations and
+accepts this as part of the initial application. The particular explanation
+choice selected is considered to be “a statement which reasonably
+explains the discrepancy” and, standing alone, comports with 42 CFR
+435.952(c)(2), as provided above. Inserting a VCL would not change the
+nature of the explanation.
+In sum, the Maryland Department of Health interprets the federal
+regulation above as expressly permitting the state Medicaid agency to
+accept an explanation of a discrepancy between the electronic databases
+and the attested income. The process employed by MHBE is according
+to MDH guidance and established processes it is bound to follow, and
+
+--- Page 31 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+therefore takes exception to this finding on the basis of a difference in the
+interpretation of the requirements in the Code of Federal Regulations.
+Additionally, OLA’s match disclosed 467 applicants for which BEACON
+reported income from the same employer in the quarter prior, during, and
+subsequent to the application raising questions about the validity of the
+affidavit. However, the Department of Health and Human Services,
+Centers for Medicare and Medicaid Services expressly prohibited
+termination of individuals from Medicaid during the Public Health
+Emergency, even if they no longer qualified. This policy was lifted with
+June 2023 Medicaid redetermination notices. As a result, all
+redeterminations that were included as a part of the 467 applicants cited
+by OLA, would have maintained eligibility regardless of the validity or
+accuracy of the no income attestation.
+MHBE agrees that the MOU between MHBE and MDH requires MHBE
+to ensure compliance with federal and state law for detection and
+prevention of fraud, waste, and abuse by performing analytics and
+assessments, in consultation with MDH, to identify and mitigate
+potentially fraudulent activities.
+Recommendation 1a Disagree Estimated Completion Date: N/A
+Please provide details of MHBE does not agree with the recommendation that it modify the
+corrective action or
+supporting documentation requirement for applicants reporting zero
+explain disagreement.
+income when BEACON reports income that exceeded the Medicaid
+eligibility threshold. Income verification (VCL) processing is a function
+of the MDH. Any modification to work performed by the MHBE on
+behalf of MDH would have to be at the direction of the MDH with
+appropriate MOU’s and funding put in place to support the work. As
+stated in the MHBE’s response above, it is our position and the position
+of MDH, that supporting documentation is not required in this instance.
+
+--- Page 32 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Recommendation 1b Disagree Estimated Completion Date: N/A
+Please provide details of MHBE employs a process flow that leads to allowable eligibility
+corrective action or
+determinations when an applicant’s affidavit conflicts with BEACON
+explain disagreement.
+data. MHBE has established this process flow within the HBX system at
+the direction of MDH policy and maintains that the eligibility
+determinations that are conducted conform with both MDH policy and all
+applicable federal regulations, as cited in its response above.
+Auditor’s Comment: Although MHBE acknowledges the accuracy of the
+Analysis in our finding, including its responsibility to perform analytics and
+assessments for the detection and prevention of fraud, waste, and abuse, it
+disagrees with Recommendation 1a and 1b. MHBE continues to believe that
+documentation is not required and the current policy conforms with MDH policy
+and all applicable federal regulations.
+Given the results presented in our analysis we continue to believe that
+documentation should be required consistent with other discrepancies identified
+by MHBE. Given that MHBE’s current practice has and could continue to result
+in benefits going to unqualified applicants, it should work with MDH to resolve
+any concerns precluding it from safeguarding State funds.
+Recommendation 1c Agree Estimated Completion Date: Ongoing
+Please provide details of As OLA recommends, MHBE will refer those cases identified above in
+corrective action or OLA’s finding to the Office of Inspector General for Health. MHBE
+explain disagreement. will continue its practice of referring instances of potential fraud, waste,
+and abuse to OIG.
+
+--- Page 33 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Finding 2
+MHBE did not ensure it used the most current income data in its verification
+process resulting in inaccurate enrollment determinations for Medicaid applicants.
+We recommend that MHBE
+a. establish procedures to ensure that the most recent income data is used to verify
+applicant reported income; and
+b. identify all instances where non-current income data was used, and take the
+necessary corrective action for any applicants who were not eligible based on the
+current data.
+
+--- Page 34 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Agency Response
+Analysis Factually Accurate
+Please provide MHBE is diligent about ensuring it has the proper wage and income data
+additional comments as to appropriately determine eligibility and enrollment for Qualified Health
+deemed necessary. Plans and Maryland Medicaid coverage. Accordingly, MHBE has entered
+into a Memorandum of Understanding with the Department of Labor
+(MDL) which governs the information MHBE requests, and the
+information MDL returns from the BEACON system for the purpose of
+income verification.
+After researching the BEACON related data in OLA’s findings, MHBE
+found that it did not ensure that it used the most current income data
+from the Maryland Department of Labor (DOL).
+MHBE concurs with the finding in specific scenarios. In the instances
+where the failure to utilize the most current data occurred, MHBE
+identified a timing issue between the batch and real-time verification
+methods within the income verification process. Upon further scrutiny,
+MHBE did not find any indication that the income data received from
+the Department of Labor was not the most current data, but rather that
+the data MHBE relied upon was not always the most updated data
+available to it.
+Maryland Health Connection (MHC) uses the DOL's BEACON system
+to verify consumer income. Generally, if income cannot be obtained in
+real-time through a BEACON call, the HBX system defaults to using
+DOL's monthly bulk data for verification. However, in some limited
+scenarios, the monthly batch process handling verification checks does
+not recognize when the most recent income information has been
+obtained via a real-time call and income verification has been completed.
+This leads to redundant checks using potentially outdated bulk data,
+resulting in inconsistent enrollment determinations for Medicaid
+applicants in specific cases.
+Recommendation 2a Agree Estimated Completion Date: No later than
+Feb. 25, 2025
+Please provide details of To resolve the issue identified above, MHBE will modify the monthly
+corrective action or batch verification process to correctly handle the timing between the
+explain disagreement. real-time and batch verification methods. This modification will ensure
+that only the most up-to-date income data is used for eligibility
+determinations, thereby improving the accuracy of enrollment decisions
+for Medicaid applicants.
+Recommendation 2b Disagree Estimated Completion Date: N/A
+
+--- Page 35 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Please provide details of MHBE contends that the annual redeterminations process, as opposed to
+corrective action or a retroactive manual identification process, will efficiently address this
+explain disagreement. issue. Since these application discrepancies were identified by OLA, the
+most recent of which was from February 23, 2023, all affected consumers
+would have undergone at least one annual income redetermination.
+MHBE’s examination of the 2 BEACON samples that were found to
+contain income discrepancies showed that for the first sample identified,
+the consumer was moved from Medicaid to a private insurance plan after
+reporting an income change subsequent to their initial 2023 application,
+and for the second sample identified, the consumer also reported an
+income change and attested via affidavit of current income, which resulted
+in the consumer maintaining their Medicaid coverage. Because the
+system fix described in the previous response, in combination with the
+annual redetermination process, cures the deficiencies identified, the
+recommended manual process is unnecessary.
+Auditor’s Comment: MHBE disagrees with Recommendation 2b, asserting that
+it is unnecessary because MHBE is correcting the system error which caused the
+non-current data to be used and contends that the annual redetermination process
+will efficiently address this issue. However, as noted in MHBE’s response to
+Recommendation 2a, the system error will not be corrected until (no later than)
+February 25, 2025. Therefore, any errors in determining eligibility that occurred
+during our audit period as a result of non-current data will not be addressed until
+the next redetermination after the system error is corrected. As such, we continue
+to believe that MHBE needs to identify all instances where non-current income
+data was used and take corrective action for those applicants who were not
+eligible based on current data.
+
+--- Page 36 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Finding 3 (Policy Issue)
+MHBE continues to rely solely on State wage records to verify income of certain
+applicants even though it excluded many types of applicant income.
+We recommend that MHBE in collaboration with MCPA conduct a study using FTI
+data in addition to BEACON to assess the significance and usefulness of formally
+incorporating that data into its verification methodology (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide MHBE agrees that it continues to rely solely on financial information
+additional comments as through State wage records (BEACON) (formerly MABS) to verify the
+deemed necessary.
+income of certain applicants even though BEACON excluded many
+types of applicant income. However, in MHBEs response to OLA’s
+May 2021 Audit Report, MHBE stated that “MHBE will collaborate
+with MCPA to assess various methods, including the usefulness of using
+FTI data, to obtain at the point in time income information from
+consumers and other electronic sources. Projected: June 30, 2022”.
+There was not an agreement to conduct an assessment. The
+collaboration did occur, and it was concluded that FTI data was not
+useful as the data would always be 12-18 months old. In addition,
+MHBE explored using another electronic data source. After CMS
+informed MHBE that it would not pay for the service, and that the State
+would have to pay for it, it was deemed too costly to use given the
+expected outcome.
+Auditor’s Comment: MHBE asserts that there was no agreement to conduct an
+assessment. However, MHBE’s response to OLA’s May 2021 audit report clearly
+states, “MHBE will collaborate with MCPA to assess various methods, including
+the usefulness of using FTI data, to obtain at the point in time income information
+from consumers and other electronic sources.” MHBE also did not provide any
+documentation showing that CMS informed MHBE that it would not pay for
+another electronic data source and it was deemed too costly to use the service
+given the expected outcome. We continue to believe that MHBE should consider
+using FTI to help ensure that only qualified applicants are approved for benefits.
+
+--- Page 37 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Recommendation 3 Disagree Estimated Completion Date: N/A
+Please provide details of MHBE is currently conducting Medicaid Income Verifications according
+corrective action or to policy established by MDH, Maryland’s State Medicaid agency. The
+explain disagreement. policy MDH enacted has been approved by CMS and meets all Federal
+requirements. Conducting a study on using FTI data, in addition to
+BEACON, to assess the significance and usefulness of formally
+incorporating that data into the verification methodology would be costly
+and create an administrative burden for MHBE and MDH. More
+importantly, should the study determine that the older FTI data showed
+different results than the more current BEACON data, the ultimate
+outcome would be the same, as the more current data would be used to
+approve eligibility, but the impact to the consumer would be significant.
+If an income verification was generated, the enrollment would be put on
+hold and manual intervention required by a caseworker. This would delay
+the consumers enrollment and not align with “CMSs Guidelines for
+Achieving Compliance with Medicaid and CHIP Eligibility Renewal
+Timeliness Requirements Following the Medicaid and CHIP Unwinding
+Period”.
+Finally, as the State is required to participate in the CMS Payment Error
+Rate Measurement (PERM) program annually, which specifically
+examines eligibility determinations, there are checks and balances in place
+to ensure proper eligibility determinations have been made based on
+income.
+MHBE refers OLA to our 2018 Audit Finding Response and 2021 Audit
+Finding Response for additional information.
+In its current finding, OLA highlights the fact that 26 states and the
+District of Columbia utilize FTI data to verify income eligibility, while
+other states have elected to not use FTI. In response, MHBE offers the
+same response and rationale for the current findings, as those found in its
+2021 response as follows:
+“While OLA points out that 24 states and the District of Columbia use
+FTI as a primary data source, or in combination with state quarterly
+wage and other data sources, there is no consistency in the manner or
+the extent to which they rely on FTI data in the overall eligibility
+determination processes. Each uses its own algorithms to determine
+eligibility within its state, district and/or federal regulatory frameworks.
+Significantly, the information returned from the Federal Data Services
+Hub (FDSH) only indicates whether the applicant’s bottom-line income
+amount from their last tax filing is or is not within the 10% FFP
+tolerance range. That is to say, no actual dollar amount of earned or
+
+--- Page 38 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+unearned income is garnered that could be used to project an applicant’s
+income at the time of their application. There was thus no basis for
+expecting improved outcomes from implementing OLA's
+recommendation, which would have significant administrative and
+systems costs, put additional pressure on the Office of Administrative
+Hearings, and result in undue delays to consumers in receiving healthcare
+coverage.”
+To conclude, MHBE does not believe an FTI study is advisable, due to
+the projected cost of such a study, the FTI-cleared resources required to
+complete such a study, and most importantly, the fact that whatever the
+results of the study may be, the above issues that prevent the adoption of
+FTI in Maryland would remain unchanged.
+Auditor’s Comment: MHBE disagreed with our recommendation that MHBE in
+collaboration with MCPA conduct a study using FTI data in addition to BEACON
+to assess the significance and usefulness of formally incorporating that data into
+its verification methodology. We question MHBE’s statements for the reasons
+listed below:
+First, MHBE noted that conducting a study on using FTI would be costly.
+However, MHBE could not provide documentation of the cost of the requested
+study.
+Second, MHBE asserted that the addition of FTI would not change the eligibility
+determination process. However, MHBE could not provide documentation
+supporting this assertion.
+Third, MHBE stated that the expanded use of FTI is unnecessary because MHBE
+participates in the CMS Payment Error Rate Measurement (PERM). However,
+the PERM does not necessarily make the use of FTI unnecessary. PERM is a
+program to quantify the amount of improper payments and implement plans to
+reduce improper payments and the use of FTI could reduce improper payments.
+We continue to believe that MHBE should collaborate with MCPA and conduct a
+study using FTI data in addition to BEACON and document its results.
+
+--- Page 39 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Finding 4
+MHBE did not always ensure that manual overrides of applicant eligibility were
+independently reviewed and approved.
+We recommend that MHBE
+a. ensure that all applicant eligibility overrides processed by MHBE employees and
+its contractors are independently reviewed and approved (repeat);
+b. develop and implement procedures to ensure that eligibility overrides performed
+by MDH and DHS employees are independently reviewed and approved; and
+c. take appropriate corrective action for any improper overrides, including those
+identified above.
+Agency Response
+Analysis Factually Accurate
+
+--- Page 40 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Please provide MHBE did not review 704 of the 1,906 overrides processed by MHBE
+additional comments as employees or its contractor during the period from September 2022 to
+deemed necessary. August 2023, due to errors in the reporting criteria used in the technical
+reports that are relied upon for internal override reviews. Upon discovery
+of this error by OLA, MHBE immediately examined and remedied the
+parameters used to generate the report to ensure that all overrides would
+be appropriately captured in reports from February 2, 2024, forward.
+There was also one individual identified by OLA as having both override
+access as well as supervisory override access. Inadvertently, access to one
+of the override roles was not removed as it should have been in this case.
+This individual was not aware that he/she had the dual access and in fact,
+had previously and correctly requested that the access be removed. This
+individual was operating with the understanding that the appropriate
+access removal had been completed. As a result, and as OLA notes, there
+were no instances where this employee reviewed their overrides.
+Nevertheless, dual access was present, and this is in contravention of
+MHBE’s policy.
+In OLA’s previous audit report of May 2021, 23 individuals were
+identified as having override ability without independent review and
+approval. This was due to inadequate controls which were strengthened
+as part of MHBE’s previous Corrective Action Plan. This was
+accomplished, in part, by the inclusion of such controls in the December
+8, 2021, policy on Review of Eligibility Overrides. In the present case,
+and as explained above, only one individual was determined to have
+inappropriate access.
+MHBE did not have a process to ensure that overrides of applicant
+eligibility performed by employees at MDH and DHS were independently
+reviewed and approved. Upon review of a sample of MDH and DHS
+overrides, which were provided and performed by MDH, it was
+determined that 16 of the 20 overrides were improper. MHBE is
+committed to the integrity of overrides performed within the HBX system
+and has collaborated with MDH to develop and implement procedures to
+ensure that eligibility overrides performed by MDH and DHS employees
+are independently reviewed and that improper overrides are corrected.
+This corrective action is outlined below in Recommendation b below.
+
+--- Page 41 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Recommendation 4a Agree Estimated Completion Date: June 30, 2025
+Please provide details of Corrective Action is outlined as follows:
+corrective action or
+explain disagreement. A) The MHBE Reporting team, which is currently required by MHBE
+policy, “to pull cases from HBX where eligibility was changed from HBX
+generated eligibility to eligibility provided by action by an override
+worker,” will examine the report parameters and ensure accurate output
+each month for six months beginning with its September 20, 2024 report.
+Projected Completion: March 31, 2025
+B) Supervisors who oversee the validity of overrides will not
+have override capability. Override access within the Health Benefit
+Exchange (HBX) will be reviewed by MHBE’s Director of Consumer
+Assistance, or designee, on a quarterly basis to ensure this is the case, with
+a written communication of the results to the Director of Compliance and
+Privacy. This commenced in September of 2024, and will be ongoing in
+nature, with the Policy on Review of Eligibility Overrides already updated
+to reflect this new quality control.
+Projected Completion: Ongoing
+C) The Director of Compliance and Privacy, or designee will perform an
+annual internal review of the Consumer Assistance and Eligibility
+Department to ensure that override capability has been appropriately
+managed commensurate with the corrective action plan and updated
+policy requirements.
+Projected Completion: June 30, 2025
+Recommendation 4b Agree Estimated Completion Date: Completed as
+of December
+31, 2024
+Please provide details of Corrective Action is outlined as follows:
+corrective action or
+explain disagreement. MHBE and MDH Management have discussed and agreed upon certain
+specific processes to ensure that eligibility overrides performed by MDH
+and DHS employees are independently reviewed and approved, and that
+improper overrides are corrected.
+MDH Actions:
+A) Access Controls
+MDH has proposed, and MHBE agrees, that overrides performed by
+MDH and DHS would be performed by an individual at a team lead or
+supervisory level, with oversight over the overrides granted to a
+separate individual with appropriate subject matter expertise, and who
+does not have the ability to perform overrides themself.
+
+--- Page 42 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Proposed Implementation Date: Implemented as of December 31, 2024
+B) Written Procedure
+MDH and MHBE agree that for MDH processes, MDH will draft a
+written, standardized operating procedure, which outlines requirements
+surrounding the review of overrides performed by MDH and DHS
+employees. This document should address access to overrides, review
+frequency and volume, authorization controls regarding performing and
+reviewing overrides, etc. Written guidelines will help ensure the quality
+and integrity of the override process.
+Proposed Implementation Date: Implemented as of December 31, 2024
+C) Implementation of a Volume Based Quality Control/Override Review
+Paradigm
+MDH and MHBE agree that a defined schedule for the number of
+overrides to be reviewed by MDH will serve as a good benchmark to
+ensure consistent reviews are taking place, to control the resource burden
+for override reviews, and to standardize the number of overrides requiring
+review. Currently, MHBE reviews 100% of internal overrides, but may
+consider a reduction to standardize the process with MDH, given that
+MHBE will be taking on a new workflow in reviewing a percentage of
+those overrides performed by MDH and DHS workers. The review table
+below has been proposed by MDH, is based on industry accepted
+standards for quality assurance, and will be included in the written,
+standardized operating procedure referenced in section B above. If the
+same schedule is practical for MHBE, it will be incorporated into the
+MHBE Policy on Review of Eligibility Overrides.
+Table 1. Number of Records and Sample Percentage
+Number of Records Percentage Sampled
+1-20 100%
+21-200 20%
+201-1000 10%
+1001 - 2000 5%
+
+--- Page 43 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+2001 + 1%
+Proposed Implementation Date: Implemented as of December 31, 2024
+MHBE Actions:
+MHBE proposes the implementation of the following procedures to
+ensure that eligibility overrides performed by MDH and DHS employees
+are independently reviewed and approved by both MDH and MHBE, and
+that improper overrides, including those identified in the analysis above,
+are corrected.
+A) The MHBE reporting team will provide a monthly override report to
+designated contacts at MHBE, and MDH for MDH and DHS overrides.
+B) A MDH designated individual, to be defined by title, will be
+responsible for pulling a monthly random sample of overrides and other
+designated individuals, in a separate department of MDH, will be
+responsible for performing the review of overrides for MDH and DHS, in
+accordance with the table above.
+C) A MDH designated individual, to be defined by title, will securely
+email the completed random sample review to the MHBE Director of
+Compliance and Privacy, MHBE Director of Consumer Assistance, and
+the MHBE Special Projects Manager.
+D) The MHBE Special Projects Manager, who does not and will not be
+granted override access, will be responsible for performing a 100%
+review of random sample size that has been reviewed by MDH for MDH
+and DHS overrides.
+E) All findings, corrections, and the final reviews performed by the
+MHBE Special Project Manager will be sent, via secure email, to the
+MHBE Director of Compliance and Privacy and a MDH designated
+individual, to be defined by title.
+F) MHBE Director of Compliance and Privacy will, on an ongoing basis
+connect with a MDH designated individual, to be defined by title, to
+ensure override reviews are being completed.
+Proposed Implementation Date: Implemented as of December 31, 2024
+
+--- Page 44 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Recommendation 4c Agree Estimated Completion Date: Completed as
+of December
+31, 2024
+Please provide details of All overrides that OLA found to be improper were identified, examined,
+corrective action or and corrected. At the direction of MHBE’s Director of Consumer
+explain disagreement.
+Assistance, the unreviewed overrides identified were reviewed in an
+expedited manner. As a matter of due diligence and quality assurance,
+MHBE reviews all overrides processed by MHBE employees and its
+contractor rather than just a statistically valid sample. As established in
+the above recommendation responses, MHBE now has a formal process
+with MDH and DHS for quality assurance checks based on the specifically
+defined sample size. When improper overrides are identified, they are
+corrected as part of the process established in recommendation section 4b.
+
+--- Page 45 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+MHBE Fund
+Finding 5
+MHBE did not adequately pursue the collection of $649 million in insurance
+provider fees collected by the Maryland Insurance Administration (MIA) that
+should have been transferred to the MHBE Fund.
+We recommend that MHBE follow-up with MIA to ensure the timely transfer of
+fees collected on its behalf.
+Agency Response
+Analysis Factually Accurate
+Please provide The State Legislation governing the MHBE Fund was passed on April 10,
+additional comments as 2018, and signed by the Governor on April 4, 2018 (Senate Bill 387,
+deemed necessary. Health Insurance - Individual Market Stabilization [Maryland Health Care
+Access Act of 2018], with the stated purpose summarized as follows:
+“Requiring certain insurers, nonprofit health service plans, health
+maintenance organizations, dental plan organizations, fraternal benefit
+organizations, managed care organizations, and certain other persons to
+be subject to a certain 2.75% assessment in calendar year 2019;
+establishing that the purpose of the assessment is to recoup a certain
+aggregate amount of the health insurance provider fee for certain
+purposes; requiring distribution of the assessment to the Maryland Health
+Benefit Exchange Fund; etc.”
+In January 2019, November 2019, August of 2020, and March of 2021
+MHBE inquired about the transfer of the funds from the Maryland
+Insurance Administration (MIA). The Maryland Department of Budget
+and Management (DBM) instructed MHBE to keep the funds with MIA
+in a March 2021 email.
+MHBE relied upon this representation from the DBM in its decision to
+keep the funds with MIA. MHBE clarifies that the amount due to
+MHBE was $641,013,402.87, as determined by MIA. MHBE relies on
+MIA to assess the fee and transfer it to MHBE. At all times during
+which MIA held these reinsurance funds, MHBE had access to them
+upon request.
+Recommendation 5 Agree Estimated Completion Date: June 30, 2025
+
+--- Page 46 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Please provide details of On January 17, 2024, MIA transferred $641,013,402.87 to MHBE. At the
+corrective action or end of each Fiscal Year the Chief Financial Officer, or designee will
+explain disagreement. request the amount collected by MIA for the premium surcharge
+supported by appropriate detail. MHBE will request transfer of the amount
+collected by MIA and ensure its transfer to MHBE.
+The Director of Compliance and Privacy, or designee, will perform an
+annual internal review of the Finance and Procurement Department to
+ensure that MHBE has timely requested the transfer from MIA and that
+the amount is, in fact, transferred to MHBE as part of MHBE’s corrective
+action plan.
+Projected Completion: June 30, 2025
+
+--- Page 47 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Procurements
+Finding 6
+MHBE did not always publish contract awards and document bid proposal
+openings.
+We recommend that MHBE
+a. post its contract awards on its website as required by its policies,
+b. enhance contract award posting policies to require the publication date on the
+website as well as a required posted period (e.g. within 30 days of award), and
+c. establish procedures to document the opening of bid proposals.
+Agency Response
+Analysis Factually Accurate
+Please provide MHBE agrees with this finding and its corrective actions are detailed in
+additional comments as the following recommendation sections.
+deemed necessary.
+Recommendation 6a Agree Estimated Completion Date: June 30, 2025
+Please provide details of The Chief Financial Officer will work to update internal procedures to
+corrective action or memorialize the written requirement that contract awards are posted to the
+explain disagreement. website within 30 days, and the MHBE Procurement Manager will ensure
+that this is completed on an ongoing basis.
+Implemented as of December 31, 2024
+The Director of Compliance and Privacy, or designee, will perform an
+annual internal review of the Finance and Procurement Department to
+ensure that the above requirements are met as part of MHBE’s corrective
+action plan.
+Projected Completion: June 30, 2025
+Recommendation 6b Agree Estimated Completion Date: June 30, 2025
+Please provide details of MHBE will update its internal policies governing contract awards to
+corrective action or require the publication of awards on MHBE’s website no later than
+explain disagreement. 30 days after execution, along with the publication date. Projected
+Completion: June 30, 2025
+The Director of Compliance and Privacy, or designee, will perform an
+annual internal review of the Finance and Procurement Department to
+ensure that the above requirements are met as part of MHBE’s corrective
+action plan.
+Projected Completion: June 30, 2025
+
+--- Page 48 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Recommendation 6c Agree Estimated Completion Date: Ongoing
+Please provide details of MHBE will take the following steps as corrective action:
+corrective action or
+explain disagreement.
+A) The Chief Financial Officer, or designee, will ensure that the awards
+are posted and the opening of bids is documented.
+B) The Chief Financial Officer, or designee, currently reports new
+contracts on a monthly basis to the MHBE’s Board of Trustees. After
+completion of the report, the report preparer will check to ensure that
+the awards are posted on the MHBE website and that the
+documentation for the opening of the bids is in the Procurement
+Folder. The CFO will ensure that the documentation of opening bids
+is completed properly and in every case.
+Projected Completion: Ongoing
+The Director of Compliance and Privacy, or designee, will perform an
+annual internal review of the Finance and Procurement Department to
+ensure that the above requirements are met as part of MHBE’s corrective
+action plan.
+Projected Completion: June 30, 2025
+
+--- Page 49 ---
+Maryland Health Benefit Exchange
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that the Information Systems
+Security and Control section, including Findings 7 and 8 related to “cybersecurity,” as
+defined by the State Finance and Procurement Article, Section 3.5-301(b) of the
+Annotated Code of Maryland, and therefore are subject to redaction from the publicly
+available audit report in accordance with the State Government Article 2-1224(i).
+Although the specifics of the following findings, including the analysis, related
+recommendations, along with MHBE’s responses, have been redacted from this report
+copy, MHBE’s responses indicated agreement with the findings and related
+recommendations.
+Finding 7
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 8
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+
+--- Page 50 ---
+A T
+UDIT EAM
+Catherine M. Clarke, CPA, CIA, CFE
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+David R. Fahnestock, CPA
+Data Analytics Manager
+Joel E. Kleiman, CPA
+Senior Auditor
+Michael K. Bliss, CISA
+Matthew D. Walbert, CISA
+Information Systems Senior Auditors
+Charles H. Hinds, IV, CPA
+Ian T. Pontius
+Data Analytics Senior Auditors
+Johanna K. Bachman
+Ali A. Dayya
+Staff Auditors
+Vickey K. Micah
+Christopher C. Pitre
+Information Systems Staff Auditors

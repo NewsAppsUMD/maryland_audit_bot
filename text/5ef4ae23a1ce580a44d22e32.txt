@@ -1,0 +1,1571 @@
+Title: Maryland Department of Health - Efforts to Identify and Analyze Improper Medicaid Payments
+Date: 06/23/2020
+Type: Performance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5ef4ae23a1ce580a44d22e32
+Extracted: 2025-06-19T11:41:41.850216
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Performance Audit Report
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+June 2020
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Carol L. Krimm (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Mark S. Chang
+Senator George C. Edwards Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Keith E. Haynes
+Senator Cheryl C. Kagan Delegate Michael A. Jackson
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate April R Rose
+Senator Justin D. Ready Delegate Geraldine Valentino-Smith
+Senator Craig J. Zucker Delegate Karen Lewis Young
+To Obtain Further Information
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 ꞏ 301-970-5900 ꞏ 1-877-486-9964 (Toll Free in Maryland)
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+June 23, 2020
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Carol L. Krimm, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a performance audit to determine if the Maryland
+Department of Health (MDH), including its Division of Program Integrity
+(DPI), had a comprehensive approach in place to identify and analyze
+improper Medicaid-related payments for the period beginning July 1, 2015
+and ending June 30, 2018. During fiscal year 2018, disbursements for
+Medicaid-related payments totaled $10.9 billion.
+Our audit disclosed that MDH had not established a comprehensive risk-based
+approach to identify and analyze improper Medicaid payments. Specifically,
+MDH had not established a periodic risk assessment process to identify and
+document overall risks and to allocate its resources to areas of highest risk.
+We also found that DPI’s data analytics were not robust, were not tied to a
+risk-based approach or plan, and did not fully address Managed Care
+Organization (MCO) encounter data. Furthermore, MDH did not take
+advantage of data analysis services available through the federal government
+that could improve the effectiveness of its analytics. Finally, MDH did not
+implement a formal process to measure and report quantifiable benefits from
+the operation of DPI, which has the primary responsibility to identify and
+analyze improper Medicaid-related payments.
+In addition, MDH was not adequately identifying and addressing potential
+improper Medicaid-related payments. We noted numerous areas where claims
+were paid without validation to ensure the provider was properly enrolled and
+
+--- Page 4 ---
+qualified for Medicaid, as required by federal or State regulations. For example,
+during the period July 1, 2015 to June 30, 2018, MDH approved prescription and
+laboratory claims totaling approximately $175 million submitted by prescribing
+physicians and referring providers whose enrollment in Medicaid was not
+validated. We also found that MDH’s controls were not adequate to identify and
+prevent improper Medicaid payments related to incarcerated individuals. We
+identified approximately $9.6 million of potential improper Medicaid payments
+related to incarcerated individuals during fiscal years 2016 to 2018.
+Our audit also disclosed deficiencies with MDH’s Medicaid Management
+Information System edits that did not trigger a suspension or denial of certain
+high-risk claims (such as certain potential duplicate claims payments and
+payments to providers after a credible allegation of fraud was determined).
+Furthermore, we identified several deficiencies related to MDH’s oversight of the
+MCOs providing Medicaid services. For example, MDH did not ensure that the
+MCOs included certain critical information in their encounter data and performed
+required investigations of the encounter data. MDH also did not ensure MCOs
+had not paid claims for excluded services. Such services are paid directly by
+MDH, and if an MCO were to pay providers directly for these services, it could
+improperly increase the MCO’s subsequent capitation (per person) rates.
+MDH’s response to this audit is included as an appendix to this report. We
+reviewed the response to our findings and related recommendations, and have
+concluded that the corrective actions identified are sufficient to address all
+audit issues. While MDH agrees with the recommendations in this report, we
+identified certain instances in which statements in the response conflict with
+or disagree with a report finding. We reviewed and reassessed our audit
+documentation, and reaffirmed the validity of our finding. In accordance with
+generally accepted government auditing standards, we have included an
+“auditor comment” within MDH’s response to explain our position.
+We wish to acknowledge the cooperation extended to us during the audit by
+MDH and its willingness to address the audit issues and implement
+appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Audit Scope, Objectives, and Methodology 5
+Audit Scope 5
+Objectives and Methodology 6
+Fieldwork and Agency Response 7
+Background Information 8
+Agency Responsibilities 8
+Medicaid Payment Methodologies 9
+Responsibility to Identify and Analyze Improper Payments 10
+Findings and Recommendations 11
+Objective 1 – To determine if the Maryland Department of Health (MDH)
+had established a comprehensive documented risk-based approach to
+focus the efforts of its program integrity operations on areas of highest
+risk and applied industry best practices in its use of data analytics to
+effectively identify improper Medicaid-related payments. Additionally,
+to determine if MDH measured and reported quantifiable benefits of
+its program integrity operations.
+Objective and Methodology 11
+Conclusion 11
+Findings
+Finding 1 – MDH’s process to identify and analyze improper Medicaid 12
+payments through its Division of Program Integrity (DPI) was not
+comprehensive and did not incorporate certain best practices.
+Objective 2 – To determine if MDH’s operations were adequately
+identifying and addressing potential improper Medicaid-related
+payments.
+Objective and Methodology 15
+Conclusion 15
+Findings
+Finding 2 – MDH did not ensure that prescribing physicians and referring 16
+providers were enrolled in Medicaid, as required by federal
+regulations. We determined that MDH approved prescription and
+laboratory claims totaling approximately $175 million submitted by
+3
+
+--- Page 6 ---
+prescribing physicians and referring providers whose enrollment in
+Medicaid was not validated.
+Finding 3 – MDH did not ensure that rendering providers for certain 17
+group practices were enrolled in Medicaid, as required by
+State regulations.
+Finding 4 – MDH accepted encounter data from Managed Care 19
+Organizations (MCOs) that excluded necessary data elements and
+hindered its ability to perform effective oversight, including DPI’s
+use of data analytics to identify and analyze improper claim activity.
+Finding 5 – MDH did not perform a data match or have an alternative 20
+method to determine if MCOs were paying claims related to certain
+services that MDH had carved out from the MCO contracts.
+Finding 6 – MDH did not ensure MCO providers rendering services to 21
+Maryland recipients were enrolled as Medicaid providers, as required
+by federal regulations that became effective January 1, 2018.
+Finding 7 – MDH did not ensure each MCO conducted required 22
+investigations of encounter claims activity.
+Finding 8 – A data match performed by MDH to identify incarcerated 24
+individuals who were improperly enrolled in MCOs was based on
+incomplete data and was not used to identify and prevent improper
+fee-for-service payments related to incarcerated individuals. Our
+expanded data match identified approximately $9.6 million of
+potential improper claim payments that had not been identified or
+investigated by MDH.
+Finding 9 – Claims processing edits were not properly implemented to 26
+prevent payments after a credible allegation of fraud against a
+provider was determined. Additionally, certain existing claims
+processing edits were not always designed in a manner to analyze
+critical criteria that could be indicative of either duplicate payments
+or overpayments.
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Audit Scope, Objectives, and Methodology
+Audit Scope
+We conducted a performance audit to determine if the Maryland Department of
+Health (MDH), including its Division of Program Integrity, had a comprehensive
+approach in place to identify and analyze improper Medicaid-related payments.
+This audit was initiated as a result of significant increases in Medicaid
+expenditures over the past decade and ever increasing healthcare costs. The
+Centers for Medicare and Medicaid Services (CMS) is currently projecting that
+total spending for Medicaid will rise an average of 5.5 percent per year from 2018
+to 2027.
+There is a high risk of significant improper payments and fraud, waste, and abuse
+in the Medicaid program, which has been identified and reported both at the
+federal level (such as by CMS and the Government Accountability Office) and by
+other state audit organizations. These reports also identified insufficiencies,
+concerns, or needed areas of improvement in other states’ program integrity
+operations to more effectively identify and analyze improper payments.
+The scope of our performance audit was limited to reviewing Medicaid claim
+activity for a three-year period for fiscal years 2016, 2017, and 2018 and focused
+on the control activities, entities, and data involved with identifying and analyzing
+improper Medicaid payments. Our audit did not include an evaluation of
+procedures and controls over recipient eligibility, calculation of payments to
+Managed Care Organizations (MCOs), or verification of drug rebates. These
+areas are subject to separate audits our Office performs of MDH.
+We conducted this audit under the authority of the State Government Article,
+Section 2-1221 of the Annotated Code of Maryland and performed it in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+5
+
+--- Page 8 ---
+Objectives and Methodology
+Our audit included the following two objectives:
+1. To determine if MDH had established a comprehensive documented risk-
+based approach to focus the efforts of its program integrity operations on
+areas of highest risk and applied industry best practices in its use of data
+analytics to effectively identify improper Medicaid-related payments.
+Additionally, to determine if MDH measured and reported quantifiable
+benefits of its program integrity operations.
+2. To determine if MDH’s operations were adequately identifying and
+addressing potential improper Medicaid-related payments.
+To accomplish our objectives, we obtained data extracts from the Medicaid
+Management Information System (MMIS II) for a three-year period for fiscal
+years 2016, 2017, and 2018 to perform data analytics of more than 290 million
+fee-for-service claim payments and MCO encounter data records. The data we
+obtained were subject to various tests to determine data reliability, including
+tracing samples of randomly selected claims to MMIS II for accuracy and
+comparing claim totals to control totals of expenditures for completeness. We
+also ensured the coding logic we used for extracting the data records from MMIS
+II was designed properly. Based on these reviews, we determined the claims data
+were sufficiently reliable for use in our audit. For the encounter data, we
+determined that the data agreed to the data as maintained in MMIS II. However,
+our audit work disclosed the encounter data was deficient as it did not include
+certain critical data elements (see Finding 4).
+Additionally, we reviewed reports and documentation pertaining to the Medicaid
+program, with particular focus on improper Medicaid payments, from other state
+and federal agencies. Furthermore, we interviewed various MDH employees
+responsible for identifying and analyzing improper Medicaid payments. We
+conducted tests, analyses, inspections of documents and records, and
+observations, as we deemed necessary to achieve our objectives.
+More detailed descriptions of the specific objectives and related methodologies
+are discussed in the Findings and Recommendations section of this report.
+6
+
+--- Page 9 ---
+Fieldwork and Agency Response
+We conducted our fieldwork from May 2018 to May 2019. MDH’s response to
+our findings and recommendations is included as an appendix to this report. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise MDH regarding the results of our review of its
+response.
+7
+
+--- Page 10 ---
+Background Information
+Agency Responsibilities
+The Medical Care Programs Administration (MCPA) of the Maryland
+Department of Health (MDH) operates under both Title XIX of the federal Social
+Security Act (Medicaid) and State law. Medicaid is a joint federal and state
+entitlement program for low-income individuals. The program is administered by
+the states, which are required to provide healthcare coverage to all applicants who
+meet the program’s eligibility criteria.
+Medicaid represents a significant portion of Maryland’s expenditures. For fiscal
+year 2018, approximately 27 percent of total State expenditures were for
+Medicaid. Specifically, of the $41 billion spent by the State (from all funding
+sources) in fiscal year 2018, $10.9 billion was spent on Medicaid. Funding for
+Medicaid totaled $6.7 billion from federal funds, $3.2 billion from State general
+funds, and an additional $1 billion from special and reimbursable funds.
+__________________________________________________________________
+Figure 1
+Medicaid Represents 27 Percent of Maryland Expenditures
+Source: State of Maryland Comprehensive Annual Financial Report, Fiscal Year 2018
+8
+
+--- Page 11 ---
+Medicaid Payment Methodologies
+MDH uses two methodologies for paying Medicaid claims.
+Managed Care Organizations (MCOs)
+According to MCPA records as of June 30, 2018, approximately 1.2 million (or
+86 percent) of the 1.4 million Medicaid recipients were enrolled in HealthChoice,
+the statewide managed care program that began in 1997. Under HealthChoice,
+MCPA makes specified capitation (per person) payments to Maryland’s nine
+private MCOs to cover the cost of services provided to enrolled Medicaid
+recipients. In general, the MCOs contract with and pay health care professionals
+and other entities (such as hospitals) to provide these services. The capitation
+rates vary by recipient based on several factors, including the recipient’s
+demographics and medical history. MCPA also reimburses the MCOs for certain
+high-cost activities (such as newborn deliveries and Hepatitis C treatments).
+While the MCOs provide a wide variety of services to enrolled recipients, certain
+services (such as behavioral health services) are paid for on a fee-for-service basis
+by MCPA even for recipients enrolled in an MCO. These services are termed
+“carve outs.”
+MCOs submit encounter data to MCPA to show what services were performed so
+outcomes can be measured and future rates can be based on past actual services
+provided. Encounter data generally represent billed claims that providers submit
+to MCOs.
+During fiscal year 2018, MCPA made payments to the MCOs totaling
+approximately $5.6 billion, which represents slightly more than half of the costs
+for Maryland’s Medicaid program.
+Fee-for-Service
+Populations excluded from the HealthChoice managed care program include the
+institutionalized and individuals who are dually eligible for Medicaid and
+Medicare. Populations not covered by an MCO are covered on a fee-for-service
+basis. Under the fee-for-service system, health providers (such as physicians,
+hospitals, and medical equipment suppliers) are paid a fee for each service or
+supply provided. Fees are generally billed at rates established by MCPA or, in the
+case of hospital stays, at rates established by the Maryland Health Services Cost
+Review Commission. Annually, fee-for-service costs represent slightly less than
+half of the costs for Maryland’s Medicaid program.
+9
+
+--- Page 12 ---
+Responsibility to Identify and Analyze Improper Payments
+The federal government defines improper payments as “any payment that should
+not have been made or that was made in an incorrect amount under statutory,
+contractual, administrative, or other legally applicable requirements.” Incorrect
+amounts include both overpayments and underpayments.
+According to 2017 Payment Error Rate Measurement Reviews performed by the
+Centers for Medicare and Medicaid Services (CMS), the improper payment rate in
+Medicaid fee-for-service payments nationally was estimated at 12.9 percent.
+Although Maryland’s improper payment rate was almost half the national
+average, it significantly increased by more than forty percent from the last review
+CMS performed in 2014. Based on the 2017 review of Maryland, CMS’
+projected improper payments in Medicaid fee-for-service payments totaled
+approximately $382 million for fiscal year 2016.
+MDH’s Office of the Inspector General (OIG) includes the Division of Program
+Integrity (DPI), which is a key component of MDH’s efforts to identify and
+analyze improper Medicaid-related payments. As of June 30, 2018, the OIG had
+64 employees, including 37 employees assigned to DPI. DPI includes the
+Surveillance and Utilization Review Subsystem (SURS) unit. Using its own
+information system, the SURS unit performs various data analytics on Medicaid
+claims (both fee-for-service and MCO encounter data) to identify and analyze
+improper Medicaid-related payments. The SURS unit performs data analytics,
+primarily on an ad hoc basis, based on its own ideas and through communications
+with CMS or other states, or to follow up on investigations initiated by others
+within DPI and MDH.
+10
+
+--- Page 13 ---
+Findings and Recommendations
+Objective 1 – Effectiveness of Program Integrity Operations
+Objective and Methodology
+Our objective was to determine if the Maryland Department of Health (MDH) had
+established a comprehensive documented risk-based approach to focus the efforts
+of its program integrity operations on areas of highest risk and applied industry
+best practices in its use of data analytics to effectively identify improper
+Medicaid-related payments. Additionally, our objective was to determine if MDH
+measured and reported quantifiable benefits of its program integrity operations.
+To accomplish this objective, we reviewed numerous reports by other states and
+the federal government to identify best practices and recommendations for
+program integrity operations and oversight activities to effectively identify and
+analyze improper Medicaid-related payments. We also interviewed multiple
+MDH staff, including those in the Office of the Inspector General (OIG) and its
+Division of Program Integrity (DPI), to obtain an understanding of MDH’s
+processes to identify and analyze improper Medicaid-related payments. This
+included gaining an understanding of DPI’s Surveillance and Utilization Review
+Subsystem (SURS) information system that is used for DPI’s data analysis of
+Medicaid-related payments, and evaluating DPI’s use of the system and its
+capabilities. Additionally, we researched the availability of other data analysis
+services that MDH could potentially take advantage of through the federal
+government. Finally, we evaluated whether MDH measures and reports
+quantifiable benefits of its program integrity operations, a practice that was
+recommended in a federal Government Accountability Office (GAO) Report.
+Conclusion
+We determined that MDH had not established a comprehensive risk-based
+approach to focus the efforts of its program integrity operations on areas of
+highest risk. Specifically, MDH had not established a periodic risk assessment
+process to identify and document overall risks and to allocate its resources,
+including DPI resources, to areas of highest risk. We also found that DPI’s data
+analytics were not robust, were not tied to a risk-based approach or plan, and did
+not fully address Managed Care Organization (MCO) encounter data.
+Furthermore, MDH did not take advantage of data analysis services available
+through the federal government that could improve the effectiveness of its
+analytics. Finally, MDH did not implement a formal process to measure and
+report quantifiable benefits of its program integrity operations.
+11
+
+--- Page 14 ---
+Finding 1
+MDH’s process to identify and analyze improper Medicaid payments
+through its DPI was not comprehensive and did not incorporate certain best
+practices.
+Analysis
+MDH’s process to identify and analyze improper Medicaid payments through its
+DPI was not comprehensive and did not incorporate certain best practices.
+Specifically, DPI’s work was generally limited to reacting to ad-hoc requests from
+MDH divisions or from within DPI for specific information related to
+investigations of improper Medicaid payments. DPI did not utilize robust data
+analytic techniques based on a risk-based approach, did not use available federal
+data matching services, and did not implement a mechanism to track and quantify
+measurable benefits of its operations. Based on our research, these practices
+could help MDH proactively focus its limited resources on areas of greatest
+concern and risk.
+DPI’s Data Analytics Need Improvement
+DPI’s use of data analytics to review Medicaid claims through its SURS unit was
+not robust, was not tied to a risk-based approach or plan, and did not fully address
+MCO encounter data.
+The tools used by DPI’s SURS unit lacked capabilities to perform cross-matching
+between different datasets (such as cross matching between MDH’s own systems
+and other datasets external to MDH) that could help identify improper payments.
+Additionally, DPI could not perform geo-mapping and data visualization
+techniques (summary charts and tables) to proactively highlight trends, patterns,
+and irregularities in Medicaid payment activity by provider or recipient. For
+example, a geo-map could help identify a provider who submits a high volume of
+Medicaid claims for services to recipients who reside long distances from the
+provider’s office, warranting further investigation. Consequently, during our
+audit, we performed our own advanced data analytics using available commercial
+software that we determined was more comprehensive than the software available
+through the SURS unit. For example, in Findings 2, 3, 5, 8, and 9, our data
+analytics used methods and cross-matching techniques not available through the
+SURS unit to identify various potential improper payments, and throughout our
+audit work we analyzed data for trends, patterns, or irregularities in Medicaid
+payment activity by provider.
+Additionally, DPI’s data analytics were not tied to a risk-based approach or
+annual plan. A risk-based approach is important for data analytics activities and
+can enhance the effectiveness of such activities. According to a July 2015 GAO
+12
+
+--- Page 15 ---
+report, titled A Framework for Managing Fraud Risk in Federal Programs, one of
+the leading practices for data analytics activities is to take a risk-based approach
+to data analytics and consider the benefits and costs of investing in specific data-
+analytic tools and techniques. MDH personnel advised us that they attempted to
+address areas of risk throughout their work, but did not have a formal or
+documented approach or an annual plan. Given its limited resources, DPI’s
+primary focus was following up on fraud tips and related investigations instead of
+proactively addressing areas of known risks.
+Furthermore, DPI did not provide effective oversight of the Managed Care
+Program, since it was not performing comprehensive analytics of MCO encounter
+data. Instead, DPI’s encounter data analysis was generally limited to reviewing a
+specific issue that came to their attention through a fee-for-service or provider
+investigation. DPI personnel advised that they rely significantly on the MCOs’
+investigative units to ensure the propriety of encounter data activity. However, as
+noted in Finding 7, MDH did not ensure each MCO conducted investigations of
+encounter data activity, as required.
+DPI Did Not Use Available Federal Data Matching Services
+DPI did not leverage available data matching resources provided through the
+United States Treasury’s Do Not Pay (DNP) Center. The DNP Center is a free
+robust analytic tool that helps agencies identify and prevent improper payments
+by matching agency data to various federal databases (such as multiple death
+record databases and the List of Excluded Individuals and Entities1) some of
+which are only available through the federal government. Additionally, the DNP
+Center provides pattern and trend analysis, detection of anomalies to identify high
+risk areas, and detection of duplicates. While MDH obtained extracts from some
+of the same databases used by the DNP Center (such as the List of Excluded
+Individuals and Entities) and performed its own in-house matches, we concluded
+that MDH’s matches lacked the comprehensive analytical approach performed by
+the DNP Center such as trend analysis and detection of anomalies. Consequently,
+we believe MDH could achieve better data matching results through the DNP
+Center instead of performing its own matches.
+MDH Did Not Perform a Risk Assessment and Lacked Measurable and
+Quantifiable Benefits for its Program Integrity Operations
+MDH did not periodically perform a risk assessment of potential improper
+Medicaid payments to identify and document overall risks and use that
+information to allocate its resources, including DPI resources. Additionally,
+1 The DNP Center includes death databases beyond what is used by MDH. The List of Excluded
+Individuals and Entities identifies entities excluded by the federal government from participating
+in federal healthcare programs.
+13
+
+--- Page 16 ---
+MDH did not implement a formal process to measure and report quantifiable
+benefits of its program integrity operations. Furthermore, MDH could not
+accurately support how it developed its reported savings from DPI efforts of
+$68.6 million over the five-year period from 2014 to 2018.
+According to a January 2015 GAO report, titled Medicaid Information
+Technology, Maryland was identified as one of seven states that could not identify
+any steps taken to quantify improvements in the outcomes or effectiveness of its
+program integrity efforts attributable to the use of information systems. Such
+steps should include conducting a formal annual risk assessment and tracking the
+measurable and quantifiable benefits of its systems. Without these steps, MDH
+lacked assurance that its limited resources were used effectively to identify and
+analyze improper Medicaid payments.
+Recommendation 1
+We recommend that MDH take steps to effectively identify and analyze
+improper Medicaid payments through its program integrity operations by
+a. implementing a robust system of data analytics based on a risk-based
+approach that incorporates cross-matching, geo-mapping, and trend
+analysis to proactively highlight irregularities in Medicaid payment
+activity;
+b. performing comprehensive analytics of MCO encounter data as part of
+its oversight of MCO activities;
+c. taking advantage of data matching services available through the United
+States Treasury’s DNP Center; and
+d. performing a periodic documented risk assessment and implementing a
+formal process to measure and report reliable quantifiable benefits of its
+program integrity operations.
+14
+
+--- Page 17 ---
+Objective 2 – MDH’s Operations to Identify and Address
+Potential Improper Medicaid Payments
+Objective and Methodology
+Our objective was to determine if MDH’s operations were adequately identifying
+and addressing potential improper Medicaid-related payments.
+To accomplish this objective, we reviewed State and federal laws and regulations
+and interviewed MDH staff to obtain an understanding of various processes
+critical to ensuring the proper payment of claims. This included gaining an
+understanding of processes and controls and performing a walkthrough of claims
+processing, the Medicaid Management Information System (MMIS II) edit
+controls, and post payment reviews (such as data matches) performed to identify
+potential improper Medicaid-related payments. We also obtained an
+understanding of provider enrollment processes and related system controls to
+ensure claims are only paid for services rendered by qualified providers meeting
+federal and State requirements. We obtained and extracted claims data and
+encounter data from MMIS II for the period July 1, 2015 through June 30, 2018
+and performed numerous analytics and matches to identify potential improper
+Medicaid-related payments. Certain of these potential improper payments were
+selected on a test-basis for further investigation to determine the propriety of
+claim payments.
+Conclusion
+We determined that MDH’s operations were not adequately identifying and
+addressing potential improper Medicaid-related payments. We noted numerous
+areas where claims were paid without validation to ensure the provider was
+properly enrolled and qualified for Medicaid, as required. We also found that
+MDH’s controls were not adequate to identify and prevent improper Medicaid
+payments related to incarcerated individuals. Our audit also disclosed
+deficiencies in MMIS II system edits that did not trigger a suspension or denial of
+certain high-risk claims (such as certain potential duplicate claim payments and
+payments to providers after a credible allegation of fraud was determined).
+Furthermore, we identified several deficiencies related to MDH’s oversight of the
+MCOs. For example, MDH did not ensure that the MCOs included certain
+critical information in their encounter data and performed required investigations
+of the encounter data. MDH also did not ensure MCOs had not paid claims for
+excluded services.
+15
+
+--- Page 18 ---
+Finding 2
+MDH did not ensure that prescribing physicians and referring providers
+were enrolled in Medicaid, as required by federal regulations. During the
+period July 1, 2015 to June 30, 2018, MDH approved prescription and
+laboratory claims totaling approximately $175 million submitted by
+prescribing physicians and referring providers whose enrollment in
+Medicaid was not validated.
+Analysis
+MDH did not ensure that prescribing physicians and referring providers were
+enrolled in Medicaid prior to approving claims, as required by federal regulations
+established by the Affordable Care Act in 2011. During the period July 1, 2015 to
+June 30, 2018, of the 17 million pharmacy and laboratory claims totaling
+approximately $2 billion, MDH approved 1.6 million claims totaling
+approximately $175 million submitted by prescribing physicians and referring
+providers whose enrollment in Medicaid was not validated. Since MDH did not
+have an approved Medicaid number to identify the prescribing physicians and
+referring providers at the time of the claim, MDH’s MCPA allowed the claims to
+be processed in MMIS II with a general number (known as a dummy number).
+The information identifying the provider associated with these claims was not
+provided to DPI which prevented DPI from performing comprehensive data
+analysis to oversee Medicaid claim activity and to identify improper payments.
+Ensuring that prescribing and referring providers are prescreened and enrolled in
+Medicaid helps to reduce fraud and lowers risk to consumers. For example,
+identifying the prescribing physician on pharmacy claims can help detect if
+opioids and other high-risk prescription medications are being prescribed by
+certain physicians in a questionable manner. Additionally, our cursory review of
+the laboratory providers with the highest dollar amount of claims for which the
+dummy number was applied disclosed at least 5 laboratories of the top 15 that
+were subsequently under investigation or had settlements against them for
+improper billing or claims. This included two laboratories that were investigated
+by the federal government resulting in large settlements.
+MDH management advised they were aware of their non-compliance with
+requirements that prescribing physicians and referring providers be enrolled in
+Medicaid and are working to address this issue. For example, MDH planned to
+take steps to verify Medicaid enrollment of prescribing physicians on submitted
+pharmacy claims, and MDH sent a memorandum to the Centers for Medicare and
+Medicaid Services (CMS) in June 2018 indicating its difficulty getting providers
+to comply and seeking CMS’ guidance. As of April 2019, MDH advised they had
+not received a response.
+16
+
+--- Page 19 ---
+Recommendation 2
+We recommend that MDH
+a. ensure that prescribing physicians and referring providers are enrolled in
+Medicaid, as required by federal regulations prior to paying related
+claims;
+b. ensure required enrollment information identifying the prescribing
+physicians and referring providers is provided to DPI to perform
+comprehensive data analysis of claim activity; and
+c. continue to pursue guidance from CMS or consider contacting other
+states for guidance to assist in meeting enrollment requirements for
+prescribing physicians and referring providers.
+Finding 3
+MDH did not ensure that rendering providers for certain group practices
+were enrolled in Medicaid, as required by State regulations.
+Analysis
+MDH did not ensure that rendering providers for certain group practices
+(physical, occupational, and speech therapy) were enrolled in Medicaid, as
+required by State regulations. Specifically, of the approximately 846,000 claims
+paid, totaling $46.2 million, during the period from July 1, 2015 to June 30, 2018
+for certain therapy group practices services, we determined that approximately
+835,000 claims totaling $45.6 million related to approximately 21,700 Medicaid
+recipients did not include identification of the rendering providers. As a result,
+there was lack of assurance as to whether the services were performed by properly
+qualified medical practitioners enrolled in Medicaid.
+We noted that claim amounts related to these therapy group practices increased by
+89 percent from fiscal year 2016 to fiscal year 2018. Also, as shown in Table 1,
+these claims were submitted by 125 practices, with 10 practices or 8 percent of
+the practices representing 67 percent of the claim activity.
+17
+
+--- Page 20 ---
+__________________________________________________________________
+Table 1
+Medicaid Claims Submitted by Therapy Practices
+Without Identification of Rendering Providers
+July 1, 2015 to June 30, 2018
+(claims amount in millions)
+Practices Claims Claims
+Number Percentage Number Percentage Amount Percentage
+Top 10 Practices 10 8% 557,000 67% $30.5 67%
+Remaining
+115 92% 278,000 33% $15.1 33%
+Practices
+Totals 125 835,000 $45.6
+Source: Office of Legislative Audits analysis of MDH records
+According to State regulations, physical therapists, occupational therapists, and
+speech therapists are required to be enrolled in Medicaid in order to render
+services to Medicaid recipients. MDH management advised us that they were
+aware of this issue and distributed a written notification to therapy group practices
+in August 2017 stating the requirement that rendering providers needed to be
+enrolled in Medicaid by November 15, 2017. Additionally, the notification
+specified that effective January 1, 2018, Medicaid claims were required to
+identify the rendering provider information on each claim. However, as of our
+review in February 2019, MDH advised us that it had not enforced either of these
+requirements.
+Recommendation 3
+We recommend that MDH
+a. ensure rendering providers are Medicaid enrolled, as required; and
+b. deny claims when information identifying the rendering provider is not
+submitted.
+18
+
+--- Page 21 ---
+Finding 4
+MDH accepted encounter data from MCOs that excluded necessary data
+elements and hindered its ability to perform effective oversight, including
+DPI’s use of data analytics to identify and analyze improper claim activity.
+Analysis
+MDH accepted encounter data from MCOs that excluded necessary data elements
+and hindered its ability to perform effective oversight, including DPI’s use of data
+analytics to identify and analyze improper claim activity. Specifically, the
+encounter data submitted by MCOs to MDH through December 31, 2017 did not
+include the following three critical elements; 1) paid or denied status of claim, 2)
+claim payment amount, and 3) rendering provider information. According to
+federal rules issued by CMS and in effect at that time, MCOs were required to
+include these elements in their encounter data. As shown in Table 2, these
+excluded elements significantly impacted MDH’s use of the encounter data.
+__________________________________________________________________
+Table 2
+Impact of Excluded Encounter Data Elements
+Excluded Data Element Impact
+DPI could not effectively identify paid claims and could not
+Paid or denied status of claim readily focus its investigative and analytic efforts on only
+paid claims.
+DPI could not readily determine the materiality of claim
+Claim payment amount activity and focus its analytic efforts on the most significant
+claims.
+DPI could not focus its analytic efforts on certain providers
+Rendering provider information or identify unusual patterns in provider claim activity that
+warranted further investigation.
+__________________________________________________________________
+Since these elements were excluded, DPI required assistance from each MCO to
+manually research and obtain this information for each claim it investigated.
+Beginning January 1, 2018, MDH’s MCO contracts required that encounter data
+submitted to MDH include the claim payment amount and rendering provider
+information (two of the three previously excluded data elements). However, the
+contracts did not specifically address the inclusion of the claim’s status as paid or
+denied. Consequently, this data element was still not submitted with the
+encounter data. In addition, as of January 2019, MDH had not fully implemented
+changes to MMIS II to enable MDH to use the two additional data elements when
+19
+
+--- Page 22 ---
+analyzing encounter data. We were advised by MDH information technology
+personnel that the necessary system changes were not implemented in January
+2018 because the changes were not communicated in writing through its work
+order request process. As of January 2020, we were further advised that these
+system changes had still not been implemented.
+Recommendation 4
+We recommend that MDH ensure
+a. encounter data submitted by MCOs includes all federally required data
+elements, including the paid or denied status of the claim; and
+b. system changes to MMIS II are implemented timely to enable DPI to use
+complete encounter data to help identify and analyze improper claim
+activity.
+Finding 5
+MDH did not perform a data match or have an alternative method to
+determine if MCOs were paying claims related to certain services that MDH
+had carved out from the MCO contracts.
+Analysis
+MDH did not perform a data match or have an alternative method to determine if
+MCOs were paying claims related to certain services that MDH had carved out
+from the MCO contracts. Carve out services (such as behavioral health, dental,
+and HIV treatments) are those services that are specifically excluded from
+coverage by MCOs and instead are covered directly by MDH as fee-for-service
+claims. If MCOs paid claims related to these carve out services, this could
+potentially result in capitation rates being set too high.
+Based on risk analysis, we performed a data match of fee-for-service behavioral
+health claims to the encounter data reported by the MCOs during the period from
+July 2015 through June 2018 to determine if the claims were duplicated.
+According to MDH’s records, fee-for-service behavioral health claims totaled
+$3.5 billion during this period. Our match was based on a fee-for-service claim
+having the same date of service, recipient, diagnosis, provider, and claim charge
+as the reported encounter data from the MCO and disclosed approximately 1.1
+million potential duplicate claims totaling $65.4 million.
+Due to limitations in the MCO encounter data (such as no indication as to whether
+the related claims were paid or denied as identified in Finding 4), we were unable
+to determine from the data itself whether the encounters were actually paid by the
+MCOs and represented improper payments. Therefore, we selected 20 match
+20
+
+--- Page 23 ---
+results related to four MCOs and obtained documentation from each MCO to
+determine if the MCOs actually paid these claims for services that were excluded
+from their contracts. Based on our review, we determined 8 match results were
+improperly paid, while the other 12 match results were properly denied or not
+paid. These results could indicate a significant issue with MCOs paying providers
+for excluded services. However, since the MCO encounter data lacks certain
+critical data elements (such as whether each encounter was paid or denied), MDH
+was unable to determine the extent of this issue.
+Finally, although MDH contracts with an independent certified public accounting
+firm to conduct an annual agreed-upon-procedure review of each MCO’s
+capitation rate setting, their scope did not include testing for such occurrences.
+Consequently, the annual reviews do not provide assurance that carve out services
+were excluded from MCO claim payments.
+Recommendation 5
+We recommend MDH
+a. perform a data match using reliable encounter data or have an
+alternative method (such as the annual agreed-upon procedure reviews)
+to ensure that MCOs are not paying claims related to certain services that
+are carved out from the MCO contracts; and
+b. take corrective action to address carve out service claims, including the
+claims mentioned above, that MCOs improperly paid.
+Finding 6
+MDH did not ensure MCO providers rendering services to Maryland
+recipients were enrolled as Medicaid providers, as required by federal
+regulations that became effective January 1, 2018.
+Analysis
+As of February 2019, MDH had not identified all MCO providers (such as general
+practitioners, physicians, specialists, and other providers) who rendered services
+to Maryland recipients and verified that they were enrolled as Medicaid providers
+as required by federal regulations that became effective January 1, 2018.
+Consequently, there was a lack of assurance that MCO providers rendering
+services to Medicaid recipients were properly screened and meet all Medicaid
+enrollment requirements, including that the provider was properly licensed and
+was not debarred or excluded from participating in Medicaid.
+Specifically, in November 2017 MDH estimated that there were approximately
+10,000 MCO providers rendering services to Maryland Medicaid recipients whose
+21
+
+--- Page 24 ---
+Medicaid enrollment needed to be verified by the January 1, 2018 deadline. Due
+to the administrative burden involved with verifying that each of these MCO
+providers met the enrollment requirements, MDH requested a one-year extension
+from CMS. In its request for an extension, MDH provided CMS with a timeline
+of actions it intended to take in order to comply by January 1, 2019. MDH
+advised us that CMS did not provide a response granting this extension.
+Based on our review of MDH records, as of February 2019, MDH was
+maintaining a list that only tracked the enrollment status of 2,928 of the estimated
+10,000 MCO providers. Additionally, the tracking records indicated that only 13
+percent of these 2,928 MCO providers had applied to become Medicaid providers,
+but did not identify how many had been verified. MDH was unable to provide an
+explanation for why it was not tracking all of the estimated MCO providers or
+why it was unable to comply by its requested deadline extension.
+According to MDH, as of February 2019, the MCOs self-reported that 75 to 85
+percent of their providers had been enrolled in Medicaid. However, no detailed
+support (such as listings of the specific MCO providers who had been enrolled)
+was provided to MDH by the MCOs to support these reported figures.
+Recommendation 6
+We recommend MDH take action to ensure MCO providers rendering
+services to Maryland recipients are identified and enrolled as Medicaid
+providers, as required by federal regulations.
+Finding 7
+MDH did not ensure each MCO conducted required investigations of
+encounter claims activity.
+Analysis
+MDH did not ensure each MCO conducted required investigations of encounter
+claims activity. MCOs are required by their MDH contract to conduct
+investigations of their encounter claims activity and report information on those
+investigations periodically to DPI. These investigations are critical to ensure
+MCO payments to providers for encounter claims are proper. Improper claim
+payments can result in higher medical costs for MCOs and in turn higher
+capitation rates paid by MDH to the MCOs.
+According to a 2017 CMS report, the number of investigations conducted by the
+MCOs was “extremely low” relative to the size of Maryland’s Medicaid managed
+care program. As shown in Table 3, the number of MCO investigations
+22
+
+--- Page 25 ---
+performed in fiscal year 2018, in our opinion, was also extremely low relative to
+the number of Medicaid enrollees and payments. Specifically, the nine MCO’s
+reported that investigations were conducted on at least 409 providers during fiscal
+year 2018, and one of those MCOs, with $1.455 billion in payments and almost
+300,000 enrollees, investigated just 84 providers. Furthermore, two of the nine
+MCOs did not report sufficient details regarding their investigations. Specifically,
+one MCO only provided a summary report indicating total number of
+investigations and recoveries but the report did not include any details of the
+specific investigations performed. The other MCO did not report any
+investigations.
+MDH’s MCO contract terms may have contributed to the low number of
+investigations of encounter claims activity. Specifically, the contracts did not
+specify the nature, extent, and frequency of investigations to be performed by the
+MCOs or how providers should be selected for investigation, did not establish
+detailed reporting requirements for investigation results, and did not include any
+penalty provisions or incentives related to investigations. For example, we
+determined that other states had implemented policies allowing the MCO to share
+in recoveries of improper claims.
+__________________________________________________________________
+Table 3
+Summary of MCO Investigations for Fiscal Year 2018
+(payment amount in millions)
+Fiscal Year Number of
+Count of
+MCO 2018 Providers
+Enrollees
+Payments Investigated
+MCO 1 299,689 $1,455 84
+MCO 2 280,401 1,139 62
+MCO 3 218,722 1,120 10
+MCO 4 155,862 706 168
+MCO 5 90,561 453 32
+MCO 6 64,050 280 *
+MCO 7 26,379 197 5
+MCO 8 44,598 232 48
+MCO 9 4,393 14 *
+Totals 1,184,655 $5,596 409
+*Could not be determined due to lack of reported investigations
+Source: MDH records and MDH Enrollment Data published by the Hilltop Institute
+__________________________________________________________________
+23
+
+--- Page 26 ---
+Recommendation 7
+We recommend that MDH
+a. ensure MCOs conduct investigations of encounter claims activity, as
+required and provide adequate details of each investigation so
+appropriate follow up can be performed; and
+b. modify MCO contracts to specify the nature, extent, and frequency of
+investigations to be performed and reporting requirements, and include
+penalties and incentives related to investigations.
+Finding 8
+A data match performed by MDH to identify incarcerated individuals who
+were improperly enrolled in MCOs was based on incomplete data and was
+not used to identify and prevent improper fee-for-service payments related to
+incarcerated individuals. Our expanded data match identified
+approximately $9.6 million of potential improper claim payments during
+fiscal years 2016 to 2018 that had not been identified or investigated by
+MDH.
+Analysis
+A weekly data match performed by MDH to identify incarcerated individuals who
+were improperly enrolled in MCOs was based on incomplete data. Furthermore,
+the MDH match did not include certain data needed to identify and prevent
+improper fee-for-service payments related to incarcerated individuals. We
+obtained incarceration records from the Department of Public Safety and
+Correctional Services (DPSCS) and performed our own match to MMIS II claims
+records which identified approximately $9.6 million of potential improper claim
+payments related to incarcerated individuals during fiscal years 2016 to 2018 that
+had not been identified or investigated by MDH.
+Although MDH performed a weekly match to ensure that incarcerated individuals
+were not enrolled in MCOs which could result in improper capitation payments,
+MDH management advised us that it routinely received incomplete data from
+DPSCS. For example, data pertaining to the incarceration period for certain
+inmates was either missing or incomplete. MDH also advised us that it previously
+made attempts to improve the reliability of the data with DPSCS but it had been
+unable to fully resolve the issues. MDH’s match also did not identify certain fee-
+for-service claims which are disallowed while individuals are incarcerated2 and
+MDH had not established other controls to identify and prevent these improper
+payments.
+2 Medicaid only covers certain fee-for-service claims (such as inpatient hospital care) for
+incarcerated individuals.
+24
+
+--- Page 27 ---
+We contacted DPSCS to obtain incarceration data for fiscal years 2016 to 2018 in
+order to perform our own match with Medicaid claims paid during the same
+period. We performed various testing to ensure the accuracy and completeness of
+the incarceration data. Based on these tests, we determined the queries used by
+DPSCS to generate the incarceration data for MDH needed to be modified in
+order to obtain more complete and accurate data. For example, we requested that
+DPSCS modify the query to obtain necessary data to reflect the proper periods of
+incarceration based on dates of inmate intake, transfer, and release. We
+determined that the data we finally obtained from DPSCS after this modification
+were sufficiently reliable for the purposes of our match.
+Based on our match, we identified $9.6 million in potential improper Medicaid
+payments related to more than 3,200 individuals who were incarcerated on the
+dates the services were provided. These potential improper payments included
+$7.9 million in MCO capitation payments and $1.7 million in fee-for-service
+payments that were disallowed since the individual was incarcerated. We
+determined that these match results were either not previously identified by MDH
+through its weekly matches or MDH had not taken corrective action to adjust the
+claims. Our test of the 20 incarcerated individuals from our match with the
+highest dollar value claims, totaling $912,000, disclosed improper claim payments
+totaling $867,000 for 19 of these 20 individuals. This included $539,000 in MCO
+capitation payments for ineligible enrollees and $328,000 in fee-for-service
+payments for disallowed services. We provided these test results to MDH to
+determine if they had a reasonable explanation for why these claims were paid.
+MDH could not justify the claim payments.
+Recommendation 8
+We recommend that MDH
+a. continue to work in conjunction with DPSCS to obtain complete and
+accurate incarceration data for its match,
+b. establish controls based on match results to identify and prevent
+disallowed fee-for-service payments for incarcerated individuals,
+c. ensure incarcerated individuals are timely disenrolled from MCOs to
+prevent improper capitation payments, and
+d. investigate the potential improper payments we identified and take
+corrective action (such as recovery of improper payments).
+25
+
+--- Page 28 ---
+Finding 9
+Claims processing edits were not properly implemented in MMIS II to
+prevent payments after a credible allegation of fraud against a provider was
+determined. Additionally, certain existing claims processing edits were not
+always designed in a manner to analyze critical criteria that could be
+indicative of either duplicate payments or overpayments.
+Analysis
+Claims processing edits were not properly implemented in MMIS II to prevent
+claim payments after a credible allegation of fraud3 against a provider was
+determined. Additionally, certain claims processing edits in MMIS II were not
+always designed in a manner to analyze critical criteria that could be indicative of
+either duplicate payments or overpayments.
+Claims Payment Edits Were Not Properly Implemented
+MDH’s MMIS II claims processing edits were not properly implemented to
+prevent payments to providers who were suspended after MDH’s OIG determined
+there was a credible allegation of fraud against the providers. Specifically, claims
+processing edits only prevented payments with a date of service after the
+determination of a credible allegation of fraud rather than preventing the payment
+of all claims submitted after the determination, as permitted by federal
+regulations.
+Our review of claims paid to suspended providers between January 1, 2016 and
+June 30, 2018 identified 12,904 claims totaling $1.2 million that were improperly
+paid, based on federal regulations, to 16 different providers after MDH’s OIG
+determined there were credible allegations of fraud against these providers. These
+payments were made from 3 to 285 days after the suspension date and included
+2,271 payments totaling $172,000 that were made 30 days or more after the date
+of suspension. All of these claims had dates of service prior to the determination
+of the credible allegation of fraud but were paid after the provider’s suspension
+date.
+Federal regulations require state Medicaid agencies to suspend all Medicaid
+payments to a provider after the agency determines that there is a credible
+allegation of fraud for which an investigation is pending under the Medicaid
+program against an individual or entity unless the agency has good cause to not
+suspend payments or to suspend payments only in part.
+3 Based on federal regulations, a credible allegation of fraud can be an allegation from any source
+(such as investigations, fraud hotline complaints, data mining, and patterns identified in provider
+audits) that has been verified by a state and determined to be reliable.
+26
+
+--- Page 29 ---
+Claims Payment Edits Were Not Properly Designed to Identify Duplicate
+Payments and Overpayments
+Although MDH had implemented various MMIS II system edits to analyze claims
+data for the purpose of preventing and detecting improper claim payments, our
+review identified two scenarios in which duplicate payments and overpayments
+would not be detected by these existing system edits. The first scenario relates to
+situations where claims were submitted by two different rendering providers for
+the same service. In these situations, claim payment processing edits were not in
+place to trigger a denial or suspension of the claim payment when critical
+elements matched that were indicative of a potential duplicate payment or
+overpayment. The second scenario relates to claims involving both Medicaid and
+Medicare reimbursements (known as Medicare crossover claims). In these
+situations, MDH did not always apply system edits to detect potential duplicate
+claims.
+Our analysis of claims data for fiscal year 2016 through 2018 disclosed 62,000
+claims totaling approximately $3.0 million that related to the above noted
+scenarios and could be indicative of potential duplicate payments or
+overpayments. These claims were submitted by 1,867 providers, including 15
+providers that accounted for $1.1 million of the $3.0 million claims. We
+performed a targeted test of 30 claims, totaling $46,900, related to these 15
+providers to determine if these claims did, in fact, represent duplicate payments or
+overpayments. After presenting our test results to MDH for further review and
+research, we concluded there were issues with 27 of these claims totaling
+$45,300, as summarized in Table 4.
+27
+
+--- Page 30 ---
+_______________________________________________________________
+Table 4
+Summary of Potential Overpayments or Duplicate Payments Tested
+Overpayments
+Claim
+or Duplicate
+Payments Summary of Further Review
+Payments
+Tested
+Identified
+Claims were correctly submitted by two different rendering
+providers (dual surgeons for the same procedure) but the payment
+amount was not properly adjusted to only pay the claim at 62.5
+percent to each provider, in accordance with CMS guidance.
+Instead, each provider was paid 100 percent of the claim. This
+resulted in overpayments of $8,100 related to the claims selected for
+$21,650 $150,450
+testing and $16,200 in total overpayments for these dual surgeons.
+While MDH had identified this programming error in January 2019,
+MDH did not take action to recover the overpayments for these
+claims and other similar claims that had also been overpaid (even
+though it was still within the allowable timeframe to do so).
+Overpayments related to these other claims totaled $134,250.
+Claims may have been incorrectly submitted by two different
+rendering providers and are probable duplicate payments. MDH did
+not have documentation on file to determine whether these claims
+9,950 9,950
+were proper and not duplicates. MDH advised us the claims may
+have been improperly billed without the appropriate coding but
+further review would be necessary by contacting the providers.
+Claims were submitted by the provider to both Medicare and
+Medicaid but should have only been paid by Medicare. As
+12,200 12,200
+confirmed through review of source billing documentation or
+confirmation from MDH, both claims were paid without detection.
+Claims were submitted by the provider to both Medicare and
+Medicaid. Claims were correctly paid by Medicare but were
+incorrectly paid by Medicaid. Although, MDH subsequently
+1,500 1,500
+detected and recovered these duplicate claim payments through other
+means, MDH did not attempt to modify its system edits to prevent
+these types of duplicate payments in the future.
+$45,300 $174,100
+__________________________________________________________________
+Recommendation 9
+We recommend that MDH
+a. establish claims processing edits to prevent all payments to providers who
+have a credible allegation of fraud against them,
+b. evaluate and enhance claims processing edits to trigger a denial or
+suspension when critical data elements match that are indicative of
+potential duplicate payments or overpayments related to claims
+28
+
+--- Page 31 ---
+submitted by two rendering providers or claims involving both Medicaid
+and Medicare reimbursements, and
+c. follow up on the aforementioned claims paid after a credible allegation of
+fraud was determined and the potential duplicate payments and
+overpayments identified and take corrective action (such as pursuing
+recovery or processing adjustments to offset future claim payment
+amounts).
+29
+
+--- Page 32 ---
+APPENDIX
+May 28, 2020
+Mr. Gregory A. Hook, CPA
+Legislative Auditor
+Office of Legislative Audits
+State Office Building, Room 1202
+301 West Preston Street
+Baltimore, MD 21201
+Dear Mr. Hook:
+Enclosed, please find the responses to the draft performance audit report on the Maryland
+Department of Health - Effort to Identify and Analyze Improper Medicaid Payments for the
+period beginning July 1, 2015 and ending June 30, 2018.
+If you have any questions, please contact Frederick D. Doggett at 410-767-0885 or email at
+frederick.doggett@maryland.gov.
+Sincerely,
+Robert R. Neall, Secretary
+Maryland Department of Health
+Enclosure
+cc: Dennis R. Schrader, Deputy Secretary for Health Care Financing, MDH
+Frederick D. Doggett, Inspector General, MDH
+Dionne R. Washington, Chief of Staff, Health Care Financing, MDH
+
+--- Page 33 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Finding 1
+MDH’s process to identify and analyze improper Medicaid payments through its DPI was
+not comprehensive and did not incorporate certain best practices.
+We recommend that MDH take steps to effectively identify and analyze improper Medicaid
+payments through its program integrity operations by
+a. implementing a robust system of data analytics based on a risk-based approach that
+incorporates cross-matching, geo-mapping, and trend analysis to proactively highlight
+irregularities in Medicaid payment activity;
+b. performing comprehensive analytics of MCO encounter data as part of its oversight of
+MCO activities;
+c. taking advantage of data matching services available through the United States
+Treasury’s DNP Center; and
+d. performing a periodic documented risk assessment and implementing a formal process
+to measure and report reliable quantifiable benefits of its program integrity operations.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1a Agree Estimated Completion Date: 12/31/2020
+Please provide details of In October 2019, the DPI placed a solicitation in the Maryland
+corrective action or Marketplace for a new SURS contractor. The scope of work, as defined
+explain disagreement. in the solicitation, has been expanded from the previous contract to focus
+more on a risk-based approach and incorporate the additional data
+analytic tools identified in this recommendation. A new contract should
+be in place by the end of calendar year 2020.
+Recommendation 1b Agree Estimated Completion Date: 12/31/2020
+Please provide details of Data runs performed using SURS incorporate both FFS and MCO claims
+corrective action or data. As such, data being analyzed by the DPI includes both FFS and
+explain disagreement. MCO claims. The DPI expects to be able to run more comprehensive
+data analytics on MCO data once the new SURS contract is in place.
+Recommendation 1c Agree Estimated Completion Date: 12/31/2020
+Please provide details of Our understanding of the U.S. Treasury’s “Do Not Pay” Center is that it
+corrective action or would require a data-sharing agreement between MDH and the Federal
+explain disagreement. government that does not currently exist. The DPI will explore this
+option. In the meantime, the DPI notes that the Do Not Pay database
+Page 1 of 14
+
+--- Page 34 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+draws information from various federal databases that are currently used
+by DPI, including the List of Excluded Individuals and Entities; the
+Social Security Death Index; and Vital Statistics.
+Recommendation 1d Agree Estimated Completion Date: 12/31/2020
+Please provide details of DPI is in the process of revising all of its policies and procedures. As
+corrective action or part of this effort, we will include formal processes for risk assessment,
+explain disagreement. as well as measuring and reporting quantifiable benefits of DPI
+operations.
+Finding 2
+MDH did not ensure that prescribing physicians and referring providers were enrolled in
+Medicaid, as required by federal regulations. During the period July 1, 2015 to June 30,
+2018, MDH approved prescription and laboratory claims totaling approximately $175
+million submitted by prescribing physicians and referring providers whose enrollment in
+Medicaid was not validated.
+We recommend that MDH
+a. ensure that prescribing physicians and referring providers are enrolled in Medicaid, as
+required by federal regulations prior to paying related claims;
+b. ensure required enrollment information identifying the prescribing physicians and
+referring providers is provided to DPI to perform comprehensive data analysis of claim
+activity; and
+c. continue to pursue guidance from CMS or consider contacting other states for guidance
+to assist in meeting enrollment requirements for prescribing physicians and referring
+providers.
+Agency Response
+Analysis Factually Accurate
+Please provide MDH has been in partial compliance with the prescriber enrollment
+additional comments as provision for 18-24 months. We send the Pharmacy Point-of-Sale (POS)
+deemed necessary. vendor a file to edit against that includes: 1) sanctioned provider
+information; 2)“bogus” NPIs from a point-in-time data pull; and 3)
+hundreds of providers who “ignored” outreach for a few years and never
+enrolled. What MDH has not been able to implement is a change where
+the POS vendor would edit pharmacy encounters against a daily FFS
+Provider file of individual prescribers.
+Second paragraph, bottom of page 11 states, “identifying prescribing
+Page 2 of 14
+
+--- Page 35 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+physician on pharmacy claims can help detect if opioids and other
+high-risk prescription medications are being prescribed by certain
+physicians in a questionable manner.” MDH does capture the prescriber
+NPI on pharmacy claims. We just do not edit on the NPI currently. The
+prescriber data is put into the “referring provider” field for Pharmacy
+claims. The DPI could use this data presently to do the analysis
+described.
+Recommendation 2a Agree Estimated Completion Date: 4/30/2021
+Please provide details of MDH is implementing the Prescriber Enrollment edits for the FFS
+corrective action or Program with the launch of the new Pharmacy POS system, which is
+explain disagreement. expected to go-live Winter 2021. MDH is also actively working toward
+implementation of referring provider enrollment for Spring 2021. MDH
+Provider Services and Systems team is developing an online “Provider
+Look-up” tool to help labs identify whether referring physicians are
+enrolled prior to billing. The tool is in development and being tested
+presently and MDH expects to launch in Summer/Fall 2020.
+Recommendation 2b Agree Estimated Completion Date: 1/1/2020
+Please provide details of As the prescribing and referring physicians are enrolled, DPI shall have
+corrective action or access to the required enrollment identifying information. Prescriber data
+explain disagreement. is presently available in the “referring” field for Pharmacy claims.
+Recommendation 2c Agree Estimated Completion Date: 1/1/2020
+Please provide details of MDH did seek CMS guidance as early as Summer 2018, related to
+corrective action or enrolling prescribing and referring physicians and did eventually receive
+explain disagreement. guidance since discussions with the auditors. MDH moved ahead with
+implementing an enrollment path for ORP providers that does not
+include a provider agreement. CMS indicated in their response over a
+year later in June 2019 that MDH may develop a provider agreement for
+ORP providers that is separate from the agreement executed by
+providers who render Medicaid-billable services. MDH shall work with
+its legal team and provider enrollment system vendor to develop and
+implement an ORP provider agreement.
+MDH regularly participates on All-State calls on Provider Enrollment
+Compliance and also attends the Medicaid Integrity Institute (MII) work
+sessions in South Carolina as offered.
+Page 3 of 14
+
+--- Page 36 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Finding 3
+MDH did not ensure that rendering providers for certain group practices were enrolled in
+Medicaid, as required by State regulations.
+We recommend that MDH
+a. ensure rendering providers are Medicaid enrolled, as required; and
+b. deny claims when information identifying the rendering provider is not submitted.
+Agency Response
+Analysis Factually Inaccurate
+Please provide During the audit period of July 1, 2015 through June 30, 2018, the
+additional comments as Provider Type 28 EPSDT Therapy Group Providers were not required to
+deemed necessary.
+enroll their individual rendering providers. Medicaid incorporated by
+reference the EPSDT Manual within 10.09.23.01-1 effective January 1,
+2017. Page 9 of the IBR EPSDT Manual states, “renderers in a therapy
+group provider type practice (Provider Type 28) are not required to be
+assigned an individual rendering Maryland Medical Assistance provider
+number.” Further, page 12 states, “At this time, only therapy group
+(provider type 28) providers can bill without including a rendering
+provider number on the claim.”
+Please note that the EPSDT manual incorporated by reference in 2017
+implemented policies that had been in effect throughout the audit period
+noted above.
+To support this finding, OLA cited versions of the EPSDT Manual dated
+July 1, 2018, and January 1, 2019. Both of these versions were published
+and adopted (incorporated by reference) after the end of the audit period
+(June 30, 2018), and therefore are not applicable to the scope of the
+audit. MDH updated the Manual based on guidance from CMS
+indicating that individual rendering providers must enroll with state
+Medicaid programs; CMS subsequently announced, however, that the
+enrollment of rendering providers is not a federal requirement.
+The licenses of rendering providers are verified in accordance with the
+IBR manual in effect during the audit period and incorporated into the
+regulations in 2017. Page 9 states, “a listing of therapists and license
+numbers of participating members of the practice must be attached to the
+Page 4 of 14
+
+--- Page 37 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+therapy group application for in-state applicants. Out-of-state applicants
+must submit a copy of all licenses and/or certificates of the therapists
+participating in the practice.” This verification occurred during initial
+enrollment and revalidation of the Group.
+Auditor’s Comment: In its response, the Maryland Department of Health (MDH)
+agreed with all of the recommendations but indicated that they believed the analysis was
+not factually accurate. MDH contends that during the audit period early and periodic
+screening, diagnosis, and treatment (EPSDT) therapy group providers were not required
+to enroll their rendering providers nor identify rendering providers on claims. However,
+MDH does not acknowledge that prior to the incorporation of the January 2017 EPSDT
+Manual in the Code of Maryland Regulations (COMAR), COMAR incorporated the
+Physicians’ Services Provider Fee Manual. This Manual, effective January 2014, itself
+references Maryland Medicaid’s billing instructions, which are directly applicable to
+EPSDT providers and clearly indicate requirements for rendering providers, including
+physical therapists, occupational therapists, and speech-language pathologists, to be
+enrolled and be assigned a provider number for billing purposes. In addition, in August
+2017, eight months after the EPSDT Manual became effective, MDH sent a written
+notification to all therapy group providers clarifying that their rendering providers are
+required to be enrolled and identified on each claim. Finally, a July 2018 update to the
+EPSDT Manual made it consistent with both the aforementioned billing instructions and
+the August 2017 written notification, by re-affirming MDH’s position of the rendering
+provider enrollment and billing requirements for therapy group practices. Consequently,
+we believe our analysis is accurate, valid, and supported.
+Recommendation 3a Agree Estimated Completion Date: 12/31/2020
+Please provide details of While Maryland Medicaid did not require that individual rendering
+corrective action or providers be enrolled during the audit period, Medicaid chose to begin
+explain disagreement.
+enrolling these providers in late 2017 when we were under the
+impression that it was a Federal requirement.
+Maryland began the process of enrolling new Provider Type 28 EPSDT
+Therapy Providers as Type of Practice 35-Groups following the audit
+period in 2018. New providers enrolling from this point forward were
+set-up initially as Type of Practice 35-Groups. Medicaid has been
+enrolling individual rendering providers for these groups with Type of
+Practice 35 - Group since that time. Medicaid is in the process of
+changing the legacy Type of Practice 99s to Type of Practice 35s, but
+many of the individual rendering providers are already enrolled.
+Page 5 of 14
+
+--- Page 38 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Due to the COVID-19 state of emergency, MDH’s plan to issue a
+transmittal requiring all historical, or legacy, Provider Type 28 EPSDT
+Therapy Groups begin submitting individual rendering providers has
+been postponed by a few months. MDH intends to send this transmittal
+by late Summer/Fall 2020.
+Recommendation 3b Agree Estimated Completion Date: 12/31/20
+Please provide details of MDH is currently denying claims for all Provider Type 28s with a
+corrective action or Type of Practice 35 - Group. Maryland began the process of enrolling
+explain disagreement.
+new Provider Type 28 EPSDT Therapy Providers as Type of Practice
+35-Groups in 2018. Any new group providers were automatically subject
+to claims denials if their individual rendering providers were not
+enrolled.
+Between October 1, 2020 and December 31, 2020, MDH intends to
+change the remaining historical, or legacy, Provider Type 28 EPSDT
+Therapy Groups with Type of Practice 99 to Type of Practice 35s. Once
+these providers change to Type of Practice 35, MDH will deny claims
+where the individual rendering provider information is not submitted or
+not actively enrolled.
+Page 6 of 14
+
+--- Page 39 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Finding 4
+MDH accepted encounter data from MCOs that excluded necessary data elements and
+hindered its ability to perform effective oversight, including DPI’s use of data analytics to
+identify and analyze improper claim activity.
+We recommend that MDH ensure
+a. encounter data submitted by MCOs includes all federally required data elements,
+including the paid or denied status of the claim; and
+b. system changes to MMIS II are implemented timely to enable DPI to use complete
+encounter data to help identify and analyze improper claim activity.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: 3/31/2020
+Please provide details of MDH concurs that these three data elements are beneficial to the
+corrective action or Department and allows better use of encounter data for analytics.
+explain disagreement. However, since March 2020, all of these data elements (paid and denied
+status, claim payment amount, rendering provider information) are now
+required as part of our encounter data and have been included in
+subsequent encounter data sets.
+Recommendation 4b Agree Estimated Completion Date: 7/31/2020
+Please provide details of MDH shall work to draft a change request to modify the MMIS and
+corrective action or ensure timely implementation. MDH shall also coordinate
+explain disagreement. communication with MCOs to ensure all parties involved align business
+rules, update encounter data submission guidelines, and set up processes
+with the Medicaid business units to detect and identify improper claims
+activity within encounter data.
+Page 7 of 14
+
+--- Page 40 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Finding 5
+MDH did not perform a data match or have an alternative method to determine if MCOs
+were paying claims related to certain services that MDH had carved out from the MCO
+contracts.
+We recommend MDH
+a. perform a data match using reliable encounter data or have an alternative method
+(such as the annual agreed-upon procedure reviews) to ensure that MCOs are not
+paying claims related to certain services that are carved out from the MCO contracts;
+and
+b. take corrective action to address carve out service claims, including the claims
+mentioned above, that MCOs improperly paid.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 5a Agree Estimated Completion Date: 16/30/2021
+Please provide details of MDH concurs with the recommendation to perform a data match using
+corrective action or reliable encounter data to ensure MCOs are not paying claims related to
+explain disagreement. certain services that are carved out of the MCO capitation rates. MDH
+will work with the MCOs to develop an annual process (or more
+frequently) to perform a paid claims review related to carve-out
+(excluded) services.
+Recommendation 5b Agree Estimated Completion Date: 26/30/2021
+Please provide details of The plan is to review these claims annually, and, if there are carve-out
+corrective action or claims that have been paid by both the MCOs or by the ASO, those will
+explain disagreement. be sent back to the MCO or ASO for correction.
+1 This date is subject to change depending on the COVID-19 crisis
+2 This date is subject to change depending on the COVID-19 crisis
+Page 8 of 14
+
+--- Page 41 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Finding 6
+MDH did not ensure MCO providers rendering services to Maryland recipients were
+enrolled as Medicaid providers, as required by federal regulations that became effective
+January 1, 2018.
+We recommend MDH take action to ensure MCO providers rendering services to
+Maryland recipients are identified and enrolled as Medicaid providers, as required by
+federal regulations.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 6 Agree Estimated Completion Date: 1/1/2020
+Please provide details of Encounter Subsystem edits have gone live since the time of the audit. As
+corrective action or of January 1, 2020, the MMIS Encounter Data Subsystem edits all
+explain disagreement. encounters for MCO par providers against the FFS Provider Subsystem
+for dates of service on or after 1/1/20, submitted on or after 1/1/20.
+These edits ensure that all MCO providers that are rendering services,
+but not currently enrolled are identified and subsequently enrolled as
+Medicaid providers.
+CMS has also provided for exceptions to the FFS screening/enrollment
+requirements for “non-par” (not in the MCO network) MCOs providers,
+such as hospitals/hospitalists providing emergency one-time services
+when a participant is traveling out-of-state. MDH built this CMS
+exception into the Encounter Data edits that went live on 1/1/20.
+Page 9 of 14
+
+--- Page 42 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Finding 7
+MDH did not ensure each MCO conducted required investigations of encounter claims
+activity.
+We recommend that MDH
+a. ensure MCOs conduct investigations of encounter claims activity, as required and
+provide adequate details of each investigation so appropriate follow up can be
+performed; and
+b. modify MCO contracts to specify the nature, extent, and frequency of investigations to
+be performed and reporting requirements, and include penalties and incentives related
+to investigations.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 7a Agree Estimated Completion Date: 12/31/2020
+Please provide details of DPI has identified significant inconsistencies in MCOs reports on
+corrective action or investigations. In cooperation with MCOs, DPI is developing and
+explain disagreement. implementing an MCO reporting dashboard that will require more
+detailed reporting. All fields on the dashboard will be consistent, better
+enabling DPI to efficiently track and monitor the number and status of
+investigations being performed by each MCO. The dashboard will
+enable DPI to follow up on individual investigations as needed.
+Recommendation 7b Agree Estimated Completion Date: 12/31/2020
+Please provide details of DPI will work with Medicaid to ensure that the MCO contracts mirror
+corrective action or the investigation requirements procedures now being revised, including
+explain disagreement. use of the new reporting dashboard. DPI will also work with Medicaid
+to identify appropriate contractual incentives and penalties.
+Page 10 of 14
+
+--- Page 43 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Finding 8
+A data match performed by MDH to identify incarcerated individuals who were
+improperly enrolled in MCOs was based on incomplete data and was not used to identify
+and prevent improper fee-for-service payments related to incarcerated individuals. Our
+expanded data match identified approximately $9.6 million of potential improper claim
+payments during fiscal years 2016 to 2018 that had not been identified or investigated by
+MDH.
+We recommend that MDH
+a. continue to work in conjunction with DPSCS to obtain complete and accurate
+incarceration data for its match,
+b. establish controls based on match results to identify and prevent disallowed fee-for-
+service payments for incarcerated individuals,
+c. ensure incarcerated individuals are timely disenrolled from MCOs to prevent improper
+capitation payments, and
+d. investigate the potential improper payments we identified and take corrective action
+(such as recovery of improper payments).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 8a Agree Completion Date: 1/28/2020
+Please provide details of MCPA agrees with the recommendation and shall continue to work in
+corrective action or conjunction with DPSCS to obtain complete and accurate incarceration
+explain disagreement. data for its match and shall work to identify other sources of accurate
+data to enhance the identification of incarcerated individuals.
+Recommendation 8b Agree Completion Date: 3/31/2020
+Please provide details of MDH uses match criteria (SSN, First name, Last Name, DOB) to
+corrective action or identify incarcerated individuals that may be enrolled with an MCO. By
+explain disagreement. utilizing this process to accurately disenroll incarcerated individuals,
+MCPA has prevented improper capitation payments for thousands of
+inmates.
+In addition to the automated disenrollment process, MDH regularly
+receives referrals from MCOs or other stakeholders about incarcerated
+individuals. The process to verify the individual’s incarcerated status and
+Page 11 of 14
+
+--- Page 44 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+manually disenroll the individual from the MCO is outlined in the SOP
+shared with OLA.
+MCPA is developing new ways to improve the current incarcerated
+MCO disenrollment process. One such way is the development of a
+report to include near matches from the Weekly DPSCS/MDH eligibility
+matching process. The weekly report would be reviewed by MDH and if
+the individual can be accurately matched, then the MCO disenrollment
+would occur manually. The report shall be available in March 2020.
+Recommendation 8c Agree Completion Date: 1/28/2020
+Please provide details of When MDH is notified through an automated process or manually
+corrective action or validates an individual’s incarceration status, the necessary steps to
+explain disagreement. ensure individuals are disenrolled timely are taken. Pursuant to COMAR
+10.67.02.06.E(2)(d), the enrollee’s disenrollment shall take effect from
+the first day of the month following the month in which the Department
+verifies the individual is an inmate. MDH shall ensure this process
+continues to be followed to avoid erroneous capitated payments.
+Recommendation 8d Agree Estimated Completion Date: 7/1/2020
+Please provide details of MCPA shall research the potential improper payments identified and
+corrective action or take corrective action such as, recovery of improper payments as
+explain disagreement. appropriate.
+Page 12 of 14
+
+--- Page 45 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Finding 9
+Claims processing edits were not properly implemented in MMIS II to prevent payments
+after a credible allegation of fraud against a provider was determined. Additionally,
+certain existing claims processing edits were not always designed in a manner to analyze
+critical criteria that could be indicative of either duplicate payments or overpayments.
+We recommend that MDH
+a. establish claims processing edits to prevent all payments to providers who have a
+credible allegation of fraud against them,
+b. evaluate and enhance claims processing edits to trigger a denial or suspension when
+critical data elements match that are indicative of potential duplicate payments or
+overpayments related to claims submitted by two rendering providers or claims
+involving both Medicaid and Medicare reimbursements, and
+c. follow up on the aforementioned claims paid after a credible allegation of fraud was
+determined and the potential duplicate payments and overpayments identified and take
+corrective action (such as pursuing recovery or processing adjustments to offset future
+claim payment amounts).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 9a Agree Estimated Completion Date: 9/30/2020
+Please provide details of MDH agrees that there was a problem with Payment Withhold data not
+corrective action or going to its ASOs. The Division of Medicaid Information Systems
+explain disagreement. (DMIS) has recently developed a supplemental daily provider file for the
+ASOs, which includes payment withhold data. DMIS is ready for testing
+with the new Behavioral Health ASO.
+Medical Benefits Management - Division of Dental, Clinics and Labs
+needs to work on updating the provider file for the Dental ASO as well,
+and MDH will continue to move this effort forward.
+In addition, MDH will establish claims processing edits within the
+MMIS system to prevent all payments to providers who have credible
+allegations of fraud against them.
+Recommendation 9b Agree Estimated Completion Date: 12/31/2020
+Page 13 of 14
+
+--- Page 46 ---
+Maryland Department of Health
+Efforts to Identify and Analyze Improper Medicaid Payments
+Agency Response Form
+Please provide details of MDH will perform a careful analysis of the identified potential duplicate
+corrective action or claim categories as well as the related MDH policies. A risk analysis
+explain disagreement. will be performed to compare prevalence, false positives and true
+duplicates. Where appropriate MDH will enhance the duplicate system
+edits to deny the dupes and/or flag potential duplicate claims for
+retrospective review, followed by appropriate retraction or offset.
+Recommendation 9c Agree Estimated Completion Date: 12/31/2020
+Please provide details of MDH will develop a process to identify duplicate claims and
+corrective action or overpayments and follow up erroneously paid claims or fraudulent
+explain disagreement. activity as identified through this audit or subsequent analysis.
+Page 14 of 14
+
+--- Page 47 ---
+A T
+UDIT EAM
+Matthew L. Streett, CPA, CFE
+Audit Manager
+David R. Fahnestock, CPA
+Evan E. Naugle
+Senior Auditors
+Marina I. Bulatova
+Charles H. Hinds, IV, CPA
+Staff Auditors
