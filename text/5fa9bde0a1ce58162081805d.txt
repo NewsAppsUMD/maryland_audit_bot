@@ -1,0 +1,946 @@
+Title: Maryland Department of Health - Vital Statistics Administration
+Date: 11/10/2020
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5fa9bde0a1ce58162081805d
+Extracted: 2025-06-20T00:06:20.161192
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Health
+Vital Statistics Administration
+March 2025
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Benjamin T. Brooks, Sr. Delegate Andrea Fletcher Harrison
+Senator Paul D. Corderman Delegate Steven C. Johnson
+Senator Katie Fry Hester Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David H. Moon
+Senator Clarence K. Lam, M.D. Delegate Julie Palakovich Carr
+Senator Cory V. McCray Delegate Emily K. Shetty
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+March 19, 2025
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Vital Statistics
+Administration (VSA) of the Maryland Department of Health (MDH) for the
+period beginning January 16, 2020 and ending January 15, 2024. VSA is
+primarily responsible for registering all births and deaths occurring in the State;
+issuing certified copies of birth, death, and marriage certificates; and compiling
+and analyzing various vital statistics data. During the audit period VSA had a
+significant vacancy rate, which may have contributed, at least in part, to the
+findings in this report.
+Our audit disclosed that in 2019, VSA initiated a major information technology
+development project for the Integrated Electronic Vital Records Registration
+System (IEVRRS). We noted that VSA did not adequately monitor the IEVRRS
+project management vendor and was unable to provide sufficient details justifying
+a $16 million (122 percent) increase to the project costs and a 4-year delay in the
+estimated project completion date.
+Our audit also noted that VSA did not obtain support for amounts invoiced and
+paid to IEVRRS vendors and made payments totaling $53,000 that were not in
+accordance with the related contract. For example, VSA did not obtain
+documentation to support eight payments to three vendors totaling $1.6 million
+for the reimbursement of payroll costs.
+In addition, our audit disclosed cybersecurity-related findings. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted the findings from this audit
+report. Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+
+--- Page 4 ---
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted finding falls under
+the referenced definition. The specifics of the cybersecurity findings were
+previously communicated to those parties responsible for acting on our
+recommendations.
+Furthermore, we noted VSA did not review manual changes to birth records and
+did not establish adequate controls over collections. For example, VSA did not
+ensure Local Health Departments remitted fees collected on behalf of VSA
+resulting in the failure to identify and recover at least $376,000.
+Finally, our audit included a review to determine the status of the four findings
+contained in our preceding audit report. For the non-cybersecurity-related
+findings, we determined that VSA satisfactory addressed two of those three
+findings. The remaining finding is repeated in this report.
+MDH’s response to this audit, on behalf of VSA, is included as an appendix to
+this report. Consistent with State law, we have redacted the elements of MDH’s
+response related to the cybersecurity audit findings. We reviewed the response
+and noted general agreement to our findings and related recommendations. Based
+on our review of the written responses and additional clarification obtained from
+MDH, we believe the corrective actions identified are sufficient to address all
+audit issues.
+We wish to acknowledge the cooperation extended to us during the course of this
+audit by VSA. We also wish to acknowledge MDH’s and VSA’s willingness to
+address the audit issues and to implement appropriate corrective actions.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Maryland Electronic Vital Records Registration Systems 6
+Status of Findings From Preceding Audit Report 7
+Findings and Recommendations 9
+Integrated Electronic Vital Records Registration Systems (IEVRRS)
+Finding 1 – VSA did not adequately monitor the IEVRRS project 10
+management vendor to ensure that the project was completed on
+budget and on time. The project costs have increased by $16 million
+and the projected completion date has been delayed by four years.
+Finding 2 – VSA did not obtain support for amounts invoiced and paid to 11
+IEVRRS vendors. In addition, VSA made payments totaling $53,000
+that were not in accordance with the related contract, including
+overpayments totaling $28,000.
+Information Systems Security and Control
+Finding 3 – Redacted cybersecurity-related finding. 12
+Finding 4 – Redacted cybersecurity-related finding. 12
+Birth Records
+Finding 5 – VSA did not review manual changes to birth records on its 12
+Electronic Birth Registration System.
+Local Health Departments (LHDs)
+Finding 6 – VSA did not ensure LHDs remitted fees collected on behalf 13
+of VSA for certified copies of birth and death certificates resulting in
+the failure to identify and recover at least $376,000.
+Cash Receipts
+* Finding 7 –VSA had not established adequate procedures and controls 14
+over certificate fee collections received at its headquarters.
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Audit Scope, Objectives, and Methodology 16
+Exhibit 1 – Listing of Most Recent Office of Legislative Audits Fiscal 19
+Compliance Audits of Maryland Department of Health Units as of
+January 2025
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The Maryland Department of Health (MDH) Vital Statistics Administration
+(VSA) is responsible for registering all births and deaths occurring in the State;
+issuing certified copies of birth, death, and marriage certificates; and compiling
+and analyzing various vital statistics data. Certified copies of these certificates
+are available, for a fee, at the VSA headquarters location in Baltimore, at 22 local
+health departments (LHDs),1 at 7 Motor Vehicle Administration (MVA)
+branches,2 and through the mail, phone, and VSA’s website.
+According to the State’s records, during calendar year 2024, VSA’s operating
+expenditures totaled approximately $6.6 million, as shown in Figure 1 on the
+following page. During the period June 30, 2020 through June 30, 2024, VSA
+had vacancy rates that ranged from 8.6 percent to 26.4 percent. These vacancies
+may have contributed, at least in part, to the findings in this report.
+1 LHDs in Baltimore City and Baltimore County do not issue copies of birth and death certificates.
+Individuals in these jurisdictions can request copies of certificates from VSA’s Division of Vital
+Records located in Baltimore City.
+2 Certified copies of birth certificates can be issued for the purpose of obtaining a driver’s license
+at the following MVA branches: Annapolis, Baltimore City, Essex, Frederick, Gaithersburg,
+Largo, and Salisbury.
+5
+
+--- Page 8 ---
+Figure 1
+Vital Statistics Administration
+Positions, Expenditures, and Funding Sources
+Full Time Equivalent Positions as of June 30, 2024
+Positions Percent
+Filled 76 71.7%
+Frozen3 2 1.9%
+Vacant 28 26.4%
+Total 106
+Fiscal Year 2024 Expenditures
+Expenditures Percent
+Salaries, Wages, and Fringe Benefits $5,088,038 77.7%
+Technical and Special Fees 699,723 10.7%
+Operating Expenses 762,785 11.6%
+Total $6,550,546
+Fiscal Year 2024 Funding Sources
+Funding Percent
+General Fund $5,186,021 79.2%
+Special Fund 1,150 0.0%
+Federal Fund 1,324,596 20.2%
+Reimbursable Fund 38,779 0.6%
+Total $6,550,546
+Source: State financial and personnel records
+Maryland Electronic Vital Records Registration Systems
+According to VSA management, the Electronic Birth Registration System (EBRS)
+and the Work Order Management System (WOMS) went live in May 2023, which
+were parts of VSA’s Integrated Electronic Vital Records Registration Systems
+(IEVRRS). VSA also maintains the Electronic Death Registration System
+(EDRS), which is also a part of IEVRRS.
+3 Prior to December 1, 2021, a hiring freeze resulted in certain positions being frozen. Agencies
+were not authorized to fill frozen positions according to budgetary instructions from the
+Department of Budget and Management. Any position that is currently marked as frozen has not
+been filled since the freeze was lifted; however, these positions now are available to be filled.
+6
+
+--- Page 9 ---
+ EBRS is primarily used by medical facilities for the registration of births4
+and by VSA for making manual adjustments to the records.
+ WOMS is used by VSA and LHDs to issue certified copies of certificates,
+such as birth5 and death certificates and/or for preparing reports of vital
+statistics data.
+ EDRS is primarily used by medical certifiers, funeral directors, and VSA
+for the registration of deaths.
+The Maryland Department of Health – Office of the Secretary and the Department
+of Human Services – Office of the Secretary are responsible for the operation and
+maintenance of the network supporting IEVRRS.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the four findings contained
+in our preceding audit report dated November 10, 2020. As disclosed in Figure 2
+on the following page, for the non-cybersecurity-related findings, we determined
+that VSA satisfactorily addressed two of those three findings. The remaining
+finding is repeated in this report.
+4 The term registration of births is the process of inputting information, such as, parents’ name,
+birthdate, and address into EBRS to enable VSA to issue a birth certificate.
+5 As noted on page 5, MVA issues certified copies of birth certificates on a limited basis.
+7
+
+--- Page 10 ---
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+The Vital Statistics Administration (VSA)
+Finding 1 did not require that documentation
+(Policy supporting the propriety of certified copies Not Repeated
+Issue) of birth certificates issued be retained and
+reviewed by supervisors.
+VSA did not have sufficient procedures to
+ensure local health department (LHD) site
+visits were comprehensive and
+Finding 2 documented. In addition, the results of the Not Repeated
+site visits were not formally communicated
+to the LHDs and related corrective action
+plans were not received.
+VSA maintained sensitive personally
+Status Redacted6
+Finding 3 identifiable information in a manner that
+did not provide adequate safeguards.
+VSA had not established adequate
+Repeated
+Finding 4 procedures and controls over collections
+(Current Finding 7)
+from certificate fees.
+6 Specific information on the current status of this cybersecurity–related finding has been redacted
+from the publicly available report in accordance with State Government Article, Section 2-
+1224(i) of the Annotated Code of Maryland.
+8
+
+--- Page 11 ---
+Findings and Recommendations
+Integrated Electronic Vital Records Registration System
+(IEVRRS)
+Background
+In 2019, VSA initiated a major information technology development project
+(MITDP) for the Integrated Electronic Vital Records Registration System
+(IEVRRS). The IEVRRS was to operate on the Maryland Total Human Services
+Integrated Network (MD THINK) platform7 with the following functions:
+ allow secure web-based entry of all births and deaths;
+ import marriage and divorce records;
+ support the search, retrieval, and issuance of certificates;
+ track the acceptance fees and the use of security paper;
+ integrate with Maryland’s Electronic Death Registration System (EDRS);
+ support user accounts at all Maryland medical and funeral facilities;
+ enable search and issuance capabilities for use by local health departments
+(LHDs) and Motor Vehicle Administrations (MVA); and
+ allow for the export of new records in specific formats for electronic transfer
+to the National Center for Health Statistics and the sending of social security
+numbers to/from the Social Security Administration.
+The Department of Information Technology (DoIT), assisted with the
+procurement of four vendors that were responsible for project design,
+development, implementation, and management. DoIT delegated to VSA the
+responsibility of monitoring the vendors to ensure the project was on budget and
+on time and to annually report the project status to DoIT. VSA used task orders
+from a DoIT master contract for one of the aforementioned four vendors to
+provide project management to fulfill VSA’s monitoring and reporting
+responsibilities. As of June 30, 2023, expenditures for IEVRRS totaled $10.5
+million and the estimated total project costs was $29.1 million with an estimated
+completion date in fiscal year 2027.
+7 IEVRRS is a VSA owned application hosted on the shared MD THINK cloud platform operated
+by the Maryland Department of Human Services.
+9
+
+--- Page 12 ---
+Finding 1
+VSA did not adequately monitor the IEVRRS project management vendor to
+ensure that the project was completed on budget and on time. As of June 30,
+2023, the projected IEVRRS budget costs have increased by $16 million and
+the projected completion date has been delayed by four years.
+Analysis
+VSA did not adequately monitor the IEVRRS project management vendor and
+was unable to provide sufficient details justifying a $16 million (122 percent)
+increase to the project costs and a 4-year delay in the estimated project
+completion date.
+Our review of the MITDP Annual Reports prepared by the project management
+vendor for calendar years 2019 to 2023, disclosed that the IEVRRS’ estimated
+cost to complete increased by $16 million or 122 percent, from the initial amount
+of $13.1 million to $29.1 million, and the estimated completion date was extended
+from 2023 to 2027. While VSA provided general information related to $10.2
+million of this increase, such as, resolving issues with obtaining computer
+equipment, VSA could not provide documentation of the specific increased costs
+and additional time related to the project changes. Furthermore, VSA could not
+explain and lacked documentation supporting the remaining $5.8 million increase.
+The inability to monitor the project manager vendor may have been caused, at
+least in part, because VSA did not track payments to ensure they did not exceed
+the related task orders. In this regard, tracking these payments was difficult
+because they were made by several entities including the Maryland Department of
+Health (MDH) and DoIT.
+Recommendation 1
+We recommend that VSA
+a. monitor the project management vendor including obtaining and
+reviewing explanations for significant changes, such as increases in
+estimate costs and time to complete the project; and
+b. coordinate with MDH and DoIT to track payments made to the project
+management vendor to ensure that they do not exceed the related task
+orders.
+10
+
+--- Page 13 ---
+Finding 2
+VSA did not obtain support for amounts invoiced and paid to IEVRRS
+vendors. In addition, VSA made payments totaling $53,000 that were not in
+accordance with the related contract, including overpayments totaling
+$28,000.
+Analysis
+VSA did not obtain support for amounts invoiced and paid to IEVRRS vendors
+and made payments totaling $53,000 that were not in accordance with the related
+contract. We tested 12 payments8 totaling approximately $1.9 million made
+during the period from July 2020 to August 2023. Our test disclosed the
+following:
+ VSA did not obtain documentation to support eight payments to three vendors
+totaling $1.6 million for the reimbursement of payroll costs. Specifically, the
+vendors did not provide VSA with payroll records or receipts to support the
+invoices.
+ VSA made three payments totaling approximately $744,000 to one vendor of
+which $53,000 was not in accordance with the related contract. Specifically,
+the three payments included overpayments to the vendor which totaled
+$28,000. In this regard, while the contract established a rate of $140 per hour;
+the vendor billed and VSA paid up to $236 per hour. Additionally, VSA paid
+this same vendor for overhead totaling $25,000 that was not authorized in the
+contract.
+Recommendation 2
+We recommend VSA
+a. obtain documentation, such as payroll records and receipts to support
+amounts invoiced;
+b. ensure payments, such as labor rates and overhead are in accordance
+with the approved contract; and
+c. take appropriate action, such as recouping payments that were not in
+accordance with the contract terms, including those noted above.
+8 We arbitrarily selected 3 payments from each of the 4 vendors.
+11
+
+--- Page 14 ---
+Information Systems Security and Control
+We determined that the Information Systems Security and Control section,
+including Findings 3 and 4 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore are subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following findings, including the analysis, related
+recommendations, along with MDH’s responses, have been redacted from this
+report copy.
+Finding 3
+Redacted cybersecurity-related finding.
+Finding 4
+Redacted cybersecurity-related finding.
+Birth Records
+Finding 5
+VSA did not review manual changes to birth records on EBRS.
+Analysis
+VSA did not perform reviews of manual changes in EBRS to birth records, such
+as name changes. The changes generally require a court order and are processed
+by VSA employees. According to VSA’s records, during the period from July
+2023 through December 2023, 25 VSA employees processed 13,783 changes to
+birth records. VSA advised that, as of February 2024, no reviews were performed
+since June 2023 and VSA could not document reviews conducted prior to this
+period. Our test of 10 arbitrarily selected changes that were processed between
+July 2022 and December 2023, concluded that the changes were accurately
+recorded and properly supported.
+This condition was caused, at least in part, because VSA did not have written
+procedures for reviewing the manual changes. Such procedures should include
+the number and frequency of the reviews, and the documentation required to
+support the changes.
+12
+
+--- Page 15 ---
+Recommendation 5
+We recommend that VSA
+a. review manual changes to birth records; and
+b. establish written procedures for reviewing manual changes, including the
+frequency and number of changes to review and the level of
+documentation required to support the changes.
+Local Health Departments (LHDs)
+Finding 6
+VSA did not ensure LHDs remitted fees collected on behalf of VSA for
+certified copies of birth and death certificates resulting in the failure to
+identify and recover at least $376,000.
+Analysis
+VSA did not ensure LHDs remitted fees collected on behalf of VSA for certified
+copies of birth and death certificates resulting in the failure to identify and recover
+at least $376,000. VSA has a memorandum of understanding (MOU) with each
+of the 22 LHDs9 to issue certified copies of birth and death certificates to
+authorized applicants and to collect the related fees on its behalf. The MOU
+requires the LHDs to provide VSA with monthly reports of these collections.
+VSA uses the reports to submit information to the Maryland Department of
+Health’s General Accounting Division to transfer funds from the LHDs to VSA.
+According to its records, VSA received approximately $969,000 from fees
+collected by the LHDs during the period July 2023 through December 2023.
+Our review of activity for the 22 LHDs between July 2023 and December 2023
+disclosed that, as of April 2024, 16 LHD’s did not submit the required reports for
+at least one month, including 2 LHDs (Prince George’s County and Somerset
+County) which had not submitted the required reports since September 2022 and
+June 2019, respectively. Our review also disclosed that VSA did not follow-up
+with the LHDs to obtain the missing reports and did not use output reports from
+WOMS to identify certificates issued by these LHDs to calculate the amounts
+due.
+As a result, we determined that VSA did not receive approximately $376,000 for
+the certificate fees collected by these LHDs during the period of July 2023
+through December 2023. We were unable to readily determine the total amount
+9 LHDs in Baltimore City and Baltimore County do not issue copies of birth and death
+certificates. Individuals in these jurisdictions can request copies of certificates from VSA’s
+Division of Vital Records located in Baltimore City.
+13
+
+--- Page 16 ---
+of unremitted fees because VSA management advised that the records needed to
+determine the amount of funds due and collected prior to May 2023 were not
+readily available.
+Recommendation 6
+We recommend that VSA
+a. obtain LHD collection information either from the LHDs or through
+utilizing output reports from WOMS to determine amounts not provided
+to VSA, including those noted in the analysis above; and
+b. collect amounts due from LHDs, including the aforementioned $376,000.
+Cash Receipts
+Finding 7
+VSA had not established adequate procedures and controls over certificate
+fee collections received at its headquarters.
+Analysis
+VSA had not established adequate procedures and controls over birth, death, and
+marriage certificate fees received at its headquarters. According to State records,
+headquarters certificate fees totaled approximately $4.4 million during calendar
+year 2023, including $1 million of cash and checks received in person or in the
+mail and $3.4 million received via credit card. For example, we noted the
+following:
+ Collections received in the mail were not restrictively endorsed or initially
+recorded immediately upon receipt. Rather, checks were handled by at least
+two employees prior to being endorsed and recorded.
+ Collections were routinely left unattended on an employee’s desk until they
+were forwarded to a second employee for endorsement and recordation.
+ VSA did not independently verify that cash and check collections were
+subsequently deposited. Our test of 10 arbitrarily selected deposits received
+between January 2022 and August 2023 disclosed that all collections tested
+were deposited intact.
+14
+
+--- Page 17 ---
+The Comptroller of Maryland’s Accounting Procedures Manual10 requires
+collections to be restrictively endorsed and initially recorded immediately upon
+receipt, and adequately secured until deposit. Additionally, the Manual requires
+collections be independently verified to deposit.
+Similar conditions were noted in our prior audit. In response to that report, VSA
+agreed to implement new procedures requiring checks be restrictively endorsed
+upon receipt and an independent employee verifying collections were deposited
+by June 2020. However, as noted above, these procedures were not implemented.
+Recommendation 7
+We recommend that VSA
+a. restrictively endorse and initially record checks immediately upon receipt
+and ensure checks are properly safeguarded until deposit (repeat), and
+b. ensure an employee independent of the cash receipt function verifies all
+collections from the initial recordation to the related deposit slip (repeat).
+10 The updated Accounting Policies and Procedures Manual, effective June 2024, has the same
+requirements.
+15
+
+--- Page 18 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Vital Statistics
+Administration (VSA), a unit within the Maryland Department of Health (MDH),
+for the period beginning January 16, 2020 and ending January 15, 2024. The
+audit was conducted in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine VSA’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included certain payroll functions, contract monitoring and
+payments, cash receipts, certificate issuance, monitoring of certificates issued by
+the Local Health Departments and Motor Vehicle Administration branches, and
+information systems security and control. We also determined the status of the
+findings contained in our preceding audit report.
+Our audit did not include certain support services provided to VSA by MDH.
+These support services (such as certain payroll, purchasing, maintenance of
+accounting records, related fiscal functions, and certain aspects of the network
+information systems related to VSA’s Maryland Electronic Vital Records
+Registration Systems (MD-EVRRS) are included within the scope of our audit of
+the MDH – Office of the Secretary and Other Units. Our audit also did not
+include other network information systems services related VSA’s MD-EVRRS
+system that were provided to VSA by the Department of Human Services (DHS).
+These services are included within the scope of our audit of the DHS – Office of
+the Secretary and Related Units.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of January 16, 2020 to January 15, 2024, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+16
+
+--- Page 19 ---
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of VSA’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data). The extracts are
+performed as part of ongoing internal processes established by the Office of
+Legislative Audits and were subject to various tests to determine data reliability.
+We determined that the data extracted from this source were sufficiently reliable
+for the purposes the data were used during this audit.
+We also extracted data from VSA’s vital records systems for the purpose of
+selecting test items and assessing user access. We performed various tests of the
+relevant data and determined that the data were sufficiently reliable for the
+purposes the data were used during the audit. Finally, we performed other
+auditing procedures that we considered necessary to achieve our audit objectives.
+The reliability of data used in this report for background or informational
+purposes was not assessed.
+VSA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to VSA, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+17
+
+--- Page 20 ---
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect VSA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to VSA that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to MDH and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+The response from MDH, on behalf of VSA, to our findings and
+recommendations is included as an appendix to this report. Depending on the
+version of the audit report, responses to any cybersecurity findings may be
+redacted in accordance with State law. As prescribed in the State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise MDH
+regarding the results of our review of its response.
+18
+
+--- Page 21 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Maryland Department of Health Units
+As of January 2025 (Page 1 of 2)
+Most Recent
+Name of Audit Areas Covered
+Report Date
+ Prevention and Health Promotion
+Administration
+ Office of Population Health Improvement
+Prevention and Health Promotion
+Administration, Office of Population  Office of Preparedness and Response
+Health Improvement, Office of  Office of Provider Engagement and
+1 08/09/24
+Preparedness and Response, and Regulation – Office of Controlled
+Office of Provider Engagement and Substances Administration
+Regulation
+ Office of Provider Engagement and
+Regulation – Prescription Drug
+Monitoring Program
+Pharmacy Services for
+ Medicaid Managed Care Program
+ Maryland Medicaid Pharmacy Program
+ Kidney Disease Program
+2 Pharmacy Services 08/09/24
+ Maryland AIDS Drug Assistance
+Program
+ Breast and Cervical Cancer Diagnosis
+and Treatment Program
+3 Laboratories Administration Laboratories Administration 06/05/24
+ Clifton T. Perkins Hospital Center
+ Eastern Shore Hospital Center
+4 State Psychiatric Hospital Centers  Spring Grove Hospital Center 05/29/24
+ Springfield Hospital Center
+ Thomas B. Finan Hospital Center
+ Maryland Health Care Commission
+ Health Services Cost Review
+5 Health Regulatory Commissions Commission 01/25/24
+ Maryland Community Health Resources
+Commission
+Medical Care Programs Managed Care Program, known as
+6 Administration - Managed Care HealthChoice including oversight of the nine 12/14/23
+Program private Managed Care Organizations
+Medical Care Programs
+7 Medical Care Programs Administration 11/02/23
+Administration
+19
+
+--- Page 22 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Maryland Department of Health Units
+As of January 2025 (Page 2 of 2)
+Most Recent
+Name of Audit Areas Covered
+Report Date
+ Office of the Secretary
+ Deputy Secretary and Executive Director
+for Behavioral Health
+ Deputy Secretary for Developmental
+Office of the Secretary and Other
+8 Disabilities 10/19/23
+Units
+ Deputy Secretary for Public Health
+ Deputy Secretary for Health Care
+Financing and Chief Operating Officer
+ Deputy Secretary for Operations
+ Deer’s Head Center
+9 Chronic Care Hospital Centers 05/10/23
+ Western Maryland Hospital Center
+Developmental Disabilities
+10 Developmental Disabilities Administration 10/26/22
+Administration
+Behavioral Health Administration and
+ Behavioral Health Administration
+Medical Care Programs
+ Medical Care Programs Administration
+11 Administration - Administrative 10/25/22
+Administrative Service Organization for
+Service Organization for Behavioral
+Behavioral Health Services
+Health Services
+ Holly Center
+Intellectual Disabilities Residential  Potomac Center
+12 10/24/22
+Centers  Secure Evaluation and Therapeutic
+Treatment
+ John L. Gildner Regional Institute for
+Regional Institutes for Children and Children and Adolescents
+13 07/13/22
+Adolescents  Regional Institute for Children and
+Adolescents – Baltimore
+14 Office of the Chief Medical Examiner Office of the Chief Medical Examiner 05/12/22
+ 22 Health Professional Boards and
+15 Regulatory Services Commissions 01/19/21
+ Office of Health Care Quality
+20
+
+--- Page 23 ---
+APPENDIX
+March 18, 2025
+Mr. Brian S. Tanen, CPA, CFE
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+Dear Mr. Tanen:
+Enclosed, please find the responses to the draft audit report on the Maryland Department of Health –
+Vital Statistics Administration for the period beginning January 16, 2020 and ending January 15, 2024.
+If you have any questions, please contact Frederick D. Doggett at 410-767-0885 or email at
+frederick.doggett@maryland.gov.
+Sincerely,
+Ryan B. Moran, DrPH, MHSA, Acting Secretary
+Maryland Department of Health
+Enclosures
+cc: Erin K. McMullen, R.N., Chief of Staff, MDH
+Emily Berg, JD, MPH, Deputy Chief of Staff
+Nilesh Kalyanaraman, M.D., Deputy Secretary, Public Health Services, MDH
+Erin S. Penniston, Chief of Staff, Public Health Services, MDH
+Monique E. Wilson, Dr. P.H., Director, VSA
+Crystal D. Weaver, Deputy Director and State Registrar, VSA
+Frederick D. Doggett, Director, Internal Controls, Audit Compliance & Information
+Security, MDH
+Deneen Toney, Deputy Director, Audit & Compliance, MDH
+Carlean Rhames-Jowers, Chief Auditor, Internal Controls, Audit Compliance &
+Information Security, MDH
+
+--- Page 24 ---
+Maryland Department of Health
+Vital Statistics Administration
+Agency Response Form
+Integrated Electronic Vital Records Registration System
+(IEVRRS)
+Finding 1
+VSA did not adequately monitor the IEVRRS project management vendor to
+ensure that the project was completed on budget and on time. As of June 30,
+2023, the projected IEVRRS budget costs have increased by $16 million and
+the projected completion date has been delayed by four years.
+We recommend that VSA
+a. monitor the project management vendor including obtaining and
+reviewing explanations for significant changes, such as increases in
+estimate costs and time to complete the project; and
+b. coordinate with MDH and DoIT to track payments made to the project
+management vendor to ensure that they do not exceed the related task
+orders.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1a Agree Estimated Completion Date: Complete
+Please provide details of VSA is ensuring that we obtain documentation and review explanations
+corrective action or for any significant changes to the budget. In this regard, VSA has also
+explain disagreement. updated our internal project management documentation via an approved
+change request to document the increased budget and expanded timeline.
+Recommendation 1b Agree Estimated Completion Date: 6/30/25
+Please provide details of VSA is tracking payments to the various project vendors and ensures
+corrective action or that payments do not exceed the associated task orders. In this regard,
+explain disagreement. MDH has begun coordinating regularly with MDThink and will develop
+an SOP to document these processes.
+Page 1 of 6
+
+--- Page 25 ---
+Maryland Department of Health
+Vital Statistics Administration
+Agency Response Form
+Finding 2
+VSA did not obtain support for amounts invoiced and paid to IEVRRS
+vendors. In addition, VSA made payments totaling $53,000 that were not in
+accordance with the related contract, including overpayments totaling
+$28,000.
+We recommend VSA
+a. obtain documentation, such as payroll records and receipts to support
+amounts invoiced;
+b. ensure payments, such as labor rates and overhead are in accordance
+with the approved contract; and
+c. take appropriate action, such as recouping payments that were not in
+accordance with the contract terms, including those noted above.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2a Agree Estimated Completion Date: 6/30/25
+Please provide details of VSA is now coordinated regularly with MDThink, including ensuring
+corrective action or we obtain documentation such as payroll records (where available) and
+explain disagreement. receipts to support amounts invoiced.
+Recommendation 2b Agree Estimated Completion Date: 6/30/25
+Please provide details of VSA is now ensuring that payments (such as labor rates where available,
+corrective action or and overhead) are in accordance with the approved contract/task order.
+explain disagreement.
+Recommendation 2c Agree Estimated Completion Date: 6/30/25
+Please provide details of VSA will perform closer review of past invoices and will take
+corrective action or appropriate action on any identified overpayments. VSA will develop an
+explain disagreement. SOP to document these processes.
+Page 2 of 6
+
+--- Page 26 ---
+Maryland Department of Health
+Vital Statistics Administration
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that the Information
+Systems Security and Control section, including Findings 3 and 4 related to
+“cybersecurity,” as defined by the State Finance and Procurement Article, Section
+3.5-301(b) of the Annotated Code of Maryland, and therefore are subject to
+redaction from the publicly available audit report in accordance with the State
+Government Article 2-1224(i). Although the specifics of the following findings,
+including the analysis, related recommendations, along with MDH’s responses,
+have been redacted from this report copy, MDH’s responses indicated agreement
+with the findings and related recommendations.
+Finding 3
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 4
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 3 of 6
+
+--- Page 27 ---
+Maryland Department of Health
+Vital Statistics Administration
+Agency Response Form
+Birth Records
+Finding 5
+VSA did not review manual changes to birth records on EBRS.
+We recommend that VSA
+a. review manual changes to birth records; and
+b. establish written procedures for reviewing manual changes, including the
+frequency and number of changes to review and the level of
+documentation required to support the changes.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 5a Agree Estimated Completion Date: Complete
+Please provide details of VSA continues to audit at least 25% of manual changes
+corrective action or (amendments/corrections) made to the Electronic Birth Registration
+explain disagreement. System (EBRS). VSA will increase the audit frequency if the results
+show changes are made without the required documentation.
+Recommendation 5b Agree Estimated Completion Date: Complete
+Please provide details of VSA Management created a standard operating procedure that includes
+corrective action or procedures for reviewing manual changes, including frequency and
+explain disagreement. number of changes to review and the level of documentation required to
+support changes.
+Page 4 of 6
+
+--- Page 28 ---
+Maryland Department of Health
+Vital Statistics Administration
+Agency Response Form
+Local Health Departments (LHDs)
+Finding 6
+VSA did not ensure LHDs remitted fees collected on behalf of VSA for
+certified copies of birth and death certificates resulting in the failure to
+identify and recover at least $376,000.
+We recommend that VSA
+a. obtain LHD collection information either from the LHDs or through
+utilizing output reports from WOMS to determine amounts not provided
+to VSA, including those noted in the analysis above; and
+b. collect amounts due from LHDs, including the aforementioned $376,000.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 6a Agree Estimated Completion Date: Complete
+Please provide details of Notices, invoices and transmittals have been sent to the LHDs for all
+corrective action or payments to date.
+explain disagreement.
+Recommendation 6b Agree Estimated Completion Date: 6/30/2025
+Please provide details of Notices, invoices and transmittals have been sent to the LHDs for all
+corrective action or payments due to date. LHDs have until 3/31/2025 to submit past due
+explain disagreement. transmittals. VSA will take additional action, as necessary, if this
+deadline is missed.
+Page 5 of 6
+
+--- Page 29 ---
+Maryland Department of Health
+Vital Statistics Administration
+Agency Response Form
+Cash Receipts
+Finding 7
+VSA had not established adequate procedures and controls over certificate
+fee collections received at its headquarters.
+We recommend that VSA
+a. restrictively endorse and initially record checks immediately upon receipt
+and ensure checks are properly safeguarded until deposit (repeat), and
+b. ensure an employee independent of the cash receipt function verifies all
+collections from the initial recordation to the related deposit slip (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 7a Agree Estimated Completion Date: Complete
+Please provide details of VSA has restrictively endorsed and initially record checks immediately
+corrective action or upon receipt and ensure checks are properly safeguarded until deposit
+explain disagreement. VSA has created a standard operating procedure that includes the
+guidelines for processing checks, which includes endorsing with a stamp
+and checks being locked in a safe immediately upon receipt.
+Recommendation 7b Agree Estimated Completion Date: Complete
+Please provide details of VSA has ensured an employee independent of the cash receipt function
+corrective action or verifies all collections from the initial recordation to the related deposit
+explain disagreement. slip. VSA has created a standard operating procedure and back-up for
+the check deposit process to ensure the timely deposit of collections.
+Page 6 of 6
+
+--- Page 30 ---
+A T
+UDIT EAM
+Robert J. Smith, CPA
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+Dianne P. Ramirez
+Senior Auditor
+Michael K. Bliss, CISA
+Vickey K. Micah
+Information Systems Senior Auditors
+John E. Rooney
+Zoe D. Smith
+Staff Auditors

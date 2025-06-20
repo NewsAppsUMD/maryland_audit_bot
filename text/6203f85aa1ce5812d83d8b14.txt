@@ -1,0 +1,1157 @@
+Title: Baltimore City Community College
+Date: 02/09/2022
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=6203f85aa1ce5812d83d8b14
+Extracted: 2025-06-20T00:14:09.776800
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Baltimore City Community College
+February 2022
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Carol L. Krimm (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Mark S. Chang
+Senator George C. Edwards Delegate Nicholas P. Charles II
+Senator Katie Fry Hester Delegate Andrea Fletcher Harrison
+Senator Cheryl C. Kagan Delegate Trent M. Kittleman
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Elizabeth G. Proctor
+Senator Craig J. Zucker Delegate Geraldine Valentino-Smith
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+February 9, 2022
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Carol L. Krimm, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Baltimore City Community
+College (BCCC) for the period beginning November 30, 2016 and ending
+November 30, 2020. BCCC is an urban two-year institution that primarily offers
+associate of arts degrees and certificate programs in the business and health
+services fields, as well as general studies for the purpose of continuing education
+at a four-year institution.
+Our audit disclosed that BCCC did not require or obtain a review of the
+automated system used by its vendor responsible for processing student refunds,
+to ensure that sensitive student information residing on the system was properly
+safeguarded. In addition, BCCC had not established sufficient controls over
+significant aspects of its financial aid award and record keeping processes.
+Furthermore, BCCC was unable to provide adequate documentation to support the
+propriety of a $72,700 payroll adjustment that increased the payments made to a
+senior BCCC management employee. In addition, BCCC overpaid another
+employee $8,900 due to an undetected adjustment miscalculation.
+Our audit also disclosed that BCCC did not always adhere to State procurement
+regulations regarding competitive procurement solicitations, obtaining Board of
+Public Works approval of contracts, and publicizing bid solicitations and contract
+awards. In addition, contract invoices were not always adequately verified.
+Furthermore, BCCC did not comply with State law and, during the period of this
+audit, Department of Information Technology policies for the procurement and
+monitoring of its two resource sharing agreements.
+
+--- Page 4 ---
+Effective July 1, 2021, State law exempts BCCC from most provisions of State
+procurement law, as well as State oversight of its Information Technology (IT)
+policies, standards, and procurements. The law also effectively exempts BCCC
+from Department of Information Technology oversight of its resource sharing
+agreements. However, the law requires BCCC to develop procurement policies
+and procedures that promote the purposes of State procurement law, and an IT
+plan that includes IT policies and standards that are functionally compatible with
+the statewide IT master plan and BCCC’s strategic plan. In light of the
+aforementioned findings relating to procurement and resource sharing
+agreements, we deem it essential for good governance that BCCC’s newly
+developed procurement policies and procedures and IT plan include the controls
+addressed in our recommendations relating to those findings, and that BCCC’s
+Board of Trustees be provided a formal oversight function.
+We also noted that adequate safeguards were not in place to protect BCCC’s
+computer network and related administrative systems from security risks.
+Sensitive personally identifiable information (PII) maintained by BCCC was
+stored in a manner that made the information vulnerable to improper disclosure
+and malware protection for BCCC computers was not sufficient to provide
+adequate assurance that these computers were properly protected.
+Finally, we found that BCCC did not conduct physical inventories of equipment
+and did not maintain complete equipment records as required.
+Our audit included a review to determine the status of the eight findings contained
+in our preceding audit report. We call your attention to our determination that
+BCCC satisfactorily addressed six of these findings. The remaining two findings,
+including a finding related to the safeguarding of PII, are repeated in the report.
+BCCC’s response to this audit is included as an appendix to this report. In
+accordance with State law, we have reviewed the response and while BCCC
+generally agrees with the recommendations we identified certain instances in
+which statements in the response conflict with or disagree with the report
+findings. In each instance, we reviewed and reassessed our audit documentation,
+and reaffirmed the validity of our finding. In accordance with generally accepted
+government auditing standards, we have included “auditor’s comments” within
+the response to explain our position. We will advise the Joint Audit and
+Evaluation Committee of any outstanding issues that we cannot resolve with
+BCCC. Additionally, we have edited BCCC’s response to remove certain vendor
+names or products and certain detailed information regarding information systems
+security, as allowed by our policy.
+2
+
+--- Page 5 ---
+We wish to acknowledge the cooperation extended to us during the audit by
+BCCC and its willingness to address the audit issues and implement appropriate
+corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 7
+Agency Responsibilities 7
+Financial Statement Audits 7
+Procurement Law and Information Technology Exemptions 7
+Resource Sharing Agreements 8
+Status of Findings From Preceding Audit Report 9
+Findings and Recommendations 10
+Student Personal Information
+Finding 1 – Baltimore City Community College (BCCC) did not require 10
+or obtain a review of the automated system used by its vendor
+responsible for processing student refunds, to ensure that sensitive
+information residing on the system was properly safeguarded.
+Student Financial Aid
+Finding 2 – BCCC had not established sufficient controls over significant 11
+aspects of the financial aid award and record keeping processes within
+the financial aid office.
+Payroll
+Finding 3 – BCCC was unable to provide adequate documentation to 12
+support a payroll adjustment increasing a senior BCCC management
+employee’s compensation by $72,700. In addition, BCCC overpaid
+another employee $8,900 due to an undetected adjustment
+miscalculation.
+Procurements and Disbursements
+Finding 4 – BCCC did not always adhere to State procurement regulations 14
+regarding conducting competitive solicitations, obtaining Board of
+Public Works approval of contracts, and the publication of bid
+solicitations and awards. In addition, contract invoices were not
+always adequately verified prior to payment.
+Finding 5 – During our audit period, BCCC did not comply with State law 15
+and Department of Information Technology policies for the
+procurement and monitoring of its two resource sharing agreements.
+5
+
+--- Page 8 ---
+Information Systems Security and Control
+* Finding 6 – Sensitive personally identifiable information was maintained 17
+without adequate safeguards and identification.
+Finding 7 – Malware protection controls for BCCC computers were not 18
+sufficient to provide adequate assurance that computers were properly
+protected from security risks.
+Equipment
+* Finding 8 – BCCC did not conduct physical inventories of equipment and 19
+did not maintain complete equipment records as required.
+Audit Scope, Objectives, and Methodology 21
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities
+The Baltimore City Community College (BCCC) is an urban two-year institution
+and operates under the jurisdiction of BCCC’s Board of Trustees. BCCC
+primarily offers associate degrees and certificate programs across the areas of
+behavioral and social sciences, pre-health professions, business, visual and
+performing arts, and STEM (science, technology, engineering, and mathematics).
+The degrees and certificates offered allow students to graduate and enter the
+workforce as well as continue their education at four-year institutions. BCCC has
+one main campus, and three additional educational locations. BCCC’s reported
+full-time equivalent enrollment for credit courses in the spring 2020 semester was
+1,102. According to the State’s accounting records, BCCC’s fiscal year 2020
+revenues totaled approximately $69.8 million, which included a State General
+Fund appropriation of approximately $40.1 million.
+Financial Statement Audits
+BCCC engaged an independent accounting firm to perform audits of its financial
+statements and those of its associated foundation, for the fiscal years ended June
+30, 2017, 2018, 2019, and 2020. In the related audit reports, the firm stated that
+BCCC’s and its foundation’s (referred to as “discretely presented unit”) financial
+statements presented fairly, in all material respects, the respective financial
+position of BCCC and the respective changes in financial position and, where
+applicable, cash flows thereof for the years then ended in accordance with
+accounting principles generally accepted in the United States of America.
+Procurement Law and Information Technology Exemptions
+Chapter 732, Laws of Maryland 2021, effective July 1, 2021 exempts BCCC from
+most provisions of State procurement law and from State oversight of its (1)
+information technology (IT) policies, standards, and procurement and (2) capital
+improvement and service contracts valued at $500,000 or less. The law further
+provides that, subject to review and approval of the Board of Public Works,
+BCCC must develop policies and procedures governing procurement by the
+college, including those governing conflict of interest issues. The policies and
+procedures must promote the purposes of State procurement law.
+The law requires the BCCC Board of Trustees to also develop an IT plan that
+includes IT policies and standards that are functionally compatible with the
+7
+
+--- Page 10 ---
+statewide IT master plan and BCCC’s strategic plan. The law would also exempt
+BCCC from oversight from the Department of Information Technology regarding
+resource sharing agreements.
+Due to the effective date of the referenced legislation, which was subsequent to
+our audit period, our review of BCCC operations included the activities prior to
+the implementation of the aforementioned legislation.
+Resource Sharing Agreements
+On November 18, 2016, we issued a report on our Special Review of Resource
+Sharing Lease Agreements payments deposited into escrow accounts maintained
+outside of State control by a law firm. Under these agreements, three State
+agencies received compensation from telecommunication companies for the use
+of the State’s communications infrastructure, such as the installation of private
+communication systems on State-owned towers. As a result of the concerns
+identified during the special review, we conducted a performance audit to
+evaluate the State’s use and oversight of telecommunications resource sharing
+agreements between multiple State agencies and private companies.
+On August 3, 2018, we issued a performance audit report on Telecommunication
+Resource Sharing Agreements which contained several additional findings related
+to BCCC. This report included a number of findings related to selected agencies,
+but emphasized the need for the Department of Information Technology to
+exercise greater oversight of the resource sharing agreements entered into by State
+agencies in general. The performance audit included the following select findings
+related to BCCC.
+ BCCC did not verify that all monetary compensation was received,
+ BCCC did not always include adequate provisions to protect State interests,
+ BCCC allowed telecommunications companies to continue using State
+resources after agreements had expired,
+ BCCC had not obtained Board of Public Works approval for resource sharing
+agreement renewals as required by State law.
+BCCC agreed to the findings and recommendations in the August 2018 report.
+During our current audit we reviewed procedures and controls over BCCC’s two
+resource sharing agreements. The related results of our review are included in
+finding 5.
+8
+
+--- Page 11 ---
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the eight findings contained
+in our preceding audit report dated November 14, 2017. As disclosed in Figure 1,
+we determined that BCCC satisfactorily addressed six of these findings. The
+remaining two findings are repeated in this report.
+Figure 1
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+The Baltimore City Community College’s (BCCC) Facilities
+Planning and Operations Department circumvented State
+Finding 1 regulations in the procurement of certain goods and services. Not repeated
+Based on our review, certain of these procurements and related
+payments appeared questionable.
+Several BCCC employees shared their corporate purchasing
+Finding 2 cards, precluding effective accountability and control, and did Not repeated
+not have required documentation to support certain payments.
+BCCC granted salary incentives or increases totaling $129,250
+to four senior management positions without adequate
+Finding 3
+justifications, including three increases that were not approved Not repeated
+by its Board of Trustees.
+BCCC did not maintain a current and comprehensive
+agreement with its affiliated foundation, as required. In
+addition, the most recent agreement did not contain any
+Finding 4 financial or operational goals and outcomes to be achieved by Not repeated
+the foundation even though BCCC subsidized a significant
+percentage of the foundation’s expenses during fiscal years
+2015 and 2016.
+Sensitive personally identifiable information maintained by Repeated
+Finding 5
+BCCC was stored without adequate safeguards. (Current Finding 6)
+Malware protection for BCCC computers was not sufficient to
+Finding 6 provide BCCC with adequate assurance that its computers Not repeated
+were properly protected.
+BCCC did not immediately restrictively endorse checks and
+Finding 7 Not repeated
+deposit collections timely at its Liberty Campus.
+BCCC did not maintain complete and accurate equipment
+records, could not locate certain equipment, and could not
+Repeated
+Finding 8 document that it conducted physical inventories of equipment
+(Current Finding 8)
+as required. In addition, 40 computers purchased several years
+ago were never placed into service.
+9
+
+--- Page 12 ---
+Findings and Recommendations
+Student Personal Information
+Finding 1
+Baltimore City Community College (BCCC) did not require or obtain a
+review of the automated system used by its vendor responsible for processing
+student refunds, to ensure that sensitive student information residing on the
+system was properly safeguarded.
+Analysis
+BCCC did not require or obtain an independent review of the automated system
+used by its vendor responsible for processing student refunds, to ensure that
+sensitive student information residing on the system was properly safeguarded.
+According to BCCC records, student refunds issued during fiscal year 2020
+totaled approximately $4.9 million. State law requires that a unit of State
+government, including a public institution of higher education, or a third-party
+service provider under contract with the unit, such as the aforementioned vendor,
+shall implement reasonable security procedures and practices to protect personal
+information.
+Our review disclosed that BCCC’s contract with its vendor did not require the
+vendor to obtain and formally report the results of any such review of the
+vendor’s automated system. As a result, there is a lack of assurance that sensitive
+BCCC student information was being adequately safeguarded by the vendor. In
+an effort to meet its legal requirement to protect personal student information, the
+University System of Maryland (USM) requires all USM institutions in such
+circumstances to obtain and review a control assessment report based on a system
+review performed by a recognized independent audit organization. Although
+BCCC is not a USM institution, and is therefore not subject to USM policy
+requirements, the USM policy does provide several examples of reports BCCC
+could adopt in order to meets its legal obligation to protect student information,
+including reports recommended by the American Institute of Certified Public
+Accountants (AICPA).
+The AICPA has issued guidance concerning examinations of service providers
+and issuance of System and Organization Controls (SOC) reports, including the
+SOC 2 Type 2 report. The SOC 2 Type 2 report contains the service
+organization’s description of its system and the results of the auditor’s
+examination of the suitability of the system design and operating effectiveness for
+the period under review, and can include an evaluation of system security, data
+10
+
+--- Page 13 ---
+availability, processing integrity, confidentiality, and privacy trust services
+criteria.
+Subsequent to our inquiries, BCCC obtained from the vendor a SOC 1, Type 2
+report. However, SOC 1 reports are generally intended to focus on service
+organization controls relevant to financial reporting for user entities and would
+not provide BCCC the degree of assurances necessary for confirming the security
+of sensitive student information.
+Recommendation 1
+We recommend that BCCC comply with State law by requiring the vendor to
+obtain a formal control assessment report, such as a SOC 2 Type 2 report,
+and implement a process to obtain and review the results to ensure sensitive
+student information provided to the vendor is properly safeguarded.
+Student Financial Aid
+Finding 2
+BCCC had not established sufficient controls over significant aspects of the
+financial aid award and record keeping processes within the financial aid
+office.
+Analysis
+BCCC had not established sufficient controls over significant aspects of the
+financial aid award and record keeping processes within the financial aid office.
+Specifically, BCCC did not conduct independent supervisory reviews of manual
+adjustments to financial aid awards. In addition, BCCC did not conduct
+independent supervisory reviews of the verifications of financial aid application
+data and satisfactory academic progress by financial aid recipients that were
+performed by financial aid office staff. As a result, there was a lack of assurance
+that these adjustments and verifications were properly performed and
+documented. Our test of financial aid awards, manual adjustments, and
+verifications did not disclose any material deficiencies.
+The accuracy and validity of these processes are critical to ensuring the propriety
+of student financial aid awards, which during academic year 2019-2020 totaled
+approximately $11.6 million. During fiscal year 2020, awards manually input
+into the financial aid system, and not subject to independent supervisory review
+and approval, totaled approximately $1.0 million.
+11
+
+--- Page 14 ---
+Recommendation 2
+We recommend that BCCC ensure that manual adjustments to financial aid
+awards, as well as required verifications of financial aid application data and
+satisfactory academic progress by financial aid recipients are subject to
+independent supervisory review and approval.
+Payroll
+Finding 3
+BCCC was unable to provide adequate documentation to support a payroll
+adjustment increasing a senior BCCC management employee’s
+compensation by $72,700. In addition, BCCC overpaid another employee
+$8,900 due to an undetected adjustment miscalculation.
+Analysis
+BCCC was unable to provide adequate documentation to support the propriety of
+a $72,700 adjustment that increased the payroll payments made to a senior
+management employee. In addition, BCCC overpaid another employee $8,900
+due to an undetected adjustment miscalculation. BCCC policy does not
+specifically address the documentation requirements (criteria) or the related
+departmental or executive approvals needed for payroll adjustments. However,
+we were verbally advised that adjustments are documented on a form for that
+purpose, which must be signed by the payroll employee processing the adjustment
+and approved by a payroll supervisor. We selected ten payroll adjustments1
+processed for ten employees between July 2018 and November 2020, and totaling
+$327,500. Payroll adjustments (increasing employee salary compensation) totaled
+approximately $3.0 million during our audit period. Our review disclosed the
+following conditions.
+ BCCC could not provide documentation supporting an adjustment for $72,700
+paid to a senior management employee in July 2018 that was coded in
+BCCC’s payroll records as a miscellaneous adjustment. BCCC could not
+provide us with documentation to justify the adjustment, and given the amount
+and employee’s senior position, documentation that the BCCC Board of
+Trustees was advised and approved of the payment. During our audit, we
+made several requests for documentation supporting the dollar amount and the
+basis for this adjustment. As of October 2021, BCCC was unable to provide
+us with documentation to support the propriety of this payment.
+1 We selected significant adjustment amounts coded as miscellaneous or final pay.
+12
+
+--- Page 15 ---
+ BCCC processed another adjustment totaling $19,700 designated in the
+payroll records as a final leave payout to a professor of which we noted
+$8,900 was an overpayment due to a miscalculation. Although this
+adjustment was approved by a payroll supervisor, the overpayment was not
+detected at that time, but discovered during our testing. Specifically, BCCC
+made an error when adjusting the amount of pay for an employee who worked
+21 pay periods and was to be paid out over 26 pay periods.
+Recommendation 3
+We recommend that BCCC
+a. develop formal policies and procedures governing the criteria,
+documentation, and approvals (such as Board of Trustees) needed for
+adjustments;
+b. ensure that all payroll adjustments are supported with adequate
+documentation and properly calculated; and
+c. determine the propriety of the aforementioned unsupported payroll
+adjustments and take appropriate action to recover any amounts that
+cannot be supported.
+Procurements and Disbursements
+Background
+During the period from December 2016 through October 2020 BCCC issued
+1,309 purchase orders for goods and services, with related payments totaling
+approximately $26.3 million. We tested 12 procurements (generally selected
+based on dollar significance) made by BCCC during our audit period totaling $6.1
+million. We also reviewed BCCC’s two resource sharing agreements valued at
+$2.2 million (not included in the aforementioned totals).
+In addition, we received a referral to our fraud, waste, and abuse hotline regarding
+concerns with BCCC’s procurement of catering, information technology, and a
+summer youth program obtained from three vendors. As a result, we reviewed
+the procurement of the services from these vendors. Based on our review, we
+were able to substantiate the concerns raised in the allegation for two of the
+vendors, which are included in finding 4. However, the results of our review did
+not identify any issues that warranted a referral to the Office of the Attorney
+General – Criminal Division.
+As noted in the Background Section under the heading “Procurement Law and
+Information Technology Exemptions”, BCCC is now exempt from most State
+procurement laws and regulations, including the inherent controls and oversight.
+13
+
+--- Page 16 ---
+Consequently, and in light of the findings noted below, we deem it essential for
+good governance that BCCC’s newly developed procurement policies and
+procedures include similar controls to those required of other State agencies, and
+that the Board of Trustees be provided a formal oversight function.
+Finding 4
+BCCC did not always adhere to State procurement regulations regarding
+conducting competitive solicitations, obtaining Board of Public Works
+(BPW) approval of contracts, and the publication of bid solicitations and
+awards. In addition, contract invoices were not always adequately verified
+prior to payment.
+Analysis
+BCCC did not always adhere to State procurement regulations regarding
+performing competitive solicitations, obtaining BPW approval of contracts, and
+publicizing bid solicitations and awards. In addition, contract invoices were not
+always adequately verified.
+ BCCC did not have documentation, such as solicitation and bid documents, to
+support the competitive procurement process for five procurements totaling
+$167,000. In addition, BCCC could not provide a written contract or purchase
+order for two others valued at $24,000 and $75,000. Two of these vendors
+with procurements totaling $75,000 and $5,000 were included in the
+allegation to our fraud, waste, and abuse hotline.
+ BCCC did not publish the solicitation and award of 3 of the 12 contracts
+totaling $173,700 on eMaryland Marketplace (eMM),2 as required. One of
+these vendors with procurements totaling $75,000 was included in the
+allegation to our fraud, waste, and abuse hotline.
+ BCCC paid another of the 12 vendors tested, $721,000 between January 2018
+and August 2019 for information technology (IT) services without soliciting
+bids and obtaining BPW approval, as required. In July 2019 (18 months after
+payments to this vendor began), after subsequent submission to BPW, the
+Board retroactively approved the procurement as a sole source. Furthermore,
+our test of three invoices from this vendor totaling $86,000 disclosed that
+BCCC could not document it verified invoiced rates to the rate schedule in the
+related contract documents to ensure amounts invoiced were proper.
+2 eMM is an Internet-based, interactive procurement system managed by the Department of
+General Services (DGS). Effective July 2019, DGS replaced eMM with eMaryland Marketplace
+Advantage (eMMA).
+14
+
+--- Page 17 ---
+ BCCC did not consolidate the procurement of catering services obtained from
+one vendor included in the allegation to our fraud, waste, and abuse hotline.
+Specifically, during the six months between September 2017 and February
+2018 BCCC repeatedly procured services from this vendor totaling $37,965
+(including the aforementioned $5,000 tested above). By not consolidating
+these procurements, BCCC circumvented certain enhanced requirements for
+contracts over $15,000, and may not have obtained the most favorable pricing
+based on the requirement for a competitive procurement when contracts
+exceed $15,000.
+State procurement regulations generally applicable to BCCC during the audit
+period require that procurement files include all bids or offers received and a
+listing of every bidder or offeror solicited. The regulations also require the
+solicitation of bids for contracts in excess of $15,000 to be published on eMM
+three days prior to the bid submission date, and twenty days prior to the bid
+submission date for contracts in excess of $50,000. In addition, these regulations
+require the publication of contract awards over $50,000 on eMM within thirty
+days after the contract execution and approval date. Finally, the regulations
+provide that procurements of contracts over $200,000 in value and contract
+modifications over $50,000 require BPW approval.
+Recommendation 4
+We recommend that BCCC ensure that
+a. contracts are awarded though a competitive procurement process as
+appropriate, and related documentation of the procurement be
+maintained;
+b. all bid solicitation and award publishing requirements are adhered to;
+c. contracts receive proper independent approval as applicable;
+d. vendor invoices are correct by verifying invoice charges to contractual
+billing rates; and
+e. purchases from vendors are consolidated to maximize the State’s
+purchasing power.
+Finding 5
+During our audit period, BCCC did not comply with State law and
+Department of Information Technology (DoIT) policies for the procurement
+and monitoring of its two resource sharing agreements (RSAs).
+Analysis
+BCCC did not comply with State law and DoIT policies for the procurement and
+monitoring of its two RSAs during the period of our audit. BCCC has a single
+15
+
+--- Page 18 ---
+telecommunication tower located off campus on which it leases space to two
+telecommunication companies under lease agreements or RSAs.
+ BCCC continued to use one RSA valued at $473,000 after the initial
+agreement and all renewal options expired in 2008. Since the RSA was not
+renegotiated, payments were generally maintained at the level established
+during the final renewal period. Had the RSA been renegotiated using
+updated rates, additional revenue could have been earned. For example, using
+suggested rates developed by DoIT at the time, BCCC would have earned
+$97,000 more than the $112,000 paid by the telecommunication company
+during the period May 2017 to April 2021.
+ BCCC did not advertise a new $1.7 million RSA agreement on eMM, and did
+not submit the agreement to the General Assembly’s Legislative Policy
+Committee (LPC) for review and approval, as required. In October 2020,
+BCCC entered into a five year RSA with one of the companies with three
+potential extensions of five years each valued at $1.7 million, but did not first
+obtain approval for the agreement from DoIT.
+ BCCC did not include certain critical provisions in its RSAs to ensure that
+BCCC received the appropriate compensation and was protected from
+liability. Specifically, the agreements did not include language to address
+BCCC’s right to audit the records of the telecommunication companies and
+requirements for a security deposit or late fees. In addition, the agreements
+did not include language protecting BCCC from liability resulting from the
+private company’s negligence.
+State law applicable to BCCC during the audit period required that agencies
+advise DoIT of all RSA proposals so DoIT can determine the value of the
+proposal. DoIT’s Resource Sharing Agreements Program Policy required
+proposals valued at more than $100,000 be advertised on eMM for 30 days, be
+submitted by BCCC to the LPC for a 60-day review, and be subject to approval
+by BPW. DoIT’s Policy also states that the existing use of an RSA that did not
+obtain the statutory reviews and approvals must be submitted to DoIT for review
+to determine the extent to which retroactive approval must be obtained.
+Recommendation 5
+We recommend that BCCC
+a. establish new agreements for any expired RSAs which include
+consideration of higher rates (for example, those suggested by DoIT);
+16
+
+--- Page 19 ---
+b. consider widely advertising solicitations for RSAs and submit them to the
+appropriate authorities as determined by BCCC’s policies, including the
+RSA noted above; and
+c. include all significant provisions in future RSAs, and modify its existing
+agreements to include those provisions to the extent allowed.
+Information Systems Security and Control
+Background
+BCCC’s Information Technology Services Division (ITSD) manages the
+development, maintenance, and support of BCCC’s information and technology
+infrastructure including all related networking, telecommunications, and business
+information systems. ITSD maintains critical enterprise applications as well as
+departmental systems supporting student, human resource, and financial
+information systems.
+Finding 6
+Sensitive personally identifiable information (PII) was maintained without
+adequate safeguards and identification.
+Analysis
+Sensitive PII was maintained without adequate safeguards and identification.
+BCCC supported computer operations for multiple applications which processed
+such sensitive information, but without adequate protections. As of June 30,
+2021, we determined that numerous applications’ databases included a substantial
+number of unique sensitive information records which were maintained in a
+manner that made the information vulnerable to improper disclosure. BCCC
+personnel also advised us that this sensitive PII was not subject to other
+substantial mitigating security controls.
+Furthermore, although BCCC had procedures for performing automated scanning
+of servers for PII identification, it had not manually inventoried its applications
+nor used the results of the scans to identify all stored sensitive PII across its entire
+IT environment, determined if it was necessary to retain the PII, and deleted PII
+identified as unnecessary. Detailed aspects of this finding were omitted from this
+report; however, the related detailed information, including a sensitive
+information record count, was previously shared with BCCC for purposes of
+implementing the following recommendations.
+Similar conditions were commented upon in our preceding audit report. The State
+of Maryland Information Technology Security Manual requires that agencies
+17
+
+--- Page 20 ---
+protect confidential data using adequate safeguards and/or other substantial
+mitigating controls.
+Recommendation 6
+We recommend that BCCC
+a. perform an inventory of all of its servers, identify all sensitive PII, and
+delete all unnecessary sensitive PII (repeat); and
+b. implement appropriate information security safeguards for the sensitive
+PII it maintains (repeat).
+Finding 7
+Malware protection controls for BCCC computers were not sufficient to
+provide adequate assurance that computers were properly protected from
+security risks.
+Analysis
+Malware protection for BCCC computers was not sufficient to provide adequate
+assurance that computers were properly protected from security risks. BCCC
+advised us that numerous software management consoles were reviewed to
+monitor malware protection software installation and operational status, software
+version, and signature updates. However, as of May 25, 2021, BCCC advised that
+documented reviews of these consoles had not been performed since September
+2020. In addition, BCCC did not have malware protection software installed on
+all of its active computers. As of May 25, 2021, our review determined that 62 of
+569 active computers did not have malware protection software installed.
+Best practices as specified in State of Maryland Information Technology Security
+Manual state that agencies, at a minimum, must protect against malicious code
+(viruses, worms, Trojan horses) by implementing protections (anti-virus, anti-
+malware) that, to the extent possible, include a capability for automatic updates.
+Recommendation 7
+We recommend that BCCC ensure that malware protection software is
+installed and maintained on all computers by regularly monitoring related
+software management consoles to verify its computers’ malware protection
+software status, document these reviews and adjustment actions, and retain
+this documentation for future reference.
+18
+
+--- Page 21 ---
+Equipment
+Finding 8
+BCCC did not conduct physical inventories of equipment and did not
+maintain complete equipment records as required.
+Analysis
+BCCC did not conduct physical inventories of equipment and did not maintain
+complete equipment records as required. According to BCCC’s records, its
+equipment inventory was valued at $32.8 million as of June 30, 2020.
+ Physical inventories of sensitive and non-sensitive equipment were not
+conducted since 2014. In February 2017, BCCC contracted with a third-party
+vendor to perform a complete physical inventory. However, due to a lack of
+adequate performance by the vendor, BCCC terminated the contract in
+February 2018. Since that time, no further attempts have been made to
+perform a physical inventory.
+ BCCC’s detailed equipment records were not complete. Our test of 10
+purchases of 76 equipment items totaling $54,0003, disclosed that 14 items,
+such as computers, totaling $15,000 had not been recorded in the detail
+records. In addition, 58 items that were recorded in the records totaling
+$37,000 did not include the specific location of the item (such as a room
+number) to enable effective control over the equipment.
+Similar conditions were noted in our preceding audit report. The Department of
+General Services’ Inventory Control Manual applicable to BCCC during the audit
+period requires that physical inventories be conducted for sensitive equipment
+items annually and for non-sensitive equipment items every three years and the
+results reconciled to the related detail records. Furthermore, the records should
+include all equipment purchases, as well as all relevant information, such as
+location.
+Recommendation 8
+We recommend that BCCC
+a. conduct timely periodic documented physical inventories of sensitive and
+non-sensitive equipment and reconcile the results to the detail inventory
+record (repeat), and
+3 The selection was made by analyzing equipment purchases and selecting purchases from vendors
+that had significant total payments from BCCC.
+19
+
+--- Page 22 ---
+b. ensure that the equipment records are maintained in a complete and
+accurate manner (repeat).
+20
+
+--- Page 23 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit the Baltimore City Community
+College (BCCC) for the period beginning November 30, 2016 and ending
+November 30, 2020. The audit was conducted in accordance with generally
+accepted government auditing standards. Those standards require that we plan
+and perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings
+and conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine BCCC’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included purchases and disbursements, student accounts
+receivable, financial aid, cash receipts, payroll, corporate purchasing cards,
+equipment, resource sharing agreements, affiliated foundation, and information
+technology. Furthermore, we reviewed the procurement of certain contracts for
+catering, information technology, and a summer youth program regarding a
+referral received from our fraud, waste, and abuse hotline. We also determined
+the status of the findings contained in our preceding audit report.
+Our audit did not include an evaluation of internal controls over compliance with
+federal laws and regulations for federal financial assistance programs and an
+assessment of BCCC’s compliance with those laws and regulations because the
+State of Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including BCCC.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of November 30, 2016 to November 30, 2020, but may include
+transactions before or after this period as we considered necessary to achieve our
+audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of BCCC operations. Generally,
+21
+
+--- Page 24 ---
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during this
+audit. We also extracted data from BCCC’s financial system for the purpose of
+testing certain areas, such as student accounts receivable. We performed various
+tests of the relevant data and determined that the data were sufficiently reliable for
+the purposes the data were used during the audit. Finally, we performed other
+auditing procedures that we considered necessary to achieve our audit objectives.
+The reliability of data used in this report for background or informational
+purposes was not assessed.
+BCCC’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to BCCC, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+22
+
+--- Page 25 ---
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect BCCC’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to BCCC that did not warrant inclusion in this
+report.
+BCCC’s response to our findings and recommendations is included as an
+appendix to this report. As prescribed in the State Government Article, Section 2-
+1224 of the Annotated Code of Maryland, we will advise BCCC regarding the
+results of our review of its response.
+23
+
+--- Page 26 ---
+APPENDIX
+Office of the President
+January 25, 2022
+Mr. Gregory A. Hook, CPA
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Dear Mr. Hook:
+The responses to the Fiscal Compliance Audit Report for Baltimore City Community College are
+attached.
+The electronic transmittal of responses was previously sent on January 24, 2022. The attached
+document reflects what was communicated on January 24th.
+On behalf of Baltimore City Community College, thank you for the comprehensive review of the
+College’s financial transactions, internal controls, and the evaluation of our compliance with
+applicable State of Maryland laws.
+Sincerely,
+Debra L. McCurdy, PhD
+President
+Enclosures
+cc: Kurt L. Schmoke, J.D., Chair, Board of Trustees, BCCC
+Lyllis M. Green, Chief Internal Auditor
+Baltimore City Community College
+2901 Liberty Heights Avenue, Baltimore, MD 21215 | 410-462-7799
+
+--- Page 27 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Student Personal Information
+Finding 1
+Baltimore City Community College (BCCC) did not require or obtain a review of the
+automated system used by its vendor responsible for processing student refunds, to ensure
+that sensitive student information residing on the system was properly safeguarded.
+We recommend that BCCC comply with State law by requiring the vendor to obtain a
+formal control assessment report, such as a SOC 2 Type 2 report, and implement a process
+to obtain and review the results to ensure sensitive student information provided to the
+vendor is properly safeguarded.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1 Agree EstimatedCompletion Date: 1/31/2022
+Please provide details of BCCC has confirmed with our vendor that a SOC 2 Report is available
+corrective action or and will be forthcoming.
+explain disagreement.
+Going forward, BCCC will follow the process of obtaining and
+reviewing the automated system used by its vendors responsible for
+processing student refunds to ensure that sensitive student information
+residing on the system is properly safeguarded.
+Page 1of12
+
+--- Page 28 ---
+BaltimoreCityCommunityCollege
+Agency Response Form
+Student Financial Aid
+Finding 2
+BCCC had not established sufficient controls over significant aspects of the financial aid
+award and record keeping processes within the financial aid office.
+We recommend that BCCC ensure that manual adjustments to financial aid awards, as
+well as required verifications of financial aid application data and satisfactory academic
+progress by financial aid recipients are subject to independent supervisory review and
+approval.
+AgencyResponse
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2 Agree EstimatedCompletionDate: Implemented and
+ongoing
+Please provide details of BCCC will ensure that manual adjustments to financial aid awards, as
+corrective action or well as required verifications of financial aid application data and
+explain disagreement. satisfactory academic progress by financial aid recipients are subject to
+independent supervisory review and approval. The College has hired a
+third-party to conduct this review and will continue to utilize that third-
+party.
+Page 2of12
+
+--- Page 29 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Payroll
+Finding 3
+BCCC was unable to provide adequate documentation to support a payroll adjustment
+increasing a senior BCCC management employee’s compensation by $72,700. In addition,
+BCCC overpaid another employee $8,900 due to an undetected adjustment miscalculation.
+We recommend that BCCC
+a. develop formal policies and procedures governing the criteria, documentation, and
+approvals (such as Board of Trustees) needed for adjustments;
+b. ensure that all payroll adjustments are supported with adequate documentation and
+properly calculated; and
+c. determine the propriety of the aforementioned unsupported payroll adjustments and
+take appropriate action to recover any amounts that cannot be supported.
+Agency Response
+Analysis
+Please provide We expanded these procedures due to COVID and working remotely to
+additional comments as ensure that the College is processing adjustments correctly.
+deemed necessary.
+Recommendation 3a Agree Estimated Completion Date: Implemented and
+ongoing
+Please provide details of The noted adjustment and overpayment above occurred prior to the
+corrective action or current administration. The College now requires management level
+explain disagreement. approval on all payroll adjustments. This includes review by the HR
+Director, VP of Finance and Administration, and President prior to
+processing the adjustment.
+Recommendation 3b Agree Estimated Completion Date: Implemented and
+ongoing
+Please provide details of HR/Payroll created an adjustment process which includes supporting
+corrective action or documentation for approval signatures.
+explain disagreement.
+Recommendation 3c Disagree EstimatedCompletionDate:
+Please provide details of We will have to determine that the funds need to be recovered. Based on
+corrective action or how faculty contracts are paid out, there were not any payments that
+explain disagreement. were overpaid.
+Page 3of12
+
+--- Page 30 ---
+BaltimoreCityCommunityCollege
+Agency Response Form
+Auditor’s Comment: Although BCCC indicated that it disagreed with our recommendation
+to determine the propriety of the unsupported payroll adjustments and take action to recover
+amounts that cannot be supported; the plain language of its response indicated that it will
+have to determine that the funds need to be recovered. We will presume if BCCC determines
+that funds need to be recovered, preferably in consultation with its legal counsel, it will seek
+recovery.
+Page 4of12
+
+--- Page 31 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Procurements and Disbursements
+Finding 4
+BCCC did not always adhere to State procurement regulations regarding conducting
+competitive solicitations, obtaining Board of Public Works (BPW) approval of contracts,
+and the publication of bid solicitations and awards. In addition, contract invoices were not
+always adequately verified prior to payment.
+We recommend that BCCC ensure that
+a. contracts are awarded though a competitive procurement process as appropriate, and
+related documentation of the procurement be maintained;
+b. all bid solicitation and award publishing requirements are adhered to;
+c. contracts receive proper independent approval as applicable;
+d. vendor invoices are correct by verifying invoice charges to contractual billing rates; and
+e. purchases from vendors are consolidated to maximize the State’s purchasing power.
+AgencyResponse
+Analysis
+Please provide BCCC concurs with the findings and recommendations. Going forward,
+additional comments as BCCC is in process of a procurement transformation due to new
+deemed necessary. delegated authority approved up to $500,000 by the General Assembly
+on July 1, 2021. Until formal approval on the College’s procurement
+policy and procedures are given; the College’s procurements shall abide
+by COMAR Title 21 until formal approval is received. Oversight of all
+procurements will be conducted by the Director of Procurement and
+Legal Counsel going forward to ensure compliance to state’s
+procurement rules and regulations. Delegation of authority and approvals
+shall be established based on contract value and will be approved
+accordingly per statue.
+Recommendation 4a Agree Estimated Completion
+06/30/2022
+Date:
+Please provide details of BCCC concurs with the recommendation. Contracts will be awarded
+corrective action or though a competitive procurement process as appropriate, and related
+explain disagreement. documentation of the procurement will be maintained.
+Recommendation 4b Agree Estimated Completion Immediately and
+Date: ongoing
+Please provide details of BCCC concurs with the recommendation. Contracts will receive proper
+corrective action or independent approval as applicable. Independent approval will be made
+explain disagreement. by BCCC’s Board of Trustees and / or Board of Public Work as
+applicable.
+Page 5of12
+
+--- Page 32 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Recommendation 4c Agree Estimated Completion Immediately and
+Date: ongoing
+Please provide details of BCCC concurs with the recommendation. Contracts shall include
+corrective action or verifiable billing rates to validate invoice payment prior to payment
+explain disagreement. being made. Additional documentation as evidence shall be required to
+validate payment to validate performance of work (e.g., timecards, proof
+of performance signed by College representative).
+Recommendation 4d Agree Estimated Completion Immediately and
+Date: ongoing
+Please provide details of BCCC concurs with the recommendation. Effective immediately, all bid
+corrective action or solicitations and contracts awards as required by COMAR Title 21 shall
+explain disagreement. be posted on the state’s official bid board, eMaryland Marketplace
+Advantage (eMMA).
+Recommendation 4e Agree Estimated Completion
+6/30/2022
+Date:
+Please provide details of BCCC concurs with the recommendation. Review of current purchasing
+corrective action or practices to determine the appropriate contracts to be established to
+explain disagreement. maximize the purchasing power of the College. Increase utilization and
+participation of intergovernmental purchasing agreements, and the
+establishment of larger value and longer term contracts to increase the
+effectivenessand efficienciesoftheoperationsofthe College.
+Page 6of12
+
+--- Page 33 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Finding 5
+During our audit period, BCCC did not comply with State law and Department of
+Information Technology (DoIT) policies for the procurement and monitoring of its two
+resource sharing agreements (RSAs).
+We recommend that BCCC
+a. establish new agreements for any expired RSAs which include consideration of higher
+rates (for example, those suggested by DoIT);
+b. consider widely advertising solicitations for RSAs and submit them to the appropriate
+authorities as determined by BCCC’s policies, including the RSA noted above; and
+c. include all significant provisions in future RSAs, and modify its existing agreements to
+include those provisions to the extent allowed.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 5a Agree EstimatedCompletionDate: October 2020 andongoing
+Please provide details of BCCC concurs with the recommendation. One of the RSA agreements
+corrective action or was renewed effective October 2020. The new agreement includes
+explain disagreement. annual increases in rates. The other RSA is in the final stages of
+approval. It will be placed on BPW’s agenda by DoIT once all
+signatures are obtained. Once BPW approves it, it will be finalized.
+Recommendation 5b Disagree EstimatedCompletionDate:
+Please provide details of BCCC does not concur with the recommendation. The Tower currently
+corrective action or is being used by the radio station and is being leased by two commercial
+explain disagreement. tenants and one Federal Government tenant. The resources of the Tower
+are primarily present for the function of running the radio station.
+Additional solicitations are not necessarily possible as they depend on
+the resources available on the Tower.
+Auditor’s Comment: BCCC disagreed with our recommendation to consider widely
+advertising solicitations for RSAs because the resources of the tower are primarily present
+for the functions of the radio station. Since the response also acknowledges that there are
+two commercial tenants, in addition to the federal government, using the tower, our
+recommendation is both reasonable and practicable to help ensure that tower revenue is
+maximized to BCCC’s benefit. Consequently, we continue to believe that BCCC needs to
+consider advertising in the future to ensure that the best possible rates are received from
+commercial tenants.
+Page 7of12
+
+--- Page 34 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Recommendation 5c Agree EstimatedCompletionDate: Implemented andongoing
+Please provide details of The RSA that is almost completed considered provisions to the extent
+corrective action or possible. With respect to modifying existing agreements, our Legal
+explain disagreement. Counsel advised that “the document cannot be amended without both
+parties’ agreement, and it is unclear why the lessee would agree to
+modifications at this point. Please note that the College sent the
+agreement to DoIT and they did not identify any problems with it.”
+Page 8of12
+
+--- Page 35 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Information Systems Security and Control
+Finding 6
+Sensitive personally identifiable information (PII) was maintained without adequate
+safeguards and identification.
+We recommend that BCCC
+a. perform an inventory of all of its servers, identify all sensitive PII, and delete all
+unnecessary sensitive PII (repeat); and
+b. implement appropriate information security safeguards for the sensitive PII it
+maintains (repeat).
+Agency Response
+Analysis
+Please provide There are no concerns with the factual accuracy.
+additional comments as
+deemed necessary.
+Recommendation 6a Agree EstimatedCompletionDate: December 2022
+Please provide details of BCCC will perform a manual inventory of the enterprise system
+corrective action or servers annually to coincide with the daily scans of servers already in
+explain disagreement. progress with automated scanning-based inventory since December
+of 2019. All unmarked files on the spreadsheet will be deleted by
+ITS upon the completion date.
+Recommendation 6b Agree EstimatedCompletionDate: December 2022
+Please provide details of BCCC will submit the collected PII inventory to the college's
+corrective action or departments for review to determine required PII files that shall be
+explain disagreement. retained for business purposes. PII files that shall be retained for
+business purposes and files marked as required will be safely recorded
+at the file system level to meet FIPS 140-2 compliance.
+Page 9of12
+
+--- Page 36 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Finding 7
+Malware protection controls for BCCC computers were not sufficient to provide adequate
+assurance that computers were properly protected from security risks.
+We recommend that BCCC ensure that malware protection software is installed and
+maintained on all computers by regularly monitoring related software management
+consoles to verify its computers’ malware protection software status, document these
+reviews and adjustment actions, and retain this documentation for future reference.
+AgencyResponse
+Analysis
+Please provide The college has hired a CIO and Deputy CIO to begin in February that
+additional comments as will cover the Approver role for the documented weekly malware
+deemed necessary. review.
+Recommendation 7 Agree EstimatedCompletionDate: April 2022
+Please provide details of In October, BCCC began documenting a resolution matching the total
+corrective action or number of domain computers against the total number of computers
+explain disagreement. running malware protection software. Reviews and adjustment actions
+will be documented and retained for future reference.
+Page 10of12
+
+--- Page 37 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Equipment
+Finding 8
+BCCC did not conduct physical inventories of equipment and did not maintain complete
+equipment records as required.
+We recommend that BCCC
+a. conduct timely periodic documented physical inventories of sensitive and non-sensitive
+equipment and reconcile the results to the detail inventory record (repeat), and
+b. ensure that the equipment records are maintained in a complete and accurate manner
+(repeat).
+Agency Response
+Analysis
+Please provide A full and complete inventory has not been completed, following
+additional comments as attempts to have vendors assist, and the task has been too large to do in
+deemed necessary. house. In the past, the excess property disposal process has not been
+fully utilized to dispose of furniture and equipment that are no longer
+usable. Instead, these items have been kept in storage areas for many
+years. We are now working on correcting these deficiencies.
+Recommendation 8a Agree EstimatedCompletionDate: November 2022
+Please provide details of The College has recently hired a Logistics Manager to oversee the
+corrective action or Property Division. On September 15, 2021, AVP for Facilities and
+explain disagreement. logistics staff attended a training with the Department of General
+Services (DGS) Property Manager in which the inventory and the excess
+property disposal declaration processes were discussed. On September
+16, 2021, the logistics team met with the asset management company for
+training and implementation of the new inventory system software. The
+DGS Property Manager was invited to the meeting to review and ensure
+that the new inventory system meets the state’s requirements for asset
+systems. The logistics teams are preparing to use new software to
+restart the entire comprehensive inventory of the campus once the asset
+system is approved by DGS. First, there are several areas where EPDs
+are required. On Friday, September 17, 2021, DGS Property Manager
+conducted a site visit to review areas with large amounts of property
+requiring disposal for possible bulk EPDs or setting up sale
+opportunities for Gov Deals.
+Page 11of12
+
+--- Page 38 ---
+BaltimoreCityCommunityCollege
+AgencyResponseForm
+Recommendation 8b Agree EstimatedCompletionDate: November 2022
+Please provide details of Once the new inventory is complete, the logistics team will perform
+corrective action or monthly cycle checks so that a full inventory is completed on an annual
+explain disagreement. basis. New items coming into shipping and receiving are currently being
+recorded properly, which includes the use of both the asset system and
+FMIS. There is also a future plan to implement the receiving function of
+the college’s new ERP system which will be rolled out later this year.
+Page 12of12
+
+--- Page 39 ---
+A T
+UDIT EAM
+Adam J. Westover, CPA
+Audit Manager
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Manager
+Menachem Katz, CPA
+Senior Auditor
+Eric Alexander, CPA, CISA
+Information Systems Senior Auditor
+Anjelecia N. Jacobs
+Thomas J. Kraemer
+Staff Auditors
