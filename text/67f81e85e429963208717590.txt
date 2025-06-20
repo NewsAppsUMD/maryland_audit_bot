@@ -1,0 +1,991 @@
+Title: Maryland Department of Labor - Division of Unemployment Insurance - Part 1 - Unemployment Insurance Tax Contributions
+Date: 04/08/2025
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=67f81e85e429963208717590
+Extracted: 2025-06-20T09:19:46.191634
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+April 2025
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Benjamin T. Brooks, Sr. Delegate Andrea Fletcher Harrison
+Senator Paul D. Corderman Delegate Steven C. Johnson
+Senator Katie Fry Hester Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David H. Moon
+Senator Clarence K. Lam, M.D. Delegate Julie Palakovich Carr
+Senator Cory V. McCray Delegate Emily K. Shetty
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+April 8, 2025
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Department of
+Labor (MDL) – Division of Unemployment Insurance (DUI) for the period
+beginning November 16, 2020 and ending January 31, 2024. DUI administers the
+State’s Unemployment Insurance Program, which includes the primary
+responsibilities of collecting unemployment insurance tax contributions from
+employers and processing applications for, and disbursing unemployment
+benefits. We have divided our audit of DUI into two parts to address the
+aforementioned DUI responsibilities. The focus of this report was unemployment
+insurance tax contributions. A report on the second part of our audit will be
+issued at a later date.
+Our audit disclosed that DUI was not reconciling its record of all tax collections
+received from employers to tax payments posted to its employer accounts
+receivable records. Consequently, there was a lack of assurance that amounts
+posted to employer accounts were valid and complete. In addition, since
+implementation of the BEACON unemployment insurance system in September
+2020, DUI has been unable to generate the reports necessary to verify that tax
+collections were properly deposited and recorded.
+Our review also disclosed that DUI did not adequately pursue delinquent
+unemployment taxes which according to its records totaled approximately $228.8
+million as of March 31, 2024, most of which were over 90 days old. Similarly,
+DUI did not pursue reimbursement of unemployment benefits paid on behalf of
+employers exempt from paying unemployment taxes. Additionally, DUI had not
+
+--- Page 4 ---
+determined the cause and full extent of inaccurate employer accounts receivable
+records.
+Furthermore, our audit disclosed a cybersecurity-related finding. However, in
+accordance with the State Government Article, Section 2-1224(i) of the Annotated
+Code of Maryland, we have redacted the finding from this audit report.
+Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted finding falls under
+the referenced definition. The specifics of the cybersecurity finding were
+previously communicated to those parties responsible for acting on our
+recommendations.
+MDL’s response to this audit, on behalf of DUI, is included as an appendix to this
+report. Consistent with State law, we have redacted the elements of MDL’s
+response related to the cybersecurity audit finding. We have edited MDL’s
+response to remove a vendor name and other details, as allowed by our policy.
+We also reviewed the response and noted general agreement to our findings and
+related recommendations, and while there are other aspects of MDL’s response
+which will require further clarification, we do not anticipate that these will require
+the Joint Audit and Evaluation Committee’s attention to resolve.
+We wish to acknowledge the cooperation extended to us during the audit by DUI.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Maryland Unemployment Insurance Taxes 6
+Maryland Unemployment Insurance Trust Fund 7
+BEACON – Unemployment Insurance Information System 8
+Status of Findings From Preceding Audit Report 8
+Findings and Recommendations 10
+Employer Contributions
+* Finding 1 – The Division of Unemployment Insurance (DUI) did 10
+not periodically reconcile its record of all tax collections received
+from employers to tax payments posted to employer accounts
+receivable records to ensure amounts posted to employer accounts
+were valid and complete.
+* Finding 2 – DUI had not verified that unemployment tax collections 11
+were properly deposited and recorded since September 2020, due to
+the inability to generate certain required reports from the BEACON
+system.
+Delinquent Accounts
+Finding 3 – DUI did not pursue liens and wage garnishments for 12
+delinquent unemployment taxes due from employers.
+Finding 4 – DUI did not pursue reimbursement of unemployment 13
+benefits paid on behalf of employers who were exempt from paying
+unemployment taxes.
+Information Systems Security and Control
+Finding 5 – Redacted cybersecurity-related finding. 14
+* Denotes item repeated in full or part from preceding audit report.
+3
+
+--- Page 6 ---
+Employer Accounts
+Finding 6 – DUI had not determined the cause and full extent of 14
+inaccurate accounts receivable records.
+Audit Scope, Objectives, and Methodology 16
+Exhibit 1 – Listing of Most Recent Office of Legislative Audits Fiscal 19
+Compliance Audits of Maryland Department of Labor Units as of
+February 2025
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The Division of Unemployment Insurance (DUI) is a separate budgetary unit
+within the Maryland Department of Labor (MDL). DUI administers the State’s
+Unemployment Insurance Program that includes the following primary
+responsibilities.
+ Collecting unemployment insurance tax contributions from employers
+ Processing applications for, and disbursing unemployment benefits
+We have divided our audit of DUI into the following two parts to address the
+aforementioned DUI responsibilities. This report addresses Part 1 of our audit.
+Part 1 – Unemployment Insurance Tax Contributions
+Includes employer unemployment contributions, reimbursements from
+government agencies and certain non-profit organizations, associated
+accounts receivable activity, and system functionality.
+Part 2 – Unemployment Benefits
+Includes methods individuals can use to file for unemployment insurance
+benefits, eligibility and monetary benefit determinations (for State
+unemployment insurance), payment monitoring, prevention of fraudulent
+claims, and system functionality.
+According to the State’s records, DUI’s fiscal year 2023 operating expenditures
+(excluding unemployment benefit disbursements) totaled approximately $110
+million (see Figure 1 on the following page). During the period June 30, 2021
+through June 30, 2023, DUI had vacancy rates that ranged from 6.1 percent to
+14.9 percent. As of June 30, 2023, approximately 14.9 percent of the total 377
+positions were vacant.1
+1 While we were advised that the 14.9% vacancy rate was primarily for staff that conduct claim
+related functions which were augmented by contractual service staffing; these vacancies may
+have contributed, at least in part, to the findings in this report.
+5
+
+--- Page 8 ---
+Figure 1
+MDL – DUI Positions, Expenditures, and Funding Sources
+Full-Time Equivalent Positions as of June 30, 2023
+Positions Percent
+Filled 321 85.1%
+Vacant 56 14.9%
+Total 377
+Fiscal Year 2023 Expenditures
+Expenditures Percent
+Salaries, Wages, and Fringe Benefits $ 37,097,558 33.7%
+Technical and Special Fees 1,775,054 1.6%
+Operating Expenses 71,095,828 64.7%
+Total $109,968,440
+Fiscal Year 2023 Funding Sources
+Funding Percent
+Special Fund $ 2,762,451 2.5%
+Federal Fund 107,205,989 97.5%
+Total $109,968,440
+Source: State financial and personnel records
+Maryland Unemployment Insurance Taxes
+Maryland employers are required to remit Maryland unemployment insurance
+taxes based on a percentage of wages paid to their employees. During calendar
+year 2023, the employer tax rate ranged from 1 percent to 10.5 percent of the first
+$8,500 of employee wages, and for calendar year 2024, the percentage ranged
+between 0.3 percent and 7.5 percent. The tax rates are established by State law
+based on an annual calculation and estimate of the funds necessary to meet federal
+requirements regarding the necessary minimum balance to be maintained in the
+Maryland Unemployment Insurance Trust Fund.
+The particular tax rate paid by an employer is impacted by various factors, most
+notably the amount of unemployment benefits paid by DUI and charged to the
+employer’s account during a specified period for eligible employee layoffs and
+terminations. Certain entities, such as nonprofit organizations and governmental
+entities, are exempt from these taxes and, instead, reimburse the State for any
+6
+
+--- Page 9 ---
+unemployment benefits paid by the State on their behalf. As of July 2024, an
+unemployed individual could receive a maximum of $430 per week for 26 weeks
+of State benefits in one benefit year.
+According to DUI records, during fiscal year 2023, DUI collected approximately
+$596.2 million from employers ($570.1 million in unemployment insurance taxes
+and $26.1 million in benefit reimbursements) and received $56.8 million in
+federal funding relating primarily to the COVID-19 pandemic (see Figure 2).
+Figure 2
+Summary of DUI Financial Activity
+Fiscal Years 2019 - 2023
+($ in billions)
+Employers Receipts Other Receipts
+Disbursements Trust Fund Balance
+$10.0
+$8.0
+$6.0
+$4.0
+$2.0
+$1.4 $1.7
+$2.0 $0.7
+$0.4
+$0.0
+2019 2020 2021 2022 2023
+Source: DUI Records and Fiscal Year 2019-2023 Trust Fund Financial Statements
+Maryland Unemployment Insurance Trust Fund
+DUI maintains the Maryland Unemployment Insurance Trust Fund (UITF) for the
+deposit of unemployment taxes collected from employers and the payment of
+benefits to the unemployed. The UITF is required by federal regulation to retain a
+7
+
+--- Page 10 ---
+balance to cover its expected current obligations and as of June 30, 2023, the trust
+fund balance was $2 billion.2
+BEACON - Unemployment Insurance Information System
+BEACON is DUI’s unemployment insurance information system. It was
+implemented in September 2020 with total contract costs of approximately $82.4
+million as of November 2024, which was primarily federal funds. Our previous
+audit reports of MDL, including DUI Part 1 (issued May 2022) and DUI Part 2
+(issued November 2022) contained findings regarding BEACON. MDL
+addressed many of these findings, but certain findings remained unresolved as
+further described in findings 2 and 5 below.
+On August 23, 2022, an indictment was filed in the U.S. District Court of West
+Virginia against two principals of the primary BEACON contractor. The
+indictment included several criminal charges such as, conspiracy to steal trade
+secrets related to BEACON. On March 23, 2023, a civil lawsuit was filed against
+the primary BEACON contractor by a company (the plaintiff) alleging that former
+employees of the plaintiff worked for the primary BEACON contractor and used
+source code and trade secrets to develop the BEACON software. We were
+advised by MDL’s counsel that they believe the outcome of these cases may
+seriously impact the contractor’s ability to abide by the terms and conditions of its
+contract with the State.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the six findings contained
+in our preceding audit report dated May 4, 2022. See Figure 3 for the results of
+our review.
+2 The COVID-19 pandemic significantly impacted the balance during fiscal year 2020 and 2021
+due to its unforeseen nature and the obvious exclusion of its impact from the preceding tax
+calculation performed by the State. As a result of the low balance, in fiscal year 2022 DUI
+received $830 million in one-time federal funds from the American Rescue Plan Act of 2021
+(ARPA) State Fiscal Recovery Funds to replenish the State’s UITF.
+8
+
+--- Page 11 ---
+Figure 3
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+The Division of Unemployment Insurance (DUI)
+did not reconcile tax collections from employers
+Repeated
+Finding 1 to amounts posted to employer accounts
+(Current Finding 1)
+receivable records to ensure amounts posted to
+employer accounts were valid and complete.
+DUI had not verified that unemployment tax
+collections were properly deposited and recorded
+since the implementation of BEACON in Repeated
+Finding 2
+September 2020, due to the inability to generate (Current Finding 2)
+certain required reports from the BEACON
+system.
+DUI did not regularly conduct data matches to
+identify employers who had not registered with
+Finding 3 DUI, as required by State law, and did not Not repeated
+always follow up on the results of the matches
+that were performed.
+DUI did not ensure reimbursable employers
+Finding 4 provided sufficient collateral to protect the State Not repeated
+in the event claims are paid on their behalf.
+DUI did not have formal policies for pursuing
+collection of delinquent employer accounts, and
+Finding 5 discontinued pursing delinquent accounts in Not repeated
+September 2020 due to BEACON system
+deficiencies.
+Access to process critical employer tax related
+Status Redacted3
+Finding 6 transactions and functions within BEACON was
+not adequately restricted.
+3 Specific information of the current status of this cybersecurity–related finding has been redacted
+from the publicly available report in accordance with State Government Article, Section 2-
+1224(i) of the Annotated Code of Maryland.
+9
+
+--- Page 12 ---
+Findings and Recommendations
+Employer Contributions
+Finding 1
+The Division of Unemployment Insurance (DUI) did not periodically
+reconcile its record of all tax collections received from employers to tax
+payments posted to employer accounts receivable records to ensure amounts
+posted to employer accounts were valid and complete.
+Analysis
+DUI did not periodically reconcile its record of all tax collections received from
+employers to tax payments posted to its employer accounts receivable records.
+Specifically, our review disclosed that DUI did not reconcile electronic payments,
+which accounted for 89 percent of the collections, to the related amounts posted to
+employer accounts.4 Consequently, there was a lack of assurance that payment
+amounts posted and credited to employer accounts were valid and complete.
+We could not readily reconcile the activity due to the lack of available records
+during the audit. However, we did note that DUI’s suspense account, which holds
+payments not immediately identified for recording in a specific employer’s
+account, increased from $4.4 million in January 2021 to $11.7 million in January
+2024, which could indicate that payments are not being posted timely or properly.
+A similar condition was commented upon in our preceding audit report. In
+response to that report, DUI responded that tax collections would be reconciled to
+the employer accounts by December 31, 2022. During our current audit, we were
+advised by DUI management that these actions were not implemented due to a
+misunderstanding of the required records needed for the reconciliations.
+The Comptroller of Maryland’s Accounting Procedures Manual5 requires that
+cash receipt totals should be periodically compared with corresponding totals of
+credits to accounts receivable.
+4 DUI only reconciled amounts received by check on-site and lockbox payments to the related
+employer accounts, which covers approximately 11 percent of total collections.
+5 The updated Accounting Policies and Procedures Manual, effective June 2024, has the same
+requirements.
+10
+
+--- Page 13 ---
+Recommendation 1
+We recommend that DUI
+a. periodically, such as monthly, reconcile its tax collection records to its
+employer accounts receivable records, including an investigation and
+resolution of significant differences noted (repeat); and
+b. ensure that all employer payments are recorded in the accounts
+receivable records on a timely basis, including the amounts noted in this
+finding (repeat).
+Finding 2
+DUI had not verified that unemployment tax collections were properly
+deposited and recorded since September 2020, due to the inability to generate
+certain required reports from the BEACON system.
+Analysis
+As of June 2024, DUI had not verified that unemployment tax collections were
+properly deposited and recorded since the implementation of BEACON in
+September 2020. Unemployment tax payments from employers are deposited
+directly or transferred in certain cases, such as with lockbox receipts, into a bank
+clearing account. Those funds are subsequently transferred from the clearing
+account, as directed by DUI, into the Unemployment Insurance Trust Fund (the
+Trust Fund) for purpose of making benefit payments.
+Per DUI management BEACON is unable to generate an accurate record of
+clearing account activity or ending account balances. Consequently, as of June
+2024, DUI has not reconciled system records of clearing account activity to the
+related bank records since the inception of BEACON in September 2020.
+Periodic reconciliations between DUI’s clearing account records and the
+corresponding bank records are needed to ensure that all collections have been
+deposited and that all related transactions, including the transfer of funds to the
+Trust Fund, are properly recorded. During fiscal year 2023, DUI reported
+collections deposited into the clearing account totaled $573.8 million.
+A similar condition was noted in our preceding audit report. In response to that
+report, DUI stated it would work with its vendor to develop an automated
+reconciliation process and would conduct monthly reconciliations by December
+2022. DUI was unable to explain why it has been unable to develop the
+reconciliations.
+11
+
+--- Page 14 ---
+Recommendation 2
+We recommend that DUI
+a. correct the system deficiencies in BEACON that are preventing accurate
+compiling and reporting of clearing account activity (repeat); and
+b. periodically, such as monthly, reconcile its clearing account activity and
+balance per BEACON to the corresponding account data reported by the
+bank, including an investigation and resolution of any significant
+differences noted (repeat).
+Delinquent Accounts
+Finding 3
+DUI did not pursue liens and wage garnishments for delinquent
+unemployment taxes due from employers.
+Analysis
+DUI did not pursue liens and wage garnishments for delinquent unemployment
+taxes due from employers. According to DUI records, these employers had
+delinquent unemployment taxes totaling approximately $228.8 million as of
+March 31, 2024, most of which were over 90 days old. State laws provide several
+collection tools for DUI to pursue delinquent taxes including sending two
+delinquency notices, liens, garnishments, US Treasury and State intercepts,
+business charter forfeiture, and Motor Vehicle Administration license and
+registration flagging. DUI suspended all these collection tools due to the COVID-
+19 State of Emergency (March 2020 to July 2021).
+Our review disclosed that as of March 2024 (32 months after the State of
+Emergency ended), DUI had not reinstated liens or garnishments as allowed by
+State law. DUI’s policy includes a requirement to pursue liens and garnishments
+for delinquent accounts in excess of $2,000, which according to DUI’s records
+totaled $22.5 million between 91 to 450 days as of March 31, 2024.6
+Recommendation 3
+We recommend that DUI resume liens and garnishments of delinquent
+accounts, including those noted above.
+6 There were also employer accounts with delinquent balances over $2,000 aged greater than 450
+days totaling $170.9 million. However, due to DUI’s records we were unable to readily
+determine the actual age of the account or if a lien had been filed for the delinquent balance.
+12
+
+--- Page 15 ---
+Finding 4
+DUI did not pursue reimbursement of unemployment benefits paid on behalf
+of employers who were exempt from paying unemployment taxes.
+Analysis
+DUI did not pursue amounts due from certain employers exempt from
+unemployment taxes. State law provides that certain employers (for example,
+governmental units) are exempt from unemployment taxes and instead reimburse
+the State for any unemployment benefits paid on their behalf. Per DUI records, as
+of March 2024, there were 1,069 of these reimbursable employers with balances
+totaling $56.3 million that were delinquent for 31 days or more,7 including 814
+employers with balances totaling $37.3 million that were more than 450 days old.
+Our review disclosed that during our audit period (November 16, 2020 to January
+31, 2024), DUI did not send delinquency notices to reimbursable employers. In
+addition, although reimbursable employers provided DUI with collateral as
+security for any claims, DUI did not use the collateral to satisfy any delinquent
+debts. We could not readily determine the number of delinquent accounts that
+would have been eligible for such actions. DUI management advised us that the
+failure to send the dunning notices were the result of problems with BEACON.
+Recommendation 4
+We recommend that DUI
+a. perform all available collection efforts for reimbursable employers,
+including sending delinquency notices and, when necessary, using
+collateral to satisfy the debts; and
+b. correct any BEACON issues needed to implement collection efforts.
+7 As of February 2024, there were a total of 2,034 reimbursable employers.
+13
+
+--- Page 16 ---
+Information Systems Security and Control
+We determined that Finding 5 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with MDL’s responses, have been redacted from this
+report copy.
+Finding 5
+Redacted cybersecurity-related finding.
+Employer Accounts
+Finding 6
+DUI had not determined the cause and full extent of inaccurate employer
+accounts receivable records.
+Analysis
+DUI had not determined the cause and full extent of inaccurate employer accounts
+receivable records. We were advised by DUI management that in 2023, it noted
+that certain accounts receivable records were inaccurate and that its review
+disclosed 1,426 accounts with credit balances overstated by $20.6 million because
+of duplicated transactions being posted to these accounts. Accounts with a credit
+balance may result in a refund being issued to the employer. DUI management
+advised that it believed the incorrect accounts were isolated to the aforementioned
+duplicated transactions and in February 2024, DUI corrected its records to
+eliminate the overstatements.
+DUI management could not document the aforementioned review and therefore
+we could not determine if it was sufficiently comprehensive. In this regard, our
+test of four accounts receivable records with credit balances totaling
+approximately $2.5 million8 as of September 2023, disclosed that two accounts
+were still overstated by $284,000 as of March 2024. DUI could not explain the
+cause of these two overstatements and whether there were other inaccurate
+records.
+8 We selected these accounts receivable records with credit balances for testing based on
+materiality.
+14
+
+--- Page 17 ---
+In addition, DUI could not document whether it identified and recovered any
+refunds resulting from the improper account balances. In this regard, we selected
+five material refunds totaling approximately $327,800 from employers on a DUI
+provided list of 52 employer accounts with potential incorrect credit balances.
+Our test disclosed that one refund totaling $16,100 was overpaid by $12,400,
+prior to the aforementioned February 2024 revision by DUI. We were advised
+that DUI had not recovered this overpayment as of August 2024.
+Per DUI’s records, as of March 31, 2024, there were 50,401 employers with credit
+balances totaling approximately $64.6 million. The Comptroller of Maryland’s
+Accounting Procedures Manual9 requires the maintenance of adequate records to
+account for billings and related collections.
+Recommendation 6
+We recommend that DUI
+a. conduct a documented investigation to determine the cause and full
+extent of inaccurate accounts receivable records;
+b. take corrective actions for any inaccurate records identified to ensure
+accurate records of employer balances are maintained; and
+c. recoup any improper refunds issued, including the overpayment
+mentioned above.
+9 The updated Accounting Policies and Procedures Manual, effective June 2024, has the same
+requirements.
+15
+
+--- Page 18 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Department of
+Labor (MDL) – Division of Unemployment Insurance (DUI), for the period
+beginning November 16, 2020 and ending January 31, 2024. The audit was
+conducted in accordance with generally accepted government auditing standards.
+Those standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DUI’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included employer unemployment contributions,
+reimbursements from government agencies and certain non-profit organizations,
+accounts receivable, and information systems security and control. We also
+determined the status of the findings contained in our preceding audit report.
+Our audit did not include certain support services provided to DUI by MDL –
+Office of the Secretary. These support services (such as payroll, human
+resources, procurements and disbursements, maintenance of certain accounting
+records, and related fiscal functions) are included within the scope of our audit of
+MDL - Office of the Secretary. In addition, our audit did not include an
+evaluation of internal controls over compliance with federal laws and regulations
+for federal financial assistance programs and an assessment of DUI’s compliance
+with those laws and regulations because the State of Maryland engages an
+independent accounting firm to annually audit such programs administered by
+State agencies, including DUI.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of November 16, 2020 to January 31, 2024, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+16
+
+--- Page 19 ---
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of DUI’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from this source
+were sufficiently reliable for the purposes the data were used during this audit.
+We also extracted data from BEACON, as well as from certain other State
+records, such as those maintained by the Maryland Department of Labor, for the
+purpose of testing unemployment tax payments. We performed various tests of
+the relevant data and determined the data were sufficiently reliable for the
+purposes the data were used during the audit. Finally, we performed other
+auditing procedures that we considered necessary to achieve our audit objectives.
+The reliability of data used in this report for background or informational
+purposes was not assessed.
+DUI’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to DUI, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+17
+
+--- Page 20 ---
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DUI’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to DUI that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to DUI and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+The response from MDL, on behalf of DUI, to our findings and recommendations
+is included as an appendix to this report. Depending on the version of the audit
+report, responses to any cybersecurity findings may be redacted in accordance
+with State law. As prescribed in the State Government Article, Section 2-1224 of
+the Annotated Code of Maryland, we will advise MDL regarding the results of
+our review of its response.
+18
+
+--- Page 21 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Maryland Department of Labor (MDL) Units
+As of February 2025
+Most Recent
+Name of Audit Areas Covered
+Report Date
+ Consumer credit and oversight of financial
+Office of Financial
+1 institutions 09/20/24
+Regulation
+ Examinations and licensing
+ DLI accounts receivable
+ Monitoring of compliance with certain laws
+Division of Labor and
+2 pertaining to prevailing wages 01/06/23
+Industry (DLI)
+ Safety inspections for boilers, pressure vessels, and
+elevators
+Division of
+ Benefit payments
+3 Unemployment Insurance 11/15/22
+ DUI System implementation
+(DUI) Part II Benefits
+Division of Occupational  DOPL cash receipts
+4 and Professional Licensing  Licensing 3/11/22
+(DOPL)  Guaranty funds
+ DOR cash receipts
+ Racing funds
+ Distribution of video lottery terminal funds
+5 Division of Racing (DOR) 01/26/22
+ Certain licensee (racetrack) requirements regarding
+the reporting and distribution of pari-mutuel
+wagering revenue
+ Information system security
+ Grants
+Office of the Secretary,
+ Payroll
+Division of
+ Federal Funds
+Administration,
+6  Procurement and disbursements activities 01/7/22
+Division of Workforce
+ Support services to other divisions of MDL such as
+Development and Adult
+payroll, procurements and disbursements,
+Learning
+maintenance of accounting records, and related
+fiscal functions
+19
+
+--- Page 22 ---
+APPENDIX
+OFFICE OF THE SECRETARY
+100 S. Charles Street Tower 1, 9th Floor
+Baltimore, MD 21201
+Portia Wu, Secretary
+April 7, 2025
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+Dear Mr. Tanen,
+Enclosed is the Agency Response Form (ARF) to the draft audit report on the Maryland
+Department of Labor – Division of Unemployment Insurance, Part 1 – Unemployment Insurance
+Tax Contributions for the period beginning November 16, 2020 and ending January 31, 2024.
+If you have any questions or concerns, please contact our office or the Maryland Division of
+Unemployment Insurance.
+Sincerely,
+Portia Wu
+Secretary of Labor
+cc: Rachel Torres, Assistant Secretary
+Division of Unemployment Insurance
+Phone: 410-230-6020 • Facebook: MarylandLabor • Internet: labor.maryland.gov
+WES MOORE, GOVERNOR | ARUNA MILLER, LT. GOVERNOR | PORTIA WU, SECRETARY
+
+--- Page 23 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+Agency Response Form
+Employer Contributions
+Finding 1
+The Division of Unemployment Insurance (DUI) did not periodically
+reconcile its record of all tax collections received from employers to tax
+payments posted to employer accounts receivable records to ensure amounts
+posted to employer accounts were valid and complete.
+We recommend that DUI
+a. periodically, such as monthly, reconcile its tax collection records to its
+employer accounts receivable records, including an investigation and
+resolution of significant differences noted (repeat); and
+b. ensure that all employer payments are recorded in the accounts
+receivable records on a timely basis, including the amounts noted in this
+finding (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1a Agree Estimated Completion Date: 6/30/25
+Please provide details of DUI has automated the BEACON system to reconcile employer
+corrective action or accounts with the Accounts Receivable ledger since September 20, 2020.
+explain disagreement. The backlog of cash reconciliation for the older, legacy Accounts
+Receivable ledger has been finished up to August of 2020, and DUI is
+currently investigating notable discrepancies. Our goal is to complete the
+cash reconciliation for the legacy Accounts Receivable ledger by June
+30, 2025. On a daily basis, we compare the ACH reports from the bank
+against the BEACON system. Checks we post are then compared to
+BEACON employer accounts the following day to verify Employer
+accounts reflect deposits.
+Recommendation 1b Agree Estimated Completion Date: 12/31/25
+Page 1 of 8
+
+--- Page 24 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+Agency Response Form
+Please provide details of DUI ensured timely recording of employer payments in the accounts
+corrective action or receivable records as follows:
+explain disagreement.
+Suspense payments from September 2020 to September 30, 2023, have
+been thoroughly researched. Items that are recorded as zero payments
+identified in the account from September 2020 to December 2021 are
+being rectified using a PIR. This PIR fixed over 500 payments that were
+posted in suspense as zero-dollar amounts, including employer
+payments, agent payments, and intra-agency transfers. These payment
+amounts should match the payments we received from the Bank
+statements as a self-check.
+Suspense payments in the pre-BEACON (legacy) system from
+employers have been 100% researched and transferred, with the
+exception of unidentified employer payments, which are being addressed
+under another PIR (completed). This PIR itemized each of these
+suspense payments in order for us to appropriately research and allocate
+payments to employer accounts properly. We aim to resolve these by
+June 30 2025.
+DUI established a task force dedicated to working on suspense accounts
+and reassigned six agency accounting staff between January and March
+2023. This effort reduced the suspense from 5,897 in November 2022 to
+1,000 as of January 30, 2025.
+DUI assigned agency staff to collaborate directly with employers to
+educate them on the correct submission of payments in BEACON. This
+proactive approach has significantly reduced the number of suspense
+payments.
+DUI now receives sufficient data references from the bank, which
+enhances the effectiveness of researching employer payments in the
+suspense accounts in BEACON.
+Page 2 of 8
+
+--- Page 25 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+Agency Response Form
+Finding 2
+DUI had not verified that unemployment tax collections were properly
+deposited and recorded since September 2020, due to the inability to generate
+certain required reports from the BEACON system.
+We recommend that DUI
+a. correct the system deficiencies in BEACON that are preventing accurate
+compiling and reporting of clearing account activity (repeat); and
+b. periodically, such as monthly, reconcile its clearing account activity and
+balance per BEACON to the corresponding account data reported by the
+bank, including an investigation and resolution of any significant
+differences noted (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2a Agree Estimated Completion Date: Completed
+Please provide details of The system deficiencies in BEACON that were hindering accurate
+corrective action or compilation and reporting of clearing account activity have been
+explain disagreement. addressed and resolved. This update was completed on October 20,
+2024. BEACON has been updated and is now functioning as required for
+the compilation and reporting of clearing account activity. Additionally,
+Clearing Bank Account Reconciliations have been successfully
+completed up to December 31, 2024 in BEACON.
+Recommendation 2b Agree Estimated Completion Date: Completed
+Please provide details of The system deficiencies in BEACON that were hindering accurate
+corrective action or compilation and reporting of clearing account activity have been
+explain disagreement. addressed and resolved. This update was completed on October 20,
+2024. BEACON has been updated and is now functioning as required for
+the compilation and reporting of clearing account activity. The Cashier’s
+deposit batch report is reconciled with the BEACON system the
+following day. Additionally, Clearing Bank Account Reconciliations
+have been successfully completed up to December 31, 2024, in both the
+legacy system and BEACON.
+Page 3 of 8
+
+--- Page 26 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+Agency Response Form
+Delinquent Accounts
+Finding 3
+DUI did not pursue liens and wage garnishments for delinquent
+unemployment taxes due from employers.
+We recommend that DUI resume liens and garnishments of delinquent
+accounts, including those noted above.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3 Agree Estimated Completion Date: 3/15/26
+Please provide details of The Legal Unit has been manually initiating lien actions since January
+corrective action or 30, 2025. The PIR has been approved for creation, testing, and
+explain disagreement. production. Due to the vendor’s backlog, DUI expects it will take several
+months for the vendor to address the PIR and for the agency to conduct
+testing. This PIR will correct lien interest calculations up to the date the
+lien is generated. Once completed, interest must be recalculated from the
+due date of the identified debt up to and including the lien generation
+date, so it can be included on the Lien Notice.
+Liens will need to reflect the current balance for all quarters as of the
+lien creation date. Once this PIR is in production, lien calculations will
+be automated, allowing notices to be generated from BEACON instead
+of being processed manually.
+Page 4 of 8
+
+--- Page 27 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+Agency Response Form
+Finding 4
+DUI did not pursue reimbursement of unemployment benefits paid on behalf
+of employers who were exempt from paying unemployment taxes.
+We recommend that DUI
+a. perform all available collection efforts for reimbursable employers,
+including sending delinquency notices and, when necessary, using
+collateral to satisfy the debts; and
+b. correct any BEACON issues needed to implement collection efforts.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: Completed
+Please provide details of This action was completed on 4/30/2024. DUI is performing regular
+corrective action or monthly review of the reimbursable employers' account collateral
+explain disagreement. balances.
+Recommendation 4b Agree Estimated Completion Date: 3/15/26
+Please provide details of DUI is addressing BEACON deficiencies related to collection and lien
+corrective action or activities through a PIR. We will continue to actively pursue delinquent
+explain disagreement. employer accounts. DUI has finalized the updated formal written
+policies for the collection of delinquent employer accounts. These
+policies were signed and became effective on March 1, 2023.
+Page 5 of 8
+
+--- Page 28 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that Finding 5 related to
+“cybersecurity,” as defined by the State Finance and Procurement Article, Section
+3.5-301(b) of the Annotated Code of Maryland, and therefore is subject to
+redaction from the publicly available audit report in accordance with the State
+Government Article 2-1224(i). Although the specifics of the finding, including
+the analysis, related recommendation(s), along with MDL’s responses, have been
+redacted from this report copy, MDL’s responses indicated agreement with the
+finding and related recommendations.
+Finding 5
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 6 of 8
+
+--- Page 29 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+Agency Response Form
+Employer Accounts
+Finding 6
+DUI had not determined the cause and full extent of inaccurate employer
+accounts receivable records.
+We recommend that DUI
+a. conduct a documented investigation to determine the cause and full
+extent of inaccurate accounts receivable records;
+b. take corrective actions for any inaccurate records identified to ensure
+accurate records of employer balances are maintained; and
+c. recoup any improper refunds issued, including the overpayment
+mentioned above.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 6a Agree Estimated Completion Date: 6/30/25
+Please provide details of MDUI conducted an investigation and uncovered issues with over 3,300
+corrective action or transactions that were sitting in a suspense account without identifiable
+explain disagreement. information needed to properly credit the employer, claimant, or agent.
+These transactions were placed in the suspense account for further
+research and reallocation. A dedicated team has been assigned to review
+all incoming suspense transactions on a daily basis. In collaboration with
+other agencies, such as SDAT and the Comptroller’s Office, we utilize
+all available information to determine the identities of employers
+attempting to make payments, ensuring that employer accounts are
+credited in a timely manner.
+Recommendation 6b Agree Estimated Completion Date: 6/30/25
+Page 7 of 8
+
+--- Page 30 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 1
+Unemployment Insurance Tax Contributions
+Agency Response Form
+Please provide details of DUI has assigned specific individuals to investigate the inaccurate
+corrective action or posting of payments. We have a shared information agreement with
+explain disagreement. SDAT and the Comptroller of Maryland to identify specific employers
+when that information isn’t provided along with their payment.
+Recommendation 6c Agree Estimated Completion Date: 6/30/25
+Please provide details of DUI’s records suggest that employers may have a credit balance for
+corrective action or which they would request a refund. Once the research is completed, a
+explain disagreement. charge will be placed on the employer’s account, indicating a liability
+due to a payment inaccuracy.
+Page 8 of 8
+
+--- Page 31 ---
+A T
+UDIT EAM
+Michael J. Murdzak, CPA
+Audit Manager
+David R. Fahnestock, CPA
+Data Analytics Manager
+James M. Fowler, CFE
+Senior Auditor
+Charles H. Hinds IV, CPA
+Data Analytics Senior Auditor
+Jacob M. Kasten
+Paul A. McGrew
+Staff Auditors
