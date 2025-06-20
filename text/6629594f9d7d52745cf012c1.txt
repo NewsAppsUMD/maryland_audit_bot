@@ -1,0 +1,396 @@
+Title: Comptroller of Maryland - Information Technology Division - Annapolis Data Center and Network Operations
+Date: 04/22/2024
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=6629594f9d7d52745cf012c1
+Extracted: 2025-06-19T23:14:05.469220
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Comptroller of Maryland
+Information Technology Division
+Annapolis Data Center and Network Operations
+April 2024
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Steven C. Johnson
+Senator Shelly L. Hettleman Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+Senator Craig J. Zucker One Vacancy
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+April 22, 2024
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have audited the Comptroller of Maryland (COM) – Information Technology
+Division (ITD). ITD operates the Annapolis Data Center which provides
+computing resources and operates as a computer services bureau for COM and
+other customer agencies. ITD also operates an internal network that provides
+services including internet, Statewide Government Intranet (SwGI), and remote
+access, and file sharing to all COM divisions and offices. This audit represents
+the second of two fiscal compliance audits of the ITD and consists of an internal
+control review of the data center and network administered by ITD. Our audit did
+not include ITD’s fiscal operations which are audited separately by us and are
+reported upon in an audit report of the same name.
+Our audit disclosed certain cybersecurity-related findings. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted the findings from this audit
+report. Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted findings fall under
+the referenced definition. The specifics of the cybersecurity findings were
+previously communicated to those parties responsible for acting on our
+recommendations.
+Our audit also included a review to determine the status of the four findings
+contained in our preceding audit report. However, since these are cybersecurity-
+related findings, the current status of these findings has been redacted.
+
+--- Page 4 ---
+COM’s response to this audit, on behalf of ITD, is included as an appendix to this
+report; however, consistent with the requirements of State law, we have redacted
+all elements of COM’s response since they are related to the cybersecurity
+findings. We reviewed the response to our findings and related recommendations,
+and have concluded that the corrective actions identified are sufficient to address
+all audit issues.
+We wish to acknowledge the cooperation extended to us during the audit by ITD.
+We also wish to acknowledge COM’s and ITD’s willingness to address the audit
+issues and implement appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Status of Findings From Preceding Audit Report 4
+Findings and Recommendations 5
+Information Technology
+Finding 1 – Redacted cybersecurity-related finding 5
+Finding 2 – Redacted cybersecurity-related finding 5
+Finding 3 – Redacted cybersecurity-related finding 5
+Audit Scope, Objectives, and Methodology 6
+Exhibit 1 – Listing of Most Recent Office of Legislative Audits Fiscal 9
+Compliance Audits of Comptroller of Maryland Divisions as of
+March 2024
+Agency Response Appendix
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+The Information Technology Division (ITD) operates the Annapolis Data Center
+as a computer service bureau, and all operating costs are reimbursed by user
+agencies that are charged for services performed. ITD also develops and
+maintains application systems for agencies under the Comptroller of Maryland
+(COM) and provides data center disaster recovery capabilities. Additionally, ITD
+maintains the mainframe operating system and security software environment in
+which many agency applications are executed. Some of the applications
+supported by ITD include the State’s integrated tax system (COMPASS1), the
+State’s payroll systems, the State’s Financial Management Information System,
+and the State’s Medicaid Management Information System.
+ITD operates an internal network that provides services, including internet and
+statewide intranet access, email, and file sharing, to all divisions and offices of
+COM. According to the State’s records, ITD fiscal year 2022 expenditures
+totaled $42 million.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the four findings contained
+in our preceding audit report dated July 27, 2020. However, since these are
+cybersecurity-related findings, the current status of these findings has been
+redacted.
+1 COMPASS is the State’s new integrated tax system being implemented over several years in
+four phases to replace its legacy mainframe tax system, SMART. The first and second phases
+were launched in July 2020 and February 2021, respectively.
+4
+
+--- Page 7 ---
+Findings and Recommendations
+Information Technology
+We determined that the Information Technology section, including Findings 1
+through 3 related to “cybersecurity,” as defined by the State Finance and
+Procurement Article, Section 3.5-301(b) of the Annotated Code of Maryland, and
+therefore are subject to redaction from the publicly available audit report in
+accordance with the State Government Article 2-1224(i). Consequently, the
+specifics of the following findings, including the analysis, related
+recommendations, along with COM’s responses, have been redacted from this
+report copy.
+Finding 1
+Redacted cybersecurity-related finding.
+Finding 2
+Redacted cybersecurity-related finding.
+Finding 3
+Redacted cybersecurity-related finding.
+5
+
+--- Page 8 ---
+Audit Scope, Objectives, and Methodology
+We have audited the Comptroller of Maryland (COM) – Information Technology
+Division (ITD). Fieldwork associated with our audit of ITD was conducted
+during the period from February 2022 to January 2023. The audit was conducted
+in accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine ITD’s internal
+control over the Annapolis Data Center and the COM network and to evaluate its
+compliance with applicable State laws, rules, and regulations for the computer
+systems that support COM and ITD data center user agencies. Specifically, given
+ITD’s widespread responsibility for the COM network, our audit included an
+evaluation of the security control environment for all portions of the COM
+network controlled by ITD. A description of the specific information systems and
+related control functions addressed by the audit have been redacted from this
+report as required by State Government Article Section 2-1224(i) described
+below.
+In planning and conducting our audit, we focused on the major areas of operations
+based on assessments of significance and risk. As noted, the areas addressed by
+the audit have been redacted from this report. We also determined the status of
+the findings contained in our preceding audit report for ITD’s data center and
+network operations.
+Our audit did not include ITD’s fiscal operations which are audited separately
+within an ITD fiscal operations audit report. The most recent fiscal compliance
+report that covered ITD’s fiscal operations was issued on February 2, 2022.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, certain tests to
+evaluate the effectiveness of controls, and to the extent practicable, observations
+of ITD’s operations. We also performed other auditing procedures that we
+considered necessary to achieve our audit objectives. The reliability of data used
+in this report for background or informational purposes was not assessed.
+6
+
+--- Page 9 ---
+ITD’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets
+(including information systems resources); and compliance with applicable laws,
+rules, and regulations are achieved. As provided in Government Auditing
+Standards, there are five components of internal control: control environment,
+risk assessment, control activities, information and communication, and
+monitoring. Each of the five components, when significant to the audit
+objectives, and as applicable to ITD, were considered by us during the course of
+this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect ITD’s ability to operate information systems resources effectively
+and efficiently, and/or comply with applicable laws, rules, and regulations. Our
+report also includes findings regarding significant instances of noncompliance
+with applicable laws, rules, or regulations. Other less significant findings were
+communicated to ITD that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgement, we concluded that all findings in this report fall
+7
+
+--- Page 10 ---
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to ITD and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+The response from COM, on behalf of ITD, to our findings and recommendations
+is included as an appendix to this report. Depending on the version of the audit
+report, responses to any cybersecurity findings may be redacted in accordance
+with State law. As prescribed in the State Government Article, Section 2-1224 of
+the Annotated Code of Maryland, we will advise COM regarding the results of
+our review of its response.
+8
+
+--- Page 11 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Comptroller of Maryland Divisions
+As of March 2024
+Most Recent
+Name of Audit Areas Covered
+Report Date
+ Processing, evaluating, verifying, and
+recording tax data as reported by taxpayers and
+Revenue Administration
+1 other parties 01/22/24
+Division
+ Collection of tax receipts
+ Distribution of tax refunds
+ Management of the State payroll system
+ Non-budgeted funds maintained for payroll
+deductions
+10/05/23
+2 Central Payroll Bureau  Critical information systems
+ Support services to other units of the
+Comptroller for processing payroll
+timekeeping records
+ Procurement
+ Equipment
+Information Technology  Support services to other units of the
+3 Division (Fiscal Comptroller for monitoring information 02/02/22
+Operations) technology related services and maintaining
+information technology equipment inventory
+records
+ Confiscated property
+Field Enforcement
+4  Business licenses 09/07/21
+Bureau
+ Routine inspections
+ Investigations, collection of delinquent taxes,
+and other taxpayer compliance activities
+related to individual income taxes
+ Audits and investigations, collection of
+5 Compliance Division 12/18/20
+delinquent taxes, and other taxpayer
+compliance activities related to business taxes
+ Identification, collection, and distribution of
+unclaimed property
+ State agency vendor payment processing
+General Accounting  Vendor table maintenance
+6 11/09/20
+Division  State agency working funds
+ Corporate purchasing card program
+ Capital grants monitoring
+ Procurement and disbursements
+Office of the
+ Corporate purchasing cards
+Comptroller
+7  Support services to other divisions of the 08/29/19
+Bureau of Revenue
+Comptroller, such as processing invoices,
+Estimates
+maintenance of accounting records, human
+resources, and related fiscal functions
+9
+
+--- Page 12 ---
+APPENDIX
+Brooke E. Lierman
+Comptroller
+Andrew Schaufele
+Chief Deputy Comptroller
+April 4, 2024
+108 Carroll Street
+Annapolis, Maryland 21401
+Dear Mr. Hook:
+Enclosed is the Comptroller’s response to your report on the Information Technology
+Division issued in March 2024.
+We have carefully reviewed each finding, and we believe that our responses fully
+address each recommendation contained in the report. Should you need additional
+information or clarification, please contact David Hildebrand, Director, Office of Risk
+Management by email at dhildebr@marylandtaxes.gov or by telephone at 410-260-7768.
+The Comptroller appreciates your objective appraisal of our operations and your
+recommendations for continuous improvement and commends your auditors for their
+professionalism and thorough review.
+Sincerely,
+Digitally signed by Robert
+Robert O'Connor O'Connor
+Date: 2024.04.09 11:26:42 -04'00'
+Robert O’Connor
+Chief Information Officer
+Digitally signed by John U Hiter
+John U Hiter Jr
+Jr
+Date: 2024.04.11 09:32:05 -04'00'
+John Hiter
+Director, Annapolis Data Center
+Cc: Honorable Brooke Elizabeth Lierman, Comptroller
+80 Calvert Street, Annapolis, Maryland 214040466 410-260-7310 1-800-552-3941 (MD) www.marylandtaxes.gov
+Fax: 443-681-1065 MRS 711 (MD) TTY 410-260-7157 aschaufele@marylandtaxes.gov
+
+--- Page 13 ---
+Comptroller of Maryland - Information Technology Division -
+Annapolis Data Center and Network Operations
+Agency Response Form
+Information Technology
+The Office of Legislative Audits (OLA) has determined that the Information
+Technology section, including Findings 1 through 3 related to “cybersecurity,” as
+defined by the State Finance and Procurement Article, Section 3.5-301(b) of the
+Annotated Code of Maryland, and therefore are subject to redaction from the
+publicly available audit report in accordance with the State Government Article 2-
+1224(i). Although the specifics of the following findings, including the analysis,
+related recommendations, along with COM’s responses, have been redacted from
+this report copy, COM’s responses indicated agreement with the findings and
+related recommendations.
+Finding 1
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 2
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 3
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 1 of 1
+
+--- Page 14 ---
+A T
+UDIT EAM
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+Michael K. Bliss
+Matthew D. Walbert, CISA
+Information Systems Senior Auditors
+Vickey K. Micah
+Charles O. Price
+Adam J. Steiner
+Information Systems Staff Auditors

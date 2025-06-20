@@ -1,0 +1,917 @@
+Title: Department of Public Safety and Correctional Services - Regional Operations
+Date: 07/20/2023
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=64bfc4f6a1ce580300acb75d
+Extracted: 2025-06-19T23:06:10.809440
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Department of Public Safety and Correctional Services
+Regional Operations
+July 2023
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative
+Audits has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Nicholas P. Charles II
+Senator Katie Fry Hester Delegate Andrea Fletcher Harrison
+Senator Shelly L. Hettleman Delegate Steven C. Johnson
+Senator Cheryl C. Kagan Delegate Mary A. Lehman
+Senator Cory V. McCray Delegate David Moon
+Senator Justin D. Ready Delegate Julie Palakovich Carr
+Senator Bryan W. Simonaire Delegate Stephanie M. Smith
+Senator Craig J. Zucker Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+July 20, 2023
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Department of Public Safety
+and Correctional Services (DPSCS) Regional Operations for the period beginning
+April 1, 2018 and ending January 21, 2022. This audit of the Regional Operations
+covered certain fiscal activities performed by the 5 regional fiscal offices on
+behalf of the 21 DPSCS correctional and pretrial facilities located in the State.
+Our audit disclosed that DPSCS did not ensure that employees at correctional
+facilities complied with DPSCS’ overtime policies. As a result, certain overtime
+hours paid were not approved or supported and were not compliant with DPSCS
+policies.
+In addition, our audit disclosed that monthly reconciliations between the inmate
+fund activity in DPSCS’ Maryland Offenders Banking System III (MOBS III) and
+the Comptroller of Maryland’s records were not performed timely or sufficiently
+comprehensive. For example, reconciliations did not address persistent
+differences between MOBS III and the Comptroller’s records. Our review of
+these records as of December 2021 disclosed a difference of $1.4 million between
+MOBS III ($14.2 million) and the Comptroller’s fund balance ($15.6 million). As
+a result, certain differences were not readily identified and resolved.
+Furthermore, our review of inmate fund accounting at two regional fiscal offices
+disclosed that DPSCS did not have adequate controls over inmate fund collections
+at one regional fiscal office, which deposited collections totaling $134,650
+between 10 and 12 days after receipt.
+
+--- Page 4 ---
+Our audit also disclosed a cybersecurity-related finding with DPSCS’ payroll
+processing. However, in accordance with the State Government Article, Section
+2-1224(i) of the Annotated Code of Maryland, we have redacted the finding from
+this audit report. Specifically, State law requires the Office of Legislative Audits
+to redact cybersecurity findings in a manner consistent with auditing best
+practices before the report is made available to the public. The term
+“cybersecurity” is defined in the State Finance and Procurement Article, Section
+3.5-301(b), and using our professional judgment we have determined that the
+redacted finding falls under the referenced definition. The specifics of the
+cybersecurity finding were previously communicated to those parties responsible
+for acting on our recommendations.
+Finally, our audit included a review to determine the status of the four findings
+contained in our preceding audit report. For the non-cybersecurity-related
+findings we determined that the DPSCS satisfactorily addressed one of those three
+findings. The remaining two findings are repeated in this report.
+DPSCS’ response to this audit is included as an appendix to this report. We
+reviewed the response and noted general agreement to our findings and related
+recommendations. Subsequent to the response receipt, but prior to the issuance of
+the final report, we contacted DPSCS staff and obtained verbal clarification that
+satisfactorily resolved all outstanding questions and issues. Consequently, we
+have concluded that the written responses and verbal clarification together
+indicate that the DPSCS corrective actions identified are sufficient to address all
+audit issues. However, consistent with the requirements of State law, we have
+redacted the elements of DPSCS’ response related to the cybersecurity audit
+finding.
+We wish to acknowledge the cooperation extended to us during the audit by
+DPSCS. We also wish to acknowledge DPSCS’ willingness to address the audit
+issues and implement appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Organization Change 6
+Status of Findings From Preceding Audit Report 6
+Findings and Recommendations 8
+Payroll
+Finding 1 – Redacted cybersecurity-related finding 9
+* Finding 2 – Employee overtime at Department of Public 9
+Safety and Correctional Services’ (DPSCS) facilities was not
+always pre-approved and supported and was not restricted to a
+maximum of 80 hours per pay period, as required by DPSCS
+policy.
+Finding 3 – DPSCS did not maintain certain documentation supporting 10
+the propriety of time recorded on the biometric timekeeping
+system.
+Inmate Funds
+Finding 4 – DPSCS did not establish adequate controls over inmate 12
+fund collections at the Jessup fiscal office to ensure collections
+were deposited and recorded timely.
+* Finding 5 – Monthly reconciliations of inmate funds recorded in 13
+the Maryland Offenders Banking System III to the related
+Comptroller of Maryland’s records were not timely or sufficiently
+comprehensive.
+Audit Scope, Objectives, and Methodology 15
+Agency Response Appendix
+ Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+Through its correctional institutions and parole and probation programs, the
+Department of Public Safety and Correctional Services (DPSCS) has statewide
+responsibility for the supervision and rehabilitation of incarcerated and paroled
+individuals. DPSCS also sets standards for criminal justice training and operates
+criminal justice information systems. We conduct separate audits of DPSCS
+Central Operations (which includes the Division of Parole and Probation), DPSCS
+Regional Operations, DPSCS Information Technology and Communications
+Division, and Maryland Correctional Enterprises. Personnel costs for DPSCS
+Regional Operations represent the majority of total expenses and as of June 30,
+2022, approximately 12 percent of the total 6,709 positions were vacant as noted
+in Figure 1.
+Figure 1
+Regional Operations Positions, Expenditures, and
+Funding Sources
+Full-Time Equivalent Positions as of June 30, 2022
+Positions Percent
+Filled 5,877 87.6%
+Vacant 832 12.4%
+Total 6,709
+Fiscal Year 2022 Expenditures
+Expenditures Percent
+Salaries, Wages, and Fringe Benefits $760,254,103 69.3%
+Technical and Special Fees 1,562,422 0.1%
+Operating Expenses 336,057,213 30.6%
+Total $1,097,873,738
+Fiscal Year 2022 Funding Sources
+Funding Percent
+General Fund $682,862,692 62.2%
+Special Fund 3,631,026 0.3%
+Federal 409,695,631 37.3%
+Reimbursable Fund 1,684,389 0.2%
+Total $1,097,873,738
+Source: State financial and personnel records
+4
+
+--- Page 7 ---
+This audit of DPSCS Regional Operations included certain financial activities of
+DPSCS’ 5 regional fiscal offices on behalf of 21 facilities, although 3 facilities
+were depopulated by DPSCS effective June 30, 2021, see Figure 2.
+Figure 2
+List of Regional Offices and Supported DPSCS Facilities
+Jessup Regional Office
+Baltimore City Correctional Center Maryland Correctional Institution for Women
+Brockbridge Correctional Facility * Maryland Correctional Institution - Jessup
+Dorsey Run Correctional Facility Central Maryland Correctional Facility
+Eastern Pre-Release Unit * Patuxent Institution
+Jessup Correctional Institution Southern Maryland Pre-Release Unit *
+Baltimore Regional Office
+Baltimore Central Booking and Intake Center Youth Detention Center
+Metropolitan Transition Center Maryland Reception, Diagnostic, and
+Chesapeake Detention Facility Classification Center
+Hagerstown Regional Office
+Maryland Correctional Institution - Maryland Correctional Training Center
+Hagerstown Roxbury Correctional Institution
+Cumberland Regional Office
+North Branch Correctional Institution Western Correctional Institution
+Eastern Shore Regional Office
+Eastern Correctional Institution and Annex
+Source: DPSCS
+*DPSCS depopulated these facilities effective June 30, 2021.
+We reviewed activities for these regional fiscal offices that were unique to the
+facilities, such as inmate cash receipts, inmate funds, and the biometric
+timekeeping system used by correctional officers. According to DPSCS records,
+during calendar year 2021, inmate fund collections and disbursements totaled
+$49.1 million and $41.7 million (including $24.5 million disbursed for
+commissary and phone related purchases), respectively.
+Certain DPSCS fiscal and operational activities are subject to audit during the
+DPSCS Central Operations audit, not this Regional Operations audit. DPSCS
+activities included in the Central Operations audit include all
+ DPSCS payroll processed within the Statewide Personnel System,
+ disbursements and procurement transactions,
+ corporate purchasing card activity,
+ equipment accountability,
+5
+
+--- Page 8 ---
+ information systems controls, and
+ non-inmate cash receipts.
+The Information Technology and Communications Division audit includes the
+activities associated with the maintenance and support of DPSCS’ information
+systems, and the Maryland Correctional Enterprises audit includes the work and
+job training provided to inmates of the Maryland correctional system.
+Organization Change
+Prior to October 1, 2021, DPSCS was responsible for administering the 9-1-1
+Trust Fund. The 9-1-1 Trust Fund included revenue from State and local fees,
+and a fee charged on prepaid wireless services (as well as investment earnings on
+the fund). All fees collected were remitted to the Comptroller of Maryland on a
+monthly basis. Chapter 287, Laws of Maryland 2021, effective October 1, 2021,
+transferred the Maryland 9-1-1 Board and related responsibilities and assets from
+DPSCS to the Maryland Department of Emergency Management. Activities prior
+to the transfer are included in the scope of our audit of DPSCS Central
+Operations.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the current status of the four findings
+contained in our preceding audit report dated September 5, 2019. As disclosed in
+Figure 3 below, for the non-cybersecurity-related findings, we determined that
+DPSCS satisfactorily addressed one of those three findings. The remaining two
+findings are repeated in this report.
+6
+
+--- Page 9 ---
+Figure 3
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+Monthly reconciliations between the Maryland
+Offenders Banking System II and the
+Repeated
+Finding 1 Comptroller’s records were not always
+(Current Finding 5)
+sufficiently comprehensive, timely, and
+supported.
+DPSCS did not have adequate controls over
+Finding 2 inmate fund collections and disbursements at the Not repeated
+two regional fiscal offices reviewed.
+Access to the biometric timekeeping system was
+not periodically reviewed and adequately
+restricted, resulting in numerous employees with
+the ability to edit and approve their own time and
+Finding 3 leave records. In addition, DPSCS did not ensure Status Redacted1
+that time and leave recorded in the timekeeping
+system were accurately transferred to the
+Statewide Personnel System for biweekly payroll
+processing.
+Overtime for employees at certain facilities
+whose payroll was processed by the Jessup fiscal
+office was not pre-approved and employee Repeated
+Finding 4
+overtime was not restricted to a maximum of 80 (Current Finding 2)
+hours per pay period, as required by DPSCS
+policy.
+1 Specific information on the current status of cybersecurity-related finding 3 has been redacted
+from this publicly available audit report in accordance with State Government Article,
+Section 2-1224(i) of the Annotated Code of Maryland.
+7
+
+--- Page 10 ---
+Findings and Recommendations
+Payroll
+Background
+The Department of Public Safety and Correctional Services (DPSCS) uses a
+biometric timekeeping system in all detention facilities to record employee “in”
+and “out” times. When a detention facility employee uses leave, it is approved by
+each employee’s immediate supervisor and then manually posted in the system by
+a timekeeper.
+According to DPSCS records, as of April 19, 2022, there were 5,453 employees
+using the biometric system to record time worked and there were 677 users who
+could manually post, edit, and/or approve time and leave on the system as of
+March 2022. We reviewed the access for the 677 users and the system access
+policies and procedures at the Jessup regional fiscal office. In addition, we tested
+timekeeping system transactions from facilities supported by the Jessup,
+Hagerstown, and Baltimore regional fiscal offices and select overtime payments
+at all five regional fiscal offices. As noted in Figure 4 during fiscal year 2022 the
+five regional offices had 6,709 authorized positions with related payroll
+expenditures totaling $761,816,525.
+Figure 4
+Fiscal Year 2022 Payroll Expenditures and
+Authorized Positions by Regional Office
+Authorized
+Office Expenditures
+Positions
+Jessup $258,412,959 34% 2,182 32%
+Baltimore 184,684,151 24% 1,591 24%
+Hagerstown 133,134,067 17% 1,206 18%
+Cumberland 103,997,826 14% 952 14%
+Eastern Shore 81,587,522 11% 778 12%
+Totals $761,816,525 100% 6,709 100%
+Source: DPSCS Records
+8
+
+--- Page 11 ---
+We determined that Finding 1 related to “cybersecurity”, as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with DPSCS’ responses, have been redacted from this
+report copy.
+Finding 1
+Redacted cybersecurity-related finding.
+Finding 2
+Employee overtime at DPSCS’ facilities was not always pre-approved and
+supported and was not restricted to a maximum of 80 hours per pay period,
+as required by DPSCS policy.
+Analysis
+Employee overtime at DPSCS’ facilities was not always pre-approved and
+supported and was not restricted to a maximum of 80 hours per pay period, as
+required by DPSCS policy. The DPSCS Overtime Policy - Correctional Staff
+requires supervisors to approve overtime before it is worked and prohibits
+employees from working more than 80 hours of overtime in a pay period.
+According to State records, during calendar year 2022 the payroll for DPSCS’
+facilities totaled $761.8 million, including overtime totaling approximately $145.6
+million (19 percent).
+Our test of 2,016 overtime hours recorded for 16 employees (with significant
+overtime activity) from 8 facilities over two pay periods in September and
+December 2021, disclosed that for 5 employees DPSCS lacked pre-approval and
+other support for 544 overtime hours totaling $21,434. For example, DPSCS
+advised that 3 employees received 316 overtime hours valued at $12,928 for
+attending training, but lacked pre-approval or other documentation to support that
+explanation.
+In addition, our review of the overtime procedures at the 5 fiscal offices disclosed
+that they did not have controls to limit overtime to 80 hours per pay period. We
+reviewed the timekeeping records for all 6,009 DPSCS Regional Operations
+employees during calendar year 2021 and noted 6,773 instances in which 1,119
+employees were paid for working more than 80 hours of overtime in a pay period.
+During calendar year 2021, 88 of these employees were paid for working an
+average of 81 to 103 overtime hours per pay period. We were advised by DPSCS
+9
+
+--- Page 12 ---
+management that the main factors contributing to the significant overtime hours
+worked include the facilities requiring 24-hours per day staffing, correctional
+officer staffing shortages, and employees being allowed to earn overtime on days
+they use leave (other than sick leave).
+Similar conditions regarding overtime not being pre-approved and not restricted
+to 80 hours per pay period were noted in our preceding audit report. In response
+to that report, DPSCS agreed to implement the related recommendations by April
+2019. However, DPSCS management explained that during our current audit they
+could not enforce existing policies or maintain the related controls, because of
+correctional officer staffing shortages (included in the total vacancies listed in
+Figure 1, page 4) and the impact of the COVID-19 pandemic.
+Recommendation 2
+We recommend that DPSCS
+a. ensure the required pre-approval of overtime hours to be worked is
+obtained or, absent pre-approval, that an employee is prohibited from
+working overtime (repeat); and
+b. establish controls to ensure that employees do not work more than 80
+overtime hours in a pay period (repeat).
+Finding 3
+DPSCS did not maintain certain documentation supporting the propriety of
+time recorded on the biometric timekeeping system.
+Analysis
+DPSCS did not adequately document its verification of time recorded on the
+biometric timekeeping system. Designated timekeepers for each facility, are
+responsible for reviewing time recorded in the biometric timekeeping system to
+ensure it is reasonable and agrees with shift schedules documented on Post
+Assignment Worksheets (PAW). In addition, following the end of the pay period
+each employee is responsible for reviewing a Complete Payroll Report (CPR),
+which lists all entries of time worked and leave taken for that employee. If there
+are any errors, the employee will record the correction and then sign the CPR
+certifying the information as accurate. The CPR is also reviewed and signed by
+the employee’s immediate supervisor. The approved time and leave information
+is then interfaced into the Statewide Personnel System for payroll processing.
+Our review disclosed that DPSCS did not always retain the aforementioned PAW
+and CPR documents to support the propriety of time posted in the biometric
+10
+
+--- Page 13 ---
+timekeeping system. We tested 3,666 hours recorded for 16 employees2 who
+earned gross pay totaling $142,843 from 8 facilities over two pay periods.
+DPSCS was unable to provide the approved PAWs for 6 employees related to
+1,032 hours charged and the approved CPRs for an additional 7 employees which
+related to 1,362 hours charged. The unsupported hours equate to payroll
+disbursements totaling $94,851 of the $142,843 tested. As a result, there was a
+lack of assurance that information recorded in the timekeeping system and the
+related payroll disbursements for these employees was accurate.
+Recommendation 3
+We recommend that DPSCS maintain sufficient documentation to ensure the
+accuracy of hours recorded in the timekeeping system, in accordance with its
+policies.
+Inmate Funds
+Background
+The five DPSCS regional fiscal Figure 5
+offices maintain inmate funds on Calendar Year 2021 Inmate Fund Activity
+behalf of individuals incarcerated in (In thousands of dollars)
+State correctional and detention Regional Balance as
+Funds Funds
+Fiscal of December
+facilities. All receipts are initially
+Received Disbursed
+Office 31, 2021
+deposited in the State’s General
+Jessup $26,537 $4,841 $55,687
+Fund and are then transferred to
+Hagerstown 19,862 5,162 53,829
+checking accounts maintained by
+Eastern Shore 985 3,589 13,328
+each regional fiscal office. Regional
+Cumberland 712 2,788 11,783
+fiscal office staff record all inmate
+fund activity in the Maryland Baltimore 974 806 5,295
+Offenders Banking System III Commissary 0 24,481 0
+(MOBS III). Disbursements of Totals $49,070 $41,667 $139,922
+inmate funds are made by check or
+Source: DPSCS Records
+cash to inmates or their designees.
+According to DPSCS records, during calendar year 2021, approximately $49.1
+million was deposited into the inmate fund, $17.2 million was disbursed on behalf
+of inmates, and $24.5 million was disbursed for commissary and phone related
+purchases, see Figure 5.
+During this audit, we reviewed inmate fund procedures at the Jessup and
+Hagerstown regional fiscal offices (the two offices with the greatest fiscal
+2 We selected the employees hours for testing based upon the materiality of the hours recorded and
+the related payments made to them.
+11
+
+--- Page 14 ---
+activity), and tested selected transactions, including inmate fund reconciliations,
+from each of the five regional fiscal offices.
+Finding 4
+DPSCS did not establish adequate controls over inmate fund collections at
+the Jessup fiscal office to ensure collections were deposited and recorded
+timely.
+Analysis
+DPSCS did not establish adequate controls over inmate fund collections at the
+Jessup fiscal office to ensure collections were deposited and recorded timely in
+the State’s accounting system and MOBS III. According to DPSCS records, the
+Jessup fiscal office had lockbox collections of $11.4 million and remotely
+deposited collections of $2.9 million during fiscal year 2021. Our test of 10
+remote deposits totaling $266,500 and 5 lockbox deposits totaling $530,500 made
+between July 2020 and December 2021 disclosed the following conditions:
+ Five remote deposits tested totaling $134,650 were deposited between 8 to 12
+business days after the initial receipt. The delays typically occurred because
+the facilities responsible for delivering the collections (checks and cash) to the
+Jessup fiscal office did not drop off the collections in a timely manner. While
+each facility’s mail room was responsible for initially receiving the collections
+and recording the receipts on a log, the collections and recordation were
+forwarded to the fiscal office that was responsible for posting the receipts to
+the proper account and depositing all collections.
+ Three lockbox deposits totaling $153,400 were recorded into the State’s
+accounting system four to nine business days after being deposited, and four
+other remote deposits totaling $87,200 were recorded into MOBS III from
+three to six business days after being deposited.
+The Comptroller of Maryland’s Accounting Procedures Manual requires the
+establishment of sufficient internal controls over collections, including depositing
+of cash receipts within one business day and recording cash receipts into the
+State’s accounting system within two business days of the deposit. In addition,
+the DPSCS Financial Operations Manual provides that cash receipts should be
+recorded in MOBS III on a daily basis.
+Recommendation 4
+We recommend that DPSCS ensure that all collections are deposited and
+recorded into the State’s accounting system and MOBS III in a timely
+12
+
+--- Page 15 ---
+manner as required by the Comptroller’s Accounting Procedures Manual and
+DPSCS internal policies.
+Finding 5
+Monthly reconciliations of inmate funds recorded in MOBS III to the related
+Comptroller of Maryland’s records were not performed timely or sufficiently
+comprehensive.
+Analysis
+Monthly reconciliations between MOBS III and the Comptroller of Maryland’s
+records were not performed timely or sufficiently comprehensive. Responsibility
+for performing the reconciliations and for investigating any differences is
+delegated to the regional fiscal offices. DPSCS enters inmate activity into MOBS
+III, including detailed information by inmate and the total balance of all inmate
+funds. DPSCS also records total fund collections and disbursements in the
+Comptroller’s records.
+Our test of the most recent 30 reconciliations between MOBS III and the
+Comptroller of Maryland’s records as of March 2022, disclosed that 3 regional
+fiscal offices had not conducted a reconciliation for periods ranging from 2 to 15
+months. For example, the most recent reconciliation prepared for the Baltimore
+fiscal office was for November 2020. In addition, persistent differences between
+MOBS III and the Comptroller’s records were not reconciled or investigated. For
+example, our review of the December 2021 reconciliations for all five offices
+disclosed an aggregate difference of $1.4 million between MOBS III ($14.2
+million) and the Comptroller’s fund balance ($15.6 million). We were advised by
+DPSCS management that these individual differences could not be isolated to a
+specific region or transaction due to limitations with the reporting function of
+MOBS III.
+The DPSCS Financial Operations Manual provides that, on a monthly basis,
+inmate fund balances on MOBS III should be reconciled with the related balances
+on the Comptroller’s records. Furthermore, the Comptroller of Maryland’s
+Accounting Procedures Manual requires that agencies conduct a monthly
+reconciliation of agency systems to the State’s accounting system.
+Similar conditions regarding the failure to conduct comprehensive and timely
+reconciliations were included in several preceding audit reports for various
+DPSCS entities dating back to 2002. In response to our most recent prior report,
+DPSCS indicated that monthly reconciliations were in progress and that they
+expected to fully implement the report recommendations by December 2019.
+13
+
+--- Page 16 ---
+However, current DPSCS management advised that regional fiscal office staffing
+vacancies have prevented certain reconciliations from being completed timely.
+Although as noted in Figure 1, there was a 12.4 percent vacancy rate as of June
+30, 2022 for DPSCS Regional Operations personnel in total, DPSCS was unable
+to readily provide a breakdown as to the number related to the fiscal offices.
+Recommendation 5
+We recommend that DPSCS
+a. prepare comprehensive monthly reconciliations between MOBS III and
+the Comptroller’s records as required (repeat); and
+b. consult with appropriate control agency personnel (such as the
+Comptroller’s General Accounting Division), as needed, regarding the
+resolution of the aforementioned longstanding differences (repeat).
+14
+
+--- Page 17 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Department of Public Safety
+and Correctional Services (DPSCS) Regional Operations for the period beginning
+April 1, 2018 through January 21, 2022. The audit was conducted in accordance
+with generally accepted government auditing standards. Those standards require
+that we plan and perform the audit to obtain sufficient, appropriate evidence to
+provide a reasonable basis for our findings and conclusions based on our audit
+objectives. We believe that the evidence obtained provides a reasonable basis for
+our findings and conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DPSCS’ financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included inmate funds and payroll activity unique to the
+regional fiscal offices, including the timekeeping system. We also determined the
+status of the findings contained in our preceding audit report.
+Our audit did not include certain support services provided to DPSCS – Regional
+Operations by DPSCS – Central Operations. These support services (such as
+procurements, disbursements, equipment, processing certain payroll transactions,
+and corporate purchasing card activity) are included within the scope of our audit
+of the DPSCS – Central Operations. Our audit also did not include the computer
+operations of the DPSCS Information and Technology and Communications
+Division and the Maryland Correctional Enterprises, which are audited separately.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of April 1, 2018 to January 21, 2022, but may include transactions before
+or after this period as we considered necessary to achieve our audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, test of transactions,
+and to the extent practicable, observations of the DPSCS regional fiscal office
+operations. Generally, transactions were selected for testing based on auditor
+judgment, which primarily considers risk, the timing or dollar amount of the
+transaction, or the significance of the transaction to the area of operation
+15
+
+--- Page 18 ---
+reviewed. As a matter of course, we do not normally use sampling in our tests, so
+unless otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, unless sampling is
+specifically indicated in a finding, the results from any tests conducted or
+disclosed by us cannot be used to project those results to the entire population
+from which the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Central Payroll Bureau (payroll data). The extracts are performed as part of
+ongoing internal processes established by the Office of Legislative Audits and
+were subject to various tests to determine data reliability. We determined that the
+data extracted from this source was sufficiently reliable for the purposes the data
+were used during this audit. We also extracted data from DPSCS’ biometric
+timekeeping system used for recording correctional employee time for the
+purpose of testing the propriety of employee earnings, including overtime. We
+performed various tests of the relevant data and determined that the data were
+sufficiently reliable for the purposes the data were used during the audit. Finally,
+we performed other auditing procedures that we considered necessary to achieve
+our audit objectives. The reliability of data used in this report for background or
+informational purposes was not assessed.
+DPSCS’ management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to DPSCS, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+16
+
+--- Page 19 ---
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DPSCS’ ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, and regulations. Other less significant
+findings were communicated to DPSCS that did not warrant inclusion in this
+report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation”. Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to DPSCS and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+The response from DPSCS, on behalf of the regional fiscal offices, to our findings
+and recommendations is included as an appendix to this report. Depending on the
+version of the audit report, responses to any cybersecurity findings may be
+redacted in accordance with State law. As prescribed in the State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise
+DPSCS regarding the results of our review of its response.
+17
+
+--- Page 20 ---
+APPENDIX
+Department of Public Safety and Correctional Services
+Office of the Secretary
+6776 Reisterstown Road, Baltimore, Maryland 21215
+410-585-3346 – TOLL FREE 877-379-8636 • www.dpscs.maryland.gov
+STATE OF MARYLAND July 14, 2023
+WES MOORE
+GOVERNOR
+ARUNA MILLER
+LT. GOVERNOR
+Mr. Gregory A. Hook, CPA
+CAROLYN J. SCRUGGS Legislative Auditor
+SECRETARY
+Office of Legislative Audits
+ANTHONY A. GASKINS
+CHIEF OF STAFF Department of Legislative Services
+The Warehouse at Camden Yards
+CHRISTINA LENTZ
+DEPUTY SECRETARY 351 West Camden Street, Suite 400
+ADMINISTRATION
+Baltimore, Maryland 21201
+ANNIE D. HARVEY
+DEPUTY SECRETARY
+OPERATIONS
+Dear Mr. Hook:
+ANGELINA GUARINO
+ASSISTANT SECRETARY
+DATA, POLICY AND GRANTS
+The Department of Public Safety and Correctional Services (DPSCS) has reviewed
+RENARD E. BROOKS
+ASSISTANT SECRETARY the Draft Audit Report dated June 2023 for the DPSCS – Regional Operations. We
+PROGRAMS, TREATMENT & RE-
+ENTRY SERVICES appreciate the constructive findings and recommendations that were made as the result
+of this audit.
+Please find attached the Department’s itemized responses to the findings and
+recommendations. Corrective action has or will be taken for all the findings identified
+by your audit, and the Office of the Inspector General will conduct periodic follow up
+reviews to monitor the status of compliance.
+If you have any questions regarding this response, please contact me.
+Sincerely,
+Carolyn J. Scruggs
+Secretary
+Attachment
+Copy: Harold “Bud” Frank, Deputy Chief of Staff
+
+--- Page 21 ---
+Department of Public Safety and Correctional Services
+Regional Operations
+Agency Response Form
+Payroll
+The Office of Legislative Audits (OLA) has determined that Finding 1 related to “cybersecurity”,
+as defined by the State Finance and Procurement Article, Section 3.5-301(b) of the Annotated
+Code of Maryland, and therefore is subject to redaction from the publicly available audit report
+in accordance with State Government article 2-1224(i). Although the specifics of the finding,
+including the analysis, related recommendations, along with DPSCS’ responses, have been
+redacted from this report copy, DPSCS’ responses indicated agreement with the finding and
+related recommendations.
+Finding 1
+Redacted cybersecurity-related finding.
+Agency response has been redacted by OLA.
+Finding 2
+Employee overtime at DPSCS’ facilities was not always pre-approved and supported and
+was not restricted to a maximum of 80 hours per pay period, as required by DPSCS policy.
+We recommend that DPSCS
+a. ensure the required pre-approval of overtime hours to be worked is obtained or, absent
+pre-approval, that an employee is prohibited from working overtime (repeat); and
+b. establish controls to ensure that employees do not work more than 80 overtime hours in
+a pay period (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2a Agree Estimated Completion Date: August 15,
+2023
+Please provide details of The Department shall ensure that processes are in place to comply with
+corrective action or DPSCS policy to obtain the pre-approval of overtime hours to be
+explain disagreement. worked, and if pre-approval is not provided, that employees are
+prohibited from working overtime.
+Page 1 of 6
+
+--- Page 22 ---
+Department of Public Safety and Correctional Services
+Regional Operations
+Agency Response Form
+The Department is in the process of establishing a new policy that
+clearly defines protocols for timely documentation of overtime
+authorization and oversight of all overtime by the Time Keepers and
+Shift Supervisors. This documentation will be completed by each shift’s
+Time Keeper and the appropriate existing forms will be signed each pay
+period by both the employee and the Shift Supervisor. Also, the Security
+Chiefs shall ensure that all Shift Supervisors are aware of the
+Department’s pre-approval requirements and shall review rosters and
+timesheets to ensure compliance. In addition, the overtime will be
+documented on the daily Post Assignment Worksheets (PAWs), and the
+Facility Administrator and/or the Security Chief will approve the daily
+PAWs for each shift, in advance of Officers being assigned to their shift.
+The use of the PAWs is a standard operating policy and procedure for all
+DPSCS facilities.
+Recommendation 2b Agree Estimated Completion Date: August 15,
+2023
+Please provide details of The Department shall ensure that processes are in place to comply with
+corrective action or DPSCS policy that prohibits custody staff from working more than 80
+explain disagreement. overtime hours in a pay period. The Security Chiefs shall ensure that all
+supervisors are aware of the 80 hour requirement and shall review
+PAWs, timesheets, and the Complete Payroll Reports (CPRs) to ensure
+compliance.
+Department policy stipulates that “An officer who has worked 80 hours
+of OT in the current pay period shall not be permitted to work overtime.”
+This policy coincides with the already established memorandum of
+understanding between the Department and AFSCME. Furthermore, the
+Department is currently in the process of establishing a new policy,
+which outlines required protocols for proper management of Officer
+overtime. These protocols will establish a better means for maintaining a
+record of approved overtime, allowing more efficient and effective
+monitoring of overtime worked by officers.
+Finally, the Department engages in proactive overtime monitoring on a
+biweekly basis through its management of the TCP Timekeeping
+System, which flags employees close to and exceeding the contractual
+and policy limits of 80 hours per pay period. Employees out of
+compliance are reported to appointing authorities so that Facility Shift
+Supervisors can modify upcoming schedules to bring excessive
+overtime use into compliance.
+Page 2 of 6
+
+--- Page 23 ---
+Department of Public Safety and Correctional Services
+Regional Operations
+Agency Response Form
+Finding 3
+DPSCS did not maintain certain documentation supporting the propriety of time recorded
+on the biometric timekeeping system.
+We recommend that DPSCS maintain sufficient documentation to ensure the accuracy of
+hours recorded in the timekeeping system, in accordance with its policies.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3 Agree Estimated Completion Date: February 18,
+2022
+Please provide details of The Department will maintain sufficient documentation to ensure the
+corrective action or accuracy of hours recorded in the timekeeping system, in accordance
+explain disagreement. with its policies. In fact, beginning February 2022, the Department
+began receiving and maintaining copies of the Complete Payroll Reports
+(CPRs) each pay period, which lists the entries of all time worked and
+leave taken during a given pay period. The report is signed off by the
+employee and immediate supervisor.
+In addition, per OPS.115.0001 Staffing Analysis & Overtime Manager
+policy, Post Assignment Worksheets (PAWs) are maintained for 3 years
+or until the completion of an audit.
+According to the Timekeeping Manual, all CPRs are sent to the local
+Fiscal (Payroll) office in the region for storage after the employee and
+supervisor reviews and signs.
+Continued training and policy review is ongoing with the current facility
+timekeepers to include that all reviews of the CPRs will be monitored for
+accuracy.
+Page 3 of 6
+
+--- Page 24 ---
+Department of Public Safety and Correctional Services
+Regional Operations
+Agency Response Form
+Inmate Funds
+Finding 4
+DPSCS did not establish adequate controls over inmate fund collections at the Jessup fiscal
+office to ensure collections were deposited and recorded timely.
+We recommend that DPSCS ensure that all collections are deposited and recorded into the
+State’s accounting system and MOBS III in a timely manner as required by the
+Comptroller’s Accounting Procedures Manual and DPSCS internal policies.
+Agency Response
+Analysis
+Please provide All collections brought to the CRFO Cash Receipts Unit are presented
+additional comments as on ledgers, verified, and logged onto a daily log sheet.
+deemed necessary.
+The Cash Receipts Unit now has multiple staff fully trained in the
+complete process and additional staff trained in the supporting functions,
+resulting in proper support and coverage for the lockbox process. The
+additional full cross-training enables the flexibility to interchange
+personnel without losing quality of work and incurring any timing
+delays.
+Recommendation 4 Agree Estimated Completion Date: March 31,
+2023
+Please provide details of The Department will ensure that all collections are deposited and
+corrective action or recorded into the State’s accounting system and MOBS III in a timely
+explain disagreement. manner, in accordance with the Comptroller’s Accounting Procedures
+Manual and DPSCS internal policies.
+The facilities responsible for delivering any monetary collections to the
+Finance offices will be notified that it is incumbent upon them to
+forward such collections to the Cash Receipts Unit within 2 business
+days of collection. The Cash Receipts Fiscal Account Technician will
+begin comparing the date of the collections items presented on the ledger
+with the current date. If the collections presented are more than 2 days
+late, or beyond any reasonable delay, notice will be made to the facility's
+Warden concerning the unreasonable delay in presenting the collection
+to the Jessup Finance Office.
+The recording of lockbox deposits via journal entries into the State's
+accounting system is no longer applicable, effective April 2022. Prior to
+Page 4 of 6
+
+--- Page 25 ---
+Department of Public Safety and Correctional Services
+Regional Operations
+Agency Response Form
+April 2022, there was a journal entry initiated by the Inmate Accounts
+Lockbox Unit to reclassify the deposit from a default liability account to
+the correct Program Cost Account (PCA). As of April 2022, that
+process was changed to have the State Treasurer's Office post the
+lockbox daily deposits directly into the correct account using the
+appropriate transaction code and PCA. This adjustment has eliminated
+the necessity for a journal entry from the Inmate Accounts Unit.
+Page 5 of 6
+
+--- Page 26 ---
+Department of Public Safety and Correctional Services
+Regional Operations
+Agency Response Form
+Finding 5
+Monthly reconciliations of inmate funds recorded in MOBS III to the related Comptroller
+of Maryland’s records were not performed timely or sufficiently comprehensive.
+We recommend that DPSCS
+a. prepare comprehensive monthly reconciliations between MOBS III and the
+Comptroller’s records as required (repeat); and
+b. consult with appropriate control agency personnel (such as the Comptroller’s General
+Accounting Division), as needed, regarding the resolution of the aforementioned
+longstanding differences (repeat).
+Agency Response
+Analysis
+Please provide The staffing shortages in the Division of Financial Services had
+additional comments as hampered the timely completion of the reconciliations in the Baltimore
+deemed necessary. Region, but that has since been addressed. Reconciliations are now being
+completed timely.
+Recommendation 5a Agree Estimated Completion Date: June 30, 2022
+Please provide details of The Department will prepare comprehensive monthly reconciliations
+corrective action or between MOBS III and the Comptroller’s records as required. The
+explain disagreement. comprehensive monthly reconciliations have been completed in a timely
+manner since June 2022 by all regions.
+Recommendation 5b Agree Estimated Completion Date: December 31,
+2023
+Please provide details of The Department will consult with appropriate control agency personnel
+corrective action or as needed, regarding the resolution of the aforementioned longstanding
+explain disagreement. differences.
+Since June 2022, the regional reconciliations have been completed
+timely. Now that the Department has been more consistent in completing
+the transactional reconciliations between FMIS and MOBS III, the
+balances have also been remaining consistent. Accordingly, by
+December 31, 2023, the Department will seek guidance and permission
+from the General Accounting Division to write-off the unreconciled
+balances.
+Page 6 of 6
+
+--- Page 27 ---
+A T
+UDIT EAM
+Heather A. Warriner, CPA
+Audit Manager
+Anthony V. Calcagno
+Senior Auditor
+Benjamin H. Straube
+Brian M. Webbert
+Staff Auditors

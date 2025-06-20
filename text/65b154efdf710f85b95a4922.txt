@@ -1,0 +1,1021 @@
+Title: Comptroller of Maryland - Revenue Administration Division
+Date: 01/22/2024
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=65b154efdf710f85b95a4922
+Extracted: 2025-06-19T23:12:04.021611
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Comptroller of Maryland
+Revenue Administration Division
+January 2024
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Steven C. Johnson
+Senator Shetty L. Hettleman Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+Senator Craig J. Zucker One Vacancy
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+January 22, 2024
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Comptroller of Maryland
+(COM) – Revenue Administration Division (RAD) for the period beginning
+September 21, 2018 and ending September 30, 2021. RAD is primarily
+responsible for receiving and depositing various tax remittances, processing tax
+returns, maintaining taxpayer records, distributing taxes in accordance with State
+laws, issuing income tax refunds, and providing assistance to taxpayers.
+Our audit disclosed that RAD did not conduct all required reviews of tax
+overpayments that taxpayers chose to apply to the next tax year, which for two tax
+types not reviewed totaled approximately $1.2 billion between December 2018
+and July 2021; and although reviews were performed for a third tax type, they
+were not sufficiently comprehensive. Furthermore, RAD did not ensure that
+refund replacement checks issued, which totaled approximately $29.5 million in
+calendar year 2021, were reviewed by supervisory personnel as required.
+We also noted that RAD did not ensure that current records of deceased
+individuals, which are used to help ensure that fraudulent or otherwise improper
+tax returns and refunds are not processed, were regularly loaded into the COM’s
+automated State of Maryland Tax (SMART) system, which RAD uses for
+processing returns and refunds. In addition, RAD had not determined the cost
+benefit of expanding the use of its current individual taxpayer data analytics
+vendor to help identify corporate and business tax fraud.
+We also noted a lack of control over certain checks received. Finally, our audit
+also disclosed certain cybersecurity-related findings. However, in accordance
+with the State Government Article, Section 2-1224(i) of the Annotated Code of
+Maryland, we have redacted the findings from this audit report. Specifically,
+
+--- Page 4 ---
+State law requires the Office of Legislative Audits to redact cybersecurity
+findings in a manner consistent with auditing best practices before the report is
+made available to the public. The term “cybersecurity” is defined in the State
+Finance and Procurement Article, Section 3.5-301(b), and using our professional
+judgment we have determined that the redacted findings fall under the referenced
+definition. The specifics of the cybersecurity findings were previously
+communicated to those parties responsible for acting on our recommendations.
+Our audit also included a review to determine the status of the six findings
+contained in our preceding audit report on RAD. For the non-cybersecurity-
+related findings we determined that RAD satisfactorily addressed three of those
+five findings. The remaining two findings are repeated in this report.
+COM’s response to this audit, on behalf of RAD, is included as an appendix to
+this report. We reviewed the response and noted agreement to our findings and
+related recommendations and while there are other aspects of the response which
+will require further clarification, we do not anticipate that these will require the
+Joint Audit and Evaluation Committee’s attention to resolve. Additionally, in
+accordance with our policy, we have edited COM’s response to remove vendor
+names or products. Finally, consistent with State law, we have redacted the
+elements of COM’s response related to the cybersecurity audit findings.
+We wish to acknowledge the cooperation extended to us during the audit by RAD.
+We also wish to acknowledge COM’s and RAD’s willingness to address the audit
+issues and implement appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Financial Activities 5
+System Implementation 7
+Pass-Through Entity Credit Processing Delays 8
+Status of Findings From Preceding Audit Report 9
+Findings and Recommendations 10
+Taxpayer Refunds
+* Finding 1 – The Revenue Administration Division (RAD) did not 10
+conduct all required reviews of declaration credits (tax overpayments
+that taxpayers chose to apply to the next tax year) and the reviews
+performed were not sufficiently comprehensive.
+Finding 2 – RAD did not ensure that refund replacement checks, which 11
+totaled $29.5 million during calendar year 2021, were reviewed by
+supervisory personnel as required by its policy.
+Data Matches
+Finding 3 – RAD did not ensure that current death records were obtained 12
+and loaded into the Comptroller of Maryland’s automated State of
+Maryland Tax (SMART) system, resulting in potential improper tax
+returns and refunds going undetected.
+Data Analytics for Fraud Detection
+Finding 4 (Policy Issue) – RAD did not determine the cost benefit of 13
+expanding the use of its existing individual taxpayer data analytics
+vendor to help identify corporate and business tax fraud.
+SMART
+Finding 5 – Redacted cybersecurity-related finding 14
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+COMPASS
+Finding 6 – Redacted cybersecurity-related finding 14
+Cash Receipts
+* Finding 7 – RAD had not established sufficient controls over checks for 14
+tax payments received in the mail at its Annapolis location, as certain
+documentation used to account for batches of checks processed was not
+retained prior to May 2021.
+Information Systems Security and Control
+Finding 8 – Redacted cybersecurity-related finding 16
+Finding 9 – Redacted cybersecurity-related finding 16
+Audit Scope, Objectives, and Methodology 17
+Exhibit 1 – Listing of Most Recent Office of Legislative Audits Fiscal 21
+Compliance Audits of Comptroller of Maryland Divisions as of
+October 2023
+Exhibit 2 – Compass Release Schedule 22
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The primary responsibilities of the Comptroller of Maryland’s (COM) Revenue
+Administration Division (RAD) include receiving and depositing various tax
+remittances, processing tax returns, maintaining taxpayer records, distributing
+taxes in accordance with applicable State laws, issuing income tax refunds, and
+providing assistance to taxpayers. RAD also administers certain laws and
+regulations pertaining to the dispensing and content of motor fuel and collects
+excise taxes for motor fuel, alcoholic beverages, and tobacco.1
+Our office conducts separate fiscal compliance audits of other COM units. A
+listing of the most recent fiscal compliance audits of COM units performed during
+the current audit cycle can be found in Exhibit 1 of this report.
+Financial Activities
+According to RAD’s records, significant taxes collected (sources greater than
+$100 million annually) for fiscal years 2019, 2020, and 2021, are listed in Figure
+1. According to the State’s records, during fiscal year 2022, RAD’s expenditures
+totaled approximately $60.7 million (See Figure 2).
+1 Previously, RAD also administered laws and regulations pertaining to the manufacture, storage,
+transportations, sale, and distribution of alcoholic beverages and tobacco. However, effective
+January 1, 2021 all such functions were to be performed by the newly established independent
+Alcohol and Tobacco Commission. Effective May 3, 2023, Chapter 255, Laws of Maryland
+2023 renamed the Alcohol and Tobacco Commission as the Alcohol, Tobacco, and Cannabis
+Commission.
+5
+
+--- Page 8 ---
+Figure 1
+Selected Tax Collections and Distributions
+Applicable to Fiscal Years 2019 – 2021
+(sources greater than $100 million annually)
+Fiscal Year
+(dollars stated in millions)
+2019 2020 2021
+Gross income taxes collected $20,504 $21,430 $23,994
+Less:
+Refunds 2,786 2,843 2,941
+Administrative expenses 21 24 27
+Total refunds and expenses 2,807 2,867 2,968
+Balance available for distribution $17,697 $18,563 $21,026
+Distribution of remaining balance:
+To State’s General Fund $11,105 $11,751 $13,167
+To Local Subdivisions Reserve Fund 6,123 6,539 7,480
+To other Funds as provided by 469 273 379
+State Law (including the
+Transportation Trust Fund)
+Total distributions $17,697 $18,563 $21,026
+Gross sales and use tax collections
+which are primarily credited to the State’s
+General Fund $4,902 $4,969 $5,471
+Gross motor fuel tax collections
+which are primarily credited to the
+Transportation Trust Fund $1,182 $1,122 $1,061
+Gross tobacco tax collections
+which are primarily credited to the State’s
+General Fund $357 $363 $388
+Gross estate tax collections
+which are primarily credited to the State’s
+General Fund $138 $150 $192
+Note: Distributions shown relate to the stated fiscal year but were not necessarily distributed in that year.
+Source: RAD Records
+6
+
+--- Page 9 ---
+Figure 2
+RAD Positions, Expenditures, and Funding Sources
+Full Time Equivalent Positions as of June 30, 2022
+Positions Percent
+Filled 341 90.4%
+Vacant 36 9.6%
+Total 377
+Fiscal Year 2022 Expenditures
+Expenditures Percent
+Salaries, Wages and Fringe Benefits $ 31,292,852 51.5%
+Technical and Special Fees 1,083,886 1.8%
+Operating Expenses 28,327,318 46.7%
+Total $ 60,704,056
+Fiscal Year 2022 Funding Sources
+Funding Percent
+General Fund $ 33,516,298 55.2%
+Special Fund 14,172,833 23.3%
+Reimbursable Fund 13,014,925 21.5%
+Total $ 60,704,056
+Source: State financial and personnel records
+System Implementation
+RAD has historically used COM’s automated State of Maryland Tax (SMART)
+system to record and process tax return information and issue refunds for
+corporate and individual income taxes, as well as for other taxes, such as
+employer withholding taxes, and sales and use taxes. In fiscal year 2018, with the
+assistance of the Maryland Department of Information Technology, COM’s
+Office of the Comptroller initiated a competitive procurement for an information
+technology modernization project to replace SMART. In December 2018, the
+Board of Public Works approved a ten-year contract, with one additional five-year
+option and a cumulative value of approximately $159.7 million, with a primary
+vendor2 to implement the Revenue Premier Enterprise system, referred to as
+COMPASS. In addition to replacing the current functionality of SMART,
+2 Other vendors are associated with the project to perform specific tasks such as oversight and
+consulting, the “primary vendor” is responsible for system design.
+7
+
+--- Page 10 ---
+COMPASS is intended to improve automation of business processes and best
+practices, create a taxpayer interface to allow for more timely and direct
+communication, and provide additional fraud detection capabilities for RAD.
+COMPASS will be implemented in three phases or Releases, with all Releases
+anticipated to be completed by July 2024 (See Exhibit 2). RAD transitioned to
+COMPASS for alcohol taxes and corporate taxes in July 2020 and February 2021,
+respectively, as Release 1 of the implementation. During calendar year 2021
+revenues processed in COMPASS for the aforementioned two tax types totaled
+approximately $2.4 billion. As of May 2022, the vendor had been paid $51.8
+million.
+Pass-Through Entity (PTE) Credit Processing Delays
+Subsequent to completion of our fieldwork, we received an allegation through our
+fraud, waste, and abuse hotline of taxpayers experiencing extensive delays in
+receiving refunds claimed on personal income tax returns that included a PTE
+credit. State law provides that a member of a PTE, such as a partner in a
+partnership, may claim a credit on their personal income tax return for taxes paid
+by the PTE attributable to the member’s share of the PTE’s taxable income.
+Accompanying the aforementioned allegation was a September 19, 2023 letter to
+tax professionals from the Office of the Comptroller acknowledging challenges in
+processing returns claiming the PTE credit, attributing delays to the complexity of
+returns filed, lack of staff, and outdated technology. The letter outlined the steps
+being taken and the progress being made to address these challenges and delays,
+as well steps that tax professionals can take to help expedite return processing.
+Upon our inquiries, RAD advised us in October 2023 that the majority of the
+outstanding credits had been resolved. We attempted to obtain detailed
+documentation to support the number of returns with PTE credits received and the
+applicable tax returns not yet processed for calendar year 2021. However, RAD
+was unable to provide us with the requested information prior to the issuance of
+this report and as such, we were unable to determine the disposition of the PTE
+credits to determine the veracity and disposition of the allegation. Consequently,
+we will pursue the matter once the information is obtained and will disclose the
+results of our review at a later date.
+8
+
+--- Page 11 ---
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the six findings contained
+in our preceding audit report dated June 1, 2020. As disclosed in Figure 3, for the
+non-cybersecurity-related findings, we determined that RAD satisfactorily
+addressed three of these five findings. The remaining two findings are repeated in
+this report.
+Figure 3
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+An effective process was not in place to ensure
+that significant financial adjustments made to
+Finding 1 Not repeated
+taxpayer accounts in two units were subject to
+supervisory or managerial review.
+Declaration credits, representing tax
+Repeated
+overpayments that taxpayers chose to apply to
+Finding 2 (Current Finding
+the next tax year, were not always reviewed for
+1)
+propriety as required.
+RAD did not comply with its established review
+Finding 3 procedures to ensure the propriety of significant Not repeated
+individual taxpayer refunds.
+RAD had not established sufficient controls
+over checks for income tax payments received
+in the mail at its Annapolis location, as several Repeated
+Finding 4 employees were assigned incompatible (Current Finding
+functions, and certain documentation used to 7)
+account for batches of checks processed was not
+retained.
+Controls over collections received in the
+Baltimore cash office were not sufficient to
+Finding 5 Not repeated
+ensure that those collections were properly
+accounted for and deposited.
+Security and audit events for several critical
+Finding 6 databases were either not logged or not Status Redacted3
+reviewed for propriety.
+3 Specific information on the current status of this cybersecurity-related finding has been redacted
+from the publicly available report in accordance with State Government Article, Section 2-
+1224(i) of the Annotated Code of Maryland.
+9
+
+--- Page 12 ---
+Findings and Recommendations
+Taxpayer Refunds
+Finding 1
+The Revenue Administration Division (RAD) did not conduct all required
+reviews of declaration credits (tax overpayments that taxpayers chose to
+apply to the next tax year) and the reviews performed were not sufficiently
+comprehensive.
+Analysis
+Required reviews of declaration credits (which are tax overpayments that
+taxpayers chose to apply to the subsequent tax year rather than receive as a tax
+refund) were either not performed or were not sufficient to ensure that the credit
+was valid. RAD procedures require all declaration credits exceeding an
+established dollar threshold to be reviewed for propriety. However, our review
+disclosed that declaration credits for corporate and fiduciary tax returns, which
+totaled approximately $1.2 billion between December 2018 and July 2021, were
+not reviewed, and credits for individual tax returns were not reviewed for tax year
+2020.4
+Furthermore, although declaration credits for individual tax returns were reviewed
+for tax years 2018 and 2019, the number of credits reviewed was less than the
+total required by RAD policy, and the reviews were not sufficiently
+comprehensive. Specifically, RAD only reviewed 221 credits totaling $3.7
+million of the 5,511 totaling $513.2 million that should have been reviewed for
+tax years 2018 and 2019. In addition, the reviews that were conducted did not
+include an examination of required supporting documentation, such as taxpayer’s
+withholdings from their W-2 forms. Rather, the review used uploaded taxpayer
+prepared return data already in SMART for verification purposes, which would
+not provide an independent verification of the data.
+These reviews are meant to ensure that declaration credits processed are valid and
+are to include an examination of required taxpayer supporting documentation,
+which would typically include required documentation of a taxpayer’s
+withholdings and credits. Comments regarding the lack of a sufficient number of
+reviews for individual tax returns were included in our preceding audit report. In
+its response to that report, the Comptroller of Maryland, on behalf of RAD, stated
+that effective June 2020, taxpayer declaration credits would be reviewed in
+accordance with established procedures and documentation of these reviews
+4 The latest year in which reviews could have been performed as of the time of our audit.
+10
+
+--- Page 13 ---
+would be retained. During our current audit RAD management advised that the
+aforementioned corrective actions were not fully implemented because staff was
+working on other activities.
+Recommendation 1
+We recommend that RAD
+a. conduct required reviews of declaration credits for individual (repeat),
+corporate, and fiduciary tax returns; and
+b. ensure that the reviews include a review of critical supporting
+documentation, such as documentation of a taxpayer’s withholdings.
+Finding 2
+RAD did not ensure that refund replacement checks, which totaled $29.5
+million during calendar year 2021, were reviewed by supervisory personnel
+as required by its policy.
+Analysis
+Refund replacement checks processed in calendar year 2021 totaling $29.5
+million were not subjected to supervisory review as required by RAD’s policy.
+Replacement checks are generated for several reasons, including when an original
+refund check is returned by a taxpayer due to an error, a taxpayer claims to have
+not received their refund check, or the taxpayer has passed away. RAD’s policy
+requires that supervisors use weekly output reports of replacement checks to
+select refunds for review within 30 days of the report. RAD’s policy also requires
+that on a monthly basis, management personnel ensure that the supervisory
+reviews were performed and verify that high dollar refunds were proper.
+Our test of replacement checks issued in calendar year 2021 disclosed that, as of
+March 2022, no supervisory reviews had been performed for checks issued during
+45 of the 52 weeks totaling approximately $29.5 million, and the reviews of
+checks for the other 7 weeks totaling approximately $3.3 million were performed
+between 1 and 9 months late. In addition, the required monthly management
+reviews were not performed. Upon our inquiry in April 2022, RAD began
+performing the missing calendar year 2021 supervisory and management reviews.
+Recommendation 2
+We recommend that RAD ensure that all supervisory and management
+reviews of replacement refund checks are performed as required, including
+those noted above.
+11
+
+--- Page 14 ---
+Data Matches
+Finding 3
+RAD did not ensure that current death records were obtained and loaded
+into the Comptroller of Maryland’s automated State of Maryland Tax
+(SMART) system, resulting in potential improper tax returns and refunds
+going undetected.
+Analysis
+RAD lacked assurance that monthly death records used to help identify improper
+tax returns and refunds had been obtained and loaded into SMART, and our
+review disclosed five months in 2020 for which this data was not obtained. RAD
+obtained national death records from the National Technical Information Service
+on a monthly basis and uploaded them into SMART to help identify potentially
+fraudulent or otherwise improper tax returns and refunds. Although RAD policy
+required supervisory personnel to verify that the monthly death records were
+received and uploaded, we found there was no documentation supporting that the
+verifications were performed during the audit period. For at least five months we
+determined that the verifications were not performed, which contributed to the
+five months of missing records remaining undetected.
+Specifically, we noted that the death records from May 2020 through September
+2020 had not been obtained and uploaded into SMART. RAD was not aware that
+the records were not obtained and uploaded (evidencing the lack of a verification)
+until we brought the matter to its attention in September 2022. The failure to
+obtain the death records is significant because during tax year 2021, the death
+matches resulted in tax returns claiming refunds of approximately $18.4 million
+being suspended for further investigation.
+Recommendation 3
+We recommend that RAD
+a. ensure that required supervisory reviews of monthly data uploads are
+performed and documented, and
+b. obtain the missing death records and match the data to tax returns and
+refunds claimed since May 2020 to identify potentially improper returns
+and claims.
+12
+
+--- Page 15 ---
+Data Analytics for Fraud Detection
+Finding 4 (Policy Issue)
+RAD did not determine the cost benefit of expanding the use of its existing
+individual taxpayer data analytics vendor to help identify corporate and
+business tax fraud.
+Analysis
+RAD did not determine the cost benefit of using its data analytics vendor to help
+identify fraud beyond individual tax returns such as corporate and business
+returns. RAD contracted with a vendor to assist with fraud detection using
+complex algorithms based on historical fraudulent return information and
+continual machine learning of individual tax returns deemed fraudulent.
+Individual tax returns with high indicators of fraud based on these analytics are
+reviewed by RAD for propriety. During calendar year 2021, the contractor
+identified approximately 78,000 individual tax returns warranting further
+investigation, of which 6,499 associated with $13.2 million in refunds were
+determined by RAD to be potentially fraudulent.
+Our review disclosed that RAD did not consider using the vendor for other types
+of returns such as corporate, business, pass-through entities, and employer
+withholding tax; although we confirmed that the vendor provides such services to
+other states. During fiscal year 2021, State tax revenues related to these tax
+sources totaled approximately $18.1 billion. RAD management advised us that
+they did not use the vendor for these returns because it would cost more, but could
+not provide us with a cost benefit analysis to support its decision. Given the
+results the vendor has had with individual returns, we believe RAD should
+determine the cost benefit of using data analytics for other tax returns.
+Recommendation 4
+We recommend that RAD determine the cost benefit of expanding its current
+use of its data analytics for other types of tax returns.
+13
+
+--- Page 16 ---
+SMART
+We determined that Finding 5 related to “cybersecurity”, as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with COM’s responses, have been redacted from this
+report copy.
+Finding 5
+Redacted cybersecurity-related finding.
+COMPASS
+We determined that Finding 6 related to “cybersecurity”, as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with COM’s responses, have been redacted from this
+report copy.
+Finding 6
+Redacted cybersecurity-related finding.
+Cash Receipts
+Finding 7
+RAD had not established sufficient controls over checks for tax payments
+received in the mail at its Annapolis location, as certain documentation used
+to account for batches of checks processed was not retained prior to May
+2021.
+Analysis
+Critical documentation used to maintain accountability and control over checks
+received by RAD through the mail at its Annapolis location, which constituted
+most of the tax payments received by RAD, were either not retained prior to May
+2021 or were not reviewed for propriety. Consequently, there was an increased
+14
+
+--- Page 17 ---
+risk that checks could be misappropriated without detection. According to RAD’s
+records, Annapolis mail collections totaled approximately $5.6 billion during
+fiscal year 2021, which accounted for the majority of payments received by RAD.
+Our review disclosed that RAD did not retain batch control sheets used to provide
+accountability and control over batches of tax returns and checks received in the
+mail prior to their initial recordation via scanning into RAD’s imaging system. A
+similar condition was commented upon in our preceding audit report. In response
+to that report, RAD stated that batch control sheets would be retained starting in
+January 2020, but RAD did not begin retaining the documents until May 2021.
+Furthermore, even when batch control sheets were retained, subsequent
+adjustments to the control sheets were made without explanation. Our review of
+42 batch control sheets maintained from July 2021 through September 2021
+disclosed that 17 batches had a total of 282 adjustments, such as the removal of
+checks, without any explanation or support.
+Batch control sheets are uniquely numbered and provide documentation of the
+number and type of tax returns within each batch and whether the batch included
+associated check receipts. The batched documents and checks were transferred
+among personnel within several RAD units for processing and the batch control
+sheets were initialed by each RAD employee until final scanning. Accordingly,
+the batch control sheets provide a record of the transfer of the documents and
+checks among RAD personnel and provide assurance that the collections
+remained intact until recordation into SMART occurs via the scanning of the
+checks. In addition, as each scanned tax return is associated with the batch
+control number in RAD’s records, the batch control sheet provides a future
+reference if needed for taxpayer inquiries.
+The State Government Article of the Annotated Code of Maryland, Section 10-
+615 requires State agencies, including RAD, to retain critical documentation
+relating to their financial operations or collection of State taxes until required and
+authorized audits have been completed.
+Recommendation 7
+We recommend that RAD
+a. retain copies of batch control sheets to provide accountability and control
+over tax returns and collections prior to recordation (repeat), and
+b. retain support for any adjustments made to batch control sheets.
+15
+
+--- Page 18 ---
+Information Systems Security and Control
+We determined that the Information Systems Security and Control section,
+including Findings 8 and 9 related to “cybersecurity”, as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore are subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following findings, including the analysis, related
+recommendations, along with COM’s responses, have been redacted from this
+report copy.
+Finding 8
+Redacted cybersecurity-related finding.
+Finding 9
+Redacted cybersecurity-related finding.
+16
+
+--- Page 19 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Comptroller of Maryland
+(COM) – Revenue Administration Division (RAD), for the period beginning
+September 21, 2018 and ending September 30, 2021. The audit was conducted in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine RAD’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included the processing, evaluating, verifying, and
+recording of tax data as reported by taxpayers and other parties; the collection of
+tax receipts; the issuance of tax refunds; and information technology systems. We
+also determined the status of the findings contained in our preceding audit report.
+Our audit did not include certain support services provided to RAD by COM –
+Office of the Comptroller. These support services (such as procurement,
+processing of invoices, maintenance of accounting records, human resources, and
+related fiscal functions) are included within the scope of our audit of the Office of
+the Comptroller. In addition, our audit did not include certain support services
+provided to RAD by COM – Central Payroll Bureau. These support services
+(payroll processing) are included within the scope of our audit of the Central
+Payroll Bureau. Furthermore, our audit did not include certain support services
+provided to RAD by COM – Information Technology Division related to the
+monitoring of information technology equipment and services and the operation
+of the Annapolis Data Center. The operation of the Annapolis Data Center
+includes the development and maintenance of RAD applications and maintenance
+of the operating system and security software environment. These support
+services are included in the scope of our audit of the Information Technology
+Division.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+17
+
+--- Page 20 ---
+procedures were generally focused on the transactions occurring during our audit
+period of September 21, 2018 to September 30, 2021, but may include
+transactions before or after this period as we considered necessary to achieve our
+audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of RAD’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue data). The extracts
+are performed as part of ongoing internal processes established by the Office of
+Legislative Audits and were subject to various tests to determine data reliability.
+We determined that the data extracted from this source were sufficiently reliable
+for the purposes the data were used during this audit. We also extracted data from
+RAD’s systems for the purpose of testing certain areas, such as refund activity.
+We performed various tests of the relevant data and determined that the data were
+sufficiently reliable for the purposes the data were used during the audit. Finally,
+we performed other auditing procedures that we considered necessary to achieve
+our audit objectives. The reliability of data used in this report for background or
+informational purposes was not assessed.
+RAD’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to RAD, were
+considered by us during the course of this audit.
+18
+
+--- Page 21 ---
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect RAD’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Finally, this report
+includes a finding, which is identified as a “Policy Issue”. Such findings
+represent significant operational or financial-related issues for which formal
+criteria may not necessarily exist, and for which management has significant
+discretion in addressing, but the recommendation represents prudent and or
+practical actions, which we believe should be implemented by the agency to
+improve outcomes. Other less significant findings were communicated to RAD
+that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+19
+
+--- Page 22 ---
+communicated to RAD and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+The response from COM, on behalf of RAD, to our findings and
+recommendations is included as an appendix to this report. Depending on the
+version of the audit report, responses to any cybersecurity findings may be
+redacted in accordance with State law. As prescribed in the State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise COM
+regarding the results of our review of its response.
+20
+
+--- Page 23 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Comptroller of Maryland Divisions
+As of October 2023
+Most Recent
+Name of Audit Areas Covered
+Report Date
+ Management of the State payroll system
+ Non-budgeted funds maintained for payroll
+deductions
+10/05/23
+1 Central Payroll Bureau  Critical information systems
+ Support services to other units of the
+Comptroller for processing payroll
+timekeeping records
+ Procurement
+ Equipment
+Information Technology  Support services to other units of the
+2 Division (Fiscal Comptroller for monitoring information 02/02/22
+Operations) technology related services and maintaining
+information technology equipment inventory
+records
+ Confiscated Property
+Field Enforcement
+3  Business licenses 09/07/21
+Bureau
+ Routine Inspections
+ Investigations, collection of delinquent taxes,
+and other taxpayer compliance activities
+related to individual income taxes
+ Audits and investigations, collection of
+4 Compliance Division 12/18/20
+delinquent taxes, and other taxpayer
+compliance activities related to business taxes
+ Identification, collection, and distribution of
+unclaimed property
+ State agency vendor payment processing
+General Accounting  Vendor table maintenance
+5 11/09/20
+Division  State agency working funds
+ Corporate purchasing card program
+Information Technology  Maintenance and monitoring of mainframe
+6 Division – Annapolis operating system, various security functions, 07/27/20
+Data Center Operations and critical databases
+ Capital grants monitoring
+ Procurement and disbursements
+Office of the
+ Corporate Purchasing cards
+Comptroller
+7  Support services to other divisions of the 08/29/19
+Bureau of Revenue
+Comptroller, such as processing invoices,
+Estimates
+maintenance of accounting records, human
+resources, and related fiscal functions
+21
+
+--- Page 24 ---
+Exhibit 2
+Compass Release Schedule
+22
+
+--- Page 25 ---
+APPENDIX
+Brooke E. Lierman
+Comptroller
+Andrew Schaufele
+Chief Deputy Comptroller
+January 12, 2024
+Mr. Gregory A. Hook, CPA, Legislative Auditor
+300 West Preston Street
+Room 1202
+Baltimore, Maryland 21201
+Dear Mr. Hook:
+Enclosed is the Comptroller’s response to your report on the Revenue Administration
+Division for the period beginning September 21, 2018 and ending September 30, 2021.
+We have carefully reviewed each finding, and we believe that our responses fully
+address each recommendation contained in the report. Should you need additional
+information or clarification, please contact David Hildebrand, Director, Office of Risk
+Management by email at dhildebr@marylandtaxes.gov or by telephone at 410-260-7768.
+The Comptroller appreciates your objective appraisal of our operations and your
+recommendations for continuous improvement and commends your auditors for their
+professionalism and thorough review.
+Sincerely,
+Andrew M. Schaufele
+Chief Deputy Comptroller
+Robert R. Scheerer
+Director, Revenue Administration Division
+Cc: Honorable Brooke Elizabeth Lierman, Comptroller
+80 Calvert Street, Annapolis, Maryland 214040466 410-260-7310 1-800-552-3941 (MD) www.marylandtaxes.gov
+Fax: 443-681-1065 MRS 711 (MD) TTY 410-260-7157 aschaufele@marylandtaxes.gov
+
+--- Page 26 ---
+Comptroller of Maryland
+Revenue Administration Division
+Agency Response Form
+Taxpayer Refunds
+Finding 1
+The Revenue Administration Division (RAD) did not conduct all required reviews of
+declaration credits (tax overpayments that taxpayers chose to apply to the next tax year)
+and the reviews performed were not sufficiently comprehensive.
+We recommend that RAD
+a. conduct required reviews of declaration credits for individual (repeat), corporate, and
+fiduciary tax returns; and
+b. ensure that the reviews include a review of critical supporting documentation, such as
+documentation of a taxpayer’s withholdings.
+Agency Response
+Analysis
+Please provide Point of clarification, the terminology is “over credit” not a declaration
+additional comments as credit
+deemed necessary.
+Recommendation 1a Agree Estimated Completion Date: 01/2024
+Please provide details of RAD will conduct the reviews in accordance with procedures
+corrective action or established that utilizes a query from the Data Warehouse
+explain disagreement.
+Recommendation 1b Agree Estimated Completion Date: 07/2022
+Please provide details of RAD will continue to rely on W-2 information loaded into the system
+corrective action or when businesses submit their annual MW-508 reconciliation each year.
+explain disagreement. We perform a cursory review of this process to verify accuracy
+Page 1 of 8
+
+--- Page 27 ---
+Comptroller of Maryland
+Revenue Administration Division
+Agency Response Form
+Finding 2
+RAD did not ensure that refund replacement checks, which totaled $29.5 million during
+calendar year 2021, were reviewed by supervisory personnel as required by its policy.
+We recommend that RAD ensure that all supervisory and management reviews of
+replacement refund checks are performed as required, including those noted above.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2 Agree Estimated Completion Date: 06/30/22
+Please provide details of All reviews will be completed on refund replacement checks per
+corrective action or procedures. Calendar year review of 2021 items was completed in
+explain disagreement. June 2022.
+Page 2 of 8
+
+--- Page 28 ---
+Comptroller of Maryland
+Revenue Administration Division
+Agency Response Form
+Data Matches
+Finding 3
+RAD did not ensure that current death records were obtained and loaded into the
+Comptroller of Maryland’s automated State of Maryland Tax (SMART) system, resulting
+in potential improper tax returns and refunds going undetected.
+We recommend that RAD
+a. ensure that required supervisory reviews of monthly data uploads are performed and
+documented, and
+b. obtain the missing death records and match the data to tax returns and refunds
+claimed since May 2020 to identify potentially improper returns and claims.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3a Agree Estimated Completion Date: 05/23/2023
+Please provide details of Monthly uploads are now confirmed and documented by RAD’s Project
+corrective action or Management Office as an additional step in the procedure.
+explain disagreement.
+Recommendation 3b Agree Estimated Completion Date: 01/2024
+Please provide details of The Death Master File is uploaded monthly currently. We submitted a
+corrective action or request to obtain a cumulative file but have yet to receive a response.
+explain disagreement. Should we receive a response we will determine if there is a benefit to
+retroactively match the missing uploads from May 2020 through
+September 2020.
+Page 3 of 8
+
+--- Page 29 ---
+Comptroller of Maryland
+Revenue Administration Division
+Agency Response Form
+Data Analytics for Fraud Detection
+Finding 4 (Policy Issue)
+RAD did not determine the cost benefit of expanding the use of its existing individual
+taxpayer data analytics vendor to help identify corporate and business tax fraud.
+We recommend that RAD determine the cost benefit of expanding its current use of its
+data analytics for other types of tax returns.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4 Agree Estimated Completion Date: 06/2024
+Please provide details of The Comptroller of Maryland is recognized nationally as the pioneer of
+corrective action or implementing the fraud model for personal income tax and is intent on
+explain disagreement. identifying and preventing fraud across all tax types. We will work with
+the outside vendor to determine cost and approach, an expansion of the
+existing fraud detection system will require additional funding. It is
+important to note that, due to the strength of bad actors, additional
+funding goes beyond the development and implementation of the
+algorithm. Our best-in-call income tax model is still only correct 50% of
+the time, that means that staff must be available to adjudicate algorithm
+results, answer phone calls, process documentation and correspondence
+validating identity, and hear appeals. We strongly implore the State to
+support this initiative, but we also have to ensure that the total cost for
+implementation is provided.
+Page 4 of 8
+
+--- Page 30 ---
+Comptroller of Maryland
+Revenue Administration Division
+Agency Response Form
+SMART
+The Office of Legislative Audits (OLA) has determined that Finding 5 related to
+“cybersecurity”, as defined by the State Finance and Procurement Article, Section 3.5-301(b) of
+the Annotated Code of Maryland, and therefore is subject to redaction from the publicly
+available audit report in accordance with the State Government Article 2-1224(i). Although the
+specifics of the finding, including the analysis, related recommendation(s), along with COM’s
+responses, have been redacted from this report copy, COM’s responses indicated agreement with
+the finding and related recommendations.
+Finding 5
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 5 of 8
+
+--- Page 31 ---
+Comptroller of Maryland
+Revenue Administration Division
+Agency Response Form
+COMPASS
+OLA has determined that Finding 6 related to “cybersecurity”, as defined by the State Finance
+and Procurement Article, Section 3.5-301(b) of the Annotated Code of Maryland, and therefore
+is subject to redaction from the publicly available audit report in accordance with the State
+Government Article 2-1224(i). Although the specifics of the finding, including the analysis,
+related recommendation(s), along with COM’s responses, have been redacted from this report
+copy, COM’s responses indicated agreement with the finding and related recommendations.
+Finding 6
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 6 of 8
+
+--- Page 32 ---
+Comptroller of Maryland
+Revenue Administration Division
+Agency Response Form
+Cash Receipts
+Finding 7
+RAD had not established sufficient controls over checks for tax payments received in the
+mail at its Annapolis location, as certain documentation used to account for batches of
+checks processed was not retained prior to May 2021.
+We recommend that RAD
+a. retain copies of batch control sheets to provide accountability and control over tax
+returns and collections prior to recordation (repeat), and
+b. retain support for any adjustments made to batch control sheets.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 7a Agree Estimated Completion Date: 01/01/2023
+Please provide details of Batch control sheets are retained in accordance with internal procedures
+corrective action or
+explain disagreement.
+Recommendation 7b Agree Estimated Completion Date: 01/01/2023
+Please provide details of Documentation is retained to support adjustments to batch control sheets
+corrective action or in accordance with internal procedures.
+explain disagreement.
+Page 7 of 8
+
+--- Page 33 ---
+Comptroller of Maryland
+Revenue Administration Division
+Agency Response Form
+Information Systems Security and Control
+OLA has determined that the Information Systems Security and Control section, including
+Findings 8 and 9 related to “cybersecurity”, as defined by the State Finance and Procurement
+Article, Section 3.5-301(b) of the Annotated Code of Maryland, and therefore are subject to
+redaction from the publicly available audit report in accordance with the State Government
+Article 2-1224(i). Although the specifics of the following findings, including the analysis,
+related recommendations, along with COM’s responses, have been redacted from this report
+copy, COM’s responses indicated agreement with the findings and related recommendations.
+Finding 8
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 9
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 8 of 8
+
+--- Page 34 ---
+A T
+UDIT EAM
+Michael J. Murdzak, CPA
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+David R. Fahnestock, CPA
+Data Analytics Manager
+Nathan H. Suffin, CPA
+Senior Auditor
+Michael K. Bliss
+Eric Alexander, CPA, CISA
+Information Systems Senior Auditors
+Matthew P. Henry
+Oluwafemi E. Ogundolie
+Dianne P. Ramirez
+Yuvaraj N. Sharma
+Brian M. Webbert
+Staff Auditors
+Vickey K. Micah
+Charles O. Price
+Information Systems Staff Auditors
+Ian T. Pontius
+Data Analytics Unit Auditor
