@@ -1,0 +1,195 @@
+Title: Presentation to the Senate Education, Health, and Environmental Affairs Committee and the House Ways and Means Committee - State Board of Elections
+
+Related Report Dated 4/24/2017
+Date: 09/06/2017
+Type: Presentations to the Legislature
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a9daf31cc9d72387404dd15
+Extracted: 2025-06-20T00:02:56.869026
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Department of Legislative Services
+Office of Legislative Audits
+State Board of Elections
+(SBE)
+Report dated April 24, 2017
+Presentation to
+Senate Education, Health, and Environmental
+Affairs Committee and
+House Ways and Means Committee
+Stephen P. Jersey, CPA, CISA
+Adam J. Westover, CPA
+September 6, 2017
+
+--- Page 2 ---
+Department of Legislative Services
+Office of Legislative Audits
+Report Overview
+The audit report contained 8 findings, including 5
+Information Systems related findings, which are the
+subject of this presentation.
+Key Information Systems Related Findings
+ SBE did not ensure the accuracy of data recorded in
+the Statewide voter registration system
+(MDVOTERS) or whether related user access was
+appropriate.
+ SBE did not ensure that the third party who received
+personally identifiable information (PII) from
+MDVOTERS was properly securing PII.
+ SBE unnecessarily retained PII within the
+MDVOTERS database.
+ Certain voters who requested absentee ballots were
+not adequately authenticated.
+ A critical voting system was not backed up offsite
+and was not properly addressed in the SBE Disaster
+Recovery Plan.
+State Board of Elections
+Page 2
+
+--- Page 3 ---
+Department of Legislative Services
+Office of Legislative Audits
+Statewide Voter Registration (Finding 1)
+SBE did not have a comprehensive oversight process
+in place to ensure the accuracy of the data recorded
+in the Statewide voter registration system
+(MDVOTERS) and the appropriateness of related user
+access to the system.
+ SBE did not verify that local boards of election
+(LBE) properly investigated individuals appearing
+on periodic reports of possible ineligible voters and
+took appropriate corrective action. For example,
+the January 2016 report included 5,871 voters
+registered in Maryland who may be deceased.
+ SBE did not conduct any reviews of the propriety of
+user access granted to MDVOTERS by LBEs or
+verify that LBEs actually reviewed their personnel’s
+user access. For example, OLA identified 619
+usernames with access to MDVOTERS with no
+access activity for 6 months and 24 users with
+critical administrative rights, which had not been
+used for over a year.
+State Board of Elections
+Page 3
+
+--- Page 4 ---
+Department of Legislative Services
+Office of Legislative Audits
+Statewide Voter Registration (Finding 2)
+SBE did not ensure the personally identifiable
+information (PII) from MDVOTERS provided to and in
+the custody of a third party entity was safeguarded.
+ Under a multi-state compact, SBE provides
+certain Maryland voter registration information,
+including name, date of birth, drivers license
+number and last four digits of the social security
+number (SSN), to the nonprofit Electronic
+Registration Information Center (ERIC) for the
+identification of potential ineligible voters.
+ State law defines name and a drivers license
+number as PII, which is commonly sought by
+criminals for use in identify theft.
+ ERIC uses a third-party contractor to store and
+process the SBE-submitted information.
+ SBE did not require independent reviews be
+performed of ERIC or its contractor to ensure the
+Maryland voter data provided to these parties
+was securely maintained.
+State Board of Elections
+Page 4
+
+--- Page 5 ---
+Department of Legislative Services
+Office of Legislative Audits
+Statewide Voter Registration (Finding 3)
+SBE unnecessarily retained certain PII within its
+MDVOTERS database.
+ MDVOTERS contained names and the full SSNs
+for 592,236 out of 4,100,000 voters even
+though the full SSN was not necessary for voter
+registration purposes.
+ There are several methods for Maryland citizens
+to register to vote, including the use of a hard
+copy voter registration form, which requires that
+voters provide a Maryland driver’s license
+number or Maryland Motor Vehicle Administration
+issued ID number, or the last four digits of their
+SSN.
+ SBE advised that some voters using the hard
+copy form provided their full SSN to SBE, which
+was recorded in MDVOTERS even though it was
+not required or necessary.
+State Board of Elections
+Page 5
+
+--- Page 6 ---
+Department of Legislative Services
+Office of Legislative Audits
+Absentee Ballots (Finding 4)
+SBE did not adequately authenticate certain voters
+who requested absentee ballots during primary and
+general elections.
+ Certain voters were only required to authenticate
+themselves by providing information (first and
+last name, date of birth, and address) that is
+publicly available.
+ For those voters SBE lacked assurance that the
+person requesting the absentee ballot, and
+completing and submitting the absentee ballot, is
+the registered voter that they purported to be.
+ Therefore, the risk exists that an individual or
+group could submit fraudulent absentee ballots
+in an attempt to influence election results.
+State Board of Elections
+Page 6
+
+--- Page 7 ---
+Department of Legislative Services
+Office of Legislative Audits
+File Backup and Disaster Recovery (Finding 5)
+The Electronic Pollbook Interchange and Conversion
+(EPIC) system was not backed up offsite when in use
+during voting periods and was not properly addressed
+in the SBE Disaster Recovery Plan (DRP).
+ Although the EPIC database was backed up to a
+server that resided at the same location as the
+server hosting the production EPIC database, it
+was not backed up offsite.
+ We also noted that the SBE DRP did not
+specifically identify how the communication link
+between the facility hosting the EPIC production
+server and the early voting sites could be readily
+re-created in the event of a disaster at the hosting
+facility
+ The EPIC system is used to identify citizens who
+have voted in a particular election (including early
+voting) and is also used for the same-day voter
+registration process during early voting.
+State Board of Elections
+Page 7
+
+--- Page 8 ---
+Department of Legislative Services
+Office of Legislative Audits
+Conclusion
+SBE should
+• ensure reports of potential ineligible voters are
+investigated and appropriate action is taken,
+• require periodic independent reviews (such as
+AICPA recommended SOC 2 Type 2 reviews) for
+ERIC and contractors that host PPI and perform
+timely reviews of the related reports to ensure any
+weaknesses noted are corrected,
+• amend MDVOTERS to only accept the last four
+SSN digits and remove all full SSNs currently in
+MDVOTERS (retaining the last four digits),
+• strengthen the authentication process for voters
+requesting absentee ballots by requiring non-
+public information and validating this information,
+and
+• backup the EPIC database on a daily basis to an
+offsite location and update its DRP to properly
+address the EPIC server and its communications
+with SBE early voting sites.
+State Board of Elections
+Page 8

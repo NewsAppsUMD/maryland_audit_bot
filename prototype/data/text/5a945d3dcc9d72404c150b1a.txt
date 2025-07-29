@@ -1,0 +1,94 @@
+Title: Review of the Actions Taken by the Department of Labor, Licensing and Regulation to Resolve Repeat Audit Findings in Response to the April 2013 Joint Chairmen's Report
+Date: 03/27/2014
+Type: Special Reports and Letters
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a945d3dcc9d72404c150b1a
+Extracted: 2025-06-18T11:14:23.861326
+--------------------------------------------------------------------------------
+
+--- Page 3 ---
+Exhibit 1 to March 26, 2014 Letter to Joint Chairmen
+Page 1 of 2
+Status of Repeat Findings in OLA’s October 4, 2011 Audit Report on the
+Department of Labor, Licensing and Regulation – Office of the Secretary,
+Division of Administration, and the Division of Workforce Development and
+Adult Learning
+Status Based on
+Prior Recommendations Pertaining to Repeat Findings
+OLA Review
+Information Systems Security and Control
+1a. We recommend that DLLR encrypt unemployment insurance
+claim records in transit and on the DLLR network in
+Corrected
+compliance with the Department of Information Technology’s
+Information Security Policy.
+1b. We recommend that DLLR allow each payroll service provider
+Corrected
+access to only its unemployment insurance claim information.
+2a. We recommend that DLLR use separate credit card service
+provider accounts for credit card payment processing and Corrected
+service management.
+2b. We recommend that DLLR restrict the use of its credit card
+service provider service management account to only Corrected
+authorized Internet addresses.
+2c. We recommend that DLLR either encrypt the credit card
+provider account name and related password on the web server Corrected
+or remove them from the web server.
+2e. We recommend that DLLR either encrypt the plain text log
+files containing new licensee personal information or remove Corrected
+the log files from the web server.
+2f. We recommend that DLLR limit the electronic licensing web
+server account’s access to critical files to only those files Corrected
+needed to perform required operations.
+3a. We recommend that DLLR perform weekly, documented
+reviews of web server log files, expanded to include unusual Corrected
+events and trends in activity.
+4. We recommend that DLLR comply with Department of
+Information Technology’s Information Security Policy and
+establish adequate access, account, password, and monitoring Not Resolved
+controls over the aforementioned professional licensing
+application server and database.
+Shaded recommendations are more fully described in Exhibit 2.
+
+--- Page 4 ---
+Exhibit 1 to March 26, 2014 Letter to Joint Chairmen
+Page 2 of 2
+Status of Repeat Findings in OLA’s October 4, 2011 Audit Report on the
+Department of Labor, Licensing and Regulation – Office of the Secretary,
+Division of Administration, and the Division of Workforce Development and
+Adult Learning
+Status Based on
+Prior Recommendations Pertaining to Repeat Findings
+OLA Review
+Equipment
+9b. We recommend that DLLR establish and maintain an
+independent control account, periodically document a
+Corrected
+reconciliation of the account to the related detail records, and
+investigate any discrepancies.
+9e. We recommend that DLLR investigate and resolve
+discrepancies between the inventory results and the detail
+records, including the reporting of missing or stolen items to Corrected
+the Department of General Services and the removal of the
+items from the detail records, as necessary.
+
+--- Page 5 ---
+Exhibit 2 to March 26, 2014 Letter to Joint Chairmen
+OLA’s Findings Regarding Repeat Findings That Had Not Been Resolved
+Information Systems Security and Control
+Prior Report Recommendation – Finding 4
+We recommend that DLLR comply with Department of Information Technology’s
+Information Security Policy and establish adequate access, account, password, and
+monitoring controls over the aforementioned professional licensing application server and
+database (repeat).
+Status: Not Resolved
+Account, password, and certain access controls over the professional licensing application server
+were proper and were in accordance with the Department of Information Technology’s
+Information Security Policy. In addition, DLLR was logging security-related events pertaining
+to the professional licensing application server; however, DLLR was not reviewing the logged
+items for propriety. Furthermore, for the critical database cited (Maryland Workforce
+Exchange), although this database was now being maintained by a service provider, key system
+security and audit-related events were not being monitored even though the ability to perform
+such monitoring existed. Documentation still did not exist to support DLLR’s or the service
+provider’s review and investigation of the database server’s failed logon attempts. Finally, for
+the professional licensing application server, two programmers continued to have capabilities
+which provided them with unnecessary access to all resources (for example, files) on the server.

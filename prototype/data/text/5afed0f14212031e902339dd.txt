@@ -1,0 +1,656 @@
+Title: Maryland Department of the Environment
+Date: 05/14/2018
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5afed0f14212031e902339dd
+Extracted: 2025-06-18T22:15:17.373925
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of the Environment
+August 2022
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses from this
+public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Mark S. Chang (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Nicholas P. Charles II
+Senator George C. Edwards Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Trent M. Kittleman
+Senator Cheryl C. Kagan Delegate Carol L. Krimm
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Elizabeth G. Proctor
+Senator Craig J. Zucker Delegate Geraldine Valentino-Smith
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+August 3, 2022
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Mark S. Chang, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Department of the
+Environment (MDE) for the period beginning December 20, 2016 and ending
+April 30, 2021. MDE is responsible for protecting and restoring the quality of the
+State’s land, air, and water resources, and safeguarding the public from health
+risks associated with pollution.
+Our audit disclosed that MDE did not always use available system reports to
+ensure that all registered rental units had current lead inspections as required. Our
+data analysis of MDE’s Online Lead Rental Registry (OLRR) compared to
+MDE’s lead inspection certification database disclosed that 973 rental units of the
+25,054 registered rental units with changed occupancy did not have a lead
+inspection recorded in OLRR or in the lead inspection certification database.
+Consequently, there is no assurance that all required inspections were performed
+or properly recorded in MDE records. In addition, MDE did not verify the
+propriety of charges related to technology enterprise services received from the
+Department of Information Technology valued at $5.1 million for fiscal years
+2020 and 2021.
+Significant risks existed within MDE’s computer network. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted these findings from this audit
+report. Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+
+--- Page 4 ---
+the State Finance and Procurement Article, Section 3A-301(b), and using our
+professional judgment we have determined that the redacted findings fall under
+the referenced definition. The specifics of the cybersecurity findings were
+previously communicated to MDE as well as those parties responsible for acting
+on our recommendations.
+Finally, our audit also included a review to determine the status of the seven
+findings contained in our preceding audit report. For the non-cybersecurity-
+related findings, we determined that MDE satisfactorily addressed all four
+findings.
+MDE’s response to this audit is included as an appendix to this report. We
+reviewed the response to our findings and recommendations, and have concluded
+that the corrective actions identified are sufficient to address all audit issues. In
+accordance with our policy, we have edited MDE’s response to remove any
+vendor names or products mentioned by MDE in this document. Consistent with
+the requirements of State law, we have redacted the elements of MDE’s response
+related to cybersecurity audit findings.
+We wish to acknowledge the cooperation extended to us during the audit by MDE
+and its willingness to address the audit issues and implement appropriate
+corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Financial Statement Audits and Single Audits– Maryland Water Quality 5
+Financing Administration
+Status of Findings From Preceding Audit Report 6
+Findings and Recommendations 7
+Lead Inspections
+Finding 1 – The Maryland Department of the Environment (MDE) did 7
+not always use available system reports to ensure that all registered
+rental units had a current lead inspection certificate as required.
+Disbursements
+Finding 2 – MDE did not verify the propriety of charges related to 8
+technology enterprise services received from the Department of
+Information Technology during fiscal years 2020 and 2021 valued at
+$5.1 million.
+Information Systems Security and Control
+Finding 3 – Redacted cybersecurity-related finding 10
+Finding 4 – Redacted cybersecurity-related finding 10
+Finding 5 – Redacted cybersecurity-related finding 10
+Audit Scope, Objectives, and Methodology 11
+Agency Response Appendix
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+The Maryland Department of the Environment (MDE) is responsible for
+protecting and restoring the quality of the State's land, air, and water resources,
+and safeguarding the public from health risks associated with pollution. MDE's
+duties and responsibilities include enforcing applicable laws and regulations,
+conducting long-term planning and research, and assisting industries and
+communities in their efforts to handle pollution, waste disposal, and emergency
+spills of waste or oil. MDE consists of the following units:
+ Office of the Secretary
+ Coordinating Offices (including the Maryland Water Quality Financing
+Administration1)
+ Operational Services Administration
+ Water and Science Administration
+ Land and Materials Administration
+ Air and Radiation Administration
+According to the State's
+records, during fiscal year
+2021, MDE's operating
+and capital expenditures
+totaled approximately
+$449.4 million (See
+Figure 1). These
+expenditures were funded
+by general funds totaling
+approximately $33.5
+million, special funds
+totaling approximately
+$314.4 million, federal
+funds totaling
+approximately $83.1
+million, and reimbursable
+funds totaling
+approximately $18.4
+million.
+1 The Maryland Water Quality Financing Administration administers the Water Quality and
+Drinking Water Revolving Loan Funds and the Bay Restoration Fund.
+4
+
+--- Page 7 ---
+MDE's capital expenditures primarily related to its Water Quality and Drinking
+Water Revolving Loan Funds and the Bay Restoration Fund; these capital
+expenditures totaled approximately $191.3 million and $90.0 million,
+respectively.
+Financial Statement Audits and Single Audits – Maryland Water
+Quality Financing Administration
+MDE engaged an independent accounting firm to perform audits of the Maryland
+Water Quality Financing Administration's financial statements of the Water
+Quality and Drinking Water Revolving Loan Funds and the Bay Restoration Fund
+for the fiscal years ended June 30, 2018, 2019, 2020, and 2021. In the related
+audit reports, the firm stated that the Administration's financial statements for
+these Funds presented fairly, in all material respects, the financial position of the
+Administration and its changes in financial position and its cash flows for the
+years then ended in accordance with the accounting principles generally accepted
+in the United States of America.
+The accounting firm also conducts the Single Audit of the Maryland Water
+Quality Financing Administration federal grant programs. The Single Audit is
+intended to provide assurance to the federal government that adequate internal
+controls are in place, and that the audited entity is generally in compliance with
+certain program requirements. In the related reports for the fiscal years ended
+June 30, 2018, 2019, 2020, and 2021, the firm stated that the Administration
+complied, in all material respects, with the types of compliance requirements that
+could have a direct and material effect on each of its major federal programs.
+According to the financial statements, as of June 30, 2021, the Maryland Water
+Quality Financing Administration's net position totaled approximately $1.83
+billion.
+The Maryland Water Quality Financing Administration provides a combination of
+federal and State funds for low-interest loans to local jurisdictions and private
+entities throughout the State for drinking water and water quality capital projects.
+These projects include upgrades and expansions to wastewater treatment plants
+and pump stations, and creation of storm water management facilities.
+Additionally, the Administration provides Bay Restoration Fund grants for
+enhanced nutrient removal upgrades to existing wastewater facilities, for sewer
+infrastructure rehabilitation, and for septic system upgrades.
+5
+
+--- Page 8 ---
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the seven findings
+contained in our preceding audit report dated May 14, 2018. As disclosed in
+Figure 2, for the non-cybersecurity-related findings, we determined that MDE
+satisfactorily addressed all four of these findings.
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+MDE used interagency agreements with a college to augment
+its staff, allowing it to avoid using competitive procurement
+Finding 1 Not repeated
+processes or budgeted positions. MDE did not ensure the rates
+for these services were reasonable.
+MDE did not establish a sufficient process to ensure that
+owners of affected lead paint properties had required
+Finding 2 inspection certificates. We identified 10,832 registered rental Not repeated
+units without inspection certificates that MDE had not
+investigated.
+Inspections of certain construction sites were not performed as
+required by State regulations, and MDE lacked a formal plan
+Finding 3 Not repeated
+for inspecting all sites. Only 1,033 of 5,942 sites were
+inspected during fiscal year 2016.
+MDE did not always retain documentation to support penalties
+Finding 4 assessed against construction contractors and to evidence Not repeated
+supervisory approval.
+Eleven contractors had unnecessary network-level access to the
+Finding 5 Status Redacted2
+entire MDE internal network.
+Malware protection was not sufficient to provide MDE with
+Finding 6 Status Redacted
+adequate assurance that its computers were properly protected.
+A critical database and numerous servers were running on
+Finding 7 Status Redacted
+outdated software.
+2 Specific information on cybersecurity findings has been redacted from this publicly available
+audit report in accordance with State Government Article, Section 2-1224(i) of the Annotated
+Code of Maryland.
+6
+
+--- Page 9 ---
+Findings and Recommendations
+Lead Inspections
+Finding 1
+The Maryland Department of the Environment (MDE) did not always use
+available system reports to ensure that all registered rental units had a
+current lead inspection certificate as required.
+Analysis
+MDE did not always use available system reports to ensure that all registered
+rental units had a current lead inspection certificate as required. We obtained a
+report from MDE’s Online Lead Rental Registration system (OLRR) as of
+October 29, 2021, for all active registered rental units through April 30, 2021,
+which we deemed reliable for our purposes. The rental units recorded on this
+system, should represent the known population of rental units subject to lead
+inspections, which are recorded by MDE in the system. However, the inspections
+noted in OLRR are not the official record for MDE lead inspection purposes; as
+the official record is the separately maintained lead inspection certification
+database. Our review of the OLRR report identified 25,054 rental units built prior
+to 1978 that were newly registered during our audit period and that also had a
+reported change in occupancy after December 2016. We compared this report to
+a report of certificates recorded in the lead inspection certification database and
+noted that for 973 of the 25,054 rental units registered during our audit period
+with a reported change in occupancy there was no inspection certificate recorded
+in either the OLRR or the lead inspection certification database. Consequently,
+there is no assurance that all required inspections were performed or properly
+recorded in MDE’s records. We selected 10 of these rental units and determined
+that MDE did not investigate 4 units to determine whether an inspection was
+required or had been performed.
+While not all registered rental units require an owner to have an inspection
+certificate (for example, unoccupied properties), MDE should investigate
+registered rental units with a change in occupancy to determine if an inspection
+was required. During our prior audit we noted approximately 10,832 units in the
+OLRR did not have any inspection certificates recorded in the lead inspection
+certification database. While MDE has significantly reduced the number of
+missing inspections, given the importance of this potential health-related issue, we
+believe that additional effort is both appropriate and necessary to ensure all
+required lead inspections are received.
+7
+
+--- Page 10 ---
+State law requires that an owner of an affected property (based on year of
+construction) to have the property inspected at each change in occupancy prior to
+new tenancy to verify that risk reduction standards have been satisfied. State law
+further allows for penalties, not to exceed $500 per day, for violations of these
+provisions and procedures.
+Recommendation 1
+We recommend that MDE use available reports to identify missing
+inspections and take appropriate corrective action.
+Disbursements
+Finding 2
+MDE did not verify the propriety of charges related to technology enterprise
+services received from the Department of Information Technology (DoIT)
+during fiscal years 2020 and 2021, which were valued at $5.1 million.
+Analysis
+MDE did not verify the propriety of charges related technology enterprise
+services received from DoIT during fiscal years 2020 and 2021, which were
+valued at $2.5 million and $2.6 million, respectively. At the beginning of fiscal
+year 2020, DoIT transitioned to a cost allocation model for technology enterprise
+services provided to State agencies, including MDE. Under this model, DoIT
+submitted an invoice at the beginning of each fiscal year that included a cost
+allocation covering the services it planned to provide to MDE during fiscal years
+2020 and 2021, which MDE was to pay in four equal quarterly payments. The
+invoice specified the general categories of work to be performed. For example,
+the annual invoice for fiscal year 2021 included end user support services totaling
+$857,000 for 1,159 devices, $300,000 for access to the State’s Financial
+Management Information System (FMIS) for 193 users, and $72,000 for
+connection to the State’s fiber network (network Maryland).
+Invoices provided to MDE from DoIT lacked supporting documentation to
+substantiate the services provided. For example, based on our review of DoIT’s
+user access charge for FMIS, we determined that MDE was unable to readily
+determine the reasonableness of the amount charged, which had increased from
+$95,000 in fiscal year 2020 to $300,000 in fiscal year 2021 (an increase of
+$205,000 or about 216 percent). MDE did not verify the accuracy of the number
+of devices or users billed for service charges or the extent to which services were
+provided. MDE also could not determine the reasonableness of other charges,
+8
+
+--- Page 11 ---
+such as how the $72,000 cost for connection to the State’s fiber network was
+determined based on connection speed and related equipment.
+The aforementioned conditions occurred, in part, because MDE and DoIT did not
+execute a memorandum of understanding (MOU). A MOU would clarify DoIT’s
+responsibilities over information technology support services performed,
+remaining technology responsibilities at MDE, and how the cost for these services
+should be calculated, supported, and invoiced. In our most recent DoIT audit
+report, dated May 1, 2020, we recommended that DoIT enter into MOUs with
+State agencies that receive technology enterprise services. DoIT agreed with the
+recommendation and stated that its staff would work with agencies to execute
+MOUs. According to MDE management personnel, DoIT provided a final draft
+MOU in November 2020 for MDE to sign. As of February 2022, MDE advised
+us that it had not signed the MOU and it was in the process of negotiating the
+terms of the MOU with DoIT.
+Recommendation 2
+We recommend that MDE
+a. finalize a MOU with DoIT that clarifies DoIT’s responsibilities over
+information technology support services performed, remaining
+technology responsibilities at MDE, and how the cost for these services
+should be calculated, supported, and invoiced;
+b. ensure all charges invoiced related to technology enterprise services
+received are proper, including those noted above; and
+c. recover amounts determined to have been billed inappropriately, if any.
+Information Systems Security and Control
+MDE’s information technology (IT) operations involved a combination of internal
+MDE support services with additional separate support provided by DoIT. MDE
+personnel supported multiple computer applications and databases, including the
+software for the comprehensive environmental tracking system, all of which
+operated on DoIT supported computer servers. DoIT also provided the following
+separate IT support services functions for MDE:
+ network firewalls and IT security services (such as firewall and intrusion
+detection prevention systems operations and maintenance),
+ workstation management, and
+ hardware and software support (including malware prevention procedures).
+9
+
+--- Page 12 ---
+DoIT operates a Statewide network for MDE that connects MDE’s local offices
+and the MDE headquarters. The Statewide network provides MDE users access
+to various information technology services including the aforementioned
+applications, network services, and internet access.
+We determined that Findings 3 through 5 related to “cybersecurity”, as defined by
+the State Finance and Procurement Article, Section 3A-301(b) of the Annotated
+Code of Maryland, and therefore are subject to redaction from the publicly
+available audit report in accordance with the State Government Article 2-1224(i).
+Consequently, the specifics of the following findings, including the analysis,
+related recommendation(s), along with MDE’s responses, have been redacted
+from this report copy.
+Finding 3
+Redacted cybersecurity-related finding.
+Finding 4
+Redacted cybersecurity-related finding.
+Finding 5
+Redacted cybersecurity-related finding.
+10
+
+--- Page 13 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Department of the
+Environment (MDE) for the period beginning December 20, 2016 and ending
+April 30, 2021. The audit was conducted in accordance with generally accepted
+government auditing standards. Those standards require that we plan and perform
+the audit to obtain sufficient, appropriate evidence to provide a reasonable basis
+for our findings and conclusions based on our audit objectives. We believe that
+the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MDE’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included certain special funded programs (such as the Bay
+Restoration Fund Septic System and Wastewater grants); permitting, inspections,
+and violation assessments; procurements and disbursements; critical information
+systems; accounts receivable; and payroll. We also determined the status of the
+findings contained in our preceding audit report.
+MDE engaged an independent accounting firm to perform audits of the Maryland
+Water Quality Financing Administration’s financial statements. In related audit
+reports for the fiscal years ended June 30, 2018, 2019, 2020, and 2021, the firm
+stated that the Administration’s financial statements presented fairly, in all
+material respects, the financial position of the Administration and its changes in
+financial position and its cash flows for the years then ended in accordance with
+the accounting principles generally accepted in the United States of America.
+Furthermore, the accounting firm also conducts the Single Audit of the Maryland
+Water Quality Financing Administration federal grant programs. The Single
+Audit is intended to provide assurance to the federal government that adequate
+internal controls are in place, and the entity is generally in compliance with
+certain program requirements. In the related reports for the aforementioned fiscal
+years, the firm stated that the Administration complied, in all material respects,
+with the types of compliance requirements that could have a direct and material
+effect on each of its major federal programs. We have relied on the work of the
+independent accounting firm to provide audit coverage of certain aspects of the
+Maryland Water Quality Financing Administration’s operations (internal controls
+and testing for the Water Quality and Drinking Water Revolving Loan Funds
+11
+
+--- Page 14 ---
+programs). Our audit procedures in these areas were generally limited, therefore,
+to obtaining a sufficient basis for that reliance.
+Our audit did not include an evaluation of internal controls over compliance with
+federal laws and regulations for the remaining federal financial assistance
+programs not covered by the aforementioned Single Audit of the Maryland Water
+Quality Financing Administration and an assessment of MDE’s compliance with
+those laws and regulations. The State of Maryland engages an independent
+accounting firm to annually audit such programs administered by State agencies,
+including MDE.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of December 20, 2016 to April 30, 2021, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of MDE’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data). These extracts are
+performed as part of ongoing internal processes established by the Office of
+Legislative Audits and were subject to various tests to determine data reliability.
+We determined that the data extracted from these sources were sufficiently
+reliable for the purposes the data were used during this audit. We also extracted
+data from MDE’s permit, registration, and enforcement systems, and from the
+Statewide Personnel System (SPS) for the purpose of testing certain areas, such as
+permits, inspections and penalties processes, as well as certain payroll
+transactions. We performed various tests of the relevant data and determined that
+12
+
+--- Page 15 ---
+the data were sufficiently reliable for the purposes the data were used during the
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+MDE’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to MDE, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect MDE’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to MDE that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+13
+
+--- Page 16 ---
+The State Finance and Procurement Article, Section 3A-301(b), states that
+cybersecurity is defined as “means processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation”. Based on that definition, and
+in our professional judgement, we concluded that certain findings in this report
+fall under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to the MDE and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+MDE’s response to our findings and recommendations is included as an appendix
+to this report. Depending on the version of the audit report, responses to any
+cybersecurity findings may be redacted in accordance with State law. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise MDE regarding the results of our review of its
+response.
+14
+
+--- Page 17 ---
+APPENDIX
+July 19, 2022
+Gregory A. Hook, CPA
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Dear Mr. Hook:
+Please find enclosed the Maryland Department of the Environment’s (MDE) response to the draft
+legislative audit report dated July 2022. We would like to thank you and your staff for reviewing
+MDE’s business practices and providing constructive recommendations as a result of this audit.
+The professionalism conducted by your staff was greatly appreciated.
+Sincerely,
+Horacio Tablada
+Secretary
+Enclosure
+
+--- Page 18 ---
+Maryland Department of the Environment
+Agency Response Form
+Lead Inspections
+Finding 1
+The Maryland Department of the Environment (MDE) did not always use available system
+reports to ensure that all registered rental units had a current lead inspection certificate as
+required.
+We recommend that MDE use available reports to identify missing inspections and take
+appropriate corrective action.
+Agency Response
+Analysis
+Please provide No additional comments.
+additional comments as
+deemed necessary.
+Recommendation 1 Agree Estimated Completion Date: 10/30/2022
+Please provide details of MDE will review the 973 of 25,054 active rental units (from which
+corrective action or OLA selected the above-referenced rental units) that were registered
+explain disagreement. during the audit period to determine compliance status. Following this
+review, MDE will identify appropriate corrective action(s), which may
+include making any necessary adjustments to OLRR and LRCA
+functionality and developing additional procedures for manual
+compliance status checks.
+Page 1 of 3
+
+--- Page 19 ---
+Maryland Department of the Environment
+Agency Response Form
+Disbursements
+Finding 2
+MDE did not verify the propriety of charges related to technology enterprise services
+received from the Department of Information Technology (DoIT) during fiscal years 2020
+and 2021, which were valued at $5.1 million.
+We recommend that MDE
+a. finalize a MOU with DoIT that clarifies DoIT’s responsibilities over information
+technology support services performed, remaining technology responsibilities at MDE,
+and how the cost for these services should be calculated, supported, and invoiced;
+b. ensure all charges invoiced related to technology enterprise services received are
+proper, including those noted above; and
+c. recover amounts determined to have been billed inappropriately, if any.
+Agency Response
+Analysis
+Please provide No additional comments.
+additional comments as
+deemed necessary.
+Recommendation 2a Agree Estimated Completion Date: Done
+Please provide details of MDE agrees with the recommendation and has returned the MOU signed
+corrective action or by MDE to DoIT.
+explain disagreement.
+Recommendation 2b Agree Estimated Completion Date: Done
+Please provide details of MDE agrees with the recommendation and has returned the MOU signed
+corrective action or by MDE to DoIT. MDE has contacted DoIT about the discrepancies in
+explain disagreement. billing to ensure all charges invoiced related to technology enterprise
+services received are proper for each fiscal year.
+Recommendation 2c Agree Estimated Completion Date: Done
+Please provide details of MDE agrees with the recommendation and has returned the MOU signed
+corrective action or by MDE to DoIT. MDE will continue to work with DoIT to recover any
+explain disagreement. amount determined to have been inappropriately billed for each fiscal
+year.
+Page 2 of 3
+
+--- Page 20 ---
+Maryland Department of the Environment
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that Findings 3 through 5 related to
+“cybersecurity”, as defined by the State Finance and Procurement Article, Section 3A-301(b) of
+the Annotated Code of Maryland, and therefore are subject to redaction from the publicly
+available audit report in accordance with State Government Article 2-1224(i). Although the
+specifics of the findings, including the analysis, related recommendations, along with MDE’s
+responses, have been redacted from this report copy, MDE’s responses indicated agreement with
+the findings and related recommendations.
+Finding 3
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 4
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 5
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 3 of 3
+
+--- Page 21 ---
+A T
+UDIT EAM
+Bekana Edossa, CPA, CFE
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+Edward J. Welsh, CFE
+Lisa M. Beers, CFE
+Marina I. Bulatova
+Senior Auditors
+Eric Alexander, CPA, CISA
+Michael K. Bliss
+Information Systems Senior Auditors
+Keli R. Edmonds
+Thomas J. Kraemer
+Timothy Moon
+Yuvaraj N. Sharma
+Staff Auditors
+Dominick R. Abril
+Vickey K. Micah
+Charles O. Price
+Information Systems Staff Auditors

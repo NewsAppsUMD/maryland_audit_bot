@@ -1,0 +1,993 @@
+Title: Department of Budget and Management - Office of the Secretary and Other Units
+Date: 10/29/2019
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5dc2da43a1ce580e14a1331a
+Extracted: 2025-06-19T06:20:35.327231
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Department of Budget and Management
+Office of the Secretary and Other Units
+May 2023
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative
+Audits has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Nicholas P. Charles II
+Senator Katie Fry Hester Delegate Andrea Fletcher Harrison
+Senator Shelly L. Hettleman Delegate Steven C. Johnson
+Senator Cheryl C. Kagan Delegate Mary A. Lehman
+Senator Cory V. McCray Delegate David Moon
+Senator Justin D. Ready Delegate Julie Palakovich Carr
+Senator Bryan W. Simonaire Delegate Stephanie M. Smith
+Senator Craig J. Zucker Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+May 24, 2023
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Department of Budget and
+Management’s (DBM) Office of the Secretary, which includes the Central
+Collection Unit (CCU), and certain other units of DBM for the period beginning
+October 20, 2017 and ending January 15, 2022. DBM assists the Governor in the
+preparation and monitoring of the State’s annual operating and capital budgets.
+CCU is responsible for collecting delinquent debts owed to the State, except those
+excluded by law (such as taxes and child support) and its collections totaled
+$121.8 million during fiscal year 2022.
+Our audit disclosed several deficiencies relating to procedures and controls at
+CCU. For example, potential wage garnishments were not always pursued as a
+means to collect outstanding debts – a condition that we have commented upon
+since 1997 – and there was a lack of controls over the abatement of accounts,
+which generally results in a cessation of collection efforts. During our audit
+period, CCU abated accounts totaling $5.9 million.
+Furthermore, CCU did not periodically review existing deviations from State
+regulations granted to State agencies regarding the submission of delinquent
+accounts to CCU to ensure that the deviations were still warranted. At the time of
+our review, there were 127 active deviations held by 32 State agencies dating
+back to 1979. Our audit also disclosed that DBM did not verify that electronic
+receipts collected by a third-party vendor for CCU, which totaled $54.3 million
+during fiscal year 2021, were deposited into the State’s bank account and
+accurately recorded in the State’s records.
+
+--- Page 4 ---
+In addition, our audit disclosed certain risks in DBM’s information systems.
+However, in accordance with the State Government Article, Section 2-1224(i) of
+the Annotated Code of Maryland, we have redacted the findings from this audit
+report. Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted findings fall under
+the referenced definition. The specifics of the cybersecurity findings were
+previously communicated to those parties responsible for acting on our
+recommendations.
+Also, DBM did not verify the propriety of charges from the Department of
+Information Technology for technology enterprise services, which totaled $4.1
+million during fiscal years 2020 and 2021.
+Finally, our audit included a review to determine the status of 13 of the 14
+findings contained in our preceding report. For the non-cybersecurity-related
+findings we determined that DBM satisfactorily addressed 5 of those 8 findings.
+The remaining 3 findings are repeated in this report.
+DBM’s response to this audit is included as an appendix to this report. We
+reviewed the response to our findings and related recommendations, and have
+concluded that the corrective actions identified are sufficient to address all audit
+issues. In accordance with our policy, we have edited any vendor names or
+products mentioned by DBM in this document.
+We wish to acknowledge the cooperation extended to us during the audit by
+DBM. We also wish to acknowledge DBM’s willingness to address the audit
+issues and implement appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Organizational and Operational Change 7
+Central Collection Unit Operations 7
+Status of Findings From Preceding Audit Report 8
+Findings and Recommendations 11
+Central Collection Unit (CCU)
+Finding 1 – Redacted cybersecurity-related finding 12
+* Finding 2 – CCU did not adequately pursue potential wage garnishments 12
+from debtors, and it had not established a formal system for
+prioritizing such activity as committed to in its response to this
+longstanding issue in our preceding audit report.
+* Finding 3 – CCU did not have adequate controls over the abatement of 13
+accounts, which totaled approximately $5.9 million during our audit
+period.
+* Finding 4 – CCU did not adequately monitor long-term deviations from 15
+State regulations previously granted to State agencies regarding the
+submission of delinquent accounts to CCU.
+Finding 5 – The Department of Budget and Management (DBM) did 16
+not verify that electronic receipts collected by a third-party vendor for
+CCU were deposited into the State’s bank account and accurately
+recorded in the State’s accounting records.
+Information Systems Security and Control
+Finding 6 – Redacted cybersecurity-related finding 17
+Finding 7 – Redacted cybersecurity-related finding 17
+Finding 8 – Redacted cybersecurity-related finding 17
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Disbursements
+Finding 9 – DBM did not determine the reasonableness of charges related 17
+to technology enterprise services from the Department of Information
+Technology, which were valued at $4.1 million.
+Audit Scope, Objectives, and Methodology 19
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The Department of Budget and Management (DBM) is primarily responsible for
+assisting the Governor in the preparation and monitoring of the State’s annual
+operating and capital budgets. This audit includes the Office of the Secretary
+(including Executive Direction, the Division of Finance and Administration, and
+the Central Collection Unit (CCU)), the Office of Budget Analysis, and the Office
+of Capital Budgeting. DBM’s Office of Personnel Services and Benefits, which
+directs the State’s personnel policies and administers the health care benefits
+programs for State employees and retirees, is audited and reported upon
+separately.
+As noted in Figure 1 on the following page, the three units covered by this audit
+had combined expenditures totaling approximately $31.7 million during fiscal
+year 2022, of which 52 percent related to CCU.
+5
+
+--- Page 8 ---
+Figure 1
+DBM - Office of the Secretary and Other Units
+Positions, Expenditures, and Funding Sources
+Office of the Secretary
+Office of Budget Analysis
+Executive Direction,
+and Office of Capital
+Division of Finance and Central Collection Unit
+Budgeting
+Administration
+Full Time Equivalent Positions as of June 30, 2022
+Positions Percent Positions Percent Positions Percent
+Filled 25 96.2% 105 90.5% 38 95.0%
+Frozen1 0 0.0% 6 5.2% 0 0.0%
+Vacant 1 3.8% 5 4.3% 2 5.0%
+Total 26 116 40
+Fiscal Year 2022 Expenditures
+Expenditures Percent Expenditures Percent Expenditures Percent
+Salaries, Wages, and
+$4,101,622 64.7% $9,882,429 60.0% $5,005,106 56.1%
+Fringe Benefits
+Technical and
+219,915 3.5% 575,325 3.5% 18,415 0.2%
+Special Fees
+Operating Expenses 2,016,758 31.8% 6,025,360 36.5% 3,891,355 43.7%
+Total $6,338,295 $16,483,114 $8,914,876
+Fiscal Year 2022 Funding Sources
+Funding Percent Funding Percent Funding Percent
+General Fund $6,109,200 96.4% $ - 0.0% $6,719,683 75.4%
+Special Fund - 0.0% 16,483,114 100.0% 544,251 6.1%
+Reimbursable Fund 229,095 3.6% - 0.0% 1,650,942 18.5%
+Total $6,338,295 $16,483,114 $8,914,876
+Source: State financial and personnel records
+1 Prior to December 1, 2021, a hiring freeze resulted in certain positions being frozen. Frozen
+positions were unauthorized to be filled according to budgetary instructions from the Department
+of Budget and Management. Any position that is currently marked as frozen has not been
+filled since the freeze was lifted; however, these positions now are available to be filled.
+6
+
+--- Page 9 ---
+Organizational and Operational Change
+Chapter 590, Laws of Maryland 2017 effective on various dates beginning
+October 1, 2017 and culminating with the final implementation date of October 1,
+2019 required among other changes, the consolidation of most State procurement
+activities under the Department of General Services (DGS) authority. Effective
+October 1, 2019, the law repealed the authority of DBM over service contract
+procurements and motor vehicle leases. The authority over these functions was
+placed with the DGS – Office of State Procurement (OSP) and DBM procurement
+personnel were transferred to OSP in fiscal year 2020.
+Central Collection Unit Operations
+CCU’s primary responsibility is to collect delinquent accounts owed to the State,
+except those excluded by law (such as taxes and child support). CCU’s
+operations include its Baltimore headquarters office, and five satellite offices
+established at select Motor Vehicle Administration (MVA) locations to assist
+primarily in the collection of uninsured motorist penalty fees assessed by MVA.
+Collections on debt, less CCU’s assessed collection fees, are generally paid either
+to the State Treasury or to the unit of State government where the debt originated.
+State law authorizes CCU to assess and collect for each debt a fee sufficient to
+cover all collection and administrative costs, not to exceed 20 percent of the
+outstanding principal and interest. CCU’s collection fee is currently established at
+17 percent, which is added to the original amount of the debt. Collection fees
+received are deposited into the Central Collection Fund, a continuing, non-lapsing
+special fund used to pay CCU’s operating expenses. According to State law, any
+balance in the Fund at the end of the fiscal year exceeding 15 percent of CCU’s
+actual operating expenses for that year is required to be reverted to the State’s
+General Fund.
+According to State records, during fiscal years 2018 to 2022, CCU reverted
+approximately $6.1 million to the State’s General Fund. This amount represents a
+decrease of approximately $4.3 million from the amount reverted during fiscal
+years 2015 to 2017, and was primarily the result of suspended collection efforts
+by CCU between April 3, 2020 and October 9, 2020 because of the COVID 19
+pandemic. According to CCU’s records, as of July 1, 2022, the balance in the
+Central Collection Fund totaled approximately $85,040.
+According to its records, the balance of outstanding debt referred to CCU for
+collection efforts was approximately $2.7 billion as of June 30, 2022, as noted in
+Figure 2 on the following page.
+7
+
+--- Page 10 ---
+Figure 2
+Outstanding Debts
+(As of June 30th)
+Fiscal Year Accounts Balance Collections*
+2018 8,191,315 $2,634,687,680 $131,225,902
+2019 8,370,436 2,531,001,408 134,968,902
+2020 10,019,917 2,654,603,517 113,234,730
+2021 10,255,975 2,708,195,074 105,374,255
+2022 10,585,817 2,651,451,510 121,813,683
+*Collections are net of collection fees and account adjustments (such as refunds), and
+include amounts collected through the State’s Tax Refund Intercept Program.
+Source: CCU records
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of 13 of the 14 findings
+contained in our preceding audit report dated October 29, 2019.2 As disclosed in
+Figure 3 on the following page, for the non-cybersecurity-related findings, we
+determined that DBM satisfactorily addressed 5 of those 8 findings. The
+remaining 3 findings are repeated in this report.
+2 Prior audit report Finding 9, will be subject to follow-up during the next Office of Legislative
+Audits audit of the Department of Information Technology.
+8
+
+--- Page 11 ---
+Figure 3
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+CCU did not perform a periodic review of user access to its debt collection and cash
+Finding 1 Status Redacted 3
+register systems, and did not adequately restrict access to those systems.
+DBM did not ensure that access to personally identifiable information (PII) stored in
+its debt collection system, such as names and related social security numbers, was
+Finding 2 Status Redacted 3
+restricted. We noted that PII for approximately 5.8 million accounts was not
+adequately restricted.
+Deficiencies in CCU’s debt collection system resulted in the failure to assess
+Finding 3 collection fees of at least $17.8 million and the improper rejection of certain valid Not repeated
+debts.
+Repeated
+Finding 4 CCU did not adequately pursue potential wage garnishments from debtors.
+(Current Finding 2)
+CCU did not have adequate controls over the abatement of accounts, which totaled Repeated
+Finding 5
+approximately $39.1 million during our audit period. (Current Finding 3)
+CCU did not perform a periodic review of existing deviations from State regulations
+Repeated
+Finding 6 previously granted to State agencies regarding the submission of delinquent
+(Current Finding 4)
+accounts to CCU.
+Certain significant debt amounts were excluded from TRIP because of CCU system
+Finding 7 Not repeated
+omissions and errors.
+CCU collected TRIP revenues totaling $11.6 million for a private entity after the law
+Finding 8 Not repeated
+authorizing these collections to be handled by CCU was repealed in 2005.
+Vendor PII was not adequately restricted in the Financial Management Information
+Finding 9 Not pursued 4
+System (FMIS) and was visible to 5,204 employees Statewide.
+Finding 10 Sensitive PII maintained by CCU was stored without adequate safeguards. Status Redacted 3
+DBM did not have a complete information technology disaster recovery plan for
+Finding 11 Status Redacted 3
+recovering computer operations.
+Network security risks existed from information technology contractors having
+Finding 12 unnecessary network-level access to the DBM network and the unnecessary Status Redacted 3
+assignment of administrative rights on numerous workstations.
+3 Specific information on the current status of this cybersecurity-related finding has been redacted
+from this publicly available report in accordance with State Government Article, Section 2-
+1224(i) of the Annotated Code of Maryland.
+4 Our preceding audit report included a finding on FMIS that was also included in our Department
+of Information Technology (DoIT) audit report dated May 1, 2020. During our current audit we
+did not review the status of this finding, which will be addressed as part of our DoIT audit.
+9
+
+--- Page 12 ---
+Figure 3
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Findings Status
+DBM did not require State agencies to report interagency agreements with local
+Finding 13 Not repeated
+community colleges.
+DBM lacked documented justification for excluding certain vehicle types from its
+annual review of vehicle usage. In addition, DBM’s cost assessments of the need for
+Finding 14 Not repeated
+an agency to retain vehicles when they were not driven the minimum annual miles
+without adequate justification were not properly calculated.
+10
+
+--- Page 13 ---
+Findings and Recommendations
+Central Collection Unit
+Background
+The Department of Budget and Management’s (DBM) – Central Collection Unit
+(CCU) uses a variety of methods and resources to facilitate the collection of
+delinquent accounts, including automated and manual processes, as well as the
+use of a private collection agency. Automated collection efforts include the use of
+the State’s Tax Refund Intercept Program (TRIP), which captures debtor State tax
+refunds, and other automated intercept programs. CCU agents will pursue
+voluntary payments (such as payment plan agreements) via phone and written
+correspondence and will also forward selected accounts to the CCU Legal
+Measures Unit for proactive non-voluntary collection actions, such as wage
+garnishments and property liens. CCU processes debtor payments received via
+the internet, mail, or in person as a walk-in, or from the referring agency where
+the debt originated.
+Figure 4 below depicts the details of fiscal year 2022 collections totaling
+approximately $121.8 million, by collection method, according to CCU records.
+Figure 4
+CCU Fiscal Year 2022 Debt Collections by Source
+Automated -
+TRIP
+45%
+Automated
+(Other) *
+9%
+Manual -
+Manual CCU
+Referring
+42% Private Collection Agency
+Agency 3%
+1%
+*Automated (Other) includes State Payroll and Vendor Payment Intercepts, Lottery and Casino Winnings
+Intercepts, and Federal Tax Refund Intercepts.
+Source: CCU records
+11
+
+--- Page 14 ---
+We determined that Finding 1 related to “cybersecurity”, as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with DBM’s responses, have been redacted from this
+report copy.
+Finding 1
+Redacted cybersecurity-related finding.
+Finding 2
+CCU did not adequately pursue potential wage garnishments from debtors,
+and it had not established a formal system for prioritizing such activity as
+committed to in its response to this longstanding issue in our preceding audit
+report.
+Analysis
+CCU did not always pursue wage garnishments from debtors when viable wages
+were identified through quarterly computer matches of its accounts with State
+wage data from the Maryland Department of Labor (MDL). CCU’s debt
+collection policies provide that CCU will generally consider pursuing wage
+garnishments on accounts with debts greater than $750, and for which wages of at
+least $3,500 per quarter are currently available to attach (garnish).
+CCU’s quarterly wage match queries for the second quarter of calendar year 2021
+identified approximately 61,200 debtor accounts (each greater than $750 and
+quarterly wages greater than $3,500) with balances totaling $343.2 million and
+MDL-reported quarterly wages earned of $711.6 million, which could have been
+subject to garnishment based on CCU policies. In May 2022, we judgmentally
+selected (based on materiality) and reviewed the CCU accounts for 15 debtors
+appearing on this match, with debtor balances as of October 2021 totaling
+approximately $12 million and quarterly wages of $220,000. Our review
+disclosed that 11 debtors had not made a payment for periods ranging from 25 to
+272 months.5
+In addition, we noted a general lack of adequate subsequent collection activity
+after the wage match in question, as CCU’s Legal Measures Unit had established
+5 CCU may have recovered certain amounts from these debtors using involuntary methods, such as
+a tax refund intercept.
+12
+
+--- Page 15 ---
+a wage garnishment for only 2 of these 15 debtors. For the remaining 13 debtors
+we found:
+• Eleven debtors with quarterly wages totaling approximately $170,000, had
+not made any debt payments. Of the 11, 8 had not been referred to the
+Legal Measures Unit to initiate wage garnishments and there was not
+documentation as to why these debtors were not referred. The remaining
+3 debtors were referred, but wage garnishments had not been established
+nor were the reason(s) for not taking such action documented.
+• One debtor did not have sufficient current wages to pursue wage
+garnishment.
+• One debtor had a lien placed on their property but no wage garnishment
+was initiated.
+Similar conditions regarding wage garnishments were noted in our eight prior
+audit reports dating back to 1997. In response to our preceding report, CCU
+agreed with our recommendations to pursue wage garnishment when practicable,
+but advised that executing a wage garnishment is an expensive and lengthy
+process. CCU further advised us that it used its limited resources to pursue debts
+that are likely to produce the best recoveries; however, its policies did not address
+prioritizing accounts for potential wage garnishments once viable accounts are
+identified. CCU further advised that it planned to establish guidance on
+prioritizing accounts for potential wage garnishments within CCU’s debit
+collection policies; however, as of June 2022 no such policy had been established.
+Recommendation 2
+We recommend that DBM
+a. take appropriate action to pursue potential wage garnishments from
+debtors in a timely manner and document its efforts (repeat), and
+b. establish formal guidance on prioritizing accounts for potential wage
+garnishments within CCU’s debt collection policies (repeat).
+Finding 3
+CCU did not have adequate controls over the abatement of accounts, which
+totaled approximately $5.9 million during our audit period.
+Analysis
+CCU had not established adequate controls over the abatement of accounts
+(generally, the cessation of collection efforts). Specifically, there was no
+procedure in place to ensure that only authorized accounts were moved from an
+active status to an abated status in the debt management system. According to
+13
+
+--- Page 16 ---
+CCU’s records, approximately 2,126 accounts valued at $5.9 million were abated
+during our audit period.
+Generally, accounts that are deemed uncollectable, for example because of
+inadequate support or the close of a debtor’s business, are manually compiled on a
+written form along with supporting documentation for submission to CCU’s
+abatement committee for review. CCU policy requires approval from its
+abatement committee for certain changes in account status from active to abated.
+Once approved, the employee who prepared the manual abatement form forwards
+the committee-approved abatement account list to a second employee to update
+the account status in the system. Our review disclosed that CCU did not have a
+procedure to ensure that only authorized accounts were abated on the system. As
+noted in Finding 1 of this report, 78 users had unnecessary system access to abate
+accounts. Our test of 10 accounts abated during our current audit period totaling
+approximately $829,000 did not disclose any abatements that were not approved
+by the committee.
+A similar condition was commented upon in our preceding audit report. In that
+report we noted that a review of recorded system abatements for proper support
+that CCU had previously performed had not been conducted since July 2016. In
+response to that report, DBM indicated that a system report would be developed
+by October 2019 that shows all changes in abatement status which would be
+reviewed by an individual who does not have access to make changes on the
+system. As noted above, DBM did not establish the necessary report and
+independent review procedure as indicated in its response.
+Recommendation 3
+We recommend that DBM
+a. establish adequate controls over the abatement process by having an
+independent employee verify that all changes in account status to an
+abatement status have been properly authorized (repeat); and
+b. examine accounts abated since July 2016, at least on a test basis, to ensure
+they were proper and approved (repeat).
+14
+
+--- Page 17 ---
+Finding 4
+CCU did not adequately monitor long-term deviations from State regulations
+previously granted to State agencies regarding the submission of delinquent
+accounts to CCU.
+Analysis
+CCU did not have an adequate process for monitoring long-term deviations from
+compliance with State regulations regarding the submission of delinquent
+accounts to CCU that had been granted to State agencies. At the time of our
+review, approximately 94 State agencies6 had referred debts to CCU during our
+audit period, of which 32 of these agencies had 127 active deviations for various
+types of accounts receivable. These deviations were authorized by CCU, without
+an expiration date or renewal requirement, during the period between December
+1979 and June 2019, the majority (88) of which were established prior to 1999.
+Although we were not readily able to estimate the value of debts not referred to
+CCU in accordance with existing deviations, as of April 15, 2022, the balance of
+accounts referred to CCU during our audit period by the 32 agencies with current
+deviations totaled approximately $327 million on 877,000 accounts.
+A similar condition was commented upon in our preceding audit report. In
+response to that report, DBM indicated that by December 2019 CCU would
+perform a documented review of approved deviations to determine their current
+validity and to assess the impact on debt collectability. However, CCU did not
+perform a complete and comprehensive review of approved deviations, and a
+formal process for monitoring deviations was not established. Beginning
+September 2020, CCU sent questionnaires regarding the need and impact of
+deviations to 27 of the 32 agencies with active deviations. As of May 31, 2022,
+responses had been received from just 9 agencies (the most recent being received
+in March 2022), all of which indicated that their deviations were still needed. The
+questionnaire stated that if no response was received from the agency, its
+deviation would be rescinded, and for responses indicating that the deviation was
+still needed, CCU would notify the agency within 30 days as to whether the
+deviation request would continue to be approved.
+As of May 2022, CCU had not documented its decision regarding the 9 agencies
+that responded, and had not rescinded any deviations from agencies that failed to
+respond. According to CCU, other priorities and its workload have delayed its
+follow-up on the questionnaires.
+6 This includes 14 Maryland community colleges and 19 Register of Wills offices, none of which
+hold a deviation from CCU.
+15
+
+--- Page 18 ---
+State regulations generally require State agencies to send the debtor three written
+demands for payment at 30-day intervals after which the unpaid account is to be
+submitted to CCU for further collection efforts. With the approval of the
+Secretary of DBM, however, CCU may grant an agency a deviation from these
+regulations based on a documented request from the agency. Such requests must
+include the nature of the deviation, the type of accounts involved, and justification
+for the deviation. For example, an agency may request and receive approval to
+extend the period after which accounts must be sent to CCU in order to allow
+more time for debtors to respond to the agency’s own collection efforts.
+Recommendation 4
+We recommend that DBM establish a formal process for periodically
+monitoring deviations granted to State agencies to ensure that they remain
+necessary and effective, including timely follow-up when agencies respond or
+fail to respond to requests for information and documentation regarding
+their deviations (repeat).
+Finding 5
+DBM did not verify that electronic receipts collected by a third-party vendor
+for CCU were deposited into the State’s bank account and accurately
+recorded in the State’s accounting records.
+Analysis
+DBM did not verify that electronic collections reported by the third-party vendor
+used to receive and process these collections were deposited into the State’s bank
+account, and were accurately recorded in the State’s accounting records.
+According to CCU’s records, electronic collections totaled approximately $54.3
+million during fiscal year 2021.
+Our test of five days of vendor-reported collections judgmentally selected based
+on materiality and totaling approximately $1.1 million, disclosed that the
+collections were properly deposited into the State’s bank account and recorded in
+the State’s accounting records. The Comptroller of Maryland’s Accounting
+Procedures Manual requires collections to be independently verified to deposit
+and recorded in the State’s accounting records.
+Recommendation 5
+We recommend that DBM implement procedures to verify that all electronic
+collections reported by the vendor were properly deposited and recorded,
+and that these verifications be documented.
+16
+
+--- Page 19 ---
+Information Systems Security and Control
+We determined that the Information Systems Security and Control section,
+including Findings 6 through 8 related to “cybersecurity”, as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore are subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following findings, including the analysis, related
+recommendations, along with DBM’s responses, have been redacted from this
+report copy.
+Finding 6
+Redacted cybersecurity-related finding.
+Finding 7
+Redacted cybersecurity-related finding.
+Finding 8
+Redacted cybersecurity-related finding.
+Disbursements
+Finding 9
+DBM did not determine the reasonableness of charges related to technology
+enterprise services from DoIT, which were valued at $4.1 million.
+Analysis
+DBM did not determine the reasonableness of DoIT charges for technology
+enterprise services during fiscal years 2020 and 2021 valued at $2.1 million and
+$2 million, respectively. At the beginning of fiscal 2020, DoIT transitioned to a
+cost allocation model for technology enterprise services provided to State
+agencies, including DBM. Under this model, in fiscal years 2020 and 2021, DoIT
+submitted an invoice covering the services it planned to provide to DBM, which
+DBM was to pay in four equal quarterly payments. The DoIT invoices specified
+the general categories of work to be performed. For example, the fiscal year 2020
+annual invoice included end user support services totaling $441,000 for 503
+devices and cyber defense services totaling $103,000 for 332 users.
+17
+
+--- Page 20 ---
+Our review disclosed that DBM did not take action to determine the
+reasonableness of the DoIT invoices or otherwise verify the accuracy of the
+number of devices billed or the extent to which services were provided.
+Furthermore, DBM had not determined the reason for an increase in DoIT’s
+Financial Management Information System (FMIS) user access charges, which
+went from $35,000 in fiscal year 2020 to $127,000 in fiscal year 2021, an increase
+of over 250 percent.
+Recommendation 9
+We recommend that DBM take reasonable measures to
+a. in the future, ensure that all technology enterprise services invoiced have
+been received; and
+b. verify receipt of the services noted above as invoiced for fiscal years 2020
+and 2021, and the reason for the significant increase in FMIS user access
+charges between the two years.
+18
+
+--- Page 21 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the following units of the
+Department of Budget and Management (DBM) for the period beginning October
+20, 2017 and ending January 15, 2022.
+Office of the Secretary (including the Central Collection Unit)
+Office of Budget Analysis
+Office of Capital Budgeting
+The audit was conducted in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to
+obtain sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. We believe that the
+evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DBM’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included cash receipts, collection practices, accounts
+receivable, procurement and disbursement activity, interagency agreements, and
+vehicle fleet maintenance. Our audit included DBM’s administration of the
+Cigarette Restitution Fund and State Reserve Fund that consisted of the Dedicated
+Purpose Account, the Revenue Stabilization Account, the Economic Development
+Opportunities Program Fund, and the Catastrophic Event Fund.
+Our audit also included certain support services (such as maintenance of certain
+accounting records) provided by DBM to the Office of Personnel Services and
+Benefits (OPSB). In addition, it included certain support services (such as legal,
+internal audit, and budgeting) provided by DBM to the Department of Information
+Technology. We also determined the status of the findings contained in our
+preceding audit report.
+Our audit did not include certain support services provided to DBM by OPSB.
+These support services (such as payroll and certain contract monitoring) are
+included within the scope of our audit of OPSB.
+19
+
+--- Page 22 ---
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of October 20, 2017 to January 15, 2022, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of DBM’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as expenditure data), as well as
+from the contractor administering the State’s Corporate Purchasing Card Program
+(credit card activity). The extracts are performed as part of ongoing internal
+processes established by the Office of Legislative Audits and were subject to
+various tests to determine data reliability. We determined that the data extracted
+from these sources were sufficiently reliable for the purposes the data were used
+during this audit.
+We also extracted data from DBM’s debt management system in order to perform
+certain tests related to cash receipts and accounts receivable, including collection
+practices. We performed various tests of the relevant data and determined that the
+data were sufficiently reliable for the purposes the data were used during the
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our objectives. The reliability of data used in this report for
+background or informational purposes was not assessed.
+DBM’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+20
+
+--- Page 23 ---
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to DBM, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DBM’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to DBM that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation”. Based on that definition, and
+in our professional judgement, we concluded that certain findings in this report
+fall under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+21
+
+--- Page 24 ---
+communicated to DBM and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+DBM’s response to our findings and recommendations is included as an appendix
+to this report. Depending on the version of the audit report, responses to any
+cybersecurity findings may be redacted in accordance with State law. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise DBM regarding the results of our review of its
+response.
+22
+
+--- Page 25 ---
+APPENDIX
+WES MOORE HELENE GRADY
+Governor Secretary
+ARUNA MILLER MARC L. NICOLE
+Lieutenant Governor Deputy Secretary
+May 17, 2023
+Mr. Gregory A. Hook, CPA
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards, Suite 400
+315 West Camden Street
+Baltimore, Maryland 21201
+Dear Mr. Hook:
+The Department of Budget and Management (DBM) has reviewed your draft audit report on the DBM Office of
+the Secretary, which includes the Central Collection Unit (CCU), and certain other units of DBM for the period
+beginning October 20, 2017, and ending January 15, 2022. As requested, attached are our responses to the
+findings in the report.
+If you have any questions or need additional information, you may contact me at 410-260-7041 or Joan Peacock,
+Director of the Audit and Finance Compliance Unit, at 443-871-1648.
+Sincerely,
+Helene Grady
+Secretary
+Cc: Secretary Katie Savage, DoIT
+Marc Nicole, Deputy Secretary, DBM
+Clifton Gray, Assistant Attorney General, DBM
+Anthony Fugett, Director, Central Collection Unit, DBM
+Kathrine Thomson, Acting Director, Finance and Administration, DBM
+Joan Peacock, Director, Audit & Finance Compliance Unit, DBM
+45 Calvert Street • Annapolis, MD 21401-1907
+Tel: 410-260-7041 • Fax: 410-974-2585 • Toll Free: 1-800-705-3493 • TTY Users: Call via Maryland Relay
+http://dbm.maryland.gov
+
+--- Page 26 ---
+Department of Budget and Management
+Office of the Secretary and Other Units
+Agency Response Form
+Central Collection Unit
+The Office of Legislative Audits (OLA) has determined that Finding 1 related to “cybersecurity” as
+defined by the State Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit report in accordance
+with State Government Article 2-1224(i). Although the specifics of the finding, including the analysis,
+related recommendations, along with DBM’s responses, have been redacted from this report copy,
+DBM’s responses indicated agreement with the finding and related recommendations.
+Finding 1
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 2
+CCU did not adequately pursue potential wage garnishments from debtors, and it had not
+established a formal system for prioritizing such activity as committed to in its response to this
+longstanding issue in our preceding audit report.
+We recommend that DBM
+a. take appropriate action to pursue potential wage garnishments from debtors in a timely
+manner and document its efforts (repeat), and
+b. establish formal guidance on prioritizing accounts for potential wage garnishments within
+CCU’s debt collection policies (repeat).
+Agency Response
+Analysis
+Additional Comment:
+DBM agrees that potential wage garnishments from debtors should be adequately
+pursued in a timely manner, and that documentation should be maintained to support
+the process and efforts taken. Executing a wage garnishment is an expensive and
+lengthy process that may take months or even years to obtain the required judgments
+and orders from the courts. CCU uses its limited resources to pursue debts that are
+likely to produce the best recoveries.
+As the number of accounts referred to CCU increases, so does the potential
+opportunities to pursue wage garnishment. The pandemic introduced additional
+challenges.
+CCU will continue to make the best use of its resources to collect from debtors and will
+ensure its collection efforts are documented. Since the introduction of the new
+
+--- Page 27 ---
+Department of Budget and Management
+Office of the Secretary and Other Units
+Agency Response Form
+collection system, CCU has been working to gain some efficiency through automation.
+This includes the potential opportunity to take advantage of automation of the various
+county courts systems. The efforts to pursue this were stalled and put on delay with the
+occurrence of the pandemic. As mentioned below, we are hoping to have some of these
+efforts in place by June 2023.
+Additionally, as noted by the auditors, CCU will implement policies (as part of its
+SOPs) to address prioritizing accounts for potential wage garnishments once viable
+accounts are identified. This has been put on hold as we were developing a more
+automated process.
+Recommendation 2a Agree Estimated Completion Date: August 2023
+CCU has implemented manual reports to identify potential wage garnishment that is
+currently being used by Legal Measures until the IT department can automate the
+process. The automated process is anticipated to be in place by July 31, 2023.
+As described above, CCU will make the best use of its resources to pursue potential
+wage garnishments in a timely manner, prioritizing accounts that are determined to
+provide the best opportunity for collection. These efforts will be documented,
+including why debtor accounts have not been pursued or were not selected for wage
+garnishment.
+Recommendation 2b Agree Estimated Completion Date: August 2023
+As part of the automation process, CCU will establish a Suit Drafting SOP along with
+the existing Wage Garnishment SOP that will contain formal guidance and application
+configuration on the Wage Garnishment and suit drafting processes. These SOPs will
+include guidance on prioritizing accounts for potential wage garnishments.
+
+--- Page 28 ---
+Department of Budget and Management
+Office of the Secretary and Other Units
+Agency Response Form
+Finding 3
+CCU did not have adequate controls over the abatement of accounts, which totaled approximately
+$5.9 million during our audit period.
+We recommend that DBM
+a. establish adequate controls over the abatement process by having an independent employee
+verify that all changes in account status to an abatement status have been properly authorized
+(repeat); and
+b. examine accounts abated since July 2016, at least on a test basis, to ensure they were proper
+and approved (repeat).
+Agency Response
+Analysis
+Recommendation 3a Agree Estimated Completion Date: June 2023
+CCU IT will generate a monthly Abatements Report of all accounts that are abated
+automatically or manually in our debt collection system. This report will be submitted
+to DBM’s audit team. The audit team will perform a monthly independent review to
+ensure changes in account status to abatement status have been properly authorized. As
+applicable, this review will include a reconciliation of accounts abated to the
+Abatement Committee reports, that show all accounts submitted to the Abatement
+Committee for review and their status (approved or not approved for abatement). For
+all other accounts abated through an automated process, the audit team will, at
+minimum, review a sample to verify the abatement was properly authorized or
+processed. This process is estimated to be in place by May 31, 2023.
+Recommendation 3b Agree Estimated Completion Date: June 2023
+The DBM audit team will do an independent review that includes sampling to ensure
+abatements, from July 2016 through April 2023, were proper and approved.
+
+--- Page 29 ---
+Department of Budget and Management
+Office of the Secretary and Other Units
+Agency Response Form
+Finding 4
+CCU did not adequately monitor long-term deviations from State regulations previously granted
+to State agencies regarding the submission of delinquent accounts to CCU.
+We recommend that DBM establish a formal process for periodically monitoring deviations
+granted to State agencies to ensure that they remain necessary and effective, including timely
+follow-up when agencies respond or fail to respond to requests for information and documentation
+regarding their deviations (repeat).
+Agency Response
+Analysis
+Deviation Requests from agencies do not prohibit agencies from referring delinquent
+accounts to CCU for collection but may alter the timeframe accounts are referred to
+CCU for collection based on the agencies’ request.
+Recommendation 4 Agree Estimated Completion Date: October 2023
+All requests for Deviation Reviews or Updates will be sent to agencies by 7-1-23. CCU
+will monitor agency responses and perform timely follow-up and reviews.
+For the 9 agencies mentioned in the audit analysis that indicated in their responses to
+CCU that their deviations were still needed, CCU has completed a review of their
+responses, agrees that the deviation is still needed and has notified all 9 agencies that
+their deviation was approved.
+Once the comprehensive review is completed, CCU will establish a formal process to
+periodically review deviations granted to State agencies to ensure that they remain
+necessary and effective. This will include timely follow-up when agencies respond or
+fail to respond to requests for information and documentation regarding their deviations
+
+--- Page 30 ---
+Department of Budget and Management
+Office of the Secretary and Other Units
+Agency Response Form
+Finding 5
+DBM did not verify that electronic receipts collected by a third-party vendor for CCU were
+deposited into the State’s bank account and accurately recorded in the State’s accounting records.
+We recommend that DBM implement procedures to verify that all electronic collections reported
+by the vendor were properly deposited and recorded, and that these verifications be documented.
+Agency Response
+Analysis
+Recommendation 5 Agree Estimated Completion Date: August 2023
+CCU Accounting will implement a process to create a manual spreadsheet to complete
+a match to ensure electronic payments reported by the third-party vendor are credited
+to the State’s bank account and accurately recorded to the State’s accounting records
+(i.e., CCU’s FMIS fund balance) by utilizing the following reports: the third-party
+payment report, bank statement and the FMIS dafr7200 report. Any discrepancies will
+be investigated. This review, to verify that all electronic collections reported by the
+vendor were properly deposited and recorded, will be documented and retained for
+future purposes
+
+--- Page 31 ---
+Department of Budget and Management
+Office of the Secretary and Other Units
+Agency Response Form
+Information Systems Security and Control
+OLA has determined that the Information Systems Security and Control section, including Findings 6
+through 8 related to “cybersecurity”, as defined by the State Finance and Procurement Article, Section
+3.5-301(b) of the Annotated Code of Maryland, and therefore are subject to redaction from the publicly
+available audit report in accordance with State Government Article 2-1224(i). Although the specifics of
+the findings, including the analysis, related recommendations, along with DBM’s responses, have been
+redacted from this report copy, DBM’s responses indicated agreement with the findings and related
+recommendations.
+Finding 6
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 7
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 8
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+
+--- Page 32 ---
+Department of Budget and Management
+Office of the Secretary and Other Units
+Agency Response Form
+Disbursements
+Finding 9
+DBM did not determine the reasonableness of charges related to technology enterprise services
+from DoIT, which were valued at $4.1 million.
+We recommend that DBM take reasonable measures to
+a. in the future, ensure that all technology enterprise services invoiced have been received; and
+b. verify receipt of the services noted above as invoiced for fiscal years 2020 and 2021, and the
+reason for the significant increase in FMIS user access charges between the two years.
+Agency Response
+Analysis
+Recommendation 9a Agree Estimated Completion Date: May 2023
+DBM will review DoIT billings for reasonableness. To the extent possible, DBM will
+verify billings are consistent with our MOU with DoIT and appear reasonable based on
+expected services to be provided by DoIT.
+Recommendation 9b Agree Estimated Completion Date: May 2023
+DBM is in the process of completing a review of the FY2020 and FY2021 DoIT
+invoices to ensure amounts billed are consistent with our MOU with DoIT and appear
+reasonable with expected services to be received from DoIT. As part of this review, we
+are determining the reason for the significant increase in FMIS user access charges
+between the two years that was noted by the auditors.
+
+--- Page 33 ---
+A T
+UDIT EAM
+Robert A. Wells Jr., CPA
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+Matusala Y. Abishe
+Menachem Katz, CPA
+Senior Auditors
+Peter W. Chong
+Matthew D. Walbert, CISA
+Information Systems Senior Auditors
+Stephen R. Alexander, CFE
+Ibijoke O. Owolabi, CPA
+Stacey D. Streett
+Staff Auditors
+Vickey K. Micah
+Information Systems Staff Auditor

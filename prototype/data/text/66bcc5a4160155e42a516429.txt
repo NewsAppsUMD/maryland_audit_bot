@@ -1,0 +1,1111 @@
+Title: Maryland Department of Health - Pharmacy Services
+Date: 08/09/2024
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=66bcc5a4160155e42a516429
+Extracted: 2025-06-20T09:08:37.366862
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Health
+Pharmacy Services
+August 2024
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Steven C. Johnson
+Senator Shelly L. Hettleman Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simmonaire Delegate M. Courtney Watson
+Senator Craig J. Zucker One Vacancy
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+August 9, 2024
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Department of
+Health (MDH) pharmacy services for the period beginning July 1, 2019 to
+December 31, 2022. MDH provides pharmacy services under the Medical Care
+Programs Administration (MCPA) and the Prevention and Health Promotion
+Administration (PHPA) as indicated through the following five programs:
+ Maryland Medicaid Pharmacy Program (MCPA)
+ Medicaid Managed Care Program (MCPA)
+ Kidney Disease Program (PHPA)
+ Maryland AIDS Drug Assistance Program (PHPA)
+ Breast and Cervical Cancer Diagnosis and Treatment Program (PHPA)
+Our audit found that MCPA did not ensure that manually processed pharmacy
+claims for the Maryland Medicaid Pharmacy Program were proper. While the
+majority of pharmacy claims are paid at established rates, certain prescription
+drugs require an MCPA employee to determine the allowable drug cost based on
+criteria provided in State regulations, and to manually record the price into
+MDH’s point-of-sale system to process the claim. Our test of 15 manual claims
+processed between June 2020 and November 2022 disclosed that 11 claims were
+overpaid by approximately $397,000 because the employee who processed the
+claim entered an amount that exceeded the allowable drug cost.
+Our audit also found that MDH had not established procedures to ensure that
+prescribing providers were licensed prior to approving pharmacy claims for
+payment. In addition, our audit disclosed that MCPA did not perform audits of
+three of the four fee-for-service programs and did not use available data to
+identify improper claims. The audits would perform manual verifications that are
+
+--- Page 4 ---
+not possible through MDH’s automated pharmacy claims processing system, such
+as to ensure that a valid prescription was issued, properly filled, and actually
+picked up by a recipient.
+Furthermore, MDH’s controls over Maryland AIDS Drug Assistance Program
+drug rebates were not sufficient, resulting in significant rebates not being obtained
+timely. MDH receives prescription drug rebates under two federal programs
+which are paid by drug manufacturers for covered outpatient drugs dispensed to
+approved clients under each MDH program that provides pharmacy services. Our
+audit disclosed that MDH did not ensure that drug manufacturers provided timely
+and proper drug rebate payments and as a result did not pursue collection of
+certain outstanding rebates, including $1.5 million in rebates outstanding for at
+least one year.
+Our audit also disclosed a cybersecurity-related finding. However, in accordance
+with the State Government Article, Section 2-1224(i) of the Annotated Code of
+Maryland, we have redacted the finding from this audit report. Specifically, State
+law requires the Office of Legislative Audits to redact cybersecurity findings in a
+manner consistent with auditing best practices before the report is made available
+to the public. The term “cybersecurity” is defined in the State Finance and
+Procurement Article, Section 3.5-301(b), and using our professional judgment we
+have determined that the redacted finding falls under the referenced definition.
+The specifics of the cybersecurity finding were previously communicated to those
+parties responsible for acting on our recommendations.
+Finally, our audit included a review to determine the status of the seven findings
+contained in our preceding audit report. For the non-cybersecurity-related
+findings we determined that MDH satisfactorily addressed three of those six
+findings. The remaining three findings are repeated in this report.
+MDH’s response to this audit, on behalf of MCPA and PHPA, is included as an
+appendix to this report. We reviewed the response and noted agreement to our
+findings and related recommendations, and while there are other aspects of
+MDH’s response which will require further clarification, we do not anticipate that
+these will require the Joint Audit and Evaluation Committee’s attention to resolve.
+Consistent with State law, we have redacted the elements of MDH’s response
+related to the cybersecurity audit finding.
+2
+
+--- Page 5 ---
+We wish to acknowledge the cooperation extended to us during the audit by
+MCPA and PHPA. We also wish to acknowledge MDH’s, MCPA’s, and PHPA’s
+willingness to address the audit issues and implement appropriate corrective
+actions.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 7
+Agency Responsibilities and Audit Scope 7
+Ransomware Security Incident 10
+Status of Findings From Preceding Audit Report 10
+Findings and Recommendations 12
+Claims Processing
+Finding 1 – The Medical Care Programs Administration did not ensure 12
+manually processed pharmacy claims were proper, resulting in
+overpayments of approximately $397,000 related to 11 of the 15 claims
+we tested.
+* Finding 2 – The Maryland Department of Health (MDH) did not have 13
+procedures to ensure that prescribing providers were licensed prior
+to approving pharmacy claims for payment.
+* Finding 3 – MDH did not audit three of the four fee-for-service 15
+programs’ pharmacy claims, did not analyze claim reversals, and did
+not use available drug utilization claims data to identify improper
+claims.
+Rebates
+* Finding 4 – MDH did not ensure that drug manufacturers provided timely 18
+and proper drug rebate payments for the Maryland AIDS Drug
+Assistance Program.
+System Security
+Finding 5 – Redacted cybersecurity-related finding 20
+Audit Scope, Objectives, and Methodology 21
+* Denotes item repeated in full or part from preceding audit report
+5
+
+--- Page 8 ---
+Exhibit 1 – Listing of Most Recent Office of Legislative Audits Fiscal 25
+Compliance Audits of Maryland Department of Health Units as of June
+2024
+Agency Response Appendix
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities and Audit Scope
+The Maryland Department of Health (MDH), through its Medical Care Programs
+Administration (MCPA) and Prevention and Health Promotion Administration
+(PHPA), operates four significant fee-for-service programs under which they pay
+for prescription drugs:
+ Maryland Medicaid Pharmacy Program
+ Kidney Disease Program
+ Maryland AIDS Drug Assistance Program
+ Breast and Cervical Cancer Diagnosis and Treatment Program
+In addition, pharmacy claims are paid by the nine Managed Care Organizations
+(MCOs) under contract with the State under the Medicaid Managed Care
+Program. Each of the five programs provide pharmaceutical benefits to eligible
+recipients and is administered independently.
+The scope of this pharmacy audit included the administration and monitoring of
+claims adjudication and processing, security and controls, reimbursement rates,
+audits, and rebate management under the aforementioned four fee-for-service
+programs. According to MDH records, fiscal year 2022 claim payments for these
+four programs totaled $631 million (see Figure 1 on page 8). Additionally, the
+scope included the rebate management and monitoring of the nine MCOs.
+Medical Care Programs Administration (MCPA)
+MCPA operates under both Title XIX of the federal Social Security Act
+(Medicaid) and State law. Medicaid is a joint federal and State entitlement
+program for low-income individuals. The program is administered by the states,
+which are required to provide healthcare coverage, including optional pharmacy
+services, to all applicants who meet the program’s eligibility criteria.
+MCPA administers the Maryland Medicaid Pharmacy Program (MMPP) which
+provides pharmacy services to Medicaid recipients through a fee-for-service
+business model. MMPP has oversight of all policies and operations related to
+pharmacy services such as claims processing, preferred drug listing, and
+reimbursement methodology. MMPP covers all point-of-sale pharmacy services
+for fee-for-service recipients carved out of the MCO benefits.
+MCPA also oversees the Medicaid Managed Care Program which provides
+pharmacy services to Medicaid recipients who are enrolled in the Managed Care
+7
+
+--- Page 10 ---
+Program. MCPA contracts with MCOs to provide healthcare, including pharmacy
+services, to enrolled Medicaid recipients in exchange for specified capitation
+payments.1 Each MCO independently contracted with one of six Pharmacy
+Benefit Managers that were responsible for administering virtually all aspects of
+the MCO pharmacy activities including pharmacy network management, claims
+processing, and payments to the pharmacies.
+Prevention and Health Promotion Administration (PHPA)
+PHPA protects, promotes, and improves the health and well-being of Marylanders
+and their families through the provision of public health leadership and
+community-based public health efforts. PHPA administers three programs with
+pharmacy services:
+ Maryland AIDS Drug Assistance Program (MADAP) – MADAP is a state
+and territory-administered program authorized under Part B of the Ryan White
+HIV/AIDS Program, a federal program codified under Title XXVI of the
+Public Health Services Act. MADAP helps low to moderate-income
+Maryland residents with HIV disease who have limited or no coverage from
+private insurance or Medicare pay for HIV/AIDS related drugs. Individuals
+cannot be enrolled in both Medicaid and MADAP.
+ Breast and Cervical Cancer Diagnosis and Treatment Program (BCCDTP) –
+BCCDTP is a State-run program that provides breast cancer and cervical
+cancer diagnostic and treatment services to eligible low-income Maryland
+residents, including medical and pharmacy services.
+ Kidney Disease Program (KDP) – KDP is a State-run program designed to
+help low to moderate-income Maryland residents pay for the treatment costs
+associated with end stage renal disease. KDP provides medical and pharmacy
+services to eligible individuals and is a payer of last resort after all other
+options, such as private insurance, Medicare, and Medicaid have been
+exhausted. Starting in October 2019, the administration of KDP was
+transferred from MCPA to PHPA.
+Pharmacy Vendor
+Since August 2006, MDH has contracted with a pharmacy vendor to provide a
+point-of-sale electronic claims management system (pharmacy vendor system).
+The original contract was modified and extended multiple times and ultimately
+ended May 31, 2021. In October 2019, MDH competitively awarded a contract
+1 Capitation payments are included within the scope of our audit of MCPA’s Managed Care
+Program.
+8
+
+--- Page 11 ---
+valued at approximately $73.1 million (including renewal options) to the
+incumbent pharmacy vendor to develop, implement, and operate a new pharmacy
+vendor system. MDH continued to use its legacy system until the new pharmacy
+vendor system was implemented in October 2022.
+The new pharmacy vendor system includes pharmacy claims processing, where
+claims submitted by pharmacies are adjudicated in real time for MMPP, MADAP,
+BCCDTP, and KDP. Claims processing includes functionality such as
+verifications of recipient eligibility, reviewing requests for prior authorizations,
+and identifying other parties, such as private insurers, that may be responsible for
+payment. Furthermore, the new pharmacy vendor system performs drug
+utilization reviews and supports drug manufacturer rebate programs, such as by
+capturing and reporting MDH’s detailed utilization activity to drug manufacturers
+so that MDH can obtain rebates.
+The pharmacy vendor system does not provide claims processing services to the
+MCOs under the Medicaid Managed Care Program. Rather, each MCO is
+responsible for maintaining its own system to process pharmacy claims.
+However, the pharmacy vendor system is used to perform rebate processing for
+MCO pharmacy claims.
+Pharmacy Payments
+MMPP, MADAP, BCCDTP, and KDP payments are based on a fee-for-service
+model under which payments are made directly to pharmacies by MDH after
+claims have been adjudicated through the pharmacy vendor system. During fiscal
+year 2022, MDH paid approximately 5.2 million pharmacy claims totaling
+approximately $631 million on behalf of 361,000 recipients. In addition, MDH
+makes monthly capitation payments for each Medicaid recipient enrolled in the
+MCO. According to agency records, the portion of capitation rates associated
+with pharmacy services for calendar year 2022 totaled approximately $711.5
+million.
+Pharmacy Rebates
+Certain drugs purchased under these programs and by MCOs were eligible for
+drug manufacturer rebates. According to State accounting records, MDH
+received rebates totaling approximately $402.2 million for its fee-for-service
+pharmacy purchases during fiscal year 2022 (see Figure 1 on the following page)
+and according to MDH records, it received $508 million in rebates for pharmacy
+purchases made by MCOs during calendar year 2022. The rebate amount is based
+on the total cost of the drug regardless of the portion paid by MDH, which
+resulted in MADAP receiving rebates in excess of the amounts paid.
+9
+
+--- Page 12 ---
+Figure 1
+Fiscal Year 2022 Fee-For-Service Claims and Rebates by Program
+Number of Number of Claim Rebates Net
+Program
+Recipients Claims Payments Received Payments
+MMPP 355,083 5,073,694 $597,193,372 $355,569,550 $241,623,822
+MADAP 5,049 100,002 31,461,854 45,249,199 (13,787,345)
+BCCDTP 314 2,270 1,763,151 783,900 979,251
+KDP 759 14,553 626,493 583,298 43,195
+Total 361,205 5,190,519 $631,044,870 $402,185,947 $228,858,923
+Source: MDH records
+Ransomware Security Incident
+In December 2021, MDH experienced a broad security incident resulting from a
+ransomware attack.2 This incident affected the entire MDH computer network
+and disrupted information technology (IT) operations for all MDH servers and
+end user computers, resulting in substantial impact on all MDH business
+operations, including MCPA and PHPA. MDH notified the Department of
+Information Technology’s (DoIT) Office of Security Management, which
+initiated incident response measures. Various other parties were informed of this
+incident or engaged for recovery efforts. DoIT concluded that no evidence
+existed indicating that sensitive or regulated information had been improperly
+acquired.
+The incident, response measures, and related controls were subject to review as
+part of our recent audit of the MDH Office of the Secretary and Other Units
+(report dated October 19, 2023). This incident did not significantly impact our
+audit, and we were able to obtain information needed to satisfy our audit
+objectives and related conclusions.
+Status of Findings from Preceding Audit Report
+Our audit included a review to determine the status of the seven findings
+contained in our preceding audit report dated August 31, 2020. As disclosed in
+Figure 2 (on the following page), for the non-cybersecurity-related findings, we
+determined that MDH satisfactorily addressed three of those six findings. The
+remaining three findings are repeated in this report.
+2 As defined by the Federal Department of Homeland Security Cybersecurity and Infrastructure
+Security Agency, ransomware is an ever-evolving form of malware designed to encrypt files on a
+device, rendering any files and the systems that rely on them unusable. Malicious actors then
+demand ransom in exchange for decryption.
+10
+
+--- Page 13 ---
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+The Maryland Department of Health (MDH) did not
+establish financial and reporting requirements and did not
+Finding 1 Not Repeated
+monitor pharmacy services provided through Managed
+Care Organizations.
+MDH did not perform audits of certain programs’
+Repeated
+Finding 2 pharmacy claims and did not use available data to identify
+(Current Finding 3)
+improper claims.
+MDH did not have procedures to ensure the pharmacy
+vendor obtained the required documentation and properly
+Finding 3 Not Repeated
+authorized high risk and high cost pharmacy claims for
+three of the four programs.
+MDH did not have procedures to ensure that prescribing
+Repeated
+Finding 4 providers were licensed prior to approving pharmacy
+(Current Finding 2)
+claims for payment.
+MDH did not submit certain Maryland AIDS Drug
+Assistance Program (MADAP) drug utilization data to two
+drug manufacturers resulting in the untimely collection of
+Finding 5 Not Repeated
+approximately $20.6 million in rebates including $1.6
+million that is no longer collectable, and lost investment
+income totaling approximately $187,800.
+MDH did not ensure that drug manufacturers provided
+timely and proper MADAP drug rebate payments and as a Repeated
+Finding 6
+result did not pursue collection of $7.3 million in (Current Finding 4)
+outstanding rebates.
+MDH did not obtain adequate assurance that the pharmacy
+vendor had sufficient security over its information system
+Finding 7 to protect sensitive data such as personally identifiable Status Redacted3
+information and protected health information maintained by
+the vendor.
+3 Specific information on the current status of this cybersecurity–related finding has been redacted
+from the publicly available report in accordance with State Government Article, Section 2-
+1244(i) of the Annotated Code of Maryland.
+11
+
+--- Page 14 ---
+Findings and Recommendations
+Claims Processing
+Finding 1
+The Medical Care Programs Administration (MCPA) did not ensure
+manually processed Maryland Medicaid Pharmacy Program (MMPP) claims
+were proper, resulting in overpayments of approximately $397,000 related to
+11 of the 15 claims we tested.
+Analysis
+MCPA did not ensure manually processed MMPP claims were proper, resulting in
+overpayments of approximately $397,000. Pharmacy claims are generally paid
+based on rates (known as the allowable drug cost) programmed in the pharmacy
+vendor system. However, the allowable costs for certain drugs4 are calculated and
+processed manually by an MMPP employee using criteria provided in State
+regulations to process the claim. According to MCPA records, during fiscal year
+2022 there were approximately 1,400 manual claims totaling $46.8 million
+processed in the pharmacy vendor system.
+MCPA management advised that it performed a monthly review of manually
+processed claims, but could only document that this review was performed for
+one month (December 2022) during our audit period. According to MCPA
+management, the employee responsible for performing this review left State
+employment and it could not locate evidence of reviews performed prior to
+December 2022.
+Our test of 15 manual claims judgmentally selected based on materiality (that is,
+price per pill) totaling $9.6 million and processed between June 2020 and
+November 2022 disclosed that 11 claims were overpaid by approximately
+$397,000 because the employee who processed the claim entered an amount that
+exceeded the allowable drug cost by $1,959 to $170,000. MCPA was not aware
+of these overpayments until we brought them to its attention in May 2023. As of
+May 2023, MCPA had recovered $289,000 of the overpayments and advised that
+it would pursue recovery of the remaining $108,000.
+4 According to State regulations, the amount MMPP pays is the lower of the wholesale acquisition
+cost or the actual acquisition cost plus eight percent for certain high-cost drugs.
+12
+
+--- Page 15 ---
+Recommendation 1
+We recommend that the Maryland Department of Health (MDH)
+a. perform independent documented reviews of manually processed claims
+including those processed during the audit period; and
+b. recover any overpayments identified, including those noted above.
+Finding 2
+MDH did not have procedures to ensure that prescribing providers were
+licensed prior to approving pharmacy claims for payment.
+Analysis
+MDH did not have procedures to ensure that prescribing providers were
+licensed prior to approving pharmacy claims for payment. MDH validated that
+providers were licensed by the appropriate Health Professional Board during
+the provider enrollment process for each of the four programs.5 However,
+pharmacy claims can be paid regardless of whether the prescribing provider
+was enrolled in the program (and therefore subject to prior licensure
+verification), and in such cases, MDH lacked assurance that the provider was
+properly licensed, as required by regulations.
+We analyzed pharmacy claims activity during fiscal year 2022 and identified
+claims totaling approximately $17.6 million paid to 9,318 prescribing
+providers who were not enrolled in the MDH programs, and therefore were not
+subject to license validation (see Figure 3 on the following page). Our test of
+60 providers with significant paid claims for the respective programs during
+fiscal year 2022 (totaling approximately $7 million), disclosed that, although
+the prescribing provider was not enrolled in the respective program at the
+time of the claim, they were properly licensed.
+5 For the MCO pharmacy-related costs, since MDH does not directly administer the program, it is
+the responsibility of each MCO to ensure that participating prescribing providers were licensed.
+13
+
+--- Page 16 ---
+Figure 3
+Fiscal Year 2022 Pharmacy Claims and Non-Validated
+Prescribers
+Total Activity Non-Validated Prescribers
+Program
+Claims Payments Claims Payments
+MMPP 5,073,694 $597,193,372 280,881 $16,947,913
+MADAP 100,002 31,461,854 3,469 640,080
+KDP 14,553 626,493 513 31,226
+BCCDTP 2,270 1,763,151 35 7,095
+Totals 5,190,519 $631,044,870 284,898 $17,626,314
+Source: MDH records
+State regulations for each of the four programs included in Figure 3 require
+prescribing providers to be licensed in the State in which they practice. In
+addition, federal regulations require that for MMPP, prescribing providers be
+enrolled in the Medicaid program. According to federal guidance, ensuring
+that prescribing and referring physicians are prescreened and enrolled in
+Medicaid helps to reduce fraud and lowers risk to consumers.
+A similar condition was commented upon in our preceding audit report. In its
+response to that report, MDH, on behalf of MCPA and PHPA, indicated that
+edits in the new pharmacy vendor system would deny claims from providers
+who had not enrolled in the respective MDH program. Although the new
+pharmacy vendor system went live in October 2022, as of July 2023, these
+edits had not been implemented, and as noted above, MDH had not
+implemented alternative procedures to ensure prescribing providers are
+properly licensed prior to paying claims.
+Recommendation 2
+We recommend that MDH establish procedures to ensure that prescribing
+providers are licensed as required by program regulations prior to paying
+pharmacy claims (repeat).
+14
+
+--- Page 17 ---
+Finding 3
+MDH did not audit three of the four fee-for-service programs’ pharmacy
+claims, did not analyze claim reversals, and did not use available drug
+utilization data to identify improper claims.
+Analysis
+MDH did not audit three of the four fee-for-service programs’ pharmacy claims,
+did not analyze claim reversals, and did not use available drug utilization claims
+data to identify improper claims.
+MDH Did Not Audit Most of the Participating Pharmacies’ Claims
+MDH did not have procedures to audit the majority of its pharmacy activity to
+identify policy and billing violations as well as any potential fraud, waste, or
+abuse. While 52 pharmacies under MADAP were audited, no audits of MMPP,
+BCCDTP, and KDP pharmacies were conducted; which means that only 2 percent
+of the 2,585 pharmacies with activity during fiscal year 2022 were audited. We
+noted that the MADAP audits, which were conducted by MDH’s pharmacy
+vendor and related to calendar year 2020 activity, identified claims totaling
+approximately $425,000 that needed to be recovered.
+MDH should develop criteria to ensure appropriate audit coverage for these
+programs. According to industry best practices, pharmacy claims should be
+audited on a routine basis. The primary purpose of these audits is to perform
+manual verifications that are not possible through the pharmacy vendor system,
+such as to ensure that a valid prescription was issued, was properly filled, or that
+the prescription was actually picked up by the recipient.
+A similar condition was commented upon in our preceding audit report. MDH’s
+response to that report, on behalf of MCPA and PHPA, indicated that MDH
+planned to procure a vendor to perform these audits by the end of calendar year
+2022. MDH had not procured these services for MMPP, BCCDTP, or KDP and
+advised us that it no longer plans to procure the audit services and had not
+developed a formal plan to audit the claims.
+MDH Did Not Evaluate Pharmacy Claim Reversals
+MDH did not evaluate claims data to identify pharmacies that may not be
+processing claim reversals when prescriptions are not picked up by the recipient.
+Pharmacies are paid by the State based on claims submitted when the
+prescriptions are filled, rather than when the prescriptions are picked up. State
+regulations require pharmacies to reverse the charges (and reimburse the State)
+when the prescriptions are not picked up within 14 days of the claim submission.
+15
+
+--- Page 18 ---
+Our analysis of fiscal year 2022 claims data for the four fee-for-service programs
+disclosed that 710 of the 2,585 participating pharmacies had reversal rates under
+10 percent, which was in some cases significantly below the respective program
+averages (see Figure 4). For example, our review of the 1,413 pharmacies in
+MMPP with paid claims totaling $597.2 million disclosed an average reversal rate
+of 19 percent. We noted 364 pharmacies had a reversal rate under 10 percent
+including 201 pharmacies with $90.3 million in paid claims that had less than 5
+percent of their claims reversed. According to the United States Government
+Accountability Office, there may be legitimate reasons for a pharmacy to have a
+low percentage of claim reversals, however such pharmacies may warrant a
+follow-up review.6
+Figure 4
+OLA Analysis of Pharmacy Reversal Rates
+During Fiscal Year 2022
+Total Count Average Pharmacies with Reversal
+Program of Reversal Rates Under 10 Percent
+Pharmacies Rate Count Claims Paid
+MMPP 1,413 19% 364 $221,843,456
+MADAP 752 22% 182 9,410,226
+BCCDTP 221 21% 90 51,318
+KDP 199 23% 74 101,809
+Total 2,585 - 710 $231,406,809
+Source: OLA analysis of MDH records
+A similar condition was commented upon in our preceding audit report. In
+response to that report, MDH, on behalf of MCPA and PHPA, indicated that it
+planned to procure a vendor to identify and investigate pharmacies with low
+reversal rates by the end of calendar year 2022. During our current audit, MDH
+management advised us that it no longer plans to procure a vendor for these
+services and had not developed a formal plan to identify and investigate low
+reversal rates.
+6 A July 2015 Government Accountability Office report on Medicaid titled ‘Additional Reporting
+May Help CMS Oversee Prescription-Drug Fraud Controls’ noted that pharmacies with too few
+adjustments may be a red flag for concern.
+16
+
+--- Page 19 ---
+MDH Did Not Analyze MMPP Claims Data to Identify Fraud, Waste, and Abuse
+MDH did not have a comprehensive process to utilize MMPP drug utilization
+claims data to identify fraud, waste, and abuse.7 In accordance with federal law,
+MDH operates a Drug Utilization Review to reduce clinical abuse and misuse of
+outpatient prescription drugs. Although MDH advised that it also utilized drug
+utilization claims data to identify patterns of improper activity for further
+investigations (such as questionable dispensing or prescribing practices), MDH’s
+written procedures at the time of our review did not specify how this data was to
+be used and MDH could not document that it analyzed the data for this purpose.
+Furthermore, we noted that MDH only conducted two investigations during our
+audit period that were initiated based on concerns identified using drug utilization
+claims data.
+A similar condition was commented upon in our preceding audit report. In
+response to that report, MDH indicated that it would incorporate the use of drug
+utilization claims data to identify potential fraud, waste, and abuse by December
+31, 2020. However, as noted above, MDH could not document how this data was
+used.
+Recommendation 3
+We recommend that MDH,
+a. establish procedures to periodically audit each program’s pharmacy
+claims on a test basis (repeat);
+b. investigate the aforementioned pharmacies with below average reversals
+and take appropriate follow-up action (repeat); and
+c. utilize all available data to help identify improper MMPP pharmacy
+claims including fraud, waste, and abuse (repeat).
+Rebates
+Background
+MDH receives prescription drug rebates under two federal programs, the
+Medicaid Drug Rebate program and Section 340B Drug Pricing Program which
+establish the specific drugs that are eligible for rebates and the applicable rebate
+rates. Rebates are received from drug manufacturers for covered outpatient
+drugs dispensed to approved clients under each MDH pharmacy program.
+The pharmacy vendor system tracks all drug purchases, referred to as drug
+utilization data, for each program by drug manufacturer. On a quarterly basis,
+7 We did not review the other three programs for this control given the lesser claims activity (see
+Figure 3 on page 12).
+17
+
+--- Page 20 ---
+MDH sends an invoice for rebates to each drug manufacturer for each of the
+four fee-for-service programs and the MCO program based on drug utilization
+activity for the period. MDH’s fiscal services handles the invoicing, accounts
+receivables, and collections processes for MCO, MMPP, KDP, and BCCDTP
+rebates, and the MADAP program is responsible for handling its own rebates.
+We reviewed the procedures and performed testing on rebates for these five
+programs, and noted the following issues with rebates under the MADAP
+program.
+Finding 4
+MDH did not ensure that drug manufacturers provided timely and proper
+MADAP drug rebate payments.
+Analysis
+MDH did not ensure that drug manufacturers provided timely and proper
+MADAP drug rebate payments. Specifically, MDH’s accounts receivable
+records were not sufficient to enable MDH to determine the total amount owed
+by each manufacturer and the age of the related receivable balances and could
+not document its collection efforts for the outstanding rebates. In addition,
+MDH did not have a documented process to verify the propriety of rebates
+remitted by one drug manufacturer that accounted for $22.1 million (49
+percent) of the $45.2 million in MADAP rebates received during fiscal year
+2022.
+MDH Had Inaccurate Accounting Records and Could Not Document Collection
+Efforts
+MDH did not maintain accurate accounts receivable records for use in
+monitoring MADAP rebates owed by drug manufacturers. Although MDH
+established a separate receivable for each amount it invoiced to the drug
+manufacturers, it did not always apply payments to the correct receivable.
+Consequently, MDH could not readily determine the total amount owed by
+each drug manufacturer and the age of the receivables.
+MDH also could not document that it pursued collection of outstanding
+amounts or referred delinquent accounts to the State’s Central Collections Unit
+(CCU). Our analysis of MDH accounts receivable records for calendar years
+2021 and 2022 disclosed that as of March 22, 2023, outstanding MADAP
+rebates totaled $12.4 million, including at least $1.5 million in rebates that were
+outstanding for more than a year. MDH could not provide documentation of its
+efforts to collect these outstanding rebates or referral to the CCU of any
+amounts that remained delinquent.
+18
+
+--- Page 21 ---
+An accurate report to age delinquent accounts is required by the Comptroller of
+Maryland’s Accounting Procedures Manual. In addition, State regulations
+provide that outstanding accounts which remain uncollected for 90 days be
+transferred to CCU for additional collection activity.
+MDH Could Not Document That Rebates From One Drug Manufacturer Were
+Verified
+MDH could not document that it verified the propriety of rebate payments from
+one drug manufacturer. According to agency records, MDH invoiced the
+manufacturer for rebates totaling $75 million between July 2019 and March
+2022. Our review disclosed that the rebates remitted by this manufacturer
+during this period totaled only $61.4 million. Although MDH advised that the
+manufacturer reduced the amount paid because certain drug costs were not
+eligible for rebate, MDH could not document that it had verified that the
+reduced payments were properly calculated in accordance with the drug
+manufacturer’s agreement. Our review of all rebates for the first quarter of
+calendar year 2022 for this drug manufacturer did not disclose any issues with
+the manufacturer’s calculation. We noted that MDH had a process in place to
+verify the propriety of rebates remitted by the other participating drug
+manufacturers.
+Similar conditions regarding the lack of procedures to ensure that drug
+manufacturers submitted drug rebates timely and accurately were commented
+upon in our preceding audit report and our April 2018 audit report of the
+Maryland Department of Health – Prevention and Health Promotion
+Administration, Office of Population Health Improvement, Office of
+Preparedness and Response. MDH’s response to our prior reports indicated
+that it would establish procedures to ensure drug manufacturer rebates were
+paid accurately and timely, and pursue collection of outstanding amounts by
+April 2020. However, as noted above, these procedures were not in place at the
+time of our review.
+Recommendation 4
+We recommend that MDH
+a. establish procedures to ensure that all required drug manufacturers
+pay rebates accurately and timely (repeat), including the development
+of accounts receivable records that provide sufficient information to
+monitor outstanding rebates and pursue collection activities; and
+b. pursue collections of any outstanding rebates, including those noted
+above (repeat).
+19
+
+--- Page 22 ---
+System Security
+We determined that Finding 5 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with MDH’s responses, have been redacted from this
+report copy.
+Finding 5
+Redacted cybersecurity-related finding.
+20
+
+--- Page 23 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Department of
+Health (MDH) pharmacy services for the period beginning July 1, 2019 and
+ending December 31, 2022. The audit focuses on pharmacy services provided by
+MDH through five separate programs of which two are in the Medical Care
+Programs Administration (MCPA) and three are in the Prevention and Health
+Promotion Administration (PHPA):
+MCPA
+ Medicaid Managed Care Program
+ Maryland Medicaid Pharmacy Program
+PHPA
+ Maryland AIDS Drug Assistant Program
+ Breast and Cervical Cancer Diagnosis and Treatment Program
+ Kidney Disease Program
+The audit was conducted in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to
+obtain sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. We believe that the
+evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MDH’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included MDH’s pharmacy point-of-sale electronic claims
+management system (pharmacy vendor system) security and controls, claims
+adjudication and processing, manual overrides, rate setting, program monitoring
+and audits, and rebate processing. We also determined the status of the findings
+contained in our preceding audit report.
+Our audit did not include certain support services provided to MCPA by MDH.
+These support services (such as payroll, purchasing, maintenance of accounting
+records, and related fiscal functions) are included within the scope of our audit of
+the MDH – Office of the Secretary and Other Units. In addition, our audit did not
+21
+
+--- Page 24 ---
+include an evaluation of internal controls over compliance with federal laws and
+regulations for federal financial assistance and programs and an assessment of
+MDH’s compliance with those laws and regulations because the State of
+Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including MDH.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of July 1, 2019 to December 31, 2022, but may include transactions before
+or after this period as we considered necessary to achieve our audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspection of documents and records, tests of transactions,
+and to the extent practicable, observations of MDH’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from this source
+were sufficiently reliable for the purposes the data were used during the audit.
+We also extracted data from the Medicaid Management Information System (such
+as claim payments) for the purpose of selecting test items and performing data
+analytics. We performed various tests of the relevant data and determined that the
+data were sufficiently reliable for the purposes the data were used during the
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+MDH’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+22
+
+--- Page 25 ---
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to MDH, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect MDH’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes a finding regarding a significant instance of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to MDH that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+23
+
+--- Page 26 ---
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to MDH and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+The response from MDH, on behalf of MCPA and PHPA, to our findings and
+recommendations, is included as an appendix to this report. Depending on the
+version of the audit report, responses to any cybersecurity findings may be
+redacted in accordance with State law. As prescribed in State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise MDH
+regarding the results of our review of its response.
+24
+
+--- Page 27 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Maryland Department of Health Units
+As of June 2024 (Page 1 of 2)
+Most Recent
+Name of Audit Areas Covered
+Report Date
+1 Laboratories Administration Laboratories Administration 06/05/24
+ Clifton T. Perkins Hospital Center
+ Eastern Shore Hospital Center
+2 State Psychiatric Hospital Centers  Spring Grove Hospital Center 05/29/24
+ Springfield Hospital Center
+ Thomas B. Finan Hospital Center
+ Maryland Health Care Commission
+ Health Services Cost Review Commission
+3 Health Regulatory Commission 01/25/24
+ Maryland Community Health Resources
+Commission
+Managed Care Program, known as HealthChoice
+Medical Care Programs Administration –
+4 including oversight of the nine private Managed 12/14/23
+Managed Care Program
+Care Organizations
+5 Medical Care Programs Administration Medical Care Programs Administration 11/02/23
+ Office of the Secretary
+ Deputy Secretary and Executive Director for
+Behavioral Health
+ Deputy Secretary for Developmental
+6 Office of the Secretary and Other Units Disabilities 10/19/23
+ Deputy Secretary for Public Health
+ Deputy Secretary for Health Care Financing
+and Chief Operating Officer
+ Deputy Secretary for Operations
+ Deer’s Head Center
+7 Chronic Care Hospital Centers 05/10/23
+ Western Maryland Hospital Center
+Developmental Disabilities
+8 Developmental Disabilities Administration 10/26/22
+Administration
+Behavioral Health Administration and  Behavioral Health Administration
+Medical Care Programs Administration -  Medical Care Programs Administration
+9 10/25/22
+Administrative Service Organization for Administrative Service Organization for
+Behavioral Health Services Behavioral Health Services
+ Holly Center
+Intellectual Disabilities Residential  Potomac Center
+10 10/24/22
+Centers  Secure Evaluation and Therapeutic
+Treatment
+25
+
+--- Page 28 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Maryland Department of Health Units
+As of June 2024 (Page 2 of 2)
+Most Recent
+Name of Audit Areas Covered
+Report Date
+ John L. Gildner Regional Institute for
+Regional Institute for Children and Children and Adolescents
+11 07/13/22
+Adolescents  Regional Institute for Children and
+Adolescents – Baltimore
+12 Office of the Chief Medical Examiner Office of the Chief Medical Examiner 05/12/22
+ Prevention and Health Promotion
+Administration
+ Office of Population Health Improvement
+Prevention and Health Promotion
+ Office of Preparedness and Response
+Administration, Office of Population
+ Office of Provider Engagement and
+13 Health Improvement, Office of 02/23/21
+Regulation – Office of Controlled Substances
+Preparedness and Response, and Office of
+Administration
+Provider Engagement and Regulation
+ Office of Provider Engagement and
+Regulation – Prescription Drug Monitoring
+Program
+ 22 Health Professional Boards and
+14 Regulatory Services Commissions 01/19/21
+ The Office of Health Care Quality
+15 Vital Statistics Administration Vital Statistics Administration 11/10/20
+26
+
+--- Page 29 ---
+APPENDIX
+August 8, 2024
+Mr. Brian S. Tanen, CPA, CFE
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+Dear Mr. Tanen:
+Enclosed, please find the responses to the draft audit report on the Maryland Department of
+Health – Pharmacy Services for the period beginning July 1, 2019 to December 31, 2022.
+If you have any questions, please contact Frederick D. Doggett at 410-767-0885 or email at
+frederick.doggett@maryland.gov.
+Sincerely,
+Laura Herrera Scott, M.D., M.P.H.
+Secretary
+Enclosures
+cc: Erin K. McMullen, R.N., Chief of Staff, MDH
+Marie Grant, Assistant Secretary for Health Policy, MDH
+Nilesh Kalyanaraman, M.D., Deputy Secretary, Public Health Services, MDH
+Erin S. Penniston, Chief of Staff, Public Health Services, MDH
+Ryan B. Moran, Dr. P.H., Deputy Secretary, Health Care Financing & Medicaid Director,
+MDH
+Frederick D. Doggett, Director, Internal Controls, Audit Compliance & Information
+Security, MDH
+Tricia C. Roddy, Deputy Medicaid Director, MDH
+Warren Waters, Jr., Chief of Staff, Health Care Financing, MDH
+Deneen Toney, Deputy Director, Audit & Compliance, Internal Controls, Audit
+Compliance & Information Security, MDH
+Carlean Rhames-Jowers, Chief Auditor, Internal Controls, Audit Compliance &
+Information Security, MDH
+
+--- Page 30 ---
+Maryland Department of Health
+Pharmacy Services
+Agency Response Form
+Claims Processing
+Finding 1
+The Medical Care Programs Administration (MCPA) did not ensure
+manually processed Maryland Medicaid Pharmacy Program (MMPP) claims
+were proper, resulting in overpayments of approximately $397,000 related to
+11 of the 15 claims we tested.
+We recommend that the Maryland Department of Health (MDH)
+a. perform independent documented reviews of manually processed claims
+including those processed during the audit period; and
+b. recover any overpayments identified, including those noted above.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1a Agree Estimated Completion Date: Complete
+Please provide details of MDH has implemented policies and procedures to ensure future
+corrective action or manually processed pharmacy claims undergo independent documented
+explain disagreement. review to ensure propriety. For the past claims, MMPP has performed a
+review of all manually processed claims for each of the 4 fiscal years
+and has performed recovery of identified overpayments.
+Recommendation 1b Agree Estimated Completion Date: 8/31/2024
+Please provide details of MMPP has recovered the vast majority of the overpayments identified
+corrective action or by its review. The review identified overpayments totaling $451,864.
+explain disagreement. MDH successfully recovered $360,326. The remaining overpayments of
+$91,538 were to a pharmacy which is no longer in business. The amount
+will be referred to the Central Collections Unit to finalize recovery.
+Page 1 of 5
+
+--- Page 31 ---
+Maryland Department of Health
+Pharmacy Services
+Agency Response Form
+Finding 2
+MDH did not have procedures to ensure that prescribing providers were
+licensed prior to approving pharmacy claims for payment.
+We recommend that MDH establish procedures to ensure that prescribing
+providers are licensed as required by program regulations prior to paying
+pharmacy claims (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2 Agree Estimated Completion Date: Complete
+Please provide details of MMPP Response:
+corrective action or Maryland Medicaid went live with full implementation of the
+explain disagreement. mechanism for POS denial of claims submitted with prescribers that
+have not registered with Maryland Medicaid as of July 1, 2024. Now for
+all FFS Medicaid pharmacy claims, prescribers must be enrolled with
+Maryland Medicaid.
+PHPA Response:
+MDH has established procedures to determine if prescribing providers
+are licensed by having the pharmacy point of sale (POS) vendor utilize
+the Maryland Medicaid prescriber file when adjudicating pharmacy
+claims.
+MDH rolled out a mechanism for POS denial for claims submitted with
+prescribers that have not registered with Maryland Medicaid which will
+also capture those not licensed so that claims can be denied at POS. This
+new system automated MADAP’s review of these claims and essentially
+decreased the amount of invalid prescriber claims from being paid at
+POS. MADAP is currently working with the PBM to implement a
+mechanism to deny pharmacy claims submitted with unlicensed
+prescriber credentials after September 1, 2024. Until such time, MADAP
+will maintain a weekly review of the invalid prescriber report.
+Page 2 of 5
+
+--- Page 32 ---
+Maryland Department of Health
+Pharmacy Services
+Agency Response Form
+Finding 3
+MDH did not audit three of the four fee-for-service programs’ pharmacy
+claims, did not analyze claim reversals, and did not use available drug
+utilization data to identify improper claims.
+We recommend that MDH,
+a. establish procedures to periodically audit each program’s pharmacy
+claims on a test basis (repeat);
+b. investigate the aforementioned pharmacies with below average reversals
+and take appropriate follow-up action (repeat); and
+c. utilize all available data to help identify improper MMPP pharmacy
+claims including fraud, waste, and abuse (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3a Agree Estimated Completion Date: Complete
+Please provide details The OIGH continually reviews pharmacy claims to detect instances of
+of corrective action or fraud, waste, and abuse within the Medicaid program utilizing all
+explain disagreement. available data. OIGH is recruiting for additional resources to conduct
+these reviews. OIGH has developed policies and procedures to audit
+each program’s pharmacy claims and will work to have members of its
+existing staff conduct these audits while recruitment continues.
+Recommendation 3b Agree Estimated Completion Date: 1/1/2025
+Please provide details of OIGH has begun data mining pharmacies that have below average
+corrective action or reversal rates. The OIGH will conduct on-site reviews of those
+explain disagreement. pharmacies.
+Recommendation 3c Agree Estimated Completion Date: Complete
+Please provide details of The OIGH continually reviews pharmacy claims to detect instances of
+corrective action or fraud, waste, and abuse within the Medicaid program utilizing all
+explain disagreement. available data. The OIGH continues to run regular data mining
+surveillance runs on MMPP data. OIGH also conducts on-site
+Page 3 of 5
+
+--- Page 33 ---
+Maryland Department of Health
+Pharmacy Services
+Agency Response Form
+investigations of pharmacies that present as outliers in these surveillance
+runs or in response to a referral.
+Rebates
+Finding 4
+MDH did not ensure that drug manufacturers provided timely and proper
+MADAP drug rebate payments.
+We recommend that MDH
+a. establish procedures to ensure that all required drug manufacturers
+pay rebates accurately and timely (repeat), including the development
+of accounts receivable records that provide sufficient information to
+monitor outstanding rebates and pursue collection activities; and
+b. pursue collections of any outstanding rebates, including those noted
+above (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: Complete
+Please provide details of MDH/MADAP has revised rebate documentation procedures for invoice
+corrective action or accuracy, payment accuracy including verification of disputed claims
+explain disagreement. resulting in reduced payments, monitoring of outstanding rebates, and
+collection activities.
+Recommendation 4b Agree Estimated Completion Date: Complete
+Please provide details of As of June 2023, MADAP established an account with the Maryland
+corrective action or Central Collection Union (CCU) to send delinquent labeler accounts to
+explain disagreement. CCU for collection. Also in June 2023, MADAP received the first list of
+manufacturers from the PBM which represented 3Q2022 outstanding
+balances. MADAP has revised the procedures for pursuing collections of
+any outstanding rebates.
+Page 4 of 5
+
+--- Page 34 ---
+Maryland Department of Health
+Pharmacy Services
+Agency Response Form
+System Security
+The Office of Legislative Audits (OLA) has determined that Finding 5 related to
+“cybersecurity,” as defined by the State Finance and Procurement Article, Section
+3.5-301(b) of the Annotated Code of Maryland, and therefore is subject to
+redaction from the publicly available audit report in accordance with the State
+Government Article 2-1224(i). Although the specifics of the finding, including
+the analysis, related recommendation(s), along with MDH’s responses, have been
+redacted from this report copy, MDH’s responses indicated agreement with the
+finding and related recommendations.
+Finding 5
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 5 of 5
+
+--- Page 35 ---
+A T
+UDIT EAM
+Edward A. Rubenstein, CPA
+Audit Manager
+David R. Fahnestock, CPA
+Data Analytics Manager
+James J. Podhorniak, CPA, CFE
+Senior Auditor
+Charles H. Hinds IV, CPA
+Data Analytics Senior Auditor
+Chau D. Mai
+Dorian A. Fournier, CIA
+Staff Auditors

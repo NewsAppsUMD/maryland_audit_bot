@@ -1,0 +1,1654 @@
+Title: Maryland Department of Health - Developmental Disabilities Administration
+Date: 10/26/2022
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=635a879ea1ce5813dc77bd86
+Extracted: 2025-06-20T00:25:30.173525
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Health
+Developmental Disabilities Administration
+July 2019
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Craig J. Zucker (Senate Chair) Delegate Shelly L. Hettleman (House Chair)
+Senator Adelaide C. Eckardt Delegate Steven J. Arentz
+Senator George C. Edwards Delegate Andrew P. Cassilly
+Senator Guy J. Guzzone Delegate Mark S. Chang
+Senator Katie Fry Hester Delegate Keith E. Haynes
+Senator Cheryl C. Kagan Delegate Michael A. Jackson
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate April R. Rose
+Senator Douglas J.J. Peters Delegate Geraldine Valentino-Smith
+Senator Justin D. Ready Delegate Karen Lewis Young
+To Obtain Further Information
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 ꞏ 301-970-5900 ꞏ 1-877-486-9964 (Toll Free in Maryland)
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 8
+Agency Responsibilities 8
+Developmentally Disabled Services Delivery Process 9
+Rate-Setting Study 10
+Federal Liability 11
+Monitoring of Coordination of Community Services Agencies 11
+Performance Audit
+Status of Findings From Preceding Audit Report 12
+Findings and Recommendations 14
+Consumer Budgets
+Finding 1 – The Developmental Disabilities Administration (DDA) did 14
+not ensure level-of-need scores used to determine consumers’ service
+budgets were assigned in accordance with DDA’s established criteria
+and were properly recorded in its Provider Consumer Information
+System II. Our testing disclosed that certain scores could not be
+supported.
+Provider Payments
+Finding 2 – DDA did not identify recurring overpayments made over 15
+several years totaling at least $1.7 million that were later self-reported
+by a provider. In addition, DDA did not subsequently determine the
+full extent of the overpayments to this provider and whether similar
+overpayments were made to other providers.
+* Finding 3 – DDA did not conduct audits of providers to ensure payments 16
+were consistent with actual services delivered and in accordance with
+the consumers’ approved individual plans.
+* Denotes item repeated in full or part from preceding audit report
+5
+
+--- Page 8 ---
+Procurement of Services and Related Billings
+Fiscal Management Services
+Finding 4 – Fiscal management services contracts were not 18
+comprehensive and properly approved, and DDA did not monitor the
+related vendors to ensure the required services were provided and the
+propriety of payments. In addition, all related federal reimbursements
+were not obtained, including federal funds totaling $4.9 million.
+Financial Restructuring Contract
+Finding 5 – DDA did not adequately justify a $2.7 million sole source 21
+contract awarded to an incumbent vendor to continue assisting in the
+financial restructuring of DDA operations, and could not support a
+significant increase in the contract rates for one vendor employee.
+Coordination of Community Services Agency Billings
+Finding 6 – DDA did not have an adequate process to ensure that 22
+amounts invoiced by Coordination of Community Services agencies
+properly reflected consumer services provided.
+Contribution to Care
+* Finding 7 – DDA had not taken sufficient action to identify and return 23
+improper contribution to care collections identified during our
+preceding audit.
+Federal Funds
+* Finding 8 – DDA did not recover certain federal funds timely, resulting 25
+in lost interest income of approximately $126,000. These delays
+were due, in part, to untimely Medicaid eligibility redeterminations.
+Provider Consumer Information System II (PCIS2)
+* Finding 9 – DDA did not verify the accuracy and completeness of 27
+critical adjustments that were processed in PCIS2, resulting in errors
+such as overpayments going undetected, and did not adequately
+restrict user access in the system.
+Finding 10 – The PCIS2 database and its supporting server were running 28
+on outdated software versions.
+* Denotes item repeated in full or part from preceding audit report
+6
+
+--- Page 9 ---
+Finding 11 – PCIS2 database and application backups were not stored 29
+offsite, and DDA did not have a complete information technology
+disaster recovery plan for recovering computer operations.
+Audit Scope, Objectives, and Methodology 31
+Agency Response Appendix
+7
+
+--- Page 10 ---
+Background Information
+Agency Responsibilities
+The Developmental Disabilities Administration (DDA) is an agency within the
+Maryland Department of Health (MDH). DDA’s mission is to provide leadership
+to assure the full participation of individuals with developmental disabilities
+(consumers) and their families in all aspects of community life, and to promote
+their access to quality support and services necessary to foster personal growth,
+independence, and productivity. DDA also administers the Court Involved
+Service Delivery System (the System) which serves individuals committed to
+MDH by the courts.
+DDA plans, develops policies and regulations, and funds a Statewide system of
+services for consumers and their families. DDA coordinates its work with other
+government, voluntary and private health, education, and welfare agencies. DDA
+funds services to consumers through a combination of private licensed Medicaid
+providers, not-for-profit licensed Medicaid providers, local health departments,
+and fiscal management services vendors
+(entities that assist consumers in a self-
+directed support services delivery
+system). Consumer services include an
+array of options such as residential
+living arrangements and support, and
+employment assistance. During fiscal
+year 2017, DDA expenditures totaled
+approximately $1.1 billion (see table),
+the majority of which related to provider payments for services on behalf of
+consumers.
+DDA consists of a headquarters unit, four regional offices that administer
+community-based services, two forensic residential centers under the System, and
+two residential centers – the Holly Center and the Potomac Center. We conduct
+separate audits of the Holly Center and the Potomac Center. This audit included
+the DDA headquarters unit, the four regional offices, and the System.
+8
+
+--- Page 11 ---
+Developmentally Disabled Services Delivery Process
+Consumer Eligibility and Provider Services
+To obtain DDA services, a consumer submits an application to a DDA regional
+office. Eligible
+consumers select one
+of the Coordinator of DDA Consumer Service Delivery Process
+Community Services
+(CCS) agencies under 1. Application/Eligibility
+contract with DDA. •Individuals with disabilities (consumers) submit an application to
+The CCS agency DDA. A Coordinator of Community Services (CCS) agency
+reviews the consumer's medical profile and assigns the consumer a
+works with the
+category based on priority; the consumer is then generally placed
+consumer to develop on a waiting list.
+an individual plan •Once funding has been identified, the consumer applies for
+Medicaid eligibility under DDA's Community Pathways Waiver.
+that describes the
+specific services the
+2. Consumer Plan and Budgets
+consumer is to
+•Consumers work with a CCS agency to develop and implement an
+receive from DDA
+individual plan.
+providers. Due to
+•A vendor under contract with DDA reviews each consumer's
+funding limitations, medical profile and provides the consumer with a score for each
+required service based on an established DDA methodology. The
+consumers are
+level-of-need score is entered into DDA's automated system to
+generally placed on a
+calculate the amount of funding to be allocated to the consumer.
+waiting list until
+funding becomes 3. Service Delivery
+available for their
+•The majority of consumers are directed by DDA to providers
+services. operating under the Fee Payments System; the providers are paid
+based on rates established in State regulations.
+•Consumers may also elect to select their own providers for certain
+DDA provides
+DDA services. These consumers are assigned a fiscal management
+services in vendor which manages the payments to the providers.
+accordance with the
+Maryland Home and
+Community Based
+Services Waiver (Community Pathways Waiver), which allows DDA to receive
+federal funding to cover a portion of the service costs and allows services to be
+delivered in a non-institutional setting to people with different needs or different
+income levels.
+The majority of consumers receive services under DDA’s traditional services
+model (the Fee Payments System), in which consumers receive services from
+providers licensed by the MDH Office of Health Care Quality. DDA also offers a
+self-directed service model, which allows consumers to select their own providers
+9
+
+--- Page 12 ---
+for certain services. Consumers who elect self-direction are assigned a fiscal
+management services vendor which manages the payments to providers.
+Provider Payments
+DDA has a prospective payment system whereby providers are paid prior to
+services being rendered based on estimates of the services to be provided and the
+associated costs. The majority of DDA’s provider payments are processed
+through DDA’s Provider Consumer Information System II (PCIS2) based on rates
+established in State regulations. At year-end, the providers submit records of
+actual services provided, from which a reconciliation to payments previously
+made is performed by MDH’s Division of Cost Accounting and Reimbursements.
+Adjustments to future provider payments are made in PCIS2 for any differences.
+In addition, certain residential consumers are responsible for paying the providers
+for a portion of the cost of their services, referred to as “contribution to care.”
+According to MDH’s records, DDA provider payments for fiscal year 2017
+totaled $993.4 million.
+Rate-Setting Study
+In August 2015, DDA entered into an agreement with a vendor to conduct an
+independent cost-driven, rate-setting study to set provider rates for community-
+based services, as required by Chapter 648, Laws of Maryland 2014. The study
+was intended to align the rates DDA pays providers for community-based services
+with the actual costs of providing the services, including the costs of
+transportation, consumers’ direct support, and supervisory staff (such as wages
+and benefits). The deadline for completing this study was September 30, 2017
+but, as of February 2019, the study had not been finalized.
+Although the study itself had not been finalized, in November 2017 DDA
+submitted a report to the General Assembly which identified preliminary rates to
+be paid to providers. According to this report, DDA estimated that the
+implementation of these preliminary rates (which were based on fiscal year 2018
+consumers’ service budgets) would require an additional appropriation of
+approximately $74.8 million (including general funds totaling $38.3 million), with
+increased appropriations likely required in future fiscal years. DDA management
+advised us that, after the study is finalized, it plans to present the rates during the
+2020 Session of the General Assembly. Since DDA’s provider rates are
+established by State regulations, implementation of these revised rates will require
+the promulgation of new regulations and approval by the Joint Committee on
+Administrative, Executive, and Legislative Review.
+10
+
+--- Page 13 ---
+Federal Liability
+DDA has a federal liability of approximately $34.2 million for which State
+general funds may be needed. In June 2015, DDA was notified by the federal
+Department of Health and Human Services – Office of Inspector General (DHHS
+OIG) that DDA did not implement its Community Pathways Waiver program in
+accordance with federal requirements. Specifically, between July 1, 2010 and
+June 30, 2013, DDA claimed and received federal reimbursement for $34.2
+million in provider payments for add-on services for consumers who did not meet
+the waiver program’s level-of-need requirement. DDA had not considered the
+consumer’s level of need when approving these add-on services.
+The DHHS OIG recommended that DDA refund the overbilled amount to the
+federal government. DDA did not concur with the recommendation and, in
+September 2015, MDH, on behalf of DDA, issued a letter to the federal Centers
+for Medicare and Medicaid Services (CMS) contesting the findings and
+recommendations. CMS notified MDH in June 2018 that it was disallowing the
+full amount of these claims, and MDH subsequently appealed this determination
+in August 2018. As of September 30, 2018, CMS had not responded to the MDH
+appeal. CMS will assess interest accrued on any amounts it determines were
+properly disallowed beginning on the date of initial disallowance (June 2018).
+Consequently, the total federal liability may exceed $34.2 million.
+Although DDA is disputing the disallowed claims, during the fiscal year 2019
+closeout process, MDH reported the potential federal liability to the Comptroller
+of Maryland – General Accounting Division. As of October 4, 2018, DDA had
+not identified funding sources for the liability.
+Monitoring of Coordination of Community Services Agencies
+Performance Audit
+Our past three fiscal compliance audits of DDA contained findings regarding
+DDA’s inadequate monitoring of its Coordination of Community Services (CCS)
+agencies (previously referred to as resource/service coordinators) to ensure that
+consumers received the required services from providers. As a result, we
+conducted a performance audit of DDA’s monitoring of its CCS agencies to
+assess whether consumers received the required services, and issued the related
+report dated January 2, 2019.
+In that report, regarding service delivery we concluded that while we were able to
+obtain sufficient documentation from the service providers to support the delivery
+of services to consumers selected for testing, we determined that DDA was not
+11
+
+--- Page 14 ---
+adequately monitoring the CCS agencies’ efforts to ensure the consumers
+received these services. In addition, DDA did not provide the CCS agencies with
+appropriate guidance on their responsibilities with regard to quarterly consumer
+face-to-face monitoring visits. Finally, information provided by CCS agencies on
+consumer monitoring forms was insufficient to document the delivery of services.
+In response, DDA agreed with the findings and related recommendations.
+Status of Findings From Preceding Audit Report
+Our audit, as well as the aforementioned Monitoring of Coordination of
+Community Services Agencies performance audit, included a review to determine
+the status of the 10 findings contained in our preceding audit report dated
+November 18, 2016. As disclosed in the following table, we determined that
+DDA satisfactorily addressed 5 of these findings. The remaining 5 findings are
+repeated in this report, 2 of which were combined and presented as 1 finding in
+this report.
+12
+
+--- Page 15 ---
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+DDA incorrectly directed providers to collect an estimated $4.2
+million annually from consumers for services that should have
+Repeated
+Finding 1 been paid for with State and federal funds. DDA believes that
+(Current Finding 7)
+its administrative and financial costs to remedy this situation
+outweigh the potential benefits to the affected consumers.
+DDA did not adequately monitor the resource/service
+coordinators’ efforts to determine whether they were ensuring
+Repeated1
+Finding 2 that consumers received the required services from providers
+(Current Finding 8)
+and that Medicaid eligibility reassessments were conducted
+timely.
+DDA did not compare hours billed by the resource/service
+Finding 3 coordinators with hours worked as recorded in its PCIS2 to Not repeated
+ensure payments were proper.
+DDA did not negotiate the contract rates for either contract,
+and DDA procured the second contract as an emergency
+Finding 4 procurement even though certain services ultimately provided Not repeated
+under the contract did not appear to be emergencies as defined
+by regulation.
+DDA lacked an effective means to monitor payments for
+Finding 5 contract deliverables and similar deliverables were noted in Not repeated
+both contracts and certain contract modifications.
+DDA did not effectively monitor the contracts and the related
+payments. Certain deliverables were not received, vendor
+Finding 6 invoices were not effectively reviewed, and DDA authorized Not repeated
+the contractor to perform work outside the scope of the
+contracts.
+Federal fund reimbursement requests were not made timely,
+Repeated
+Finding 7 resulting in lost interest income totaling approximately
+(Current Finding 8)
+$210,000.
+DDA did not conduct audits of Community Supported Living Repeated
+Finding 8
+Arrangement providers to identify and recover overpayments. (Current Finding 3)
+DDA did not verify critical adjustments that were processed in
+PCIS2, resulting in errors such as overpayments going Repeated
+Finding 9
+undetected, and did not adequately restrict access to the (Current Finding 9)
+system.
+The PCIS2 database contained 58,022 unique social security
+Finding 10 numbers with associated names, dates of birth, and addresses Not repeated
+without adequate safeguards.
+1 This preceding finding is repeated, in part, in current finding 8 in this report and was also
+repeated, in part, in Finding 2 of the aforementioned Monitoring of Coordination of Community
+Services Agencies performance audit.
+13
+
+--- Page 16 ---
+Findings and Recommendations
+Consumer Budgets
+Finding 1
+The Developmental Disabilities Administration (DDA) did not ensure level-
+of-need scores used to determine consumers’ service budgets were assigned
+in accordance with DDA’s established criteria and were properly recorded in
+its Provider Consumer Information System II (PCIS2). Our testing disclosed
+that certain scores could not be supported.
+Analysis
+DDA did not ensure level-of-need scores used to determine consumers’ annual
+service budgets were assigned in accordance with DDA’s established criteria and
+were properly recorded in PCIS2. DDA sends consumer medical information to a
+vendor to perform a level-of-need assessment using DDA’s Individual Indicator
+Rating Scale (IIRS). The vendor uses the IIRS to assign each consumer a score
+for each approved service from his or her individual plan (based on individual
+medical needs) and forwards the scores to the applicable DDA regional office
+where it is manually entered into PCIS2. PCIS2 automatically calculates the
+consumer’s service budget using the scores and the corresponding rates provided
+in State regulations. For example, the fiscal year 2018 daily rate for residential
+services ranged from $86.73 to $237.16 based on the consumer’s level-of-need
+score.
+Our review disclosed that DDA did not ensure the vendor properly assigned the
+scores in accordance with the IIRS by performing an independent verification of a
+selection of scores in PCIS2. In addition, DDA did not require the regional
+offices to establish verification procedures to ensure that scores were properly
+recorded in PCIS2. Our test of 10 consumers’ fiscal year 2018 budgets totaling
+$704,640, which included 14 services, disclosed that neither DDA nor the vendor
+could provide support for the level-of-need scores used to determine 5 consumers’
+budgets for 8 services totaling $405,710. Consequently, we were unable to verify
+that the scores recorded in PCIS2 for these consumers and the resulting budgets
+were proper. The scores for the remaining 5 consumers we tested appeared to be
+properly supported. Accurately establishing consumers’ service budgets is critical
+to ensure that DDA’s annual community-based services funding is allocated in the
+most efficient manner and to maximize the number of consumers served.
+14
+
+--- Page 17 ---
+Recommendation 1
+We recommend that DDA
+a. perform documented, independent reviews (on a test basis) to ensure that
+level-of-need scores were properly assigned and accurately recorded in
+PCIS2; and
+b. ensure that documentation of the vendor’s assigned level-of-need scores is
+retained.
+Provider Payments
+Finding 2
+DDA did not identify recurring overpayments made over several years
+totaling at least $1.7 million that were later self-reported by a provider. In
+addition, DDA did not subsequently determine the full extent of the
+overpayments to this provider and whether similar overpayments were made
+to other providers.
+Analysis
+DDA did not identify recurring overpayments made over several years to one
+provider totaling at least $1.7 million. Rather, the overpayments were self-
+reported by the provider in April 2017. In addition, DDA did not determine the
+full extent of the overpayments to this provider and whether similar overpayments
+were made to other providers.
+The overpayment was the result of the improper designation in PCIS2 for 36
+consumers as receiving residential services rather than shared living services
+during the period from December 2014 through February 2017. Because
+consumers receiving shared living services reside with and receive certain
+services from a family caregiver, the cost is less than consumers receiving full
+residential services. Shared living services were funded at the same rate as
+residential services until 2000, when the Maryland Department of Health (MDH)
+Office of Health Care Quality promulgated new regulations designating
+residential and shared living as separate services. However, the individual plans
+and related PCIS2 designations for these 36 consumers were not revised to reflect
+this new service category until April 2017 after the provider brought the matter to
+DDA’s attention.
+Although, as of October 4, 2018, DDA had recovered the $1.7 million reported by
+the provider, DDA had not determined the total overpayments made to this
+provider for periods prior to December 2014 for these 36 consumers and for other
+consumers, nor did DDA attempt to determine whether similar overpayments
+15
+
+--- Page 18 ---
+were made to other providers. Using the same analysis methodology as the
+provider, we estimated that additional overpayments totaling $2.4 million were
+made to this provider for these 36 consumers during the period from July 2011
+through November 2014. We did not attempt to identify other consumers which
+should have been billed for shared living services rather than residential services
+and to estimate the full extent of overpayments made to this provider or to other
+providers. However, our review of DDA’s PCIS2 records disclosed that 2,716
+consumers have been receiving residential services since PCIS2 was implemented
+on July 1, 2001.
+Recommendation 2
+We recommend that DDA
+a. determine, to the extent possible, the total provider overpayments that
+occurred for consumers that were improperly billed, and consult with
+legal counsel to determine whether any overpayments identified should
+be recovered; and
+b. as applicable, for other consumers identified, revise the individual plans
+and related PCIS2 designations to reflect the correct service category.
+Finding 3
+DDA did not conduct audits of providers to ensure payments were consistent
+with actual services delivered and in accordance with the consumers’
+approved individual plans.
+Analysis
+DDA did not conduct audits of providers to ensure payments to providers were
+consistent with actual services delivered and in accordance with the consumers’
+approved individual plans. DDA relied on its Coordination of Community
+Services (CCS) agencies to monitor consumer services provided, and also
+received an annual cost report from each provider which included an independent
+auditor’s attestation that the services reported to DDA by the provider agreed to
+the provider’s records. However, our review of the CCS agency monitoring and
+auditor attestation processes disclosed that there were no verifications performed
+to ensure that the consumers actually received the services or that the services
+billed were consistent with the consumers’ approved individual plans.
+DDA providers were generally paid in advance for estimated services to be
+provided to consumers based on a fixed rate for each unit of service (such as daily
+attendance in a facility, hours of service provided). Providers recorded the actual
+services provided in PCIS2, which automatically updated subsequent payments
+for differences between the estimated and actual services provided. At the end of
+16
+
+--- Page 19 ---
+each year, providers submitted annual cost reports, which included an
+independent auditor’s attestation to the accuracy of the units of services reported.
+Although DDA’s CCS agencies were responsible for ensuring that consumers
+were receiving their services, CCS agency monitoring efforts were limited to
+ensuring consumers’ satisfaction with their services rather than verifying that the
+amounts and types of services that the consumers actually received were
+commensurate with the amounts billed by the providers and in accordance with
+their plans.
+Finally, in June 2018, DDA entered into a competitive solicitation for a vendor to
+perform provider audit services, which will include reviewing provider
+documentation for all DDA providers to ensure that services billed were provided
+and were consistent with consumers’ individual plans. As of February 2019, this
+procurement was still in progress. Provider audits are a recognized best practice
+by the federal Centers for Medicare and Medicaid Services (CMS) and, in the
+past, have been an effective mechanism for identifying overpayments.
+Historically, DDA contracted with a vendor to audit personal support providers
+(previously referred to as Community Supported Living Arrangement providers).
+A similar condition regarding the failure to perform these audits was commented
+upon in our preceding audit report, where we disclosed that a preceding auditing
+contract had been terminated by DDA in January 2014 due to changes in the
+understanding of the expected scope of work.
+Recommendation 3
+We recommend that DDA conduct audits of providers to ensure payments to
+providers were consistent with actual services provided and in accordance
+with the consumers’ approved individual plans (repeat).
+Procurement of Services and Related Billings
+DDA relies on a number of vendors to provide various services, including the
+services provided to its consumers. We reviewed and tested several of these
+contractual relationships that had a significant impact on DDA operations and
+identified similar issues among DDA’s relationship with vendors providing fiscal
+management services, services related to the financial restructuring of DDA
+operations, and services provided by CCS agencies. Some findings might be
+unique to a certain service or occur among several services. These findings,
+which broadly relate to the failure to follow State procurement regulations,
+include missing required contractual terms and conditions, not using a
+competitive procurement process, or not seeking and obtaining required
+approvals.
+17
+
+--- Page 20 ---
+Fiscal Management Services
+Finding 4
+Fiscal management services contracts were not comprehensive and properly
+approved, and DDA did not monitor the related vendors to ensure the
+required services were provided and the propriety of payments. In addition,
+all related federal reimbursements were not obtained, including federal
+funds totaling $4.9 million.
+Analysis
+DDA obtained fiscal management services (FMS) from two vendors, under
+contracts entered into in 2006 that were not comprehensive and for which
+required approvals from the Department of Budget and Management (DBM) and
+the Board of Public Works (BPW) were not obtained. In addition, DDA did not
+adequately monitor the two FMS vendors to ensure the fiscal management
+services were properly provided, that consumers received the required services,
+that provider payments were proper and accounted for, and that federal
+reimbursements were obtained. As a result, we noted a number of discrepancies,
+including DDA failing to recover $4.9 million in federal reimbursements and
+significant delays in the return of unspent funds by the vendors.
+While DDA directs most consumers to appropriate service providers, consumers
+may also elect to select their own providers for certain DDA services. DDA used
+these two FMS vendors to administer the fiscal activities of consumers who
+elected to self-direct their delivery of care. These FMS vendors were responsible
+for all fiscal operations, including monitoring consumer budgets, paying for
+provider services, and recovering any applicable federal funds. On a quarterly
+basis, DDA advanced funds to FMS vendors to cover administrative fees and
+provider payments on behalf of these self-directed consumers. According to
+DDA records, during fiscal year 2017, DDA paid the FMS vendors approximately
+$32.3 million (including FMS administrative fees) to provide services to 695 self-
+directed consumers.
+FMS Vendor Contracts Were Not Comprehensive and Properly Approved
+DDA’s FMS vendor contracts were not approved by State control agencies as
+required and did not contain certain critical terms and conditions. Specifically,
+DDA did not obtain DBM and BPW approvals as required by State procurement
+regulations. In addition, these 2006 contracts do not include critical provisions
+such as the fees to be charged and the period to be covered by the agreements,
+resulting in a lack of assurance that these services are being provided at the most
+advantageous prices.
+18
+
+--- Page 21 ---
+FMS administrative fees were included in the consumers’ annual overall service
+budgets, which were approved by DDA, and generally ranged between 6 and 10
+percent of the overall budgets. However, DDA could not provide a breakdown
+between the cost of consumer services and administrative fees paid to the FMS
+vendors. According to the FMS vendors’ records, DDA paid the two vendors
+approximately $2.7 million in administrative fees for fiscal years 2016 and 2017.
+State procurement regulations generally require DBM approval for service
+contracts in excess of $50,000 and BPW approval for service contracts exceeding
+$200,000. DDA management acknowledged that control agency approvals were
+not obtained for the contracts. In June 2018, DDA issued a request for proposal
+for FMS services but, as of February 2019, the procurement had not been
+finalized.
+DDA Did Not Monitor the Vendors nor Ensure Related Payments Were Proper
+ DDA did not perform annual site visits nor obtain independent financial audits
+of the two FMS vendors as required by the Community Pathways Waiver
+received from the federal Centers for Medicare and Medicaid Services (CMS).
+The annual site visits and audits are to ensure consumers receive all required
+services (including self-directed services), and that related service budgets and
+payments are proper. DDA management was unaware of these Waiver
+requirements until we brought them to its attention.
+ DDA did not ensure that the two FMS vendors timely submitted required
+annual accountings that compared their actual costs (administrative fees and
+consumer services) to the amounts previously advanced by DDA, and
+returned any unspent funds to DDA. We noted that the six accountings that
+were required to be submitted for fiscal years 2015 through 2017 (three from
+each FMS vendor) either were submitted untimely or were not submitted at
+all, and unspent funds were not returned timely. Specifically, as of August
+2018, one FMS vendor had not submitted accountings for two fiscal years, nor
+returned any unspent funds. The four remaining accountings were submitted
+between 5 and 18 months late, delaying the return of the associated unspent
+funds totaling $7.1 million. For example, one vendor’s fiscal year 2016
+accounting was not submitted until June 2018, and the related unspent funds
+totaling $1.8 million were not returned until August 2018. We estimated that
+the delays in recovering the funds associated with these four accountings
+(which would have been otherwise available for investment) resulted in lost
+interest income to the State of approximately $92,000.
+ DDA did not verify that the service provider payments reported on the annual
+FMS vendor accountings were accurate based on supporting documentation
+19
+
+--- Page 22 ---
+nor did DDA ensure payments for consumer services were consistent with
+established DDA rates. Our review of documentation obtained directly from
+the service providers for 10 consumers to support fiscal year 2017
+expenditures totaling $1.2 million disclosed that the provider payments
+reported by the FMS vendors were supported; however, the rates paid were
+not consistent with DDA established rates in all cases. For example, for 2
+consumers, FMS vendors paid service providers $27 per hour for services for
+which the maximum hourly DDA-approved rate was $23. As a result, we
+determined these providers were paid an additional $19,553 for the services
+provided to these 2 consumers during fiscal year 2017.
+Federal Funds Were Not Recovered for All Vendor Provider Payments
+DDA did not ensure the FMS vendors recorded all provider payments into the
+MDH Maryland Medicaid Information System II (MMIS II) so that federal
+reimbursement could be obtained for the cost of the services. Specifically, DDA
+did not compare the claims entered into MMIS II by the FMS vendors with the
+provider expenditures separately reported to DDA by the vendors to ensure all
+claims had been recorded.
+Our comparison of DDA’s fiscal year 2016 and 2017 self-directed services
+expenditures with the related provider payments recorded in MMIS II identified
+$4.9 million in related federal fund reimbursement requests that had not been
+made as of June 2018 because the provider payments had not been recorded in
+MMIS II. As a result, State general funds were used to finance federal fund
+expenditures. Since claims must be submitted within two years of the service, a
+portion of these claims may no longer be eligible for federal reimbursement.
+Recommendation 4
+We recommend that DDA
+a. ensure control agency approvals are obtained for fiscal management
+services, and contracts are executed that include all relevant contract
+provisions (including the contract term and authorized administrative
+fees);
+b. monitor vendor activity and compliance to ensure that all key
+requirements and terms are complied with, including site visits and
+audits, and timely submission of annual accountings and return of
+unspent funds, and that FMS vendor payments are proper and
+supported;
+c. ensure FMS vendors record all provider payments into MMIS II timely;
+and
+d. take appropriate corrective action to obtain federal reimbursement for
+any outstanding claims (including the aforementioned $4.9 million), any
+20
+
+--- Page 23 ---
+annual accountings not received, and identified overpayments, and
+consider recovering any lost investment income resulting from untimely
+vendor actions.
+Financial Restructuring Contract
+Finding 5
+DDA did not adequately justify a $2.7 million sole source contract awarded
+to an incumbent vendor to continue assisting in the financial restructuring of
+DDA operations, and could not support a significant increase in the contract
+rates for one vendor employee.
+Analysis
+DDA did not comply with State procurement requirements when awarding a $2.7
+million sole source contract to an incumbent vendor to continue assisting in the
+financial restructuring of DDA operations, and could not support a significant
+increase in the contract rates for one vendor employee. The contract covered the
+period from March 1, 2016 to February 28, 2018 and was subsequently modified
+three times, extending the services through August 31, 2018, for a total contract
+cost of $3.6 million. The contract was fully paid as of October 2018.2
+DDA’s sole source justification stated that the services were not competitively
+procured to avoid the delays and additional costs associated with transitioning the
+services to a new vendor. However, this justification does not comply with State
+procurement regulations, which provide that a sole source procurement is not
+permissible unless the goods or services are available from only a single vendor.
+Subsequent actions taken by DDA indicate that numerous vendors likely could
+have provided DDA with the same services. Specifically, in March 2018, DDA
+competitively procured another contract for financial restructuring services to
+commence after the expiration of the current contract in August 2018. For this
+subsequent procurement, DDA received bids from five vendors and ultimately
+awarded a $3.9 million contract to the incumbent vendor for the period from
+September 1, 2018 through August 31, 2020.
+2 We noted that DBM has expressed concerns with DDA’s continued use of the vendor, which
+dates back to January 2013, and in February 2016 requested a written plan from DDA for
+ending the use of the vendor. MDH (on behalf of DDA) submitted a plan to DBM, which stated
+that DDA would secure agency resources to gradually assume the vendor’s roles and
+responsibilities, with an anticipated completion date of May 2016. However, as of July 2018,
+DDA advised DBM that it had been unable to fill these positions and, consequently, processed
+the aforementioned three contract modifications to extend the term of the contract through
+August 31, 2018.
+21
+
+--- Page 24 ---
+We further noted that DDA could not support a contract modification for
+approximately $110,000 that combined the classification of “Project Director”
+and “Subject Matter Expert,” and that increased one vendor employee’s hourly
+billing rate from $250 to $375. DDA could not explain the difference in services
+to be provided by this employee or the employee’s area of expertise that justified
+the change.
+Recommendation 5
+We recommend that DDA
+a. comply with State procurement regulations by competitively procuring
+services unless the services are only available from one vendor and an
+adequate sole source justification is prepared, and
+b. ensure future modifications to contract rates are properly supported.
+Coordination of Community Services Agency Billings
+Finding 6
+DDA did not have an adequate process to ensure that amounts invoiced by
+Coordination of Community Services (CCS) agencies properly reflected
+consumer services provided.
+Analysis
+DDA did not have an adequate process to ensure that amounts invoiced by CCS
+agencies were proper. The CCS agencies meet with each consumer to develop an
+individual plan that describes the services the consumer is to receive, facilitate
+finding appropriate service providers, and monitor consumers to ensure the
+individual plan is implemented. According to MDH’s records, payments to CCS
+agencies totaled $39.7 million for fiscal year 2017.
+On a monthly basis, CCS agencies billed DDA for the number of units of service
+provided to consumers (15-minute intervals) to fulfill its responsibilities, and the
+number of comprehensive assessments (evaluations performed during the initial
+application process to determine the individual’s eligibility) completed. When
+reviewing the invoices submitted by CCS agencies, DDA ensured that the total
+units and quantities billed agreed with the totals the CCS agencies had recorded in
+PCIS2. However, this process was insufficient to provide an independent
+verification of the propriety of amounts billed, since both were self-reported by
+the CCS agencies. Specifically, DDA should also review the PCIS2 case notes,
+which are entered by CCS agency staff, to determine whether the number of units
+billed is consistent with the consumer services provided, and should also obtain
+copies of completed assessments to compare against the quantities billed.
+22
+
+--- Page 25 ---
+During fiscal years 2017 and 2018, the established billing rates were $17.99 and
+$18.61 per unit of service, respectively, and $450 for each comprehensive
+assessment completed by the CCS providers. Our review of select invoices using
+this recommended process did not identify any discrepancies in the number of
+units of service and quantities of assessments billed.
+Recommendation 6
+We recommend that DDA establish a process to review, at least on a test
+basis, the supporting details in PCIS2 and copies of completed assessments to
+ensure that CCS provider billings are proper.
+Contribution to Care
+Finding 7
+DDA had not taken sufficient action to identify and return improper
+contribution to care (CTC) collections identified during our preceding audit.
+Analysis
+DDA had not fully determined the amount of CTC (copayments) improperly
+collected from consumers prior to July 2014 and had not taken any action to
+return such funds to the affected consumers. In our preceding audit report we
+commented that, prior to fiscal year 2015, DDA incorrectly directed service
+providers to collect CTC payments from consumers for services that should have
+been paid for with State and federal funds. CTC is the monthly amount that
+certain consumers in residential care are required to pay providers, based on the
+consumer’s ability to pay. Previously, DDA estimated that, based on its records
+for calendar year 2013, the improper CTC collected from consumers could have
+approximated $4.2 million annually.
+During our preceding audit, DDA advised us that, while it maintained records of
+the CTC that providers were supposed to collect, it did not know the amounts
+actually collected by the providers for Improper CTC Collections in Calendar
+each of the affected consumers. Year 2013
+Subsequent to that audit, DDA Count and Total
+Collections Percentage of Improper
+requested each of its providers to
+per Consumer Consumers Collections
+confirm the amount of CTC collected
+Less than $300 1,000 45.6% $ 111,658
+from consumers during calendar year
+$300 to $2,000 584 26.6% 450,851
+2013. According to this information,
+$2,000 + 610 27.8% 2,992,868
+providers improperly collected $3.6
+Totals 2,194 $3,555,377
+million from 2,194 consumers during Source: DDA Records
+this period (see table).
+23
+
+--- Page 26 ---
+In our preceding audit, we recommended that DDA determine, to extent practical,
+the amount of improperly collected CTC and present this issue and the basis for
+its decision (not to return any funds to affected consumers) to the General
+Assembly for its consideration. In this regard, DDA advised the General
+Assembly’s Joint Audit Committee in January 2017 that it would submit a request
+to CMS to waive the financial eligibility restrictions for a period of time, to avoid
+adversely affecting the individuals involved in this situation. DDA also advised
+the Committee that, based upon the response from CMS, it would develop
+repayment plans to avoid the loss of Medicaid eligibility for the affected
+individuals and would send a letter to the affected individuals outlining the
+situation, the amount to be repaid, and the repayment plan.
+However, DDA had not taken any of these actions as of July 2018. Specifically,
+DDA had not contacted CMS, had not developed repayment plans, and had not
+contacted affected individuals. Furthermore, for 1,000 of the aforementioned
+2,194 consumers, the amount owed to each (totaling approximately $112,000)
+was less than $300. DDA advised us these funds could have been returned to the
+consumers without approval from CMS because the small amounts were unlikely
+to affect their Medicaid eligibility statuses; nevertheless, DDA did not refund
+these overpayments.
+We believe DDA should have refunded the improperly collected CTC from 2013
+that it identified. In addition, we believe that DDA’s decision to limit its review
+to one year was not reasonable considering the duration of the improper CTC
+collections and the significant amount that DDA identified as having been
+improperly collected during calendar year 2013. Our review of PCIS2 records
+disclosed that 80 percent of the aforementioned 2,194 consumers (1,754) received
+DDA-funded services for at least five years prior to calendar year 2013, during
+which time CTC was likely improperly collected from them.
+Recommendation 7
+We recommend that DDA
+a. determine the extent of the improperly collected CTC, as practical,
+(repeat); and
+b. in consultation with CMS, determine the feasibility of returning any
+improperly collected funds to consumers in a manner that does not
+adversely impact their Medicaid eligibility.
+24
+
+--- Page 27 ---
+Federal Funds
+Finding 8
+DDA did not recover certain federal funds timely, resulting in lost interest
+income of approximately $126,000. These delays were due, in part, to
+untimely Medicaid eligibility redeterminations.
+Analysis
+DDA did not recover certain federal funds timely which, based on our calculation,
+resulted in lost interest income to the State of approximately $126,000 related to
+expenditures incurred during the period from May 2015 through February 2018.
+In accordance with DDA’s procedures, reimbursement requests should be made
+within two months of the service date.
+Our test of 34 federal fund reimbursement requests made between May 2015 and
+February 2018, totaling approximately $1.2 billion, disclosed that portions of each
+request were not made timely, which we calculated resulted in lost interest
+income totaling approximately $126,000. Specifically, portions of the 34
+reimbursement requests tested, collectively totaling $155 million, were made
+from 1 to 21 months after the claims could have been submitted in accordance
+with DDA’s procedures. For example, in July 2016, DDA’s reimbursement
+request contained $12.1 million in claims that were for services dating back to
+July 2015. The recovery of these funds was up to 10 months late, resulting in a
+calculated loss of interest income totaling $58,000. In this regard, State general
+funds, which would have been otherwise available for investment, were used to
+finance federal fund expenditures.
+DDA management explained that the submissions were not timely for a number
+of reasons, including untimely Medicaid eligibility redeterminations. In this
+regard, our review disclosed that DDA did not have a process to ensure consumer
+redeterminations were completed before the end of each consumer’s annual
+eligibility period. Although the eligibility periods had ended, consumers
+nevertheless continued to receive services, which were paid for entirely with State
+general funds. Once the redeterminations were completed and eligibility restored,
+federal reimbursements were requested. Federal regulations require annual
+redetermination of consumer eligibility under the Community Pathways Waiver.
+Our test of 10 consumers whose Medicaid eligibility lapsed during our audit
+period disclosed that redeterminations for 8 consumers were performed between 3
+and 25 months after the consumers’ eligibilities lapsed. For all 8 consumers,
+eligibility was subsequently restored, and we estimated that DDA paid $340,000
+in State funds for services provided to these consumers during the lapse in their
+25
+
+--- Page 28 ---
+eligibility periods. We could not readily determine whether DDA subsequently
+recovered federal funds for any of these consumers after eligibility was restored
+or the amount of lost investment income resulting from the delay. For the
+remaining 2 consumers tested, eligibility had been lapsed for 28 and 36 months as
+of August 29, 2018, and redeterminations had not yet been performed. We
+estimated that DDA paid approximately $113,000 in State funds for services
+provided to these two consumers.
+DDA’s failure to timely recover federal funds and to conduct timely eligibility
+redeterminations were commented upon in our three preceding audit reports.
+Recommendation 8
+We recommend that DDA
+a. take steps to ensure that future requests for federal fund reimbursement
+are submitted timely (repeat); and
+b. establish a process to ensure that annual eligibility redeterminations of
+consumers are performed, as required by federal regulations (repeat).
+Provider Consumer Information System II (PCIS2)
+Background
+DDA operates PCIS2, which provides a mechanism to pay providers by allowing
+providers to access and enter program information into a centralized database
+using an Internet connection. For example, providers use the PCIS2 application
+to enter consumer attendance information, which, in conjunction with approved
+payment rates previously posted in PCIS2 by DDA, is used to calculate provider
+payments. As previously mentioned, providers are paid in advance for estimated
+services to be provided and these payments are reconciled at year-end with the
+cost of actual services provided. DDA employees also access PCIS2 via local
+area networks to perform critical provider and consumer activities, such as
+modifying consumer services, and to process provider payments. According to
+DDA’s records as of April 10, 2018, there were 2,133 system users of which
+1,941 were providers. Fiscal year 2017 provider expenditures processed through
+PCIS2 totaled approximately $903 million.
+26
+
+--- Page 29 ---
+Finding 9
+DDA did not verify the accuracy and completeness of critical adjustments
+that were processed in PCIS2, resulting in errors such as overpayments going
+undetected, and did not adequately restrict user access in the system.
+Analysis
+DDA did not have a process to independently verify that critical adjustments
+processed in PCIS2 were proper, resulting in errors going undetected, and did not
+ensure all required adjustments were processed. DDA also did not adequately
+restrict user access in the system.
+ DDA had not established online or manual controls over critical adjustments
+to provider accounts to ensure that all required adjustments had been entered
+in PCIS2 and to verify that the adjustments entered were proper. These
+adjustments were manually processed by DDA employees without any
+independent review and, therefore, erroneous or improper transactions could
+go undetected. Our test of eight attendance payment adjustments processed in
+PCIS2 during fiscal year 2017 totaling $2 million disclosed three payment
+errors totaling $24,800. For example, one provider was overpaid by $1,207 as
+a result of an erroneous adjustment. Additionally, our test of 16 adjustment
+requests (to correct consumers’ attendance) disclosed two adjustment requests
+totaling $27,845 that had not been recorded in PCIS2. DDA management
+took corrective action after we notified them of these five errors.
+ DDA did not adequately review user access to ensure critical PCIS2
+capabilities (such as to adjust provider payments, to modify consumer
+eligibility, and to add consumer services) were restricted to appropriate users.
+Our test of access capabilities as of April 10, 2018 for 15 DDA users
+disclosed that 13 users had unnecessary access, including 8 we had previously
+identified as having unnecessary access during our preceding audit. For
+example, two of the 13 employees (one of whom was noted during our
+preceding audit) had the capability to modify provider payments even though
+this capability was not required to perform their job duties. The State of
+Maryland Information Security Policy provides that agencies must support the
+“least possible privilege” security strategy in which users are only granted the
+access needed to perform assigned tasks.
+Similar conditions were noted in our preceding audit report. In response to that
+report, DDA indicated procedures would be established to ensure adjustments
+were proper and user access would be periodically reviewed.
+27
+
+--- Page 30 ---
+Recommendation 9
+We recommend that DDA
+a. establish independent review procedures to ensure the propriety, at least
+on a test basis, of critical adjustments in PCIS2 (repeat);
+b. establish procedures to ensure that all required adjustments have been
+entered in PCIS2 accurately;
+c. perform a documented comprehensive periodic review of user access
+capabilities to ensure that users are assigned only those capabilities
+needed to perform job duties (repeat); and
+d. eliminate unnecessary access, including those noted above (repeat).
+Finding 10
+The PCIS2 database and its supporting server were running on outdated
+software versions.
+Analysis
+The PCIS2 database and its supporting server were running on outdated software
+versions.
+ The PCIS2 database was operating on a software version that was no longer
+supported by the database software vendor. Specifically, the system database
+software version in use as of July 2018 had not been supported by the vendor
+since August 2015. As a result, the database software vendor was no longer
+monitoring or issuing patches for newly discovered security vulnerabilities for
+the database version in use. This out-of-date database software may expose
+DDA to security vulnerabilities discovered since the date the vendor stopped
+supporting the software, which could create security and control issues.
+ The operating system software for the PCIS2 database server also had not
+been updated for the most current software patches. Specifically, as of August
+1, 2018, we noted that operating system software updates were last applied on
+June 22, 2017. Additionally, we identified 48 available security-related
+operating system software updates which had been released since that date but
+had not been applied. Subsequent to our review, these 48 security-related
+updates were applied on November 5, 2018. Accordingly, the numerous
+uninstalled operating system software security-related updates exposed
+PCIS2’s operations and data to increased security risks.
+The State of Maryland Information Security Policy states that system hardening
+procedures shall be created and maintained to ensure up-to-date security best
+28
+
+--- Page 31 ---
+practices are deployed at all levels of IT systems (operating systems, applications,
+databases, and network devices).
+Recommendation 10
+We recommend that DDA, for PCIS2, ensure that
+a. all databases are fully supported by the database software vendor and
+kept current for all critical security-related updates; and
+b. the database server’s operating system software is kept updated timely
+for all critical security-related software updates.
+Finding 11
+PCIS2 database and application backups were not stored offsite, and DDA
+did not have a complete information technology disaster recovery plan for
+recovering computer operations.
+Analysis
+PCIS2 database and application backups were not stored offsite and DDA did not
+have a complete information technology disaster recovery plan (DRP) for
+recovering computer operations.
+ Backups of the PCIS2 database and application software were not taken to an
+offsite location. Specifically, our review on August 16, 2018 determined that
+backups of the PCIS2 database and application had been created, but had not
+been taken offsite from the DDA computer room since January 11, 2018.
+Accordingly, if the DDA computer room and backup files were destroyed by a
+disaster, these backups would not be available to help in restoring the PCIS2
+database and application.
+ DDA did not have a complete information technology DRP for recovering
+computer operations from disaster scenarios (for example a fire). The State of
+Maryland Information Technology Disaster Recovery Guidelines establish the
+minimum required elements needed for a DRP. DDA’s DRP did not address
+certain of these minimum requirements. For example, the DRP did not
+contain adequate details on the contact information for the alternate site and
+key disaster recovery personnel, restoring network connectivity, and DRP
+copies were not distributed off-site for ready availability. Additionally, as of
+August 2018, the DRP had not been updated since August 2015, and the DRP
+had not been tested. Without a current, complete and tested DRP, a disaster
+could cause significant delays (for an undetermined period of time) in
+restoring information systems operations above and beyond the expected
+delays that would exist in a planned recovery scenario.
+29
+
+--- Page 32 ---
+Recommendation 11
+We recommend that DDA
+a. ensure that backup copies of the PCIS2 database and application
+software are stored at an offsite location,
+b. develop and implement a current and comprehensive DRP that is in
+accordance with the aforementioned Information Technology Disaster
+Recovery Guidelines; and
+c. perform and document periodic DRP testing and retain the
+documentation for future reference.
+30
+
+--- Page 33 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Developmental Disabilities
+Administration (DDA) of the Maryland Department of Health for the period
+beginning April 13, 2015 and ending April 30, 2018. The audit was conducted in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DDA’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included federal funds, provider fee payment systems,
+contract procurement and monitoring, and disbursements for consumer services.
+During the course of this audit, as well as during a recently completed audit of
+DDA’s monitoring of its coordination of community services agencies, we also
+determined the status of the findings contained in our preceding audit.
+Our audit did not include certain support services provided to DDA by the
+Maryland Department of Health. These support services (such as payroll,
+maintenance of accounting records, and related fiscal functions) are generally
+included within the scope of our audit of the Department’s Office of the Secretary
+and Other Units. In addition, our audit did not include an evaluation of internal
+controls over compliance with federal laws and regulations for federal financial
+assistance programs and an assessment of DDA’s compliance with those laws and
+regulations because the State of Maryland engages an independent accounting
+firm to annually audit such programs administered by State agencies, including
+DDA.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of the
+DDA’s operations, and tests of transactions. Generally, transactions were
+selected for testing based on auditor judgement, which primarily considers risk.
+Unless otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+31
+
+--- Page 34 ---
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We also extracted data from the Medicaid
+Management Information System (MMIS II) and from DDA’s Provider
+Consumer Information System II (PCIS2) for the purpose of selecting test items
+and assessing user access. We performed various tests of the relevant data and
+determined that the data were sufficiently reliable for the purposes the data were
+used during the audit. Finally, we performed other auditing procedures that we
+considered necessary to achieve our objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+DDA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DDA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to DDA that did not warrant inclusion in this report.
+As a result of our audit, we determined that DDA’s accountability and compliance
+level was unsatisfactory. The primary factors contributing to the unsatisfactory
+32
+
+--- Page 35 ---
+rating were the significance of our audit findings, and the number of repeat
+findings from the preceding report. Our rating conclusion has been made solely
+pursuant to State law and rating guidelines approved by the Joint Audit
+Committee. The rating process is not a practice prescribed by professional
+auditing standards.
+The Department’s response, on behalf of DDA, to our findings and
+recommendations is included as an appendix to this report. As prescribed in the
+State Government Article, Section 2-1224 of the Annotated Code of Maryland,
+we will advise the Department regarding the results of our review of its response.
+33
+
+--- Page 38 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Consumer Budgets
+Finding 1
+The Developmental Disabilities Administration (DDA) did not ensure level-of-need scores
+used to determine consumers’ service budgets were assigned in accordance with DDA’s
+established criteria and were properly recorded in its Provider Consumer Information
+System II (PCIS2). Our testing disclosed that certain scores could not be supported.
+We recommend that DDA
+a. perform documented, independent reviews (on a test basis) to ensure that level-of-need
+scores were properly assigned and accurately recorded in PCIS2; and
+b. ensure that documentation of the vendor’s assigned level-of-need scores is retained.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1a Choose an item Estimated Completion Date: October 2019
+Please provide details of The DDA concurs. The DDA will develop a sampling process to be
+corrective action or conducted by the regional offices to ensure the level of need scores are
+explain disagreement. properly assigned and recorded correctly in PCIS2 and LTSS. The
+Matrix score process will be phased out in July 2020 when the DDA
+fully implements the Person-Centered Plan, new services, and a new rate
+structure.
+Recommendation 1b Choose an item Estimated Completion Date: October 2019
+Please provide details of The DDA concurs. The regional offices now retain copies of the level of
+corrective action or need scores electronically on a shared drive. The DDA will develop a
+explain disagreement. sampling process to be conducted by the regional offices to verify that
+the level of need scores is retained.
+Page 1 of 17
+
+--- Page 39 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Provider Payments
+Finding 2
+DDA did not identify recurring overpayments made over several years totaling at least $1.7
+million that were later self-reported by a provider. In addition, DDA did not subsequently
+determine the full extent of the overpayments to this provider and whether similar
+overpayments were made to other providers.
+We recommend that DDA
+a. determine, to the extent possible, the total provider overpayments that occurred for
+consumers that were improperly billed, and consult with legal counsel to determine
+whether any overpayments identified should be recovered; and
+b. as applicable, for other consumers identified, revise the individual plans and related
+PCIS2 designations to reflect the correct service category.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2a Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA concurs. The DDA and the service provider in question
+corrective action or executed a settlement agreement in July 2017 which covered Fiscal
+explain disagreement. Years 2015, 2016, and 2017. In 2018, the DDA reviewed 969 records,
+of which 525 were for residential services provided by the agency. The
+review revealed that the provider agency did not bill for any
+unauthorized days of service. The DDA also conducted site visits to
+confirm that services were delivered in accordance with each
+individual’s plan.
+Recommendation 2b Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA concurs. The DDA corrected the erroneous service
+corrective action or designations identified by the service provider and will correct any
+explain disagreement. erroneous service designations identified in future reviews of services.
+Page 2 of 17
+
+--- Page 40 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Finding 3
+DDA did not conduct audits of providers to ensure payments were consistent with actual
+services delivered and in accordance with the consumers’ approved individual plans.
+We recommend that DDA conduct audits of providers to ensure payments to providers
+were consistent with actual services provided and in accordance with the consumers’
+approved individual plans (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3 Choose an item Estimated Completion Date: December
+2019
+Please provide details of The DDA concurs. DDA issued a Request for Proposal for a Quality
+corrective action or Improvement Organization to conduct utilization reviews of DDA
+explain disagreement. funded services. The DDA is finalizing its selection of a vendor and
+expects to have a contract in place by October 2019.
+Page 3 of 17
+
+--- Page 41 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Procurement of Services and Related Billings
+Fiscal Management Services
+Finding 4
+Fiscal management services contracts were not comprehensive and properly approved, and
+DDA did not monitor the related vendors to ensure the required services were provided
+and the propriety of payments. In addition, all related federal reimbursements were not
+obtained, including federal funds totaling $4.9 million.
+We recommend that DDA
+a. ensure control agency approvals are obtained for fiscal management services, and
+contracts are executed that include all relevant contract provisions (including the
+contract term and authorized administrative fees);
+b. monitor vendor activity and compliance to ensure that all key requirements and terms
+are complied with, including site visits and audits, and timely submission of annual
+accountings and return of unspent funds, and that FMS vendor payments are proper
+and supported;
+c. ensure FMS vendors record all provider payments into MMIS II timely; and
+d. take appropriate corrective action to obtain federal reimbursement for any outstanding
+claims (including the aforementioned $4.9 million), any annual accountings not
+received, and identified overpayments, and consider recovering any lost investment
+income resulting from untimely vendor actions.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Choose an item Estimated Completion Date: Dec 2019
+Please provide details of The DDA concurs. The DDA and the Office of Medicaid Provider
+corrective action or Services (MPS) issued a Request for Proposals (RFP) on June 12, 2019
+explain disagreement. to provide the establishment and implementation of a statewide contract
+for Financial Management and Counseling Services to include billing
+and claims, quality assurance, consulting and training for individuals
+self-directing their services. The solicitation has been written to
+address the findings and recommendations. Participants will be able to
+hire, fire, and supervise their chosen Provider(s) as the sole employer.
+Page 4 of 17
+
+--- Page 42 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+The FMS vendors will record all provider payments into MMIS timely
+and take appropriate corrective action to obtain federal reimbursement
+for any outstanding claims. They will also be required to track and report
+of Individual/Participant budget balances and expenditures; processing
+of invoices for goods and services with DDA’s established usual and
+customary rates for the services and take appropriate action for any
+overpayment.
+The DDA will ensure the resulting contract obtains the requisite
+approvals.
+Recommendation 4b Choose an item Estimated Completion Date: Dec 2019
+Please provide details of The DDA concurs. The DDA issued a Request for Proposals to
+corrective action or contract with a Quality Improvement Organization (QIO)/QIO-like to
+explain disagreement. conduct utilization reviews. The FMS vendor will be subject to the
+utilization reviews.
+DDA received the FY’16 and FY’17 year-end reconciliations from both
+FMS agencies and the return of unspent funds.
+Recommendation 4c Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA concurs. DDA Federal Billing unit tracks self-directed
+corrective action or services claims submission monthly using the monthly HMFM8211-
+explain disagreement. R001 reports. Any anomalies discovered in the claim’s submission
+process are brought to the provider’s attention, so they may address any
+claims transmission issues or submission lapses.
+Recommendation 4d Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA concurs. DDA Federal Billing tracks self-directed services
+corrective action or
+claims submission monthly using the monthly HMFM8211-R001
+explain disagreement.
+reports. Any anomalies discovered in the claim’s submission process are
+brought to the provider’s attention, so they may address any claims
+transmission issues or submission lapses. A review of FY17 claims
+submissions showed a large discrepancy between the total claims
+submitted and the total expenditures for an FMS provider. It was
+immediately brought to their attention and it was determined that the
+computer crashed during a claims transmission to MMIS. The provider
+addressed the issue immediately and the claims were subsequently
+resubmitted and paid.
+The DDA received federal reimbursement of $4,948,184 in June and
+July 2018.
+Page 5 of 17
+
+--- Page 43 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Financial Restructuring Contract
+Finding 5
+DDA did not adequately justify a $2.7 million sole source contract awarded to an
+incumbent vendor to continue assisting in the financial restructuring of DDA operations,
+and could not support a significant increase in the contract rates for one vendor employee.
+We recommend that DDA
+a. comply with State procurement regulations by competitively procuring services unless
+the services are only available from one vendor and an adequate sole source
+justification is prepared, and
+b. ensure future modifications to contract rates are properly supported.
+Agency Response
+Analysis
+Please provide The title of the sole source contract is Management Consulting Support
+additional comments as for the DDA’s Transformation and Adoption of the Long Term Services
+deemed necessary. and Supports (LTSS System).
+Recommendation 5a Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA concurs. The contract for management consulting support
+corrective action or
+services was reviewed and approved by the Department of Budget and
+explain disagreement.
+Management, the control agency, and approved by the Board of Public
+Works without discussion. An approved justification for the sole source
+contract was included in the paperwork
+Recommendation 5b Choose an item Estimated Completion Date: Upon
+occurrence
+Please provide details of The DDA concurs. The DDA will ensure that contract rates in future
+corrective action or contract modifications will be properly supported.
+explain disagreement.
+Auditor’s Comment: DDA, with the concurrence of DBM, disputes that the sole source
+justification it provided to the BPW was inadequate. However, the written sole source
+justification stated that the incumbent vendor who was awarded the contract was uniquely
+qualified to perform the work and that transitioning the services to a new vendor would result
+Page 6 of 17
+
+--- Page 44 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+in significant costs, risk, and time delays. These conditions are not provided for in State
+procurement regulations as sole source justification.
+Specifically, State procurement regulations provide that sole source procurement is not
+permissible “unless a requirement is available from only a single vendor”. In this case, we
+understand that neither DDA nor DBM dispute that there were other vendors who could have
+provided the services, albeit with certain time and development concerns; and we note that
+the services were put out for bid at a later time, receiving multiple bids. Consequently, we
+continue to believe the use of the sole source method in this instance does not appear to be
+proper. Finally, DDA’s and DBM’s position, if accepted, appears to set a lower threshold for
+future sole source procurement justifications, which could provide undue preference to
+incumbent vendors.
+Page 7 of 17
+
+--- Page 45 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Coordination of Community Services Agency Billings
+Finding 6
+DDA did not have an adequate process to ensure that amounts invoiced by Coordination of
+Community Services (CCS) agencies properly reflected consumer services provided.
+We recommend that DDA establish a process to review, at least on a test basis, the
+supporting details in PCIS2 and copies of completed assessments to ensure that CCS
+provider billings are proper.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 6 Choose an item Estimated Completion Date: December
+2019
+Please provide details of The DDA concurs. The DDA is finalizing the selection of a vendor to
+corrective action or conduct utilization reviews. These reviews will include CCS agencies.
+explain disagreement. Additionally, the DDA transitioned CCS activities and billings from
+PCIS2 to the Long-Term Support Services system (LTSS) on August 1,
+2018. The functionality in LTSS is more robust than in PCIS2 and
+supports DDA’s effort to improve accountability. DDA can see in real
+time CCS progress notes, activities, and billing. DDA is reviewing a
+sample of activity and progress notes, as well as completed
+comprehensive assessments to verify submitted invoices.
+Page 8 of 17
+
+--- Page 46 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Contribution to Care
+Finding 7
+DDA had not taken sufficient action to identify and return improper contribution to care
+(CTC) collections identified during our preceding audit.
+We recommend that DDA
+a. determine the extent of the improperly collected CTC, as practical, (repeat); and
+b. in consultation with CMS, determine the feasibility of returning any improperly
+collected funds to consumers in a manner that does not adversely impact their Medicaid
+eligibility.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 7a Choose an item Estimated Completion Date: January 2020
+Please provide details of DDA does not concur. The DDA determined the extent of improperly
+corrective action or collected CTC in Calendar Year 2013, the year analyzed and reported in
+explain disagreement. the 2016 OLA audit report. The DDA sent files to affected residential
+providers for verification of amounts owed to individuals for CY 2013.
+Simultaneously the DDA worked with the Maryland Medicaid office to
+mitigate any adverse impact on individuals such as a loss of waiver
+services. To protect MA eligibility and eligibility for waiver services,
+the Eligibility Determination Division (EDD) can apply a remedial rule
+based on the Social Security Program Operations Manual System
+(POMS) procedure for SSI back payments to allow affected recipients
+nine (9) months following the month of receipt to spend or otherwise
+dispose of retroactive payments that would otherwise become excess
+resource amounts and thus affect eligibility beginning the month after
+the month of receipt.
+The DDA sent a letter to all affected individuals with an explanation, an
+opportunity to dispute the amount and included an invoice to facilitate
+the payments. In December 2018, the DDA began disbursements as
+invoices were submitted. As of June 17, 2019, 551 people have received
+payments totaling $1,143,242.19.
+Page 9 of 17
+
+--- Page 47 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+DDA is preparing to send a second letter to those individuals who did
+not respond to the initial letter.
+DDA providers are also Medicaid providers. Medicaid regulations
+require providers to retain records for six years. At this point, there is no
+guarantee that providers will have the records to verify the amount of
+CTC collected prior to CY 2013.
+Recommendation 7b Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA does not concur. The DDA consulted with the Eligibility
+corrective action or Determination Division (EDD) to determine if approval from the Centers
+explain disagreement. for Medicare and Medicaid Services (CMS) to mitigate the loss of
+waiver eligibility was needed. Based on their research of similar
+repayment issues, there was no written approval from CMS for the
+application of the SSI program “lump sum” rules to protect Medicaid
+waiver recipients from losing eligibility based on excess resources due to
+receipt of a repayment through no fault of their own.
+Consequently, no written approval from CMS was required.
+Auditor’s Comment: While citing a disagreement, DDA’s comments do not conflict with
+the audit finding. Specifically, DDA cites actions either already mentioned in the report or
+those taken after the July 2018 date highlighted in the audit report. Ultimately, while certain
+efforts may have been initiated during the audit period, DDA had not made any
+reimbursements as of the time of our most recent audit testing. In addition, the DDA efforts
+to date appear limited to calendar year 2013 activity whereas the improper collections had
+been occurring for many years and continued through July 2014. We continue to believe that
+DDA needs to develop a plan to identify and reimburse the consumers for amounts
+improperly collected, as practical.
+Page 10 of 17
+
+--- Page 48 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Federal Funds
+Finding 8
+DDA did not recover certain federal funds timely, resulting in lost interest income of
+approximately $126,000. These delays were due, in part, to untimely Medicaid eligibility
+redeterminations.
+We recommend that DDA
+a. take steps to ensure that future requests for federal fund reimbursement are submitted
+timely (repeat); and
+b. establish a process to ensure that annual eligibility redeterminations of consumers are
+performed, as required by federal regulations (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 8a Choose an item Estimated Completion Date: July 2020
+Please provide details of The DDA concurs. However, this issue will continue until the DDA is
+corrective action or able to transition from a legislatively mandated prospective payment
+explain disagreement. system for community-based providers to a fee-for-service
+reimbursement model.
+This transition is dependent on changes to DDA’s statute, the completion
+of the rate setting study, the operation of a new IT platform to support
+the new payment structure, and the simultaneous implementation of new
+services under the Community Pathways Waiver. DDA estimates the full
+implementation of these initiatives on or about July 2020
+In the interim, the DDA will continue its efforts to submit claims timely
+which have dramatically reduced lost interest. In FY 2002, the OLA
+cited the potential loss of $4 million. The November 2009 audit cited
+the potential loss amount to $421,000. The amount was further reduced
+in October 2013 to $262,000 and in November 2016, was reduced to
+$210,000. The amount estimated in this finding is $125,000, or less than
+0.009% of all federal revenue collected during the audit period.
+Page 11 of 17
+
+--- Page 49 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Recommendation 8b Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA concurs. Release 1.0 of the DDA functionality for CCS
+corrective action or activities and billing in LTSS became operational in August 2018. The
+explain disagreement. system is more robust than PCIS2 and generates alerts to the CCS 90,
+60, and 30 days prior to the due date for the financial redetermination.
+Page 12 of 17
+
+--- Page 50 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Provider Consumer Information System II (PCIS2)
+Finding 9
+DDA did not verify the accuracy and completeness of critical adjustments that were
+processed in PCIS2, resulting in errors such as overpayments going undetected, and did
+not adequately restrict user access in the system.
+We recommend that DDA
+a. establish independent review procedures to ensure the propriety, at least on a test basis,
+of critical adjustments in PCIS2 (repeat);
+b. establish procedures to ensure that all required adjustments have been entered in
+PCIS2 accurately;
+c. perform a documented comprehensive periodic review of user access capabilities to
+ensure that users are assigned only those capabilities needed to perform job duties
+(repeat); and
+d. eliminate unnecessary access, including those noted above (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 9a Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA does not concur. The DDA does not agree that this is a
+corrective action or repeat finding / recommendation. The 2016 OLA audit report
+explain disagreement. recommended that review procedures of adjustments in PCIS2 that were
+related to manual adjustments made at the request of the Division of
+Cost Accounting and Reconciliation. DDA established a review
+procedure with DCAR. Documentation of the procedure was provided
+during the audit review.
+Recommendation 9b Choose an item Estimated Completion Date: June 2019
+Please provide details of The DDA concurs. Effective June 2019, as part of the Q1 FY 20
+corrective action or payment process, a report was generated showing all adjustments made
+explain disagreement. in the quarterly payment. Fiscal staff then compare the report to the
+ticket system to ensure the adjustments were done correctly. This
+process will be done for each quarterly payment process.
+Page 13 of 17
+
+--- Page 51 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Recommendation 9c Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA does not concur. DDA does not agree that this is a repeat
+corrective action or finding/recommendation. The DDA implemented and provided
+explain disagreement. documentation showing the periodic review of user access capabilities.
+Lists were sent to supervisors to review the access of randomly selected
+staff. Supervisors responded by indicating the access was appropriate or
+it was not.
+There is defined access for fiscal staff that differs from program staff.
+Although one or two staff may be primary users of certain functionality
+in a system, there needs to be other staff that have access as a back-up in
+case of absence, especially long-term absence or in the case of a
+vacancy. DDA believes it is following Section 7.0 Access Control
+Requirements of the Department of Information Technology Security
+Policy in that the roles established support the concepts of “least possible
+privilege” and “need to know” and the separation of duties.
+Recommendation 9d Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA concurs. The DDA again reviewed the chart of the 13 people
+corrective action or identified with the rights assigned to them with their current roles. Only
+explain disagreement. one appears to be an inappropriate role assignment. The role for this
+employee was changed to better align with their job responsibilities
+Auditor’s Comment: DDA disagrees that this finding is a repeat because it established
+reviews of critical adjustments in PCIS2 and user access. However, the reviews referenced
+in their response were not sufficient to ensure the propriety of critical adjustments or the
+appropriateness of user access. For example, this conclusion is supported by our audit
+finding, in which we identified improper access that should have been detected had sufficient
+reviews been conducted. Finally, although DDA disputes the number of individuals with
+improper access, this position is not consistent with prior audit discussions, and as of July 2,
+2019, has not been supported.
+Page 14 of 17
+
+--- Page 52 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Finding 10
+The PCIS2 database and its supporting server were running on outdated software versions.
+We recommend that DDA, for PCIS2, ensure that
+a. all databases are fully supported by the database software vendor and kept current for
+all critical security-related updates; and
+b. the database server’s operating system software is kept updated timely for all critical
+security-related software updates.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 10a Choose an item Estimated Completion Date: Sept 2019
+Please provide details of The DDA concurs. DDA recently initiated a Purchase Order Request
+corrective action or For Proposals (PORFP) to purchase current database licenses for its
+explain disagreement. PCIS2 database. Once the licenses are secured, DDA will migrate to the
+upgraded database software version and will ensure that all security
+patches issued will be tested and applied to the database as they are
+released.
+Recommendation 10b Choose an item Estimated Completion Date: Sept 2019
+Please provide details of The DDA concurs. Upon discovery, DDA immediately updated the
+corrective action or operating system for the PCIS2 database server on November 5, 2018.
+explain disagreement. All critical security-related patches have been installed since and the
+operating system is currently up to date with most recent releases. In
+preparation for the end of support of this operating system in January of
+2020, DDA has submitted a PORFP for new servers to include newer
+operating system versions which will be monitored regularly for security
+related patches
+Page 15 of 17
+
+--- Page 53 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Finding 11
+PCIS2 database and application backups were not stored offsite, and DDA did not have a
+complete information technology disaster recovery plan for recovering computer
+operations.
+We recommend that DDA
+a. ensure that backup copies of the PCIS2 database and application software are stored at
+an offsite location,
+b. develop and implement a current and comprehensive DRP that is in accordance with
+the aforementioned Information Technology Disaster Recovery Guidelines; and
+c. perform and document periodic DRP testing and retain the documentation for future
+reference.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 11a Choose an item Estimated Completion Date: Complete
+Please provide details of The DDA concurs. DDA has reinstated the practice of sending
+corrective action or encrypted backups off site weekly. A record of each backup is included
+explain disagreement. with MDH Office of Enterprise Technology. The vendor picks up the
+media each week with other backups created by other units in the
+Department.
+Recommendation 11b Choose an item Estimated Completion Date: Sept 2019
+Please provide details of The DDA concurs. The DDA recently hired a Network Specialist.
+corrective action or Plans to create an updated Disaster Recovery Plan are underway.
+explain disagreement. Weekly backups that would allow recovery from a disaster are already
+stored offsite. DDA has submitted a PORFP to purchase new database
+and web application servers to be housed at an alternative location.
+These machines will be used along with the backup media to restore
+PCIS2 in the event a disaster recovery is necessary. Our IT Security
+Group has reviewed the DoIT Disaster Recovery Guidelines and plans to
+complete our own documented plan with all relevant instruction and
+personnel by the end of the summer 2019.
+Page 16 of 17
+
+--- Page 54 ---
+Maryland Department of Health
+Developmental Disabilities Administration
+Agency Response Form
+Recommendation 11c Choose an item Estimated Completion Date: Dec 2019
+Please provide details of The DDA concurs. Once the DDA Disaster Recovery Plan has been
+corrective action or completed, DDA will implement documented testing on a quarterly basis
+explain disagreement. to ensure continuity of operations should a disaster strike.
+Page 17 of 17
+
+--- Page 55 ---
+A T
+UDIT EAM
+Edward A. Rubenstein, CPA
+Audit Manager
+Richard L. Carter, CISA
+Information Systems Audit Manager
+Lisa M. Beers, CFE
+Senior Auditor
+Matthew D. Walbert, CISA
+Information Systems Senior Auditor
+Thomas L. Allen III
+Amanda M. Jones
+Kush C. Patel
+James J. Podhorniak, CPA, CFE
+Staff Auditors
+Michael A. Kirschbaum
+Information Systems Staff Auditor
+Matthew Varani
+Staff Auditor Intern

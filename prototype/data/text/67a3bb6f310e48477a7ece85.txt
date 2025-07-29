@@ -1,0 +1,947 @@
+Title: Maryland 529
+Date: 02/03/2025
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=67a3bb6f310e48477a7ece85
+Extracted: 2025-06-20T09:14:37.561839
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland 529
+February 2025
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Benjamin T. Brooks, Sr. Delegate Andrea Fletcher Harrison
+Senator Paul D. Corderman Delegate Steven C. Johnson
+Senator Katie Fry Hester Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David H. Moon
+Senator Clarence K. Lam, M.D. Delegate Julie Palakovich Carr
+Senator Cory V. McCray Delegate Emily K. Shetty
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+February 3, 2025
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of Maryland 529 for the period
+beginning July 1, 2018 and ending May 31, 2023. Maryland 529 administered the
+Maryland Senator Edward J. Kasemeyer College Investment Plan (MCIP) and the
+Maryland Senator Edward J. Kasemeyer Prepaid College Trust (MPCT), to help
+individuals save for future college expenses and to reduce dependence on student
+loans and other forms of debt. The plans also provide account holders with
+certain Maryland income tax benefits. Effective June 1, 2023 the Maryland 529
+Board was abolished and all Maryland 529 programs, functions, and operations
+were transferred to the State Treasurer’s Office (STO).
+MCIP allows individuals to invest funds to help pay the cost of college education
+for designated beneficiaries, and is managed by a private investment company.
+As of June 30, 2023, 280,175 beneficiaries had accounts with balances totaling
+approximately $7.9 billion. MPCT offers tuition contracts, purchased by
+individuals on behalf of beneficiaries, which require scheduled payments for the
+future cost of tuition and fees at eligible institutions of higher education. MPCT
+is now managed by a private investment company and, as of June 30, 2023, the
+value of MPCT investments for 31,175 tuition contracts was $1.3 billion.
+Our audit found that Maryland 529 did not have adequate oversight of the
+conversion of MPCT operations including critical business rules and account data
+provided to the Third Party Administrator (TPA). Additionally, Maryland 529 did
+not take sufficient action to address delinquent or expired MPCT accounts, and
+had not collected fees totaling $1.6 million collected by the TPA from account
+holders to be used for Maryland 529 operating expenses.
+
+--- Page 4 ---
+Furthermore, our audit disclosed a cybersecurity-related finding. However, in
+accordance with the State Government Article, Section 2-1224(i) of the Annotated
+Code of Maryland, we have redacted the finding from this audit report.
+Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted finding falls under
+the referenced definition. The specifics of the cybersecurity finding were
+previously communicated to those parties responsible for acting on our
+recommendations.
+Finally, based on our current audit assessment of significance and risk to our audit
+objectives, our audit included a review to determine the status of seven of the nine
+findings contained in our preceding audit report. For the non-cybersecurity-
+related findings, we determined that Maryland 529 satisfactorily addressed these
+six findings.
+STO’s response to this audit is included as an appendix to this report. We have
+edited STO’s response to remove a vendor name, as allowed by our policy.
+Consistent with State law, we have redacted the elements of STO’s response
+related to the cybersecurity audit finding.
+We reviewed the response and noted agreement to our findings and related
+recommendations, and while there are other aspects of STO’s response which will
+require further clarification, we do not anticipate that these will require the Joint
+Audit and Evaluation Committee’s attention to resolve.
+We wish to acknowledge STO’s willingness to address the audit issues and
+implement corrective actions.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Transfer of 529 Plans to the Maryland State Treasurer’s Office 4
+Financial Activity 5
+Maryland Prepaid College Trust (MPCT) 6
+Maryland College Investment Plan (MCIP) 10
+Maryland Achieving a Better Life Experience 10
+Financial Statement Audits 11
+Status of Findings From Preceding Audit Report 11
+Findings and Recommendations 13
+Conversion to Third Party Administrator (TPA)
+Finding 1 – Maryland 529 did not have adequate oversight of the 13
+conversion of MPCT operations, including critical business rules and
+account data provided to the TPA.
+Delinquent and Expired MPCT Accounts
+Finding 2 – Maryland 529 did not take sufficient action to address 14
+delinquent and expired MPCT accounts.
+Information Systems Security and Control
+Finding 3 – Redacted cybersecurity-related finding 16
+Account Holder Fees
+Finding 4 – Maryland 529 did not obtain fees totaling $1.6 million 16
+collected by the MPCT TPA from account holders.
+Maryland College Investment Plan (MCIP)
+Finding 5 – Maryland 529 did not ensure that the MCIP TPA assessed and 17
+remitted fees as required.
+Audit Scope, Objectives, and Methodology 18
+Agency Response Appendix
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+Maryland 529 was an independent State agency that provided two separate
+college savings plans, the Maryland Senator Edward J. Kasemeyer Prepaid
+College Trust (MPCT), and the Maryland Senator Edward J. Kasemeyer College
+Investment Plan (MCIP), to help individuals save for future college expenses and
+to reduce dependence on student loans and other forms of debt. State law
+authorized Maryland 529 to establish a third plan option, the Maryland Broker-
+Dealer College Investment Plan, which would allow contributions to an
+investment account through private investment firms selected by the account
+holder; however as of May 31, 2023, the plan was not operating as the Maryland
+529 Board had not opted to offer this plan.
+These plans were administered by the Maryland 529 Board which, by State law,
+included the Secretary of the Maryland Higher Education Commission, the
+Secretary of the Maryland Department of Disabilities, the State Superintendent of
+Schools, the State Treasurer, the State Comptroller, the Chancellor of the
+University System of Maryland, and five members of the public appointed by the
+Governor.
+Individuals seeking to participate in a college savings plan could execute a
+prepaid tuition contract through MPCT and/or establish an investment account in
+the MCIP. Students may use their accounts at nearly any accredited college
+nationwide.
+Transfer of 529 Plans to the Maryland State Treasurer’s Office
+Chapter 113, Laws of Maryland 2023, abolished the Maryland 529 Board and
+transferred all Maryland 529 related programs, functions, and operations to the
+State Treasurer’s Office (STO) effective June 1, 2023. Additionally, the law
+began a phase out of the MPCT, prohibiting any new MPCT account enrollments
+as of the aforementioned date.
+This audit included activities of Maryland 529 through May 31, 2023, including
+certain conditions that we believe contributed to the issues addressed in the
+Treasurer’s Decision Memorandum (refer to page 9 for additional details) and the
+decision to transfer all Maryland 529 functions and operations to the State
+Treasurer. Since Maryland 529 is now a unit within STO, this report and all
+recommendations in this report have been addressed to the STO. Although this
+report may reference certain activity occurring after May 31, 2023, such as the
+4
+
+--- Page 7 ---
+issuance of the Treasurer’s Decision Memorandum, Maryland 529 activities
+occurring subsequent to that date will be subject to examination in our next audit
+of STO.
+Financial Activity
+According to the State’s records, Maryland 529’s expenditures totaled
+approximately $14.7 million during fiscal year 2023 (see Figure 1 on the
+following page). This amount reflects a significant increase from our preceding
+report on Maryland 529 due primarily to State contributions to MCIP for
+Maryland residents totaling $7.4 million (as noted in Figure 1), and contractual
+service expenditures totaling $5.3 million. As of June 30, 2023, 14 of the total 28
+positions were vacant. Maryland 529 management advised us that 13 of the
+vacant positions primarily related to MPCT customer services that were assumed
+by the MPCT Third Party Administrator (TPA).
+5
+
+--- Page 8 ---
+Figure 1
+Maryland 529 Positions, Expenditures, and Funding
+Sources
+Full Time Equivalent Positions as of June 30, 2023
+Positions Percent
+Filled 11 39.3%
+Frozen 3 10.7%
+Vacant* 14 50.0%
+Total 28
+Fiscal Year 2023 Expenditures
+Expenditures Percent
+Salaries, Wages and Fringe Benefits $ 1,534,125 10.5%
+Technical and Special Fees 47,086 0.3%
+Operating Expenses 5,762,413 39.2%
+Other Expenses** 7,351,750 50.0%
+Total $ 14,695,374
+Fiscal Year 2023 Funding Sources
+Funding Percent
+Non-Budgeted Fund $ 14,695,374 100.0%
+Total $ 14,695,374
+Source: State financial and personnel records
+*Maryland 529 management advised the vacant positions primarily related to MPCT customer
+services that were assumed by the TPA.
+**Maryland 529 received funding from the Maryland Higher Education Commissions (MHEC) to
+administer the Save4College Program that provides matching contributions to eligible accounts in the
+MCIP.
+Maryland Prepaid College Trust (MPCT)
+MPCT offered tuition contracts for the future payment of tuition and mandatory
+fees at any eligible institution of higher education. Contracts, which require
+scheduled payments, were purchased by individuals on behalf of a designated
+beneficiary. State law requires that either the account holder or the beneficiary be
+a resident of Maryland or the District of Columbia at the time that a contract was
+6
+
+--- Page 9 ---
+purchased. As previously noted, no new contracts were permitted after May 31,
+2023, but contracts existing at that time remain.
+Maryland 529 did not guarantee that the assets of MPCT will be sufficient to pay
+the tuition and fees estimated under the contracts. However, in the event that the
+market value of MPCT’s assets is not sufficient to fund its contract obligations,
+State law provides that State funds may be appropriated to fund the shortfall.
+State law also specifies that the debts and contract obligations of MPCT are not
+debts of the State.
+Figure 2 provides selected MPCT funding data for fiscal years 2018 through
+2023. According to State records, as of June 30, 2023, Maryland 529 was
+supporting 31,175 MPCT accounts with 27,587 unique beneficiaries.
+Figure 2
+Select MPCT Financial Information
+(expressed in millions)
+Funded
+Fiscal Year Total Assets Surplus
+Ratio
+2023 $1,293.7 146.4% $398.4
+2022 $1,249.7 140.0% $355.6
+2021 $1,403.4 161.4% $525.4
+2020 $1,215.9 180.9% $538.7
+2019 $1,235.1 163.0% $470.2
+2018 $1,229.8 155.0% $432.5
+S ource: Audited Financial Statements
+Our preceding audit report noted significant management turnover and an
+overwhelming lack of documentation supporting effective oversight of MPCT by
+the Maryland 529 Board. We also noted a lack of documentation of the
+investigative steps taken and conclusions reached regarding numerous
+recordkeeping and accounting discrepancies that had been identified by STO and
+Maryland 529 personnel subsequent to the departure of the former Chief
+Executive Officer and Chief Financial Officer in May 2015. In response to these
+issues, we recommended that Maryland 529 obtain a forensic audit.
+7
+
+--- Page 10 ---
+Forensic Audit Report
+In response to our prior report recommendation, Maryland 529 contracted with an
+accounting firm to conduct the forensic audit which issued its report in March
+2021. The report concluded that Maryland 529 took certain steps to address
+issues that led to the findings in our report including updating its automated
+records and implementing and improving processes, policies, and procedures to
+mitigate the risk of these issues recurring in the future. However, the firm noted
+that in many cases, the specific record of the applicable accounts and transactions
+in question could not be located, and as a result, the firm could not confirm that
+the related issues had been addressed. While the firm ultimately did not identify
+any significant deficiencies, this may have been caused, in part, by the lack of
+available documentation.
+The firm also agreed with findings identified by STO and commented upon in our
+preceding audit report regarding potential irregularities relating to accounts held
+by a former senior management employee at Maryland 529. As noted in our
+preceding report, these findings were submitted by Maryland 529’s legal counsel
+to the Office of the Attorney General’s Criminal Division in September 2015. At
+the time of our current audit, Maryland 529 had no information regarding the
+status of its referral.
+MPCT Third Party Administrator (TPA)
+In December 2020, Maryland 529 entered into a $15.7 million contract (including
+option years) with a TPA to manage MPCT through November 2028. The
+contract provided for conversion of MPCT data from Maryland 529 records to an
+automated system maintained by the TPA. The TPA was to conduct day-to-day
+operations previously performed by Maryland 529 staff, such as determining
+account holder and beneficiary eligibility, servicing requests for modifications to
+accounts, making benefit payments, and ensuring the accuracy of account
+information. The TPA would also provide an account portal for account holders
+to access current data regarding their accounts. The new automated
+recordkeeping system went live in November 2021. According to State
+accounting records, as of June 2023, fees paid to the TPA totaled $3.6 million.
+Board Changes to MPCT
+In June 2021, the Maryland 529 Board approved certain MPCT changes, effective
+November 1, 2021, regarding a rate of return to be used for calculating a
+8
+
+--- Page 11 ---
+minimum benefit amount for MPCT accounts, as well as for calculating rollover
+and refund amounts requested by account holders.1 The purpose of MPCT was to
+provide a guaranteed payment of college costs within specified limits, not to serve
+as an investment vehicle for the account holder. However, State law did authorize
+the Board to provide a “rebate” to account holders if the Trust exceeded a 130
+percent funding level.
+According to the minutes of its June 25, 2021 meeting, the Board endorsed a rate
+of 6 percent applied to balances held prior to November 1, 2021 to calculate
+minimum account benefits and refund and rollover amounts. The 10-year United
+States Treasury rate would be applied to contributions made after that date.
+However, ambiguity existed in the Board’s intentions, implementation of the
+Board’s decision, and certain disclosures made to account holders regarding their
+account balances. The ensuing actions taken to implement the Board’s decision
+resulted in significant confusion, uncertainty, and disagreement by MPCT
+stakeholders.
+MPCT Interest Suspension
+In April 2022, Maryland 529 management instructed the TPA to suspend the
+application of earnings to account holders amid escalating questions and concerns
+regarding the calculation and accuracy of earnings amounts being posted to
+accounts since the November 2021 effective date. Between April 2022 and April
+2023 a series of steps were taken by the Maryland 529 Board and staff, TPA,
+State Treasurer, outside legal counsel, and certain other contracted vendors to
+address those questions and concerns. Specifically, these parties examined the
+Board’s intentions in implementing the aforementioned changes, the actual
+ensuing calculation and application of earnings to account balances, disclosures
+made to account holders regarding their account balances, and account funds
+being made available to account holders. The ongoing concerns ultimately
+resulted in legislative intervention.
+State Treasurer’s Office
+The STO’s Decision Memorandum issued on July 10, 2023 detailed the
+progression of events leading to the current conditions of confusion and
+disagreement among stakeholders, and in particular, concluded that there was a
+lack of clarity regarding application of the 6 percent rate for purposes of
+determining minimum account benefits. The Memorandum explained that the
+Board’s intent was to apply the rate prospectively beginning November 1, 2021 to
+1 An MPCT account holder may request a transfer (rollover) of MPCT account funds to the
+Maryland College investment Plan or to another 529 account (such as in another state) or may
+request a refund of the account.
+9
+
+--- Page 12 ---
+all balances in accounts on October 31, 2021, but the rate was instead being
+applied retroactively to the date of contribution. According to the Memorandum,
+this difference between the intended application and the actual application
+resulted in substantial dollar value discrepancies for some account holders as to
+what those account holders understood to be their account balance and what the
+Board actually intended.
+In order to bring these ongoing concerns to resolution, the State Treasurer
+determined that for account contributions made prior to November 1, 2021, the
+annual earnings rate will be 6 percent compounded monthly, applied retroactively.
+For account contributions posted to an account on or after November 1, 2021, the
+annual earnings rate will be a rate equal to the 10-year Treasury note compounded
+monthly. These rates will remain in effect until the earlier of July 1, 2024, the
+date benefits are withdrawn, or the contract termination date. Beginning on a date
+no later than July 1, 2024 all contributions and all balances in an account will earn
+no interest for the account holder.
+Maryland College Investment Plan (MCIP)
+MCIP was established to allow individuals to invest funds to help pay the cost of
+providing a college education for designated beneficiaries. Maryland 529
+executed a contract with a private investment company that is responsible for
+managing MCIP by processing Plan enrollment applications, investing related
+payments, and disbursing funds. The current contract will expire in June 2028.
+Earnings on funds invested in MCIP and the future principal value of individual
+accounts are not guaranteed. Payments into the investment plan will be accepted
+provided the aggregate balance of all accounts for a designated beneficiary does
+not exceed $500,000. Account holders and designated beneficiaries participating
+in MCIP are not required to be residents of Maryland or the District of Columbia.
+State law provides State income tax benefits for Maryland taxpayers who elect to
+participate in MCIP based on their contributions. Specifically, the Tax-General
+Article, Section 10-208 of the Annotated Code of Maryland allows a taxpayer to
+deduct up to $2,500 in annual contributions for any tax year, for each qualified
+beneficiary, for the purpose of calculating his or her Maryland adjusted gross
+income.
+Maryland Achieving a Better Life Experience
+Chapter 39, laws of Maryland 2016 established the Maryland Achieving a Better
+Life Experience (ABLE) program, under Maryland 529’s oversight, to allow
+individuals to invest funds to help individuals with disabilities maintain health,
+10
+
+--- Page 13 ---
+independence, and quality of life. Assets in an ABLE account in Maryland or in
+any other state may not be considered for determining eligibility for assistance or
+benefits from local or state means-tested programs. For social security benefits,
+up to $100,000 held in an ABLE account is not counted toward the $2,000 asset
+limit. Annual contributions may not exceed $17,0002 and lifetime contributions
+may not exceed $500,000.
+Maryland 529 executed a contract, dated September 7, 2017, with a private
+investment company that is responsible for managing ABLE by processing Plan
+enrollment applications, investing related payments, and disbursing funds. ABLE
+enrollment opened in November 2017, and the current contract will expire in
+September 2025. Earnings on funds invested in ABLE and the future principal
+value of individual accounts are not guaranteed. Account holders and designated
+beneficiaries participating in ABLE are not required to be residents of Maryland
+or the District of Columbia.
+Financial Statement Audits
+Maryland 529 engaged independent certified public accounting firms to audit its
+annual financial statements for MPCT, MCIP, and ABLE (beginning with fiscal
+year 2018) programs. In the related audit reports for the fiscal years ended 2019,
+2020, 2021, 2022, and 2023, the firms stated that the financial statements
+presented fairly, in all material respects, the financial positions of MPCT, MCIP,
+and ABLE, and the changes in their financial positions and cash flows for the
+years then ended, in accordance with accounting principles generally accepted in
+the United States of America.
+Status of Findings From Preceding Audit Report
+Based on our current assessment of significance and risk relative to our audit
+objectives, our audit included a review to determine the status of seven of the nine
+findings contained in our preceding audit report dated December 3, 2019. For the
+non-cybersecurity-related findings, we determined that Maryland 529
+satisfactorily addressed these six findings.
+2 The annual contribution limits are adjusted annually by the Internal Revenue Service (IRS). Annual
+contribution limit noted here was for calendar year 2023.
+11
+
+--- Page 14 ---
+Figure 3
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+There was an overwhelming lack of specific documentation supporting
+whether effective oversight was provided by the Maryland 529 Board
+regarding Maryland 529’s Maryland Prepaid College Trust (MPCT)
+Finding 1 operations during the audit period, particularly in light of the recurring Not repeated
+management turnover, discovered unprocessed business documents, and
+irregularities with a former employee’s accounts. In addition, there was
+a significant lack of documentation supporting investigative steps taken,
+findings, and conclusions reached.
+Maryland 529’s procedures did not require that independent supervisory
+Finding 2 reviews of calculations supporting disbursement transactions be Not repeated
+documented, and our testing of a limited number of disbursements
+disclosed certain errors in the amounts paid.
+Adjustments to Maryland 529 MPCT accounts were unilaterally Not repeated
+Finding 3
+processed and were not subject to independent supervisory review and (Not followed up on)
+approval. Such transactions exceeded $32.1 million for fiscal year 2018.
+Maryland 529 did not prepare adequate bank reconciliations for three
+Finding 4 bank accounts used to administer MPCT activities, and certain Not repeated
+reconciliations we reviewed lacked documentation of supervisory
+review.
+Maryland 529 did not determine the disposition of uncashed checks from
+Finding 5 Not repeated
+2014, nor did it take action to determine the applicability of the
+Maryland Abandoned Property Act to its trust accounts.
+(Policy Issue) Maryland 529’s methodology for calculating disbursement
+Finding 6 Not repeated
+amounts for MPCT account holder refunds and rollovers (transfers), in
+our opinion often resulted in excessive payments.
+Maryland 529 did not adequately monitor access granted to the
+Finding 7 automated system used to administer MPCT. We identified improper Not repeated
+access for 26 system users, including 11 former employees whose access
+had not been disabled.
+Maryland 529 lacked assurance that the automated system used for
+Finding 8 Status Redacted3
+administration of MPCT was sufficiently protected against operational
+and security risks.
+Controls were not established to ensure that all mail collections for Not repeated
+Finding 9
+MPCT were properly accounted for and deposited. (Not followed up on)
+3Specific information on the current status of this cybersecurity–related finding has been redacted
+from the publicly available report in accordance with State Government Article, Section 2-
+1224(i) of the Annotated Code of Maryland.
+12
+
+--- Page 15 ---
+Findings and Recommendations
+Conversion to Third Party Administrator (TPA)
+Finding 1
+Maryland 529 did not have adequate oversight of the conversion of
+Maryland Prepaid College Trust (MPCT) operations, including critical
+business rules and account data provided to the TPA.
+Analysis
+Maryland 529 did not have adequate oversight of the conversion of MPCT
+operations, including critical business rules and account data provided to the TPA.
+Failure to Ensure the TPA System Issues Were Corrected
+Maryland 529 relied on the TPA to conduct data transfer and system functionality
+testing, and permitted the system to go live despite discrepancies with the data.
+Unresolved discrepancies at the time the TPA system went live were documented
+by the TPA in a Data Reconciliation Remediation Plan (DRRP), which was
+approved by Maryland 529 in November 2021. The DRRP identified 29 different
+types of discrepancies applicable to 5,7444 accounts. Maryland 529 did not track
+the status of discrepancies noted on the DRRP, and we were unable to determine
+if any of the account discrepancies we noted as of June 30, 2023 were also on the
+November 2021 DRRP or were the result of new activity.
+Our review of data extracts from the TPA system of 64,901 accounts (31,175
+active, and 33,726 inactive) as of June 30, 2023 disclosed discrepancies that had
+still not been corrected more than a year after the system start date. For example,
+we noted the following:
+ 1,411 accounts established prior to transition in the new TPA system had no
+corresponding record in Maryland 529’s prior records,
+ 5,546 accounts in the new system for which the original contract amount and
+the account holder’s payment schedule (which should be the same) differed by
+at least $1,000, and
+ 2,107 accounts classified as paid in full even though the total of recorded
+payments for each of these accounts was less than the recorded contract
+amount. The 2,107 accounts had contracts totaling $26.8 million, including
+268 accounts with contracts totaling $10.1 million that were marked paid
+4 This total may include some duplication since the same account may have multiple error types
+and be included in the 5,744 more than once.
+13
+
+--- Page 16 ---
+despite having no payments recorded. We could not readily determine the
+total difference between payments for the remaining accounts due to the lack
+of available records.
+Failure to Confirm Critical Business Rules
+The Maryland 529 Board and staff, in conjunction with the TPA, did not
+collectively verify, prior to system implementation, that the TPA had established
+in its system the business rules which would accurately calculate and properly
+apply the rate of return approved by the Board. According to a senior
+management employee, Maryland 529 did not adequately review the business
+rules during the transition, but instead relied on the TPA’s expertise. This lack of
+collective agreement and verification contributed, at least in part, to the ensuing
+confusion, uncertainty, and disagreement related to the interest earnings and rate
+of return as previously mentioned on page 9.
+Recommendation 1
+We recommend that the State Treasurer’s Office (STO)
+a. ensure that all discrepancies noted with the conversion of MPCT
+operations and data to the TPA are satisfactorily resolved, including
+those noted in this finding;
+b. ensure that sufficient oversight is exercised over any future system and
+data conversion activities; and
+c. ensure business rules established by the TPA are functioning as intended.
+Delinquent and Expired MPCT Accounts
+Finding 2
+Maryland 529 did not take sufficient action to address delinquent and
+expired MPCT accounts.
+Analysis
+Maryland 529 did not take sufficient action to address delinquent and expired
+MPCT accounts.
+Delinquent Accounts
+Maryland 529 did not pursue collection of delinquent accounts. Our review of
+Maryland 529 records identified 1,367 MPCT accounts as of June 2023 with one
+or more payments that were delinquent for periods ranging from 60 days to over
+20 years. Another 350 accounts had no payments made as of June 2023. As of
+this date, the initial payments had not been made and were delinquent by between
+14
+
+--- Page 17 ---
+90 days to over 19 years.5 Maryland 529 did not send dunning notices to these
+delinquent account holders and did not assess late fees ranging from $10 to $150
+per month as provided for in each account holder’s contract. In December 2021,
+Maryland 529 updated the MPCT disclosure statement to notify account holders
+that dunning notices would be sent at 30, 60, and 90 day intervals but as of June
+2023 no notices had been issued.
+Expired Accounts
+Maryland 529 did not have procedures to routinely identify and address expired
+MPCT accounts. MPCT accounts expire for purposes of benefit distribution 10
+years (plus the number of school years purchased) after the beneficiary is first
+eligible to use the account benefits.6 According to Maryland 529’s records, as of
+July 2023, there were 2,645 active accounts with contributions totaling
+approximately $14.1 million, that had exceeded their expiration date by 5 to 20
+years.
+Based on an opinion received by Maryland 529 from the Office of the Attorney
+General, funds in expired accounts are not subject to the Maryland Uniform
+Disposition of Abandoned Property Act (Maryland Abandoned Property Act).
+Accordingly, associated funds would not be transferred to the Comptroller of
+Maryland’s Unclaimed Property Division. Maryland 529 had not determined the
+proper disposition for these funds which remained active in its records, which
+could lead to errors or other potential discrepancies, including misuse of account
+funds.
+Recommendation 2
+We recommend that STO develop procedures to
+a. pursue collection of delinquent accounts (including those noted above),
+send routine delinquency notices, and impose and collect late fees
+provided for in account holder contracts; and
+b. identify and address expired accounts, including those noted above.
+5 None of these accounts, except one, had reached maturity and as a result generally would not be
+authorized to receive payment of tuition and fees.
+6 The termination date could be extended due to active military service or receipt of a waiver
+approved by the Maryland 529 Board. Upon termination, account holders have certain options,
+such as receiving a refund of account funds.
+15
+
+--- Page 18 ---
+Information Systems Security and Control
+We determined that Finding 3 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with STO’s responses, have been redacted from this
+report copy.
+Finding 3
+Redacted cybersecurity-related finding.
+Account Holder Fees
+Finding 4
+Maryland 529 did not obtain fees totaling $1.6 million collected by the MPCT
+TPA from account holders.
+Analysis
+Maryland 529 did not obtain fees for the period November 2021 through June
+2023 totaling $1.6 million collected by the MPCT TPA from account holders to
+be used to offset MPCT operating expenses. The fees were collected by the TPA
+along with routine account holder payments, but were not transferred to Maryland
+529. Rather, the fees were deposited and held by the TPA in a depository
+account, which was established to hold MPCT funds required for tuition
+payments, rollovers, or refunds.
+Maryland 529 management advised that it did not require the MPCT TPA to
+transfer the funds since the fees are properly reflected in Maryland 529’s records
+and financial statements and were not needed during these years to offset
+Maryland 529’s operating costs. However, leaving the fees commingled with
+Trust funds in the TPA’s account deprives Maryland 529 of the related interest
+earnings and decreases control and accountability over the funds.
+Recommendation 4
+We recommend that STO obtain all fees collected by the MPCT TPA,
+including those noted above.
+16
+
+--- Page 19 ---
+Maryland College Investment Plan (MCIP)
+Finding 5
+Maryland 529 did not ensure that the MCIP TPA assessed and remitted fees
+as required.
+Analysis
+Maryland 529 did not ensure that the MCIP TPA assessed and remitted all
+required fees. The MCIP TPA was responsible for collecting certain fees from
+account holders based on a percentage of the account holder’s MCIP balance. A
+portion of these fees was to be retained by the MCIP TPA and a portion was to be
+remitted to Maryland 529 to offset operating costs. According to Maryland 529’s
+records, during fiscal year 2023, approximately $4.0 million was remitted to
+Maryland 529, and $2.4 million was retained by the MCIP TPA.
+Our review disclosed that Maryland 529 did not ensure that the amount assessed
+and remitted by the MCIP TPA was proper. Specifically, the TPA provided a
+schedule of fees assessed to Maryland 529, but there was no verification of the
+reported information (such as a determination of fees due based on managed
+assets) to ensure the MCIP TPA properly assessed and remitted all the required
+fees. Our test of five consecutive monthly invoices during calendar year 2023
+determined the amount assessed and remitted by the MCIP TPA was proper.
+Recommendation 5
+We recommend that STO establish procedures to ensure the MCIP TPA
+assesses and remits all required fees.
+17
+
+--- Page 20 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of Maryland 529 for the period
+beginning July 1, 2018 and ending May 31, 2023. The audit was conducted in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine Maryland 529’s
+financial transactions, records, and internal control, and to evaluate its compliance
+with applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included administering the Maryland College Investment
+Plan (MCIP) and Maryland Prepaid College Trust (MPCT), procurements and
+disbursements, and information systems security and control. We also determined
+the status of seven of the nine findings contained in our preceding audit report.
+Maryland 529 engaged independent certified public accounting firms to perform
+audits of the plans’ financial statements for MCIP, MPCT, and the Maryland
+Achieving a Better Life Experience (ABLE) programs. In the related audit
+reports for the fiscal years ended 2019, 2020, 2021, 2022 and 2023, the firm
+stated that these financial statements presented fairly, in all material respects, the
+financial positions and respective net position of MCIP, MPCT, and ABLE in
+accordance with accounting principles generally accepted in the United States of
+America. We have relied on the work of the independent accounting firms to
+provide audit coverage of certain aspects of Maryland 529’s operations
+(investments of the MCIP and MPCT). Our audit procedures in these areas were
+generally limited, therefore, to obtaining a sufficient basis for that reliance.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of July 1, 2018 and ending May 31, 2023, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+18
+
+--- Page 21 ---
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of the Maryland 529’s operations.
+Generally, transactions were selected for testing based on auditor judgment,
+which primarily considers risk, the timing or dollar amount of the transaction, or
+the significance of the transaction to the area of operation reviewed. As a matter
+of course, we do not normally use sampling in our tests, so unless otherwise
+specifically indicated, neither statistical nor non-statistical audit sampling was
+used to select the transactions tested. Therefore, unless sampling is specifically
+indicated in a finding, the results from any tests conducted or disclosed by us
+cannot be used to project those results to the entire population from which the test
+items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data), and the State’s Central Payroll Bureau (payroll data). The extracts are
+performed as part of ongoing internal processes established by the Office of
+Legislative Audits and were subject to various tests to determine data reliability.
+We determined that the data extracted from these sources were sufficiently
+reliable for the purposes the data were used during this audit.
+We also extracted data from Maryland 529’s prior MPCT system and the
+automated systems used by Maryland 529’s contracted vendors to administer
+MCIP and MPCT for the purpose of testing certain areas, such as collection and
+disbursement activity. We performed various tests of the relevant data and
+determined that the data were sufficiently reliable for the purposes the data were
+used during the audit. Finally, we performed other auditing procedures that we
+considered necessary to achieve our audit objectives. The reliability of data used
+in this report for background or informational purposes was not assessed.
+During our audit period, Maryland 529’s management was responsible for
+establishing and maintaining effective internal control. With the transfer of
+Maryland 529 operations to the Maryland State Treasurer effective June 1, 2023,
+those functions became the responsibility of the State Treasurer. Internal control
+is a process designed to provide reasonable assurance that objectives pertaining to
+the reliability of financial records; effectiveness and efficiency of operations,
+including safeguarding of assets; and compliance with applicable laws, rules, and
+regulations are achieved. As provided in Government Auditing Standards, there
+are five components of internal control: control environment, risk assessment,
+control activities, information and communication, and monitoring. Each of the
+five components, when significant to the audit objectives, and as applicable to
+Maryland 529, were considered by us during the course of this audit.
+19
+
+--- Page 22 ---
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect Maryland 529’s ability to maintain reliable financial records,
+operate effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to the Maryland State Treasurer’s Office (STO) that
+did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that a finding in this report falls under
+that definition. Consequently, for the publicly available audit report all specifics
+as to the nature of the cybersecurity finding and required corrective actions have
+been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of this cybersecurity finding have been
+communicated to STO and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+The response from STO to our findings and recommendations are included as an
+appendix to this report. Depending on the version of the audit report, responses to
+any cybersecurity findings may be redacted in accordance with State law. As
+20
+
+--- Page 23 ---
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise STO regarding the results of our review of its
+response.
+21
+
+--- Page 24 ---
+APPENDIX
+Dereck E. Davis
+State Treasurer
+Jonathan D. Martin
+Chief Deputy Treasurer
+January 27, 2025
+Mr. Brian S. Tanen, CPA, CFE
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+Enclosed, please find STO responses to certain disclosures in connection with the draft audit report for the Maryland
+529 audit of the Office of the State Treasurer (STO) for the period beginning July 1, 2018, and ending May 31, 2023.
+If you have any questions, please contact Jonathan Martin, Chief Deputy Treasurer at jmartin@treasurer.state.md.us.
+Sincerely,
+Dereck E. Davis
+State Treasurer
+LOUIS L. GOLDSTEIN TREASURY BUILDING, 80 CALVERT ST., ROOM 109, ANNAPOLIS, MD 21401
+410-260-7533 DIRECT  800-322-4296 TOLL FREE  800-735-2258 TTY
+410-260-7160 TREASURER  410-260-7080 CHIEF DEPUTY TREASURER
+https://treasurer.state.md.us
+
+--- Page 25 ---
+Maryland 529
+Agency Response Form
+Conversion to Third Party Administrator (TPA)
+Finding 1
+Maryland 529 did not have adequate oversight of the conversion of Maryland Prepaid
+College Trust (MPCT) operations, including critical business rules and account data
+provided to the TPA.
+We recommend that the State Treasurer’s Office (STO)
+a. ensure that all discrepancies noted with the conversion of MPCT operations and
+data to the TPA are satisfactorily resolved, including those noted in this finding;
+b. ensure that sufficient oversight is exercised over any future system and data
+conversion activities; and
+c. ensure business rules established by the TPA are functioning as intended.
+Agency Response
+Background / Factually Accurate
+Analysis
+Please explain any The State Treasurer’s Office (STO) took over responsibility for Maryland 529 and its various programs on
+concerns with June 1, 2023, at the direction of the Maryland General Assembly and the Governor. The conversion and
+factual accuracy. outsourcing of the Maryland Prepaid College Trust, including business rules and account data, occurred
+throughout 2021, and was finalized before STO assumed responsibility of the program. While STO cannot
+speak to the oversight present at the time of the conversion, the agency implemented multiple policy changes
+that better protect the relevant interests of account holders going forward. STO first endeavored to address
+the most pressing account holder issue, which was setting the earnings rate for accounts and ensuring that
+account holders received access to their funds as soon as possible. By prioritizing accounts with beneficiaries
+who matriculated in the fall of 2023, STO was able to ensure that those account holders had access to their
+funds quickly in order to make payments in a timely manner.
+Recommendation Agree Estimated Completion Date:
+Ongoing
+a
+Please provide STO continues to evaluate account holder data to resolve issues as they are identified. The work
+details of is impacted by the quality of the historical data – an issue previously highlighted by OLA.
+corrective action
+or explain
+disagreement.
+Recommendation Agree Estimated Completion Date:
+Ongoing
+b
+Please provide While the work required to address the recommendations in this finding is ongoing and impacted by
+details of data limitations, it has resulted in greater oversight of the State’s program manager.
+corrective action
+or explain
+disagreement.
+Page 1 of 4
+
+--- Page 26 ---
+Maryland 529
+Agency Response Form
+Recommendation Agree Estimated Completion Date:
+Ongoing
+c
+Please provide Following STO oversight, the Office revisited the creation of business rules and best practices and has since
+details of implemented additional rules to further strengthen the efficiency of the Maryland Prepaid College Trust
+corrective action program. Additionally, STO established agreements with outside vendors to verify the accuracy of account
+or explain values and ensure implementation of new business rules for the State’s Program Manager to execute.
+disagreement.
+Delinquent and Expired MPCT Accounts
+Finding 2
+Maryland 529 did not take sufficient action to address delinquent and expired MPCT
+accounts.
+We recommend that STO develop procedures to
+a. pursue collection of delinquent accounts (including those noted above), send routine
+delinquency notices, and impose and collect late fees provided for in account holder
+contracts; and
+b. identify and address expired accounts, including those noted above.
+Agency Response
+Background / Analysis Factually Accurate
+Please explain any STO assumed responsibility of Maryland 529 after the audit period but agrees
+concerns with factual with this finding and will continue to work to research and address account
+accuracy. issues including those identified in the audit.
+Recommendation a Agree Estimated Completion Date: Ongoing
+Please provide details of With the implementation of new business rules, STO plans to address
+corrective action or delinquent accounts.
+explain disagreement.
+Recommendation b Agree Estimated Completion Date: Ongoing
+Please provide details of With the implementation of new business rules, STO plans to address expired
+corrective action or accounts.
+explain disagreement.
+Page 2 of 4
+
+--- Page 27 ---
+Maryland 529
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that Finding 3 related to “cybersecurity,”
+as defined by the State Finance and Procurement Article, Section 3.5-301(b) of the Annotated
+Code of Maryland, and therefore are subject to redaction from the publicly available audit report
+in accordance with the State Government Article 2-1224(i). Although the specifics of the
+finding, including the analysis, related recommendation(s), along with STO’s responses, have
+been redacted from this report copy, STO’s responses indicated agreement with the finding and
+related recommendations.
+Finding 3
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Account Holder Fees
+Finding 4
+Maryland 529 did not obtain fees totaling $1.6 million collected by the MPCT TPA from
+account holders.
+We recommend that STO obtain all fees collected by the MPCT TPA, including those
+noted above.
+Agency Response
+Background / Factually Accurate
+Analysis
+Please explain any Instead of receiving a monthly ACH transfer, the program previously
+concerns with factual allowed the TPA to keep the money in their custody account to use
+accuracy. towards distributions, thus requiring the conversion of assets to cash to
+be less frequent.
+Recommendation Agree Estimated Completion Date: 3/1/2025
+Please provide details of In November 2024, STO implemented a new process requiring the TPA
+corrective action or to send an ACH transfer of all due funds directly to the program’s
+explain disagreement. operating account. Additionally, STO is currently pursuing the past
+amounts due to the program to be received in cash.
+Page 3 of 4
+
+--- Page 28 ---
+Maryland 529
+Agency Response Form
+Maryland College Investment Plan (MCIP)
+Finding 5
+Maryland 529 did not ensure that the MCIP TPA assessed and remitted fees as required.
+We recommend that STO establish procedures to ensure the MCIP TPA assesses and
+remits all required fees.
+Agency Response
+Background / Factually Accurate
+Analysis
+Please explain any The current administration has implemented steps to ensure that the vendor
+concerns with factual administering the Maryland College Investment Plan is providing
+accuracy. breakdowns of the fees collected on its behalf.
+Recommendation Agree Estimated Completion Date: 3/1/2025
+Please provide details of Currently, the vendor sends a monthly breakdown of the MCIP fee by
+corrective action or product. In the spreadsheet provided, funds are individually named, and
+explain disagreement. subsequent associated average assets daily fee accrual are identified. The
+state fee, program fee and other associated fees details are given as well.
+The cash receipts are then recorded as revenue into MD529’s books and
+reconciled on a monthly basis.
+Page 4 of 4
+
+--- Page 29 ---
+A T
+UDIT EAM
+Michael J. Murdzak, CPA
+Audit Manager
+David R. Fahnestock, CPA
+Data Analytics Manager
+Tu N. Vuong
+Senior Auditor
+Ian T. Pontius
+Data Analytics Senior Auditor
+Thomas J. Kraemer
+Nga T. Nguyen Simmons
+Stacey D. Streett
+Staff Auditors

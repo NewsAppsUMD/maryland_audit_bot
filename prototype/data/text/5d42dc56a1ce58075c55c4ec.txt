@@ -1,0 +1,208 @@
+Title: Maryland Department of Transportation - Financial Management Information System - Centralized Operations
+Date: 07/26/2019
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5d42dc56a1ce58075c55c4ec
+Extracted: 2025-06-19T06:16:56.781913
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Transportation
+Financial Management Information System
+Centralized Operations
+July 2019
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Craig J. Zucker (Senate Chair) Delegate Shelly L. Hettleman (House Chair)
+Senator Adelaide C. Eckardt Delegate Steven J. Arentz
+Senator George C. Edwards Delegate Andrew P. Cassilly
+Senator Guy J. Guzzone Delegate Mark S. Chang
+Senator Katie Fry Hester Delegate Keith E. Haynes
+Senator Cheryl C. Kagan Delegate Michael A. Jackson
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate April R. Rose
+Senator Douglas J.J. Peters Delegate Geraldine Valentino-Smith
+Senator Justin D. Ready Delegate Karen Lewis Young
+To Obtain Further Information
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 ꞏ 301-970-5900 ꞏ 1-877-486-9964 (Toll Free in Maryland)
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Background Information
+General Information
+The Maryland Department of Transportation (MDOT) Financial Management
+Information System (FMIS) is an integrated database system with purchasing and
+accounting components. The FMIS purchasing and accounting components are
+operational in all MDOT transportation business units. FMIS runs on the MDOT
+Office of Transportation Technology Services’ (OTTS) mainframe computer.
+According to the State’s records, expenditures processed through MDOT FMIS
+for fiscal year 2018 totaled approximately $3.4 billion.
+A separate version of FMIS (known as Statewide FMIS) is maintained by the
+State’s Department of Information Technology and the Comptroller of
+Maryland’s General Accounting Division for the use of most Executive Branch
+agencies and is outside the scope of this audit. Because of unique MDOT needs,
+particularly with respect to federal grants and projects, MDOT maintains its own
+version of FMIS.
+FMIS Responsibilities
+The FMIS Unit, within MDOT’s Secretary’s Office, and the MDOT OTTS are
+responsible for daily FMIS administration, including maintenance, operation,
+security, and backup of related database records, and the computer programs,
+which perform online and overnight processing. The transportation business units
+within MDOT are responsible for establishing and monitoring their employees’
+security accesses to FMIS.
+The Office of Legislative Audits separately audits the Secretary’s Office and each
+of MDOT’s transportation business units. Audits of these entities include a
+review of their agency-based FMIS responsibilities. This central audit included
+elements of FMIS operation and internal control not included in these agency
+audits (for example, database and security controls). For an expanded explanation
+of the nature and purpose of this audit, see the Audit Scope, Objectives, and
+Methodology section of this report.
+FMIS Interface
+MDOT interfaces certain FMIS financial information to the Statewide FMIS for
+recordation, payment processing, and reporting. This audit included a review of
+3
+
+--- Page 6 ---
+the controls and processing over financial information interfaced to and recorded
+on Statewide FMIS.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the finding contained in our
+preceding audit report dated September 9, 2015. We determined that MDOT
+satisfactorily addressed this finding.
+Findings and Recommendations
+Sensitive Personally Identifiable Information (PII)
+Background
+The Maryland Department of Transportation’s (MDOT) Financial Management
+Information System (FMIS) contains vendor information including recorded
+vendor names and assigned vendor numbers. For vendors who are individuals,
+MDOT FMIS uses their social security numbers (SSNs) as their vendor table
+identification numbers. Accordingly, PII exists within MDOT FMIS since State
+law defines any record containing an individual’s name combined with a SSN as
+PII.
+Finding 1
+Sensitive PII was not adequately secured within MDOT FMIS.
+Analysis
+Sensitive PII was not adequately secured within MDOT FMIS. MDOT FMIS
+displays vendor information (including PII) in clear text format, via multiple
+online screens and on generated reports. Our analysis of this vendor information
+identified a substantial number of records which contained PII (vendor names and
+SSNs), but we could not determine an exact count of the vendor records
+containing such PII due to information limitations.
+MDOT FMIS includes security features which allow for restricting employees’
+access to online screens, including screens for report generation, based on their
+job responsibilities. Despite the existence of MDOT FMIS screen access control
+features, MDOT FMIS vendor information was widely accessible. For example,
+we identified nine MDOT FMIS screens used for vendor record inquiry and
+maintenance and found, as of October 2018, that four of these nine screens were
+each accessible by approximately 1,000 MDOT FMIS user accounts.
+4
+
+--- Page 7 ---
+Historically, access to MDOT FMIS vendor information was broadly assigned for
+work efficiency, before concerns increased regarding the existence of sensitive
+PII within certain of the vendor records.
+The State of Maryland Information Security Policy requires agencies to ensure
+access to confidential information is strictly controlled and audited and that it
+supports the concepts of least possible privilege and need to know. Consequently,
+MDOT should ensure that access to PII within MDOT FMIS is adequately
+restricted and determine whether practical alternatives exist in lieu of recording
+PII within FMIS vendor record information.
+Recommendation 1
+We recommend MDOT, in conjunction with its transportation business
+units, take the necessary steps to adequately restrict and safeguard PII in
+MDOT FMIS.
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the centralized operations of the
+Maryland Department of Transportation (MDOT) Financial Management
+Information System (FMIS). Fieldwork associated with our audit was conducted
+during the period from July 2018 to October 2018. The audit was conducted in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As FMIS is a vital procurement and accounting application in all of MDOT’s
+transportation business units, internal control over FMIS is critical to these units.
+Since we are responsible for auditing these units and evaluating their internal
+control, we periodically evaluate FMIS’ internal control. The State of Maryland
+maintains its own Statewide version of FMIS, which is not included in the scope
+of this audit.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine the elements of
+FMIS operations, relative to the MDOT’s overall internal control, and to evaluate
+compliance with applicable State laws, rules, and regulations not included in our
+audits of the MDOT’s transportation business units.
+5
+
+--- Page 8 ---
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included central FMIS security administration and
+maintenance, database and security controls, and the Relational Standard
+Accounting and Reporting System (R*STARS) component operations, which
+support MDOT’s accounting operations. We also determined the status of the
+finding included in our preceding audit report.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, and observations of
+FMIS’ operations. We also performed other auditing procedures that we
+considered necessary to achieve our audit objectives. The reliability of data used
+in this report for background or informational purposes was not assessed.
+MDOT management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes a finding relating to a condition that we consider to be
+significant deficiency in the design or operation of internal control that could
+adversely affect MDOT’s ability to operate effectively and efficiently, and/or
+comply with applicable laws, rules, and regulations. This condition is also a
+significant instance of noncompliance with applicable laws, rules, or regulations.
+Another less significant finding was communicated to MDOT that did not warrant
+inclusion in this report.
+MDOT’s response to our finding and recommendations is included as an
+appendix to this report. As prescribed in the State Government Article, Section 2-
+1224 of the Annotated Code of Maryland, we will advise MDOT regarding the
+results of our review of its response.
+6
+
+--- Page 11 ---
+A T
+UDIT EAM
+Richard L. Carter, CISA
+Information Systems Audit Manager
+Edwin L. Paul, CPA, CISA
+Information Systems Senior Auditor
+Robert H. Dean
+Michael A. Kirschbaum
+Information Systems Staff Auditors

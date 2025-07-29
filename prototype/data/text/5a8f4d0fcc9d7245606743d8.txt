@@ -1,0 +1,948 @@
+Title: State Board of Elections
+Date: 06/10/2010
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d0fcc9d7245606743d8
+Extracted: 2025-06-17T18:38:20.764101
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+State Board of Elections
+April 2017
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+DEPARTMENT OF LEGISLATIVE SERvIcES
+OFFIcE Of LEGISLATIVE AuDITs
+MARYLAND GENERAL ASSEMBLY
+Wirren G. Deschenaux ThomasJ, BarnickelIII, CPA
+ExecutiveDirector LegislativeAuditor
+April 24, 2017
+Senator Craig J. Zucker, Co-Chair, Joint Audit Committee
+Delegate C. William Frick, Co-Chair, Joint Audit Committee
+Members ofJoint Audit Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have audited the State Board ofElections (SBE) for the period beginning
+August 23, 2012 and ending October 22, 2015. SBE is responsible for managing
+and supervising elections and voter registrations in the State. SBE directs,
+supports, monitors, and evaluates the activities ofeach ofthe 24 local boards.
+Our audit disclosed SBE did not establish certain controls to maintain the integrity
+ofthe Statewide voter registration records and to protect certain voter data. For
+example, user access to the voter registration system was not effectively
+controlled; consequently, numerous system users had unnecessary access to the
+voter registration database, which was removed after our inquiries. We also noted
+that SBE did not ensure that personally identifiable information from the database
+was either properly safeguarded when transmitted to a third party contractor or
+removed from its own records. In this regard, the fill social security numbers
+from over 590,000 voters were retained by SBE in the database even though only
+the last four digits are needed.
+Regarding the voting process, we noted that SBE did not adequately authenticate
+certain voters who reciuested absentee ballots for primary and general elections.
+We also noted that a certain critical voting system was not backed-up offsite when
+in use during elections and was not addressed in SBE’s Disaster Recovery Plan.
+Our audit also disclosed internal control and recordkeeping deficiencies related to
+the procurement ofcontracts and the monitoring ofcertain payments. for
+example, for two contracts tested, awarded as single sources and valued at $18.8
+million, SBE could not support the awards were in the State’s best interest. We
+also identified overpavments under a staffing services contract.
+301 ‘West Preston Street Room 1202 Baltimore, Maryland 21201
+•
+410-946-5900/301-970-5900 Fax 410-946-5999/301-970-5999
+Toll free in Maryland 877-486-9964 fraud Hotline 877-FRAUD-li
+
+--- Page 4 ---
+SBE’s response to this audit is included as an appendix to this report. We wish to
+acknowledge the cooperation extended to us during the course ofthis audit by
+SBE.
+Respectfully submitted,
+72) ‘L
+Thomas J. Barnickel III, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Information System Network 5
+Status of Findings From Preceding Audit Report 5
+Findings and Recommendations 6
+Statewide Voter Registration
+Finding 1 – SBE did not ensure the accuracy of the data recorded in 6
+the voter registration system (MDVOTERS) or whether related user
+access was appropriate.
+Finding 2 – SBE did not ensure that personally identifiable information 8
+from the MDVOTERS database provided to an external third
+party was properly safeguarded.
+Finding 3 – SBE unnecessarily retained personally identifiable 9
+information within the MDVOTERS database.
+Absentee Ballots
+Finding 4 – SBE did not adequately authenticate certain voters who 10
+requested absentee ballots.
+Backup of Critical Files and Disaster Recovery
+Finding 5 – A critical voting system was not backed up offsite and was 11
+not properly addressed in the SBE Disaster Recovery Plan.
+Procurement Process
+Finding 6 – Controls were not in place over the receipt and opening of 12
+certain bids, and SBE could not support that two single source
+contract awards were in the State’s best interest. Additionally, SBE
+did not publish certain contract awards in eMaryland Marketplace.
+Contract Monitoring
+Finding 7 – SBE did not have a comprehensive process in place to 14
+ensure that certain billed work was in accordance with approved
+contract terms or was adequately documented.
+3
+
+--- Page 6 ---
+Fiscal Year-End Accounting
+Finding 8 – At the 2015 fiscal year-end, SBE had an unexplained deficit 15
+fund balance and had recorded certain unsupported revenues
+to eliminate deficits.
+Audit Scope, Objectives, and Methodology 17
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The Election Law Article, Section 2-101 of the Annotated Code of Maryland,
+established the State Board of Elections (SBE) under the direction of a five-
+member Board appointed by the Governor, with the advice and consent of the
+Senate. In addition, in accordance with Section 2-201 of the aforementioned
+Article, the Governor has appointed local election boards within each of the
+State’s 24 subdivisions. Each local board is charged with overseeing the conduct
+of all elections within its respective jurisdiction.
+SBE is responsible for managing and supervising elections and voter registrations
+in the State. SBE directs, supports, monitors, and evaluates the activities of each
+local board. In addition, SBE administers sections of the Election Law Article
+that govern the receipt and expenditure of funds for election campaigns, and
+administers the Public Financing Act, which provides for public financing of the
+campaigns of eligible gubernatorial candidates who elect to use such funds. SBE
+also serves as a depository for election and registration records, campaign
+financial reports, and other election information. According to the State’s
+records, during fiscal year 2016 SBE had 41.8 authorized positions and operating
+expenditures totaling approximately $21.0 million.
+Information System Network
+To support State of Maryland voter registration and elections activities (including
+online voter registration), SBE maintains a local area network for its headquarters
+operation, which includes servers that support election management, campaign
+finance reporting, and email communications. The SBE headquarters network is
+connected to the Internet and SBE uses networkMaryland for its wide area
+network connections to the 24 local boards of elections, 5 warehouses, and 2
+offsite data centers where the centralized voter registration application resides.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the nine findings contained
+in our preceding audit report on SBE dated March 24, 2014. We determined that
+SBE satisfactorily addressed these findings.
+5
+
+--- Page 8 ---
+Findings and Recommendations
+Statewide Voter Registration
+Background
+State and federal law require the State Board of Elections (SBE) to establish,
+maintain, and administer a Statewide voter registration database. The Statewide
+voter registration system (MDVOTERS) contains the State’s official voter
+registration database and is separate from the Statewide electronic voting system.
+Employees from each of the State’s 24 local boards of election (LBE) are
+primarily responsible for processing (adding, deleting, changing) voter
+registration data on MDVOTERS, but SBE maintains MDVOTERS and assumes
+a monitoring responsibility for ensuring that the LBEs are properly processing
+voter data.
+In addition, SBE, in concert with approximately 20 other states and the District of
+Columbia, takes part in an initiative to help ensure the accuracy of voter
+registrations (such as identifying voters registered in multiple states). Under a
+multi-state compact, SBE provides certain information on MDVOTERS to the
+nonprofit Electronic Registration Information Center (ERIC), which includes the
+name, date of birth, driver’s license number, and last four digits of the social
+security number for each registered voter in Maryland. ERIC compares voter data
+from various sources and provides the states’ election officials with reports of
+potential ineligible voters. ERIC makes use of a third-party vendor to store and
+process the collected voter data.
+According to SBE records, there were 3,763,838 active registered voters in
+MDVOTERS as of December 2015, and 260,179 new voters were added to the
+database and 264,787 were removed during calendar year 2015.
+Finding 1
+SBE did not ensure the accuracy of the data recorded in MDVOTERS or
+whether related user access to the system was appropriate.
+Analysis
+SBE did not have a comprehensive oversight process in place to ensure the
+accuracy of the data recorded in MDVOTERS and the appropriateness of related
+user access to the system. While SBE was responsible for the accuracy of
+MDVOTERS and the granting of related user access, it relied on the LBEs to
+conduct monthly investigations of certain potential irregularities in MDVOTERS
+data and to review the continued appropriateness of certain user access.
+6
+
+--- Page 9 ---
+• SBE did not ensure LBEs followed up on reports of possible ineligible voters
+received from ERIC. SBE receives reports of possible ineligible voters every
+other month from ERIC (such as voters who were registered in another state
+or recorded as deceased on the federal Death Master File) which are
+distributed to the LBEs. For example, a January 2016 ERIC report included
+5,871 voters registered in Maryland who may be deceased.
+Although the LBEs routinely reported the results of their investigations to
+SBE, SBE did not verify that LBEs properly investigated the individuals on
+the reports and took appropriate corrective action. Our review of a limited
+number of voters from the January 2016 report confirmed that the LBE in
+question took appropriate corrective action regarding the tested voters.
+• Effective controls were not established over the assignment of user access;
+consequently, numerous users had unnecessary access to MDVOTERS.
+Access to MDVOTERS is controlled via a two-step login process, whereby, a
+user must first login to a private virtualized environment (PVE), which then
+passes the users to MDVOTERS and enables them to use a second unique
+login id to actually access MDVOTERS. As of March 2016, there were 448
+users with PVE access, while as of January 2016 there were 1,039 user names
+in MDVOTERS.
+SBE did not conduct any review of the propriety of user access granted to
+MDVOTERS nor verify that LBEs, which were delegated this
+responsibility, had actually reviewed user access assigned to its personnel.
+Furthermore, the list of PVE user login ids that was forwarded to the LBEs
+each month for review was incomplete because it did not include all users
+with PVE access. As a result, numerous users had potentially unnecessary
+user access to MDVOTERS and the PVE. For example, our review of
+user access records found the following.
+ 22 users had PVE access although these users did not require such
+access to perform their job duties (including 15 LBE employees, 4
+SBE employees, and 3 contractor employees).
+ 14 LBE users with PVE access were excluded from the SBE-
+maintained list based on our comparison of access capabilities
+obtained from MDVOTERS versus users on the SBE-prepared list.
+ 619 usernames in MDVOTERS had no login activity in the last 6
+months.
+7
+
+--- Page 10 ---
+ 24 users had administrative rights in MDVOTERS (such as adding and
+removing users), but had not recently functioned in an administrator
+capacity. As of January 28, 2016, none of these 24 users had used
+these rights for at least one year or had ever used those rights.
+In response to our audit inquiries, SBE removed the PVE access for the
+aforementioned 22 employees, the MDVOTERS access for 446 of the
+aforementioned 619 usernames, and the administrative rights for 22 of
+aforementioned 24 usernames. SBE management advised us that the access for
+the remaining users was still necessary.
+The State of Maryland’s Information Security Policy requires agencies to monitor
+their information system controls to ensure that the controls are operating as
+intended. The Policy also requires proper account management practices, such as
+obtaining authorization from appropriate officials to issue user accounts to
+intended individuals and disabling user accounts when no longer needed, which is
+immediately upon user exit from employment or 60 days for inactive accounts.
+Recommendation 1
+We recommend that SBE
+a. ensure, at least on a test basis, that LBEs investigate registered voters on
+the ERIC reports and take appropriate corrective action; and
+b. in conjunction with the LBEs, establish a periodic process to monitor and
+review PVE and MDVOTERS access for appropriateness, removing any
+access not needed for an individual’s job duties.
+Finding 2
+SBE did not ensure that personally identifiable information from the
+MDVOTERS database provided to an external third party was properly
+safeguarded.
+Analysis
+SBE did not ensure that personally identifiable information (PII) from the
+MDVOTERS database shared with ERIC was properly safeguarded. ERIC uses a
+third-party contractor to store and process the data, which includes the name, date
+of birth, driver’s license number, and last four digits of the social security number
+for each registered voter in Maryland.1 State law defines any record containing
+an individual’s name combined with a driver’s license number as PII.
+1 As noted in Finding 3, for certain registered voters SBE has recorded the full social security
+number in MDVOTERS.
+8
+
+--- Page 11 ---
+Our review disclosed that SBE did not require independent reviews be performed
+of ERIC or its contractor to ensure the Maryland voter data provided to these
+parties were secure. Although ERIC claims that data are subject to a “data
+anonymization” process that converts information into an indecipherable string of
+characters, SBE does not have assurances as to the adequacy of this process and
+the security over the MDVOTERS data hosted by the parties.
+The American Institute of Certified Public Accountants has issued guidance
+concerning examinations of service organization controls. Based on this
+guidance, customers, such as SBE, may obtain from service organizations an
+independent auditor’s report referred to as a Service Organization Controls (SOC)
+2 type 2 report. Such a report contains the service organization’s description of
+its system and the results of the auditor’s examination of the suitability of the
+system design and operating effectiveness of the controls for a specified period.
+A SOC 2 type 2 report could include an evaluation of security, availability of
+data, processing integrity, confidentiality of data, and privacy of data over the
+hosted environment.
+We did note that the third-party contractor had obtained a SOC 1 type 2
+examination, for the period from October 1, 2014 to March 31, 2015, with the
+related report dated June 19, 2015, although SBE had not obtained a copy of this
+report to assess the adequacy and comprehensiveness of the review.
+Nevertheless, a SOC 1 report is a report that would not usually provide the
+necessary assurances as a SOC 2 report.
+Recommendation 2
+We recommend that SBE
+a. require periodic SOC 2 Type 2 reviews for ERIC and service
+organization contractors that host PII via a service level agreement; and
+b. perform timely reviews of the SOC 2 reports, determine if they
+adequately address necessary controls and, for any weaknesses noted,
+ensure that necessary corrective action is taken.
+Finding 3
+SBE unnecessarily retained personally identifiable information within the
+MDVOTERS database.
+Analysis
+SBE unnecessarily retained personally identifiable information (PII) within its
+MDVOTERS database. Specifically, as of August 8, 2016, the MDVOTERS
+database contained names and the full nine-digit social security numbers (SSN)
+9
+
+--- Page 12 ---
+for 592,236 (or 14 percent) of the more than 4,100,000 voters (active and
+inactive) in this database, even though the full SSN is neither necessary nor
+required for voter registration purposes. This sensitive PII is commonly sought
+by criminals for use in identify theft.
+There are several methods for Maryland citizens to register to vote, including the
+use of a hard copy voter registration form, which requires that voters provide a
+Maryland driver’s license number or Maryland Motor Vehicle Administration
+issued ID number, or the last four digits of their SSN. SBE uses this information
+to validate the identity of the potential voter. Upon validation, this information is
+entered into the MDVOTERS system and is saved to the MDVOTERS database.
+We were advised by SBE personnel that some registrants using the hard copy
+registration form voluntarily listed their full SSN despite not being required to do
+so. Further, for hard copy registrations with the full SSNs recorded, SBE
+instructed the local boards of elections’ staff to enter all nine SSN digits into the
+MDVOTERS system (which will accept the nine digits in the SSN field).
+If PII breaches occur, organizations can incur excessive unplanned costs and
+damaged reputations. Accordingly, the National Institute of Standards and
+Technology recommends that organizations should collect and retain PII only
+where such information is essential to meet an authorized business purpose.
+Recommendation 3
+We recommend that SBE
+a. amend the MDVOTERS system’s SSN field to limit the field input length
+to four characters; and
+b. remove all full SSNs currently recorded in the MDVOTERS database,
+and just retain the four digits as needed.
+Absentee Ballots
+Finding 4
+SBE did not adequately authenticate certain voters who requested absentee
+ballots.
+Analysis
+SBE did not adequately authenticate certain voters who requested absentee ballots
+during primary and general elections. Depending on the process used, certain
+voters were only required to authenticate themselves by providing information
+(first and last name, date of birth, and address) that is publicly available.
+10
+
+--- Page 13 ---
+Accordingly, for these voters, SBE lacked assurance that the person requesting
+the absentee ballot, and completing and submitting the absentee ballot, is the
+registered voter that they purported to be.
+Consequently, the risk exists that an individual or group could submit fraudulent
+absentee ballots in an attempt to influence the results of a specific election, or,
+could cause legitimate voters to vote by a provisional ballot on election day
+(which may be invalidated because the records show that an absentee ballot had
+already been cast by that voter).
+Recommendation 4
+We recommend that SBE strengthen the authentication process for voters
+requesting absentee ballots by requiring additional non-public information
+such as the last four digits of the voter’s social security number and
+validating this information.
+Backup of Critical Files and Disaster Recovery
+Finding 5
+A critical voting system was not backed up offsite and was not properly
+addressed in the SBE Disaster Recovery Plan.
+Analysis
+The Electronic Pollbook Interchange and Conversion (EPIC) system was not
+backed up offsite when in use during voting periods and was not properly
+addressed in the SBE Disaster Recovery Plan (DRP). The EPIC system is used to
+identify citizens who have voted in a particular election (including early voting)
+and is also used for the same-day voter registration process during early voting.
+We determined that although the EPIC database was backed up to a server that
+resided at the same location as the server hosting the production EPIC database, it
+was not backed up offsite. Therefore, if a disaster occurred at the facility housing
+both the production and backup databases, during the period from the beginning
+of early voting to election day, it would not be readily possible to completely
+recreate the database.
+We also noted that the SBE DRP did not specifically identify how the
+communication link between the facility hosting the EPIC production server and
+the early voting sites could be readily re-created in the event of a disaster at the
+hosting facility. Given the importance of the EPIC system during early voting the
+11
+
+--- Page 14 ---
+detailed enumeration of the procedures necessary to create this communication
+link is critical.
+Recommendation 5
+We recommend that SBE
+a. backup the EPIC database on a daily basis to an offsite location, during
+periods when it is in use; and
+b. update its DRP to include the detailed procedures necessary to quickly
+recreate the communication link between the EPIC production server
+and the early voting sites in the event of a disaster at the location hosting
+the EPIC production server.
+Procurement Process
+Finding 6
+Controls were not in place over the receipt and opening of certain bids, and
+SBE could not support that two single source contract awards were in the
+State’s best interest. Additionally, SBE did not publish certain contract
+awards in eMaryland Marketplace.
+Analysis
+SBE did not have adequate safeguards in place to secure competitive bids that
+were electronically received and document that two employees were present for
+bid openings. Also, SBE could not support its determinations that, for the two
+procurements we tested, the use of a single source procurement method was in the
+State’s best interest. SBE did not publish certain contract awards in eMaryland
+Marketplace (eMM) as required.
+Our test of eight contracts procured during our audit period, which were
+collectively valued at $75.3 million, disclosed the following conditions:
+• SBE did not properly secure electronically received bids. Specifically, for
+four procurements tested totaling $40.4 million, the bids were received via
+emails sent to the procurement officer without any password protection to
+ensure bids were not prematurely accessed. Consequently, there is a risk that
+confidential competitive information could be accessed and disclosed without
+detection to other prospective bidders prior to the bid due date.
+• SBE did not document that two employees were present for the bid opening
+for the six competitively procured contracts tested totaling $73.3 million (the
+other two procurements tested were not competitively bid).
+12
+
+--- Page 15 ---
+• SBE could not support its determination that the prices of two contracts,
+valued at $18.8 million and awarded as single sources were fair and
+reasonable and, therefore, in the State’s best interest. SBE prepared the
+required written determinations justifying the single source award of each
+contract, purportedly based, in part, on analyses of new versus old labor rates
+from the preceding contract. However, SBE could not provide us with formal
+documentation of either analysis. We reviewed the labor rates for one of these
+contracts totaling $12.2 million, but were unable to readily draw any
+conclusion as to the favorability of the new rates, since the rates combined
+several cost elements beyond direct labor, making it difficult to compare to
+the old contract.
+• SBE did not publish the awards for four procurements totaling $34.9 million
+on eMM as required by State procurement regulations.
+State procurement regulations require bids to be secured and opened in the
+presence of at least two State employees. The regulations further require that
+when only one bid is received, an award may only be made to the bidder if the
+procurement officer determines that the price submitted is fair and reasonable.
+Finally, the regulations require contract awards greater than $25,000 be published
+on eMM within 30 days of the contract award.
+Recommendation 6
+We recommend that SBE
+a. ensure electronically received bids are properly secured,
+b. document the opening of competitive bid proposals in the presence of at
+least two State employees,
+c. ensure the justifications for written determinations of single source
+contract awards are supported, and
+d. publish contract awards on eMM.
+13
+
+--- Page 16 ---
+Contract Monitoring
+Finding 7
+SBE did not have a comprehensive process in place to ensure that certain
+billed work was in accordance with approved contract terms or was
+adequately documented.
+Analysis
+SBE did not have a comprehensive process in place to ensure that certain vendor
+payments were in accordance with approved contract terms or adequately
+supported to document the services billed.
+• SBE paid its existing data center hosting vendor a fee for additional hosting
+services, using the terms of the existing contract, without entering into a
+contract modification or obtaining DoIT approval for the modification. The
+original contract was procured under a DoIT Master contract. Under such
+contracts, DoIT requires a change order form, justification for the change,
+scope of work, and cost break down to be submitted to DoIT for approval for
+contract modifications. SBE paid the vendor $47,380 ($11,845 per month) for
+the additional hosting services from October 2015 through January 2016,
+representing approximately 10 percent of total billings for that period. This
+hosting services contract was for approximately $6.6 million for the period
+from January 1, 2015 to December 31, 2016.
+• SBE did not adequately monitor payments made for labor costs related to a
+staffing services contract for workers needed to carry out election activities,
+resulting in overpayments of $52,600. Specifically, although SBE central
+office personnel reviewed timesheets for individuals billed on the contract,
+they did not require an election judge or other SBE employee on site with the
+vendor’s employees to verify the propriety of the hours charged. SBE advised
+us that it had an applicable approval process in place, but the process was not
+documented.
+Our test of four invoices totaling $119,000 disclosed that SBE paid an
+incorrect rate for one labor category, with SBE paying $41.50 per hour versus
+the contract rate of $28.50 per hour. We estimated that for the 2014 primary
+and general elections, SBE paid $78,000 for the labor supplied under this
+category, which included $25,000 in overpayments due to the use of the
+incorrect rate. We expanded our review of vendor billings for those elections
+and found that SBE had paid for 1,661 hours of overtime totaling $82,870,
+even though the contract prohibited any overtime charges. Payment of these
+hours at overtime rates resulted in approximately $27,600 in excess payments
+14
+
+--- Page 17 ---
+versus if the payments had been made at the regular contractual rates. This
+staffing services contract including all modifications totaled approximately
+$5.8 million for the period from March 20, 2014 to December 31, 2016.
+Recommendation 7
+We recommend that SBE
+a. execute contract modifications, as required, establishing all terms and
+conditions including services to be provided and related costs;
+b. submit contract modifications for approval, as required;
+c. establish procedures to ensure and document that services are rendered
+prior to payment;
+d. ensure payments to the vendor are in accordance with all contract terms
+and conditions; and
+e. pursue recovery of the aforementioned $52,600 in inappropriate
+payments.
+Fiscal Year-End Accounting
+Finding 8
+At the 2015 fiscal year-end, SBE had an unexplained deficit fund balance and
+had recorded certain unsupported revenues to eliminate deficits.
+Analysis
+At June 30, 2015, SBE had an unexplained combined deficit fund balance of $3.4
+million (a special fund deficit of $7.5 million and non-budgeted fund surplus of
+$4.1 million) and recorded unsupported federal and special fund revenues of
+$746,000 and $569,000, respectively, to eliminate deficits.
+• SBE had not investigated and it could not adequately explain the cause(s) for
+the fiscal year-end fund balances. Although the failure to properly account for
+the recovery of funds for certain SBE expenditures from local jurisdictions
+and/or local boards of elections2 could be an underlying cause, SBE’s
+accounts receivable records we reviewed did not indicate a current collection
+problem that would have contributed to a deficit situation. It is possible that
+SBE could have posted those expenditures and related reimbursements
+incorrectly, but this would not explain the existence of a year-end combined
+deficit balance in special funds and non-budgeted funds.
+2 Quarterly, SBE bills the 23 counties and Baltimore City for a share of SBE operating costs and
+the new Statewide voting system. In addition, SBE processes the employee payroll for 20 LBE,
+which is recovered from the LBEs (or their respective local government).
+15
+
+--- Page 18 ---
+In August 2015, as part of the year-end closing process, the Comptroller of
+Maryland – General Accounting Division’s (GAD) transferred the balance in
+the non-budgeted funds to the special fund account to eliminate a portion of
+the deficit special fund balance at year-end. This resulted in a special fund
+deficit of $3.4 million on the State’s accounting records that was addressed by
+recording certain supported revenue (such as quarterly billings amounts due
+from the local boards and jurisdictions), as well as certain unsupported
+revenue amounts noted below.
+• GAD, in consultation with SBE, recorded federal and special fund revenue
+totaling approximately $746,000 and $569,000, respectively, without
+regard to the ultimate collectability of those revenues. These revenues
+were recorded to offset a federal fund deficit balance and the remaining
+special fund deficit balance after the non-budget fund balance transfer and
+recordation of supported revenues noted above.
+In addition, in our January 25, 2017 report on the Statewide Review of
+Budget Closeout Transactions for Fiscal Year 2016, we commented that
+SBE recorded federal fund revenue totaling $523,000 to offset a deficit
+balance in a related federal fund source. However, all of these revenues
+may not be received from the federal government. To the extent that
+revenues are not available, general fund appropriations (or deficiency
+appropriations) may be needed to eliminate any resulting deficits.
+GAD’s year-end budget closeout instructions require that proper detailed
+documentation be maintained by State agencies to support their accounting
+transactions and for audit.
+Recommendation 8
+We recommend that SBE
+a. ensure that all applicable financial transactions are properly recorded
+and supported; and
+b. investigate the cause(s) of the aforementioned June 30, 2016 fiscal year-
+end deficit fund balance, take appropriate corrective action, and make
+any necessary adjustments in the accounting records.
+16
+
+--- Page 19 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the State Board of Elections
+(SBE) for the period beginning August 23, 2012 and ending October 22, 2015.
+The audit was conducted in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to
+obtain sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. We believe that the
+evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine SBE’s financial
+transactions, records and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of materiality and risk. The areas
+addressed by the audit included procurements and disbursements, voter
+registration system and local election board oversight, accounts receivable, cash
+receipts, equipment, and payroll. We also determined the status of the findings
+contained in our preceding audit report.
+Our audit did not include an evaluation of internal controls for federal financial
+assistance programs and an assessment of SBE’s compliance with federal laws
+and regulations pertaining to those programs because the State of Maryland
+engages an independent accounting firm to annually audit such programs
+administered by State agencies, including SBE.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+SBE’s operations, and tests of transactions. Generally, transactions were selected
+for testing based on auditor judgment, which primarily considers risk. Unless
+otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+17
+
+--- Page 20 ---
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during this
+audit. We also extracted data from SBE’s MDVOTERS for the purpose of testing
+user access. We performed various tests of the relevant data and determined that
+the data were sufficiently reliable for the purposes the data were used during this
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+SBE’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect SBE’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also include findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to SBE that did not warrant inclusion in this report.
+SBE’s response to our findings and recommendations is included as an appendix
+to this report. As prescribed in the State Government Article, Section 2-1224 of
+the Annotated Code of Maryland, we will advise SBE regarding the results of our
+review of its response.
+18
+
+--- Page 21 ---
+APPENDIX
+MARYLAND,
+STATE BOARD OF ELECTIONS
+P0. BOX 6486, ANNAPOLIS, MD 21401-0486 PHONE (410) 269-2840
+David]. McManus, Jr., Chairman Linda H. Lamone
+Patrick]. Hogan, Vice Chairman Administrator
+Michael R. Cogan
+Kelley A. Howells Nikki Charlson
+Gloria Lawlah Deputy Administrator
+April 19, 2017
+Via Electronic Mail and DGS Courier
+Thomas J. Barnickel III, CPA
+Legislative Auditor
+Department ofLegislative Services
+301 West Preston Street, Room 1202
+Baltimore MD 21201
+Dear Mr. Barnickel:
+Thankyou for the opportunity to respond to the Legislative Auditor’s audit report for
+the period from August 22, 2012, through October 22, 2015.
+The audit has been very informative, and we are pleased to report thatwe have
+addressed all ofthe audits recommendations. Enclosed is the full response to the audit
+report, including specifics steps taken for each recommendation.
+Ifyou have any questions, please feel free to contact me.
+Sincerely,
+Linda H. Lamone
+State Administrator
+Enclosure
+FAX (410) 974- 2019 Toll Free Phone Number (800) 222-8683 151 West Street Suite 200
+MD Relay Service (800) 735-2258 http://www.elections.maryland.gov Annapolis, Maryland 21401
+
+--- Page 22 ---
+Response to Legislative Audit Report
+Submitted by
+Linda H. Lamone, State Administrator
+Maryland State Board of Elections (SBE)
+April 19, 2017
+Statewide Voter Registration – Background
+Finding 1 – SBE did not ensure the accuracy (opfg t.h 6e) d ata recorded in MDVOTERS or
+whether related user access to the system was appropriate.
+Agency Response (pgs. 6-8)
+: Starting with ERIC’s January 2017 file, SBE audits local boards of elections’
+processing of reports from the Electronic Registration Information Center (ERIC). This review
+process ensures that the local boards of elections are properly processing ERIC reports.
+SBE complies with the State of Maryland’s Information Security Policy and prevents access to
+the private virtualized environment (PVE) on which MDVOTERS resides for users who do not
+access the PVE for 60 days. The automated process of inactivating the user’s access to the PVE
+prevents the user from accessing any data in MDVOTERS. Only SBE can re-activate a user’s
+access to an inactivated PVE account.
+In addition to complying with the State’s Information Security Policy, SBE periodically reviews
+who has access to the PVE and MDVOTERS. Monthly, the local boards of elections review a
+system-generated list of individuals with access to the PVE and provide SBE with any
+u pdates. SBE provides the vendor hosting the PVE with the necessary access changes. SBE
+Rpeesrpfoornmses tao q Rueacrotmermlye rnedvaiteiwon o 1f MDVOTERS accounts that have been disabled.
+SBE has implemented these recommendations.
+a. Since January 2017, SBE has ensured – through testing – that the local boards of elections
+properly investigated registered voters on ERIC reports and performed the appropriate
+correction action.
+b. SBE has developed and implemented a process to review periodically access to the PVE
+and MDVOTERS for appropriateness and removing any access not needed for an
+Findiinndgi v2i d–u SaBl’sE jdoibd d nuotite esn. sure that personally identifiable information from the
+MDVOTERS database provided to an external third party was properly
+safeguarded
+Agency Respon. s(ep:gs. 8-9)
+As explained in the audit report, ERIC is a multi-state consortium, and
+Maryland is one of 21 participating states . ERIC has a board of directors, and the board of
+d irectors has a Privacy and Technology Advisory Board to review security protections and
+provide advice to the board of directors.
+There are various standards – Service Organization Controls (SOC), National Institute of
+Standards and Technology (NIST), and International Standards Organization (ISO) – on which
+
+--- Page 23 ---
+State Board of Elections
+Response to Legislative Audit Report (August 23, 2012 – October 22, 2015)
+Page 2 of 7
+an audit can be based. While OLA recommendations a SOC audit, ERIC’s advisory board
+recommended and ERIC’s board of directors approved a security man agement plan based on
+I SO standards. The advisory board is currently considering the appropriate audit standard for
+ERResIpCo annsde twoi Rll emcoamkem ae nredcaotmionm 2e ndation to ERIC’s board of directors.
+a. Since SBE, as an individual ERIC member, does not have the authority to dictate security
+policy of ERIC, an independent organization with a board of directors, SBE is not able to
+require periodic SOC 2 Type 2 reviews for ERIC and service organization contractors.
+b . SBE will perform timely reviews of all security reports obtained by ERIC and ensure that
+Finditnhge 3n e–c SeBssEa ruyn cnoercreescstiavrei layc trieotna iisn etadk pene.r sonally identifiable information within the
+MDVOTERS database.
+Agency Response (pgs. 9-10)
+: Based on language in the second paragraph of this finding, one might
+conclude that a Maryland driver’s license number, a State ID card issued by the Maryland
+Motor Vehicle Administration, or the last four digits of an applicant’s Social Security number
+(SSN) is only required if an applicant uses the paper version of the voter registration
+application. This information is required for all new applications, not just paper
+applications. Since the online voter registration system prevents a user from entering a full
+nine-digit SSN, the only way SBE or a local board of elections will receive a full nine-digit SSN is
+on a paper application.
+Although SBE had full SSNs for about 6% of Maryland’s registered voters, SBE uses best
+practices to secure the data maintained in MDVOTERS. Access to the system is res tricted to
+S tate and local election offices and requires two step log in process. The system is constantly
+mReosnpiotnosree dto b Rye ac owmemb ehnodsatitniogn c o3m pany using industry standard tools and analytics.
+SB E has implemented these recommendations.
+a. As of January 2017, users cannot enter full nine-digit SSNs in MDVOTERS.
+b . As of January 2017, all full nine-digit SSNs have been removed from MDVOTERS. If a
+Findirnegc o4r –d ShBasE adni dS SnNo,t i ta idse oqnulya ttehley l aasutt hfoeunrt dicigaittes coef rtthaei nSS vNo.t ers who requested absentee
+ballots.
+Agency R(epsgp.o 1n0s-e1: 1)
+Implementing OLA’s recommendation would create a new requirement for
+absentee voting; that is, a voter must have a Social Security number to vote an absentee
+ballot. This would remove absentee voting as a voting option for voters who do not have a
+SSN. Because neith er federal law nor State law currently require a Social Security number to
+r egister to vote, SBE will seek advice from the Attorney General’s office on the legality of this
+recommendation.
+
+--- Page 24 ---
+State Board of Elections
+Response to Legislative Audit Report (August 23, 2012 – October 22, 2015)
+PRaesgpeo 3n soef t7o Recommendation 4
+all
+SBE will seek advice from the Attorney General’s office on the legality of requiring a Social
+S ecurity number for absentee voters and if it permissible, whether it would require a
+lFeignidsliantgiv 5e –ch Aa ncgriet.i cal voting system was not backed up offsite and was not properly
+addressed in the SBE Disaster Recovery Plan.
+Agency Response (pgs. 11-12)
+:
+In August 2016, SBE made the necessary changes to include the Electronic Pollbook
+Interchange and Conversion (EPIC) data in the offsite backup. This change ensured that all
+data nee ded to check in voters during early voting and on election day for the 2016 General
+E lection was backed up and stored at an offsite location. SBE will continue this backup
+process.
+SBE is currently working with another governmental agency to host a backup server to mirror
+the EPIC production server. This project will provide a continuous, alternative
+c ommunications link for EPIC during early voting. This mirror will be in place for the 2018
+eRleescptoionnses aton dR ewcoilml bmee anpdpartoiopnr i5a tely documented in SBE’s Disaster Recovery Plan.
+a. When the EPIC database is used, SBE will continue to perform a daily backup of the EPIC
+database and store the backup at an offsite location during periods when it is in use.
+b. SBE will update its Disaster Recovery Plan to include the detailed procedures necessary
+to recreate quickly the communication link between the EPIC production server and the
+early voting centers if there is a disaster at the location hosting the EPIC production
+Findisnegr v6e –r. C ontrols were not in place over the receipt and opening of certain bids, and
+SBE could not support that two single source contract awards were in the State’s best
+interest. Additionally, SBE did not publish certain contract awards in eMaryland
+Marketplace.
+Agency Respons(epgs . 12-13)
+:
+Receiving Electronically Submitted Bids
+The four procurements OLA tested and referenced in this finding were procurements where
+technical and financial proposals were sent via separate emails with the type of proposal
+(“Technical” or “Financial”) in the subject line of the email. Three procurements were
+conducted under the State’s Department of Information Tec hnology’s (DoIT) Consulting and
+T echnical Services (CATS+) Task Order Request for Proposals (TORFP) process, and the fourth
+procurement was a competitively bid, sealed procurement.
+When SBE’s Procurement Officer receives the proposals submitted by email (two emails per
+proposal), she stores in her password protected, maryland.gov email account the emails and
+attachments. After the proposal deadline, she provides to the evaluation committee the
+
+--- Page 25 ---
+State Board of Elections
+Response to Legislative Audit Report (August 23, 2012 – October 22, 2015)
+Page 4 of 7
+technical proposals and after the technical rankings were finalized, the finbaenfcoiarle proposals. To
+document this process, SBE’s Procurement Officer requires that each member of the evaluation
+committ ee acknowledge in writing that technical rankings were assigned the financial
+p roposals were opened. This was the process followed for all four of the procurements tested
+by OLA.
+For TORFPs, SBE’s Procurement Officer reminds all potential offerors of DoIT’s instructions to
+submit financial proposals with password protection. Although this requirement is the
+r esponsibility of the Offerors, SBE’s Procurement Officer has been and will continue to provide
+to potential offerors frequent reminders.
+Although OLA identified as a risk that confidential bid information could be shared with
+annoot ther prosnpoetc tive bidder before proposals are due, OLA did not find that this occurred.
+Providing this type of information is illegal and unethical, and SBE’s Procurement Officer has
+and will share confidential bid information with anyone prior to the appropriate time
+in the procurement process. This means that the evaluation committee is not prov ided with
+the financial proposals until after the technical evaluation is complete and other offerors are
+not provided grand to tals of other proposals until after an award decision is made.
+Opening Bids Process
+Although Regulation 21.05.03.02G of the Code of Maryland Regulations requires that two
+individuals be present when proposals are open, it does not require that the two individuals
+document this process. In response to OLA’s re commendation, SBE now requires that the two
+i ndividuals who are present when a proposal is open document their presence by signing a
+document created by the Procurement Officer.
+Determining Whether Single Source Procurement is in Best Interest of the State
+Both of the tested contracts – data center hosting and application maintenance – were
+competitively bid using the CATS+ TORFP process. As required by DoIT, both TORFPs were
+sent to all master contractors in the appropriate functional areas. The sco pe of work for these
+c ontracts is specialized, but in an effort to increase competition, SBE removed several
+minimum qualifications that were required in previously issued TORFPs.
+Although SBE received only one bid for each contract, multiple master contractors reviewed
+and considered the TORFPs, as evidenced by the “no bid” forms returned by 14 master
+contractors for the data center hosting contract and 14 master contractors for the application
+maintenance contract. B ecause only pre-approved CATS+ vendors can bid on TORFPs,
+e Maryland Marketplace and other ways to increase competition cannot be used to solicit bids
+to increase competition.
+After deeming the bids as susceptible for award and in the best interests of the State, SBE
+prepared for DoIT, the control agency for both procurements, a document explaining why the
+proposed pricing was in the best interest of the State and a justification for awarding the
+contracts to the sole bidder. The pricing justification compared the proposed rates against
+posted labor rates, previous years’ rates, and historical pricing and was consistent with the
+
+--- Page 26 ---
+State Board of Elections
+Response to Legislative Audit Report (August 23, 2012 – October 22, 2015)
+Page 5 of 7
+forthcoming requirements of BPW Advisory 2016-1. The justification for awarding a contract
+for the sole bidder includes comparing DoIT’s CATS+ rates against the proposed rates, SBE’s
+outreach to solicit bids, and the number of “no bid” responses received. DoIT deemed SBE’s
+justificaAtuiodni tsourf’fsi cCieonmt manedn ta:p pSrBoEv’esd p trhicei ncgo njutsrtaicfitcsa. t i ons for both contracts made reference to
+performing comparisons of the proposed rates to those from other sources; however, at the
+time of our audit, SBE was unable to provide formal documentation supporting the analysis
+for either of these contracts.
+While OLA does not believe that SBE’s justifications were sufficient, SBE and DoIT, by its
+approval of the contracts, believe otherwise. SBE met all objective requirements for award to
+a single bidder. While OL A disagrees with DoIT’s approval of SBE’s award recommendations,
+S BE did not violate State procurement procedures and justified why these awards were in the
+best interest of the State.
+Publication of Certain Contract Awards
+Although during most of the audit period, SBE did not publish contract awards on eMaryland
+Marketplace, SBE’s Procurement Officer notified in writing contractors who submitted
+proposals of SBE’s award decision and offered a debriefing. For RFPs, letters were sent by
+certified mail and emailed as a secondary method of communication to Offerors with award
+notification information. For TO RFPs, the master contractors were notified by email. Since
+c ontractors frequently requested debriefings, it is evident that the contractors received SBE’s
+notification of contract award.
+In the fall of 2015, SBE’s Procurement Officer learned about the requirement to post on
+eMaryland Marketplace certain contract awards. Since that meeting and before the auditors
+identified this deficiency, SBE’s Procurement Officer poste d on eMaryland Marketplace
+c ontract award notices for certain procurements over $25,000. This includes retroactive
+pRoessptionngs eo ft oa wRaecrdom nmoteicnedsa itsiosune 6d on or after June 12, 2013.
+a. SBE will continue to properly secure all proposals and remind Offerors to password
+protect their financial proposals when electronic proposals are accepted.
+b. As of February 2016, SBE requires that the two individuals who are present when
+proposals are open document their presence.
+c. SBE will continue to justify single bid awards in accordance with DoIT guidelines and
+obtain all necessary control agency approvals before finalizing contract awards.
+dF.indiSnBgE 7 w –i lSl BcoEn dtiindu neo tto h pauvbel iash c ocemrtparienh ceonnstrivacet p arwoacredsss oinn peMlaacrey tlaon edn Msuarrek etthpalat ccee.r t ain
+billed work was in accordance with approved contract terms or was adequately
+documented.
+(pgs. 14-15)
+
+--- Page 27 ---
+State Board of Elections
+Response to Legislative Audit Report (August 23, 2012 – October 22, 2015)
+PAaggeen c6y oRfe 7s ponse
+not
+: For certain contracts, SBE has separated the contract and project
+management duties. This means that the individual who is the contract manager is an
+individual who has a project management responsibili ties. This separation of duties will
+r educe the burden of one person performing both duties and ensure that all contract
+modifications are properly processed and approved.
+For the 2016 General Election, SBE used an online timekeeping system to manage and verify
+billable hours. With this system, SBE could, in real time, know where most of the temporary
+staffing support were working and for how long. This information was us ed to verify the
+propriety of the hours charged. SBE intends to continue to use this or a similar system as the
+Rpreismpoanryse m toe tRheocdo mfomr menadnaatgioinng 7 a ll contract resources in future elections.
+a. SBE will execute contract modifications, as required and establish all terms and
+conditions, including services to be provided and related costs.
+b. SBE will submit to the contract agency contract modifications for approval.
+c. SBE will continue to ensure that services are rendered prior to payment and ensure that
+documentation establishing that services are rendered are updated and retained.
+d. SBE’s contract managers are required to verify that invoices and subsequent payments to
+vendors are in accordance with the contract. SBE conducts periodic internal audits of
+contracts and these audits include verifying that the amount paid to the vendor
+corresponds to the amount in the contract.
+e . SBE is working with the Attorney General’s Office to identify how to recover the charges
+Findibnigll e8d – a At tin tchoer r2e0c1t 5ra ftiessc aaln yde iamrp-eronpde, rSlBy Ep ahiadd o avenr utinmeex. plained deficit fund balance and
+had recorded certain unsupported revenues to eliminate deficits
+Agency Response: . (pgs. 15-16)
+SBE’s federal funds were initially and incorrectly recorded as “accrued
+revenue.” Since no additional federal funds were received or are expected, SBE should have
+p osted a journal entry moving special funds to cover the federal fund deficit. This journal
+entry would have covered incurred expenditures.
+The special fund deficit of $3.4 million on the State’s accounting records was due to the ACH
+payments received and posted to a single project cost account (PCA). At year end clo sing, the
+C omptroller’s General Accounting Division (GAD) posts journal entries to move revenue
+generated from SBE’s county billings from the payroll PCA to the Special Fund PCA.
+Because SBE cannot change the policy and procedures of Banking Services to post ACH
+payments to multiple PCAs, SBE must use journal entries to move the revenue to the
+appropriate PCAs. Star ting July 1, 2016, SBE posts a special fund revenue journal entry each
+m onth. This will replace the need for GAD to post a revenue journal entry annually without
+pRreosppoenr sree tcoo nRceiclioamtimone.n dation 8
+
+--- Page 28 ---
+State Board of Elections
+Response to Legislative Audit Report (August 23, 2012 – October 22, 2015)
+Pa ge 7 of 7
+a. SBE will ensure that all applicable financial transactions are properly recorded and
+supported.
+b. SBE is reconciling federal and special fund balances to ensure that revenue was received
+to cover incurred expenditures. This reconciliation process will be complete in fiscal
+year 2017.
+
+--- Page 29 ---
+AUDIT TEAM
+Adam J. Westover, CPA
+Audit Manager
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Manager
+Robert J. Smith, CPA
+Senior Auditor
+R. Brendan Coffey, CPA, CISA
+Information Systems Senior Auditor
+Daniel P. Nuccio, CPA, CFE
+Staff Auditor
+Steven D. Bryant
+Information Systems Staff Auditor

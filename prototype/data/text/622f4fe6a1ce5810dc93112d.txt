@@ -1,0 +1,1335 @@
+Title: Maryland State Department of Education - Division of Early Childhood
+Date: 03/14/2022
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=622f4fe6a1ce5810dc93112d
+Extracted: 2025-06-20T00:15:42.849735
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland State Department of Education
+Division of Early Childhood
+September 2019
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Craig J. Zucker (Senate Chair) Delegate Shelly L. Hettleman (House Chair)
+Senator Adelaide C. Eckardt Delegate Steven J. Arentz
+Senator George C. Edwards Delegate Andrew P. Cassilly
+Senator Guy J. Guzzone Delegate Mark S. Chang
+Senator Katie Fry Hester Delegate Keith E. Haynes
+Senator Cheryl C. Kagan Delegate Michael A. Jackson
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate April R. Rose
+Senator Douglas J.J. Peters Delegate Geraldine Valentino-Smith
+Senator Justin D. Ready Delegate Karen Lewis Young
+To Obtain Further Information
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 ꞏ 301-970-5900 ꞏ 1-877-486-9964 (Toll Free in Maryland)
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities and Audit Scope 4
+Status of Findings From Preceding Audit Report 4
+Findings and Recommendations 5
+Criminal Background Checks (CBC)
+* Finding 1 – The Division of Early Childhood (DEC) headquarters did not 6
+provide sufficient oversight to ensure that regional offices were
+effectively monitoring child care facility compliance with CBC
+requirements.
+Child Care Facility Inspections
+Finding 2 – DEC headquarters did not ensure that regional offices 9
+conducted comprehensive annual inspections of child care facilities,
+followed up with facilities regarding the correction of deficiencies, and
+took appropriate administrative action when facilities did not correct
+deficiencies.
+Child Care Subsidy Program
+Finding 3 – DEC lacked sufficient procedures to effectively monitor 12
+subsidy program eligibility determinations and the related payments
+made by its vendor, certain of which could not be supported.
+Information Systems Security and Control
+Finding 4 – DEC lacked assurance that its Child Care Administration 14
+Tracking System was sufficiently protected against operational and
+security risks.
+Audit Scope, Objectives, and Methodology 16
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities and Audit Scope
+The Maryland State Department of Education’s Division of Early Childhood
+(DEC) is responsible for overseeing all child care programs in the State, including
+licensing child care facilities and monitoring and enforcing facility compliance
+with regulations (such as health and safety standards and criminal background
+check requirements). DEC oversees these facilities through its 13 regional child
+care offices across the State. According to State records, as of August 2017, the
+State’s licensed child care facilities consisted of 5,942 family child care homes
+and 2,700 child care centers, which were licensed to serve approximately 217,000
+children.
+DEC is also responsible for the Child Care Subsidy Program, which provides
+financial assistance to eligible families to meet their child care needs. This
+program is primarily administered by a vendor, under contract with DEC, in
+conjunction with the State’s 24 local departments of social services. According to
+State records, during fiscal year 2017, child care subsidy program expenditures
+totaled approximately $76.9 million ($40.8 million in general funds and $36.1
+million in federal funds).
+DEC uses the Child Care Administration Tracking System (CCATS) to record,
+approve, and monitor child care facility licenses; to track individuals associated
+with those facilities and help ensure that all required criminal background checks
+are obtained; and to process subsidy-related eligibility, vouchers, and payments.
+CCATS is operated by a primary service provider, under a State of Maryland
+contract, which is responsible for system management and operations support,
+with related system hosting services being provided by a subcontractor.
+According to the State’s records, DEC’s operating expenditures totaled
+approximately $166.7 million during fiscal year 2017. The operations of DEC
+were previously audited in conjunction with our audit of the Maryland State
+Department of Education.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the two findings related to
+DEC that were contained in our preceding audit report of the Maryland State
+Department of Education dated June 22, 2016. We determined that DEC
+satisfactorily addressed one of these findings. The remaining finding is repeated
+in this report as Finding 1.
+4
+
+--- Page 7 ---
+Findings and Recommendations
+Criminal Background Checks
+Background
+As part of its responsibility for overseeing all child care programs in the State, the
+Maryland State Department of Education’s Division of Early Childhood (DEC) is
+responsible for ensuring that licensed child care facilities comply with criminal
+background check (CBC) requirements. According to State and federal law, on or
+before the first day of employment at a licensed child care facility, all individuals
+who will have unsupervised access to children must apply for a CBC, which
+includes checks of federal and State criminal background databases and sex
+offender registries. Child care facilities are required to enforce this CBC
+requirement to ensure that individuals with any qualifying criminal history are
+precluded from being a child care provider. To facilitate DEC monitoring of the
+CBC requirements, child care facilities are required to provide their respective
+DEC regional office with information on each new employee (such as name,
+address, date of birth, and social security number). In addition, the facilities must
+forward to DEC a notarized child protective services (CPS) clearance check
+authorization signed by the employee.
+DEC regional office personnel enter the new employee information into the Child
+Care Administration Tracking System (CCATS) and complete the CPS clearance
+checks by reviewing the Department of Human Services’ Children’s Electronic
+Social Services Information Exchange for information about the child protective
+services history of each new employee. Each regional office also obtains daily
+updates from the Criminal Justice Information System (CJIS) on the results of
+child care facility employee CBCs and alerts on any subsequent criminal activity
+for these employees. Weekly summaries of the alerts are also sent to DEC
+headquarters. Regional office personnel are to review the CBC and alert
+information to determine if offenses identified are qualifying crimes that would
+preclude an individual from being a child care provider.
+Because the CBC process is initiated when an employee is hired to work for a
+child care provider, timely action to identify and resolve any disqualifying past
+events is necessary to limit the employee’s interaction with children or to remove
+the employee from that environment. According to its records, DEC was notified
+of approximately 75,600 CBC results and 5,900 alerts in fiscal year 2017.
+5
+
+--- Page 8 ---
+Finding 1
+DEC headquarters did not provide sufficient oversight to ensure that the
+regional offices were effectively monitoring child care facility compliance
+with CBC and CPS clearance check requirements. Our tests disclosed
+numerous instances in which employees had not obtained required CBCs or
+CPS clearances, and in which alerts of subsequent criminal activity were not
+subject to sufficient follow-up.
+Analysis
+DEC did not provide sufficient oversight to ensure that the regional offices were
+effectively monitoring child care facility compliance with CBC and CPS
+clearance check requirements. Our tests disclosed numerous instances in which
+employees had not obtained required CBCs or CPS clearances, and in which
+alerts of subsequent criminal activity were not subject to sufficient follow-up.
+DEC Procedures were Not Sufficient to Track Child Care Facility Employees and
+Ensure All Required CBCs and CPS Clearances Were Obtained
+DEC did not have comprehensive oversight procedures to ensure that all
+employees reported to regional offices by child care facilities were recorded in
+CCATS, and that DEC had obtained the required CBCs and CPS clearances.
+Specifically, DEC did not require its regional offices to maintain a log of new
+employees reported by child care facilities. Accordingly, there was no formal
+means for the regional offices and DEC headquarters to ensure that all new
+employees reported by the facilities were properly recorded in CCATS, the
+required CBC results were received and reviewed timely, and CPS clearances
+were properly verified. Based on our testing, we noted that several employees
+reported by the facilities had not been recorded in CCATS, and DEC regional
+offices did not have documentation of the required CBCs and complete CPS
+clearances on file for certain employees.
+Our test of 20 child care employees recorded on personnel lists provided to DEC
+by 13 facilities disclosed that two employees hired by one facility–one prior to
+September 2014 and one prior to August 2016–had not been recorded in CCATS
+as of February 2018. In addition, our test of these 20 employees and an additional
+11 employees we selected from CCATS records disclosed that DEC regional
+offices did not have all the required CBCs or a complete CPS clearance on file for
+12 employees who had been hired between 6 months and 11 years prior to our
+test. For example, for the aforementioned two employees who had not been
+recorded in CCATS, DEC regional offices did not have any record of State and
+federal CBCs or CPS clearances being performed.
+6
+
+--- Page 9 ---
+We were advised by DEC management that, during the audit period, CCATS did
+not have the capability to track the CBC and CPS compliance. However, based
+on our feedback during the audit, DEC advised us that it intends to implement
+system enhancements to enable monitoring of this activity.
+DEC Did Not Have Sufficient Procedures to Track CBC-related Alerts from CJIS
+and Ensure They Were Properly Investigated
+DEC did not have adequate procedures to ensure that regional offices conducted
+comprehensive follow-up of all CBC-related alerts from CJIS. As a result, our
+tests disclosed that certain alerts were not subject to investigation by regional
+office personnel, and the investigation and follow-up of other alerts were not
+sufficiently comprehensive. DEC headquarters maintained an automated
+centralized log of alerts compiled from the weekly summaries received from CJIS
+on which regional office personnel were to document their alert investigations and
+follow-up actions.
+ DEC headquarters did not include all alerts received from CJIS on its central
+alert log. Specifically, when numerous alerts were received for the same
+individual with the same employer information, DEC headquarters only
+recorded the first alert on the log. For example, DEC headquarters received
+10 alerts during fiscal year 2017 for one individual but only recorded one of
+the alerts on the log. Since each alert may identify a new qualifying crime
+requiring follow-up action, DEC should have recorded all the alerts on the log
+for follow-up by regional office personnel. DEC headquarters, therefore,
+could not ensure regional office personnel appropriately followed up on alerts
+that were omitted from the log. During fiscal year 2017, approximately 1,400
+alerts relating to 960 individuals were excluded from the log because of this
+practice.
+ DEC headquarters did not follow up with the regional offices when they did
+not sufficiently investigate alerts. Our test of 37 alerts recorded on the alert
+log that were to be investigated by 11 of its 13 regional offices during the
+period from July 2014 through December 2017 disclosed that DEC
+headquarters did not follow up on 26 alerts that were not adequately
+investigated.
+Specifically, for 7 alerts, the log indicated that the individuals were end-dated
+(that is, no longer working at a facility) on CCATS. In accordance with its
+procedures, regional office personnel did not confirm whether the individuals
+were currently employed at the child care facility. For 2 alerts, although
+regional office personnel requested information from the facilities, the
+information was never received.
+7
+
+--- Page 10 ---
+Finally, for the remaining 17 alerts, the log indicated that no follow-up action
+was taken by regional office personnel because the entities listed on the alerts
+were not recorded in CCATS. Our research disclosed that, while these entities
+were not child care facilities, these entities appeared to provide child care-
+related services such as schools and independent staffing agencies that
+provided personnel to regulated child care facilities and to other facilities
+serving children. Therefore, in our opinion, in order to safeguard the welfare
+of children in these facilities, the DEC regional offices should have conducted
+additional follow-up to determine if these individuals had been assigned to
+regulated child care facilities by these entities and taken other appropriate
+actions.
+The lack of adequate procedures to ensure compliance with CBC requirements
+was commented upon in our preceding audit report of the Maryland State
+Department of Education.
+Recommendation 1
+We recommend that DEC headquarters establish adequate oversight
+procedures to ensure that the regional offices are effectively monitoring child
+care facility compliance with CBC and CPS requirements. Specifically, we
+recommend that DEC
+a. require regional offices to maintain a log of new employees reported by
+the child care facilities for monitoring purposes;
+b. periodically review these logs to ensure that all child care facility
+employees are properly recorded in CCATS, and that all employees have
+obtained complete and timely CBC and CPS clearances, including those
+identified above (repeat);
+c. record all CJIS alerts in its centralized monitoring log, including those
+identified above; and
+d. take appropriate follow-up action to ensure regional offices sufficiently
+investigate and resolve all recorded alerts (repeat).
+Child Care Facility Inspections
+Background
+Regional office licensing staff are required to conduct annual inspections of each
+licensed child care facility to ensure compliance with State laws and regulations.
+The inspections are used to monitor the facilities’ compliance with critical
+requirements such as CBCs, staffing ratios, child supervision, cleanliness and
+sanitation, health and nutrition, and abuse and neglect reporting. According to
+8
+
+--- Page 11 ---
+DEC records, DEC regional offices conducted 9,884 inspections of 8,137
+facilities during fiscal year 2017.
+Finding 2
+DEC headquarters did not ensure that regional offices conducted
+comprehensive annual inspections of child care facilities, followed up with
+facilities regarding the correction of deficiencies, and took appropriate
+administrative action when facilities did not correct deficiencies.
+Analysis
+DEC headquarters did not have procedures to monitor child care facility
+inspections performed by regional office licensing staff and ensure that the related
+follow-up efforts taken were comprehensive and deficiencies were corrected. Our
+tests of child care facilities disclosed that regional DEC licensing staff did not
+always document that child care facilities were compliant with certain critical
+requirements, ensure facilities corrected deficiencies, and always ensure facilities
+took appropriate administrative action when deficiencies were not corrected
+timely.
+ During child care facility inspections, the regional office licensing staff did
+not always ensure that employees working at the facilities had been recorded
+in CCATS. As a means to monitor facility reporting of new employees,
+DEC’s Guidance for Verifying Staff Employment procedure required licensing
+staff to review the facility’s employment records during inspections and
+ensure all current employees were recorded in CCATS.
+Our test of the most recent inspections for 14 facilities (in 11 regions) that
+employed 105 child care workers disclosed that 6 of the 14 employees then
+employed at one facility inspected in March 2017 had not been recorded in
+CCATS as of February 2018. While we found that the facility provided a list
+of all employees to the licensing staff prior to the March 2017 inspection, the
+licensing staff did not identify that these 6 employees had not been recorded
+in CCATS when they were initially hired. In addition, licensing staff did not
+subsequently record these employees, as required, following the inspection.
+The recordation of facility employees into CCATS could facilitate DEC’s
+monitoring of CBC requirements.
+ The regional office licensing staff was not required to document on the
+inspection form that they verified whether volunteers working at child care
+facilities were adequately supervised. State regulations exclude volunteers
+from CBC requirements, but provide that volunteers are not allowed to have
+9
+
+--- Page 12 ---
+unsupervised access to children. Our review disclosed that the inspection
+results for the 14 facilities tested did not document the number of volunteers
+working at the facilities, the work schedule of the volunteers, and whether
+regional office staff sighted volunteers during the inspections to ensure that
+adequate supervision was in place. As a result, there is a lack of assurance
+that volunteers were properly supervised.
+ The regional office licensing staff was not required to document on the DEC
+inspection form if facilities performed comprehensive investigations of CBC
+alerts for individuals hired before October 2005. In accordance with State
+regulations, facility employees hired prior to October 2005 are subject to
+monitoring by the respective facilities, rather than by the DEC regional
+offices.1 However, the regional offices did not ensure that the facilities were
+monitoring these employees by investigating related alerts. According to
+DEC records, at least 2,860 individuals were actively employed at child care
+facilities as of April 2018 that were hired prior to October 2005.
+ The regional office licensing staff did not ensure that facilities corrected
+deficiencies (violations of licensing regulations) noted during the annual
+inspections and did not always take available administrative action when
+deficiencies were known to not have been corrected timely, as required.
+According to DEC records, at a minimum, 420 of the 9,884 inspections
+performed during fiscal year 2017 had one or more unresolved deficiency as
+of April 2018. DEC procedures require the regional office licensing staff to
+document the follow-up efforts in CCATS. DEC procedures also require the
+regional offices to follow up with facilities until all deficiencies are resolved.
+Facilities that do not address deficiencies may be subject to administrative
+action (such as temporary closure).
+Our test of inspections conducted for 11 facilities (in 4 regions) during the
+period from March 2015 through December 2017 disclosed that, as of March
+2018, no information was recorded in CCATS that 31 deficiencies identified
+at 4 facilities had been corrected for periods from 80 days to almost three
+years. For example, of the 7 deficiencies noted for one facility from its March
+2015 inspection, 2 were repeated in its March 2017 inspection and had not
+been resolved as of March 2018. These deficiencies included missing
+emergency contact information for children and incomplete personnel files for
+staff. There were no records in CCATS of any DEC follow-up or
+administrative action taken related to these facilities.
+1 While State regulations state employees hired prior to October 2005 are subject to monitoring by
+the facilities, the corresponding State law does not specify such a date.
+10
+
+--- Page 13 ---
+Recommendation 2
+We recommend that DEC headquarters establish appropriate procedures to
+a. monitor the annual child care facility inspections conducted by regional
+office personnel to ensure the inspections are comprehensive, including
+verifications that all employees were entered into CCATS, that facilities
+were adequately supervising any volunteers, and that all alerts are
+investigated for employees hired before October 2005; and
+b. ensure regional offices follow up on deficiencies noted during inspections
+and initiate administrative actions, as deemed appropriate, for facilities
+with continued non-compliance.
+Child Care Subsidy Program
+Background
+DEC is responsible for the Child Care Subsidy Program, which provides financial
+assistance to eligible families to meet their child care needs. According to State
+records, during fiscal year 2017, child care subsidy program expenditures totaled
+approximately $76.9 million ($40.8 million in general funds and $36.1 million in
+federal funds).
+The State’s 24 local departments of social services processed the subsidy
+applications for individuals receiving Temporary Cash Assistance (TCA) benefits,
+which accounted for approximately 32 percent of the expenditures during fiscal
+year 2017. The remaining activity was processed by a vendor under contract with
+DEC. During our current audit we reviewed the procedures and controls for
+monitoring the eligibility determinations and subsidy payments processed by the
+vendor. The vendor’s five-year $29.6 million contract covers the period from
+April 23, 2015 through April 30, 2020.
+In determining eligibility, the vendor is required to verify applicant income,
+identity, and residency, and confirm that the applicant is involved in an approved
+activity (such as school or job) that would preclude the applicant from providing
+his or her own child care. The vendor also determines the amount of the subsidy
+based on the hours needed by the applicant for this activity. Finally, the vendor is
+responsible for recording the qualifying child care facility selected by an
+approved applicant on the associated voucher. The selected facility will submit
+bi-weekly invoices to the vendor for the care provided. The vendor will then
+enter the subsidy payment in CCATS, and the payment will be processed through
+an interface with the State’s financial accounting system.
+11
+
+--- Page 14 ---
+Finding 3
+DEC lacked sufficient procedures to effectively monitor subsidy program
+eligibility determinations and the related payments made by its vendor,
+certain of which could not be supported.
+Analysis
+DEC did not effectively monitor its child care subsidy program vendor to ensure
+that proper eligibility determinations were made, subsidy payments were proper
+and supported, and contract performance measures were met. In addition, we
+found instances in which the vendor had not retained required documentation to
+support eligibility determinations and subsidy payments. During fiscal year 2017,
+the vendor was paid $5.4 million for administering the program on behalf of
+approximately 14,000 children on average.
+DEC Lacked Sufficient Procedures to Ensure the Propriety of Eligibility
+Determinations
+There was not a sufficiently comprehensive process in place to ensure that proper
+eligibility determinations were made by the vendor. Although the DEC contract
+with the vendor required the vendor, for quality assurance purposes, to review
+three transactions per month for each of its staff members responsible for
+determining eligibility, those reviews were not necessarily comprehensive or of
+sufficient quantity and DEC did not monitor the results of the reviews. For
+example, in December 2017, the vendor’s supervisory personnel performed 31
+quality control reviews, which represented only 2.3 percent of the transactions
+processed by its 10 eligibility staff. In addition, the vendor was not required to
+expand testing when errors were identified. In this regard, our test of these 31
+quality control reviews disclosed that 6 reviews (or 19 percent) identified errors
+made by 5 eligibility staff employees that required correction. For example, one
+review noted that income was not calculated correctly and a second review noted
+that CCATS did not accurately reflect the information on supporting documents.
+In addition, our test of 15 other eligibility determinations processed by the vendor
+for individuals who received child care subsidies during the audit period,
+disclosed that documentation supporting the propriety of 3 eligibility
+determinations and the related subsidy amount was not retained. Further, we
+noted that the vendor generally did not obtain comprehensive income verification
+information from an available State agency database, even though this step was
+included as a requirement in the associated contract. Instead, the vendor obtained
+paystubs and tax returns from the applicants, which may not reflect all of an
+applicant’s income.
+12
+
+--- Page 15 ---
+Finally, DEC did not monitor the results of the monthly quality assurance reviews
+or assess the comprehensiveness of the process. Since this review is the primary
+basis for ensuring the propriety of eligibility determinations, we believe the
+vendor should conduct a larger number of reviews, which should be monitored by
+DEC for completeness, error trends, and vendor corrective action, as appropriate.
+DEC Lacked Sufficient Procedures to Ensure the Propriety of Child Care
+Subsidies Paid
+DEC did not ensure the vendor obtained and reviewed support for the hours
+invoiced by the facilities for child care subsidies. In accordance with the contract,
+the vendor was to randomly obtain attendance records signed by the parents for
+all children enrolled from 29 facilities every two weeks to verify the propriety of
+the subsidies invoiced. DEC did not attempt to confirm, on a test basis, that the
+vendor performed the verifications. In this regard, we reviewed 26 facility
+invoices that the vendor asserted had been verified during calendar year 2017 and
+noted that, for 6 invoices covering 15 children, the vendor did not have the
+attendance records to support a verification. As a result, there was a lack of
+assurance that the subsidy payments were proper and the vendor was in
+compliance with this contract requirement.
+DEC did Not Ensure the Vendor Met Critical Performance Measures
+DEC did not have a process to ensure the vendor met critical contract
+performance measures including the timely processing of subsidy applications
+and redeterminations, and timely and proper payment processing. The vendor’s
+monthly reports to DEC generally showed that the performance measures were
+met; however, DEC accepted the reported performance without verifying that the
+information reported was accurate. For example, DEC did not compare the
+application processing dates on the vendor’s internal database with the
+performance information reported by the vendor to confirm the applications were
+processed timely as reported.
+Recommendation 3
+We recommend that DEC
+a. require the vendor to conduct a sufficient number of supervisory reviews
+of eligibility determinations, maintain documentation of compliance with
+key eligibility requirements, expand its reviews when errors are
+identified, and take appropriate corrective action;
+b. review the results of the vendor’s quality assurance reviews of eligibility
+determinations, at least on a test basis, or implement its own quality
+assurance process to ensure that documented and proper determinations
+are made by vendor employees;
+13
+
+--- Page 16 ---
+c. ensure that the vendor reviews the support for, and conducts the required
+monthly verifications of, facility invoices for child care subsidies; and
+d. establish a process to verify the propriety of reported performance
+measures, at least on a test basis.
+Information Systems Security and Control
+Finding 4
+DEC lacked assurance that CCATS was sufficiently protected against
+operational and security risks.
+Analysis
+DEC lacked assurance that CCATS was sufficiently protected against operational
+and security risks. DEC personnel advised us that CCATS’ primary service
+provider had not obtained required independent security reviews of CCATS and,
+independent security review reports for a critical CCATS hosting subcontractor
+had not been requested.
+The State of Maryland contract and the MSDE agreement with CCATS’ primary
+service provider, covering the period from July 2014 to July 2019, required
+annual System and Organization Controls reviews (SOC 2 Type 2) be performed
+for the primary service provider and all subcontractors performing material
+services. As of April 2018, after our inquiries, DEC determined that the CCATS
+primary service provider had not had the required SOC 2 Type 2 review
+performed. After our inquiry, DEC did obtain a SOC 2 Type 2 report for the
+CCATS hosting subcontractor (hosting is a significant service) from the primary
+service provider. The report was dated December 8, 2017 and covered the period
+from November 1, 2016 to October 31, 2017. We reviewed this report and found
+that no control weaknesses were cited. As a result of these conditions, significant
+CCATS operational and security risks could exist and remain undetected,
+resulting in increased vulnerability of the system and data to compromise or loss.
+The American Institute of Certified Public Accountants has issued guidance
+concerning examinations of service organizations. Based on this guidance,
+service organizations (like the aforementioned service providers) may contract for
+an independent review of controls and the resultant independent auditor’s report is
+referred to as a SOC report. There are several types of SOC reports, with varying
+scope and levels of review and auditor testing. One type of report, referred to as a
+SOC 2 Type 2 report, includes the results of the auditor’s review of controls
+placed in operation; tests of operating effectiveness for the period under review;
+14
+
+--- Page 17 ---
+and could include an evaluation of system security, availability, processing
+integrity, confidentiality, and privacy.
+Recommendation 4
+We recommend that DEC
+a. enforce the provisions of the CCATS contract and agreement, by
+requiring that independent SOC 2 Type 2 security reviews be performed
+annually for the CCATS primary service provider and all subcontractors
+providing material services; and
+b. obtain and review copies of these independent reports and ensure that the
+independent security reviews and related reports on CCATS address all
+relevant and critical security controls and further ensure that the service
+providers implement all critical recommendations made in these reports.
+15
+
+--- Page 18 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Division of Early Childhood
+(DEC) of the Maryland State Department of Education (MSDE) for the period
+beginning July 1, 2014 and ending December 31, 2017. The audit was conducted
+in accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DEC’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included licensing and monitoring of child care facilities,
+criminal background checks and alerts of child care providers, the child care
+subsidy program, and information systems security and control. We also
+determined the status of two findings included in our preceding audit report of
+MSDE.
+Our audit did not include support services provided to DEC by MSDE. These
+support services (including payroll processing, purchasing, maintenance of
+accounting records, federal fund recoveries, and related fiscal functions) are
+included within the scope of our audits of MSDE.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+DEC’s operations, and tests of transactions. Generally, transactions were selected
+for testing based on auditor judgment, which primarily considers risk. Unless
+otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data). The extracts are
+16
+
+--- Page 19 ---
+performed as part of ongoing internal processes established by the Office of
+Legislative Audits and were subject to various tests to determine data reliability.
+We determined that the data extracted from these sources were sufficiently
+reliable for the purposes the data were used during this audit. We also extracted
+data from DEC’s Child Care Administrative Tracking System (CCATS) for the
+purpose of testing childcare facilities, providers, childcare subsidies, and user
+access. We performed various tests of the relevant data and determined that the
+data were sufficiently reliable for the purposes the data were used during the
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+DEC’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DEC’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to DEC that did not warrant inclusion in this report.
+MSDE’s response, on behalf of DEC, to our findings and recommendations is
+included as an appendix to this report. As prescribed in the State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise
+MSDE regarding the results of our review of its response.
+17
+
+--- Page 21 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+Criminal Background Checks
+Finding 1
+DEC headquarters did not provide sufficient oversight to ensure that the regional offices
+were effectively monitoring child care facility compliance with CBC and CPS clearance
+check requirements. Our tests disclosed numerous instances in which employees had not
+obtained required CBCs or CPS clearances, and in which alerts of subsequent criminal
+activity were not subject to sufficient follow-up.
+We recommend that DEC headquarters establish adequate oversight procedures to ensure
+that the regional offices are effectively monitoring child care facility compliance with CBC
+and CPS requirements. Specifically, we recommend that DEC
+a. require regional offices to maintain a log of new employees reported by the child care
+facilities for monitoring purposes;
+b. periodically review these logs to ensure that all child care facility employees are
+properly recorded in CCATS, and that all employees have obtained complete and
+timely CBC and CPS clearances, including those identified above (repeat);
+c. record all CJIS alerts in its centralized monitoring log, including those identified above;
+and
+d. take appropriate follow-up action to ensure regional offices sufficiently investigate and
+resolve all recorded alerts (repeat).
+Agency Response
+Analysis
+Please provide 1. The Licensing Branch respectfully disagrees with the portion of the
+additional comments as Analysis which states that “DEC Procedures were Not Sufficient to
+deemed necessary.
+Track Child Care Facility Employees and Ensure All Required CBCs
+and CPS Clearances Were Obtained’. Specifically, Maryland COMAR
+Regulations require child care facilities to provide a complete list of
+facility personnel via Form OCC 1203 to their Regional Licensing
+Office, prior to being licensed. Subsequently, child care providers are
+required to report, via Form OCC 1203, to their Regional Office any
+change in staff within five business days of the change. Licensing
+Specialists enter staffing information into the Division of Early
+Childhood’s (DEC) Child Care Administration Tracking System
+(CCATS) as the Form OCC 1203 is received by the Regional Licensing
+office. In addition, during annual unannounced inspections, Licensing
+Specialists are required to verify child care staff as of the date of the
+Page 1 of 20
+
+--- Page 22 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+inspection to that contained in CCATS. Any difference is recorded on
+Form OCC1203A and is input in CCATS.
+Auditor’s Comment: MSDE disagrees with the factual accuracy of our analysis because
+procedures exist to obtain information on child care workers and conduct the related
+background checks. However, our review is focused on the lack of DEC controls to
+ensure its employees are complying with State regulations and existing DEC policies and
+procedures. In addition, as highlighted in the finding, our related test results, which show
+non-compliance with the procedures, corroborate the need for such controls.
+2. Respectfully, the number of cases where CBCs and/or CPS-
+clearances were not obtained should be 8 rather than 12. OLA’s support
+for the four cited non-compliant cases was that the appropriate ‘CPS
+Clearance Finding’ box on the four CPS- Release of Information forms
+identifying the results of the clearance verification was not checked.
+However, the initials of the Licensing Staff and the date on each of the
+four Release of Information forms signified that the CPS-clearance
+forms were received, reviewed and there were no exclusionary findings
+identified. Standard Operating procedures have been developed and
+provided to Licensing Staff to ensure proper documentation of the
+clearance findings on the Release of Information Form. The ‘Guidance
+for Completing Release of Information Forms’ explicitly instructs the
+Licensing Staff to check the appropriate box that corresponds with the
+clearance findings.
+Auditor’s Comment: MSDE’s response maintains that 4 of the 12 cases were not
+exceptions because the forms were signed by the licensing staff. However, as we have
+explained in numerous meetings with both MSDE and DEC officials, one of these 4
+forms was not signed by licensing staff and none of the 4 forms noted the conclusions
+reached by the licensing specialists. As a result, the forms did not document that the
+child care providers were eligible to be employed.
+Page 2 of 20
+
+--- Page 23 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+3. The Licensing Branch respectfully disagrees with the portion of the
+Analysis which states that ‘DEC Did Not Have Sufficient Procedures to
+Track CBC-related Alerts from the Criminal Justice Investigation
+System (CJIS) and ensure They Were Properly Investigated.’ DEC’s
+procedure ‘Suitability for Employment Process’ guidance outlines the
+process by which the Regional Licensing Offices are required to follow
+up with CBC alerts. DEC Headquarters verified and provided
+documentation during the OLA Audit period that the 10 alerts identified
+by OLA were followed up with by Regional Licensing Offices Staff,
+who receive alert information on a daily basis.
+Auditor’s Comment: MSDE’s response does not address the substance of the finding.
+As noted in our earlier auditor’s comment, our finding was focused on the lack of DEC
+controls to ensure employees are complying with State regulations and DEC policies and
+procedures, and the related test results demonstrating instances of non-compliance,
+corroborating the need for such controls.
+4. Respectfully, the number of Alerts which were not adequately
+investigated by the Regional Licensing Offices should be 2 rather than
+26. DEC respectfully disagrees that adequate follow-up was not
+performed by the Regional Licensing Offices for 24 of the 26 non-
+compliant cases identified by OLA. Upon review of the 26 non-
+compliant cases, it was determined that 17 of the non-compliant cases
+were for individuals and/or entities who were not under the jurisdiction
+of the Office of Child Care (OCC). Per Family Law 5-554 (e) OCC is
+prohibited from re-disseminating alert information. Furthermore, these
+17 entities should have already received the alert directly from CJIS and
+should have performed their investigation. In addition, seven of the non-
+compliant cases were for individuals who were ‘end dated’ in the
+(CCATS) system, meaning they were reported by their Child Care
+director/owner, as no longer working at their child care facility. In line
+with the Licensing Branch’s ‘Suitability for Employment Process
+Guidance’, if an alert is received for an individual who is no longer
+employed with any child care facility no further action is required by the
+Licensing Branch. Consequently and respectfully, the number of Alerts
+which were not adequately investigated by the Regional Licensing
+Offices should be 2 rather than 26.
+Page 3 of 20
+
+--- Page 24 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+Auditor’s Comment: MSDE disagrees with our finding for two reasons. First, MSDE
+disagrees because 17 of the employees were not listed in CCATS and therefore were not
+under the jurisdiction of DEC. However, the 17 alerts were for 7 schools, 5 staffing
+agencies, and 5 providers of childcare-related services. We believe that all of these
+scenarios could result in individuals being in unsupervised situations with children and,
+therefore, should require some due diligence on the part of DEC to either directly
+investigate the alert or ensure the appropriate regulatory entity has been notified of the
+alert. Second, 7 individuals were reported as no longer working at the child care facility
+and therefore no further action was required. However, we believe DEC should obtain
+payroll records for these individuals consistent with the requirement for other individuals
+with alerts who are not end-dated in CCATS.
+Recommendation 1a Choose an item DisagreeEstimated Completion Date: 9/1/2019
+Please provide details of The Licensing Branch respectfully disagrees with the
+corrective action or Recommendation that Headquarters require Regional Licensing Offices
+explain disagreement. to maintain a log of new employees reported by child care facilities as it
+believes satisfactory controls and procedures already exist to record
+employees reported by child care facilities. The creation of a log
+reflecting new employees would not add value, would be redundant and
+inefficient as the logs would be developed from information contained
+on Forms OCC 1203 and 1203A which as discussed above is required to
+be entered into CCATS upon receipt from child care facilities.
+Furthermore, the perceived control weakness of not entering all staffing
+information reported on Forms OCC 1203 and 1203A into the CCATS
+system would be inherent in the recapturing of staffing information from
+the Form OCC 1203 and 1203A forms onto the manual log. Finally, the
+Licensing Office has developed additional controls whose objective is to
+ensure the accuracy of Child Care Provider Staffing information in the
+CCATS system such as requiring a complete and current OCC 1203
+Form from the Provider during annual visits and a biennial supervisory
+review of documentation contained in Child Care Provider case files.
+These controls will be distributed to staff by August 31, 2019.
+Auditor’s Comment: As noted in our test results, DEC’s procedures failed to ensure the
+required background checks were performed, demonstrating the need for the
+recommended controls. MSDE’s response does not address controls to ensure that its
+procedures are operating as intended. The additional controls referenced in the response
+Page 4 of 20
+
+--- Page 25 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+will continue to be insufficient to ensure child care facility employees are recorded timely
+in CCATS.
+Recommendation 1b Choose an item See Below for Estimated Completion
+9/30/2020
+discussion. Date:
+Please provide details of The following discussion indicates MSDE’s agreement or
+corrective action or disagreement for each of the three recommended areas for improvement.
+explain disagreement.
+Auditor’s Comment: The procedures listed below do not address controls to ensure all
+child care providers are recorded in CCATS and, therefore, that all required CBCs and
+CPS clearances are obtained.
+1) Maintain a log of new employees.
+The Licensing Branch respectfully disagrees with the portion of the
+Recommendation related to the creation of logs of new employees at
+Regional Licensing Offices for reasons stated in its response to Finding
+1 Recommendation a.
+2) Timely CBC and CPS clearance be obtained for all employees.
+The Licensing Branch agrees that complete Criminal Background
+Check (CBC) and CPS clearance information needs to be obtained for all
+child care employees who have frequent access to children. In this
+regard, activities related to changes in Federal regulations and also
+completed and in progress modifications to the CCATS system will
+greatly assist in achieving this objective. Specifically:
+A. It is expected, that as a result of modifications to State and Federal
+regulations individuals associated with child care programs will be re-
+fingerprinted by March 31, 2020. Therefore, this process will assist
+DEC with ensuring all child care providers and individuals associated
+with them are printed as required.
+B. The CCATS system was enhanced on June 18, 2018 to allow the
+tracking and monitoring of CBC and CPS clearance information.
+C. A Criminal Background Check Clearance Report is being
+configured in the CCATS system which will identify individuals
+Page 5 of 20
+
+--- Page 26 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+associated with child care programs, whose CBC and CPS Clearance
+information is not contained in CCATS. All activities associated with
+coding the report and uploading CBC data for individuals hired prior to
+June 18, 2018 into CCATS is expected to be completed by December
+30, 2019. Effective June 18, 2018, Licensing staff have manually
+entered CBC information in CCATS for all new individuals associated
+with child care programs. It is expected that all CPS Clearance data will
+be entered into CCATS by September 30, 2020. The report will be
+produced and reviewed on a monthly basis effective December 31, 2019.
+Any individuals who do not have a CPS clearance or CBC information
+in CCATS will be followed-up with and the missing information will be
+tracked until it is obtained and documented in the system.
+D. Two new positons, Deputy Licensing Branch Chief, to be filled by
+January 31, 2020 and a CBC Coordinator filled on April 30, 2019 have
+been designated to join DEC’s Headquarters Licensing Staff. These two
+positions or a central office designee will be responsible for monitoring
+that CBC and CPS clearances have been received for all individuals
+reported who are associated with child care programs by using the
+Criminal Background Check Clearance Report.
+E. The Licensing Branch will modify any existing or create new
+procedures on a timely basis regarding the implementation of the prior
+mentioned activities.
+3) Obtain CBC and CPS Clearances for the 12 non-compliant cases.
+As explained in the comments to the Analysis Section, the Licensing
+Branch respectfully disagrees that CPS Clearances were not completed
+for the 4 staff persons identified. Therefore, the number of non-
+compliant cases identified should be 8. The missing documentation for
+five of the remaining eight non-compliant cases has subsequently been
+obtained and is on file. The missing CPS Clearance documentation for
+the remaining three non-compliant cases could not be obtained as these
+employees are no longer employed in a child care program and the CPS
+Clearance form requires their signature.
+Page 6 of 20
+
+--- Page 27 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+Recommendation 1c Choose an item Agree Estimated Completion Date: 3/31/2020
+Please provide details of The Licensing Branch agrees with the Recommendation that all
+corrective action or CJIS criminal background check alerts should be recorded in the weekly
+explain disagreement. Headquarters Alert Log. Consequently, as of November 1, 2018,
+Headquarters no longer removed duplicate alerts prior to forwarding the
+weekly Headquarters Alert Log to the Regional Licensing Offices. DEC
+Headquarters verified and provided documentation during the OLA
+Audit period that the 10 alerts cited by OLA were followed up with by
+Regional Licensing Office Staff, who receive alert information on a
+daily basis. On May 17, 2019, OLA provided a file containing necessary
+detail regarding the cited 1,400 alerts which will allow the Licensing
+Branch to perform an analysis and document the results of this review.
+This process is expected to be completed by March 31, 2020, at which
+time the additional 1,400 alerts and related analysis results will be posted
+to a centralized monitoring log for Headquarters to track.
+Auditor’s Comment: In its response, MSDE continues to refer to the omitted alerts as
+“duplicate alerts”; however, each alert represents a unique incident which needs to be
+investigated to ensure the individual is not disqualified from working at a child care
+facility.
+Recommendation 1d Choose an item Agree Estimated Completion Date: Various
+Please provide details of The Licensing Branch agrees with the Recommendation. The
+corrective action or
+Licensing Branch-Headquarters has enhanced its procedures as follows:
+explain disagreement.
+1. During April 2019, the Licensing Branch Chief commenced review-
+ing the Headquarters Alert Log on a monthly basis. These reviews indi-
+cated that the Regional Licensing Offices are reviewing new alerts to
+determine if the individuals are able to be employed in a child care
+program.
+2. The position of Criminal Background Check Coordinator (CBCC--a
+Headquarters (HQ) position) was filled on April 30, 2019 and this
+position or HQ Designee is responsible for following up and ensuring
+that open alerts on the Headquarters Alert Log dated during the
+Page 7 of 20
+
+--- Page 28 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+January 1, 2018 to April 30, 2019 period have been adequately followed
+up and comprehensive details regarding that follow up are documented.
+This review is expected to be completed by June 30, 2020.
+3. The Regional Licensing Offices will be responsible for following up
+and closing all alerts on the Headquarters Alert Log issued after April
+30, 2019, and will have on file documentation supporting these
+activities. To ensure all alerts, over which the Licensing Branch has
+jurisdiction, are documented appropriately, the Criminal Background
+Check Coordinator (CBCC) or HQ designee will begin performing
+monthly reviews of the Headquarters Alert Log beginning September 1,
+2019. The CBCC or HQ Designee will contact the Regional Licensing
+Offices regarding any new alerts that are not properly documented to
+ensure alert documentation is added to the Headquarters Alert Log as
+needed. Also, the Licensing Branch’s current procedure ‘Suitability for
+Employment Process’ will be modified by August 31, 2019, to reflect
+that Regional Managers and Supervisors will be required to obtain the
+necessary information to complete the review of the alerts on the
+Headquarters Alert Log by sending an original request and if necessary
+follow up requests for the necessary information at 90 and 180 day
+intervals. If the information needed to close the alert still has not been
+received the request will be sent to the CBCC at Headquarters who will
+send an additional request for the information at 270 days. At 365 days,
+a decision will be made to determine the next course of action.
+Auditor’s Comment: While agreeing with the recommendation, MSDE’s response
+indicates that it will follow up with facilities that do not respond to the alert requests, but
+will not determine the next course of action for up to a year. Given the sensitivity of this
+subject matter and the potential vulnerability of the children under care, we believe that
+definitive corrective action (such as license suspensions) should be taken in a timely
+manner.
+Page 8 of 20
+
+--- Page 29 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+4. The Licensing Branch will be hiring a Deputy Licensing Branch
+Chief (a HQ position) by January 30, 2020, whose responsibilities will
+include auditing the thoroughness of investigations for alerts on the
+Headquarters Alert Log performed by the Regional Licensing Offices. In
+this regard, on an annual basis, this position will select and review a
+sample of Alerts for each of the thirteen Regional Licensing Offices and
+determine whether they were sufficiently investigated and that all issues
+were satisfactorily resolved.
+5. The CCATS system is being modified to house and track alert
+information. These CCATS enhancements are expected to be in place
+by August 31, 2020.
+Page 9 of 20
+
+--- Page 30 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+Child Care Facility Inspections
+Finding 2
+DEC headquarters did not ensure that regional offices conducted comprehensive annual
+inspections of child care facilities, followed up with facilities regarding the correction of
+deficiencies, and took appropriate administrative action when facilities did not correct
+deficiencies.
+We recommend that DEC headquarters establish appropriate procedures to
+a. monitor the annual child care facility inspections conducted by regional office
+personnel to ensure the inspections are comprehensive, including verifications that all
+employees were entered into CCATS, that facilities were adequately supervising any
+volunteers, and that all alerts are investigated for employees hired before October 2005;
+and
+b. ensure regional offices follow up on deficiencies noted during inspections and initiate
+administrative actions, as deemed appropriate, for facilities with continued non-
+compliance.
+Agency Response
+Analysis
+Please provide 1. The Licensing Branch respectfully believes the following sentence
+additional comments as under bullet one which states, “Our test of the most recent inspections
+deemed necessary. for 14 facilities (in 11 regions) that employed 105 child care workers
+disclosed that 6 of the 14 employees at one facility inspected in March
+2017 had not been recorded in CCATS as of February 2018”, should
+state that 5 (not 6) of the 14 employees were not recorded in CCATS.
+Specifically, the CCATS Associated Party History page shows, for test
+case #2, that the individual was employed from 1/1/17- 6/30/17 and also
+from 11/13/17-12/1/17 and therefore was recorded in CCATS when the
+review was performed.
+Auditor’s Comment: MSDE states that one of the six employees identified by our test
+as not being recorded in CCATS had, in fact, been recorded at the time of our review.
+However, this is inconsistent with our audit results and was not previously mentioned by
+DEC during numerous conversations during and subsequent to the audit.
+Page 10 of 20
+
+--- Page 31 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+2. The Licensing Branch respectfully disagrees with the comment,
+“that the regional licensing staff was not required to document whether
+volunteers working at child care facilities were supervised,” under the
+second bullet point. Specifically, a Manual exists for each of the four
+types of Child Care Programs which provides specific assessment
+method criteria which a Licensing Specialist uses during an inspection of
+a child care provider to determine compliance with provisions of the
+Child Care subtitles (15-18) of COMAR Title 13A, which includes
+monitoring of volunteers. The procedures require that during each
+inspection licensing staff identify which staff are present and verifies
+that qualified personnel are in the classrooms.
+Auditor’s Comment: MSDE’s response disagrees that regional licensing staff were not
+required to document that volunteers were supervised at the facilities. MSDE asserts that
+a generic comment that child care specialists should ensure compliance with COMAR is
+sufficient to ensure that numerous critical child care criteria are specifically considered
+and addressed. MSDE also maintains that its procedures require child care workers to
+ensure that qualified personnel are in the classroom. However, such generic procedures
+are insufficient to ensure that inspections are comprehensive and that volunteers are
+adequately supervised.
+3. The Licensing Branch respectfully disagrees with bullet point three.
+Please see the response in Finding 2, Recommendation 2a.
+Auditor’s Comment: See auditor comment under Recommendation 2a below.
+4. The Licensing Branch respectfully believes that the statement ‘that
+regional office staff need to document the follow up efforts in CCATS’
+in the fourth bullet point is inaccurate. Prior to December 8, 2016, staff
+could manually enter dates for follow-up inspections. No additional
+information regarding the inspection was added to the CCATS system.
+After December 8, 2016, the system began to electronically import the
+inspection report dates from the Electronic Licensing Inspection system.
+In addition, the reference to ‘the procedure that requires the regional
+offices to document the follow-ups efforts in CCATS’ was an incorrect
+Page 11 of 20
+
+--- Page 32 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+reference. The procedure referenced was the guidance for Conducting
+“Initial” Inspections. This procedure does not reference the other
+inspection types and does not require licensing staff to document follow-
+up efforts in CCATS.
+Auditor’s Comment: The procedures referred to and used to support our analysis were
+not limited to the initial inspections as indicated in the response. In addition, we believe
+that documenting the follow-up efforts in CCATS is a critical control regardless of
+whether it is specified in the procedures.
+Recommendation 2a Choose an item Disagree Estimated Completion Date: Not
+applicable
+Please provide details of The Licensing Branch respectfully disagrees with the
+corrective action or Recommendation. It does not believe that its Headquarters organization
+explain disagreement. needs to establish appropriate procedures which require it to monitor the
+three stated functions performed by regional office personnel during
+inspections as it believes procedures are already in place for these
+functions. The basis for disagreement for each function is discussed
+below.
+1) The Licensing Branch respectfully disagrees that its Headquarters
+office needs to establish appropriate procedures to require it to monitor
+and verify that all employees are entered into CCATS because these
+controls are already currently in place. As discussed in the response to
+Finding 1 Recommendation a., satisfactory procedures and controls
+currently exist which ensure that CCATS contains all individuals
+working at a child care facility who have frequent access to children.
+Also, the basis for this Recommendation is related solely to one child
+care provider and it has been determined it resulted not from a lack of
+procedures but from a prior Licensing Specialist’s non-compliance with
+the procedures.
+Auditor’s Comment: As previously explained in the auditor comment for
+recommendation 1a, DEC’s existing procedures are insufficient to ensure all child care
+employees are entered into CCATS. Furthermore, MSDE’s response does not address
+Page 12 of 20
+
+--- Page 33 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+the recommendation that inspections ensure that all facility employees were entered into
+CCATS.
+2) The Licensing Branch respectfully disagrees that its Headquarters
+office needs to establish appropriate procedures to require it to monitor
+that regional office personnel during annual inspections verified that
+facilities were adequately supervising volunteers because satisfactory
+procedures and controls are already in place. As discussed in the
+Analysis section, Licensing procedures require that if volunteers are
+present during the inspection, the Licensing Specialist observes each
+volunteer to determine how they are monitored by center staff. If
+volunteers are not present, the director and other staff are interviewed to
+determine their monitoring level and procedures. The inspection report
+will reflect a “C”(Compliant) or ‘N’ Non-Compliant) in the box
+associated with the ‘volunteer’ regulation on the inspection summary
+report if volunteers are or are not under close supervision of a cleared
+staff member whenever the volunteer is in contact with unrelated
+children in care. Licensing procedures have been established and are
+utilized by Licensing Specialists which require volunteers to be observed
+during inspections to ensure that adequate supervision is in place.
+Auditor’s Comment: MSDE believes that its inspection summary report that includes a
+list of individual COMAR regulations with a corresponding notation for compliance (c)
+or noncompliance (n) is sufficient documentation that volunteers were adequately
+supervised. MSDE did not address the specific attributes included in the finding that are
+necessary to determine the adequacy of supervision – the number of volunteers, work
+schedule of volunteers, and whether volunteers were sighted during the inspection.
+Finally, MSDE referenced certain detailed procedures; however, no such procedures were
+provided to us during the audit and there was no evidence that these procedures were
+performed.
+3) The Licensing Branch respectfully disagrees that its Headquarters
+office needs to establish appropriate procedures to require it to monitor
+that Regional Licensing Office personnel investigate alerts for
+employees hired before October 2005 during annual inspections because
+at that time only the child care facility received these alerts. Per MD
+Statute, center child care providers were not able to disclose this
+Page 13 of 20
+
+--- Page 34 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+information to the Licensing Branch. Subsequently, DEC was not able to
+receive CBC information until October 1, 2005 when House Bill 163
+(MD Statue 5-554) required that Criminal Background Information be
+sent to the Licensing Office. Furthermore, all staff who were printed
+prior to 2005 have been or will be fingerprinted for the Licensing Branch
+by March 31, 2020, as part of the Rap Back Program. To date, over
+200,000 individuals associated with child care programs have been re-
+printed as part of the RAP Back program. Regional Licensing Office
+Staff will review the Criminal Background Check reports as they are
+received and will take appropriate action if any disqualifying charges are
+noted. In addition, alerts for those individuals will be received and
+reviewed by Licensing and followed up with appropriate action. Such
+individuals will be monitored through the Headquarters Alert Log and
+through future CCATS enhancements.
+Auditor’s Comment: MSDE disagrees that it needs to establish inspection procedures
+to ensure that child care facilities investigated alerts for employees hired before October
+2005. This disagreement relies, in part, on federal legislation, effective March 2020,
+which will require all child care facility staff to be fingerprinted and results reported to
+DEC. Prior to this federal legislation, MSDE asserts that it could not legally have access
+to criminal alerts received by the facilities for these employees, but did not provide any
+formal legal advice to support this assertion.
+Recommendation 2b Choose an item Agrees Estimated Completion Date: 6/4/2019
+Please provide details of The Licensing Branch agrees with the Recommendation. Existing
+corrective action or procedures, ‘Guidance for Removing Open Summary of Findings
+explain disagreement. (SOF’s) in the Electronic Licensing System’ associated with correcting
+deficiencies noted during inspections were modified and implemented
+on June 4, 2019 to require Licensing Staff to use a report available from
+the Child Care Information System (CCIS) which lists all open
+“Summary of Findings” (deficiencies) identified during inspections. The
+revisions also require Licensing Staff to follow-up on and document the
+status of the child care provider’s implementation of corrective action
+from onset to closure of deficiencies. In addition, the revised procedure
+‘Guidance for Removing Open Summary of Findings (SOF’s) in the
+Electronic Licensing System’ associated with taking available
+administrative (enforcement) action for facilities with continued non-
+compliance was modified in March, 2019 to include a provision whereby
+Page 14 of 20
+
+--- Page 35 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+any deficiency which has not been ‘closed’ within 90 days of the
+Licensing Specialist’s signature date on the inspection form will be
+referred to the Regional Licensing Office Manager or Supervisor to
+make a determination of the next course of action including possible
+administrative (enforcement) action. The administrative (enforcement)
+actions, if any, to be taken will be documented.
+Page 15 of 20
+
+--- Page 36 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+Child Care Subsidy Program
+Finding 3
+DEC lacked sufficient procedures to effectively monitor subsidy program eligibility
+determinations and the related payments made by its vendor, certain of which could not be
+supported.
+We recommend that DEC
+a. require the vendor to conduct a sufficient number of supervisory reviews of eligibility
+determinations, maintain documentation of compliance with key eligibility
+requirements, expand its reviews when errors are identified, and take appropriate
+corrective action;
+b. review the results of the vendor’s quality assurance reviews of eligibility
+determinations, at least on a test basis, or implement its own quality assurance process
+to ensure that documented and proper determinations are made by vendor employees;
+c. ensure that the vendor reviews the support for, and conducts the required monthly
+verifications of, facility invoices for child care subsidies; and
+d. establish a process to verify the propriety of reported performance measures, at least on
+a test basis.
+Agency Response
+Analysis
+Please provide 1. The Subsidy Branch wants to clarify for report readers the expanse
+additional comments as of the services provided by the vendor for the Child Care Subsidy
+deemed necessary. program by stating that ‘During fiscal year 2017, the vendor was paid
+$5.4 million for administering the program on behalf of approximately
+an average of 14,000 children per month and for completing 1,094,914
+Case Management, Customer Service and Payment & Mail Processing
+transactions.’
+2. The Subsidy Branch wants to clarify that the statement ‘For
+example, in December 2017, the vendor performed supervisory reviews
+for 1.3 percent of the 2,450 transactions processed by its eligibility staff’
+needs to be modified to ‘For example, in December 2017, the vendor
+performed supervisory reviews for 2.24 percent of the 1,381 transac-
+tions processed by its eligibility staff’ as the 2,450 transactions used in
+the calculation of the 1.3 percent included other transactions processed
+by the vendor which were not related to eligibility determination.
+Page 16 of 20
+
+--- Page 37 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+Auditor’s Comment: We subsequently revised our report to reflect the information
+provided in MSDE’s above response. The revisions were communicated to MSDE. The
+finding regarding the lack of sufficient procedures to effectively monitor subsidy
+program eligibility determinations is still valid.
+Recommendation 3a Choose an item Agree Estimated Completion Date: 12/1/2019
+Please provide details of The Subsidy Branch agrees with the Recommendation. The current
+corrective action or contract requires the vendor’s management to perform 3 mandatory
+explain disagreement. supervisory reviews of eligibility determinations per case manager per
+month. Effective December 1, 2019, Subsidy Branch personnel will also
+test the propriety of the vendor’s eligibility determination by reviewing 7
+cases per case manager and reviewing an additional 5 cases records per
+month for each case manager with an identified error. During this
+review, the Subsidy Branch will test that the vendor maintained
+documentation for key eligibility requirements. Adequate documentation
+regarding the aforementioned reviews will be created and maintained
+and the results of these reviews will be discussed with the vendor for any
+appropriate corrective action. The Subsidy Branch will continue this
+process throughout the duration of the current vendor’s contract.
+Recommendation 3b Choose an item Agree Estimated Completion Date: 12/1/2019
+Please provide details of The Subsidy Branch agrees with the Recommendation. Effective
+corrective action or December 1, 2019, the Subsidy Branch will implement the Corrective
+explain disagreement. Action Plan for testing the propriety of the vendor’s eligibility
+determinations, as outlined in Recommendation a.
+Also, COMAR provides a listing of acceptable documents which can
+be used to verify the applicant’s monthly income including paystubs and
+the vendor complied with COMAR as it used these prescribed sources in
+verifying applicant’s monthly income. Effective April 1, 2019, a
+supplementary verification of monthly income was implemented
+whereby the vendor verifies the reported income on the customer’s
+subsidy application to income contained in the Maryland Automated
+Benefits System (MABS) for the most recent quarter. Any legitimate
+difference(s) are investigated and resolved.
+Recommendation 3c Choose an item Agree Estimated Completion Date: 1/31/2020
+Please provide details of The Subsidy Branch agrees with the Recommendation. Regarding
+corrective action or the six non-compliant cases, two providers subsequently provided
+explain disagreement. attendance records to support payments made to them. The remaining
+four non-compliant cases were caused by a system weakness which is
+Page 17 of 20
+
+--- Page 38 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+expected to be corrected by January 31, 2020. In the interim, during
+February 2019 a manual process was developed and implemented to
+address the system weakness. Recovery has been obtained for three of
+the remaining four non-compliant cases and the remaining case has been
+forwarded to the CCU (Central Collection Unit).
+The vendor will be required to continue their verification of invoices
+as required by the contract (selection of 29 invoices per two week
+service period) and the vendor will be required to provide a report of the
+results of their bi-weekly verifications to the Subsidy Branch for review.
+In addition, procedures will be developed and implemented by
+November 30, 2019 which will require current Subsidy Staff to review
+10% of the invoices reviewed by the vendor. Any error(s) will be
+discussed with the vendor to address technical assistance and/or training
+needs.
+Recommendation 3d Choose an item Agree Estimated Completion Date: 2/28/2020
+Please provide details of The Subsidy Branch agrees with the Recommendation. Procedures
+corrective action or are currently being developed to test the propriety of reported
+explain disagreement. performance measures. Effective November 30, 2019, these
+procedures will be utilized on an on-going basis and will be employed to
+test the propriety of reported performance measures retroactively
+to January 2017 and where appropriate liquidated damages will be
+assessed. The retroactive review is expected to be completed by
+February 28, 2020.
+Page 18 of 20
+
+--- Page 39 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+Information Systems Security and Control
+Finding 4
+DEC lacked assurance that CCATS was sufficiently protected against operational and
+security risks.
+We recommend that DEC
+a. enforce the provisions of the CCATS contract and agreement, by requiring that
+independent SOC 2 Type 2 security reviews be performed annually for the CCATS
+primary service provider and all subcontractors providing material services; and
+b. obtain and review copies of these independent reports and ensure that the independent
+security reviews and related reports on CCATS address all relevant and critical
+security controls and further ensure that the service providers implement all critical
+recommendations made in these reports.
+Agency Response
+Analysis
+Please provide Based on discussion with OLA and DoIT personnel, an ISO 27001
+additional comments as certification is an adequate substitute for a SOC 2 Type 2 review.
+deemed necessary. Furthermore, the ISO 27001 certified hosting service provider is
+required to have an annual IT security review performed by the external
+body which certified them.
+Recommendation 4a Choose an item Agree Estimated Completion Date: 8/14/2019
+Please provide details of The Licensing Branch agrees with the Recommendation. Following
+corrective action or the OLA Audit the CCATS primary hosting service provider came into
+explain disagreement. compliance with the contractual requirement to obtain an independent
+security review. MSDE’s CCATS Task Manager has received
+documentation which reflects that the ISO 27001 certification process
+was completed April 10, 2019. In addition, during the OLA Audit
+period, OLA was provided verification that the subcontractor for the
+CCATS hosting service provider received a SOC 2 Type 2 review,
+which covered the period from November 1, 2016 to October 31, 2017.
+This review showed that there were no control weaknesses cited.
+MSDE’s CCATS Task Manager will monitor and retain annual
+documentation to reflect that the contractor and all subcontractors have
+maintained compliance with the requirement to obtain annual
+independent security reviews.
+Page 19 of 20
+
+--- Page 40 ---
+Maryland State Department of Education
+Division of Early Childhood
+Agency Response Form
+Recommendation 4b Choose an item Agree Estimated Completion Date: 8/14/2019
+Please provide details of The Licensing Branch agrees with the Recommendation. As of this
+corrective action or time, there is only one subcontractor who provides material services to
+explain disagreement. the primary service provider. A copy of this subcontractor’s SOC 2 Type
+2 report, covering the period November 1, 2016 to October 31, 2017 was
+obtained during the audit and is on file with MSDE’s CCATS Task
+Manager. OLA and DEC’s CCATS Task Manager reviewed the
+aforementioned SOC 2 Type 2 report and determined that no control
+weaknesses were cited. MSDE’s CCATS Task Manager also obtained
+and reviewed a copy of the subcontractor’s most recent SOC 2 Type 2
+report covering the period November 1, 2017- October 31, 2018, and
+determined that no control weaknesses were cited. In the future,
+MSDE’s CCATS Task Manager will obtain and review, on an annual
+basis, copies of SOC 2 Type 2 security reports for any subcontractor
+who provides material services to the primary service provider. During
+this review process, the CCATS Task Manager will determine whether
+the IT security controls tested during the SOC 2 Type 2 audit included
+the seven security controls mentioned in the Analysis section of OLA’s
+ISA #1. The CCATS Task Manager will also follow up and obtain
+documentation of any action taken to determine that the vendor(s) have
+satisfactorily corrected any security concern(s) identified in section 4
+(Tests of Operating Effectiveness and Results of tests) of the SOC 2
+Type 2 Security Reviews.
+The primary service provider was ISO 27001 certified on April 10,
+2019 and is required to have an annual IT security review performed by
+the certifying entity. The CCATS Task Manager will request a copy of
+these annual reviews and will utilize a similar review process as
+described above for the SOC 2 Type reports.
+Page 20 of 20
+
+--- Page 41 ---
+A T
+UDIT EAM
+Heather A Warriner, CPA
+Audit Manager
+Richard L. Carter, CISA
+Information Systems Audit Manager
+Nathan H. Suffin, CPA
+Senior Auditor
+Edwin L. Paul, CPA, CISA
+Information Systems Senior Auditor
+John B. Wachter, CFE
+Staff Auditor
+Robert H. Dean
+Information Systems Staff Auditor

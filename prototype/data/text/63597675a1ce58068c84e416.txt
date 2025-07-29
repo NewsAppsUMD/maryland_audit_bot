@@ -1,0 +1,1660 @@
+Title: Maryland Department of Health - Behavioral Health Administration and Medical Care Programs Administration - Administrative Service Organization for Behavioral Health Services
+
+
+NOTE:  The scope of this audit includes the Behavioral Health Administration's (BHA) responsibilities overseeing the Public Behavioral Health System and the Medical Care Programs Administration's (MCPA) monitoring of the Administrative Service Organization (ASO) contract deliverables, claims processing, provider audits, and information systems security. During the prior audit cycle, MCPA's monitoring of the ASO was audited separately.
+Date: 10/25/2022
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=63597675a1ce58068c84e416
+Extracted: 2025-06-20T00:25:05.684366
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs
+Administration
+Administrative Service Organization for
+Behavioral Health Services
+October 2022
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative
+Audits has redacted a cybersecurity finding and related auditee response
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Mark S. Chang (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Nicholas P. Charles II
+Senator George C. Edwards Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Trent M. Kittleman
+Senator Cheryl C. Kagan Delegate Carol L. Krimm
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Elizabeth G. Proctor
+Senator Craig J. Zucker Delegate Geraldine Valentino-Smith
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+October 25, 2022
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Mark S. Chang, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Department of
+Health (MDH) – Behavioral Health Administration (BHA) for the period
+beginning November 13, 2017 and ending June 30, 2021 and the Medical Care
+Programs Administration (MCPA) Administrative Service Organization (ASO)
+for Behavioral Health Services for the period beginning January 1, 2019 and
+ending June 30, 2021.
+BHA is responsible for operating the Public Behavioral Health System to provide
+mental health and substance-related disorder services to the citizens of Maryland.
+Community-based services are financed through a combination of grants and
+contracts with vendors and direct reimbursements. MCPA is responsible for
+overseeing the ASO. The ASO pays provider claims through its fee-for-service
+system, determines behavioral health recipient eligibility, authorizes recipient
+services, and performs oversight of providers to ensure the propriety and accuracy
+of claims and related services.
+In our previous audit cycle, we issued separate audit reports for MDH BHA and
+MCPA ASO. To promote audit efficiency and considering that both entities
+provide services to overlapping populations we have consolidated our review of
+the entities into one audit, with our recommendations being made to MDH.
+Our audit disclosed numerous issues with MCPA’s procurement and monitoring
+of its new ASO. MCPA contracted with the ASO for the five-year period from
+
+--- Page 4 ---
+January 1, 2020, to December 31, 2024, with one additional two-year option and a
+cumulative value of approximately $198.2 million. According to the State's
+records, during fiscal year 2021 behavioral health claims disbursements made by
+the ASO totaled $1.8 billion.
+Our review found that MCPA’s evaluation of the ASO technical proposals did not
+include an independent comprehensive review of the subcontractor that was
+responsible for the most critical aspect of the contract, the claims processing
+system. We noted that prior to MCPA evaluating the ASO’s technical proposal,
+three other localities had experienced performance issues with the subcontractor
+related to the development and implementation of the claims processing systems.
+In addition, MCPA did not ensure that the ASO’s claims processing system
+functioned prior to launch. Ultimately, deficiencies with the claims processing
+system required the ASO to make $1.06 billion in estimated payments to
+providers, of which approximately $223.5 million had not been supported or
+recovered. Moreover, the claims processing system was unable to evaluate
+whether services provided to patients were medically necessary, improperly
+denied valid claims, and could not provide critical claim payment information to
+providers to perform reconciliations.
+MDH did not conduct audits to ensure the ASO authorized services that were
+medically necessary. While MDH management advised us that an annual audit
+was performed, our review disclosed that the most recent audit covered calendar
+years 2017 through the first two quarters of 2019 and the audit had not been
+finalized. Moreover, MCPA and BHA did not ensure that the ASO performed a
+sufficient number of provider audits. The purpose of provider audits is to ensure
+patient medical records agree to paid claims, to identify and resolve
+overpayments, to identify potential fraud or abuse by providers, and to monitor
+providers who have filed claims with insufficient supporting documentation.
+In accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted a cybersecurity-related finding
+related to the services provided by the ASO from this audit report. Specifically,
+State law requires the Office of Legislative Audits to redact cybersecurity-related
+findings in a manner consistent with auditing best practices before the report is
+made available to the public. The term “cybersecurity” is defined in the State
+Finance and Procurement Article, Section 3A-301(b), and using our professional
+judgment we have determined that the redacted finding falls under the referenced
+definition. The specifics of the cybersecurity finding were previously
+communicated to BHA and MCPA as well as those parties responsible for acting
+on our recommendations.
+2
+
+--- Page 5 ---
+We also noted that MCPA did not ensure the ASO complied with contractual
+operational requirements to implement certain federal best practices that
+ultimately resulted in the inability of MDH to recover enhanced federal funding,
+which we estimated could total $28.8 million over the life of the ASO contract.
+Further, MCPA did not timely investigate and resolve claims paid by the ASO for
+which federal reimbursement was denied or approved for a different amount.
+Although MCPA worked with the ASO to investigate denied and discrepant
+claims, as of September 10, 2021, according to MDH’s records, there were
+approximately 292,000 unresolved denied claims requiring investigation totaling
+approximately $106.7 million.
+MDH did not assess up to $20.5 million in liquidated damages permitted by the
+ASO contract despite the vendor’s ongoing failure to provide an operational
+system or comply with specific requirements. MDH executive management
+advised that it had not assessed additional liquidated damages because it was
+concerned that such actions would discourage the ASO from resolving noted
+defects and may lead to litigation with an uncertain outcome. The State of
+Maryland Procurement Manual states that liquidated damages allow for
+compensation upon a specific breach of contract when actual damages may be
+difficult to ascertain.
+MDH circumvented State procurement regulations by obtaining information
+technology (IT) consulting services totaling approximately $19.8 million from
+one vendor without seeking competition. Specifically, MDH obtained the
+services of a single IT vendor using a combination of procurement methods, such
+as, sole source contracts and grant agreements, which did not include competition.
+Our audit included a review to determine the status of five non-cybersecurity-
+related findings contained in certain preceding audit reports. Specifically, our
+audit included a review to determine the status of three of the four findings
+contained in our preceding audit report of BHA dated July 9, 2019 and two
+findings contained in our preceding audit report of MCPA ASO dated January 13,
+2020. We determined that three of these five findings were satisfactorily
+addressed. The remaining two findings are repeated in this report.
+We determined that MDH’s accountability and compliance level was
+unsatisfactory in accordance with the rating system we established in conformity
+with State law. The primary factors contributing to the unsatisfactory rating were
+the financial significance and repeat nature of many of the findings. In addition,
+although not specifically quantifiable, several identified deficiencies potentially
+impacted the effective and efficient delivery of health care to a vulnerable and
+needy population.
+3
+
+--- Page 6 ---
+MDH’s response to this audit, on behalf of BHA and MCPA, is included as an
+appendix to this report. In accordance with State law, we have reviewed this
+response and, while MDH agrees with the majority of our findings and
+recommendations, we found the responses to several findings indicate that MDH
+does not intend on implementing the recommendations until the current ASO
+contract expires on December 31, 2024. Furthermore, despite agreeing with
+certain findings related to the long-standing ASO performance issues, MDH
+disagrees with finding 8 and the related recommendation regarding the assessment
+of liquidated damages based on ASO performance; contending that liquidated
+damages would increase the risk of litigation and an adversarial relationship,
+along with the potential of furthering minimum performance by the contractor. In
+accordance with generally accepted government auditing standards, we have
+included an “auditor’s comment” within MDH’s response to explain our position.
+Based on the issues identified with the ASO in this report, we stand by our finding
+and recommendation. Finally, while there are other aspects of MDH’s response
+which will require further clarification, we do not anticipate that these will require
+the Joint Audit and Evaluation Committee’s attention to resolve.
+We wish to acknowledge the cooperation extended to us during the audit by BHA
+and MCPA.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 7
+Agency Responsibilities and Audit Scope 7
+Ransomware Security Incident 8
+Status of Findings From Preceding Audit Reports 8
+Findings and Recommendations 10
+Administrative Service Organization (ASO)
+Finding 1 – The Medical Care Programs Administration (MCPA) 12
+evaluation of the ASO technical proposals was not sufficiently
+comprehensive or documented.
+Finding 2 – MCPA did not ensure that the ASO’s claim processing 15
+system was functioning prior to launch, resulting in numerous system
+deficiencies that ultimately required the ASO to make $1.06 billion in
+estimated payments to providers, of which approximately $223.5
+million has not been supported or recovered.
+* Finding 3 – The Maryland Department of Health (MDH) did not conduct 17
+audits to ensure that the ASO properly authorized behavioral health
+services.
+* Finding 4 – MCPA and BHA did not ensure that the ASO performed a 18
+sufficient number of provider audits, that the audits included
+financially material and current transactions, and that any
+overpayments and deficiencies identified were corrected.
+Finding 5 – Redacted cybersecurity–related finding. 20
+Finding 6 (Policy Issue) – A lack of ASO vendor compliance with a 21
+certain contract requirement prevented MCPA from obtaining
+enhanced federal funding.
+Finding 7 – MCPA did not timely investigate and resolve claims paid by 22
+the ASO for which federal reimbursement was denied or approved for
+a different amount than the amount paid.
+∗ Denotes item repeated in full or part from preceding audit report
+5
+
+--- Page 8 ---
+Finding 8 – MDH had not developed a formal policy on the assessing 23
+of liquidated damages and did not assess up to $20.5 million in
+liquidated damages permitted by the ASO contract despite the
+vendor’s ongoing failure to provide an operational system or comply
+with certain requirements.
+Procurement
+Finding 9 – MDH circumvented State procurement regulations to obtain 24
+information technology consulting services totaling approximately
+$19.8 million from one vendor.
+Audit Scope, Objectives, and Methodology 27
+Agency Response Appendix
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities and Audit Scope
+The Behavioral Health Administration (BHA) of the Maryland Department of
+Health (MDH) operates the Public Behavioral Health System (PBHS) to provide
+mental health and substance-related disorder (including drug, alcohol, and
+gambling addictions) services to the citizens of Maryland. These services are
+delivered through private for-profit and non-profit community-based providers,
+local health department clinics, and State operated facilities. Community-based
+services are financed through a combination of grants and contracts with vendors
+and direct reimbursements through a fee-for-service system operated by an
+Administrative Service Organization (ASO). The ASO is monitored by MDH’s
+Medical Care Programs Administration (MCPA).
+The scope of this audit includes BHA's responsibilities in overseeing the PBHS
+and MCPA's monitoring of the ASO contract deliverables, claims processing
+(including denied claims), provider audits, and information systems security.
+During the prior audit cycle, MCPA’s monitoring of the ASO was audited
+separately. To promote consistency and a more comprehensive reporting of audit
+issues related to BHA activities, we have modified our audit approach and
+consolidated our review of MCPA’s ASO monitoring into this audit’s scope.
+Separate audits are conducted of MCPA’s primary functions (such as recipient
+eligibility, long-term care, and hospital services), MCPA’s monitoring of
+Managed Care Organizations, and the MCPA pharmacy programs. The
+administration of the behavioral health facilities was transferred from BHA to the
+Office of the Deputy Secretary for Operations effective May 2019 and, as such,
+was not included in the scope of this audit.
+According to the State's records, BHA's expenditures, which were primarily for
+mental health and substance-related disorder programs and services, totaled
+approximately $356.6 million during fiscal year 2021 (primarily funded by State
+and federal funds). For the same fiscal year, behavioral health claims
+disbursements made by the ASO from two State-funded bank accounts totaled
+$1.8 billion. The vast majority of these claims were eligible for federal fund
+participation (reimbursement), which is normally at least 50 percent of the amount
+paid.
+7
+
+--- Page 10 ---
+Ransomware Security Incident
+In December 2021, MDH experienced a broad security incident which resulted
+from a ransomware attack.1 This incident affected the entire MDH computer
+network and disrupted information technology (IT) operations for all MDH
+servers and end user computers resulting in substantial impact on all MDH
+business operations including BHA. MDH notified the Department of
+Information Technology’s (DoIT) Office of Security Management, which
+initiated incident response measures. The aforementioned incident and related
+controls will be subject to review as part of our next audit of the MDH Office of
+the Secretary and Other Units.
+The incident did not significantly impact our audit and we were able to obtain
+information needed to satisfy our audit objectives and related conclusions.
+Status of Findings from Preceding Audit Reports
+Based on our current assessment of significance and risk relative to our audit
+objectives, our audit included a review to determine the status of three of the four
+findings contained in our preceding audit report of BHA dated July 9, 2019; and
+three findings contained in our preceding audit report of MCPA ASO dated
+January 13, 2020.
+As disclosed in Figure 1, for the non-cybersecurity-related findings we
+determined three of these five findings were satisfactorily addressed. The
+remaining two findings are repeated in this report. The status of the remaining
+finding from the BHA report was previously determined during our separate audit
+of Prevention and Health Promotion Administration, Office of Population Health
+Improvement, Office of Preparedness and Response, and Office of Provider
+Engagement and Regulation, and reported upon in the resultant audit report dated
+February 23, 2021.
+1 As defined by the Federal Department of Homeland Security Cybersecurity and Infrastructure
+Security Agency, ransomware is an ever-evolving form of malware designed to encrypt files on a
+device, rendering any files and the systems that rely on them unusable. Malicious actors then
+demand ransom in exchange for decryption.
+8
+
+--- Page 11 ---
+Figure 1
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+Behavioral Health Administration
+BHA did not adequately monitor the Core Service Agencies,
+Local Addiction Authorities, and Local Behavioral Health
+Authorities to verify actual performance as required by the
+Finding 1 Not repeated
+grant agreements. In addition, BHA’s monitoring of the
+grantees did not ensure that the required mental health and
+substance use disorder services were provided to clients.
+BHA did not adequately monitor a State university
+administering a problem gambling program on behalf of BHA
+Finding 2 Not repeated
+to ensure the required public awareness services were
+provided.
+BHA did not monitor the State vendor responsible for
+Finding 3 providing care management services to children with intensive Not repeated
+needs and did not ensure payments to the vendor were proper.
+Medical Care Programs Administration Administrative Services Organization for
+Behavioral Health Services
+MCPA did not ensure that the ASO properly authorized
+Repeated
+Finding 1 behavioral health services and that the bases for the
+(Current Finding 3)
+authorizations were adequately documented.
+MCPA did not direct the ASO to recover certain provider
+overpayments identified during audits, did not ensure the ASO
+Repeated
+Finding 2 recovered overpayments once directed to do so, and did not
+(Current Finding 4)
+ensure that deficiencies identified by provider audits were
+corrected.
+MCPA did not have a process to verify that adjustments to Not repeated (Not
+Finding 3
+provider payments processed by the ASO were proper. followed up on)
+Intrusion detection prevention system coverage did not exist
+Status Redacted2
+Finding 4 for encrypted traffic, and sensitive personally identifiable
+information was stored without adequate safeguards.
+2 Specific information on the current status of this cybersecurity-related finding has been redacted
+from this publicly available audit report in accordance with State Government Article,
+Section 2-1224(i) of the Annotated Code of Maryland.
+9
+
+--- Page 12 ---
+Findings and Recommendations
+Administrative Service Organization (ASO)
+Background
+The ASO is responsible for determining behavioral health recipient eligibility,
+authorizing recipient services, paying provider claims, and performing oversight
+of providers to ensure the propriety and accuracy of claims and related services.
+In November 2018, the Medical Care Programs Administration (MCPA) solicited
+proposals for a new ASO contract. Responses were received from two vendors,
+including the incumbent ASO. In accordance with the terms of the request for
+proposal, bidder submissions were evaluated by a three-member evaluation
+committee, under an evaluative process established by Maryland Department of
+Health (MDH) that weighted the technical proposal higher than the financial
+proposal. Technical proposals were evaluated on four primary criteria, in order of
+importance:
+1. Statement/Understanding of scope of work to perform as an ASO for
+managing behavioral health integrated services in Maryland,
+2. Experience and qualifications of proposed staff,
+3. Offeror and subcontractor qualifications and capabilities, and
+4. Economic benefit to the State.
+These criteria were broken down into 36 sub-criteria where bidders were rated
+“poor”, “satisfactory”, “good”, “very good”, and “excellent” by each member of
+the evaluation committee. This served as the basis for the technical ranking of the
+proposals evaluated.
+MDH ultimately awarded the contract to the non-incumbent bidder whose
+proposal was rated “excellent” while the incumbent ASO’s proposal was rated
+“very good.” On June 12, 2019, the Behavioral Health Administration (BHA)
+contracted with the winning bidder to provide ASO services for the five-year
+period from January 1, 2020 to December 31, 2024, with one additional two-year
+option and a cumulative value of approximately $198.2 million, including the
+option years. The contract included a monthly administrative fee for each
+recipient eligible to receive behavioral health services and a fixed fee for other
+services provided by the vendor. According to State accounting records, as of
+August 2021 administrative fees paid to the ASO totaled $39.8 million.
+The new ASO uses the services of seven subcontractors to meet various contract
+requirements, as detailed in Figure 2.
+10
+
+--- Page 13 ---
+Figure 2
+ASO Service Subcontractor Schedule
+Subcontractor Description of Service(s)
+1 Provides the ASO with provider training initiatives.
+Provides specialty telephonic behavioral health services and
+2
+call center services for the ASO.
+Provides and maintains the claims processing system used
+3
+by the ASO and providers.
+Provides medical staffing services to enable the ASO to
+4
+fulfill the scope of work.
+Provides staffing services to enable the ASO to fulfill the
+5
+scope of work.
+Performs market research and assists the ASO with the
+6
+participant and provider survey and associated reporting.
+Disburses payments to behavioral health providers for
+7
+processed claims.
+Source: ASO proposal and MDH management
+Maryland Insurance Administration Report on ASO
+Subsequent to the completion of our fieldwork, the Maryland Insurance
+Administration issued a report on the ASO dated June 7, 2022 which identified
+issues with the timeliness of paying provider claims. Specifically, the report
+noted that the ASO did not pay certain claims within 30 days and the ASO did not
+pay providers the related interest as required by State law. In response, per the
+report, the ASO paid providers interest totaling $3.1 million and owed the
+providers an additional $631,933 in interest.
+Provider Impact, Concerns, and Complaints
+Maryland’s provider advocacy groups have publicly expressed concerns to MDH
+and the Maryland General Assembly regarding the lack of functionality of the
+new ASO’s system since the start of the contract. The concerns included the
+ASO’s inability to generate claim payment information using the healthcare
+industry standard reporting format, referred to as an “835 form” (discussed in
+finding 2) which is needed to post payments for services rendered and reconcile
+the estimated payments authorized by MDH (discussed further below). In
+addition there were continuing data integrity problems highlighted, with providers
+receiving payments or portal access for patients not associated with their specific
+practice. As a result, the providers claimed their staff has had to devote time and
+energy to address the issues attributed to the ASO. Ultimately, the provider
+groups have requested that the ASO replace the claims processing system
+currently in use due to its failure to resolve ongoing issues.
+11
+
+--- Page 14 ---
+Finding 1
+The MCPA evaluation of the ASO technical proposals was not sufficiently
+comprehensive or documented.
+Analysis
+The MCPA evaluation of the ASO technical proposals was not sufficiently
+comprehensive and documented. We reviewed MCPA procedures for evaluating
+the technical proposals for the vendors bidding for the ASO contract. Each of the
+vendors submitted a technical proposal that included extensive use of
+subcontractors.
+MCPA Did Not Evaluate Subcontractors’ Past Experience and Qualifications
+MCPA did not perform an independent comprehensive review of the past
+experience and qualifications of subcontractors responsible for performing critical
+work under the contract. Rather, MCPA relied upon a summary of qualifications
+of the proposed subcontractors submitted by each vendor bidding on the contract,
+which generally consisted of a few sentences. According to MCPA management,
+they did not obtain references or contact the proposed subcontractors – including
+the subcontractor identified as being responsible for the claims processing system.
+As a result, there was no independent attempt to obtain information or
+confirmation of the subcontractors’ ability to perform the required services.
+It is our belief that the sole reliance on bidder representations was a practice of
+questionable value in this circumstance given the significance of certain
+subcontractors’ responsibilities. Specifically, we were advised by the winning
+ASO bidder that it had only used the aforementioned claims processing
+subcontractor’s system at one locality with limited functionality compared to the
+extensive services being provided to Maryland. In addition, based on provider
+complaints we received during the audit, apparently three other localities had
+experienced performance issues with this subcontractor related to the
+development and implementation of claims processing systems (Figure 3).
+12
+
+--- Page 15 ---
+Figure 3
+Summary of Prior Work Experience (Subcontractor 3)
+Date Description
+A locality participated in a contract with the subcontractor in October
+2013 to develop a healthcare management information system. Despite
+November
+numerous attempts to fix many issues with the system, the locality
+2018
+withdrew from the contract in November 2018 because the
+subcontractor failed to provide a working system.
+The subcontractor provided a claims processing system for a local
+December Department of Mental Health. An audit found the system did not meet
+2007 the needs of the department and that programming and file format
+issues affected the department’s ability to conduct business.
+A locality entered into a contract with the subcontractor to develop a
+October claims system for mental health services. The locality paid the
+2006 subcontractor $4.6 million before terminating the contract in October
+2006 without implementing the new system.
+Sources: November 14, 2018 Ohio’s Alcohol, Drug Addiction and Mental Health Board of Cuyahoga County
+Resolution 18-11-01, December 2017 District of Columbia Office of the Inspector General Audit of the
+District of Columbia Department of Mental Health’s Program Management and Administration of Provider
+Reimbursements, February 19, 2009 California Healthline Daily Edition article Database Project for Medi-
+Cal Claims a Bust in Sacramento County
+Evaluations of ASO Bidders’ Experience Were Not Sufficiently Comprehensive
+Our review of the evaluations of the vendor awarded the ASO contract for past
+experience (considered under the “Offeror and subcontractor qualifications and
+capabilities” criterion) did not consider the nature of the past experience and were
+limited to the entities identified by the vendor in its bid documents.
+• MDH did not formally document that it considered the nature of the vendor’s
+past experience in relation to the services to be provided as Maryland’s ASO.
+Specifically, three of the four references provided by the winning bidder were
+from states and localities where the vendor operated as a Managed Care
+Organization (MCO) and was paid on a capitated3 payment basis. According
+to the references provided, only one locality received ASO services from this
+vendor totaling $21.2 million. In contrast, the incumbent ASO in its bid
+documents listed three states and localities where it operated as an ASO, with
+contracts ranging in value from $16.2 million to $87 million.
+3 A Managed Care Organization (MCO) is compensated for services through recurring capitation
+fees, such as monthly fees, paid for each member covered.
+13
+
+--- Page 16 ---
+• MDH did not document in its technical specification analysis that it
+considered concerns noted by one state government that had a $149 million
+contract with the winning bidder. Specifically, this state was included as a
+reference in the winning vendor’s bid documents, and responded to an
+individual conducting reference checks that the vendor struggled to manage
+detailed patient claim data and recommended that any agreement include the
+ability to assess daily penalties for missed deadlines. Furthermore, although
+these concerns were noted by the individual who contacted this reference,
+there was no documentation these concerns were considered when evaluating
+the bids by the ASO evaluation committee.
+Evaluation Forms Were Not Sufficiently Documented or Were Not Supported
+Based on our review of the three evaluation forms (one for each evaluator) we
+noted instances where the evaluation either was not clearly documented or did not
+support the rating.
+• Each of the three evaluations did not consider whether the ASO had sufficient
+controls over its information systems which was required by the request for
+proposals (RFP). In this regard, we noted the incumbent ASO provided a
+comprehensive response to the independent control review requirement while
+the winning vendor that received an overall higher rating only responded with
+"noted and agreed.” The RFP specified that limited responses to requirements
+such as "concur" or "will comply" will receive a lower ranking than those
+proposals that demonstrate an understanding and include plans to meet or
+exceed them.
+• The winning vendor’s ASO transition plan included in the proposal was rated
+“very good” despite indicating an eight-month transition period, even though
+the RFP provided for a shorter transition period of up to six months.
+Ultimately, the Board of Public Works questioned the winning vendor’s
+experience as an ASO, and its ability to perform satisfactorily considering the
+financial proposal submitted was $72.1 million lower than the incumbent ASO’s
+proposal. MDH responded that it had done “a lot of due diligence” in selecting
+the ASO. Subsequent events may have justified the Board’s questioning, as it is
+possible that the value of the anticipated savings resulting from awarding this
+contract to the current ASO ultimately may have been negated by various
+deficiencies (such as overpayments made to providers and lost federal income)
+identified in findings 2 and 6 of this report.
+14
+
+--- Page 17 ---
+Recommendation 1
+We recommend that for future procurements, MDH
+a. perform a comprehensive review of subcontractors performing critical
+services and vendor prior experience and ensure that the results are
+documented; and
+b. ensure that evaluations encompass all critical contract requirements, are
+clearly documented, and are supported by the vendor’s technical
+proposal.
+Finding 2
+MCPA did not ensure that the ASO’s claim processing system was
+functioning prior to launch, resulting in numerous system deficiencies that
+ultimately required the ASO to make $1.06 billion in estimated payments to
+providers, of which approximately $223.5 million has not been supported or
+recovered.
+Analysis
+MCPA did not ensure that the ASO’s claim processing system was functioning
+prior to its January 2020 launch, resulting in numerous system deficiencies that
+ultimately required the ASO to make $1.06 billion in estimated payments to
+providers, of which approximately $223.5 million has not been supported or
+recovered as of December 2021.
+MCPA Did Not Ensure the ASO System Was Functional Prior to Launch
+MCPA authorized the launch of the ASO claims processing system in January
+2020, even though critical system testing had not been completed. As a result, the
+system was launched without having previously identifed the system’s ability to
+perform critical functions, including the following:
+• The system could not process provider service authorization requests which
+ensure services provided to patients were medically necessary, met quality
+standards, and were provided in a cost effective manner. One of the main
+functions of the ASO was to review claims to determine whether they met the
+criteria for authorization. According to MCPA records, system defects related
+to service authorizations included, but were not limited to, providers being
+unable to upload supporting documentation, authorization requests being
+automatically denied improperly, and providers being unable to perform data
+entry to submit authorization requests. Although providers were required to
+maintain documentation to support the medical necessity of services, the ASO
+has not reviewed the claims to this provider documentation, therefore there
+was a lack of assurance that the claims were proper.
+15
+
+--- Page 18 ---
+• The system improperly denied valid claims (unrelated to medical necessity)
+submitted by providers. MCPA was unable to document the number and
+amount of claims that were improperly denied. However, we noted that paid
+claims in January 2020 (the ASO’s first month of the contract) totaled $65.8
+million compared to $103.5 million in January 2021. We were advised by
+MCPA management that the difference in claims paid was due to the
+improperly denied claims.
+• The system was unable to generate accurate claim payment information using
+the healthcare industry standard reporting form (referred to as an “835 form”)
+used by providers to perform basic reconciliations. Specifically, the 835 form
+used by the ASO did not reflect provider negative balances or accurate denial
+reason codes when claims were denied. We were advised by MCPA and ASO
+management that as of October 28, 2021, an accurate 835 form was being
+issued to providers. However, in December 2021 (two years into the new
+contract period), we were advised by a behavioral health provider advocacy
+group that certain providers had not received accurate 835 forms and that
+other providers received 835 forms with missing critical information, such as
+patient identifiers.
+• The ASO’s claims processing system was unable to properly process
+retroactive claims. Certain claims are processed pending approval of the
+recipient’s eligibilty using State general funds, and must be submitted for
+retroactive federal reimbursement once eligibility is approved. MCPA’s
+contract with the ASO required the system to account for federal rules
+allowing Medicaid coverage to be applied retroactively for up to three months.
+However, the ASO’s automated system did not have the capability to process
+these retroactive claims until February 2021, 13 months after the start of the
+contract.
+Furthermore, once the system was corrected, the ASO erroneously made
+another payment to the providers for these previously paid retroactive claims
+instead of submitting the original claims for federal reimbursement. MCPA
+could not readily quantify these duplicate payments, but identified provider
+credit balances (payments that exceeded reported expenditures), which as of
+August 2021 totaled approximately $102 million. MCPA management
+advised that a majority of these credit balances were caused by the duplicate
+payments. As of February 2022, MDH had only recovered $1.5 million of the
+duplicate payments and advised us that it directed the ASO not to recover the
+remaining payments due to other unspecified system payment processing
+issues. We were further advised by MCPA management personnel that the
+16
+
+--- Page 19 ---
+ASO corrected the claims processing system, but MCPA could not support
+this assertion.
+MDH Directed the ASO to Make $1.06 Billion in Estimated Payments
+Due to the aforementioned system deficiencies, during the period from Janurary
+23, 2020 through August 3, 2020 MDH directed the ASO to bypass the
+authorization process and make estimated payments to providers based on the
+prior year’s activity. According to MDH’s records the estimated payments totaled
+$1.06 billion. The providers have been subsequently providing claim data
+supporting actual claims. However, as of December 2, 2021 (16 months after
+estimated payments were made), MDH reported that support or recoupment had
+still not been received for $223.5 million of the estimated payments made to
+2,107 providers.
+MDH management initially planned on waiving $3.5 million relating to
+unsupported payments of less than $25,000. Subsequently, MDH obtained
+deficiency appropriations of approximately $13 million to fund the forgiveness of
+unsupported payments of less than $25,000. We were further advised that MDH
+is working with providers to recoup the remaining unsupported estimated
+payments. This condition was also disclosed in our report on the Statewide
+Review of Budget Closeout Transactions for Fiscal Year 2021.
+Recommendation 2
+We recommend that MDH ensure the ASO
+a. corrects system deficiencies, including those noted above;
+b. reviews all claims processed during the period that authorization
+requirements were lifted to ensure services were medically necessary and
+properly documented; and
+c. recovers any improper payments due to retroactive claims processing
+problems and the remaining estimated payments that have not been
+supported.
+Finding 3
+MDH did not conduct audits to ensure that the ASO properly authorized
+behavioral health services.
+Analysis
+MDH did not conduct audits to ensure that the ASO properly authorized
+behavioral health services. According to MDH written procedures, BHA
+personnel are to conduct annual audits of the ASO to verify the propriety of ASO
+behavioral health services authorizations. Our review disclosed that BHA only
+17
+
+--- Page 20 ---
+performed one audit that covered calendar years 2017 and 2018, and the first two
+quarters of calendar year 2019.
+However, as of September 2021 this audit had not been finalized, and therefore no
+corrective action had been initiated to address deficiencies identified in the audit.
+MDH management advised us that since it transitioned to a different ASO in
+January 2020, the results were considered irrelevant and not communicated to
+either vendor. No audits were performed of calendar year 2020 and 2021 claims
+activity and MDH did not plan on starting these audits until 2022. MDH
+management advised that the delay in these audits was due to complications
+encountered with the new ASO.
+The lack of timely audits is significant because the aforementioned audit (which
+had not been finalized) identified certain authorized services for which the
+medical necessity of services and the clients’ diagnoses were not documented.
+We could not readily determine whether these conditions resulted in improper
+payments to providers. Similar conditions were noted in our prior audit report of
+the MCPA ASO for behavioral health services.
+Recommendation 3
+We recommend that MDH ensure that the ASO properly authorized
+behavioral health services and that the bases for the authorizations were
+adequately documented. Specifically, we recommend that MDH ensure that
+a. BHA personnel conduct audits of the ASO at least annually (repeat), and
+b. appropriate corrective action is taken to address deficiencies identified by
+these audits (repeat).
+Finding 4
+MCPA and BHA did not ensure that the ASO performed a sufficient number
+of provider audits, that the audits included financially material and current
+transactions, and that any overpayments and deficiencies identified were
+corrected.
+Analysis
+MCPA and BHA did not ensure that the ASO performed a sufficient number of
+provider audits, that the audits included financially material and current
+transactions, and that any overpayments were recovered and deficiencies
+identified were corrected. Under the contract terms, the ASO is to audit clinical
+and financial records of providers to ensure patient medical records agree to paid
+claims, to identify and resolve overpayments, identify potential fraud or abuse by
+18
+
+--- Page 21 ---
+providers, and monitor providers who have filed claims with insufficient
+supporting documentation.
+• MCPA and BHA did not ensure the ASO completed 370 provider audits
+annually as required by the contract. In this regard, the ASO did not begin
+performing audits until September 2020, 9 months after the contract
+commenced, and MCPA allowed the ASO to conduct the required 1,110
+audits for a collective 3 year period ending December 2022, rather than the
+required number of audits for annual periods (that is, 370 audits each calendar
+year). However, per a listing of audits conducted that was provided to us by
+the ASO as of November 2021, we determined that only 211 audits (or 19
+percent) of the 1,110 audits had been completed. In addition, the audits
+conducted were of less material providers. Specifically, our review of the 193
+providers associated with the aforementioned 211 audits for the period of
+January 1, 2020 through March 31, 2021, disclosed that these providers only
+accounted for approximately 6 percent of the total claims paid. MCPA and
+BHA did not have a plan in place to ensure the remaining 889 audits would be
+conducted in the next 13 months. As a result of the condition described in the
+next bullet, the value of the audit process is greatly diminished by not
+requiring timely audits of current or recent provider activity.
+• MCPA did not require the ASO to audit current transactions. Specifically, as
+of November 2021, the ASO had been allowed to exclusively audit older
+transactions that occurred prior to January 1, 2020 under the prior ASO. We
+were advised by MCPA management that due to the complications
+experienced during the transition and implementation of the new ASO, it was
+determined that claims data for calendar year 2020 and 2021 related to the
+current ASO could not be relied upon for audit purposes.
+• MCPA did not direct the ASO to recover outstanding overpayments identified
+during provider audits, including amounts identified during audits performed
+by the prior ASO. Specifically, we were advised by MCPA management that
+due to issues with the ASO transition, the current ASO had not been directed
+to recover such overpayments. Based on agency records, as of February 2022
+outstanding overpayments identified during provider audits totaled $2.1
+million, including $1.2 million identified by the prior ASO.
+• BHA did not verify that deficiencies (such as, failure to maintain client
+records in accordance with State regulations) identified during provider audits
+were resolved. Providers were required to submit a Program Improvement
+Plan (PIP) to the ASO identifying processes to reduce the likelihood of the
+deficiency. BHA did not establish a documented process for monitoring
+19
+
+--- Page 22 ---
+provider compliance with PIPs and instead relied on the Local Behavioral
+Health Authorities4 to monitor provider compliance. Since BHA did not
+monitor the local authorities’ completion of this process, there was a lack of
+assurance that the deficiencies were properly resolved.
+Similar conditions regarding the failure to ensure provider overpayments were
+recovered were commented upon in our preceding audit report of MCPA ASO. In
+addition, similar conditions regarding the failure to ensure corrective actions were
+taken were commented upon in our preceding two audit reports of MCPA ASO.
+Recommendation 4
+We recommend that MDH
+a. ensure the ASO develops a realistic plan so that provider audit
+requirements are completed within the timeframe provided and annually
+thereafter,
+b. ensure that the provider audits include claims processed by the current
+ASO and the materiality of payments is considered in provider selection,
+c. timely direct the ASO to recover overpayments identified during audits
+(repeat), and
+d. develop and implement a process to monitor provider PIPs to ensure
+noted deficiencies are properly addressed (repeat).
+We determined that Finding 5 related to “cybersecurity”, as defined by the State
+Finance and Procurement Article, Section 3A-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with MDH’s responses, have been redacted from this
+report copy.
+Finding 5
+Redacted cybersecurity-related finding.
+4 Local Behavioral Health Authorities are local health departments or private contractors that are
+responsible for planning, managing, and monitoring certain publicly funded mental health and
+addiction services.
+20
+
+--- Page 23 ---
+Finding 6 (Policy Issue)
+A lack of ASO vendor compliance with a certain contract requirement
+prevented MCPA from obtaining enhanced federal funding.
+Analysis
+The ASO vendor’s failure to comply with a certain contract requirement
+prevented MCPA from obtaining enhanced federal funding. The contract
+required the ASO to implement certain operational best practices prescribed by
+the federal government, which would enable the State to obtain federal
+reimbursement of significant costs. Specifically, the contract required the vendor
+to complete an information technology related implementation plan to meet the
+specified best practices by the ASO’s launch date of January 1, 2020. Although,
+the ASO provided an implementation schedule, as of January 2022 it had failed to
+fully implement the plan.
+Compliance with these practices would allow MDH to pursue federal approval of
+its ASO process, making MDH eligible for reimbursement at 75 percent of
+maintenance and operation costs instead of the regular 50 percent federal fund
+reimbursement rate. Based on our calculations, this would result in an additional
+$28.8 million in federal funding over the course of the contract.
+In January 2022, MCPA decided that it would no longer pursue federal approval
+due to the ASO’s ongoing inability to comply with the practices and therefore
+would forego the enhanced federal funding. This decision will also require the
+return of prior federal reimbursed funding. Our review disclosed that MDH had
+erroneously requested reimbursement for 75 percent of these costs, resulting in
+$5.8 million in federal funding that needs to be reverted to the federal government
+and may need to be funded with State general funds. Finally, MDH had
+previously withheld $4.4 million from the ASO related to the implementation plan
+issue, however this would not compensate MDH for the full loss of the enhanced
+federal funds.
+Recommendation 6
+We recommend that MDH reevaluate its decision to not pursue completion
+of the ASO implementation plan and pursue federal approval with its
+enhanced federal funding.
+21
+
+--- Page 24 ---
+Finding 7
+MCPA did not timely investigate and resolve claims paid by the ASO for
+which federal reimbursement was denied or approved for a different amount
+than the amount paid.
+Analysis
+MCPA has not established a process to timely investigate claims paid by the
+current ASO that were denied or approved for a different amount (discrepant) by
+the federally certified Medicaid Management Information System (MMIS II).5
+Further, reports generated by the ASO to investigate these claims were not always
+reliable, contributing to a lack of assurance that federal reimbursement was
+maximized and proper. The ASO is responsible for initially receiving and
+processing provider claims through its claim processing system. Once a claim has
+been processed and paid by the ASO, it is submitted to MMIS II and subject to
+the claim processing edits that are intended to ensure only eligible claims are
+submitted for federal reimbursement.
+Although MCPA has worked with the ASO to investigate denied and discrepant
+claims, according to MDH’s records, as of September 10, 2021 there were
+approximately 292,000 unresolved denied claims requiring investigation totaling
+approximately $106.7 million (including $1.5 million and $36.1 million from the
+first and second quarters in calendar year 2020, respectively). In addition, there
+were 388,000 discrepant claims, including claims paid by the ASO that exceeded
+the Medicaid rate totaling more than $13.8 million and approximately 31,000
+claims totaling more than $4.0 million where the amount paid by the ASO was
+lower than the Medicaid rate.
+MCPA management advised it relied on reports generated by the ASO to identify
+and resolve denied and discrepant claims. However, we found, and MCPA
+management acknowledged, that these ASO generated reports were not always
+reliable and sometimes included incorrect data. Timely pursuit of a resolution to
+these claims is critical, since federal regulations only provide two years from the
+calendar quarter a claim was paid by the State to request federal reimbursement.
+Federal reimbursement for eligible claims is normally at least 50 percent of the
+amount paid. We were advised by MDH management that resolving the denied
+and discrepant claims was not a priority because they were focused on more
+significant issues, such as, recouping provider overpayments.
+5 MDH uses MMIS II to process paid claims for federal reimbursement. In addition, although
+provider payments for behavioral health services are issued by the ASO, MMIS II is used to pay
+providers for other Medicaid programs that operate on a fee-for-service basis.
+22
+
+--- Page 25 ---
+Recommendation 7
+We recommend that MDH
+a. take immediate action to ensure denied and discrepant claims are timely
+investigated, resolved, and federal reimbursement recovered; and
+b. ensure the ASO generates accurate reports of denied and discrepant
+claims.
+Finding 8
+MDH had not developed a formal policy on the assessing of liquidated
+damages and did not assess up to $20.5 million in liquidated damages
+permitted by the ASO contract despite the vendor’s ongoing failure to
+provide an operational system or comply with certain requirements.
+MDH had not developed a formal policy on the assessing of liquidated damages
+and did not assess up to $20.5 million in liquidated damages that were permitted
+by the terms of the ASO contract, despite the vendor’s ongoing failure to provide
+an operational system or comply with certain requirements.
+• The ASO contract permitted MDH to assess liquidated damages of $25,000 a
+day for the ASO’s failure to be operational to the point of service6 at the
+January 1, 2020 launch date. In December 2020, MDH informed the ASO
+that it had still not provided MDH a functional system because it was unable
+to generate accurate 835 forms. As noted in Finding 2, deficiencies with the
+835 forms were ultimately not rectified until October 2021. Therefore, based
+on our calculations, MDH could have assessed the ASO liquidated damages
+totaling up to $16.7 million for not providing a functional system.
+• The contract authorized MDH to assess liquidated damages of $5,000 a day if
+the ASO failed to follow the approved implementation plan for compliance
+with specified requirements. As of January 2022, we were advised by MDH
+management that the ASO had not met these requirements since
+commencement of the contract. Therefore, based on our calculations, as of
+January 2022, MDH could have assessed the ASO liquidated damages totaling
+approximately $3.8 million.
+MDH did not assess these liquidated damages as of the time of our review, nor
+had it established a formal policy on the assessment of liquidated damages to aid
+in determining the appropriateness of assessing such damages (such as conditions
+6 The ASO contract defines operational to the point of service as “where 835 forms, eligibility
+files, and provider files are accepted for operations and claims payment, priority reports, bank
+and financial reports are available.”
+23
+
+--- Page 26 ---
+requiring damages and how to determine the amount of damages to be pursued).
+Rather, MDH had assessed certain charges for the ASO’s failure to meet specified
+performance measures. MDH executive management advised that it has not
+assessed liquidated damages because it was concerned that such actions would
+discourage the ASO from resolving noted defects. We were further advised that
+MDH was concerned that the ASO may not pay the damages without litigation
+which may have an uncertain outcome. The State of Maryland Procurement
+Manual states that liquidated damages allow for compensation upon a specific
+breach of contract when actual damages may be difficult to ascertain.
+Recommendation 8
+We recommend that MDH develop a formal policy on the assessment of
+liquidated damages, including criteria for conditions warranting damages
+and the determination of the amount to be assessed. Further, MDH should
+assess liquidated damages as provided for in the ASO contract in accordance
+with that policy for long-standing periods of non-compliant performance,
+including those identified above.
+Procurement
+Finding 9
+MDH circumvented State procurement regulations to obtain information
+technology (IT) consulting services totaling approximately $19.8 million from
+one vendor.
+Analysis
+MDH circumvented State procurement regulations to obtain several, sometimes
+related, IT consulting services totaling approximately $19.8 million from one
+vendor. We concluded that MDH obtained these services by improperly using a
+combination of interagency agreements (IA) with Core Service Agencies (CSA) ,7
+grant agreements, sole source contracts, and a Department of Information
+Technology (DoIT) master contract (See Figure 4).
+7 Core Service Agencies are designated county or multi-county authorities, such as a local health
+department or a private contractor, responsible for planning, managing, and monitoring certain
+publicly funded mental health services.
+24
+
+--- Page 27 ---
+Figure 4
+IT Consulting Services Vendor
+Contracts and Agreements
+Fiscal Years 2018 – 2026
+Agreement Total Paid as of
+Agreement Type Term
+Total 10/28/21
+1 IA with CSA 7/1/17-6/30/18 $634,200 $634,200
+2 IA with CSA 7/1/17-6/30/18 873,600 873,600
+3 IA with CSA 7/1/18-6/30/19 655,200 655,200
+4 IA with CSA 7/1/18-6/30/19 873,600 873,600
+5 Grant Agreement 7/1/19-6/30/21 836,854 831,230
+6 Grant Agreement 7/1/19-6/30/21 776,498 761,481
+Sole Source
+7 7/1/19-6/30/21 2,279,039 2,265,922
+Procurement
+8 DoIT Master Contract 7/1/20-6/30/21 312,000 312,000
+9 DoIT Master Contract 7/1/21-2/28/26 12,600,000 675,000
+Total $19,840,991 $7,882,233
+Source: MDH agreements, grants, contracts, and State accounting records
+• MDH used four IA’s with two CSAs to obtain IT consulting services from the
+same vendor, circumventing State procurement regulations and the
+competitive procurement process. Specifically, MDH directed the CSAs to
+procure services on behalf of MDH, which included creating the groundwork
+for the development of a business intelligence dashboard and various data
+analysis and programming activities. According to agency records, MDH
+paid the two CSAs $3 million in fiscal years 2018 and 2019 for services
+performed by the vendor.
+• MDH paid the vendor approximately $1.6 million in fiscal years 2020 and
+2021 without competitively procuring the services. The services were
+procured using funds from a federal grant with BHA to develop business
+intelligence dashboards for MDH’s mental health and substance use disorder
+services. Rather than competitively procuring the contract, MDH issued a
+grant to the vendor because it did not believe that a competitive procurement
+was necessary since the vendor was specifically identified in the federal grant.
+However, the federal grant application submitted by BHA did not specify that
+the services from this vendor were not competitively procured.
+State procurement laws and regulations do not exempt procurements made
+using grant funds from State procurement regulations. However, we
+acknowledge that while comprehensive laws and regulations are in place for
+25
+
+--- Page 28 ---
+all aspects of contract procurement and administration, similar laws and
+regulations are not in place for grants to help safeguard the State’s interests.
+• MDH awarded a two-year sole source contract for $2.3 million to the vendor
+to provide technical and operational support to assist with ASO
+implementation, ongoing day-to-day functions, and support for the Medicaid
+program’s oversight of the ASO. Although MDH prepared a sole source
+justification, it did not document that no other vendors were available to
+provide these services as required by State procurement regulations. Rather,
+the justification stated the vendor was selected because it had essential subject
+matter expertise and experience and that the vendor’s pricing was below
+market rates based on a comparison of labor rates from a State Consulting and
+Technical Services Task Order Request for Proposal. This award was
+approved by the State Board of Public Works on June 19, 2019.
+• MDH directed a contractor under a DoIT master contract to use the vendor for
+IT services on behalf of MDH. The use of the statewide contract in this
+manner circumvented State procurement regulations and resulted in MDH
+paying administrative fees to the statewide contractor. If all options of the
+work orders are exercised, administrative fees will total $2.8 million for the
+two work orders totaling $15.7 million.
+• In addition, by using the aforementioned IA’s with CSA and grant
+agreements, MDH circumvented State procurement regulations requiring
+approval by the Board of Public Works. Furthermore, MDH did not obtain
+Board of Public Works approval for the aforementioned work orders related to
+the DoIT master contract, as required.
+State procurement regulations generally require a formal written competitive
+procurement for procurements exceeding $15,000, and control agency approval
+such as by the Board of Public Works, for larger procurements. Without
+competitive procurement, there is no assurance that the services provided
+represent the best value to the State.
+Recommendation 9
+We recommend that MDH comply with State procurement regulations by
+adequately documenting the justification for sole source procurements,
+publicly soliciting competitive proposals, publishing contract awards,
+executing written contracts, and obtaining control agency approval for
+procurements, where applicable.
+26
+
+--- Page 29 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the following units of the
+Maryland Department of Health (MDH) for the periods indicated:
+• Behavioral Health Administration (BHA) for the period beginning
+November 13, 2017 and ending June 30, 2021.
+• Medical Care Program Administration (MCPA) Administrative Service
+Organization (ASO) for Behavioral Health Services for the period
+beginning January 1, 2019 and ending June 30, 2021.
+The audit was conducted in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to
+obtain sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. We believe that the
+evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine the respective
+MDH units’ financial transactions, records and internal control, and to evaluate its
+compliance with applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included procurement, the monitoring of ASO contract
+deliverables, claims processing (including denied claims), provider audits, and
+monitoring of grant and contract provisions. We also determined the status of
+three findings included in our preceding audit report of BHA and three findings
+included in our preceding audit report of MCPA ASO.
+Our audit did not include certain support services provided by MDH’s Office of
+the Secretary. These support services (such as payroll, maintenance of accounting
+records, and related fiscal functions) are included within the scope of our audit of
+the MDH - Office of the Secretary and Other Units. In addition, a separate audit
+of the State’s behavioral health hospital centers is performed by our office.
+Therefore, the activities of these hospitals were not included in the scope of our
+audit.
+Our audit did not include an evaluation of internal controls over compliance with
+federal laws and regulations for federal financial assistance programs and an
+assessment of compliance with those laws and regulations by MDH and its units
+27
+
+--- Page 30 ---
+because the State of Maryland engages an independent accounting firm to
+annually audit such programs administered by State agencies.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period, as detailed above for the units audited, but may include transactions before
+or after this period as we considered necessary to achieve our audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel (including certain ASO employees), inspection of
+documents and records, tests of transactions, and to the extent practicable,
+observations of BHA and MCPA operations. Generally, transactions were
+selected for testing based on auditor judgement, which primarily considers risk,
+the timing or dollar amount of the transaction, or the significance of the
+transaction to the area of operation reviewed. As a matter of course, we do not
+normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during the
+audit. We also extracted data from MDH’s ASO system for the purpose of testing
+compliance with the ASO contract provisions. We performed various tests of the
+relevant data and determined that the data were sufficiently reliable for the
+purposes the data were used during the audit. Finally, we performed other
+auditing procedures that we considered necessary to achieve our objectives. The
+reliability of data used in this report for background or informational purposes
+was not assessed.
+MDH’s management at the respective units is responsible for establishing and
+maintaining effective internal control. Internal control is a process designed to
+provide reasonable assurance that objectives pertaining to the reliability of
+financial records; effectiveness and efficiency of operations, including
+safeguarding of assets; and compliance with applicable laws, rules, and
+28
+
+--- Page 31 ---
+regulations are achieved. As provided in Government Auditing Standards, there
+are five components of internal control: control environment, risk assessment,
+control activities, information and communication, and monitoring. Each of the
+five components, when significant to the audit objectives, and as applicable to the
+respective MDH units, were considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect the respective MDH units’ ability to maintain reliable financial
+records, operate effectively and efficiently, and/or comply with applicable laws,
+rules, and regulations. Our report also includes findings regarding a significant
+instance of noncompliance with applicable laws, rules, or regulations. Other less
+significant findings were communicated to the respective MDH units that did not
+warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3A-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation”. Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+29
+
+--- Page 32 ---
+communicated to MDH and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+As a result of our audit, we determined that MDH’s accountability and
+compliance level was unsatisfactory. The primary factors contributing to the
+unsatisfactory rating were the number and significance of our audit findings,
+including the number of findings repeated from our preceding audit report. Our
+rating conclusion has been made solely pursuant to the aforementioned law and
+rating guidelines approved by the Joint Audit Committee. The rating process is
+not a practice prescribed by professional auditing standards.
+The response from MDH, on behalf of BHA and MCPA, to our findings and
+recommendations, is included as an appendix to this report. Depending on the
+version of the audit report, responses to any cybersecurity findings may be
+redacted in accordance with State law. As prescribed in the State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise MDH
+regarding our review of its response.
+30
+
+--- Page 33 ---
+APPENDIX
+October 20, 2022
+Mr. Gregory A. Hook, CPA
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+Dear Mr. Hook:
+Enclosed, please find the Maryland Department of Health’s responses and attachments to the
+draft audit report on the Maryland Department of Health –Behavioral Health Administration –
+Medical Care Program Administration – Administrative Service Organization Audit for the
+period beginning January 1, 2019 and ending June 30, 2021.
+If you have any questions, please contact Frederick D. Doggett at 410-767-0885 or email at
+frederick.doggett@maryland.gov.
+Sincerely,
+Dennis R. Schrader
+Secretary
+Enclosure
+cc: Frederick D. Doggett, Director, Ofc. of Internal Controls, Audit Compliance & Security,
+Steven R. Schuh, Deputy Secretary, Health Care Financing Admin & Medicaid Director
+Lisa Burgess, M.D., Acting Deputy Secretary, Behavioral Health Administration
+Jake Whitaker, Chief of Staff, Behavioral Health Administration
+Tricia Roddy, Deputy Medicaid Director
+Warren Waters, Jr., Chief of Staff, Health Care Financing Administration & Medicaid
+
+--- Page 34 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Administrative Service Organization (ASO)
+Finding 1
+The MCPA evaluation of the ASO technical proposals was not sufficiently comprehensive
+or documented.
+We recommend that for future procurements, MDH
+a. perform a comprehensive review of subcontractors performing critical services and
+vendor prior experience and ensure that the results are documented; and
+b. ensure that evaluations encompass all critical contract requirements, are clearly
+documented, and are supported by the vendor’s technical proposal.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1a Agree Estimated Completion Date: 12/31/2024
+Please provide details of Since the BHASO contract was awarded in 2019, MDH has made
+corrective action or significant changes that will enhance all future procurements and will
+explain disagreement. ensure better and more rigorous pre-award review, especially of
+contractor-proposed technology. Chief among these changes is the
+creation of the Office of Contract Management and Procurement
+(OCMP), which has an enhanced role in the review and approval of
+contract bids. MDH implemented a new IT project and fiscal
+management policy in August 2022.
+The MDH Office of the Secretary will confer and coordinate with the
+Department of General Services (DGS) and its Office of State
+Procurement on developing and implementing a contract
+administration/management process as well as any attendant interim
+departmental policies by December 31, 2022. As part of any policies or
+procedures, we will include a section on the topic of liquidated damages.
+We will continue to work to improve service level agreements
+requirements and other contract management mechanisms in
+forthcoming requests for procurement that are in process. In addition, we
+will research contract administration and management national best
+Page 1 of 15
+
+--- Page 35 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+practices to include in these policies and procedures. We will solicit and
+consult with the Office of Legislative Auditors and the Office of State
+Procurement for assistance in this process.
+As described in our Joint Chairmen’s Report on this subject (submitted
+September 13, 2022 to the Department of Legislative Services), we
+intend to have a new contract for the next Behavioral Health
+Administrative Services Organization approved by the Board of Public
+Works by the first half of 2023. The current contract ends on December
+31, 2024.
+The next BHASO RFP will include a greater number of graduated
+penalties for contractor performance to ensure they effectively manage
+their subcontractors as well as a drastically expanded set of service level
+agreements (SLAs) to ensure a greater flexibility of contract
+administration and management.
+Recommendation 1b Agree Estimated Completion Date: 12/31/2024
+Please provide details of Please see the MDH response to Recommendation 1a, above.
+corrective action or
+explain disagreement.
+Page 2 of 15
+
+--- Page 36 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Finding 2
+MCPA did not ensure that the ASO’s claim processing system was functioning prior to
+launch, resulting in numerous system deficiencies that ultimately required the ASO to
+make $1.06 billion in estimated payments to providers, of which approximately $223.5
+million has not been supported or recovered.
+We recommend that MDH ensure the ASO
+a. corrects system deficiencies, including those noted above;
+b. reviews all claims processed during the period that authorization requirements were
+lifted to ensure services were medically necessary and properly documented; and
+c. recovers any improper payments due to retroactive claims processing problems and the
+remaining estimated payments that have not been supported.
+Agency Response
+Analysis Factually Accurate
+Please provide Update as of June 1, 2022, $201.5 million has not been reconciled or
+additional comments as recovered, although reconciliation is still occurring daily, along with
+deemed necessary. reprocessing and review of all denials for the estimated payment period.
+Please see the Joint Chairmen’s Report submission with the most recent
+updated number, where the total estimated payments has decreased to
+$146 million (as of September 13, 2022). This amount is expected to
+further decrease in Fall-Winter 2022. Any remaining amounts still owed
+by 12/31/2023 will be sent to CCU for collections.
+Recommendation 2a Agree Estimated Completion Date: 12/31/2024
+Please provide details of As noted in the response to Finding 1, MDH has made significant
+corrective action or changes that will apply to all future procurements and contracts
+explain disagreement. administration & management.
+MDH is using all available resources to work with the current vendor to
+address system deficiencies. Meetings both with and about the contractor
+occur daily, and subject-matter experts are engaged in all oversight
+activities to move the Contractor to correct their system deficiencies.
+Page 3 of 15
+
+--- Page 37 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Recommendation 2b Agree Estimated Completion Date: 12/31/2023
+Please provide details of Services that were rendered solely during that time period that did not
+corrective action or precede or have an authorization repeated after that six month period
+explain disagreement. will be reviewed for medical necessity in future audits, but no later than
+12/31/2023, presuming all reconciliation has occurred.
+Recommendation 2c Agree Estimated Completion Date: 12/31/2023
+Please provide details of MDH’s approach to obtaining the recoveries involves: 1) reconciliation
+corrective action or of any outstanding denials for the estimated payment period; 2)
+explain disagreement. recoupment of all overpayments from both the estimated payment
+period; and 3) recoupment of duplicate payments or other payments
+made in error that resulted in the accumulation of a negative balance; 4)
+referral to central collections (CCU) for those providers not accounted
+for in 1 through 3. MDH expects to complete these efforts by
+12/31/2023.
+Page 4 of 15
+
+--- Page 38 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Finding 3
+MDH did not conduct audits to ensure that the ASO properly authorized behavioral health
+services.
+We recommend that MDH ensure that the ASO properly authorized behavioral health
+services and that the bases for the authorizations were adequately documented.
+Specifically, we recommend that MDH ensure that
+a. BHA personnel conduct audits of the ASO at least annually (repeat), and
+b. appropriate corrective action is taken to address deficiencies identified by these audits
+(repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3a Agree Estimated Completion Date: 12/31/2022
+Please provide details of The first medical necessity criteria audit of the current BHASO has been
+corrective action or completed and findings were shared on July 11, 2022. The overall scores
+explain disagreement. for 2020 and 2021 were “meet standards” and “exceed standards”
+respectively. All appropriate action will be taken to address any
+deficiencies identified in the audits. Hereafter, annual audits will be
+scheduled for February and will include review of the previous calendar
+year. In addition, for ongoing quality assurance prior to the next BHA
+audit, in 2023, the BHASO medical director on a quarterly basis will
+oversee a random audit of at least 100 authorizations. It is noted that an
+audit of service authorizations by the BHASO for the first half of 2020
+did not occur because services were not reviewed and authorized by the
+BHASO but had to initially be auto-authorized because of the problems
+with their launch.
+Recommendation 3b Agree Estimated Completion Date: 12/31/2022
+Please provide details of MDH will document a corrective action plan for all findings noted in the
+corrective action or audit completed in July 2022. A follow-up by BHA and Medicaid will
+explain disagreement. be scheduled with BHA/ASO immediately thereafter, with corrective
+actions implemented by 12/31/2022. The RFP for the next BHASO will
+be revised to avoid the scenarios that contributed to the issues that led to
+Page 5 of 15
+
+--- Page 39 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+this finding, such as an extension of the go-live testing period, more
+robust transitions between ASOs, and a requirement for completion of
+audits by an outgoing ASO.
+Page 6 of 15
+
+--- Page 40 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Finding 4
+MCPA and BHA did not ensure that the ASO performed a sufficient number of provider
+audits, that the audits included financially material and current transactions, and that any
+overpayments and deficiencies identified were corrected.
+We recommend that MDH
+a. ensure the ASO develops a realistic plan so that provider audit requirements are
+completed within the timeframe provided and annually thereafter,
+b. ensure that the provider audits include claims processed by the current ASO and the
+materiality of payments is considered in provider selection,
+c. timely direct the ASO to recover overpayments identified during audits (repeat), and
+d. develop and implement a process to monitor provider PIPs to ensure noted deficiencies
+are properly addressed (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: 12/31/2023
+Please provide details of Due to delays in the implementation of the ASO’s audit process,
+corrective action or Medicaid and BHA approved a plan for the ASO to conduct the total
+explain disagreement. minimum audit requirements for calendar years 2020 through 2022
+across the three calendar years instead of the amount required each
+calendar year. The ASO projected that it would complete a total of 1,050
+audits for mental health and substance use disorder providers, 60 audits
+for ABA providers, and 45 audits for Health Homes by the end of CY
+2022. MDH will seek best practices and consultation for assessing
+additional penalties for failure to meet the contract deliverables by the
+end of the full contract. MDH believes that this plan to complete audits
+through the end of CY 2023 is achievable if the ASO allocates
+appropriate resources, but also MDH will review progress at quarterly
+intervals and report in the subsequent QSRs if the deadline is not met.
+Even if the time frame is not met, the primary goal is that the ASO meets
+the volume of audits with factual and accurate data.
+Page 7 of 15
+
+--- Page 41 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Recommendation 4b Agree Estimated Completion Date: 12/31/2023
+Please provide details of MDH has requested several audits to include claims processed by the
+corrective action or BHASO. Because the BHASO is not yet able to produce reliably
+explain disagreement. validated claims from their reporting system, this approach will have to
+rely, at least initially, on selection of audit samples from provider
+caseloads and subsequent validation of claims. This approach will
+initially be taken with providers who have generated some reason for
+concern. The BHASO will also be required to increase the proportion of
+audits of licensed programs, rather than individual providers.
+Recommendation 4c Agree Estimated Completion Date: 12/31/2023
+Please provide details of The recovery of overpayments based on audits will be fully reinstated
+corrective action or once the recoupment of overpayments process has concluded, at least by
+explain disagreement. the beginning of 2023. When the retraction process is reinstated, MDH
+will direct the ASO to complete retractions each month. MDH will
+request payment records for five randomly selected audits each month to
+confirm recovery of overpayments.
+Recommendation 4d Agree Estimated Completion Date: 12/31/2023
+Please provide details of MDH developed a process to monitor Performance Improvement Plans
+corrective action or (PIPs) prior to the pandemic, but the resulting work changes, followed
+explain disagreement. by the State’s security incident, which affected the computing systems of
+most of the LBHAs, led to its interruption. A revised process is now
+being established that will require LBHAs to report on the progress of
+PIPs to the BHA Licensing and Compliance unit on at least a quarterly
+basis.
+Page 8 of 15
+
+--- Page 42 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+The Office of Legislative Audits (OLA) has determined that Finding 5 related to “cybersecurity”
+as defined by the State Finance and Procurement Article, Section 3A-301(b) of the Annotated
+Code of Maryland, and therefore is subject to redaction from the publicly available audit report
+in accordance with State Government Article 2-1224(i). Although the specifics of the finding,
+including the analysis, related recommendation(s), along with MDH’s responses, have been
+redacted from this report copy, MDH’s response indicated agreement with the finding and
+related recommendation(s).
+Finding 5
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 9 of 15
+
+--- Page 43 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Finding 6 (Policy Issue)
+A lack of ASO vendor compliance with a certain contract requirement prevented MCPA
+from obtaining enhanced federal funding.
+We recommend that MDH reevaluate its decision to not pursue completion of the ASO
+implementation plan and pursue federal approval with its enhanced federal funding.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 6 Agree Estimated Completion Date:
+Please provide details of While MDH agrees to continue to pursue the requirements traceability
+corrective action or matrix and the support that could lead toward CMS certification, there is
+explain disagreement. no evidence that leads us to believe that the current ASO vendor can
+attain CMS certification. We agree that it is a worthwhile goal, but
+achievement may not be within reach given the ongoing system issues
+with the current contractor during the life of the current contract.
+Page 10 of 15
+
+--- Page 44 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Finding 7
+MCPA did not timely investigate and resolve claims paid by the ASO for which federal
+reimbursement was denied or approved for a different amount than the amount paid.
+We recommend that MDH
+a. take immediate action to ensure denied and discrepant claims are timely investigated,
+resolved, and federal reimbursement recovered; and
+b. ensure the ASO generates accurate reports of denied and discrepant claims.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 7a Agree Estimated Completion Date: 12/31/2024
+Please provide details of Using claims analysis and findings produced by the MDH BHASO
+corrective action or Oversight contractor, MDH has continuously directed the ASO to review
+explain disagreement. and resolve denied and discrepant claims in a timely manner and federal
+reimbursement recovered.. This is an ongoing, daily, weekly, monthly
+effort that has required extensive effort to review. We plan to have a
+fully reconciled system prior to the end of the BHA/ASO base year
+period that includes all corrections to MMIS submissions.
+Recommendation 7b Agree Estimated Completion Date: 12/31/2024
+Please provide details of The MDH BHASO Oversight contractor is performing continuous
+corrective action or review and corrections of BHA/ASO’s historical and current claims and
+explain disagreement. authorizations. This is an ongoing, daily, weekly, monthly effort that has
+required extensive effort to review. Final reports of claims are reviewed
+in aggregate and compared against historical data, and each identified
+problem area is further investigated by the resources employed by the
+BHASO oversight contractor.
+Page 11 of 15
+
+--- Page 45 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Finding 8
+MDH had not developed a formal policy on the assessing of liquidated damages and did not
+assess up to $20.5 million in liquidated damages permitted by the ASO contract despite the
+vendor’s ongoing failure to provide an operational system or comply with certain
+requirements.
+We recommend that MDH develop a formal policy on the assessment of liquidated
+damages, including criteria for conditions warranting damages and the determination of
+the amount to be assessed. Further, MDH should assess liquidated damages as provided
+for in the ASO contract in accordance with that policy for long-standing periods of non-
+compliant performance, including those identified above.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 8 Disagree Estimated Completion Date: 12/31/2024
+Please provide details of Liquidated damages in a contract are not an effective way at ensuring the
+corrective action or state receives a working product for a mission critical healthcare services
+explain disagreement. system. In this instance, imposing liquidated damages on this vendor
+would have maximized the chances of litigation, adversarial working
+relationship, and further minimum performance by the vendor.
+The MDH Office of the Secretary will confer and coordinate with the
+Department of General Services (DGS) and its Office of State
+Procurement on developing and implementing a contract
+administration/management process as well as any attendant interim
+departmental policies by December 31, 2022. As part of any policies or
+procedures, we will include a section on the topic of liquidated damages.
+We will continue to work to improve service level agreements
+requirements and other contract management mechanisms in
+forthcoming requests for procurement that are in process. In addition, we
+will research contract administration and management national best
+practices to include in these policies and procedures. We will solicit and
+consult with the Office of Legislative Auditors and the Office of State
+Procurement for assistance in this process.
+Page 12 of 15
+
+--- Page 46 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+MDH has decided not to assess the $25,000 per day and $5,000 per day
+penalties at this time. Instead, other penalties have been applied, as
+follows: (i) MDH has withheld over $4 million in implementation funds
+in addition to SLAs which have resulted in $1,778,118 withheld to date.
+(ii) Recently, MDH penalized the BHASO for Security issues and has a
+$150K monthly penalty starting with the March invoice, with additional
+penalties pending until the Security issues are resolved. We remain
+committed to working with the current BHASO during this contract
+period to improve the system deficiencies. All appropriate penalties will
+continue to be applied for the duration of the contract.
+Auditor’s Comment: Despite agreeing with our findings related to the longstanding
+ASO performance issues, MDH refuses to assess liquidated damages in accordance with
+the contract based on several cited factors. In our opinion, MDH's position is contrary to
+the intent of State law (State Finance and Procurement § 13-218) that requires a provision
+for liquidated damages, as appropriate, in procurement contracts, which implies that
+damages are subject to assessment. In addition, MDH did not specifically agree to
+establish a formal policy on the assessment of liquidated damages, including criteria for
+conditions warranting damages and the determination of the amount to be assessed.
+Based on the issues identified with ASO contractual performance in this report and the
+lack of documented support for MDH’s justification for not assessing the liquidated
+damages, we stand by our finding and recommendation.
+Page 13 of 15
+
+--- Page 47 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+Procurement
+Finding 9
+MDH circumvented State procurement regulations to obtain information technology (IT)
+consulting services totaling approximately $19.8 million from one vendor.
+We recommend that MDH comply with State procurement regulations by adequately
+documenting the justification for sole source procurements, publicly soliciting competitive
+proposals, publishing contract awards, executing written contracts, and obtaining control
+agency approval for procurements, where applicable.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 9 Agree Estimated Completion Date: Need date
+Please provide details of MDH agrees, please see our previous responses to Findings 1 and 8
+corrective action or (repeated in relevant part below). We are taking further corrective steps,
+explain disagreement. which are currently in the procurement review process with the relevant
+state agency partners. Any additional public actions will be posted on
+eMaryland Marketplace Advantage (emma.maryland.gov).
+(Finding 1)
+Since the BHASO contract was awarded in 2019, MDH has made
+significant changes that will enhance all future procurements and will
+ensure better and more rigorous pre-award review, especially of
+contractor-proposed technology. Chief among these changes is the
+creation of the Office of Contract Management and Procurement
+(OCMP), which has an enhanced role in the review and approval of
+contract bids. MDH implemented a new IT project review policy in
+August 2022.
+The MDH Office of the Secretary will confer and coordinate with the
+Department of General Services (DGS) and its Office of State
+Procurement on developing and implementing a contract
+administration/management process as well as any attendant interim
+Page 14 of 15
+
+--- Page 48 ---
+Maryland Department of Health
+Behavioral Health Administration and Medical Care Programs Administration
+Administrative Service Organization for
+Behavioral Health Services
+Agency Response Form
+departmental policies by December 31, 2022. As part of any policies or
+procedures, we will include a section on the topic of liquidated damages.
+We will continue to work to improve service level agreements
+requirements and other contract management mechanisms in
+forthcoming requests for procurement that are in process. In addition, we
+will research contract administration and management national best
+practices to include in these policies and procedures. We will solicit and
+consult with the Office of Legislative Auditors and the Office of State
+Procurement for assistance in this process.
+As described in our Joint Chairmen’s Report on this subject (submitted
+September 13, 2022 to the Department of Legislative Services), we
+intend to have a new contract for the next Behavioral Health
+Administrative Services Organization approved by the Board of Public
+Works by the first half of 2023. The current contract ends on December
+31, 2024.
+Page 15 of 15
+
+--- Page 49 ---
+A T
+UDIT EAM
+Catherine M. Clarke, CPA, CIA, CFE
+Audit Manager
+James J. Podhorniak, CPA, CFE
+Senior Auditor
+Malik A. Farooq
+Paul A. McGrew
+Stacey D. Streett
+Staff Auditors

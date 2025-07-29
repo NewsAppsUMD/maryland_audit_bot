@@ -1,0 +1,268 @@
+Title: Maryland Department of Health - Medical Care Programs Administration - Follow-up Review Status
+Date: 05/07/2024
+Type: Special Reports and Letters
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=663ce861ff1f3f431bffd57b
+Extracted: 2025-06-19T23:15:21.151133
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+May 7, 2024
+Re: Audit of Maryland Department of Health –
+Medical Care Programs Administration
+Report Date: November 2, 2023
+The Honorable Laura Herrera Scott, M.D., Secretary
+Maryland Department of Health
+201 West Preston Street
+Baltimore, Maryland 21201
+Dear Secretary Herrera Scott:
+Our November 2, 2023 audit report of the Maryland Department of Health (MDH) –
+Medical Care Programs Administration (MCPA) determined that MCPA’s accountability and
+compliance level was unsatisfactory, based on our rating system. The rating system was
+established, in accordance with State Government Article, Section 2-1221, of the Annotated
+Code of Maryland, for the purpose of determining an overall evaluation of an agency’s fiscal
+accountability and compliance with State laws and regulations. In accordance with a policy
+approved by the Joint Audit and Evaluation Committee, the Office of Legislative Audits (OLA)
+performs a follow-up review of the status of the findings contained in any audit report that is
+rated unsatisfactory.
+To that end, in March 2024 we requested an implementation status from MDH for the
+findings included in the report in conjunction with the aforementioned policy. In response to
+our request, MDH’s Office of Internal Controls, Audit Compliance and Information Security
+(IAC/S) on behalf of MCPA, provided a status report, as of April 12, 2024.
+This public letter differs from the confidential letter previously provided to you, as
+detailed information in MDH’s status report deemed to be cybersecurity-related has been
+redacted in accordance with State Government Article Section 2-1224(i), of the Annotated Code
+of Maryland.
+The status report indicated that MDH estimated that the implementation of the necessary
+corrective actions for the eight non-cybersecurity-related findings would occur between June 30,
+
+--- Page 2 ---
+The Honorable Laura Herrera Scott, M.D., -2- May 7, 2024
+Secretary
+2024 and July 1, 2025. Consistent with State law, we have redacted the current status of the two
+cybersecurity findings from this public copy of the letter.
+Based on the current status reported by MDH’s IAC/S, OLA does not believe it would be
+an effective or efficient use of our resources to conduct a follow up review of the referenced
+MCPA audit report at this time. A copy of the aforementioned status report relating to the non-
+cybersecurity findings for MCPA is attached. OLA will request an updated status report from
+MDH in August 2024 and, based on the MDH implementation status contained therein, we will
+assess the practicality of conducting a follow-up at that time.
+Sincerely,
+Gregory A. Hook, CPA
+Legislative Auditor
+cc: Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Joint Audit and Evaluation Committee Members and Staff
+Senator William C. Ferguson IV, President of the Senate
+Delegate Adrienne A. Jones, Speaker of the House of Delegates
+Senator Guy J. Guzzone, Chair, Senate Budget and Taxation Committee
+Delegate Benjamin S. Barnes, Chair, House Appropriations Committee
+Governor Westley W. Moore
+Comptroller Brooke E. Lierman
+Treasurer Dereck E. Davis
+Attorney General Anthony G. Brown
+Secretary Helene T. Grady, Department of Budget and Management
+Erin K. McMullen, R.N., Chief of Staff, MDH
+Ryan B. Moran, Dr.P.H., Deputy Secretary Health Care Financing & Medicaid Director,
+MDH
+Tricia C. Roddy, Deputy Medicaid Director, MDH
+Frederick D. Doggett, Director, Internal Controls, Audit Compliance & Information
+Security, MDH
+Deneen Toney, Deputy Director, Internal Controls, Audit Compliance & Information
+Security, MDH
+Carlean Rhames-Jowers, Chief Auditor, Internal Controls, Audit Compliance &
+Information Security, MDH
+Secretary Katie Olson Savage, Department of Information Technology
+Greg S. Rogers, State Chief Information Security Officer, Department of Information
+Technology
+Victoria L. Gruber, Executive Director, Department of Legislative Services
+
+--- Page 3 ---
+Maryland Department of Health – Medical Care Programs Administration – Status Report as of April 12, 2024
+MCPA Primary Audit
+Audit Period - August 1, 2018 to March 31, 2022
+IAC/S Audit Follow-up
+Findings
+Recommendations
+Repeats
+Finding/Recommendation Responses Estimated IAC/S Comments
+Completion Date as
+of April 12, 2024
+Finding 1 - The Medical Care Programs Administration (MCPA) did not ensure that all referrals of potential
+third-party health insurance information were investigated and recorded in the Medicaid Management
+Information System (MMIS II), which could result in MCPA improperly paying claims that should have been
+paid by a third party.
+We recommend that MCPA ensure that
+a. all third-party health insurance information provided by its third-party liability vendor are interfaced with MMIS II, MDH is actively working on a plan of correction with a third party liability vendor and information technology staff 12/31/2024In progress. IAC/S will review upon completion.
+and to address the carrier text file interface. MCPA staff requested and received a master code file that was reviewed and
+sorted before being sent to the vendor for additional reviews. Any data discrepancies will be reconciled. MCPA staff
+have also requested a master file of codes that the vendor utilizes to have them added to the system. When the file is
+updated, MDH will conduct testing to ensure the interface is working as expected.
+b. all MCO insurance referrals are recorded into MMIS II timely (repeat). MCPA has hired and trained three contractual employees to address this 6/30/2024In progress. IAC/S will review upon completion.
+finding. The backlog for 2019-2021 has been addressed, and the 2022
+backlog was resolved by September 30, 2023. Continued progress on
+automating the referral process using the 270/271 format should resume
+once the carrier code file referenced above is resolved.
+Finding 2 - MCPA did not have effective processes to identify, prevent, and recover questionable Medicaid
+payments, including $7.1 million in payments on behalf of incarcerated and deceased recipients.
+We recommend that MCPA establish effective processes over questionable Medicaid payments. Specifically, MCPA
+should
+a. ensure that instances of recipients with missing SSNs are referred to DHS and the LHDs for investigation; Once the security incident was resolved, MDH resumed the review 6/30/2024In progress: IAC/S is developing a testing methodology.
+process. MCPA completed a comprehensive review of recipient cases
+with missing SSNs prior to the system incident. MCPA is now
+reviewing the missing SSN cases on a monthly cycle, and cases are
+being sent to the local health departments and the Department of Human Services for corrective action.
+MCPA continues to monitor the corrective action cases on a monthly basis.
+b. sufficiently document its reviews of investigations of questionable recipient eligibility (including instances of Once the security incident was resolved, MCPA began implementing a 7/1/2025In progress. IAC/S is reviewing the workaround process developed by Medicaid.
+recipients missing SSNs or receiving Medicaid benefits in other states) to support that proper corrective action was workaround process. MCPA will utilize a standalone platform that will
+taken (repeat); be implemented in March 2024 and will allow document reviews of
+investigations of questionable recipient eligibility to support that proper
+corrective action is taken timely.
+c. establish a process to identify, prevent, and recover improper fee-for service payments related to incarcerated Since the last audit, MDH has continued to improve efforts to identify 6/30/2024In progress - IAC/S is working with Medicaid to develop a testing methodology.
+recipients; and and prevent questionable Medicaid payments on behalf of incarcerated
+recipients by adding a weekly manual review process of near-matches
+for DOB and SSN. Moreover, MCPA is actively working with DPSCS to
+receive comprehensive incarceration data to accurately identify all
+incarcerated recipients. The ability to prevent improper fee-for-service
+payments related to incarcerated recipients remains challenging for the
+current MMIS infrastructure. MDH is the process of procuring a new
+modular MMIS. Therefore, the ability to identify, prevent, and recover
+Fee For Service payments to incarcerated individuals can be
+incorporated into the requirements for the new claims and /or eligibility
+modules.
+
+--- Page 4 ---
+Maryland Department of Health – Medical Care Programs Administration – Status Report as of April 12, 2024
+d. document its efforts to identify and remove deceased recipients from Medicaid and to investigate and pursue the MCPA runs the Death Match Report monthly and shares it with DHS, 8/1/2024In progress. IAC/S is working with Medicaid to develop a methodology for testing Medicaid's
+recovery of improper payments after the recipients’ dates of death, including those noted in the analysis. which investigates and initiates the closing in the system of record. investigation of potentially improper claims.
+Monthly, MCPA reviews a sample of cases. Cases needing to be closed
+are sent to DHS and the Local Departments of Health to initiate closing.
+MCPA monitors the corrective action plans monthly to ensure the
+closings are initiated. The process was stopped during the security
+incident but resumed on 07/2022.
+Additionally, due to the Public Health Emergency, the Centers for
+Medicare & Medicaid Services would not allow MCPA to close cases on
+households where the primary household member was deceased, as it
+would close the entire household. Redeterminations on these households
+have recommenced, and the primary deceased member is being removed
+from the household at their redetermination.
+Of the 15 cases that OLA identified that were deceased prior to medical
+services being rendered or capitation payments made on behalf of the consumer,
+MCPA determined two of the consumers remain alive and
+active. One case was unable to be closed because there was a minor child
+in the household and per COVID-19 Public Health Emergency rules, the
+case was required to remain active. This case is marked for further
+review during the household’s next renewal cycle. 12 cases were found
+to be deceased and to date, all payments made after the consumer’s date
+of date have been successfully recouped.
+Finding 3 - MCPA did not ensure that changes to recipient Medicaid eligibility information were processed
+timely and accurately.
+We recommend that MCPA
+ensure recipient eligibility information is updated timely and accurately, and that errors to recipient eligibility MCPA experienced work stoppage due to significant system disruptions, which were caused by the MDH security 1/31/2025In progress - 03/11/24 - Initial email sent with requests for information and data relating to
+information in MMIS II are corrected. incident on 12/4/21. During the security incident, MCPA was not able to complete normal operations and was finding 3 recommendations. IAC/S will work with Medicaid to develop a testing methodology.
+without system access until April 2022, at which time the certification turnaround document (CTAD) review 04/04/24 - Responses received from initial requests for information to review.
+resumed. MCPA will continue to ensure recipient eligibility information in MMIS is updated timely, and that errors
+to recipient eligibility information in MMIS II are updated to reflect current recipient statuses. Additionally, MCPA
+has developed remote working protocols that will allow staff to continue conducting Medicaid services and reviews
+during adverse working conditions. MCPA continues to work under Standard Operating Procedure #18-07, Revised
+7/16/2021, to detail the process for reporting and processing CTADs. To determine that CTADs are completed
+accurately, management is responsible for reviewing and evaluating a minimum of 20 case samples each month.
+Additionally, reports are used in the Division of Recipient Eligibility Programs (DREP) to track the number of
+CTAD documents sent to the unit and processed on a monthly basis.
+Finding 4 - MCPA had not established adequate oversight to ensure that all CFC program recipients received
+personal assistance services in accordance with their plans of services.
+We recommend that MCPA
+a. establish a process to ensure that all CFC recipients are monitored by nurses (repeat), and This finding is specific to CFC participants who are receiving personal assistance services and are therefore required 6/30/2024In Progress - IAC/S is working in collaboration with DBM.
+to also receive nurse monitoring at the minimum frequency noted in COMAR 10.09.84.20 (twice annually, with at 01/12/24 – DBM sent an initial email with requests for information and data.
+least one in-person visit). MCPA has established a process to ensure that eligible participants receive the nurse 01/19/24 – Responses received to initial requests.
+monitoring service at the minimum frequency. As of October 2023, approximately five percent of eligible
+participants had not received the service, which was a significant decrease from the previous audit findings released 03/21/24 -In person meeting scheduled at 3:30pm with OLTSS to discuss current status of
+in 2019. Since the time of the original finding, MCPA developed and a Nurse Monitoring Agreement, which recommendations. 03/26/24 - Received unsigned copy of Nurse Monitoring Agreement for
+establishes clear standards for the service, its delivery, and its continuous monitoring both the Local Health review. 4 LHDs were remaining to sign the Agreement, expected completion date 03/31/24.
+Departments (LHDs) providing nurse monitoring and MCPA. Medicaid leadership met with the Health Officers on IAC/S will need to follow up and request a copy of the signed and executed Nurse Monitoring
+January 10, 2024 to review the Nursing Monitor Agreement, which is expected to by signed by the Health Officer Agreement.
+for each local jurisdiction by January 31, 2024. Since the original finding, new tools were also developed and
+implemented in the Department’s data management system, LTSSMaryland, to focus specifically on the population
+of participants that had not received the service of nurse monitoring, despite being eligible.
+
+--- Page 5 ---
+Maryland Department of Health – Medical Care Programs Administration – Status Report as of April 12, 2024
+b. develop a plan to address the longstanding instances of non-compliance for the aforementioned LHD. The Nurse Monitoring Agreement, written in collaboration with the 6/30/2024In Progress
+LHDs, is expected to be signed by the Health Officer in each jurisdiction by January 31, 2024. The LHDs are 01/12/24 – Team sent an initial email with requests for information and data.
+currently following the standards established in the Agreement while the 01/19/24 – Responses received to initial requests.
+Department is pursuing signed agreements from all LHDs. 03/11/24 - Email sent to request availability for an in-person meeting to discuss the status of
+finding. Expected completion of IAC/S review: 4/30/2024.
+03/21/24 - In person meeting scheduled at 3:30pm with OLTSS to discuss current status of
+recommendations. 03/26/24 - IAC/S received documentation for review. Will need to fully
+review to follow up and determine any additional information needed.
+Finding 5 - MCPA did not monitor the utilization control agent contractor to ensure continued stay reviews of
+Medicaid recipients receiving services from nursing facilities were performed timely.
+We recommend that MCPA
+monitor the UCA vendor to ensure CSRs are performed timely and assess liquidated damages as permitted by the MCPA agrees with the recommendation and will continue to monitor the UCA vendor. A three-point plan was 6/30/2024In Progress
+contract (repeat). developed to improve CSR timeliness and completion has been in place since 2019. Specifically, MCPA developed 2/8/24 - Met with contract monitor to discuss this finding. Contract Monitor has concerns that
+improved approaches for assuring CSRs get completed by the UCA, scheduled joint (UCA & MCPA) meetings because data is everchanging it will be difficult to ensure all CSRs are performed.
+resulting in a revised standard operating procedure, and wrote more targeted and active approaches to CSRs into the 3/5/24 - Reviewed work papers from OLA to determine the validity of the findings. Noted the
+RFP for the next UCA to prevent similar issues under future procurements. The new contract with these approaches data match performed and sample testing performed by contract monitor under the request of
+was awarded in June 2023 and its operations will begin in 2024. OLA. 12 of 15 items tested did not have the required CSR performed. Based on this it appears
+OLAs results are accurate. We may be able to use this data match to attempt to reconcile with
+monthly invoices from the vendor.
+3/11/24 - Met with agency staff to discuss w/ps reviewed from OLA. Agency staff agreed an AD-
+Hoc report could be run out of MMIS to compare data but wanted to double check the
+parameters the of request OLA made to ensure the data would match. IAC/S will work with
+Medicaid to ensure the new report satisfies the intent of the recommendation. IAC/S expected
+completion date: 4/30/2024
+4/8/24- Requested update on when Ad Hoc report will be completed. Staff has created
+parameters for Ad Hoc Report but has not submitted them to IT as of yet.
+Finding 6 - MCPA did not have an established process to ensure costly recipient ventilator care claims submitted
+by nursing facilities were valid, as required by State regulations.
+We recommend that MCPA
+establish procedures to periodically validate ventilator care claims submitted by nursing facilities, as required by State MCPA agrees that ventilator audits should be conducted, and 6/30/2024In progress. 3/11/24 - Met with agency personnel and requested SOP and the most recent audit
+regulations, and recoup any claim payments that are determined to be unsupported or improper (repeat). recoupment should occur for any claims that are unsupported. The UCA performed by the team. 3/18/2024 - received SOP and example of process. IAC/S is reviewing
+will begin conducting these audits in early to mid-2024. As a short-term this documentation. Expected completion of IAC/S review is 4/15/2024.
+solution, the Department began conducting ventilator audits internally in 3/14/24- Reviewed SOP and determined that it needs to be more comprehensive including
+September 2023. specific metrics for pass/fail and the requirement of a CAP from the facility.
+Upon the prior finding, MCPA wrote the ventilator audit process into the 4/1/24- Met with unit staff to discuss SOP and the unit agrees to update SOP. A List of audit
+new requirements for the UCA contract. The award for the new contract schedulesle was provided and discovered only 3 of 19 reviews of CY22 have been completed.
+was announced in June 2023 and is currently undergoing These are expected to be done prior to vendor taking over in Fall of 2024. We will test the 3
+implementation; operations are due to begin in early 2024. facilities to determine compliance.
+Finding 7 - MCPA did not conduct the required audits of Medical Day Care (MDC) and Supports Planning
+providers, and the related audit policy and procedures were not sufficiently comprehensive.
+We recommend that MCPA
+a. audit MDC providers (repeat) and Supports Planning providers in accordance with its policy; MDH agrees with this finding. Unfortunately, longstanding staff attrition and insufficient resource capacity 12/31/2024MDC audits are ongoing and the first audits of 2024 are complete. IAC/S requested an SOP and
+challenges, in addition to prioritizing program operations during the COVID-19 public health emergency resulted in audit example on 3/11/24.
+a delay in annual audits. The next steps related to specific audits are as follows: Supports Planning Providers - The 3/14/24: SOP received and appears sufficient.
+next annual audit of the 27 Supports Planning Agencies will commence on January 1, 2024, and will conclude on or 3/18/24: Met with staff to discuss SOP and walkthrough example provided. Th examples appear
+before December 31, 2024. MCPA will ensure that annual audits are conducted each year thereafter in accordance sufficient.
+with its policy. MDC Audits - Identical to the aforementioned challenges, the MDC program will leverage next 4/8/24: Test items selected for Test of MDC audits.
+year’s schedule of audits to ensure each provider is audited for compliance. 4/10/24: DBMs review of all audits showed that 11 audits since 2018 did not have CAPS
+submitted within 10 days as required.
+
+--- Page 6 ---
+Maryland Department of Health – Medical Care Programs Administration – Status Report as of April 12, 2024
+b. ensure that all MDC provider claims since the previous audit are subject to testing (repeat); and Supports Planning Agency (SPA) - Review of submitted claims is included in the annual audit process. MCPA will 12/31/2024In progress: 3/19/2024 - IAC/S received SOP from Medicaid. IAC/S will review and test.
+ensure that claims are tested during the next audit cycle and thereafter. The audit timeframe will be clearly
+documented to help prevent an overlap in claims testing or any associated data integrity issues. MDC - The MDC
+Program has updated its auditing tool to require all auditing staff document the time period of the previous
+attendance audit and resume attendance auditing from that period to ensure no time periods are skipped or missed
+while auditing each provider. The standard operating procedure (SOP) was also updated. The MDC team has
+received updated training and will continue to engage in monthly audit meetings to ensure competency and employ
+standardization among staff, reinforce best practices, discuss findings, auditing progress, technical assistance, and
+any other feedback from the team.
+c. enhance its MDC audit policy to establish audit scope requirements and testing methodology, including a Since this audit, the MDC program established an SOP that directs an expansion of audits (i.e., extrapolation) based 6/30/2024In progress: 3/19/2024 - IAC/S received SOP from Medicaid. IAC/S will review and test.
+requirement to expand audit testing when significant deficiencies are identified (repeat). on specific deficiencies (e.g., instances or trends of noncompliance with requisite attendance and reimbursement
+policies). Findings, risk controls, mitigation strategies, and best practices are discussed during audit meetings.
+Finding 8 - MCPA did not adequately monitor the hospital claims audit contractor and had not collected or
+recovered improper claims identified by the contractor totaling $6.9 million.
+We recommend that MCPA
+a. adequately monitor the hospital claims audit contractor, including obtaining all deliverables as required by the MDH has a report that includes recommendations from the vendor for reducing and preventing improper payments 6/30/2024IAC/S will meet with OIGH to review and develop a testing plan to validate Medicaid's
+contract; and issued on claims and establishing a criterion for identifying error prone providers for heightened scrutiny. In corrective actions.
+addition, the Department has recovered overpayments identified by the contractor. The Department has already set
+up regular monthly meetings with the hospital audit contractor, with one quarterly meeting to include the Office of
+Inspector General for Health.
+b. pursue recovery of overpaid claims identified by the audit contractor in a timely manner. Once the security incident was resolved MCPA recouped these payments 6/30/2024In progress: IAC/S will meet with Medicaid to develop a testing plan regarding the
+in full. recoupments.
+Finding 9
+Redacted cybersecurity-related finding.
+Agency corrective actions have been redacted by OLA.
+Finding 10
+Redacted cybersecurity-related finding.
+Agency corrective actions have been redacted by OLA.

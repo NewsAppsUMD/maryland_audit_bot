@@ -1,0 +1,2235 @@
+Title: Department of Health and Mental Hygiene - Processing of Certain Medicaid Claims
+Date: 11/23/2009
+Type: Performance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a945d3bcc9d72404c150a98
+Extracted: 2025-06-18T10:59:32.112207
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Performance Audit Report
+Department of Health and Mental Hygiene
+Processing of Certain Medicaid Claims
+Controls Over Edit Claim Functions Were Deficient and Certain Automated
+Edits Were Inappropriately Disabled
+Post-Payment Claims Review Process Lacked Structure
+Sufficient Actions Were Not Taken to Reduce System Rejections of Claims for
+Federal Reimbursement
+November 2009
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+• This report and any related follow-up correspondence are available to the public through
+the Office of Legislative Audits at 301 West Preston Street, Room 1202, Baltimore,
+Maryland 21201. The Office may be contacted by telephone at 410-946-5900, 301-970-
+5900, or 1-877-486-9964.
+• Electronic copies of our audit reports can be viewed or downloaded from our website at
+http://www.ola.state.md.us.
+• Alternate formats may be requested through the Maryland Relay Service at 1-800-735-
+2258.
+• The Department of Legislative Services – Office of the Executive Director, 90 State Circle,
+Annapolis, Maryland 21401 can also assist you in obtaining copies of our reports and
+related correspondence. The Department may be contacted by telephone at 410-946-
+5400 or 301-970-5400.
+
+--- Page 3 ---
+DEPARTMENT OF LEGISLATIVE SERVICES
+OFFICE OF LEGISLATIVE AUDITS
+MARYLAND GENERAL ASSEMBLY
+November 23, 2009
+Karl S. Aro Bruce A. Myers, CPA
+Executive Director Legislative Auditor xxx
+Delegate Steven J. DeBoy, Sr., Co-Chair, Joint Audit Committee
+Senator Verna L. Jones, Co-Chair, Joint Audit Committee
+Members of Joint Audit Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We conducted a performance audit of the procedures for processing certain
+Medicaid claims and conducting post-payment reviews. Such claims, which
+totaled approximately $2.68 billion during fiscal year 2009, were applicable to
+certain provider payments made by the Department of Health and Mental
+Hygiene’s (DHMH) Medical Care Programs Administration (MCPA),
+Developmental Disabilities Administration (DDA), and the Mental Hygiene
+Administration (MHA).
+Our audit disclosed MCPA had not established sufficient internal controls over
+the automated edit functions within the Maryland Medicaid Information
+System (MMIS II). System edits help ensure that provider medical claims are
+valid and are eligible for federal reimbursement. Our tests of edits identified
+nine automated edits that were inappropriately disabled; consequently, claims
+valued at $98 million, which otherwise would have been suspended and
+subject to manual reviews, were allowed to be processed for payment during
+the nine-month period tested. We also determined that certain employees
+could change edit settings without independent authorization, and that
+certain claims were improperly paid due to a programming error involving one
+system edit.
+The post-payment review processes used to validate paid claims (for example,
+fee-for-service claims) needed more structure and formal procedures to help
+ensure that the reviews were effective, efficient, fully carried out, and fully
+documented. For example, the types of claims data analyses to be regularly
+performed were not established, and the results of such analyses were not
+documented. Consequently, the full extent to which the post-review process
+resulted in recoveries from providers was not determinable.
+
+--- Page 4 ---
+DHMH management needs to determine how to minimize recurring rejections
+by MMIS II of claims for federal reimbursement submitted by MHA and DDA,
+and to ensure that rejections are resolved and resubmitted in a timely manner
+to maximize federal reimbursements.
+An executive summary of our findings can be found on page 3, and our audit
+scope, objectives, and methodology are explained on page 11. DHMH’s
+response to this audit is included as Appendix A to this report. Auditor
+comments related to certain of DHMH’s responses can be found in Appendix
+B. We wish to acknowledge the cooperation extended to us by DHMH during
+our audit.
+Respectfully submitted,
+Bruce A. Myers, CPA
+Legislative Auditor
+
+--- Page 5 ---
+Table of Contents
+Executive Summary 3
+Background Information 7
+Audit Scope, Objectives, and Methodology 11
+Findings and Recommendations 15
+Objective 1: Effectiveness of Claims Processing Edits 15
+Conclusion 15
+Background 16
+Finding 1 – MCPA Had Valid Reasons for Most System Edits That Were 18
+Disabled, but Some Edits Should Not Have Been Disabled
+Finding 2 – Controls Over Changes to Edit Settings Were Inadequate 19
+Finding 3 –Documentation of System Edits and Which Edits to Disable 21
+Was Lacking
+Finding 4 – A Programming Error Resulted in Improper Claim Payments 21
+Finding 5 – Access to Pay Claims Was Inadvertently Granted to 532 Users 22
+Finding 6 – Staffing Needs of MCPA Had Not Been Analyzed 22
+Finding 7 – Formal Training for Employees Performing Critical and 23
+Complex Duties is Lacking
+Recommendations 24
+Objective 2: Effectiveness of the Post Payment Review Procedures 27
+Conclusion 27
+Background 28
+Finding 8 – Documentation of the Post-Payment Review Process Was in 28
+Need of Significant Improvement
+Finding 9 – Certain Utilization Reports Were Not Produced or Fully Used 30
+Finding 10 – Procedures Were Not Always Revised to Correct Deficiencies 31
+Identified in Post-Payment Reviews
+Finding 11 – Additional Procedures Could Be Used to Publicize Fraud 32
+Referral Hotline
+Finding 12 – Post-Payment Reviews of In-State Hospital Payments Could 33
+Be Improved
+Finding 13 – Out-of-State Hospital Payment Rates Were Not Always 34
+Verified
+Finding 14 – Procedures to Obtain Information About Third-Party Liabilities 35
+Could Be Improved
+Office of 1
+Legislative
+Audits
+
+--- Page 6 ---
+Recommendations 36
+Objective 3: Effectiveness of Process for Obtaining Federal Funds 39
+for Other Administrations
+Conclusion 39
+Background 39
+Finding 15 – There Was No Systematic Process to Analyze the Causes of 40
+Rejected Federal Fund Reimbursement Claims
+Finding 16 – Rejected Claims for Federal Funds Were Not Promptly 41
+Resolved, and Adequate Records of Rejected Claims Were Not
+Maintained
+Recommendations 42
+Agency Response Appendix A
+Auditor’s Comments on Agency Response Appendix B
+2 O f f i c e o f
+Legislative
+Audits
+
+--- Page 7 ---
+Executive Summary
+We conducted a performance audit of certain aspects of the Department of
+Health and Mental Hygiene’s (DHMH) Medicaid claims processing and federal
+reimbursement procedures, for which related claims payments totaled $2.68
+billion during fiscal year 2009. In our most recent fiscal compliance audit of
+the Medical Care Programs Administration (MCPA), we stated that MCPA
+overrode (disabled) automated system edits in the Medicaid Management
+Information System (MMIS II) that were designed to prevent improper
+payments. MCPA maintained that many of the edits were appropriately
+disabled. Due to the complexity of the MCPA claims processing system, as
+well as the significance of the system edits that were disabled, we conducted
+this audit. The three objectives of this audit were as follows:
+1. To evaluate the effectiveness of the claims edit process, particularly
+the appropriateness of disabling edits
+2. To assess the effectiveness of DHMH’s procedures performed to
+review the propriety of claims after payment
+3. To evaluate the effectiveness of the voucher claim processes to obtain
+federal Medicaid reimbursements for services provided through the
+Mental Hygiene Administration (MHA) and the Developmental
+Disabilities Administration (DDA)
+Our audit disclosed that it was reasonable to disable many of the automated
+edits since they were not appropriate for the Maryland Medicaid program
+requirements. However, we also found many claims with significant payment
+amounts that should have been processed through other edits that were
+inappropriately disabled.
+Improvements, such as better record keeping and better standardization for
+routine analyses, are needed in the post-payment review process for Medicaid
+claims. In addition, training should be provided to employees performing
+complex significant tasks and MCPA should evaluate the staffing needs of its
+various units.
+The processes used by MHA and DDA to obtain federal Medicaid
+reimbursements were cumbersome resulting in lost interest, inefficient use of
+staff resources, and lost federal funding.
+Office of 3
+Legislative
+Audits
+
+--- Page 8 ---
+Regarding Objective 1, we determined that claims totaling $978 million were
+processed during the period between July 2007 and March 2008 that
+bypassed 81 disabled edits. Based on our test of 55 disabled edits,
+applicable to $976 million in paid claims, we determined that it was
+reasonable to bypass 40 of the disabled edits for payments totaling $691
+million. For example, one edit that was appropriately disabled looked for
+provider facility numbers that were not in the system. Since other information
+is used in Maryland to identify providers, the disabling of this edit is
+appropriate. However, we found that 9 disabled edits, which were applicable
+to paid claims totaling more than $98 million during this period, should not
+have been bypassed, and for the remaining 6 edits, neither DHMH nor we
+could determine whether the edits should have been disabled. We also found
+that clear descriptions of the purpose of the edits in MMIS II could generally
+not be provided by DHMH.
+In addition to being disabled, edits were often temporarily changed, typically
+to facilitate processing of certain claim payments. Changing edit settings
+(which are essentially computer program logic changes) can have a significant
+impact on whether claims are paid or denied by the Medicaid program. We
+found that controls over changes to edit settings were extremely lax. Changes
+to edit settings were made without supervisory review and approval, without
+documented explanations as to why edit settings were changed, and without
+maintaining records of the changes actually made.
+During our testing of claims, we determined that certain claims were
+improperly processed in MMIS due to a temporary change in edit settings that
+was not intended to apply to these claims. After we advised MCPA about
+these claims, its research disclosed that $1.4 million in claims were paid in
+error and should be recovered from the providers.
+Finally, DHMH had not performed a formal study or review to determine the
+optimal number of employees required to perform its critical Medicaid
+functions, and did not have a training program for its employees performing
+critical claims processing functions. Without determining the optimal staffing
+levels, MCPA cannot ensure that the appropriate number of its approximately
+615 employees has been assigned to claims processing functions.
+Objective 2 involved the post-payment review process, which we concluded
+needed significant improvement. The post-payment review process is vital for
+helping to ensure that payments to providers were for necessary services that
+were actually provided. The process was not formally structured or
+adequately documented. For example, comprehensive records of data
+analysis reports, specific claims reviewed, and any related recoveries were not
+4 O f f i c e o f
+Legislative
+Audits
+
+--- Page 9 ---
+maintained. This information could be used to more effectively direct future
+analyses of paid claims. In addition, we noted that certain reports designed to
+identify potentially improper payment patterns were not routinely produced.
+For example, reports of “spike” payments (large amounts of claim payments
+to a provider over a short period) were not produced. These reports could
+identify improper provider billings.
+Audits of hospital payments, which were performed by a MCPA contractor,
+were not timely. As of December 31, 2008, no hospital claims paid since
+January 1, 2004 had been audited by the contractor.
+We noted in objective 3 that numerous Medicaid claims that were previously
+paid to providers by the Mental Hygiene and Developmental Disabilities
+Administrations were subsequently rejected by MMIS. As a result, federal
+funds for these claims were not obtained timely or at all. For example, as of
+December 2008, claims paid for DDA services provided in calendar year
+2006, totaling approximately $8.4 million, were submitted and denied by
+MMIS II for submission for federal reimbursement, and remained outstanding.
+Since the claims had previously been determined to be legitimate by the
+Administrations that paid them, and were processed through MMIS only to
+obtain federal reimbursement, rejected claims should be minimal. However,
+resolving rejected claims from these DHMH administrations has been
+commented upon in our audit reports for at least 10 years.
+Office of 5
+Legislative
+Audits
+
+--- Page 10 ---
+6 O f f i c e o f
+Legislative
+Audits
+
+--- Page 11 ---
+Background Information
+Purpose of Program
+Medicaid is a joint federal and state entitlement program for low-income
+citizens of the United States. The Medicaid program is part of Title XIX of the
+Social Security Act Amendment that became law in 1965. Medicaid offers
+federal matching funds to states for costs incurred in paying health care
+providers for serving covered individuals. The program is administered by the
+states, which are required to provide health care coverage to all applicants
+who meet the program’s eligibility requirements. To qualify for benefits,
+applicants must pass certain income and asset tests.
+The Medicaid program in Maryland is primarily administered by the Medical
+Care Programs Administration (MCPA), a unit within the Department of Health
+and Mental Hygiene. MCPA is responsible for enrolling providers (such as
+physicians), establishing program regulations, setting provider payment rates,
+reviewing and paying provider claims, and obtaining federal reimbursement
+for eligible costs (generally 50 percent of amounts paid to providers).
+Individuals qualifying for cash assistance through the Temporary Cash
+Assistance program or the federal Supplemental Security Income program
+automatically qualify for Medicaid benefits. Those eligible for Medicaid
+through these programs make up most of the Medicaid population and are
+referred to as “categorically needy.” Medicaid eligibility determinations in
+Maryland are generally made by the local departments of social services of
+the Department of Human Resources.
+Federal law also requires the Medicaid program to assist Medicare recipients
+with incomes below the federal poverty level in making their co-insurance and
+deductible payments.
+The Maryland Medicaid program funds a broad range of services. The federal
+government mandates that the states provide nursing facility services;
+hospital inpatient and outpatient services; x-ray and laboratory services; early
+and periodic screening, diagnosis, and treatment services for children; family-
+planning services; transportation services; physician care; federally qualified
+health center and rural health clinic services; and some nurse practitioner
+services. The Maryland program also provides optional services, such as
+vision care and podiatry care.
+Office of 7
+Legislative
+Audits
+
+--- Page 12 ---
+Most Maryland Medicaid recipients are required to enroll in HealthChoice, the
+statewide managed care program that began in 1997. As of June 2009,
+approximately 555,000 recipients were enrolled in HealthChoice. Under
+HealthChoice, MCPA makes specified capitation payments to private Managed
+Care Organizations (MCOs) that provide services to these Medicaid recipients
+in Maryland. Our audit did not include payments to MCOs which, during fiscal
+year 2009, totaled approximately $2.21 billion.
+Populations excluded from the HealthChoice program include the
+institutionalized and individuals who are dually eligible for Medicaid and
+Medicare. Populations that are not institutionalized and are not covered by
+an MCO are covered on a fee-for-service basis. Under this system, health
+providers (such as physicians, hospitals, and medical equipment suppliers)
+are paid a fee for each service or supply provided. Fees are generally billed at
+rates established by MCPA or, in the case of hospital stays, at rates
+established by the Maryland Health Services Cost Review Commission.
+During fiscal year 2009, payments made on a fee-for-service basis totaled
+approximately $1.51 billion. These payments were the primary scope of our
+audit.
+Our audit did not include payments to long-term care facilities (for example,
+nursing homes), which are not paid on a fee-for-service basis. Payments to
+such facilities totaled approximately $1.12 billion during fiscal year 2009.
+In addition to Medicaid expenditures incurred by MCPA, DHMH’s
+Developmental Disabilities (DDA) and Mental Hygiene Administrations (MHA)
+also make payments to providers that are funded through the Medicaid
+program. During fiscal year 2009 payments to providers for Medicaid
+recipients made by DDA and MHA totaled $1.17 billion. These expenditures
+are processed through MMIS for federal reimbursement purposes only, and
+were also included in the scope of this audit.
+Approximately 615 MCPA employees administered the State’s Medicaid
+program which, as of June 30, 2009, had an enrollment of approximately
+802,000 individuals. Chart 1 on the next page depicts the State’s Medicaid
+expenditures for fiscal year 2009.
+8 O f f i c e o f
+Legislative
+Audits
+
+--- Page 13 ---
+Chart 1
+FY 2009 Medicaid Claims Processed
+($6.28 Billion)
+Other
+$.27 billion 4%
+Fee for Service
+$1.51 billion
+24%
+Managed Care
+Organizations
+$2.21 billion
+35%
+Mental Hygiene
+Administration and
+Developmental
+Disabilities
+Long Term Care Administration
+$1.12 billion $1.17 billion
+18% 19%
+Source: Medicaid Management Information System II
+Updating the Medicaid Management Information System (MMIS II)
+MCPA is in the preliminary stages of updating the Medicaid Management
+Information System (MMIS II), which is the program’s claims processing and
+information retrieval system. MMIS II is being updated in accordance with the
+Medicaid Information Technology Architecture (MITA) Initiative, a national
+framework to support improved systems development and health care
+management for the Medicaid enterprise. States receive a 90 percent federal
+matching rate for costs for the design, development, and installation of MMIS
+II and a 75 percent matching rate for operations-related costs.
+The current MMIS II is considered by MCPA to be outdated. It was not
+designed for the large volume of claims currently processed and it is deemed
+costly to maintain. MMIS II reporting capabilities are limited, and making
+program changes to the system is difficult.
+Office of 9
+Legislative
+Audits
+
+--- Page 14 ---
+The State’s fiscal 2009 budget included $1.6 million in funding for DHMH to
+work with consultants to prepare an advanced planning document for a new
+MMIS in accordance with MITA. Throughout the year, MCPA worked with the
+consultant to determine exactly what the administration needed from a new
+MMIS. The advance planning document was completed and submitted to the
+Federal Centers for Medicare and Medicaid Services (CMS) in June 2009.
+After receiving CMS approval of the advanced planning document, DHMH will
+develop a draft request for proposal (RFP) to obtain vendor bids and
+proposals for designing and implementing the new system, which will also be
+submitted to CMS, as well as to the State’s Department of Information
+Technology, for approval. DHMH anticipates receiving federal approval of the
+RFP by the end of calendar year 2009.
+A definitive timeline and cost estimate for a new MMIS are not yet available.
+However, DHMH is projecting to need approximately 30 months for design
+and implementation, from July 2010 through December 2012.
+Federal Audit of Maryland’s Payment Error Rates
+CMS implemented the Payment Error Rate Measurement (PERM) program to
+measure improper payments in the Medicaid program. CMS began PERM
+audits of state Medicaid programs during federal fiscal year 2006. In
+November 2008, CMS submitted its findings for Maryland.
+The data DHMH obtained from CMS to support the findings indicated that
+CMS tested 1,591 claims (including 513 fee-for-service claims) totaling $3.9
+million, and noted errors totaling $14,193. Primarily, these errors were due to
+providers that did not submit adequate documentation to support the claims.
+CMS determined the error rate for Medicaid fee-for-service claims to be 1.04
+percent. This error rate is well below the published national average error rate
+of 8.9 percent for fee-for-service claims.
+Although the error rate is commendable, even small error rates in Maryland’s
+Medicaid program, which disburses billions of dollars annually, could result in
+millions of dollars of overpayments. Also, the federal audit only reviewed
+claims for which federal reimbursements were made to Maryland. The federal
+audit did not include Maryland-paid Medicaid claims that were not submitted
+for federal reimbursement, nor did the federal audit determine the amount of
+Medicaid-eligible claims that were never subm itted for federal
+reimbursement.
+10 O f f ic e o f
+Legislative
+Audits
+
+--- Page 15 ---
+Audit Scope, Objectives,
+and Methodology
+Scope
+We conducted a performance audit of certain aspects of the Department of
+Health and Mental Hygiene’s Medicaid claims payment procedures. This
+audit was conducted as a result of the Department’s responses to our
+previous fiscal compliance report, dated July 28, 2006, on the Medical Care
+Programs Administration (MCPA), the agency primarily responsible for
+administering the Medicaid program in Maryland. In that report, we stated
+that MCPA bypassed certain automated system edits designed to prevent
+improper payments. The Department maintained that there were legitimate
+reasons for disabling the edits. Due to the complexity of the MCPA payment
+processes, we conducted this audit to examine certain of the payment
+processes in more depth.
+We conducted the audit under the authority of the State Government Article,
+Section 2-1221 of the Annotated Code of Maryland, and performed it in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence
+obtained provides a reasonable basis for our findings and conclusions based
+on our audit objectives.
+Objectives
+Our audit had three specific objectives:
+1. To evaluate the effectiveness of the claims edit process, particularly
+the appropriateness of disabling edits
+2. To assess the effectiveness and efficiency of DHMH’s procedures
+performed to review the propriety of claims after payment
+3. To evaluate the effectiveness of the voucher claim processes to obtain
+federal Medicaid reimbursements for services provided through the
+Office of 11
+Legislative
+Audits
+
+--- Page 16 ---
+Mental Hygiene Administration (MHA) and the Developmental
+Disabilities Administration (DDA)
+Methodology
+To accomplish our objectives, we reviewed and tested numerous paid claims;
+reviewed available documentation describing system edits including
+programming logic; examined other records related to paid Medicaid claims,
+including provider documentation available from DHMH, and reviewed audit
+reports related to other Medicaid organizations. We interviewed DHMH
+personnel, specifically MCPA, DDA, and MHA personnel and their contractors,
+and performed extensive procedural reviews and tests of a number of
+systems deemed critical to our audit objectives. The audit also included a
+review of appropriate federal requirements and regulations regarding
+operations of Medicaid programs.
+Our first objective was to evaluate the effectiveness of the automated edit
+controls for processing Maryland fee-for-service Medicaid claims. To
+determine the extent of automated system edits that were disabled, we
+obtained a computer file of all fee-for-service claims paid between July 1,
+2007 and March 31, 2008. From this file, we isolated the $978 million of
+claims that were flagged as having not been processed through one or more
+of the 81 disabled system edits. We subsequently evaluated the propriety of
+disabling 55 of the 81 edits; the 55 edits reviewed accounted for $976 million
+(99 percent) of the transactions that bypassed disabled edits during the
+period. For these edits, we determined the appropriateness of disabling them
+by reviewing descriptions of the edits, by reviewing billing procedural manuals,
+by reviewing programming logic, and by discussing them with MCPA
+employees. In addition, we tested numerous claims for which these edits had
+been disabled to confirm our understanding of the edits and to determine if
+claims were paid that should not have been paid. We also reviewed the
+procedures used to change edit settings, such as to temporarily disable edits.
+Additionally, we reviewed the procedures over the payment of claims that
+were initially suspended by the system due to failing an automated edit
+control.
+Our second objective was to assess the effectiveness and efficiency of the
+claims post-payment review procedures. The focus of our review was the
+Surveillance and Utilization Review Subsystem (SURS), which uses
+computerized reports to monitor providers and recipients to help identify
+potential abuse of the Medicaid program. We reviewed procedures over
+SURS, compared the practices used by DHMH’s SURS to the practices used by
+other states, and determined if appropriate action was taken when SURS
+12 O f f ic e o f
+Legislative
+Audits
+
+--- Page 17 ---
+identified improper payments. We also evaluated the effectiveness of the
+contractor used to audit paid hospital claims and evaluated procedures to
+ensure that the proper rates were used for out-of-state hospital claims.
+Our final audit objective was to evaluate the effectiveness of the processes
+MHA and DDA used to obtain federal Medicaid funds for claims paid on behalf
+of their recipients. We reviewed procedures used by the two administrations
+to obtain Medicaid federal funds. Additionally, we reviewed the actions taken
+by DHMH and the Administrations when claims for federal funds were rejected
+by the MCPA processing system.
+We attempted to compare Maryland’s staffing structure with other states.
+However, unlike most other states, Maryland uses its own employees to
+perform most tasks associated with the Medicaid program, including the
+processing of claims. Consequently, we were unable to compare MCPA’s
+staffing structure to other states since the other states generally relied on
+contractors to administer their programs.
+Our audit scope excluded payments made on a capitation basis to Managed
+Care Organizations (MCOs) and long-term care facilities. Also excluded was
+an evaluation of the initial payment determinations made by MHA and DDA for
+payments to their respective service providers; rather, for these two
+administrations, our focus was the federal reimbursement process through
+MMIS II.
+Fieldwork and Department of Health and Mental Hygiene
+Response
+We conducted our fieldwork during the period from March 2008 through April
+2009. The Department’s response to our findings and recommendations is
+included as an appendix to this report.
+Office of 13
+Legislative
+Audits
+
+--- Page 18 ---
+14 O f f ic e o f
+Legislative
+Audits
+
+--- Page 19 ---
+Findings and
+Recommendations
+Objective 1
+Effectiveness of Claims Processing Edits
+Conclusion
+This audit objective was to evaluate the effectiveness of the Medical Care
+Programs Administration’s (MCPA) management of edits over claims. Our
+primary focus for this objective was to determine whether it was appropriate
+for MCPA to disable 81 automated edits that were programmed to prevent
+improper payments. We also reviewed procedures over changes to edit
+settings and examined certain other aspects of the claims payment process.
+Our performance audit disclosed that MCPA processed fee-for-service claims
+totaling approximately $978 million between July 1, 2007 and March 31,
+2008 that bypassed 81 disabled system edits within MMIS II. We examined
+55 of these disabled edits and attempted to determine if it was proper to
+bypass them. The 55 edits tested were applicable to $976 million of the
+claims processed through disabled edits.
+We found that MCPA’s decision to disable automated system edits was proper
+in most instances. Specifically, out of the 55 disabled edits tested, we
+determined that the decision to deactivate the edit was appropriate for 40
+edits. For example, one deactivated edit was intended to prevent payment if
+a facility provider number was not in the Maryland Medicaid Information
+System (MMIS II). Since other information is used in Maryland to identify
+providers, the disabling of this edit is appropriate. However, we found that 9
+disabled edits should not have been deactivated; these 9 edits applied to
+claims totaling in excess of $98 million of the $978 million disbursed during
+the nine-month period ended March 31, 2008. For example, one of the
+deactivated edits was intended to prevent payments for procedures for
+patients in long-term care facilities when payments for these procedures
+Office of 15
+Legislative
+Audits
+
+--- Page 20 ---
+would typically be included in the payments made to the facilities. For 6 of
+the disabled edits, neither the Department nor we could determine if
+deactivating the edits was proper. We also found that comprehensive
+descriptions of the purpose of the edits were frequently not available from
+MCPA.
+Controls over changes to edit settings were lacking. Changes to edit settings
+were made without supervisory review and approval, without documented
+explanations as to why edit settings were changed, and without maintaining
+records of the changes actually made.
+During our testing of claims, we determined that certain claims were
+improperly processed in MMIS II due to a temporary change in edit settings
+that was not intended to apply to these claims. Consequently, these claims
+were paid rather than suspended by MMIS II for subsequent manual review.
+After we advised MCPA about these claims, its research disclosed that claims
+totaling $5.3 million should have been manually reviewed before payment. It
+also determined that $1.4 million of these claims were paid in error and
+should be recovered from the providers.
+We also found that authority in MMIS II to process certain claims for payment
+was inadvertently granted to 532 system users who did not require such
+capability. After we brought this to MCPA’s attention, it removed the capability
+to process claims from these employees who did not need that capability.
+Finally, DHMH had not performed a formal study or review to determine the
+optimal number of employees required to perform its critical Medicaid
+functions, and did not have a training program for its employees performing
+critical claims processing functions. For example, knowledge of system edits,
+billing procedures, medical procedures, and diagnoses codes, must be used
+to properly evaluate suspended claims. Without determining the optimal
+staffing levels, MCPA cannot ensure that the appropriate number of its
+approximately 615 employees has been assigned to claims processing
+functions.
+Background
+The vast majority of Maryland’s Medicaid expenditures can be categorized
+into one of three payment types: fee-for-service, managed care, and long-term
+care. Under the fee-for-service payment method, healthcare providers, such
+as physicians and hospitals, submit claims to MCPA for each service provided
+to a Medicaid recipient. Once MCPA approves the claims, the providers are
+paid the allowed amount for the services billed. With the managed care
+16 O f f ic e o f
+Legislative
+Audits
+
+--- Page 21 ---
+payment method, managed care organizations (MCOs) are paid a specified
+monthly fee (capitation fee) for each enrollee. The MCOs are then responsible
+for providing appropriate healthcare to their enrollees through contracted
+health care providers. Long-term care providers, such as nursing homes, are
+paid through a cost-reimbursement system. The focus of this audit was on
+the fee-for-service payments, which totaled approximately $1.51 billion during
+fiscal year 2009.
+An inherent concern with fee-for-service payments is that the entity
+authorizing payment for services cannot be certain that the services billed by
+providers were actually provided. As required by the federal government,
+Maryland uses a computerized system (the Medicaid Management
+Information System or MMIS II) to pay provider claims and to process paid
+claims for federal reimbursement. MMIS II contains 658 automated edits that
+are designed to assist in verifying that claims are complete and legitimate.
+For example, automated edit controls exist to verify the eligibility of providers
+and recipients, to prevent payment of duplicate claims, and to allow payment
+for gender-specific medical procedures for patients of the applicable gender.
+No single claim would be subject to all of the 658 edits. Rather, each claim
+would only be subject to certain edits, depending on the nature of the claim.
+For example, some edits are intended only for inpatient claims; these edits
+would not be triggered unless the claim met certain criteria defining it as an
+inpatient claim.
+Most claims submitted electronically, pass the automated edits, and are paid
+with minimal employee effort. However, a large number of paper claims are
+still submitted that require manual processing. In addition, claims that are
+suspended by system edits must be reviewed manually by a MCPA employee
+who then determines if the claim should be paid or denied. Claims paid in
+this manner are referred to as ‘forced’ claims because the claims are paid
+even though they have not passed all MMIS II edits.
+In our July 28, 2006 fiscal compliance audit report on MCPA, we stated that
+significant amounts of claims were paid without going through system edits
+designed to prevent improper payments. In response to that audit report,
+MCPA maintained that disabling many of the MMIS II edits was proper
+because those edits were unique to the State of Florida’s Medicaid system
+(from which the Maryland system is derived) or were federally approved
+changes to the Maryland Medicaid program.
+Office of 17
+Legislative
+Audits
+
+--- Page 22 ---
+Findings
+1. The disabling of claim edits appeared reasonable for most
+deactivated edits, but some edits should not have been
+deactivated. The propriety of deactivating certain other edits could
+not be determined.
+A summary of the results of our review of the propriety of the disabling of edits
+is shown in Table 1 below. The Department generally agreed with our
+conclusions.
+Table 1
+Results of Review of Edits Tested
+July 1, 2007 through March 31, 2008
+Number of Value of Paid
+Category
+Edits Claims (cid:110)
+Proper to Disable 40 $690,861,748
+Should Not Have Been Disabled 9 98,594,958
+Propriety Could Not be
+6 186,532,323
+Determined
+Total 55 $975,989,029
+(cid:110) Although each claim may pass through more than one edit, each claim is counted
+only once in this column based on its first bypassed edit. Accordingly, this table
+conservatively shows the value of paid claims that were not processed through
+edits.
+We determined the appropriateness of deactivating edits by reviewing
+available descriptions of the edits, billing manuals, and programming logic,
+and through discussions with MCPA employees. In addition, we tested
+numerous claims related to these edits to confirm our understanding of the
+edits and to determine if claims were paid that should not have been paid.
+An edit entitled “facility provider number is not on file” is an example of an
+edit that we determined was properly disabled. This edit denies a claim when
+a facility provider number on a claim is not entered into MMIS II; however,
+MCPA does not use facility numbers for payment identification purposes.
+Instead, Maryland’s MMIS II uses alternative provider numbers to ensure
+payments are only made to eligible providers.
+18 O f f ic e o f
+Legislative
+Audits
+
+--- Page 23 ---
+An example of an edit that should not have been disabled is entitled
+“inpatient claim in conflict with outpatient claim,’ which was applicable to
+claims totaling approximately $33 million between July 1, 2007 and March
+31, 2008. This edit was designed to prevent payments to providers for
+inpatient claims when services may have been previously paid as an
+outpatient claim. Another example of an edit that should not have been
+disabled is the edit entitled “procedure invalid for a recipient in a long-term
+care facility,” which was applicable to claims totaling approximately $4 million
+during the same period. This edit was designed to prevent payments for
+procedures (including medical equipment and supplies) for patients in a long-
+term care facility when payment for these procedures would typically be
+included in the payments made to the facility. We tested 50 claims totaling
+approximately $120,000 that bypassed this edit and found 5 claims totaling
+$8,695 that should have been denied. These payments represent claims for
+procedures on behalf of recipients at a long-term care facility that should not
+have been separately billed.
+An edit entitled “unable to determine waiver eligibility” which was applicable
+to claims totaling $182.7 million between July 1, 2007 and March 31, 2008,
+is an example of an edit for which the propriety of disabling the edit could not
+be readily determined for recipients with Medicaid (only) eligibility as well as
+for those with Medicare (and Medicaid) eligibility. DHMH management initially
+advised us that this edit existed in the Florida’s Medicaid system and was not
+applicable to Maryland’s program, but subsequently advised us that the edit
+was not in Florida’s system and was added to Maryland’s MMIS II system by
+DHMH. Based on our review and interviews with MCPA personnel, it is
+believed that this edit relates to eligibility coding in MMIS II; however, neither
+we nor MCPA could determine the exact reasons why or how this edit applies
+to these claims. See additional comments in Finding 3 (on page 21) regarding
+the lack of documentation of system edit descriptions.
+2. Adequate internal controls were not established over changes to
+edit settings.
+An informal and generally undocumented process was used to temporarily
+change edit settings. Four employees could alter (deactivate or reactivate)
+the MMIS II automated edit settings without further supervisory review. One
+of these users, who is an MCPA manager, was primarily responsible for
+altering the edit settings when necessary to process claims through MMIS II.
+MMIS II allows one user to alter the edit settings without requiring another
+system user to independently approve the changes. Also, there was no
+manual approval to document authorizations for changes to edit settings, and
+Office of 19
+Legislative
+Audits
+
+--- Page 24 ---
+written justifications as to why edit setting changes were made were not
+prepared. Furthermore, there were no output reports prepared from MMIS II
+of changes made to edit settings which could be reviewed for propriety.
+If an operation as large and complex as Maryland’s Medicaid program is to be
+managed effectively, its edit changes (which are essentially computer
+program logic changes) must be adequately controlled; otherwise, Medicaid
+claims may not be processed as intended and inappropriate payments may be
+made. Because of the very large volume of Medicaid claims, even small error
+rates in claims processing can lead to millions of dollars in inappropriate
+payments. It is, therefore, critical that controls be established to minimize the
+risk of errors.
+Written justifications should be prepared and retained for all changes to edit
+settings. These justifications should clearly explain why an edit setting
+needed to be modified. Before any changes to edit settings are made, a
+management employee, other than the employee who initiated the change,
+should approve the change in edit settings. After the change is made, the
+results should be monitored to determine that the change is having the
+desired effect on claims processing, and to ensure that the edit setting is
+changed back at the appropriate time, if applicable. In addition, records of all
+changes to edit settings, including the reasons they were changed and the
+related approvals, should be maintained. Finally, procedures should be
+implemented to ensure that only properly authorized changes to edit settings
+are made.
+We noted an example of the lack of controls over edits during our test work.
+Specifically, we identified one edit, which was designed to prevent payments
+for overlapping inpatient and outpatient periods, which should not have been
+deactivated. During July 2008, we brought this to the attention of MCPA, and
+as a result, an MCPA employee altered the edit setting (which was in place
+since at least July 1999), so that all future inpatient claims for periods when
+outpatient claims have also been paid would be suspended from payment.
+This would subsequently allow MCPA employees to review the suspended
+claims and related documentation to determine if the suspended claims
+should be paid or denied. Although we agree with the reason for this change
+in edit setting, the change was not adequately controlled. Specifically, the
+edit setting was changed solely by one employee without additional review,
+approval, or documentation of the change or the reason for the change. (This
+edit is included in Table 1 as an edit that should not have been disabled.)
+20 O f f ic e o f
+Legislative
+Audits
+
+--- Page 25 ---
+We were unable to determine the number or frequency of changes made to
+automated edit settings because MCPA was not producing or retaining a
+record of these changes.
+3. Documentation for the system edit descriptions and the related
+decisions as to which edits should be disabled was lacking.
+Although the MMIS II programming documentation contained descriptions of
+its edits, these descriptions were often brief and vague. As a result, we
+frequently had to ask MCPA employees the purpose of edits and under what
+circumstances they would deny or suspend a claim. On numerous occasions,
+we received contradictory explanations from MCPA employees regarding the
+purpose of certain edits. Furthermore, written explanations as to why edits
+had been deactivated were generally not available and MCPA personnel could
+not always explain why edits were not being used. We were advised by DHMH
+management that certain edits were disabled when the system was obtained
+from the State of Florida, because the edit conditions may have applied to
+Florida but did not apply to Maryland. However, there was no documentation
+available to support the decision to disable these edits.
+The lack of documentation for the edits contributed to our difficulty in
+determining if certain edits should be active or disabled. Furthermore, MCPA
+could not substantiate that it took appropriate actions regarding these edits.
+While our testing disclosed that there were generally valid reasons to disable
+most of the edits that were not being used, additional information related to
+these edits was obtained primarily from one employee. This one employee
+generally had complete control over the automated MMIS II edit process,
+including the ability to change edit settings. If this employee were to cease
+employment at MCPA, because of the lack of documentation of the edit
+process, it would be extremely difficult for MCPA to be able to effectively
+manage the edit process.
+4. A programming error resulted in the improper payment of claims.
+During our testing of claims, we determined that certain claims were
+improperly processed in MMIS II due to a temporary change in edit settings
+that was not intended to apply to these claims. Consequently, these claims
+were paid rather than suspended by MMIS II for subsequent manual review.
+Our test of 15 of these claims paid in March 2008, totaling $1.05 million,
+disclosed that all 15 claims should not have been paid without further
+Office of 21
+Legislative
+Audits
+
+--- Page 26 ---
+research. Specifically, either the preauthorization numbers submitted in the
+provider claims tested did not match the preauthorization numbers in MMIS II,
+or there were no MMIS II preauthorization numbers. Preauthorization is
+required for certain claim types. The intention was that proper
+preauthorization data must be recorded in MMIS II for the dates of service in
+order for a claim to be paid. MCPA management agreed that the claims that
+we tested should not have been paid. After we advised MCPA about these
+claims, its research disclosed that claims totaling $5.3 million that were paid
+during March and April 2008 should have been manually reviewed before
+payment. It also determined that $1.4 million of these claims were paid in
+error and should be recovered from the providers.
+5. MMIS II access to pay forced claims that were suspended was
+inadvertently granted to 532 users.
+During our review of system access, we determined that 532 employees had
+unintentionally been provided with the capability to direct the MMIS II system
+to pay claims that had failed edits. According to the system access records,
+these employees had “inquiry only” access to the system screen that allows
+the user to direct MMIS II to pay suspended claims. However, we determined
+that the users actually had update access and these users could force the
+payment of claims that failed edits. We advised MCPA management
+personnel who immediately removed all access to this screen for the
+aforementioned 532 users.
+MCPA was not able to determine why the system allowed users full
+transaction capabilities when the intended setting was to only allow inquiry
+access. In addition, MCPA was unaware if the system settings for other
+critical screens allowed users with “inquiry only” access to modify critical data
+and execute transactions. Our test of selected forced claims found no
+instances of claims paid by unauthorized users.
+6. Although certain functional areas have significant backlogs, DHMH
+had not performed any formal studies of its staffing requirements
+to determine if its existing resources should be reallocated.
+DHMH management has not performed a formal study or review to determine
+the optimal number of employees required to perform its critical Medicaid
+functions. Although there have been several personnel changes, and a
+realignment of duties during the past several years, there has been no formal
+22 O f f ic e o f
+Legislative
+Audits
+
+--- Page 27 ---
+evaluation of the workload and the number and qualifications of the related
+employees required for each functional unit. Without determining the optimal
+staffing levels, MCPA cannot ensure that the appropriate number of its 615
+employees has been assigned to claims processing functions.
+Most claims are submitted electronically, pass the automated edits, and are
+paid with minimal employee effort. However, a large number of paper claims
+are still submitted that require manual processing. In addition, claims that
+are suspended by system edits must be reviewed manually by an MCPA
+employee who then determines if the claim should be paid or denied. Claims
+paid in this manner are referred to as ‘forced’ claims because the claims are
+paid even though they have not passed all MMIS II edits. Approximately 60
+MCPA employees in three units are responsible for processing paper claims
+and for determining the resolution of these suspended claims; during the
+nine-month period ending March 31, 2009, these units processed a total of
+721,074, claims totaling $301.5 million. All three of these units had
+backlogs. For example, as of February 13, 2009, one unit had 52,787
+unprocessed claims, including claims that were approximately two months
+old. We were advised by MCPA management that claim backlogs are typical
+due to the lack of sufficient number of employees assigned to this unit. In
+addition, inadequate staffing could also limit the number of manually
+processed claims that are subsequently reviewed for propriety by supervisory
+personnel.
+7. Formal training for employees performing critical and complex
+functions is lacking.
+MCPA does not have a training program for any employees performing critical
+claims processing functions. Specifically, employees in the three units
+(Claims Exam Entry, Adjustments, and Provider Relations) responsible for
+reviewing claims and determining if these claims should be paid or denied did
+not receive formal training for their job duties. In order to review and
+determine the propriety of these claims, extensive knowledge of Medicaid
+practices must be acquired and utilized. For example, knowledge of system
+edits, billing procedures, medical procedures, and diagnoses codes, must be
+used to properly evaluate suspended claims. We were advised by MCPA
+management that there was no formal training program (such as a training
+curriculum) for these employees. Rather, these employees received on-the-
+job instruction, as needed, from supervisors. We noted that one supervisor
+prepared an ad-hoc (informal) written guide for users to follow when
+processing forced claims. However, based on responses to our audit inquiries
+during our fieldwork regarding edit explanations and claims review
+Office of 23
+Legislative
+Audits
+
+--- Page 28 ---
+procedures, certain individuals responsible for supervising claims processing
+employees did not appear to be adequately trained themselves. Considering
+the significant effects from rather complex decisions that these employees
+make, a formal training program is warranted.
+Recommendations
+1. We recommend that MCPA
+a. process all claims through all applicable system edits;
+b. further investigate the edits for which it could not be determined if they
+should have been disabled, and determine whether these edits should
+be used;
+c. review the questionable payments that we identified, and obtain
+recovery of any improper payments; and
+d. where systemic issues exist, identify and recover any additional
+overpayments.
+2. We recommend
+a. that DHMH modify its system and procedures to require that all
+changes to edit settings be independently approved by supervisory
+personnel who are not involved with initiating the changes;
+b. that written explanations be prepared and retained for each change to
+edit settings;
+c. that records of all changes to edit settings be maintained that indicate
+what the changes were, when the changes were made, and by whom;
+and
+d. that edit setting modifications be documented and that, after the
+modifications are made, the effects of the changes be monitored to
+determine if the changes had only the desired effect.
+3. We recommend that MCPA develop clear written descriptions for all MMIS
+II edit settings that indicate the purpose of the edits and categories of
+claims they impact. These descriptions should include explanation(s) for
+any edits that are disabled.
+4. We recommend that all of the improperly processed claims, due to a
+programming error that we identified, be reviewed for propriety and that
+any payments determined to have been made in error be recovered.
+24 O f f ic e o f
+Legislative
+Audits
+
+--- Page 29 ---
+5. We recommend that update access to critical data only be provided to
+employees who require such access to perform their job duties, and that
+DHMH periodically review employee access.
+6. We recommend that DHMH perform a study to determine the staffing
+needed to ensure adequate claims processing capacity and effective
+control procedures for Medicaid claims. We also recommend that DHMH
+allocate the needed staff to these functions.
+7. We recommend that MCPA develop a training program that provides.
+structured and consistent training for new employees, as well as
+continuing training for existing employees, to ensure that employees with
+claims processing duties have the requisite knowledge to perform their
+duties.
+Office of 25
+Legislative
+Audits
+
+--- Page 30 ---
+26 O f f ic e o f
+Legislative
+Audits
+
+--- Page 31 ---
+Objective 2
+Post-Payment Review Procedures
+Conclusion
+This audit objective was to evaluate the effectiveness of the post-payment
+review procedures performed by DHMH over fee-for-service Medicaid claims.
+During fiscal year 2009, fee-for-service claims totaled approximately $1.51
+billion. Post-payment review procedures are essential to help determine that
+medical procedures paid for were actually provided and were medically
+necessary.
+Our audit disclosed that the post-payment review process was not formally
+structured and adequately documented. For example, written risk
+assessments were not prepared to identify high-risk types of claims that
+should be subject to routine additional scrutiny. There were no written
+requirements as to the type and frequency of claims data analysis (utilization)
+reports to run and the expected level of research required. Furthermore,
+comprehensive lists of specific claims data analysis reports actually produced,
+specific claims reviewed, and records of overpayments recovered as a result
+of the related investigations were not maintained. Such information can be
+used to more effectively direct future efforts. Consequently, assurance was
+lacking that the post-payment review process was as effective as possible.
+We also noted that certain reports designed to identify potentially improper
+provider billings were not routinely produced. For example, reports of “spike”
+payments (large amounts of claim payments to a provider over a short period)
+were not produced. In addition, reports to identify unbundling of procedures
+to increase reimbursements were not routinely produced. (Unbundling occurs
+when providers bill several related procedure codes rather than bill for one
+comprehensive code that includes all services provided.) Furthermore,
+appropriate procedural changes were not always implemented when post-
+payment reviews identified systemic deficiencies that allowed improper
+payments to occur. In one instance, a post-payment review detected that
+MCPA paid claims for female recipients of a drug intended only for males;
+however, MMIS II was not promptly modified to prevent future similar
+occurrences.
+We noted that the post-payment review practices for hospital billings need
+improvement. Although MCPA contracted with a vendor to audit in-state paid
+hospital claims, these audits were not completed timely. As of December 31,
+Office of 27
+Legislative
+Audits
+
+--- Page 32 ---
+2008, no claims paid since January 1, 2004 had been subject to audit by the
+vendor. Also, MCPA did not verify that it paid the proper rates for out-of-state
+hospital bills. Our limited testing of payments to out-of-state hospital billings
+disclosed an overpayment of $87,054.
+Finally, DHMH did not have an effective process for pursuing reimbursement
+from third parties (such as private health insurers) that may be liable for the
+costs of treatment provided to Medicaid recipients.
+Background
+As is the case with all fee-for-service health plans, the entity that pays the
+claims does not know if the claims submitted were for services that were
+actually provided and were medically necessary. While a properly functioning
+automated edit process can prevent some improper payments, such a system
+cannot ensure that all services paid for were appropriate. To help ensure the
+propriety of claims paid, state Medicaid programs have post-payment review
+procedures. One critical component of a Medicaid post-payment review
+system is the Surveillance and Utilization Review (SURS) process. This
+process, which as of April 2007 is administered by the DHMH’s Office of
+Inspector General (OIG), attempts to identify potentially improper or fraudulent
+paid claims by performing computerized analyses of claims data. Such an
+analysis could, for example, indicate which physicians were paid for
+substantially more procedures per patient than the average physician in the
+program. Once such data anomalies are identified, provider case records can
+be reviewed to determine if the procedures paid for were actually provided
+and were medically necessary. In addition, MCPA has contracted with a
+vendor to audit hospital claims.
+Findings
+8. Documentation of the post-payment review process was in need of
+significant improvement.
+The organization and documentation of the entire post-payment process
+should be improved. There were no comprehensive written procedures for the
+post payment review processes, such as the SURS process. As a result, there
+were no specific requirements as to the type and frequency of computer
+utilization reports (computerized analyses of claims data) to run to identify
+potentially improper or fraudulent paid claims, and there was no formal
+guidance as to which DHMH units were responsible for reviewing the reports.
+There were also no written directions regarding the level of research required
+28 O f f ic e o f
+Legislative
+Audits
+
+--- Page 33 ---
+to review the propriety of the claims identified in the reports, as well as no
+written guidance regarding the level of extended testing expected when
+improper claims were noted during a review. Also, utilization reports
+produced were not based on formal risk assessments to identify the higher
+risk claim types for analysis. One state that we contacted indicated that it
+completed a yearly risk assessment based on several factors, including
+fluctuations in payments, changes in payment rules, and recent industry
+changes. The results of such a risk assessment could be used by DHMH
+management to direct resources to be more effective and efficient in
+identifying potentially improper payments.
+On August 1, 2008, DHMH issued draft guidelines and procedures for
+conducting post-payment reviews or investigations of allegations of fraud,
+waste, or abuse. This draft provides general guidance rather than specific
+instructions. For example, the guidelines do not address how investigative
+efforts are to be documented and the retention requirements for SURS
+reports or report results. The guidelines also do not provide specific direction
+or procedures for permanent correction of claim processing weaknesses
+noted during the post payment reviews as further discussed in Finding 10.
+There was no comprehensive list or database of all the utilization reports
+produced and the results of reviews performed on the related claims. As a
+result, we were not able to readily determine the total population of utilization
+reports produced, or effectively evaluate the review processes performed and
+investigations conducted for the related claims. Moreover, DHMH likewise
+cannot effectively monitor the effectiveness of the SURS process. A
+comprehensive list or database of utilization reports produced could be used
+by DHMH employees and management to ensure that sufficient claims
+utilization reports were produced and properly investigated, and to help
+determine which utilization reports should be produced in the future.
+Records were typically not maintained in a manner that would allow us, or
+DHMH management, to easily evaluate the results of the claims reviewed.
+Documentation was frequently not available to support the number of claims
+shown on the reports that were reviewed, the type of reviews performed (such
+as the specific computerized claims analyses), and the conclusion of the
+claims reviewers. Also, reports produced were not maintained after three
+months unless the individual user designated a longer retention period.
+Furthermore, records of actual recoveries resulting from post-payment
+reviews, including SURS, were not maintained. The OIG did maintain a record
+of recommended recoveries, but the actual recoveries were frequently less
+than what was recommended. For example, one case was investigated and
+Office of 29
+Legislative
+Audits
+
+--- Page 34 ---
+the OIG recommended recoveries totaling approximately $194,000, but no
+actual recovery was initiated for this case and no recoveries were made. In
+this instance, the OIG found that the professional credentials for the
+provider’s employees were expired or not available at the time of the review.
+The investigation covered services provided during the period from January 5,
+2005 through March 31, 2006. We noted payments were made to this
+provider totaling approximately $500,000 for the period July 1, 2007 through
+March 31, 2008.
+9. Certain utilization reports were not produced or fully used.
+While DHMH produced frequent reports based on algorithms deemed to
+identify high-risk claims, certain ‘best practice’ reports — as determined by
+contacting other states and the Federal Centers for Medicare and Medicaid
+Services (CMS) — were not utilized, and certain other reports were not utilized
+as fully as possible.
+• There was no comprehensive procedure or report to identify all payments
+made on behalf of deceased recipients for services provided after their
+dates of death.
+• Routine utilization reports were not produced to determine if providers
+performed services outside of their specialty. However, in October 2006,
+a one-time utilization report was run for one provider that was enrolled as
+a podiatrist but who billed for categories of services related to heart
+procedures. As of September 1, 2008, this case was still under
+investigation.
+• There have been no reports produced to identify ‘spike’ payments made to
+providers that submitted large amounts of claims in a short period.
+• Reports to determine if procedures were ‘unbundled’ were not produced
+on a regular basis. Unbundling occurs when providers bill several related
+procedure codes rather than bill for one comprehensive code that includes
+all services provided. By improperly billing separate procedure codes,
+reimbursement amounts are greater than the amounts that would be paid
+under the comprehensive procedure codes.
+While there are nearly a limitless number of utilization reports that could be
+produced from claims data, to increase the effectiveness and efficiency of the
+organization, reports that have been previously used and proven effective, as
+well as potential reports that have proven beneficial to other State Medicaid
+30 O f f ic e o f
+Legislative
+Audits
+
+--- Page 35 ---
+operations, should be regularly evaluated to identify claims with the most
+potential for recoveries.
+10. Procedures were not always revised to correct deficiencies
+identified in post-payment reviews.
+Preventive controls were not always implemented when systematic
+deficiencies were noted during post payment claim reviews. Specifically,
+during the course of our audit, we noted the following deficiencies:
+• A post payment review detected adopted children that were eligible for
+federal Medicaid reimbursements, but for which their medical care was
+paid only from State general funds; however, DHMH did not correct their
+eligibility for federal reimbursement in MMIS II. Periodically, a utilization
+report was run for general fund claims paid for adopted children. An
+employee reviewed the recipient eligibility data to determine if any of the
+recipients should have been categorized so that their claims were eligible
+for federal reimbursement. A manual adjustment was performed, when
+appropriate, so that the proper federal match could be received for the
+eligible claims. However, the recipient eligibility was not corrected in
+MMIS II so that future claims would also be automatically processed for
+federal reimbursement. For the period from October 1, 2007 through
+June 2008, a manual adjustment totaling $88,000 was made so that the
+State could obtain a $44,000 (50 percent) federal reimbursement for
+previously eligible adopted children for whom medical care was being paid
+for with State general funds.
+• DHMH - OIG concluded an investigation of a case based on SURS
+utilization reports that showed instances in which payments were made to
+a provider for a male-specific drug given to female recipients. As a result
+of the investigation, recoveries were made from the provider. The
+investigation also discovered that the system edit for this procedure was
+not set to prevent payment based on the patients’ sex and, therefore, did
+not preclude payment of claims billed on behalf of a female recipient for a
+procedure that can only be performed on a male patient. In December
+2007, the DHMH-OIG notified the MCPA of the need to correct the related
+system edit; however, the correction was not made until we advised MCPA
+of the miscoding.
+Office of 31
+Legislative
+Audits
+
+--- Page 36 ---
+11. Additional procedures could be used to publicize the DHMH fraud
+hotline and more data should be maintained to monitor its
+effectiveness.
+DHMH operates a hotline and a website to report instances of Medicaid fraud,
+waste, and abuse. However, procedures could be improved to increase their
+effectiveness.
+A call log has been maintained since January 2008, which shows that 81 calls
+were received during calendar year 2008. The majority of calls were
+unrelated to Medicaid fraud, waste, and abuse; rather, many calls were
+questions and comments about other DHMH operations. The DHMH website
+also has a method to report instances of fraud via email. A log of the emails
+that were received from the DHMH website showed that 22 referrals were
+received from the implementation date of the website (August 2008) through
+December 31, 2008.
+DHMH uses several methods to advertise the hotline, such as posting the
+telephone number on its website and placing posters in State-owned hospitals
+and DHMH offices. Based on our previous survey of other state governments,
+DHMH could use the following methods to increase public awareness of its
+Medicaid fraud hotline:
+• Placing information and the telephone number on State employee check
+stubs
+• Including the hotline number on DHMH business cards
+• Placing posters and brochures in non-DHMH State government buildings
+Stakeholders that are likely to be knowledgeable about Medicaid fraud,
+waste, and abuse cases include Medicaid recipients, as well as providers and
+their staff. In order to reach these individuals, DHMH should consider
+additional methods to advertise the hotline, such as placing posters at private
+provider locations, and working in conjunction with DHR to notify recipients
+during eligibility determinations. Considering the limited number of referrals
+received on the hotline and website, additional publicity about the fraud
+referral methods may be beneficial.
+We also noted that DHMH did not maintain statistics to monitor the
+effectiveness of the hotline. Although logs were maintained to record the
+referrals and, when applicable, to indicate the DHMH unit that was assigned
+the case, the logs typically did not contain the ultimate disposition of the
+investigations. Specifically, statistics were not maintained to show the origin
+32 O f f ic e o f
+Legislative
+Audits
+
+--- Page 37 ---
+and outcome of all hotline tips, such as the number of hotline tips that led to
+recoveries or referrals to the Medicaid Fraud Control Unit (MFCU).
+Increasing the efforts to make individuals aware of the hotline, and
+maintaining comprehensive statistics may improve the effectiveness of the
+hotline.
+12. Post-payment reviews of in-state hospital claims could be
+improved. DHMH should ensure that a sufficient number of claims
+are audited and that they are audited more timely.
+Audits of hospital claims were not timely. DHMH has contracted with a vendor
+to review medical documentation for in-state hospital claims. The scope of
+the contract requires the vendor to obtain and review documentation for
+payments made to hospitals to determine if reimbursement was based on
+actual services rendered to patients. For a specified period, as directed by
+DHMH, the vendor reviews hospital medical records for documentation
+evidencing that the services were provided. The vendor is compensated by
+the providers on a contingency fee basis. Specifically, the provider must pay
+the vendor a percentage of the amount of overpayments found during claims
+reviews and must also return the identified overpayment amounts to MCPA.
+This post-payment review mechanism was recognized by CMS as a
+benchmark best practice. During fiscal year 2008, the contractor identified
+overpayments totaling approximately $3.3 million.
+• Our fiscal compliance audit report on MCPA, dated July 28, 2006, noted
+that MCPA did not ensure that the hospital audit contractor performed the
+required number of hospital bill audits. At the time that our audit work
+was conducted, the contract required a specific number of reviews to be
+performed. For example, the contractor was required to audit at least 50
+percent of the inpatient claims over $6,000 and the outpatient claims
+over $1,000. Effective December 2005, DHMH amended the contract to
+no longer require a specific number of audits; rather, the contract stated
+that the contractor would use its own criteria to determine which claims
+would be subject to medical documentation reviews during the hospital bill
+audit. However, DHMH management was not able to adequately describe
+the selection criteria used by the vendor, nor had DHMH evaluated the
+selection criteria used by the vendor.
+Office of 33
+Legislative
+Audits
+
+--- Page 38 ---
+• There was a significant time lag between the claim payment dates and the
+dates the claims were reviewed by the vendor. As of December 31, 2008,
+the most recent claims subject to review covered services paid for during
+the period from October 1, 2001 through December 31, 2003, a delay of
+five years. (According to the contractor reports, there were a total of
+33,193 hospital claims paid during this period; however, certain claims
+that were outside the scope of the audit, such as inpatient claims less
+than $6,000 and claims that have historically proven to be areas of low
+risk, were excluded. The contractor determined that 27,312 of these
+claims were subject to the selection process, of which 6,373 were
+selected.) We were advised by MCPA management that the delay is
+intentional because it allows time for the hospitals to perform self-audits.
+Hospitals have an incentive to perform accurate self-audits and return
+amounts paid for undocumented services since the hospitals are subject
+to additional fees when the MCPA contractor audits result in claim
+retractions. While some delay is necessary, the Medicaid provider
+agreement only requires that providers maintain adequate records
+describing the nature and extent of goods and services provided for six
+years. MCPA advised that certain claims for services provided during
+calendar year 2003 can no longer be audited since the six-year record
+period has lapsed.
+• The hospital bill audit contract expired on July 31, 2008. MCPA did not
+procure a new contract for hospital bill audits until July 1, 2009.
+13. DHMH did not always verify that payments to out-of-state hospitals
+were made at the proper rates.
+Our limited tests of out-of-state hospital payments resulted in the
+identification of an overpayment of $87,000 to one hospital. Maryland
+Medicaid reimburses out-of-state hospitals the lesser of the billed amount or
+the amount that the host state’s Medicaid program would pay. Generally, in
+order to determine the proper reimbursement rate, DHMH is required to
+receive and review documentation of the host state’s Medicaid rate structure
+for the specific bills prior to making payments. Our test of 27 payments to
+out-of-state hospitals for claims paid during fiscal years 2006 through 2008,
+totaling $813,276, disclosed that 7 claims totaling $548,928 were paid by
+DHMH to five hospitals without obtaining documentation of the proper rates
+from the applicable states. After we brought this to the attention of DHMH
+management, they could not readily obtain the proper rates for six of these
+claims because the rates were no longer recorded in MMIS II. The rate
+34 O f f ic e o f
+Legislative
+Audits
+
+--- Page 39 ---
+documentation obtained from the host state for the remaining claim payment,
+totaling $128,375, indicated that the proper payment should have been
+$41,321 — an overpayment of $87,054.
+Out-of-state hospital claims must usually be processed manually since DHMH
+must obtain documentation of the proper rates from the host state(s). (MMIS
+II will only process claims automatically when rates are recorded in the
+system.) We were advised by DHMH management that maintaining current
+rates in MMIS II for all out-of-state hospitals would not be feasible due to the
+its limited capacity. Nevertheless, for six of the seven aforementioned claims,
+the payments were made automatically because rates had been recorded in
+MMIS II; accordingly, no documentation was obtained for the rates used to
+pay these claims. Subsequently DHMH management advised us that they
+believed the rates to be incorrect (overstated), and that they would remove
+the rates for these hospitals from MMIS II so that future claims would have to
+be paid manually only after receipt of documentation of the host states rates.
+According to MCPA records, payments to out-of-state hospitals totaled
+approximately $21.3 million for the period from July 1, 2005 through June 30,
+2008.
+14. Procedures to obtain information regarding third-party liabilities
+could be improved.
+Payments made for procedures that are performed on patients with certain
+specific diagnosis codes (such as injuries caused by trauma) are coded in
+MMIS II so that a letter is produced to attempt to determine if there is a legally
+responsible third party to pay the claim, such as a private health insurer or a
+settlement payment from a liability insurer. The letter and related
+questionnaire is sent to the recipient requesting information about the
+incident that may have caused the injuries requiring medical services. The
+recipient is requested to answer the questionnaire, and return it to DHMH. If
+the questionnaire is not returned within 30 days, a second request is sent. If
+the second request is not returned, DHMH does not pursue the issue further.
+According to DHMH records, 10,203 second request tort letters and related
+questionnaires were sent during fiscal year 2008; however, only 2,342 of
+these questionnaires were returned. DHMH management advised that they
+do not send additional requests because they believe there is a low likelihood
+of receiving a response since the medical assistance population is transient.
+Office of 35
+Legislative
+Audits
+
+--- Page 40 ---
+The Department of Human Resources (DHR) is responsible for performing an
+annual reassessment of eligibility for Medicaid clients. The reassessment is
+typically performed through the mail, as necessary forms are sent to the
+client, and submitted back to DHR representatives to verify that the
+individuals are still eligible. In an effort to improve the aforementioned
+response rate, DMHM could have DHR send the questionnaires with the
+annual reassessments.
+Recommendations
+8. We recommend
+a. that DHMH develop comprehensive written procedures for the post-
+payment review process;
+b. that the procedures developed indicate how topics for SURS reports
+are to be selected and their related frequencies, how data on reports
+are to be investigated, how reviews of data on reports are to be
+documented, and specify policies for retention of SURS reports and
+the related documentation of investigation on the reports; and
+c. that a listing of all SURS reports, the number of claims reviewed, and
+the related results (such as recoveries) be maintained and be used
+when determining which areas to select for future SURS reviews.
+9. We recommend that DHMH perform periodic and documented
+assessments of areas or categories of claims considered to be high risk
+for fraud and abuse, and document how these assessments were
+addressed in the post-payment review procedures through the use of
+utilization reports.
+10. We recommend that DHMH modify its procedures (such as edits in MMIS
+II) to prevent improper payments due to systemic issues discovered
+during the post-payment review process.
+11. We recommend that DHMH
+a. consider additional methods to publicize its Medicaid fraud hotline
+and website-based fraud referral process, and
+b. maintain statistics that can be used to evaluate the effectiveness of
+the fraud referral procedures.
+36 O f f ic e o f
+Legislative
+Audits
+
+--- Page 41 ---
+12. We recommend that DHMH
+a. establish and maintain a current contract for post-payment audits of
+hospital claims, and
+b. review and assess the procedures used by the contractor to select
+claims for audit to ensure a sufficient number of hospital claims is
+audited in a timely manner.
+13. We recommend
+a. that DHMH verify that payments to out-of-state hospitals are based
+on the appropriate rates, and
+b. that previous payments to out-of-state hospitals are reviewed and
+any overpayments identified are recovered.
+14. We recommend that DHMH develop and implement a more effective
+process for pursuing reimbursement from third parties that may be liable
+for treatment provided to Medicaid recipients, such as working with DHR
+during the reassessment process.
+Office of 37
+Legislative
+Audits
+
+--- Page 42 ---
+38 O f f ic e o f
+Legislative
+Audits
+
+--- Page 43 ---
+Objective 3
+Obtaining Federal Funds for Other
+Administrations
+Conclusion
+This audit objective was to evaluate the effectiveness of the voucher claim
+processes to obtain federal Medicaid reimbursements for services provided
+through the Mental Hygiene Administration (MHA) and the Developmental
+Disabilities Administration (DDA).
+Numerous Medicaid claims that were paid by MHA and DDA were
+subsequently rejected by MMIS II; as a result, the receipt of federal Medicaid
+funds for these claims was delayed or not obtained. For example, as of
+December 2008, claims paid for DDA services provided in calendar year
+2006, totaling approximately $8.4 million, were submitted and denied for
+federal reimbursement by MMIS II and remained outstanding. MHA claims for
+federal reimbursement totaling $14.5 million that were rejected by MMIS II
+were outstanding as of January 2009, including $6.3 million in claims that
+were outstanding for more than one year.
+Since these claims were previously determined to be legitimate and were paid
+by these Administrations, the amount of claims rejected by MMIS II for federal
+reimbursement purposes should be minimal. However, the large number of
+claims rejected by MMIS II from these DHMH administrations has been a long-
+standing problem. Comments regarding this issue have been in our audit
+reports for the last ten years. Moreover, DHMH lacked a systematic process—
+involving MHA, DDA, and MCPA—to identify the causes of the rejected claims
+and to modify procedures to reduce the magnitude of rejected claims in the
+future. We also noted that follow-up efforts to resolve the rejected claims
+were frequently untimely, resulting in lost interest to the State, and lost
+federal recoveries.
+Background
+MHA and DDA are responsible for paying providers for mental health services
+and services provided to individuals with developmental disabilities. Both
+agencies pay providers through separate automated payment systems, and
+subsequently submit paid claims to MCPA for MMIS II processing to obtain
+Office of 39
+Legislative
+Audits
+
+--- Page 44 ---
+federal reimbursements. Since the processing of these claims through MMIS
+II does not generate payments to providers but only reimbursements from the
+federal government, these are referred to as “voucher only” claims. MHA
+contracts with an Administrative Service Organization (ASO) to pay its claims
+and to electronically submit eligible claims to MMIS II for federal
+reimbursement. DDA uses an in-house computer system (Provider Consumer
+Information Service or PCIS) to directly process claims and to electronically
+submit eligible claims to MMIS II. During fiscal year 2009, Medicaid funding
+received by MHA and DDA totaled $517 million ($280 million was received by
+DDA and $237 million was received by MHA). These paid claims must pass
+MMIS II edits in order for reimbursement to be obtained. Since both DDA and
+MHA claim payments to providers are made outside of MMIS II, and the claims
+must be processed through MMIS II for federal reimbursement, MMIS II edits
+that deny these claims may cause delays in receipt of federal reimbursement
+to the State, or denial of federal reimbursement.
+Findings
+15. There was no systematic process involving MHA, DDA, and MCPA
+to analyze the cause(s) of rejected federal fund reimbursement
+claims and to modify procedures to reduce the amount of future
+rejected claims.
+Numerous claims for federal reimbursement from DDA and MHA were
+rejected by MMIS II. However, there was no systematic process among DDA,
+MHA, and MCPA to determine the causes for the rejected claims so that
+procedures and processes could be modified to minimize future rejected
+claims.
+For example, during a five-week period ending in August 2008, 7,657 MHA
+claims totaling $3.7 million were rejected by MMIS II. Similarly, 116,000 DDA
+claims submitted during August 2008 totaling $12.2 million were rejected by
+MMIS II. As of January 6, 2009, outstanding MHA rejected claims for federal
+reimbursement totaled $14.5 million, including $6.3 million of rejected claims
+that had been outstanding for more than one year. (A cumulative record of
+outstanding DDA rejected claims for federal reimbursement was not
+maintained, as noted on the next page.) Obtaining the federal funds for these
+rejected claims requires labor-intensive investigative efforts by DDA and MHA.
+The reason(s) for the rejections must first be determined and corrective
+action, often for each claim, must then be taken so that the claims can be
+submitted to the federal government.
+40 O f f ic e o f
+Legislative
+Audits
+
+--- Page 45 ---
+Our tests indicated that some DDA claims were being unnecessarily rejected
+by MMIS II. We tested 25 DDA claims that were rejected for federal funding
+by MMIS II during July 2007 and determined that 10 of the claims should not
+have been rejected. For example, 8 of the claims were rejected because each
+recipient’s eligibility was not properly recorded in MMIS II.
+The difficulties of MHA and DDA in obtaining federal Medicaid funds for their
+previously paid claims has been a long-standing issue, for at least 10 years.
+Our October 20, 1999 audit report on MHA, and several subsequent reports
+on both DDA and MHA, have included comments about these difficulties.
+Despite these ongoing deficiencies, there have been no systematic efforts by
+DDA, MHA, and MCPA to reduce the amount of rejected claims for federal
+reimbursement. For example, no cumulative records of the amount of DDA
+rejected claims for federal reimbursements or the causes of rejected claims
+are maintained. Furthermore, records of DDA rejected claims that were never
+resolved were not maintained.
+16. Rejected claims for federal reimbursement were not promptly
+investigated and resolved, adequate records of rejected claims
+were not maintained, and certain rejected claims were not
+pursued.
+We noted many instances in which federal funds were not obtained for
+extended periods after State funds had been disbursed to providers. For
+example, payment data we obtained from DDA, which we determined was
+reliable, showed that, as of December 2008, claims paid for services provided
+in calendar year 2006, totaling approximately $8.4 million, were submitted
+and denied for federal reimbursement and remained outstanding. The federal
+government generally will reimburse claims for up to two years after the
+calendar quarter in which the expenditures were made. If these claims were
+not successfully processed through MMIS II, federal fund reimbursements of
+up to $4.2 million (50 percent of $8.4 million) may have been lost. As
+previously mentioned, MHA claims for federal reimbursement totaling $14.5
+million that were rejected were outstanding as of January 2009, including
+$6.3 million in claims that were outstanding for more than one year. At a
+minimum (assuming that federal reimbursement for all of these claims are
+received immediately), the State will have lost interest income totaling at least
+$243,000.
+Office of 41
+Legislative
+Audits
+
+--- Page 46 ---
+Records for rejected DDA claims were not maintained in a manner that
+facilitated a complete and timely resolution of the claims. DDA received a
+weekly status report that showed claims that were accepted through MMIS II
+for reimbursement and claims that were denied. Although DDA received a file
+of rejected claims, it did not document the efforts used to investigate and
+correct the claims, and the ultimate status of the claims.
+DDA did not typically submit claims to MMIS II for reimbursement beyond nine
+months past the dates of service. DDA management advised us that they
+adhere to the requirements in State regulations, which allow providers only
+nine months to submit Medicaid claims for reimbursement. (Effective March
+1, 2008, State regulations allow providers twelve months to submit claims.)
+However, federal regulations allow States to submit claims for reimbursement
+up to two years after the calendar quarter in which the expenditures were
+made. Therefore, regardless of the dates of service, DDA may submit claims
+within two years from the expenditure dates.
+Recommendations
+15. We recommend
+a. that MCPA, in conjunction with DDA and MHA, improve the process
+for obtaining federal Medicaid funds for voucher claims;
+b. that, at a minimum, MCPA continually track the number and amount
+of claims rejected, determine why the claims were rejected,
+document what actions were needed to resolve the rejection of
+claims, and develop processing modifications that will reduce the
+number of future rejections by MMIS II; and
+c. that, if necessary, DHMH consider alternative methods of processing
+claims for DDA and MHA.
+16. We recommend that MCPA, in conjunction with DDA and MHA, ensure
+that all rejected claims for federal Medicaid funds are promptly pursued
+and resolved.
+42 O f f ic e o f
+Legislative
+Audits
+
+--- Page 48 ---
+PERFORMANCE AUDIT RESPONSES
+MEDICAL CARE PROGRAMS
+November 19, 2009
+MMIS EDITS
+AUDITOR’S FINDING #1
+The disabling of claim edits appeared reasonable for most deactivated
+edits, but some edits should not have been deactivated. The propriety
+of deactivating certain other edits could not be determined.
+AUDITOR’S RECOMMENDATION
+We recommend that MCPA:
+a. process all claims through all applicable system edits;
+b. further investigate the edits for which it could not be determined
+if they should have been disabled, and determine whether these
+edits should be used;
+c. review the questionable payments that we identified, and obtain
+recovery of any improper payments; and
+d. where systemic issues exist, identify and recover any additional
+overpayments.
+ADMINISTRATION’S RESPONSE
+1a: The Administration agrees with the recommendation to process all claims
+through the system edits that are determined appropriate and will be
+undertaking this task as we develop the requirements for the new MMIS. In the
+interim, MCPA believes that there are adequate controls to minimize the risk that
+inappropriate claims are paid. These controls include but are not limited to: prior
+review of medical necessity and limiting the medically necessary number of
+inpatient days to be claimed, existing MMIS edits, post payment reviews of
+forced claims, post payment hospital bill audits and credit balance audits, and
+utilizing the capabilities of SURs to identify patterns of over utilization and
+potential fraud and abuse. As the review of MCPA’s claims and edit processes
+revealed, 40 of the 55 edits representing $690 million out of $976 million in
+claims, reviewed by the Legislative Auditors were determined to be proper to lift
+the edits. The results of the PERM audit, performed by CMS, indicate that the
+MMIS does support the correct payment of claims according to Maryland policy.
+1
+
+--- Page 49 ---
+1b: The Administration agrees with the recommendation to investigate the 6
+edits, totaling $186 million, that the Legislative Auditors were not able to
+determine if they should be bypassed or not. MCPA has investigated these edits
+and continues to affirm that these edit overrides are appropriate.
+1c/d: Additionally, the Administration agrees with the recommendation to review
+the questionable payments identified and ensure recovery of improper payments.
+For the 9 edits, totaling $98 million, which were categorized as “should not have
+been lifted”, MCPA has reviewed the rationale for lifting the edits and has taken
+appropriate steps to change the status for several of the edits from pay to
+suspend or deny. The fact that an edit should have been set does not indicate
+that the claim was improper and should not have been paid. Subsequent review
+of the suspended claims by MCPA staff could result in the edit being overridden,
+subject to the 3% post-payment review. Coding errors by providers may also
+cause an edit to be set and require correction and resubmission in order to pass
+the edit. A significant number of the overridden claims occurred as a result of
+lifting the edits for special MHA batches to obtain federal funding, which MHA
+and MCPA are working to reduce or eliminate with the new MHA ASO vendor.
+Additional controls over inappropriate payments exist as part of the SURS post
+payment review process in which providers are subject to audits based upon
+abnormal billing patterns (see audit finding #10 response for additional info).
+Where MCPA believes that lifting the edit resulted in claims that were improper,
+we are taking steps to retract the improper payments.
+2
+
+--- Page 50 ---
+AUDITOR’S FINDING #2
+Adequate internal controls were not established over changes to edit
+settings.
+AUDITOR’S RECOMMENDATION
+We recommend
+a. that DHMH modify its system and procedures to require that all
+changes to edit settings be independently approved by
+supervisory personnel who are not involved with initiating the
+changes;
+b. that written explanations be prepared and retained for each
+change to edit settings;
+c. that records of all changes to edit settings be maintained that
+indicate what the changes were, when the changes were made,
+and by whom; and
+d. that edit setting modifications be documented and that, after the
+modifications are made, the effects of the changes be monitored
+to determine if the changes had only the desired effect.
+ADMINSTRATION’S RESPONSE
+2a: The Administration disagrees with the recommendation to modify its system
+so that on-line changes to edits are approved by supervisory personnel who are
+not involved with initiating the changes. The Administration is currently in the
+process of replacing its legacy system and any significant systemic changes to
+the current system are on hold. In the interim, the Administration agrees with
+the recommendation to modify its procedures so that all changes to edits are
+approved by supervisory personnel who are not involved with initiating the
+changes.
+2b: The Administration agrees with the recommendation to prepare and retain
+written explanations for each change to edit settings.
+2c/d: Additionally, the Administration is producing the MMIS report that contains
+edit settings. This report will be reviewed by executive management. All
+documentation pertaining to the edit settings will be maintained. The
+Administration is currently training a staff person that can perform this function
+independently of claims processing staff. The training is expected to be
+completed by December 15, 2009.
+3
+
+--- Page 51 ---
+AUDITOR’S FINDING #3
+Documentation for the system edit descriptions and the related
+decisions as to which edits should be disabled was lacking.
+AUDITOR’S RECOMMENDATION
+We recommend that MCPA develop clear written descriptions for all
+MMIS II edit settings that indicate the purpose of the edits and
+categories of claims they impact. These descriptions should include
+explanation(s) for any edits that are disabled.
+ADMINSTRATION’S RESPONSE
+The Administration agrees with the recommendation and as part of the
+requirements analysis for the design, development and implementation of the
+new MMIS, the Administration will be identifying all edits and their disposition
+appropriate for the Maryland Medicaid Program.
+4
+
+--- Page 52 ---
+AUDITOR’S FINDING #4
+A programming error resulted in the improper payment of claims.
+AUDITOR’S RECOMMENDATION
+We recommend that all of the improperly processed claims, due to a
+programming error that we identified, be reviewed for propriety and
+that any payments determined to have been made in error be
+recovered.
+ADMINSTRATION’S RESPONSE
+As recommended, the Administration reviewed 766 claims as identified by the
+auditors. The review revealed the following results:
+The 766 claims were released mistakenly during the initial weeks when we
+required providers to submit claims using their NPI. Claims that did not have a
+NPI were suspended and were eventually paid after holding them for two weeks.
+After reviewing the claims further, it was determined that approximately one-half
+of the claims would need to be retracted. Therefore, the Administration
+recouped the money owed from the providers during the November 14, 2009
+payment run.
+5
+
+--- Page 53 ---
+AUDITOR’S FINDING #5
+MMIS II access to pay forced claims that were suspended was
+inadvertently granted to 532 users.
+AUDITOR’S RECOMMENDATION
+We recommend that update access to critical data only be provided to
+employees who require such access to perform their job duties, and
+that DHMH periodically review employee access.
+ADMINISTRATION’S RESPONSE
+The Administration agrees with the recommendation.
+The security access that was granted to unauthorized staff has been revoked.
+This was resolved almost immediately when it was reported to the
+Administration. As per the auditor’s request, the Administration has modified the
+MMIS Security Application to restrict individuals from updating critical data.
+6
+
+--- Page 54 ---
+AUDITOR’S FINDING #6
+Although certain functional areas have significant backlogs, DHMH had
+not performed any formal studies of its staffing requirements to
+determine if its existing resources should be reallocated.
+AUDITOR’S RECOMMENDATION
+We recommend that DHMH perform a study to determine the staffing
+needed to ensure adequate claims processing capacity and effective
+control procedures for Medicaid claims. We also recommend that
+DHMH allocate the needed staff to these functions.
+ADMINISTRATION’S RESPONSE
+The Administration agrees with this recommendation, but believes that in effect
+this study has already been completed. In developing our analysis of
+implementation alternatives for the new MMIS, the Administration made
+estimates of staffing requirements to maintain industry standard service levels.
+This analysis contributed to our decision to select the fiscal agent contractor
+option which will allow for the allocation of appropriate resources to meet
+contract performance standards. Therefore, due to the impending
+implementation of the fiscal agent, the Administration will not be performing a
+separate study of its staff needs.
+7
+
+--- Page 55 ---
+AUDITOR’S FINDING #7
+Formal training for employees performing critical and complex
+functions is lacking.
+AUDITOR’S RECOMMENDATION
+We recommend that MCPA develop a training program that provides
+structured and consistent training for new employees, as well as
+continuing training for existing employees, to ensure that employees
+with claims processing duties have the requisite knowledge to perform
+their duties.
+ADMINISTRATION’S RESPONSE
+The Administration agrees with the intent of the recommendation to develop a
+training program, but given the Administration’s current lack of resources and
+our intent to transfer the claims processing operations to a fiscal agent
+contractor, we are not able to do so. The contractor will be required to process
+claims in accordance with Department policies and we expect them to be able to
+train their staff to effectively maintain those procedures.
+8
+
+--- Page 56 ---
+POST PAYMENT REVIEW PROCEDURES
+AUDITOR’S FINDING #8
+Documentation of the post-payment review process was in need of
+significant improvement.
+AUDITOR’S RECOMMENDATION
+We recommend
+a. that DHMH develop comprehensive written procedures
+for the post-payment review process;
+b. that the procedures developed indicate how topics for
+SURS reports are to be selected and their related
+frequencies, how data on reports are to be investigated,
+how reviews of data on reports are to be documented,
+and specify policies for retention of SURS reports and the
+related documentation of investigation on the reports;
+and
+c. that a listing of all SURS reports, the number of claims
+reviewed, and the related results (such as recoveries) be
+maintained and be used when determining which areas to
+select for future SURS reviews.
+* ADMINISTRATION’S RESPONSE
+8a/b. The Division of Program Integrity (“PI”) exists within the Office of the
+Inspector General. It was transferred from Medicaid’s Office of Planning and
+Finance in July of 2006. Program Integrity’s primary objective is to prevent
+fraud, waste and abuse of Medicaid funds in Medicaid fee-for-service programs.
+The PI is composed of 5 general sub-units or groups: 1) Data Analysis; 2)
+Provider Investigations; 3) Provider Audits; 4) Recipient Fraud, and 5) Special
+Projects-Medicaid. There is no “SURS” unit within PI. “SURS” is a computer
+program. The Department concurs that Program Integrity should operate under
+written policies and procedures.
+Upon its relocation to the OIG, management began a comprehensive policy and
+procedure manual to include a substantial appendix of audit-related tools. The
+procedure manual has not yet been formally approved. The staff person tasked
+with completing the manual left the Department and was not replaced. More
+importantly, with the passage of the Deficit Reduction Act of 2005 and the
+creation of the Medicaid Integrity Group at the federal level, program integrity
+has been fluid and dynamic. Certain program integrity concepts were developing
+* See Appendix B for related auditor comment.
+9
+
+--- Page 57 ---
+and changing at the federal level as the OIG’s manual was being drafted. The
+OIG is currently awaiting the results of a review conducted by CMS’ Medicaid
+Integrity Group of our PIU. Pending those results, OIG management plans to
+have the manual completed and approved by the close of the fiscal year.
+Likewise, the OIG can include in the procedure manual the level of detail
+recommended by the auditors so long as some flexibility is allowed for the
+methods selecting “topics for SURS reports.” In 2000, CMS (then the Health
+Care Financing Administration) reacting to Congress’ passage of the Balance
+Budget Act of 1997, repealed the requirement that State PI units conduct rigid
+System Performance Reviews (SPR). SPRs were requirements placed upon
+States to run a certain number and type of SURS reports on a yearly basis.
+Understanding the need for flexibility and creativity, Congress, and in turn CMS
+removed those rigid requirements. This was done to allow the States to
+concentrate on developing and working more substantive cases. So, while the
+OIG can develop some procedures surrounding how topics for SURS reports are
+to be selected, the OIG would not want to return to a rigid system that dictated
+quantity of SURS runs over quality case development.
+* 8c. The Department does not concur.
+First, The J-SURS System is not a unit, but rather, a subsystem of MMIS that
+allows for certain reports to be created to analyze provider behavior.
+When a SURS report is created, it identifies providers who do not fit a norm. It
+does not identify claims. Therefore, PI cannot maintain documentation on
+information that is not produced by a SURS report. Program Integrity
+determines whether a provider identified warrants an audit. That determination
+of whether to audit a provider in a SURS run involves a number of
+considerations. For example, taking into account staff available for review, PI
+management will scrutinize the Department’s total claims exposure attributable
+to the given provider, whether the provider “excepts” on any other claims
+criteria, whether the provider has had prior billing issues, etc. Only once these
+issues are considered does PI decide to audit a given provider. Appearing
+(“excepting”) is merely the first consideration.
+Currently, when PI’s, Data Analysis Unit creates a report that is to be used by PI
+to investigate potential improper Medicaid payments, PI maintains the report
+used to identifying the aberrant provider, and, if the provider is to be audited or
+reviewed, PI documents pertinent information such as the number of claims
+initially reviewed, whether the initial review developed into a full audit, the
+results of the audit, and the amount of any recovery recommended. Program
+Integrity has not maintained this level of detailed information on SURS reports
+not leading to full audits, because the information simply does not exists.
+* See Appendix B for related auditor comment.
+10
+
+--- Page 58 ---
+Likewise, the J-SURS System is also used by many within the Department to
+analyze things other than claims payment. Program Integrity’s Data Analysis
+Unit runs reports from the J-SURS System at the request of other DHMH Units so
+that those units can conduct utilization reviews and quality of care assessments.
+PI cannot maintain a complete record of those runs and their results because
+they are not run with the same intent. So while there is a record of the report
+being run, there will not be any resulting claims reviewed, audits conducted, or
+recoveries identified simply because the SURS report was requested for a reason
+other than payment review.
+11
+
+--- Page 59 ---
+AUDITOR’S FINDING #9
+Certain utilization reports were not produced or fully used.
+AUDITOR’S RECOMMENDATION
+We recommend that DHMH perform periodic and documented
+assessments of areas or categories of claims considered to be high risk
+for fraud and abuse, and document how these assessments were
+addressed in the post-payment review procedures through the use of
+utilization reports.
+* ADMINISTRATION’S RESPONSE
+The Department does not concur with the recommendation, because the OIG, to
+the extent possible using the J-SURS System and the limited expertise available,
+currently conducts assessments of high risk claim areas. The auditors
+acknowledge that the Department produces reports based on algorithms deemed
+to identify high-risk claims. However, many of the specialty reports cited as
+“best practice reports” from CMS and other States are reports run from systems
+with much more updated and user-friendly software than the J-SURS system.
+The J-SURS system is an older utilization review technology not perfectly geared
+towards today’s fraud fighting needs. The OIG is actively seeking a more
+updated technology that can manage and analyze large volumes of detailed
+health data to provide more timely and accurate investigative data analysis and a
+decision support system. Before being able to regularly and routinely run most
+of the reports cited by the auditors, the OIG must have an antifraud system that
+features improved analytic productivity and requires no database administrator
+or extensive programming skills
+Death Runs
+One of the reports listed by the auditors as not being fully utilized involves the
+“death algorithm.” The J-SURS System is capable of creating “death runs” with
+relative ease. Likewise, the OIG staff employs an individual who is capable of
+extracting this type of run from the J-SURS System. The Department concurs
+that until very recently, death algorithm runs were not “routinized” under one
+unit within DHMH. As a result, there were OIG employees in multiple units
+reviewing many types of claims after date of death.
+Another issue related to the death algorithm involves the reliability of the actual
+date of death as it appears in MMIS. The date of death in MMIS is a direct data
+field transfer from the Department of Human Resources’ CARES System. When a
+* See Appendix B for related auditor comment.
+12
+
+--- Page 60 ---
+DSS case worker enters a Medicaid recipient’s date of death in the CARES
+System, that date of death is automatically fed to MMIS. Unfortunately, if the
+DSS employee makes an error (by entering a date when the recipient is not
+actually deceased) and later changes that information in CARES by noting it in
+the comments field and removing the date of death, the removal of the date
+(i.e.: the blank field) is not transferred to MMIS.
+This problem between the two systems causes potential overpayments identified
+by using death algorithms to be unreliable. To correct this reliability issue, the
+Department has previously had to manually check each individual identified1.
+That is potentially a labor-intensive task for which the OIG has no resources.
+The OIG has struggled with identifying a method to both “routinize” the running
+of the death algorithm, and to produce results that are reliable and actionable
+without individual, manual review. The OIG has determined that, going forward,
+its staff will run two different death reports, two times each year. A
+comprehensive fee-for-service run will be conducted twice a year and a
+capitation payment run will be conducted twice per year. We will place this
+requirement in the OIG policy and procedure manual.
+Prior to seeking recovery of payments that appear on these four runs, the OIG
+will provide the results file to the Vital Statistics Administration (VSA) and ask
+that VSA compare the dates of death from the runs to dates of death in VSA.
+Should VSA’s data show the recipient not to be deceased, the OIG will remove
+the individual from the recovery list. The OIG will then send only those claims to
+Medicaid to recover that have been verified through the VSA check as having
+been paid for deceased recipients. The OIG will also send to Medicaid a list of
+the living individuals to Medicaid to correct the date of death in MMIS.
+Billing Outside Specialty Runs
+Another issue cited by the auditors involves reports run to determine whether
+providers are billing outside of their practice areas. The J-SURS System is
+capable of creating such a run, however, a very experienced user, or “super-
+user” is required to create such a run. The auditors cite a case of a podiatrist
+opened by the OIG in 2006. This particular podiatrist’s billings were discovered
+through a routine provider profile comparison. The provider “excepted” because
+the providers billings per patient were extremely high. The provider was not
+found through an “billing outside a specialty” run. When this particular
+podiatrist's were audited by the OIG, the OIG determined that services had in
+fact been provided, and provided by the appropriate type of service provider.
+The provider in question was a part of a large practice group with multiple
+1 In a recent project between the OIG and CMS, a manual review demonstrated an approximately 50%
+error rate in the date of death contained in the MMIS system.
+13
+
+--- Page 61 ---
+specialty providers. A billing clerk employed by the provider entity had
+inadvertently used the podiatrist’s Medicaid number to bill services performed by
+others in the practice.
+The auditors go on to suggest that the Department should regularly conduct
+such runs to uncover these anomalies. However, to create most of these runs, a
+super-user is needed. Additionally, an individual with both significant clinical
+expertise and significant expertise in coding is needed to both create the run and
+review the documentation associated with each claim. For some years, the SURS
+unit employed a physician and two nurses. Unfortunately, the physician PIN has
+been cut and one of the RN PINs is currently empty. The OIG has, thus far,
+been unsuccessful in attracting an RN to fill the vacant position. The one
+remaining nurse has been training steadily in CPT coding to increase her
+expertise in this arena. Therefore, while the Department concurs that such runs
+should be conducted, and will conduct them to the extent the expertise in the
+OIG allows for it.
+Spike Reports
+Another issue cited by the auditors is the OIG’s failure to create runs to
+determine whether claims have spiked over time. Though the J-SURS system
+has data mining capabilities, it is primarily a peer-to-peer comparisons tool
+designed to identify providers billing in patterns that are excessive and unlike
+their peers. A spike detection model looks for suspicious surges in billings by a
+single provider. It is used primarily to uncover fictitious providers enrolling in
+the system.
+Therefore, “spike reports” discussed by the auditors, and the drill down reports
+required to further analyze the resulting data, are quite difficult to craft and
+require significant expertise using J-SURS. Despite that, the OIG began
+attempting to utilize J-SURS’ “spike” capabilities in March of 2009 and plans to
+continue creating and reviewing surges to the extent that it is a productive use
+of scarce resources and can be done with the expertise available to the OIG.
+Unbundling
+Another issue cited by the auditors is runs to determine whether claims have
+been “unbundled.” As with runs related to billing outside of specialty areas, in
+order to conduct comprehensive code unbundling runs and the related
+investigations of potential overpayments, the OIG must have clinical staff and
+individuals with significant clinical and coding experience.
+14
+
+--- Page 62 ---
+AUDITOR’S FINDING #10
+Procedures were not always revised to correct deficiencies identified in
+post-payment reviews.
+AUDITOR’S RECOMMENDATION
+We recommend that DHMH modify its procedures (such as edits in
+MMIS II) to prevent improper payments due to systemic issues
+discovered during the post-payment review process.
+ADMINISTRATION’S RESPONSE
+DHMH agrees with this recommendation and will implement all appropriate
+payment edits. When notified of systemic errors as a result of the post-payment
+review process, MCPA will determine if edits can be implemented in MMIS to
+address the error and if so, make the adjustments. If edits can not be
+implemented, the program will continue to review through post-payment.
+15
+
+--- Page 63 ---
+AUDITOR’S FINDING #11
+Additional procedures could be used to publicize the DHMH fraud
+hotline and more data should be maintained to monitor its
+effectiveness.
+AUDITOR’S RECOMMENDATION
+We recommend that DHMH
+a. consider additional methods to publicize its Medicaid fraud
+hotline and website-based fraud referral process, and
+b. maintain statistics that can be used to evaluate the
+effectiveness of the fraud referral procedures.
+* ADMINISTRATION’S RESPONSE
+11a. The OIG concurs and will consider additional methods to publicize the
+Medicaid fraud hotline. Although, certain methods suggested by the auditors are
+not likely to be effective. For example, the majority of State employees do not
+receive check stubs. Also, without a legislative mandate, a provider cannot be
+required to post a fraud hotline notice. However, management from the Office
+of the Inspector General meets regularly with provider groups and associations in
+Maryland to educate those groups about how to report fraud. Those providers
+groups and non-governmental entities generally invite the OIG to speak at
+association meetings but as stated before, are not legally required to post
+information about the Department’s fraud hotline in their places of business.
+11b. The OIG does not concur that it fails to maintain statistics relating to the
+effectiveness of its fraud hotline. For example, in our FY 2008 Annual Report,
+we reported the following statistics on our hotline’s activity: the number of calls
+received, the number of calls responded to, the number of calls referred to other
+Administrations within DHMH, the number of calls referred to Departments
+outside of DHMH, the number of OIG investigations initiated as a result of the
+calls, the number of calls abandoned by the complainant, and the number of
+other issues addressed not related to fraud, waste and abuse. Additionally, the
+OIG works closely with the Medicaid Fraud Control Unit of the Office of the
+Inspector General and tracks all cases referred to that office. Furthermore, the
+fraud hotline is not the sole source of referrals received by the OIG. Many cases
+are opened as a result of written referrals, calls made directly to OIG
+management, and data mining activities.
+* See Appendix B for related auditor comment.
+16
+
+--- Page 64 ---
+The OIG, however, does concur and will consider the possibility of capturing
+more data to measure the effectiveness of its hotline.
+17
+
+--- Page 65 ---
+AUDITOR’S FINDING #12
+Post-payment reviews of in-state hospital claims could be improved.
+DHMH should ensure that a sufficient number of claims are audited and
+that they are audited more timely.
+AUDITOR’S RECOMMENDATION
+We recommend that DHMH
+a. establish and maintain a current contract for post-payment
+audits of hospital claims, and
+b. review and assess the procedures used by the contractor to
+select claims for audit to ensure a sufficient number of hospital
+claims is audited in a timely manner.
+ADMINISTRATION’S RESPONSE
+DHMH concurs with the recommendation.
+12a: The Program was able to comply with the recommendations by awarding
+the contract on July 1, 2009.
+12b: As a result of the delay in the procurement process, the Program will be
+unable to review payments for part of the calendar year 2003. The audit
+contractor is currently reviewing claims from 2003 to 2009. The Program is
+currently working with the new contractor to ensure that a sufficient number of
+hospital claims are reviewed in a timely manner.
+18
+
+--- Page 66 ---
+AUDITOR’S FINDING #13
+DHMH did not always verify that payments to out-of-state hospitals
+were made at the proper rates.
+AUDITOR’S RECOMMENDATION
+We recommend
+a. that DHMH verify that payments to out-of-state hospitals are
+based on the appropriate rates, and
+b. that previous payments to out-of-state hospitals are reviewed
+and any overpayments identified are recovered.
+ADMINISTRATION’S RESPONSE
+DHMH concurs with the recommendation.
+13a: As noted in the report, processing of out-of-state hospital claims is a very
+labor intensive, manual process. The process is unique to Maryland because no
+other state shares our payment structure for hospitals. Because our in-state
+reimbursement methodology is different from that of other states, MMIS has
+never been programmed for other state hospital methodologies. At this time the
+state is unable to incorporate an IT based solution. Until the Program is able to
+incorporate an IT based solution in the new MMIS, the Program will use the
+hospital bill auditor to validate the accuracy of the rate on claims submitted by
+out of state hospitals from July 1, 2009 forward.
+13b: The audit contractor is currently reviewing claims from 2003 to 2009. The
+Program is currently working with the new contractor to ensure that a sufficient
+number of hospital claims are reviewed in a timely manner.
+19
+
+--- Page 67 ---
+AUDITOR’S FINDING #14
+Procedures to obtain information regarding third-party liabilities could
+be improved.
+AUDITOR’S RECOMMENDATION
+We recommend that DHMH develop and implement a more effective
+process for pursuing reimbursement from third parties that may be
+liable for treatment provided to Medicaid recipients, such as working
+with DHR during the reassessment process.
+ADMINISTRATION’S RESPONSE
+The Administration agrees with the recommendation to change an existing policy
+to pursue reimbursement from third parties that may be liable for treatment
+provided to Medicaid recipients.
+The Administration disagrees with the recommendation that DHMH work with
+DHR to improve the process for identifying third parties that may be liable for
+health care cost incurred for Medicaid recipients. The Administration does not
+believe that sending a third tort letter from DHR will be any more effective in
+increasing the response rate or improving the process for identifying third
+parties. Therefore, the Administration will employ its TPL Recovery vendor to
+pursue recovery of Medicaid payments where third parties are liable for health
+care costs incurred for Medicaid recipients when the second tort letter is returned
+to the Administration. This initiative will require modification to the new TPL
+vendor contract which will be implemented on January 10, 2011.
+20
+
+--- Page 68 ---
+VOUCHER ONLY CLAIMS
+AUDITOR’S FINDING #15
+There was no systematic process involving MHA, DDA, and MCPA to
+analyze the cause(s) of rejected federal fund reimbursement claims
+and to modify procedures to reduce the amount of future rejected
+claims.
+AUDITOR’S RECOMMENDATION
+We recommend:
+a. that MCPA, in conjunction with DDA and MHA, improve the
+process for obtaining federal Medicaid funds for voucher claims;
+b. that, at a minimum, MCPA continually track the number and
+amount of claims rejected, determine why the claims were
+rejected, document what actions were needed to resolve the
+rejection of claims, and develop processing modifications that
+will reduce the number of future rejections by MMIS II; and
+c. that, if necessary, DHMH consider alternative methods of
+processing claims for DDA and MHA.
+ADMINISTRATION’S RESPONSE
+15a/c: DHMH agrees with the recommendation to improve the process for
+obtaining federal Medicaid Funds for voucher claims. We are considering
+alternatives to be implemented with the new MMIS system, including
+modification of the current claims processing flow, where DDA and MHA process
+claims and then submit them again through the MMIS, should be considered as a
+way to reduce the risk that appropriate federal funds are delayed or not
+recovered. We believe that the MHA Administrative Services Organization (ASO)
+should be utilized to authorize services and that Mental Health providers could
+submit claims directly into the new MMIS. The current DDA provider payment
+process will be assessed to determine the best way to integrate them into the
+new MMIS during the design phase of the MMIS development effort, expected to
+begin in FY 2011.
+15b: The new MMIS is not expected to be available until 2013. In the meantime,
+the Department is considering revising the edits for MHA claims to minimize the
+number of claim denials by the MMIS. We are investigating the possibility that
+edits for MHA ASO claims be limited to: Recipient Eligibility, Provider Eligibility,
+Timely filing and Duplicate Claims. MHA claims are already subject to additional
+reviews, primarily by the ASO. These extensive procedures, noted by the
+21
+
+--- Page 69 ---
+Legislative Auditors, should be sufficient to minimize the risk of submitting claims
+for Federal Funding that is not appropriate. A final determination of the specific
+edits to be revised will be completed by MHA and MCPA staff by December 31,
+2009 and implemented within 90 days of the decision. Since there is no ASO
+contractor to rely upon for the accuracy of DDA claims, we would retain the
+existing edits in place until the new MMIS and revised DDA processes could be
+established.
+Recommendations regarding tracking of claims errors within MMIS II are
+addressed in our response to audit finding #16.
+22
+
+--- Page 70 ---
+AUDITOR’S FINDING #16
+Rejected claims for federal reimbursement were not promptly
+investigated and resolved, adequate records of rejected claims were
+not maintained, and certain rejected claims were not pursued.
+AUDITOR’S RECOMMENDATION
+We recommend that MCPA, in conjunction with DDA and MHA, ensure
+that all rejected claims for federal Medicaid funds are promptly
+pursued and resolved.
+ADMINISTRATION’S RESPONSE
+DHMH agrees with the recommendation that all rejected claims for federal
+Medicaid funds be promptly pursued and resolved. Although there are adequate
+electronic records of claim denials available for use in error resolution, there are
+insufficient dedicated resources at both MHA and DDA to assess and resolve the
+errors in a timely manner.
+DHMH does not agree that the current MMIS should be modified to track the
+status of each denied DDA claim. Last year, the MMIS set a denial reason for
+nearly 1.3 million claim lines submitted by DDA. If each claim required only five
+minutes of staff time to follow-up on, it would take six full time staff working for
+one year to go through all of the errors. Recipient eligibility errors, the most
+frequent, almost always require individual research and a change to either an
+eligibility file or a claim submission to address. The Department intends to work
+with DDA to identify some of the processes that might reduce the numbers of
+errors that occur in anticipation of developing revised processes to be utilized in
+the new MMIS.
+We recommend changing the edit for timely filing for claims from DDA and MHA
+to at least 18 months, instead of the current 12 months, to reduce the number of
+unnecessary claim denials for timely filing. The Department intends to request
+at least 4 additional dedicated staff for both DDA and MHA in order to improve
+the claims and Federal reimbursement process for both agencies and address the
+requirements for the new MMIS.
+23
+
+--- Page 71 ---
+APPENDIX B
+Auditor’s Comments on the Department’s Response
+In its response (Appendix A) to the audit report, the Department disagreed
+with certain information in the report. We continue to believe that the
+information in the report is valid. Auditor’s comments are presented below
+about the Department’s responses to certain information in this report.
+Finding 8: Minor wording changes were made to address the Department’s
+comments concerning the nature of the Surveillance and Utilization Review
+Subsystem (SURS).
+The Department stated that SURS reports identify providers who do not fit a
+norm but do not identify claims, and accordingly, it cannot maintain
+documentation on claims reviewed. Although certain reports produced by the
+Department may focus on providers and do not include detailed claims data,
+we would like to point out that SURS analyzes detailed claims information on
+both providers and recipients to identify activity and trends for further review
+or investigation. According to Departmental documentation, SURS is designed
+to reveal, in substantial detail, actual activity in the medical assistance
+program that can be used to identify claims that should be investigated.
+The response also stated that, with respect to specific investigations
+performed, the Division of Program Integrity maintains the reports, the
+number of claims reviewed, the results, and the recommended recoveries for
+investigations performed. The Department’s response indicates a
+misunderstanding of the issue. Specifically, while we recognize that
+documentation is maintained when SURS reports result in formal
+investigations, the response does not address the recommendation that a
+listing of SURS reports produced and the related results (such as actual
+recoveries) be maintained with respect to all SURS reports so that these
+reports can be evaluated as to their effectiveness. Specifically, a formal
+process should be in place to evaluate the effectiveness of the SURS reports
+generated and should be used to determine which areas to select for future
+SURS reviews.
+Finding 9: The audit report recommended that the Department perform
+periodic and documented assessments of areas or categories of claims
+considered to be high risk for fraud and abuse, and document how these
+assessments were addressed in the post-payment review procedures through
+the use of utilization reports. The Department disagreed with the
+recommendation because of cited technology limitations of its current SURS
+system, while acknowledging the need for an antifraud system that features
+improved analytical productivity. However, the Department does not address
+Office of
+Legislative
+Audits
+
+--- Page 72 ---
+other commercially available analytical tools that could be used to identify
+high-risk activity.
+Finding 11: In its response, the Department disagreed that it did not maintain
+statistics relating to the effectiveness of the fraud hotline, and pointed out the
+data that were included in its annual report, including the number of calls
+received, the calls referred to others, and the OIG investigations initiated.
+Nevertheless, the Department stated that it does concur and will consider the
+possibility of capturing more data to measure the effectiveness of its hotline.
+O f fi c e o f
+Legislative
+Audits
+
+--- Page 73 ---
+A T
+UDIT EAM
+Stephen C. Pease, CPA
+Audit Manager
+Mark S. Hagenbuch, CPA
+Alexandra E. Zouras, CPA
+Senior Auditors
+Nadine L. Forgenie
+Michael J. Murdzak
+Rick E. Pyles
+Amber M. Schon, CPA, CFE
+Staff Auditors
+Brett M. Sheppard
+Staff Auditor Intern
+Other Staff Who Contributed to This Report
+Richard L. Carter, CISA

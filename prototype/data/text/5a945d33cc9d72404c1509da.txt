@@ -1,0 +1,969 @@
+Title: Department of Public Safety and Correctional Services - Division of Parole and Probation - Probation Intake and Fee Assessment Processes
+Date: 11/30/2015
+Type: Fraud, Waste, and Abuse
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a945d33cc9d72404c1509da
+Extracted: 2025-06-18T06:01:36.572512
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Department of Public Safety and Correctional Services
+Division of Parole and Probation
+Probation Intake and Fee Assessment Processes
+Procedures and Controls Were Not Sufficient to Ensure All Fees
+Were Properly Assessed
+Applicable Fees Were Not Assessed in Numerous Probation Cases
+November 2015
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities and Reorganization 4
+Probation Intake Process 4
+Drinking Driver Monitor Program (DDMP) Fund 6
+Audit Scope, Objectives, Methodology 9
+Findings and Recommendations 13
+Probation Intake Process
+Finding 1 – The Division of Parole and Probation (DPP) Lacked 13
+Policies to Guide the Offender Intake Process at Field Office
+Locations
+Finding 2 – DPP Had Not Established Adequate Procedures and 15
+Controls to Ensure that All Fees and Restitution Were
+Properly Assessed
+Offender Case Management System User Access
+Finding 3 – Procedures and Controls Over User Access Were Not 18
+Sufficient, System Roles Were Not Appropriately Restricted,
+and Data Input Validation Controls Were Not Comprehensive
+Data Match Test Results
+Finding 4 – DDMP and Supervision Fees Were Not Properly Assessed 21
+in OBSCIS II for 32 of the 45 Cases Judgmentally Selected for
+Review
+Agency Response Appendix
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities and Reorganization
+The Division of Parole and Probation (DPP) of the Department of Public Safety
+and Correctional Services (DPSCS) supervises the conduct of individuals on
+parole and probation to ensure these offenders are upholding requirements set
+forth by the courts and the Parole Commission. DPP also conducts investigations
+for the Commission and the courts, and performs probationary services for the
+Circuit and District Courts of Maryland. Furthermore, DPP administers the
+Drinking Driver Monitor Program (DDMP), a specialized monitoring service for
+individuals convicted of driving while intoxicated or driving under the influence
+of alcohol or drugs. Finally, DPP is responsible for assessing fines, costs, fees,
+and restitution (FCFR) in certain court cases including those of offenders in the
+DDMP.
+DPSCS initiated a Departmental reorganization on November 28, 2011. While
+the reorganization was initiated in fiscal year 2012, for budgetary purposes, the
+reorganization was implemented via a budget amendment, effective July 1, 2012.
+The reorganization established three regions within the State (North, Central, and
+South) for the purpose of creating a regional approach to providing inmate-related
+functions, including incarceration, probation, parole, and reentry into society.
+From a budgetary standpoint, this reorganization transferred the responsibility for
+certain functions previously performed by DPP to the DPSCS Office of the
+Secretary and the three regions. While DPP ceased to exist as a separate
+budgetary unit after the reorganization, it continued to exist under State law. In
+March 2015, DPSCS announced it would be moving to restore its legislatively
+mandated leadership structure and, accordingly, a new Director of DPP was
+appointed. We have been informed by DPSCS management that it intends to
+again reorganize its budgetary programs, effective fiscal year 2017, consistent
+with its legislatively mandated leadership structure. In the interim, DPP is
+operationally functioning as it did prior to the July 1, 2012 reorganization.
+Probation Intake Process
+Statewide, DPP has 44 field offices within the three DPSCS regions, of which 20
+offices handle DDMP cases. Each region has a designated regional director who
+monitors and supervises the operations of the field offices. DPP uses two
+automated systems to monitor offenders’ compliance with court-ordered
+probation and payment terms.
+4
+
+--- Page 7 ---
+ Offender Case Management System (OCMS) is a server-based multi-
+module system that contains case data on parolees and probationers. The DPP
+module, which is used for the supervision, monitoring, and investigative
+functions of the DPP, was implemented in December 2012. Data are entered
+into OCMS by field office staff during the offender intake process and as
+needed throughout the probationary period. Prior to the implementation of
+OCMS, these case management data were recorded in a module of OBSCIS
+II.
+ Offender-Based State Correctional Information System II (OBSCIS II) is
+used to account for FCFR due from offenders and payments received from
+offenders. While certain offender demographic data are automatically
+transferred through an interface between OCMS and OBSCIS II, the interface
+capability does not extend to FCFR data. Consequently, field office staff must
+manually enter FCFR data into OBSCIS II, generally during the offender
+intake process.
+When an offender is sentenced to probation by a court, the related court order
+specifies to which field office the offender is to initially report. During the intake
+process, DPP field office staff record offender data into both OCMS (case and
+certain FCFR data) and OBSCIS II (FCFR data) and issue payment instructions to
+offenders. However, in Baltimore City, offenders report to the Guilford field
+office where intake personnel record case data into OCMS and may record FCFR
+into OBSCIS II but do not issue payment instructions to offenders. For those
+offenders, personnel in the field office to which the offender is transferred must
+handle the preparation and issuance of payment instructions to offenders and
+ensure that the related FCFR are properly recorded in OBSCIS II, in agreement
+with those instructions.
+Even though DDMP and supervision fees are generally paid by the offenders on a
+monthly basis throughout the terms of probation, the full amount of these fees is
+assessed and recorded in OBSCIS II during the intake process. Generally, the
+intake staff must manually calculate each offender’s DDMP and supervision fees,
+based on the period of probation, and enter these total amounts into OBSCIS II.
+For example, if an offender is ordered to serve two years of probation to be
+monitored under DDMP, fees calculated would be based on 24 months of DDMP
+fees and 24 months of supervision fees. In this example, total DDMP fees
+assessed would be $1,320 ($55 per month for 24 months) and total supervision
+fees assessed would be $1,200 ($50 per month for 24 months).
+Field office staff are required to review with each offender the court-ordered
+amount of fines, costs, fees (including DDMP and supervision fees), and
+5
+
+--- Page 8 ---
+restitution owed and issue each offender a payment instruction form that provides
+the full amounts owed and instructions for payment. The offender is instructed to
+report to a specified field office for future monitoring based on the criminal
+offense and the offender’s residence.
+Staff within the DPSCS’ Deputy Secretary for Administration collects FCFR from
+the offenders, generally through a lockbox, and places the funds into a non-
+budgeted fund. Periodically, DPSCS distributes these funds to the courts and to
+crime victims (for restitution), and allocates fees to the State’s General Fund or,
+for DDMP fees, to a special fund established in law.
+At any time during the offender-monitoring period, a case could be abated by the
+courts if the offender meets specific court-ordered terms of his or her probation.
+This abatement results in certain fees, such as supervision fees, being waived
+during the offender’s remaining probationary period. DPP field office staff
+complete an adjustment form and adjust the court-ordered amounts as recorded in
+OBSCIS II. In addition, DPP may exempt offenders from paying the DDMP fee,
+as allowed under State law, if the offender is disabled and unable to work. An
+offender could be exempt under this provision at initial intake or at any point
+during the probation period. If the exemption is granted after the initial intake, an
+adjustment form is completed by the monitoring field office.
+According to State and DPP records, as of June 30, 2014, there were
+approximately 103,000 cases under DPP’s jurisdiction. Based on information
+obtained from OCMS, as of July 2015, there were approximately 14,000 open
+DDMP cases. There were approximately 46,000 new probation cases processed
+statewide in fiscal year 2015.
+DDMP fees collected, which are credited to the DDMP fund, totaled $6 million in
+fiscal year 2014. Supervision fees collected, which are credited to the State’s
+General Fund, totaled $7.5 million in fiscal year 2014. During fiscal year 2014,
+DPP also disbursed $9.5 million in restitution to victims.
+Drinking Driver Monitor Program Fund
+State law, effective July 2005, established the DDMP fund as a special, non-
+lapsing fund to be used for all DDMP costs and imposed a $45 monthly program
+fee on all DDMP offenders to be effective for the period from July 1, 2005
+through June 30, 2010. Chapter 487, Laws of Maryland 2009 increased the
+monthly fee to $55, effective June 1, 2009, and removed the June 30, 2010
+termination date for the fee. According to the Fiscal and Policy Note for the
+6
+
+--- Page 9 ---
+related legislation, sufficient DDMP fund revenues had not been attained to cover
+expenditures in fiscal years 2006 through 2008, thereby requiring deficiency
+appropriations for each of those years. The DDMP fund had a deficit balance at
+June 30, 2008, resulting in the need for a $1.5 million deficiency appropriation in
+fiscal year 2008. The Fiscal and Policy Note also estimated that DDMP fund
+revenues would increase $1.4 million in fiscal year 2010, and $7.5 million each
+year thereafter due to the fee increases.
+While these anticipated increases in revenue were not achieved, State accounting
+records indicate that annual DDMP revenues exceeded expenditures during fiscal
+years 2010 and 2011. However, beginning with fiscal year 2012, expenditures
+have exceeded revenues each year through fiscal year 2015.
+Consequently, the surplus created in the DDMP fund in previous years was
+exhausted during fiscal year 2014. In addition, DPSCS used $447,248 of
+budgeted general funds and a deficiency appropriation in the amount of $400,000
+to fund the $847,248 of expenditures in excess of the DDMP fund balance for that
+year.
+In fiscal year 2015, DDMP revenues continued to be inadequate to fund all
+DDMP expenditures. In a significant change for fiscal year 2015, DPSCS
+charged only DDMP payroll-related expenditures to the DDMP special fund and
+charged all DDMP non-payroll expenditures directly to general funds (even
+though $223,451 was available in the DDMP fund). This practice allowed
+DPSCS to avoid a deficiency appropriation. We discussed this change in practice
+with Department of Budget and Management personnel who stated that DPSCS’
+decision to account for DDMP expenditures in this manner was allowable.
+Historically, non-payroll DDMP expenditures have totaled approximately
+$880,000 annually. Assuming fiscal year 2015 non-payroll expenditures
+remained consistent, charging these additional expenditures would have resulted
+in fiscal year 2015 DDMP expenditures exceeding revenues by approximately
+$650,000.
+7
+
+--- Page 10 ---
+DDMP Fund Activity
+Fiscal Years 2010 – 2015
+Fiscal DDMP DDMP Fund Balance at
+Year Revenues Expenditures Fiscal Year End
+2010 $7,428,761 $6,448,788 $979,973
+2011 $7,272,784 $6,782,295 $1,470,462
+2012 $6,884,040 $7,032,325 $1,322,177
+2013 $6,667,599 $7,335,883 $653,893
+2014 $6,045,344 $7,546,4851 $0
+2015 $6,729,282 $6,505,8312 $223,451
+Source: State Budgetary Records
+1 During fiscal year 2014, $447,248 in general funds and a $400,000 deficiency
+appropriation were used to cover expenditures in excess of the DDMP fund
+balance.
+2 During fiscal year 2015, only payroll costs were allocated to the DDMP fund.
+Considering the DDMP fund’s status, it is imperative that DPP ensure that DDMP
+fees are properly assessed for all non-exempt cases and that effective collection
+efforts are employed. The fee assessment process is the subject of this report; we
+did not address the collection efforts as part of this audit.
+8
+
+--- Page 11 ---
+Audit Scope, Objectives, and Methodology
+Scope
+We conducted an audit of the probation intake and fee assessment processes
+within the Department of Public Safety and Correctional Services (DPSCS) for
+certain offenders monitored under the Division of Parole and Probation (DPP).
+The audit was conducted in response to an allegation that we received through our
+fraud hotline regarding possible deficiencies in the recording and abatement of
+certain fees that are required to be paid by offenders on probation who are
+monitored under the DPSCS Drinking Driver Monitor Program (DDMP). While
+the allegation received related primarily to the DDMP fee, the DDMP fee
+assessment is just one part of the offender intake process that includes the
+recordation of all fines, costs, fees, and restitution assessed to offenders monitored
+under probation. The scope of our audit addressed other facets of the intake
+process as described below but was limited to the most significant sources of
+collections, specifically fees (both DDMP and supervision fees) and restitution.
+We conducted the audit under the authority of the State Government Article,
+Section 2-1221 of the Annotated Code of Maryland and performed it in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+Objectives
+The objectives of this audit were
+1. To evaluate the effectiveness of the procedures and controls over the
+probation intake and related assessment and recordation processes, and
+2. To identify DDMP cases for which applicable fees and restitution may not
+have been properly assessed and recorded.
+9
+
+--- Page 12 ---
+Methodology
+Our audit consisted of tests, data analyses, inspections of documents and records,
+observations of DPSCS operations, and discussions with DPSCS personnel and
+others, as we deemed necessary, to achieve our objectives.
+For the first audit objective, we reviewed the intake processing guidance provided
+by DPP to the field staff. In addition, based on details in the allegation and the
+activity levels of the field offices, we selected the six field offices noted below,
+which handle DDMP cases, to conduct field visits and to review procedures and
+controls over the intake and fee assessment and adjustment processes. These six
+field offices, which were within four jurisdictions, accounted for more than 40
+percent of all offender intakes processed statewide. The Baltimore City –
+Guilford Central Intake and Rockville Intake field offices only perform intake
+procedures; offender cases are immediately transferred to other offices around the
+State for monitoring compliance with probation terms.
+Field Offices Selected for Review
+Field Office Location Region Procedures Reviewed
+Baltimore City –
+Central Intake Process - OCMS only
+Guilford
+Payment Adjustment Processes and
+Baltimore City –
+Central Intake Transfer Process - OBSCIS II
+Northwest
+only
+Rockville Intake North Intake Process
+Payment Adjustment Processes and
+Gaithersburg North Intake Transfer Process - OBSCIS II
+only
+Intake, Transfer, and Payment
+Annapolis South
+Adjustment Processes
+Intake, Transfer, and Payment
+Upper Marlboro South
+Adjustment Processes
+In addition, we judgmentally selected cases processed for intake by the six field
+offices during fiscal year 2015 (a total of 20 cases) in which the offenders were
+responsible for a variety of fees and restitution. We confirmed our understanding
+of the intake and assessment and recordation processes and determined if fees and
+10
+
+--- Page 13 ---
+restitution were properly assessed and recorded. We also reviewed and assessed
+the sufficiency of procedures and controls over OCMS user access. We did not
+assess user access to OBSCIS II since that audit procedure was performed during
+our separate audit of the DPSCS – Office of the Secretary and no significant
+matters were identified as relates to this audit’s objectives. Finally, we reviewed
+DPP’s policy for reducing DDMP fees for abated cases, and we tested 23 cases
+that were in abatement status from seven field offices to determine if DDMP fee
+assessments were being consistently handled.
+For our second objective, we judgmentally selected 45 test cases from 16 field
+offices from the results of an automated match we performed using data from
+DPSCS’ OCMS and OBSCIS II systems. Those 45 cases were selected because
+the related data exhibited certain characteristics that suggested a high likelihood
+for errors with respect to the assessing and recording of DDMP fees.
+Specifically, our data matching included DDMP cases opened during the period
+from July 2012 through April 2015 for which we matched the case information in
+OCMS with the related DDMP fee information in OBSCIS II based on the
+common case number field that exists in both systems. After excluding DDMP
+cases identified in OCMS as being exempt from the DDMP fees, the match
+identified cases for which, based on the probation period recorded in OCMS, the
+DDMP fees appeared to be either understated or not assessed at all. For those
+cases, we performed automated calculations of the amount of DDMP fees that
+should be assessed by multiplying the number of months of probation (based on
+the probation starting and ending dates as reflected in OCMS) by the monthly
+DDMP fee of $55. We then determined the difference between the expected
+amount of DDMP fees based on this calculation and the actual amount of DDMP
+fees assessed in OBSCIS II to identify the amount of DDMP fees that may not
+have been fully assessed.
+The match identified 3,983 cases of potential DDMP fee under-assessments,
+including 1,540 DDMP cases for which there were no assessments. The
+maximum potential under-assessment for these cases totaled $2.1 million. This
+potential under-assessment of DDMP fees assumes all information in OCMS
+(such as the non-exempt status, probation period) is accurate. However, as noted
+in our findings, our tests disclosed many data errors in OCMS, as well as certain
+data limitations that affected the match results. Therefore, the accuracy of the
+OCMS data cannot be assured and a reasonable estimate of total DDMP fee
+under-assessments is not determinable from our work. Furthermore, the match
+did not specifically target potential over-assessed cases.
+11
+
+--- Page 14 ---
+From the identified cases for which DDMP fees were not assessed or were not
+fully assessed in OBSCIS II, we selected 45 cases for testing. For the selected
+cases, based on our review of supporting documentation (such as court orders) in
+the paper files, we verified the under-assessment amounts determined by our
+automated calculation, and made any necessary adjustments. While reviewing
+those cases, we also determined whether supervision fees had been properly
+assessed and recorded. Since we did not use statistical sampling to select the 45
+cases, the results of our testing cannot be projected for the entire 3,983 test
+population.
+Our audit was primarily conducted during the period from March 2015 through
+September 2015. The response from DPSCS to our findings and
+recommendation, on behalf of the DPP, is included as an appendix to this report.
+As prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise DPSCS regarding the results of our review of
+its response. In addition to the conditions included in this report, other less
+significant findings were communicated to DPSCS that did not warrant inclusion
+in this report.
+12
+
+--- Page 15 ---
+Findings and Recommendations
+Probation Intake Process
+Background
+An offender sentenced to probation by the court is ordered to report to a specific
+field office in one of the State’s three regions for intake purposes. The Division
+of Parole and Probation (DPP) uses two automated systems to record offender
+data during the intake process and to monitor each offender’s compliance with
+court-ordered probation and payment terms. The DPP module of the Offender
+Case Management System (OCMS) is used to record offender case data –
+including demographics, probation terms, and a unique identification number
+(known as a SID) —and to monitor offender compliance with probation terms.
+The Offender-Based State Correctional Information System II (OBSCIS II) is
+used to account for fines, costs, fees, and restitution due from offenders and
+payments received from offenders.
+Before the Department of Public Safety and Correctional Services (DPSCS)
+implemented the DPP module of OCMS in December 2012, all offender
+information was entered into one system (OBSCIS II) during the probation intake
+process. Specifically, OBSCIS II was previously used as a case management
+system as well as to record and account for fines, costs, fees, and restitution due
+and payments received from offenders. As mentioned in the Scope section of this
+report, our audit focused on the most significant sources of collections (fees and
+restitution) received from offenders.
+Finding 1
+DPP lacked policies to guide the offender intake process at field office
+locations.
+DPP’s Operations Manual was not revised to reflect the new intake process after
+the implementation of OCMS in December 2012, and adequate training was not
+provided to intake staff. Also, a formal policy addressing whether Drinking
+Driver Monitor Program (DDMP) fees should be reduced for court-ordered case
+abatements was lacking.
+Adequate guidance was not provided to intake staff although the use of two
+systems substantially changed and added more complexity to the intake process.
+Previously, all data were entered into OBSCIS II which guided the intake worker
+through a logical screen sequence for data entry. Since the implementation of
+OCMS, intake workers are required to establish the case in OCMS and, through
+an interface, transfer basic case data into OBSCIS II. Intake workers then
+13
+
+--- Page 16 ---
+separately record fees and restitution into a specific screen in OBSCIS II. The
+Operations Manual was not updated to guide this multi-step data entry process.
+In addition, DPP could not provide us with any documentation of the training
+provided to staff when OCMS was implemented. Intake staff at the field offices
+informed us that the one-half day of training provided, which was only on OCMS,
+was not sufficient and the frequent changes and updates to functionality within
+OCMS continue to cause confusion.
+In some cases, lack of guidance resulted in inconsistent treatments between the
+field offices. For example, the intake processing staff at two of the six field
+offices were unaware that the exemption flags should be recorded in OCMS for
+offenders who are determined to be exempt from paying DDMP fees, as specified
+by State law (for example, due to a qualifying disability). The failure to properly
+flag exempt cases would not affect the assessment process but it does create
+inconsistencies since fees would not be assessed in OBSCIS II even though an
+exemption was not recorded in OCMS. These inconsistencies could hinder case
+monitoring efforts and DPP’s ability to perform effective data matches against the
+fees and restitution recorded into OBSCIS II to identify potential data entry
+errors. Furthermore, because DPP performs audits of DDMP exemptions for
+propriety and selects exemptions to review from an OCMS report, the failure to
+record the DDMP exemption prevents these exemptions from being selected for
+audit. Based on OCMS records as of July 2015, there were 24 cases opened
+statewide since January 2013 with the exemption flag. Based on discussions with
+field office personnel and analysis of available data, we identified five exemptions
+in the aforementioned two field offices that were not flagged in OCMS.
+Additionally, DPP had not established a formal policy regarding whether DDMP
+fees should be reduced when an offender’s case is abated by the courts, and our
+testing disclosed inconsistent treatment among the field offices. When a case is
+abated (for example, the offender meets the specific court-ordered terms of his or
+her probation), DPP policy allows for supervision fees to be waived for the
+offender’s remaining probationary period. However, DPP policies were silent as
+to whether DDMP fees should also be waived, although DPP management
+believes, based on an informal communication from its Assistant Attorney
+General, that the DDMP fees should be reduced when a case is abated.
+We noted inconsistencies in that some field offices were reducing DDMP fees
+when a case was abated while others were not. Our interviews with field office
+personnel and tests of selected abated cases from six field offices within all three
+regions disclosed that three field offices (two offices in the South Region and one
+office in the North Region) were reducing DDMP fees when cases were abated.
+For the 10 cases tested at these offices, the DDMP fee reductions totaled
+14
+
+--- Page 17 ---
+approximately $8,910, representing a 71 percent reduction to the $12,540 in fees
+originally assessed in these cases. Conversely, three other offices (two offices in
+the Central Region and one office in the South Region) were not reducing DDMP
+fees.
+During our review, DPP advised us that it is currently working on specific
+guidance on the intake process but that it is still in process. In January 2015, DPP
+did establish written guidance that outlines a step-by-step process for how to close
+a case in OCMS.
+Recommendation 1
+We recommend that DPP
+a. establish comprehensive intake guidance that addresses all critical
+processes;
+b. institute additional training for field office staff, as needed, to enhance
+their ability to perform their jobs properly and efficiently; and
+c. in consultation with its legal counsel, establish a formal policy on the
+handling of DDMP fees when a case is abated, and ensure the policy is
+appropriately communicated and enforced.
+Finding 2
+DPP had not established adequate procedures and controls to ensure that all
+fees and restitution were properly assessed to offenders.
+Analysis
+Procedures and controls at the four field offices selected for review that prepared
+offender assessment documents were insufficient to ensure all fees and restitution
+were properly assessed and recorded. Consequently, our test of 20 cases
+processed for intake in fiscal year 2015 at these field offices disclosed instances
+where fees and restitution were not properly assessed and recorded and payment
+instructions were not timely issued to offenders. For these 20 cases, DDMP fees,
+supervision fees, and restitution assessed in OBSCIS II totaled $14,575, $12,950,
+and $56,403, respectively.
+Procedures and controls at the four field offices were insufficient to ensure all
+fees and restitution were properly assessed and recorded.
+ Initial accountability was not established over probation orders received at the
+four field offices where we reviewed the intake process. None of the field
+offices maintained a log to record the receipt of the probation orders (such as,
+court orders). Generally, on a daily basis, the courts delivered paper copies of
+15
+
+--- Page 18 ---
+probation orders to the field offices, along with a summary listing of all the
+court orders included in the delivery. Although field intake offices reviewed
+the summary listings to ensure all court orders were included in the delivery,
+the summary listings were not used to ensure that all court orders were
+processed for intake and recorded. Consequently, our tests identified
+instances in which cases were not properly assessed and certain restitution
+amounts were incorrectly recorded in OBSCIS II.
+ As of May 2015, none of the field offices reviewed had established a
+documented supervisory review for the intake process to ensure that all fees
+and restitution were properly calculated, recorded in OBSCIS II, and reflected
+on the payment instructions form (COL-1) provided to the offenders. Prior to
+the implementation of OCMS, the COL-1 was signed by the offender and the
+intake staff. A separate document reflecting all case data entered into
+OBSCIS II, including the fines, costs, fees, and restitution data, was reviewed
+and signed by the supervisor as documentation that the intake information was
+properly recorded and all fees and restitution were assessed.
+DPP staff advised us that, while the COL-1 should still be completed and
+provided to the offender, the associated supervisory review process was
+discontinued when OCMS was implemented in 2012 and no supervisory
+review process was established in its place. During our review of the 20
+selected cases, we confirmed that there was no evidence of a documented
+supervisory review. In June 2015, one of the field offices implemented a
+supervisory review as a result of our audit.
+ A documented supervisory review process was not in place at the four offices
+reviewed to ensure fees and restitution had been properly assessed and
+recorded in OBSCIS II for cases transferred from other field offices.
+Generally, the intake process includes entering case data into both OCMS and
+OBSCIS II and issuing payment instructions to offenders. However, because
+of the volume of activity, while the Baltimore City – Guilford intake office
+does record case data into OCMS, the office does not always record fines,
+costs, fees, and restitution data in OBSCIS II and issue the payment
+instructions. The Baltimore City – Guilford office relies on the monitoring
+office to issue the payment instructions to offenders and ensure the fees and
+restitution are properly recorded in OBSCIS II in agreement with the payment
+instructions. Cases processed for intake at the Baltimore City – Guilford
+office could be transferred to any monitoring office throughout the State
+depending on the nature of the offense and the offender’s residence.
+However, field office staff at these monitoring locations advised us that they
+relied on the intake field office to have already recorded all the fees and
+16
+
+--- Page 19 ---
+restitution and that any review would be informal and not documented.
+During fiscal year 2015, the Baltimore City—Guilford intake office processed
+8,449 cases for intake.
+Our review of 20 cases opened during fiscal year 2015, which included cases
+from the four field offices reviewed that were responsible for recording fees and
+restitution, disclosed instances in which fees and restitution were not properly
+assessed and recorded in OBSCIS II and payment instruction forms were not
+timely issued to offenders.
+ For 9 of the 20 cases tested, the following errors were identified:
+ For 1 case, DDMP fees totaling $990 were not assessed.
+ For 2 cases, DDMP fees totaling $1,980 were not assessed until June 2015
+when DPP initiated a follow-up project as a result of our audit.
+ For 2 cases, supervision fees were over-assessed by a total of $650.
+ For 3 cases (including 1 of the aforementioned cases in which supervision
+fees were over-assessed), DDMP fees were over-assessed by a total of
+$2,035.
+ For 2 cases, restitution was over-assessed by $1,367.
+Generally, the problems identified for these nine cases, which were applicable
+to three field offices, resulted from clerical errors in calculating the
+assessment amounts and in recording the information in OBSCIS II that did
+not agree with the related court documents.
+ The payment instruction form (COL-1) was not timely issued to the offenders
+in 4 of the 20 cases tested. In 2 cases, the COL-1 was not issued for more
+than four months after the start of the offender’s probation, and in 2 other
+cases, the COL-1 was not issued at all. The COL-1 is important as it provides
+instructions to the offender as to the fees they are required to pay, how
+payment is to be submitted, and how frequently payments are required to be
+made.
+We believe that consideration should be given to enhancing the existing interface
+between the data in OCMS and the data in OBSCIS II. In this regard, while
+OBSCIS II is the official record of fines, costs, fees, and restitution transactions,
+we noted that fines, costs, fees, and restitution data are also initially recorded into
+OCMS to generate the payment instructions form. We believe that an interface of
+fines, costs, fees, and restitution data between the two systems would significantly
+increase efficiencies and reduce the number of errors from data entry.
+17
+
+--- Page 20 ---
+Recommendation 2
+We recommend that DPP
+a. establish initial accountability for all probation orders to ensure that all
+orders are processed for intake and recorded in OCMS and OBSCIS II;
+b. establish an independent documented supervisory review of the intake
+process to ensure all fees and restitution are properly assessed and
+recorded in OBSCIS II, including cases transferred from other field
+offices, and that exempt cases are flagged in OCMS;
+c. take immediate action to correct the aforementioned errors in OBSCIS
+II;
+d. ensure payment instructions forms (COL-1) are issued timely to
+offenders; and
+e. determine the feasibility of developing an electronic data transfer process
+(interface) of assessment information from OCMS to OBSCIS II.
+OCMS User Access
+Finding 3
+Procedures and controls over OCMS user access were not sufficient and
+many users had excessive access. Defined system roles were not
+appropriately restricted, and data input validation controls were not
+comprehensive.
+Analysis
+Procedures and controls over user access in the DPP module of OCMS were not
+sufficient to ensure that only appropriate and necessary access was granted and
+such access was not periodically reviewed. Furthermore, the capabilities defined
+to certain critical system user roles were not appropriately restricted. The State of
+Maryland Information Security Policy states that agencies are responsible for,
+"ensuring separation of duties and assigning appropriate system permissions and
+responsibilities for agency system users." In addition, input validation controls
+were not comprehensive. Based on agency records, there are 1,696 users with
+access to the DPP module of OCMS as of May 2015.
+DPP had established essentially two levels of edit access in OCMS. The agent
+role is generally assigned to field office staff for the entry of offender case data,
+including demographics and probation terms, into OCMS during the intake
+process. The case supervisor role is generally assigned to field office supervisors
+who subsequently review and approve each case in OCMS. Of the 1,696 users
+with access to the DDP module of OCMS, 1,359 users had the agent and/or
+supervisor role.
+18
+
+--- Page 21 ---
+Each offender has a unique State identification number (known as a SID). For
+repeat offenders, the offender’s SID is typically recognized by the fingerprint
+scanner, which is integrated into OCMS; for new offenders, the SID is
+automatically generated by the fingerprint scanner. The SID can also be manually
+created by the case supervisor in certain instances (such as when an offender does
+not appear for intake). Once all the offender data, including the SID, are
+recorded, the intake worker transfers, via an automated interface, basic case data
+to establish the case record on OBSCIS II. After the case has been established,
+intake workers can manually record fees and restitution into OBSBIS II.
+Granting and Modifying User Access
+Procedures for granting and modifying user access roles in OCMS were not
+sufficient. DPP had designated two individuals, called Site Security Coordinators
+(SSCs), to review and approve requests to establish and modify OCMS access for
+DPP employees and to notify DPSCS Information Technology and
+Communications Division (ITCD) to update the user access in OCMS. The
+electronic request system used to establish initial user access did not reflect the
+names of the individuals who submitted the requests and, therefore, the SSCs
+processed the requests without determining if the requests were submitted by the
+employees’ supervisors. Requests made by supervisors to modify user access
+were submitted informally through email and, therefore, the SSCs could
+determine if the requests were submitted by appropriate supervisory employees.
+However, the SSCs did not maintain documentation of these email requests.
+Our judgmental selection of 14 users who had agent and/or case supervisor access
+disclosed that DPP could not provide any documentation to support the roles
+granted. We were advised these 14 users, who were assigned to 9 different
+locations, were granted access to OCMS when it was implemented in December
+2012 and that no documentation was maintained that supports supervisory
+authorization of the roles granted at that time and how the levels of access granted
+to existing employees were determined. The number of employees granted access
+when OCMS was implemented was not available.
+DPP also did not perform periodic documented reviews of the propriety of
+existing users’ access roles. For example, reports of employee access roles were
+not periodically generated and distributed by the SSCs to applicable supervisors
+for review of the continued need for that access. Instead, DPP primarily relied on
+individual supervisors to notify the SSC if access needed to be changed.
+Assigned User Access and Defined System Roles
+Our test of the same 14 users, as of May 2015, disclosed that 11 users were
+granted a level of access that was improper or unnecessary. Specifically, 2 users
+19
+
+--- Page 22 ---
+had not been employed with DPSCS since June 2013, 4 users required only read
+access based on their job duties, and the remaining 5 users were granted both the
+agent and case supervisor roles. While these 5 users needed agent level access to
+perform their job duties, they did not need the DPP case supervisor role.
+Furthermore, this combined access allowed these employees to manually create a
+SID, a function which should only be performed by a supervisor, and to approve
+cases initiated by other intake workers. (This combined access did not allow
+workers to approve their own cases.) This excessive access could result in errors
+in offender records. For example, an agent could potentially record criminal data
+to the wrong offender or erroneously merge offender records. Our review of the
+DPP’s user records disclosed 67 users had both the agent and supervisor roles.
+DPP did not appropriately restrict certain capabilities defined to the agent and
+case supervisor roles. Any user granted either role could edit critical information
+(such as probation start and end dates, and name of offender) in any case within
+OCMS and such access was not restricted to his or her own cases. Furthermore,
+although DPSCS ITCD advised us that users with the agent and case supervisor
+role also needed to be separately granted access to the DPP module level
+designation in OCMS to edit OCMS data, we noted 2 users without the DPP
+module designation who were able to edit OCMS data. Based on the OCMS user
+file, as of May 2015 there were 618 users who did not have the DPP module level
+designation but did have DPP roles that may provide edit access. Consequently, a
+better understanding of system access features and capabilities, including the
+related control implications, appears necessary.
+Changes to critical OCMS data were not reviewed for propriety. Although
+OCMS maintained an audit trail of all data changes, there was no regular
+documented review of the audit trail to determine the propriety of changes made,
+and reports of the most critical data changes were not produced to aid in such a
+review. ITCD management advised that the audit trail would only be provided for
+review upon request from DPP management.
+Input Validation Controls
+Input validation controls were not comprehensive to ensure all critical information
+was properly entered into OCMS for all critical fields for each case during the
+intake process. While input validation controls were used for basic case data,
+such as offender name and SID, OCMS did not require other critical fields to be
+completed before further processing. Our review disclosed, for example, that the
+collection and accounting fields used to prepare the payment instruction form
+(COL-1) to be provided to the offenders were not required to be recorded in
+OCMS. As noted in Finding 2, our review disclosed that the COL-1 forms, which
+provide instructions regarding required fees and how to remit payments, were not
+20
+
+--- Page 23 ---
+always provided timely to the offenders. In addition, the probation period ending
+date in OCMS was not a required field. Although DPP began requiring the
+completion of this field in June 2015, it was only required for new cases entered.
+Our review of OCMS data as of July 2015 disclosed approximately 212 existing
+active cases for which the expiration date was not recorded. Similar to our
+comment regarding the recordation of the exemption flag in OCMS (Finding 1),
+these fields do not directly impact OBSCIS II fines, costs, fees, and restitution
+assessments. However, proper recording and subsequent verification promotes
+system data integrity, which could improve case monitoring and enhance DPP’s
+ability to perform effective data matches against the fees and restitution recorded
+into OBSCIS II to identify potential data entry errors.
+Recommendation 3
+We recommend that DPP
+a. establish a formal, documented process for granting and modifying
+OCMS user access and ensuring the related requests are authorized by
+appropriate supervisory personnel;
+b. perform periodic documented reviews of user access to ensure that
+assigned access is appropriate;
+c. take corrective action to appropriately restrict user access for those users
+we identified with improper or potentially improper access to OCMS;
+d. redefine system roles to ensure edits to critical case information are
+controlled;
+e. identify and produce OCMS reports of critical data changes and ensure
+such changes are independently reviewed for propriety; and
+f. enhance OCMS input validation controls to ensure all critical
+information is properly recorded.
+Data Match Test Results
+Finding 4
+DDMP and supervision fees were not properly assessed in OBSCIS II for 32
+of the 45 cases judgmentally selected for review.
+Analysis
+Our review of 45 cases from the data match previously described in the
+Methodology section of this report disclosed numerous instances within all three
+regions where fees were not properly assessed. Generally for the remaining cases,
+other data problems in OCMS or OBSCIS II, as well as certain data limitations,
+caused the cases to be identified as potential under-assessments by our match
+21
+
+--- Page 24 ---
+when the assessment was in fact proper in OBSCIS II. The DDMP fees and
+supervision fees that had been assessed and recorded in OBSCIS II for these 45
+cases totaled $6,600 and $15,210, respectively. As a result of our review of the
+supporting documentation for these 45 cases, we noted errors in OBSCIS II for 32
+cases within the three regions. Collectively, DDMP fees totaling $42,625 and
+supervision fees totaling $11,300 were not assessed in these 32 cases. In certain
+of those cases, fees totaling $12,030 were over-assessed. In some cases, as
+described below, DDMP fees were incorrectly recorded as other fees and,
+therefore, once collected, would be improperly credited to the General Fund
+rather than to the DDMP special fund.
+For the other 13 of the 45 cases, although the fees assessed as recorded in
+OBSCIS II were correct (assuming the reduction of DDMP fees is correct for
+abated cases), the cases were identified as potential under-assessments by our
+match due to other data problems in OCMS or OBSCIS II. For example, in some
+of these cases, the DDMP exemption flag was not recorded in OCMS although it
+should have been, while in other cases the probation period was inaccurately
+recorded in OCMS. We also identified data limitations pertaining to certain
+closed cases that affected our match results.
+The proper assessment and recordation of fees in OBSCIS II is critical as
+OBSCIS II accounts for the assessments and triggers collection efforts for unpaid
+amounts. Unpaid fees result in lost revenue to the State and particularly for the
+DDMP Fund, which is used to pay the related costs. As previously mentioned in
+the Background Information of this report, there have been significant deficits in
+the DDMP Fund resulting in a fee increase in June 2009 and requiring general
+funds to cover those shortfalls in fiscal years 2014 and 2015. The 32 cases in
+which fees had been improperly assessed can be categorized as follows:
+ For 21 cases, DDMP fees and/or supervision fees were not assessed in
+OBSCIS II but should have been. Collectively, fees totaling approximately
+$38,360 were not assessed ($27,060 in DDMP fees and $11,300 in
+supervision fees) in these cases. As of our review in May 2015, these cases
+had been open for periods ranging from 6 to 32 months.
+ For 7 cases, DDMP fees totaling $10,230 were incorrectly recorded in
+OBSCIS II as either supervision fees ($8,910) or testing fees ($1,320).
+Accordingly, the collections would be credited to the General Fund rather than
+to the DDMP Special Fund.
+22
+
+--- Page 25 ---
+ For 1 case, DDMP fees totaling $1,980 were mistakenly waived rather than
+the $1,800 in supervision fees. Specifically, after initial recordation in
+OBSCIS II, these supervision fees were subsequently waived by the courts.
+ For 3 cases, actual DDMP fees were under-assessed by a total of $3,355.
+Specifically, DDMP fees assessed totaled $1,760 rather than $5,115, primarily
+due to errors in manual calculation of assessment fees (for example, wrong
+number of months used to calculate the assessment).
+Finally, in addition to the failure to properly assess fees in OBSCIS II during the
+intake process, we observed that processes designed to potentially identify fee
+assessment errors at the time a case is closed did not appear to be effective.
+Specifically, we reviewed 5 of the 32 cases with errors that had been closed. Our
+test disclosed, for all 5 cases, corrections had not been made to the assessed fees
+in OBSCIS II. At the time a case closes, DPP checks OBSCIS II to ensure all
+fees have been properly paid by the offender, providing a final opportunity to
+record any remaining fees owed prior to closing the case and transferring
+remaining balances to the State’s Central Collection Unit for collection.
+It is important to note that, during the course of our field work, as we brought
+errors to DPP’s attention, personnel took action to begin to correct the errors in
+OBSCIS II. In addition, as a result of our review, DPP initiated in June 2015 a
+review of all open cases in OBSCIS II to ensure the fees and restitution were
+properly recorded in OBSCIS II. Each regional director was responsible for
+overseeing these efforts.
+Recommendation 4
+We recommend that DPP
+a. take immediate corrective action on the aforementioned cases for which
+fees were not properly assessed,
+b. investigate the remaining cases disclosed from our data matching for
+which DDMP fees may not have been assessed or fully assessed,
+c. ensure adequate efforts are made when cases are closed to verify that all
+fees have been properly assessed, and
+d. determine the feasibility of enhancing controls by periodically performing
+data matches between OCMS and OBSCIS II to identify case data
+inconsistencies and potential instances of improper fee assessments.
+23
+
+--- Page 27 ---
+Department of Public Safety and Correctional Services
+Division of Parole and Probation
+6776 REISTERSTOWN ROAD • SUITE 212 • BALTIMORE, MARYLAND 21215
+410-585-3566 • FAX 410-318-8645 • TOLL FREE 877-379-8636 • V/TTY (800) 735-2258 • www.dpscs.maryland.gov
+STATE OF MARYLAND
+November 30, 2015
+LARRY HOGAN
+GOVERNOR
+BOYD K. RUTHERFORD
+LT. GOVERNOR Stephen T. Moyer, Secretary
+Department of Public Safety and Correctional Services
+STEPHEN T. MOYER
+SECRETARY 300 East Joppa Road, Suite 1000
+Towson, Maryland 21286-3020
+WILLIAM G. STEWART
+DEPUTY SECRETARY
+ADMINISTRATION
+Dear Secretary Moyer:
+WAYNE A. WEBB
+ACTING DEPUTY
+SECRETARY OPERATIONS The following is the Division of Parole and Probation’s (DPP) response to the
+Legislative Audit regarding the Division’s intake and fee assessment processes for
+RHEA L. HARRIS
+ASSISTANT SECRETARY the period beginning March 15, 2012 through June 30, 2015. The Division of
+PROGRAMS AND SERVICES
+Parole and Probation will aggressively pursue implementation of the agreed upon
+DAVID N. BEZANSON recommendations and collaborate with the Information Technology and
+ASSISTANT SECRETARY
+CAPITAL PROGRAMS Communications Division (ITCD) where appropriate.
+JUDITH SACHWALD
+DIRECTOR Probation Intake Process
+PAROLE AND PROBATION
+Finding 1
+DPP lacked policies to guide the offender intake process at field office locations.
+Recommendation 1
+We recommend that DPP
+a. establish comprehensive intake guidance that addresses all critical
+processes;
+b. institute additional training for field office staff, as needed, to enhance their
+ability to perform their jobs properly and efficiently; and
+c. in consultation with its legal counsel, establish a formal policy on the
+handling of DDMP fees when a case is abated, and ensure the policy is
+appropriately communicated and enforced.
+We agree. The Division will:
+a. publish an Offender Case Management System (OCMS) Intake Users’ guide and
+will update intake policies and procedures in the Operations Manual to reflect
+the operational changes that resulted from the implementation and upgrade of
+the case management system. Anticipated Completion: January 31, 2016
+b. institute additional training for field office staff, as needed, to enhance their
+ability to perform their jobs properly and efficiently. Anticipated Completion:
+June 30, 2016
+Page 1 of 5
+
+--- Page 28 ---
+c. in consultation with Principal Counsel assigned to the Department, establish a
+formal policy on the handling of DDMP fees when a case is abated, and ensure
+the policy is appropriately communicated to field staff and enforced.
+Anticipated Completion: January 31, 2016
+Finding 2
+DPP had not established adequate procedures and controls to ensure that all
+fees and restitution were properly assessed to offenders.
+Recommendation 2
+We recommend that DPP
+a. establish initial accountability for all probation orders to ensure that all
+orders are processed for intake and recorded in OCMS and OBSCIS II;
+b. establish an independent documented supervisory review of the intake
+process to ensure all fees and restitution are properly assessed and recorded
+in OBSCIS II, including cases transferred from other field offices, and that
+exempt cases are flagged in OCMS;
+c. take immediate action to correct the aforementioned errors in OBSCIS II;
+d. ensure payment instructions forms (COL-1) are issued timely to offenders;
+and
+e. determine the feasibility of developing an electronic data transfer process
+(interface) of assessment information from OCMS to OBSCIS II.
+We agree. The Division will:
+a. establish processes locally to ensure that all supervision orders received by the
+field offices are processed for intake and recorded in OCMS and OBSCIS II.
+The Division will explore whether the courts can provide automated reports of
+individuals sentenced to probation. Anticipated Completion: March 31, 2016
+b. establish and enforce an independent documented supervisory review of the
+intake process to ensure all fees and restitution are properly assessed and
+recorded in OBSCIS II, including cases transferred from other field offices, and
+that exempt cases are flagged in OCMS. Anticipated Completion: January 31,
+2016
+c. finalize its ongoing efforts to correct the aforementioned errors in OBSCIS II.
+Anticipated Completion: December 31, 2015
+d. ensure that the Form COL-1 is issued timely to offenders. Anticipated
+Completion: January 31, 2016
+e. study the feasibility of developing an electronic data transfer process of
+assessment information from OCMS to OBSCIS II and, if feasible, establish an
+electronic data transfer process from OCMS to OBSCIS II. Anticipated
+Completion: December 31, 2016
+Page 2 of 5
+
+--- Page 29 ---
+OCMS User Access
+Finding 3
+Procedures and controls over OCMS user access were not sufficient and many
+users had excessive access. Defined system roles were not appropriately
+restricted, and data input validation controls were not comprehensive.
+Recommendation 3
+We recommend that DPP
+a. establish a formal, documented process for granting and modifying OCMS
+user access and ensuring the related requests are authorized by appropriate
+supervisory personnel;
+b. perform periodic documented reviews of user access to ensure that assigned
+access is appropriate;
+c. take corrective action to appropriately restrict user access for those users
+we identified with improper or potentially improper access to OCMS;
+d. redefine system roles to ensure edits to critical case information are
+controlled;
+e. identify and produce OCMS reports of critical data changes and ensure
+such changes are independently reviewed for propriety; and
+f. enhance OCMS input validation controls to ensure all critical information
+is properly recorded.
+We agree. The Division will:
+a. revise its process for granting and modifying OCMS user access and maintain
+documentation of the process. The Division will continue to ensure that the
+related requests are authorized by appropriate supervisory personnel.
+Anticipated Completion: December 31, 2016
+b. perform periodic documented reviews of user access to ensure that assigned
+access is appropriate. Anticipated Completion: Completed and will be
+conducted on a monthly basis thereafter.
+c. take corrective action to appropriately restrict user access for those users
+identified by the auditors with improper or potentially improper access to
+OCMS. Anticipated Completion: December 31, 2015
+d. redefine system roles to ensure edits to critical case information are controlled.
+While OCMS provides only two possible roles for DPP employees (agent or
+supervisor), we will continue to ensure that there is no overlap in user role
+assignments. Anticipated Completion: Completed.
+e. OCMS reports will be identified and produced on an annual basis to ensure
+critical data changes are reviewed. The DPP’s Quality Assurance Unit will be
+responsible for auditing the reports. Anticipated Completion: December 31,
+2016
+f. OCMS user roles will be redefined to validate and enhance user roles to ensure
+all critical information is recorded. Anticipated Completion: December 31, 2016
+Page 3 of 5
+
+--- Page 31 ---
+cc: William Stewart, Deputy Secretary, Administration
+Wayne Webb, Acting Deputy Secretary, Operations
+Steven F. Geppi, Director, Secretary’s Office of Investigation, Intelligence
+and Fugitive Apprehension
+Christopher McCully, Director of Financial Services
+Kevin Combs, Chief Information Officer
+Joseph M. Perry, Inspector General
+Joseph Clocker, Executive Deputy Director
+Page 5 of 5
+
+--- Page 32 ---
+A T
+UDIT EAM
+Adam J. Westover, CPA
+Audit Manager
+David R. Fahnestock
+Senior Auditor
+Andrew S. Bien
+David O. Mauriello
+Daniel P. Nuccio, CPA
+Staff Auditors

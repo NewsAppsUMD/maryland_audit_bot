@@ -39,6 +39,29 @@ def get_file_id_from_url(url):
     except:
         return "unknown_report.pdf"
 
+def get_pdf_filename_from_url(url):
+    """Fallback method to generate filename from URL"""
+    try:
+        # Simple fallback: use a hash or timestamp
+        import hashlib
+        url_hash = hashlib.md5(url.encode()).hexdigest()[:12]
+        return f"report_{url_hash}.pdf"
+    except:
+        return "unknown_report.pdf"
+
+def get_pdf_filename_from_report(report):
+    """Get PDF filename from report, preferring file_id if available"""
+    # Use file_id if it exists in the report
+    if report.get('file_id'):
+        return f"{report['file_id']}.pdf"
+    
+    # Fall back to extracting from URL
+    url = report.get('url')
+    if url:
+        return get_file_id_from_url(url)
+    
+    return "unknown_report.pdf"
+
 def download_pdf_with_playwright(url, filepath, report_title=""):
     """Download PDF using Playwright by clicking link and renaming afterward"""
     try:
@@ -191,8 +214,8 @@ def process_reports():
         
         print(f"\n[{i}/{len(pdf_reports)}] Processing: {title[:60]}...")
         
-        # Create filename for PDF using fileId
-        pdf_filename = get_file_id_from_url(url)
+        # Create filename for PDF using file_id if available, otherwise extract from URL
+        pdf_filename = get_pdf_filename_from_report(report)
         pdf_path = os.path.join("pdfs", pdf_filename)
         
         # Create corresponding text filename

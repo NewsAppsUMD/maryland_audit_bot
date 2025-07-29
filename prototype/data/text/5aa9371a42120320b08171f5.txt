@@ -1,0 +1,670 @@
+Title: State Lottery and Gaming Control Agency
+Date: 03/08/2018
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5aa9371a42120320b08171f5
+Extracted: 2025-06-18T22:14:24.018381
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+State Lottery and Gaming Control Agency
+May 2025
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Benjamin T. Brooks, Sr. Delegate Andrea Fletcher Harrison
+Senator Paul D. Corderman Delegate Steven C. Johnson
+Senator Katie Fry Hester Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David H. Moon
+Senator Clarence K. Lam, M.D. Delegate Julie Palakovich Carr
+Senator Cory V. McCray Delegate Emily K. Shetty
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+May 13, 2025
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the State Lottery and Gaming
+Control Agency (SLGCA) for the period beginning October 16, 2020 and ending
+January 31, 2024. SLGCA generates revenue primarily for the State’s General
+Fund and the Education Trust Fund through various lottery games, casino-
+operated video lottery terminals and table games, and sports wagering.
+Approximately $1.6 billion of its revenue for fiscal year 2023 was credited to
+various State funds or agencies as prescribed by law.
+Our audit disclosed that State casinos did not intercept prize money for amounts
+due to the State because State law only provides for such recoveries from lottery
+winnings. Our analysis of three casinos identified $9.2 million in prize money
+awarded to patrons that could have been withheld.
+Our audit also disclosed that SLGCA did not always follow State procurement
+regulations. Specifically, our review of four contracts totaling $82.2 million
+noted SLGCA was not able to provide critical procurement documentation for
+two procurements totaling $55.4 million such as the best and final offer for the
+losing bidders precluding us from readily determining the propriety of these
+awards. In addition, SLGCA did not always publish contract solicitations and
+awards on eMaryland Marketplace Advantage (eMMA), as required, a condition
+noted but not corrected from our preceding report.
+Furthermore, our audit disclosed cybersecurity-related findings. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted the findings from this audit
+report. Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+
+--- Page 4 ---
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted findings fall under
+the referenced definition. The specifics of the cybersecurity findings were
+previously communicated to those parties responsible for acting on our
+recommendations.
+SLGCA’s response to this audit is included as an appendix to this report.
+Consistent with State law, we have redacted the elements of SLGCA’s response
+related to the cybersecurity audit findings. We reviewed the response to our
+findings and related recommendations, and have concluded that the corrective
+actions identified are sufficient to address all audit issues.
+We wish to acknowledge the cooperation extended to us during the audit by
+SLGCA.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Financial Information 6
+Status of Findings From Preceding Audit Reports 7
+Findings and Recommendations 9
+Intercepting Casino Prize Winnings
+Finding 1 (Policy Issue) – State casinos do not intercept prize money 9
+for amounts due to the State because State law only provides for
+such recoveries from lottery winnings. We identified $9.2 million
+disbursed to patrons that could have been potentially intercepted to
+recover debts owed to the State.
+Contracts
+* Finding 2 – The State Lottery and Gaming Control Agency (SLGCA) 10
+did not always maintain critical procurement documentation and
+publish contract solicitations and awards as required by State
+procurement regulations.
+Information Systems Security and Control
+Finding 3 – Redacted cybersecurity-related finding. 11
+Finding 4 – Redacted cybersecurity-related finding. 11
+Audit Scope, Objectives, and Methodology 12
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+The State Lottery and Gaming Control Agency (SLGCA) oversees the State’s
+various lottery games, casinos, sports wagering, and fantasy gaming competitions.
+This activity generates revenue for the State’s General Fund, the Education Trust
+Fund, the Maryland Stadium Authority, the Blueprint for Maryland’s Future Fund
+(BMFF), and certain other governmental funds and agencies. The State Lottery
+and Gaming Control Commission (SLGCC) consists of seven members appointed
+by the Governor with the advice and consent of the State Senate. SLGCC has
+oversight responsibilities for SLGCA’s operations and, in conjunction with
+SLGCA, is responsible for regulating the operations of the State’s video lottery
+terminals (VLT), table games, and sports wagering.
+Lottery Games
+SLGCA administers and operates various lottery games. According to SLGCA
+audited financial statements, during fiscal year 2023, 4,359 lottery retail agents
+sold instant tickets, and tickets for draw games and monitor games.
+ Instant Tickets (scratch-offs).
+ Fast Play (terminal generated instant win games).
+ Draw games include traditional games, such as Pick 3/Pick 4/Pick 5, and
+multistate games, such as Mega Millions and Power Ball.
+ Monitor games include Keno and Racetrax.
+SLGCA’s responsibilities for the operation of these specific games require
+continuous oversight and marketing of lottery gaming operations and the
+development of new games. SLGCA has entered into an agreement with a
+gaming contractor to help fulfill these responsibilities, as well as to perform the
+daily operation and maintenance of the Lottery Gaming System.
+Casinos
+SLGCA is responsible for regulating and creating standard rules for table games
+at the State’s six authorized casinos, including accounting for and distributing
+table game revenue. SLGCA is also responsible for administering the VLT
+program within the State’s casinos, including accounting for and distributing VLT
+revenue, managing the program’s central system, and regulating and licensing
+operators. SLGCA has entered into an agreement with a second contractor to
+assist SLGCA in meeting these responsibilities.
+The State’s first casino opened in Cecil County in September 2010 and its most
+recent casino opened in Prince George’s County in December 2016. The four
+4
+
+--- Page 7 ---
+other casinos are located in Worcester, Anne Arundel, and Allegany Counties,
+and Baltimore City. According to SLGCA fiscal year 2023 audited financial
+statements, as of June 2023, these six casinos operated 9,733 VLTs and 565 table
+games.
+Sports Wagering1
+Chapter 492, Laws of Maryland 2020 authorized sports wagering, subject to voter
+referendum, which Maryland voters approved in the November 2020 general
+election. Following approval, legislation was required to establish an operational
+and regulatory framework for the State’s sports wagering program. Chapter 356,
+Laws of Maryland 2021, established such a framework.
+The SLGCA is required to regulate sports wagering and the conduct of sports
+wagering to the same extent that it regulates the operation of VLTs and table
+games in the State. The law established the Sports Wagering Application Review
+Commission (SWARC). SWARC reviews licensure applications for sports
+wagering facilities, including casinos and retail locations,2 and mobile sports
+wagering licensure. Based upon SWARC’s recommendation’s, SLGCA issues
+licenses for sports wagering. As of July 2024, SWARC has approved 35 licenses.
+In December 2021, the first five retail sportsbooks3 opened to the public and in
+November 2022, the first seven mobile sportsbooks launched. As of December
+31, 2023, sports wagering was operational at five casinos, eight retail locations,
+and twelve mobile operators.
+Sports wagering licensees retain 85 percent of proceeds from sports wagering.
+The remaining 15 percent must be transferred monthly to the State Lottery Fund
+and, in turn distributed monthly to the BMFF. As of June 30, 2023, sports
+wagering taxable wins totaled $168.4 million,4 including $25.3 million that was
+transferred to the State.
+1 Chapter 356, Laws of Maryland 2021, also established SLGCA’s regulatory oversight of
+operators of fantasy competitions. Each operator with at least $1 million in annual revenue must
+register with SLGCA and pay 15 percent of its revenue into the BMFF. According to the State’s
+records, during fiscal year 2023, approximately $1.2 million in revenue was received from
+fantasy operators.
+2 Retail locations are brick and mortar locations including the State’s six approved casinos that
+allow for in-person sport wagering.
+3 A sportsbook is a venue where a gambler can wager on various sports competitions.
+4 Taxable revenue is gross gaming revenue (handle minus total win) minus various payouts (e.g.
+promotional credits, excise taxes, and vendor fees).
+5
+
+--- Page 8 ---
+Financial Information
+According to SLGCA’s audited financial statements for the fiscal year ended June
+30, 2023, gross revenue totaled approximately $5 billion, and was disbursed as
+detailed below:
+ $1.7 billion was disbursed for prize claims;
+ $1.6 billion was disbursed for lottery retailer commissions, casino, sports
+wagering, and fantasy operator shares and claims fees;
+ $122 million was used to pay SLGCA’s operating expenses;
+ $652 million was credited to the State’s General Fund;
+ $623 million was credited to the Education Trust Fund;
+ $35 million was transferred to the Maryland Stadium Authority; and
+ $295 million was credited to other governmental funds and agencies.
+SLGCA engages an independent accounting firm to perform an annual audit of its
+financial statements and monthly audits of special-purpose financial statements,
+and to provide assistance in technical matters. In the related audit reports for the
+fiscal years ended June 30, 2021, 2022, and 2023, the firm stated that SLGCA’s
+financial statements presented fairly, in all material respects, its financial position,
+and the respective changes in its financial position and cash flows, for the years
+then ended in conformity with accounting principles generally accepted in the
+United States of America. According to the State’s records, during fiscal year
+2024, SLGCA’s expenditures totaled approximately $125 million (see Figure 1).
+6
+
+--- Page 9 ---
+Figure 1
+SLGCA Positions, Expenditures, and Funding Sources
+Full-Time Equivalent Positions as of June 30, 2024
+Positions
+Filled 334
+Vacant 29
+Total 363
+Fiscal Year 2024 Expenditures
+Expenditures
+Salaries, Wages, and Fringe Benefits $ 36,475,147
+Technical and Special Fees 275,078
+Operating Expenses 88,212,454
+Total $124,962,679
+Fiscal Year 2024 Funding Sources
+Funding
+General Fund $ 9,998,894
+Special Fund 114,963,785
+Total $ 124,962,679
+Source: State financial and personnel records
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the seven findings
+contained in our preceding audit report dated March 15, 2022. See Figure 2 for
+the results of our review.
+7
+
+--- Page 10 ---
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+SLGCA did not investigate individuals who won
+multiple high-dollar lottery prizes to identify patterns
+Finding 1 Not Repeated
+of potential collusion between players and lottery-
+related vendors or officials.
+SLGCA did not conduct periodic reviews of critical
+user access to the Lottery Gaming System to ensure
+Status Redacted5
+Finding 2 that all access was necessary and proper, and had no
+procedures to verify that transactions processed on the
+System by vendor employees were proper.
+Monthly testing of video lottery terminals (VLT) was
+either not conducted or was not sufficiently
+Finding 3 Not Repeated
+comprehensive to ensure VLTs were operating
+properly and player activity was accurately reported.
+Specific working relationships between family
+members that existed during our audit period, including
+Finding 4 the processing and approval of certain SLGCA related Not Repeated
+personnel and payroll transactions, may have violated
+State ethics law.
+SLGCA did not always follow State procurement
+Repeated
+Finding 5 regulations and did not adequately monitor certain
+(Current Finding 2)
+contracts.
+SLGCA lacked assurance that adequate information
+technology security and operational controls existed
+Finding 6 over its VLT computing system at the State’s casinos Status Redacted5
+that a primary service provider hosted, operated, and
+maintained.
+Remote access to the internal SLGCA network by
+employees and authorized contractors used a single
+Finding 7 Status Redacted5
+authentication measure rather than the more secure
+multi-factor authentication.
+5 Specific information on the current status of this cybersecurity-related finding has been redacted
+from this publicly available report in accordance with State Government Article, Section 2-
+1224(i) of the Annotated Code of Maryland.
+8
+
+--- Page 11 ---
+Findings and Recommendations
+Intercepting Casino Prize Winnings
+Background
+State law allows the State Lottery and Gaming Control Agency (SLGCA) to
+intercept lottery prize winnings over $600 to offset certain liabilities owed by
+patrons. These liabilities include outstanding child support collected by the
+Department of Human Services – Child Support Administration, delinquent court-
+ordered restitution from criminal defendants and other debt owed to the State
+collected by the Department of Budget and Management’s (DBM) – Central
+Collection Unit (CCU).
+Finding 1 (Policy Issue)
+State casinos do not intercept prize money for amounts due to the State
+because State law only provides for such recoveries from lottery winnings
+paid out by SLGCA. We identified $9.2 million disbursed to patrons that
+could have been potentially intercepted to recover debts owed to the State.
+Analysis
+State casinos do not intercept prize money for amounts due to the State because
+State law only provides for such recoveries from lottery winnings paid out by
+SLGCA. While State law provides for the State casinos to intercept prize money
+for outstanding child support obligations and delinquent court-ordered restitution,
+it does not provide for intercepting outstanding debts owed to the State.
+Our Data Analytics Unit (DAU) obtained a listing of individuals with outstanding
+amounts due to the State and compared it to prize winnings awarded by three of
+the six casinos6 for the period of September 30, 2021 through January 31, 2024.
+Our analysis of this data identified approximately $9.2 million in amounts due to
+the State that was awarded to patrons by the casinos that could have been
+potentially withheld had State law included this activity.
+6 We selected these three casinos based primarily on assessed risk and size of activity.
+Specifically, our selection included two casinos that utilized a manual process instead of an
+automated process for determining if a patron’s winnings should be intercepted. In addition,
+these three casinos accounted for approximately $1.7 billion of the $2.1 billion in revenue
+generated by the casinos in fiscal year 2023.
+9
+
+--- Page 12 ---
+Recommendation 1
+We recommend that SLGCA consider pursuing legislation to enable casinos
+to intercept amounts due to the State.
+Contracts
+Finding 2
+SLGCA did not always maintain critical procurement documentation and
+publish contract solicitations and awards as required by State procurement
+regulations.
+Analysis
+SLGCA did not always maintain critical procurement documentation and publish
+contract solicitations and awards as required by State procurement regulations.
+We reviewed four contracts7 totaling approximately $82.2 million (each of which
+exceeded $50,000) that were awarded between April 2021 and December 2023
+and noted the following conditions.
+ SLGCA was not able to provide certain critical procurement documentation
+for two procurements totaling $55.4 million. For example, SLGCA could not
+provide the best and final offer for the losing bidders and could not provide
+the individual bid evaluations prepared by the five bid evaluation committee
+members. As a result, we could not readily determine the propriety of these
+awards.
+ SLGCA did not publish contract solicitations and awards on eMaryland
+Marketplace Advantage (eMMA),8 as required. Specifically, as of March
+2024, SLGCA had not published the solicitation for one contract totaling
+$28.5 million and had not published the contract award for any of the four
+contracts reviewed as required.
+State regulations require critical procurement documentation be maintained in the
+procurement file. State regulations also require State agencies to publish on
+eMMA all competitive solicitations and awards of contracts expected to exceed
+$50,000. Awards must be published no more than 30 days after the execution and
+approval of the contract. Publishing solicitation and awards help provide
+transparency over the procurements including notice of a State contract
+7 Contract selection was based on materiality, potential risk, and procurement method.
+8 eMaryland Marketplace Advantage (eMMA) is an internet-based, interactive procurement system
+managed by the Department of General Services (DGS).
+10
+
+--- Page 13 ---
+opportunity, information about winning bidders and the amount of the related
+awards.
+A similar condition regarding not publishing contract awards on eMMA was
+commented upon in our preceding audit report. In response to that report SLGCA
+stated that it had implemented procedures to ensure notices are published,
+however during our current audit SLGCA had not implemented any new
+procedures to ensure contracts would be published as required. SLGCA was not
+able to explain why the awards reviewed in our current audit were not published.
+Recommendation 2
+We recommend that SLGCA
+a. retain critical procurement documentation as required,
+b. attempt to obtain the documentation to support the propriety of the
+aforementioned contracts and take appropriate corrective action for any
+contract awards that were not supported, and
+c. ensure that all applicable contract awards and solicitations are published
+as required by State regulations (repeat).
+Information Systems Security and Control
+We determined that the Information Systems Security and Control section,
+including Findings 3 and 4 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore are subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following findings, including the analysis, related
+recommendations, along with SLGCA’s responses, have been redacted from this
+report copy.
+Finding 3
+Redacted cybersecurity-related finding.
+Finding 4
+Redacted cybersecurity-related finding.
+11
+
+--- Page 14 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the State Lottery and Gaming
+Control Agency (SLGCA) for the period beginning October 16, 2020 through
+January 31, 2024. The audit was conducted in accordance with generally
+accepted government auditing standards. Those standards require that we plan
+and perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings
+and conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine SLGCA’s
+financial transactions, records, and internal control, and to evaluate its compliance
+with applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included the operation of lottery games, video lottery
+terminals, table games and sports wagering, including accountability over
+proceeds and payouts. In addition, the audit addressed purchases, disbursements,
+payroll, and information systems security and control. We also determined the
+status of the findings contained in our preceding audit.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of October 16, 2020 to January 31, 2024, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, test of transactions,
+and to the extent practicable, observations of SLGCA’s operations. Generally,
+transactions were selected for testing based on auditor judgement, which
+primarily considers risk, the timing or dollar amount of the transaction, or the
+significance of the transaction to the area of operation reviewed. As a matter of
+course, we do not normally use sampling in our tests, so unless otherwise
+specifically indicated, neither statistical nor non-statistical audit sampling was
+used to select the transactions tested. Therefore, unless sampling is specifically
+indicated in a finding, the results from any tests conducted or disclosed by us
+12
+
+--- Page 15 ---
+cannot be used to project those results to the entire population from which the test
+items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during this
+audit.
+We also extracted data from SLGCA’s automated records for the purpose of
+testing casino and lottery financial activity. Furthermore, we were provided data
+extracts from various casinos, as well as State debt from the Department of
+Budget and Management - Central Collection Unit and child support arrearage
+records from the Child Support Administration for the purposes of analyzing
+intercepted winnings. We performed various tests of the relevant data and
+determined that the data were sufficiently reliable for the purposes they were used
+during the audit. Finally, we performed other auditing procedures that we
+considered necessary to achieve our objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+SLGCA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to SLGCA, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+13
+
+--- Page 16 ---
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect SLGCA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations.
+In addition, this report includes a finding which is identified as a “Policy Issue”.
+Such findings represent significant operation or financial issues for which formal
+criteria may not necessarily exist, and for which management has significant
+discretion in addressing, but the recommendation represents prudent and or
+practical actions, which we believe should be implemented by the agency to
+improve outcomes. Other less significant findings were communicated to
+SLGCA that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before the report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contain cybersecurity findings – a redacted version
+for the public and an unredacted version for government officials responsible for
+action on our recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation”. Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of the cybersecurity findings and required corrective
+actions have been redacted. We have determined that such aforementioned
+practices, and government auditing standards, support the redaction of this
+information from the public audit report. The specifics of the cybersecurity
+findings have been communicated to SLGCA and those parties responsible for
+acting on our recommendations in an unredacted audit report.
+The response from SLGCA to our finding and recommendation is included as an
+appendix to this report. Depending on the version of the audit report, responses to
+any cybersecurity findings may be redacted in accordance with State law. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+14
+
+--- Page 17 ---
+Code of Maryland, we will advise SLGCA regarding the results of our review of
+its response.
+15
+
+--- Page 18 ---
+APPENDIX
+Maryland Lottery and Gaming Control Agency
+Wes Moore, Governor • John Martin, Director
+Montgomery Park Business Center Tel: 410-230-8800
+1800 Washington Blvd., Ste. 330 TTY users use Maryland Relay
+Baltimore, Maryland 21230 www.mdlottery.com
+May 9, 2025
+Brian 5. Tanen, CPA, CFE
+Legislative Auditor
+Office of Legislative Audits
+351 West Camden Street, Suite 400
+Baltimore, MD 21291
+Re: Fiscal Compliance Audit of State Lottery and Gaming Control Agency
+Dear Mr. Tanen,
+The Maryland Lottery and Gaming Control Agency (MLGCA) has received the fiscal compliance audit submitted by
+the Department of Legislative Services, Office of Legislative Audits, for the period beginning October 16, 2020 and
+ending January 31, 2024.
+MLGCA would like to extend sincere appreciation for the thorough and professional work performed by your staff
+during this recent audit. Please find enclosed our formal response, which addresses the findings and
+recommendations outlined in the audit report.
+Sincerely,
+�IJ{CC
+Director, Maryland Lottery and Gaming Control Agency
+
+--- Page 19 ---
+State Lottery and Gaming Control Agency
+Agency Response Form
+Intercepting Casino Prize Winnings
+Finding 1 (Policy Issue)
+State casinos do not intercept prize money for amounts due to the State
+because State law only provides for such recoveries from lottery winnings
+paid out by SLGCA. We identified $9.2 million disbursed to patrons that
+could have been potentially intercepted to recover debts owed to the State.
+We recommend that SLGCA consider pursuing legislation to enable casinos
+to intercept amounts due to the State.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1 Agree Estimated Completion Date: Completed
+Please provide details of Our Agency marked this as complete because Lottery OAGs have
+corrective action or already been in contact with CCU Counsel on the matter. They worked
+explain disagreement. together to identify where the law should be changed and what language
+would be needed to effectuate the expansion of authority for casinos to
+collect state debts. DBM will have to take the lead on moving this
+forward as a legislative action because the law requiring changes is
+under their statutory authority.
+Page 1 of 3
+
+--- Page 20 ---
+State Lottery and Gaming Control Agency
+Agency Response Form
+Contracts
+Finding 2
+SLGCA did not always maintain critical procurement documentation and
+publish contract solicitations and awards as required by State procurement
+regulations.
+We recommend that SLGCA
+a. retain critical procurement documentation as required,
+b. attempt to obtain the documentation to support the propriety of the
+aforementioned contracts and take appropriate corrective action for any
+contract awards that were not supported, and
+c. ensure that all applicable contract awards and solicitations are published
+as required by State regulations (repeat).
+Agency Response
+Analysis
+Please provide Certain documents were misplaced during transition to a new
+additional comments as Procurement Director. We have developed procedures to retain
+deemed necessary. electronic copies to prevent this from occurring in the future.
+Recommendation 2a Agree Estimated Completion Date: Completed
+Please provide details of We have developed procedures to retain electronic copies of
+corrective action or procurement documents to prevent this from occurring in the future.
+explain disagreement.
+Recommendation 2b Agree Estimated Completion Date: Completed
+Please provide details of We have located copies of the Best and Final financial proposals. While
+corrective action or certain other documents may not be in our file, the procurements were
+explain disagreement. conducted in accordance with established norms and were reviewed and
+approved at multiple levels: staff, the Lottery Director, the Lottery
+Commission, the Department of General Services, and the Board of
+Public Works.
+Recommendation 2c Agree Estimated Completion Date: Completed
+Please provide details of We have implemented a different process to ensure proper publication of
+corrective action or awards.
+explain disagreement.
+Page 2 of 3
+
+--- Page 21 ---
+State Lottery and Gaming Control Agency
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that the Information
+Systems Security and Control section, including Findings 3 and 4 related to
+“cybersecurity,” as defined by the State Finance and Procurement Article, Section
+3.5-301(b) of the Annotated Code of Maryland, and therefore are subject to
+redaction from the publicly available audit report in accordance with the State
+Government Article 2-1224(i). Although the specifics of the following findings,
+including the analysis, related recommendations, along with SLGCA’s responses,
+have been redacted from this report copy, SLGCA’s responses indicated
+agreement with the findings and related recommendations.
+Finding 3
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 4
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 3 of 3
+
+--- Page 22 ---
+A T
+UDIT EAM
+Robert A. Wells Jr., CPA
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+David R. Fahnestock, CPA
+Data Analytics Manager
+Mindy R. Garrett
+Senior Auditor
+Edward O. Kendall, CISA
+Matthew D. Walbert, CISA
+Information Systems Senior Auditors
+Ian T. Pontius
+Data Analytics Senior Auditor
+Tari J. Covington
+Hilary B. Gugig
+Staff Auditors
+Charles O. Price
+Neha S. Tirkey
+Information Systems Staff Auditors
+Jason D. Schuler
+Data Analytics Staff Auditor

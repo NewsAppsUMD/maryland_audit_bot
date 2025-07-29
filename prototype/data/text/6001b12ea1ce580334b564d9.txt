@@ -1,0 +1,457 @@
+Title: Public Service Commission
+Date: 01/15/2021
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=6001b12ea1ce580334b564d9
+Extracted: 2025-06-19T11:47:06.172882
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Public Service Commission
+March 2025
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Benjamin T. Brooks, Sr. Delegate Andrea Fletcher Harrison
+Senator Paul D. Corderman Delegate Steven C. Johnson
+Senator Katie Fry Hester Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David H. Moon
+Senator Clarence K. Lam, M.D. Delegate Julie Palakovich Carr
+Senator Cory V. McCray Delegate Emily K. Shetty
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+March 17, 2025
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Public Service Commission
+(PSC) for the period beginning March 12, 2020 and ending February 29, 2024.
+PSC regulates public utilities (such as gas, electric, water, and telephone
+companies) operating within the State. PSC also regulates common carriers
+engaged in the public transportation of passengers in the State.
+Our audit disclosed that PSC did not have adequate controls over accounts
+receivables. For example, two employees with access to the accounts receivable
+records could post payments and credits without independent approval.
+In addition, our audit disclosed cybersecurity-related findings. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted the findings from this audit
+report. Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted findings fall under
+the referenced definition. The specifics of the cybersecurity findings were
+previously communicated to those parties responsible for acting on our
+recommendations.
+
+--- Page 4 ---
+Finally, our audit included a review to determine the status of the three findings
+contained in our preceding audit report. We determined that PSC satisfactorily
+addressed two of these findings. The remaining finding is repeated in this report.
+PSC’s response to this audit is included as an appendix to this report. Consistent
+with State law, we have redacted the elements of PSC’s response related to the
+cybersecurity audit findings. We reviewed the response and noted general
+agreement to our findings and related recommendations. Based on our review of
+the written responses and additional clarification obtained from PSC, we believe
+the corrective actions identified are sufficient to address all audit issues.
+We wish to acknowledge the cooperation extended to us during the audit by PSC
+and its willingness to address the audit issues and implement appropriate
+corrective actions.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Status of Findings From Preceding Audit Report 6
+Findings and Recommendations 7
+Accounts Receivable
+* Finding 1 – PSC did not establish adequate controls over accounts 7
+receivables.
+Information Systems Security and Control
+Finding 2 – Redacted cybersecurity-related finding. 8
+Finding 3 – Redacted cybersecurity-related finding. 8
+Audit Scope, Objectives, and Methodology 9
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+The Public Service Commission (PSC), which functions under the provisions of
+the Public Utilities Article of the Annotated Code of Maryland, regulates public
+utilities (such as gas, electric, water, and telephone companies) operating within
+the State. PSC also regulates common carriers engaged in the public
+transportation of passengers in the State and has jurisdiction over taxicabs as well
+as transportation network companies throughout the State. PSC consists of five
+members who are appointed by the Governor, with the advice and consent of the
+Senate.
+In accordance with State law, the operating expenses of PSC are paid for by
+annual assessments which are calculated and issued by PSC to regulated
+companies. These annual assessments also pay the operating expenses of the
+Office of People’s Counsel (OPC). OPC, which we audit separately, is
+responsible for protecting the interests of residential and non-commercial users of
+these regulated services relating to matters and proceedings before PSC and the
+courts. According to State records, during fiscal year 2023, the operating
+expenses of PSC and OPC totaled $22.8 million (as shown in Figure 1 on the
+following page) and $6.9 million, respectively.
+4
+
+--- Page 7 ---
+Figure 1
+Public Service Commission
+Positions, Expenditures, and Funding Sources
+Full-Time Equivalent Positions as of June 30, 2023
+Positions Percent
+Filled 131 92.9%
+Vacant 10 7.1%
+Total 141
+Fiscal Year 2023 Expenditures
+Expenditures Percent
+Salaries, Wages, and Fringe Benefits $18,185,670 79.8%
+Technical and Special Fees 304,271 1.3%
+Operating Expenses 4,314,526 18.9%
+Total $22,804,467
+Fiscal Year 2023 Funding Sources
+Funding Percent
+Special Fund $21,955,956 96.3%
+Federal Fund 848,511 3.7%
+Total $22,804,467
+Source: State financial and personnel records
+5
+
+--- Page 8 ---
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the three findings contained
+in our preceding audit report dated January 15, 2021. As disclosed in Figure 2,
+we determined that PSC satisfactorily addressed two of these findings. The
+remaining finding is repeated in this report.
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+The Public Service Commission (PSC) did not have
+Finding 1 an adequate process to ensure that utility companies Not repeated
+complied with certain requirements of merger orders.
+PSC did not obtain required control agency approval
+Finding 2 for three sole source contracts for consulting services Not repeated
+totaling approximately $605,000.
+PSC did not establish adequate controls over cash Repeated
+Finding 3
+receipts and accounts receivable. (Current Finding 1)
+6
+
+--- Page 9 ---
+Findings and Recommendations
+Accounts Receivable
+Finding 1
+PSC did not establish adequate controls over accounts receivables.
+Analysis
+PSC did not establish adequate controls over accounts receivables. PSC
+maintained accounts receivable records for assessments, permits, and other fees
+due from regulated entities. According to PSC records, as of June 2023 the
+accounts receivable balance was approximately $28.9 million.
+ Two of the five employees with access to the accounts receivable records
+could post payments and credits without independent approval, and three
+employees could delete account information without independent approval.
+We were unable to obtain a system report of adjustments or deletions to
+determine whether any such transactions processed by these employees were
+proper.
+ PSC did not maintain an accounts receivable control account. PSC
+historically relied on a control account to monitor the accounts receivable
+transactions, but the control account was discontinued in December 2019.
+Consequently, errors or other discrepancies could occur without timely
+detection.
+The Comptroller of Maryland’s Accounting Procedures Manual1 requires
+accounts receivable adjustments to be approved by supervisory personnel. In
+addition, the Manual requires the maintenance of an accounts receivables control
+account and for it to be reconciled with the aggregate balance of the detailed
+records.
+Similar conditions were noted in our preceding audit report. In response to that
+report, PSC agreed to implement our recommendations by January 15, 2021.
+During our current audit, PSC was unable to explain why the recommendations
+were not implemented.
+1The updated Accounting Policies and Procedures Manual, effective June 2024, has the same
+requirements.
+7
+
+--- Page 10 ---
+Recommendation 1
+We recommend that PSC
+a. ensure all accounts receivable transactions are subject to independent
+review and approval (repeat),
+b. determine the feasibility of creating system reports of adjustments and
+deletions to enable oversight of such transactions, and
+c. maintain an independent control account and periodically reconcile it to
+the detailed records (repeat).
+Information Systems Security and Control
+We determined that the Information Systems Security and Control section,
+including Findings 2 and 3 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore are subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following findings, including the analysis, related
+recommendations, along with PSC’s responses, have been redacted from this
+report copy.
+Finding 2
+Redacted cybersecurity-related finding.
+Finding 3
+Redacted cybersecurity-related finding.
+8
+
+--- Page 11 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Public Service Commission
+(PSC), for the period beginning March 12, 2020 and ending February 29, 2024.
+The audit was conducted in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to
+obtain sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. We believe that the
+evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine PSC’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included procurements and disbursements, payroll, cash
+receipts, accounts receivable, assessments charged to regulated utilities, and
+PSC’s distribution and oversight of federal relief funding. In addition, we
+reviewed PSC’s oversight of certain provisions of several mergers and
+information systems security and control. We also determined the status of the
+findings contained in our preceding audit report.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our test of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of March 12, 2020 to February 29, 2024, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions
+and to the extent practicable, observations of PSC’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+9
+
+--- Page 12 ---
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during this
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+PSC’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to PSC, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect PSC’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+10
+
+--- Page 13 ---
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to PSC that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to PSC and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+PSC’s response to our findings and recommendations is included as an appendix
+to this report. Depending on the version of the audit report, responses to any
+cybersecurity findings may be redacted in accordance with State law. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise PSC regarding the results of our review of its
+response.
+11
+
+--- Page 14 ---
+APPENDIX
+COMMISSIONERS STATE OF MARYLAND
+___________
+FREDERICK H. HOOVER, JR.
+CHAIR
+MICHAEL T. RICHARD
+KUMAR P. BARVE
+BONNIE A. SUCHMAN
+PUBLIC SERVICE COMMISSION
+March 12, 2025
+Mr. Brian S. Tanen, CPA, CFE
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+Dear Mr. Tanen,
+Thank you for providing the draft legislative audit report on the Public Service Commission
+(PSC) for the period beginning March 12, 2020 and ending February 29, 2024. Please find the
+PSC’s response enclosed.
+The PSC appreciates the time and effort of the Office of Legislative Audits on this matter and is
+committed to resolving the findings identified in the audit report. If you have any questions
+regarding this matter, please do not hesitate to contact Ms. Amanda Best at
+amanda.best@maryland.gov.
+Sincerely,
+Frederick H. Hoover, Jr.
+Chair
+WILLIAM DONALD SCHAEFER TOWER • 6 ST. PAUL STREET • BALTIMORE, MARYLAND 21202-6806
+410-767-8000 • Toll Free: 1-800-492-0474 • FAX: 410-333-6495
+MDRS: 1-800-735-2258 (TTY/Voice) • Website: www.psc.state.md.us
+
+--- Page 15 ---
+Public Service Commission
+Agency Response Form
+Accounts Receivable
+Finding 1
+PSC did not establish adequate controls over accounts receivables.
+We recommend that PSC
+a. ensure all accounts receivable transactions are subject to independent
+review and approval (repeat),
+b. determine the feasibility of creating system reports of adjustments and
+deletions to enable oversight of such transactions, and
+c. maintain an independent control account and periodically reconcile it to
+the detailed records (repeat).
+Agency Response
+Analysis
+Please provide The PSC agrees with the finding but would like to clarify that it did
+additional comments as attempt to address the finding in the previous audit. As a result of the
+deemed necessary. previous audit finding, the PSC procured a new accounts receivable
+system that was custom made for the agency. Unfortunately, the system
+did not work as intended and was never fully completed by the vendor to
+address the issues outlined in the previous audit. The PSC is currently
+setting up a new accounts receivable system that will have proper
+controls in place.
+Recommendation 1a Agree Estimated Completion Date: 6/30/2025
+Please provide details of The agency is in the process of setting up a new accounts receivable
+corrective action or system. The new system has clear user roles and will be set to require
+explain disagreement. review and approval by other division members.
+Recommendation 1b Agree Estimated Completion Date: 6/30/2025
+Please provide details of The new accounts receivable system can generate reports to account for
+corrective action or adjustments and voiding transactions. This function will be utilized upon
+explain disagreement. the new system being completed to enable oversight of these
+transactions.
+Recommendation 1c Agree Estimated Completion Date: 6/30/2025
+Please provide details of The agency will set up a control account procedure to reconcile its
+corrective action or records and maintain an independent record of the account transactions.
+explain disagreement. The agency anticipates the issue identified here will be resolved upon the
+completion of the new accounts receivable system.
+Page 1 of 2
+
+--- Page 16 ---
+Public Service Commission
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that the Information
+Systems Security and Control section, including Findings 2 and 3 related to
+“cybersecurity,” as defined by the State Finance and Procurement Article, Section
+3.5-301(b) of the Annotated Code of Maryland, and therefore are subject to
+redaction from the publicly available audit report in accordance with the State
+Government Article 2-1224(i). Although the specifics of the following findings,
+including the analysis, related recommendations, along with PSC’s responses,
+have been redacted from this report copy, PSC’s responses indicated agreement
+with the findings and related recommendations.
+Finding 2
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 3
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 2 of 2
+
+--- Page 17 ---
+A T
+UDIT EAM
+Michael J. Murdzak, CPA
+Audit Manager
+Michael K. Bliss, CISA
+R. Brendan Coffey, CPA, CISA
+Information Systems Audit Managers
+Patrick J. Cavanaugh, CPA
+Senior Auditor
+Charles O. Price
+Information Systems Senior Auditor
+Albert S. Kim
+Staff Auditor

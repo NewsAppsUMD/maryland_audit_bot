@@ -1,0 +1,1939 @@
+Title: Maryland Department of Labor - Division of Unemployment Insurance - Part 2 - Unemployment Benefits
+Date: 11/15/2022
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=63740721a1ce5811344dd5b0
+Extracted: 2025-06-20T00:27:22.502991
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Unemployment Benefits
+November 2022
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative
+Audits has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Mark S. Chang (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Nicholas P. Charles II
+Senator George C. Edwards Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Trent M. Kittleman
+Senator Cheryl C. Kagan Delegate Carol L. Krimm
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Elizabeth G. Proctor
+Senator Craig J. Zucker Delegate Geraldine Valentino-Smith
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+November 15, 2022
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Mark S. Chang, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Department of
+Labor (MDL) – Division of Unemployment Insurance (DUI) for the period
+beginning April 17, 2017 and ending November 15, 2020. DUI administers the
+State’s Unemployment Insurance Program, which is normally funded primarily by
+unemployment insurance tax contributions collected from employers. However,
+DUI operations were significantly impacted by the COVID-19 pandemic, which
+greatly increased unemployment insurance activity and required the expansion
+and modification of various DUI operations, which were primarily federally
+funded. While we recognize the impact on DUI’s operations, the circumstances
+created by the pandemic did not materially affect our decision as to the inclusion
+of the specific findings and related recommendations in our report, which
+represent our determination of DUI’s statutory compliance or the appropriate and
+necessary controls over Program elements audited. However, as a result of the
+significant impact of the pandemic on DUI, we did divide our audit into two parts
+as further described below. This report addresses the second part of our audit. A
+report on the first part of our audit was issued May 4, 2022.
+Our audit disclosed that DUI did not conduct certain critical data matches used to
+identify potentially fraudulent or improper claims. We conducted three matches
+replicating four discontinued DUI matches and identified at least $32.3 million in
+potentially improper benefit payments. In addition, DUI did not have sufficient
+procedures to ensure that individuals filing claims using a foreign Internet
+Protocol (IP) address were eligible for benefits, including 3,724 claimants who
+
+--- Page 4 ---
+received $3.6 million in benefit payments between September 2017 and April
+2020. Similarly, DUI lacked procedures to help prevent and detect duplicate
+payments, and our analysis disclosed $43.3 million in potentially duplicate
+payments made to 12,500 claimants between April 2020 and December 2021.
+With regard to one program in particular, our audit disclosed that DUI did not
+conduct timely verifications of income reported by claimants as required,
+resulting in potential overpayments for this program, which as of January 2021
+had paid $5.9 billion in benefits in Maryland. Furthermore, DUI did not
+adequately review regular claims and adjudications, such as decisions regarding
+claimant eligibility that were processed by DUI employees and temporary staff.
+Finally, the inability of BEACON (DUI’s automated benefits system) to provide
+certain critical data regarding entries and adjustments that had to be recorded
+manually severely restricted DUI’s ability to verify the propriety of those
+transactions.
+We also found that DUI did not establish sufficient controls over reissued debit
+cards, which totaled 354,445 between July 2017 and January 2021; and did not
+ensure the proper disposition of funds remaining on expired and never activated
+cards, which totaled $23.1 million as of October 2021. Furthermore, DUI did not
+properly account for in BEACON the status of potentially fraudulent benefits
+totaling $493.9 million that were removed from claimants’ debit cards.
+In addition, we noted that DUI did not ensure that amounts disbursed from the
+Unemployment Insurance Trust Fund were properly transferred to the bank
+account used to make benefit payments. Furthermore, we also noted information
+system security deficiencies. However, in accordance with the State Government
+Article, Section 2-1224(i) of the Annotated Code of Maryland, we have redacted
+these findings from this audit report. Specifically, State law requires the Office of
+Legislative Audits to redact cybersecurity-related findings in a manner consistent
+with auditing best practices before the report is made available to the public. The
+term “cybersecurity” is defined in the State Finance and Procurement Article,
+Section 3A-301(b), and using our professional judgment we have determined that
+the redacted findings fall under the referenced definition. The specifics of the
+cybersecurity findings were previously communicated to DUI as well as those
+parties responsible for acting on our recommendations.
+Finally, our audit included a review to determine the status of four of the six
+findings contained in our preceding audit report. We determined that DUI
+satisfactorily addressed one of these four findings. The remaining three findings
+are repeated in this report as four findings. The status of the remaining two
+2
+
+--- Page 5 ---
+findings in our preceding audit report was previously determined during our audit
+of DUI Part 1 report dated May 4, 2022.
+We determined that DUI’s accountability and compliance level was
+unsatisfactory, in accordance with the rating system we established in conformity
+with State law. The primary factors contributing to the unsatisfactory rating were
+the significance of our audit findings in both audit reports and the number of
+findings across all areas of DUI’s operations.
+MDL’s response to this audit, on behalf of DUI, is included as an appendix to this
+report. We reviewed the response and noted agreement to our findings and
+related recommendations. While there are other aspects of MDL’s response
+which will require further clarification, including certain comments that are not
+consistent with the report analysis, we do not anticipate that these will require the
+Joint Audit and Evaluation Committee’s attention to resolve. Finally, we have
+edited MDL’s response to remove certain vendor names or products, as allowed
+by our policy. Consistent with the requirements of State Law, we have redacted
+the elements of MDL’s response related to cybersecurity findings.
+We wish to acknowledge the cooperation extended to us during the course of this
+audit by DUI. We also wish to acknowledge MDL’s and DUI’s willingness to
+address the audit issues and implement appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 8
+Agency Responsibilities 8
+Maryland Unemployment Insurance Taxes 9
+Unemployment Benefits 10
+Coronavirus Aid, Relief, and Economic Security Act 11
+Unemployment Insurance System 12
+Legal Matters 14
+Maryland Unemployment Insurance Trust Fund 14
+Claims Center Staffing 14
+Claims Processing 18
+National Trends and Issues Related to Potential Unemployment 20
+Insurance Fraud During the COVID-19 Pandemic
+Status of Findings From Preceding Audit Report 22
+Findings and Recommendations 24
+Benefit Payments
+Finding 1 – The Division of Unemployment Insurance (DUI) did not 25
+conduct certain critical matches used to identify potentially
+fraudulent or improper claims. We conducted three matches to
+replicate four of the discontinued DUI matches and identified
+at least $32.3 million in potentially improper payments.
+* Finding 2 – DUI did not have comprehensive procedures to ensure 27
+that individuals filing claims using a foreign Internet Protocol
+address were eligible to receive benefits, including 3,724
+claimants that received benefit payments totaling $3.6 million.
+* Finding 3 – DUI did not ensure claimants who were full-time 30
+students were eligible for benefits, and that all claimants were
+enrolled in the Maryland Workforce Exchange System, as
+required.
+ Denotes item repeated in full or part from preceding audit report
+5
+
+--- Page 8 ---
+Claims Processing
+Finding 4 – DUI did not have procedures to help prevent and detect 31
+duplicate benefit payments. Our analysis disclosed $43.3 million
+in potentially duplicate payments made to 12,500 claimants
+between April 2020 and December 2021 that were not identified or
+investigated by DUI.
+Finding 5 – DUI did not conduct timely verifications of income reported 33
+by applicants for Pandemic Unemployment Assistance benefits and
+did not ensure manual adjustments processed by DUI and contract
+employees were proper.
+* Finding 6 – DUI did not adequately review regular claims and 34
+adjudications processed by claims center DUI employees and
+temporary staff, and output reports of manual wage entries could
+not be generated from BEACON for verification purposes.
+* Finding 7 – DUI did not establish sufficient controls over reissued 36
+debit cards, and did not ensure the proper disposition of funds
+remaining on expired debit cards.
+Finding 8 – DUI did not properly account for potentially fraudulent 38
+benefits totaling $493.9 million that were removed from claimants’
+debit cards.
+Unemployment Insurance Trust Fund
+Finding 9 – DUI did not ensure amounts disbursed from the 39
+Unemployment Insurance Trust Fund were properly transferred to
+the bank account used to make benefit payments.
+Information Systems Security and Control
+Finding 10 – Redacted cybersecurity-related finding 40
+Finding 11 – Redacted cybersecurity-related finding 40
+Finding 12 – Redacted cybersecurity-related finding 40
+Finding 13 – Redacted cybersecurity-related finding 40
+Audit Scope, Objectives, and Methodology 41
+ Denotes item repeated in full or part from preceding audit report
+6
+
+--- Page 9 ---
+Exhibit 1 – Summary of Unemployment Insurance Modernization 45
+(BEACON) Findings in Office of Legislative Audits Audit
+Reports Issued from July 1, 2015 to May 31, 2022.
+Exhibit 2 – Selected Sources for National Trends 47
+Agency Response Appendix
+7
+
+--- Page 10 ---
+Background Information
+Agency Responsibilities
+The Division of Unemployment Insurance (DUI) is a separate budgetary unit
+within the Maryland Department of Labor. According to the State’s records,
+DUI’s fiscal year 2020 operating expenditures (excluding unemployment benefit
+disbursements) totaled approximately $61.4 million. DUI administers the State’s
+Unemployment Insurance Program that includes the following primary
+responsibilities.
+ Collecting unemployment insurance tax contributions from employers
+ Processing applications for, and disbursing unemployment benefits
+As further described below, during the audit period, DUI operations were
+significantly impacted by the COVID-19 pandemic that greatly increased
+unemployment insurance activity and required the expansion and modification of
+various DUI operations. In addition, DUI finalized the implementation of its new
+information system, BEACON, which further impacted its operations. As a
+result, and to provide necessary audit resources and coverage, we have divided
+our audit of DUI into the following two parts to address the aforementioned DUI
+responsibilities.
+Part 1 – Unemployment Insurance Tax Contributions
+Includes employer unemployment contributions, reimbursements from
+government agencies and certain non-profit organizations, associated
+accounts receivable activity, and related changes from a recent system
+implementation.
+Part 2 – Unemployment Benefits
+Includes methods individuals can use to file for unemployment insurance
+benefits, eligibility and monetary benefit determinations (for State
+unemployment insurance and for additional programs in response to the
+COVID-19 pandemic), payment monitoring, prevention of fraudulent claims,
+and related changes from a recent system implementation.
+This report addresses Part 2 of our audit. Our report on Part 1 was issued May 4,
+2022.
+8
+
+--- Page 11 ---
+Maryland Unemployment Insurance Taxes
+Maryland employers are required to remit Maryland unemployment insurance
+taxes based on a percentage of wages paid to their employees. During calendar
+year 2020, the employer tax rate ranged from 0.3 percent to 7.5 percent of the first
+$8,500 of employee wages, and for calendar year 2021, the percentage ranged
+between 2.2 percent and 13.5 percent. The tax rates are established by State
+regulation based on an annual calculation and estimate of the funds necessary to
+meet federal requirements regarding the necessary minimum balance to be
+maintained in the Maryland Unemployment Insurance Trust Fund.
+The particular tax rate paid by an employer is impacted by various factors, most
+notably the amount of unemployment benefits paid by DUI and charged to the
+employer’s account during a specified period for eligible employee layoffs and
+terminations. Certain entities, such as nonprofit organizations and governmental
+entities, are exempt from these taxes and, instead, reimburse the State for any
+unemployment benefits paid by the State on their behalf. As of November 2020,
+an unemployed individual could receive a maximum of $430 per week for 26
+weeks of State benefits in one benefit year.1
+Historically, employer contributions were the primary source of unemployment
+funds. As shown in Figure 1 on the following page, the COVID-19 pandemic
+resulted in unprecedented increases in federal funding. Specifically, according to
+DUI records, during fiscal year 2021, DUI collected approximately $710.9
+million from employers ($637.0 million in unemployment insurance taxes and
+$73.9 million in benefit reimbursements) and received $7.6 billion in federal
+funding.
+1 As a result of the federal Coronavirus Aid, Relief, and Economic Security (CARES) Act, 52
+weeks of benefits were available from the combination of standard Maryland benefits, Pandemic
+Emergency Unemployment Compensation (PEUC), and extended benefits.
+9
+
+--- Page 12 ---
+Unemployment Benefits
+As noted above, the COVID-19 pandemic had a significant impact on
+unemployment claims (see Figure 2 on following page). According to DUI
+records, there were approximately 103,000 paid claimants in fiscal year 2019
+compared to more than 642,000 claimants in fiscal year 2021 which were paid
+approximately $8.8 billion in unemployment insurance benefits. Unemployment
+insurance claims peaked in May 2020 at over 300,000 claims. According to the
+United States Bureau of Labor Statistics, the unemployment rate in Maryland in
+May 2020 was 9.0 percent.
+10
+
+--- Page 13 ---
+Benefit amounts are based on the applicant’s earnings and other factors (such as
+the number of dependents). State law requires applicants to be able, available,
+and actively looking for work (work search requirement) in order to be eligible
+for unemployment benefits. The work search requirement, but not the able and
+available requirements, was suspended from March 2020 through July 2021 due
+to the COVID-19 pandemic.
+Coronavirus Aid, Relief, and Economic Security Act
+On March 27, 2020, in response to the COVID-19 pandemic, the federal
+Coronavirus Aid, Relief, and Economic Security (CARES) Act was signed into
+law. The federal law included several provisions affecting the unemployment
+insurance program administered by DUI.
+ Pandemic Unemployment Assistance (PUA), effective January 27, 2020
+through December 31, 2020, provided up to 39 weeks of benefits to covered
+individuals who were not eligible for regular benefits or extended benefits.
+One of the major populations included under this program were self-employed
+individuals who historically were not eligible for unemployment benefits.
+ Federal Pandemic Unemployment Compensation (FPUC), effective March 29,
+2020 through July 31, 2020, provided $600 in addition to the normal weekly
+benefit amount.
+11
+
+--- Page 14 ---
+ Pandemic Emergency Unemployment Compensation (PEUC), effective
+March 29, 2020 through December 31, 2020, added up to 13 additional weeks
+for claimants who exhausted their initial 26 weeks of regular benefits.
+Other federal funding was awarded in addition, and subsequent, to CARES.
+ Lost Wage Assistance (LWA) Program (provided by Presidential
+Authorization), effective August 1, 2020 through December 27, 2020,
+provided claimants an additional $300 per week for six weeks.
+ Extended benefits (EB) became available from May 31, 2020 through
+December 12, 2020, and provided up to 13 additional weeks of benefits. A
+claimant had to exhaust their 39 weeks of benefits under PEUC before
+becoming eligible for EB.
+ Continued Assistance for Unemployed Workers Act signed into law
+December 27, 2020 provided up to 11 additional weeks of the CARES
+programs.
+ The American Rescue Plan Act was signed into law March 11, 2021 further
+extending the CARES programs through September 4, 2021.
+Unemployment Insurance System
+In 2011, DUI began a major information technology project to replace and
+consolidate the following three existing automated systems used to account for
+unemployment activities into one system, which was referred to as BEACON.
+ Maryland Unemployment Insurance Tax System used to process
+employers’ unemployment insurance taxes owed and paid.
+ Maryland Automated Benefits System (MABS) used to track payments to
+and amounts due from unemployment insurance claimants and wage
+information reported by Maryland employers.
+ Appeals Case Tracking System used to maintain a record of the status of
+each appeal, and notes on postponements, hearings, and other notes.
+The new BEACON system was procured as part of a consortium of three states
+(Maryland, Vermont, and West Virginia) and was intended to be fully
+implemented in 2018. However, significant implementation delays occurred
+which DUI asserts were caused by unrealistic timelines, the need to address
+vendor quality issues, and certain issues experienced by one of the other states.
+As a result, at the onset of the COVID-19 pandemic BEACON had not been fully
+implemented in Maryland. In addition, both Vermont and West Virginia
+withdrew from the consortium, leaving Maryland to unilaterally implement
+BEACON.
+12
+
+--- Page 15 ---
+In April 2020, in response to the COVID-19 pandemic, DUI implemented
+BEACON One-Stop to allow claimants to file all claims online, and rigorously
+pursued the long-delayed implementation of BEACON, which DUI deemed to be
+fully implemented in September 2020. As of January 2021, payments to the
+vendor for BEACON implementation since September 2015 totaled $54.4
+million, and payments to the same vendor for BEACON One-Stop totaled $2.9
+million. The new system (including One-Stop) was paid for primarily with
+federal funds.
+Our May 1, 2020 report on the Maryland Department of Information Technology
+reviewed major information technology development projects including
+BEACON. The report addressed several concerns regarding BEACON
+development and implementation, such as documentation of project monitoring.
+In addition, our January 7, 2021 report on our audit of the Maryland Department
+of Labor (MDL) - Office of the Secretary included certain findings relating to
+BEACON contract costs. Furthermore, our DUI Part 1 report included additional
+findings relating to BEACON deficiencies. See the summary of these findings in
+other audit reports related to BEACON in Exhibit 1. Additional deficiencies with
+the system are addressed in several of the findings in this report. As of March
+2022, MDL had not assessed any permissible damages against the BEACON
+vendor for development, implementation, or functionality issues.
+As noted in Figure 3, beginning in April 2020 through September 2020, all
+claimant information was entered into BEACON One-Stop for processing of
+federal claims, such as PUA and EB (but excluding PEUC). MABS was still used
+during this period for processing regular State unemployment claims, as well as
+PEUC. In late September 2020, DUI began using the fully implemented
+BEACON for processing all claim types. Figure 3 indicates a timeline of claim
+type and system used.
+13
+
+--- Page 16 ---
+Legal Matters
+An indictment was issued on August 23, 2022 by the U.S. District Court v. two
+principals of the contractor responsible for the design, development, and
+implementation of BEACON. We were advised by MDL management that they
+have no reason to believe that the contractor will not abide by the terms and
+conditions of its contract with the State of Maryland.
+Maryland Unemployment Insurance Trust Fund
+DUI maintains the Maryland Unemployment Insurance Trust Fund (UITF) for the
+deposit of unemployment taxes collected from employers and the payment of
+benefits to the unemployed. The UITF is required by federal regulation to retain a
+balance to cover its expected current obligations. As noted in Figure 1, the
+average trust fund balance exceeded $1.3 billion for fiscal years 2017 through
+2019. The COVID-19 pandemic significantly impacted the balance during fiscal
+year 2021 due to its unforeseen nature and the obvious exclusion of its impact
+from the preceding tax calculation performed by the State. As a result of the low
+balance, DUI borrowed $68.9 million from the federal government to cover
+obligations during the period February 2021 through April 2021, which was
+subsequently repaid.
+Claims Center Staffing
+DUI maintains four claims centers with approximately 80 claims processors who
+receive calls and provide assistance with any questions on filing, applying for, and
+receiving unemployment benefits. Additionally, at these same centers, DUI
+maintains approximately 75 adjudicators.2 The aforementioned claims processors
+and adjudicators are all State employees. Claims processors generally correspond
+with claimants to obtain information required for an unemployment claim,
+whereas claims adjudicators research discrepancies with claims filed, such as
+income reported by a claimant that does not agree with the corresponding amount
+reported by the employer.
+During our audit period, DUI awarded two emergency staffing contracts to assist
+with the increased volume of unemployment insurance claims resulting from the
+COVID-19 pandemic.
+2 There are also two adjudication-only centers.
+14
+
+--- Page 17 ---
+Claims Staffing Vendor Contract
+In April 2020, DUI entered into a $19.6 million emergency contract with a vendor
+for 200 supplemental staff to augment DUI’s claims centers. These vendor
+employees were to handle the increase in claim volume and complete certain
+tasks, including assisting in the review of PUA proof of income and identity
+documentation submitted for claims identified as potentially fraudulent.
+As DUI’s needs changed, this contract had multiple change orders amending
+staffing levels, total contract amount, and end date. Figure 4 shows change orders
+processed from inception of the contract through January 1, 2022. Costs
+associated with each change order varied depending on the number of staff
+provided at the time. As of November 2021, payments to the vendor totaled
+$93.3 million all of which were made using federal funds.
+As noted in Figure 5 on the following page, the vendor provided an increasing
+number of staff at any given time during calendar year 2021, ranging from 554 in
+January 2021 to 2,965 in October 2021. These figures may exceed the contract
+totals in Figure 4 because more than one individual may have been provided by
+the vendor to cover the required hours for one full time equivalent contract
+position.
+15
+
+--- Page 18 ---
+Vendor employees assisted in addressing the signficant number of calls being
+received. Figure 6, on the following page, shows total calls received by vendor
+employees between May 2020 and January 2022, which peaked at 5.9 million
+calls during the month of January 2021, as well as the number of calls actually
+handled (answered) by vendor employees during this period. As noted in Figure
+6, despite the vendor’s efforts, there was a significant number of calls that were
+not handled due to the high call volume. Data regarding the number of calls
+received and handled by DUI employees was not available.
+16
+
+--- Page 19 ---
+DUI management asserted to us that the calls received could include multiple
+calls from the same individual, and that the number of unique calls (calls
+associated to specific individuals) received was more closely aligned with the
+number of calls handled. However, DUI could not document that assertion; and
+we found that the disparity between calls received and calls handled was still
+significant. In addition, the observed disparity is consistent with widely reported
+public concerns regarding the inability to contact DUI to resolve issues with filing
+a claim and/or the related unemployment insurance benefits. During the period of
+our review, our Fraud hotline received numerous calls expressing these concerns,
+which our Fraud Investigation Unit was able to refer to appropriate DUI personnel
+for resolution.
+Adjudication Staffing Contract
+In November 2020, DUI entered into a $70.9 million emergency contract with
+another staffing vendor for up to 675 supplemental staff. This vendor was
+responsible for augmenting DUI’s adjudication staff by completing certain tasks
+including the following:
+17
+
+--- Page 20 ---
+ Investigate potentially disqualifying issues and determine the impact on
+eligibility for benefits,
+ Conduct fact finding interviews and document results,
+ Detect improper and potentially fraudulent payments, and
+ Assist in reviewing PUA proof of income.
+As of November 2021, DUI payments to this vendor totaled $15.8 million, all of
+which were made using federal funds. According to the contract, 575 staff were
+to be available by June 2021; however, the vendor was unable to obtain that
+number of qualified personnel. See Figure 7 for actual staffing levels provided by
+this vendor for calendar year 2021.
+Claims Processing
+Individuals may file an application for unemployment insurance benefits online or
+over the phone (which are handled by the four DUI-operated claims centers or
+DUI’s supplemental staffing vendor). Historically, requests for certain benefit
+types (such as benefits for claimants who were employed by the federal
+government) could not be filed online. In April 2020, with the implementation of
+BEACON One-Stop, individuals could apply for all unemployment benefits
+online.
+The application includes information about their previous employer, wages
+earned, and the reason for the individual’s current unemployment. DUI utilizes a
+combination of automated system checks, and manual steps as deemed necessary,
+18
+
+--- Page 21 ---
+to verify that the application information is complete and the applicant is eligible
+for benefits, and to set up an account for each approved claimant.
+Benefit amounts are based on the individual applicant’s earnings during their base
+period and other factors, such as the number of the applicant’s dependents. The
+base period is generally the first four of the last five calendar quarters completed
+before the claimant filed for benefits. DUI historically issued each approved
+claimant a Maryland Unemployment Insurance (UI) Benefits Debit Card to access
+their benefits. However, beginning May 24, 2021, DUI discontinued use of the
+debit card, and claimants began receiving their benefits either through direct
+deposit or by check.
+State law requires applicants to be able, available, and actively looking for work
+in order to continue to be eligible for unemployment benefits. Accordingly,
+claimants are required to certify each week that they are able, available, and
+actively looking for work, and to disclose any other information that could affect
+their eligibility for benefits, such as attending school. Any claimant who obtains
+work must notify DUI of the number of days worked and the related
+compensation.
+As a further condition of eligibility, DUI requires claimants to register in the
+Maryland Workforce Exchange System within 10 days of filing a claim. The
+System provides services to help individuals gain employment. This requirement
+was not in place from March 2020 through July 2021 due to the COVID-19
+pandemic. Effective July 2021, DUI began automatically initiating this
+registration process for claimants, and the Workforce Exchange System became
+the only place where a claimant could log their reemployment activities, such as
+work searches.
+Certain claims may require manual review by a claims worker, and claim data
+may need to be manually adjusted. For example, a claims worker may have to
+review documentation supporting income reported by a self-employed claimant,
+and manually enter the income amount into BEACON. Manual review is also
+required for claims in adjudication. A claim is adjudicated when it requires a
+claims worker to investigate certain issues and determine the impact on the
+claimant’s eligibility, for example whether the claimant was actually terminated
+or voluntarily resigned.
+19
+
+--- Page 22 ---
+National Trends and Issues Related to Potential UI Fraud
+During the COVID-19 Pandemic
+During our audit, we reviewed available publications issued by federal and state
+entities, as well as news media reports to identify national trends and issues that
+arose during the pandemic relating to claim volume and potential fraud in UI
+programs. See publications reviewed at Exhibit 2.
+National Increase in Claim Volume Observed
+The COVID-19 pandemic and subsequent expansion of UI benefits authorized by
+the CARES Act and other federal legislation placed unprecedented stress on
+unemployment insurance programs throughout the country. According to the
+United States Department of Labor – Office of the Inspector General (US DOL –
+OIG), UI claims nationwide increased from 282,000 initial claims immediately
+prior to the implementation of pandemic mitigation measures as of March 15,
+2020 to 57.4 million initial claims by August 15, 2020. As of June 30, 2022,
+approximately $1.036 trillion has been allocated to pandemic-related UI programs
+since the beginning of the COVID-19 pandemic.
+National Increase in Improper Payments Estimated
+In December 2021, the US DOL – Education and Training Administration (US
+DOL – ETA) estimated that, based on available information, at least 18.71
+percent of regular and certain pandemic UI program payments may have been
+improper, although the US DOL – OIG noted that the actual rate was likely
+higher. Using this rate, US DOL – OIG estimated in March 2022 that, based on
+the $872.5 billion in pandemic UI benefits paid, at least $163 billion may have
+been improper payments to claimants. An improper payment may result from an
+individual’s fraudulent action to obtain payments or from other conditions, such
+as unintentional errors on the part of a claimant or program employee.
+In its testimony to Congress, US DOL – OIG cited the Pandemic Unemployment
+Assistance (PUA) program as a significant risk for improper payments since it
+required only self-certification by the claimant that they met the program
+requirements, and allowed the claimant to backdate their UI claim. Additionally,
+because of the reliance on self-certification, states were not required to verify
+claimant identities or income until January 2021, after Congress amended the
+PUA program requirements in December 2020.
+Examples of Findings from National and State Reports
+Our review of audit reports, advisories, and testimony issued by US DOL – OIG
+and several states disclosed that they generally did not discuss the details of
+specific UI frauds being perpetrated across the nation. Rather, most reports we
+20
+
+--- Page 23 ---
+reviewed discussed significant challenges experienced by state workforce
+agencies (SWAs) responsible for administering unemployment insurance
+programs, and focused on internal control deficiencies or program weaknesses,
+some of which were revealed or exacerbated by the pandemic conditions. We
+noted common elements in many of the weaknesses, several of which were
+consistent with results included in this report.
+ States had not implemented processes or technology that would allow them to
+prevent or detect improper payments. For example, several states did not
+perform, or they suspended, crucial data matches designed to detect ineligible
+claimants. A survey of states by the US DOL – OIG confirmed that 40
+percent of SWAs did not perform the cross-matches required by US DOL –
+ETA, and 88 percent of SWAs did not perform the cross-matches strongly
+recommended by US DOL – ETA, including, for example, procedures
+intended to detect claimants using foreign Internet Protocol addresses (a
+matter addressed elsewhere in this report as it relates to Maryland).
+ States that had otherwise adequate existing pre-pandemic prevention and
+detection processes did not or could not readily adjust them to the
+circumstances created by the pandemic. For example, one state that
+performed cross-matches previously did not adjust the frequency of a match in
+order to address the significant increase in claims volume, and thus more
+quickly detect and stop improper benefit payments being made to ineligible
+claimants. Other states that normally required claimants to appear in person,
+or conducted manual reviews of questionable claims, were unable to use, or
+did not adapt, those procedures when the pandemic began.
+ Existing processes were not adequate. For example, some states did not have
+input controls in place to limit or otherwise aid in ensuring the propriety of
+certain application data entered by claimants. Without these limits, applicants
+were able to enter inaccurate critical information (such as applicant birthdates
+that occurred in the future). Other states paid claimants without verifying that
+they were entitled to the amount awarded (such as, by verifying reported
+income to supporting documentation and/or wage databases). Although
+certain of these transactions may have been identified after the benefits were
+paid, recovering the funds may be difficult and therefore would not mitigate
+the need for preventive controls (some of these matters are addressed
+elsewhere in this report as it relates to Maryland).
+21
+
+--- Page 24 ---
+We Were Unable to Compare Maryland’s Potential Losses from Fraud to Other
+States
+Due to the diversity of methods used by US DOL and state oversight agencies to
+quantify potentially (emphasis added) improper payments made and improper
+claims that were detected and not paid, we could not readily compare Maryland’s
+totals for such amounts to other states. We also were unable to readily compare
+actual losses from fraud in states that had not implemented effective controls to
+states that either had implemented effective controls, or had implemented
+effective controls later in the pandemic.
+We did note that states that implemented more comprehensive fraud detection or
+prevention approaches such as analytical procedures on application data, live
+identity verification, or multi-state data matching, generally reported a decrease in
+the number of potentially fraudulent claims. In addition, the US DOL – OIG
+noted that SWAs with modernized information technology (IT) systems were
+typically able to implement the programs authorized by the CARES Act more
+quickly, and were able to more readily participate in necessary fraud control
+measures (such as multi-agency coordination and participation in national data
+banks).
+Certain Pandemic-related Issues Were Determined Not to be New or
+Unforeseeable
+In our opinion, certain issues experienced during the COVID-19 pandemic by
+state UI programs (including many identified in this audit report) were not new or
+unforeseeable. For example, at the onset of the COVID-19 pandemic, an April
+2020 US DOL – OIG report raised concerns about program delivery and integrity
+due to the historically troubled performance of UI programs at other times of prior
+high claim volumes (for example, the Great Recession in 2007-2009), known
+difficulties in implementation of adequate fraud detection and prevention
+procedures, and a known lack of modernized IT systems. Consequently, the
+report recommended that states take appropriate precautions to prevent improper
+payments.
+Status of Findings From Preceding Audit Report
+Based on our current assessment of significance and risk relative to our audit
+objectives, our audit included a review to determine the status of five of the six
+findings contained in our preceding audit report dated February 5, 2019 (prior
+audit finding 3 was not reviewed). As disclosed in Figure 8, we determined that
+DUI satisfactorily addressed two of these five findings. The remaining three
+findings are repeated in this report as four findings. The status of two findings in
+22
+
+--- Page 25 ---
+our preceding audit report (Findings 5 and 6 also included in Figure 8) were
+previously determined during our audit of DUI Part 1 report dated May 4, 2022.
+Figure 8
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+DUI did not always use available data to identify
+Repeated
+claimants who may not be eligible for benefits, and
+Finding 1 (Current Findings 2
+did not always conduct timely investigations into
+and 3)
+the results of certain data matches.
+Supervisory reviews of claims and adjustments to
+claimant wages on the Maryland Automated Repeated
+Finding 2
+Benefit Systems (MABS) were not always (Current Finding 6)
+conducted or documented.
+DUI lacked a formal comprehensive policy for
+Not repeated
+timely collection of delinquent accounts resulting
+Finding 3 (Not followed up
+from benefit overpayments and referrals to the
+on)
+State’s Central Collection Unit.
+DUI did not establish sufficient controls over
+Repeated
+Finding 4 reissued debit cards nor ensure the proper
+(Current Finding 7)
+disposition of funds remaining on expired cards.
+DUI did not adequately follow up or track the
+results of computer matches it performed to
+Not repeated
+Finding 5 identify employers that had not registered with DUI
+(Part 1 Report)
+and may not be remitting required unemployment
+insurance taxes.
+DUI did not have a comprehensive or effective
+procedure to periodically review user access to the
+Maryland Unemployment Insurance Tax System Not repeated
+Finding 6
+and MABS, which resulted in unnecessary or (Part 1 Report)
+incompatible access being granted to certain
+individuals.
+23
+
+--- Page 26 ---
+Findings and Recommendations
+Benefit Payments
+Background
+The Division of Unemployment Insurance (DUI) has historically conducted
+periodic matches using the Maryland Automated Benefit System (MABS) to help
+detect benefit payments made to ineligible claimants and identify potential fraud.
+These matches each address a critical element involved in the eligibility for or
+calculation of unemployment benefits.
+1. Incarcerated Match is a monthly match performed by a vendor to ensure that
+individuals reported as incarcerated in Maryland, and certain other states and
+local jurisdictions are not receiving unemployment benefits.
+2. Other States Wage Match is a quarterly match to ensure that claimants are
+not earning wages in another state while receiving unemployment benefits in
+Maryland.
+3. Maryland Wage Match is a quarterly match, which identifies individuals
+earning wages from a Maryland employer while receiving unemployment
+benefits.
+4. Regular State Employee Address Match is a quarterly match to specifically
+identify regular Maryland State employees earning wages and receiving
+unemployment benefits.
+5. Contractual State Employee Address Match is the same as the match for
+regular State employees applied to the State’s contractual payroll.
+6. Regular State Employee Social Security Number (SSN) Match is a
+quarterly match, also meant to identify regular Maryland State employees
+earning wages and receiving benefits.
+7. Contractual State Employee SSN Match is the same as the match for
+regular State employees applied to the State’s contractual payroll.
+8. Vital Statistics Match is a monthly match, which ensures that benefits are not
+being paid to deceased individuals.
+9. New Hire Match is a quarterly match, which ensures that claimants who were
+unemployed and are now employed, are no longer receiving benefits.
+24
+
+--- Page 27 ---
+Finding 1
+DUI did not conduct certain critical matches used to identify potentially
+fraudulent or improper claims. We conducted three matches to replicate
+four of the discontinued DUI matches and identified at least $32.3 million in
+potentially improper payments.
+Analysis
+DUI did not conduct certain critical matches used to identify fraudulent or
+improper claims and has no plans to retroactively conduct the matches. As noted
+in Figure 9, for at least some of the audit period DUI did not perform all of the
+nine critical matches it had historically conducted on a periodic basis. For
+example,
+ Between April 2020 and September 2020, DUI only performed the matches
+using data in MABS, which accounted for just $1.3 billion of the $8.4 billion
+in claim payments for the period.
+ Between September 2020 and January 2021, DUI only performed one of the
+aforementioned nine historical matches; specifically, the quarterly New Hire
+Match.
+ As of December 2021, DUI had not performed two matches (Other State
+Wage and Maryland Wage Matches) since March 2020, and had not
+performed a third match (Vital Statistics Match) since August 2020.
+25
+
+--- Page 28 ---
+DUI management advised us that they could not conduct the aforementioned
+matches because of BEACON One-Stop and BEACON system deficiencies, but
+could not provide the specific deficiencies encountered. We were further advised
+that while DUI has been able to restart certain matches in BEACON, there was no
+plan to retroactively conduct matches for the periods for which matches were not
+performed.
+These matches are critical since they have historically identified questionable
+claims. We conducted three matches to replicate four of the DUI matches using
+data obtained from BEACON of individuals receiving unemployment insurance
+payments during the period April 2020 to January 2021 or December 2021
+(depending on the match). During this period these matches were either not
+performed by DUI or did not include all claims paid. Our results are as follows:
+State Employee Match (to replicate DUI Regular and Contractual SSN matches)
+We compared the BEACON data to data we obtained from the State’s Central
+Payroll Bureau for regular and contractual State employees and identified at
+least $22.6 million in payments (including $11.5 million in Pandemic
+Unemployment Assistance (PUA) claims) to over 6,200 named recipients that
+were active State employees when the benefits were paid. We were advised by
+the Department of Budget and Management that during the pandemic, generally
+State employees continued to receive their full salaries even if they were not
+able to work. As a result, these individuals may not have been eligible for some
+or all of the benefits received.
+Incarceration Match
+We compared the BEACON data to data we obtained from the State’s
+Department of Public Safety and Correctional Services and identified at least
+$7.1 million in payments (including $6.5 million in PUA claims) to over 1,200
+named recipients that were incarcerated when the benefits were paid.
+Vital Statistics Match
+We compared the BEACON data to data we obtained from the Maryland
+Department of Health Vital Statistics Administration and identified at least $2.6
+million in payments (including $2.1 million in PUA claims) to 402 named
+recipients who were deceased when the benefits were paid.
+DUI also did not perform periodic matches to identify employees of vendors with
+critical access to DUI systems (such as the BEACON and staffing vendor
+employees) that may be improperly receiving unemployment insurance payments.
+As noted above, during the audit period DUI started using a significant number of
+vendors to supplement its State employees (which would not be covered by the
+26
+
+--- Page 29 ---
+aforementioned State Employee (Regular and Contractual) SSN Matches). Our
+review disclosed that DUI only completed one match in November 2020 that
+included employees of one of the staffing vendors and did not identify any
+improper payments. At the time the match was conducted, the staffing vendor
+only had 350 employees working on DUI activity. DUI did not repeat the match
+as staffing levels from this vendor increased, and did not conduct any matches of
+the other vendor’s employees.
+The questionable payments identified by these matches do not necessarily mean
+that the named recipient received the payment. For example, the named recipient
+may have been a victim of identity theft. DUI was not aware of these results and
+accordingly had not investigated the related paid benefits to determine whether
+they were proper.
+Recommendation 1
+We recommend that DUI
+a. require the BEACON vendor to address any system deficiencies
+preventing completion of matches, and in the future ensure that all
+matches are performed;
+b. conduct the aforementioned matches for the aforementioned periods
+when matches were not performed or did not include all claims; and
+c. investigate and resolve any potentially improper payments identified by
+the matches, including those noted in this finding.
+Finding 2
+DUI did not have comprehensive procedures to ensure that individuals filing
+claims using a foreign Internet Protocol (IP) address were eligible to receive
+benefits, including 3,724 claimants that received benefit payments totaling
+$3.6 million.
+Analysis
+DUI did not have comprehensive procedures in place to ensure that individuals
+filing for claims using a foreign IP address3 were eligible to receive benefits.
+During the audit period a significant number of fraudulent claims were identified
+in Maryland and several other states that were filed by individuals from outside of
+the respective States. At a minimum, individuals who file from a foreign IP
+3 An IP address is a numerical label such as 192.0.2.1 that is connected to a computer network that
+uses the Internet Protocol for communication. An IP address serves two main functions: network
+interface identification and location addressing (source; IP Address article, Wikipedia, the Free
+Encyclopedia). For the purpose of our audit, a foreign IP address is defined as one originating
+from other than the 50 states, the District of Columbia, Puerto Rico, the Virgin Islands, Guam,
+American Samoa, Northern Mariana Islands, and Canada.
+27
+
+--- Page 30 ---
+address may be residing outside of the country and may be unavailable for work,
+which could affect their eligibility for benefits. In April 2021, the federal
+Department of Labor issued an Unemployment Insurance Program Letter, which
+recommended that state workforce agencies, which includes DUI, use data
+analytics from state developed tools or private vendor services to detect
+suspicious activity such as out of country IP addresses.
+Based on DUI records for the period from September 2017 through April 2020,
+there were 3,724 claimants with benefit payments totaling $3.6 million, whose
+weekly certifications were filed from a foreign IP address. Our review of DUI
+procedures for monitoring these claims disclosed the following conditions:
+ DUI did not use available IP address data in MABS to identify and investigate
+claimants filing an initial claim or weekly certifications from a foreign IP
+address, nor did they have a proactive process to prevent these potentially
+improper claims from being processed without a review. Rather, DUI
+generally only used the IP address data to augment existing investigations of
+possibly ineligible claimants identified through other means. DUI also did not
+investigate 503 claimants we identified in our preceding audit report that filed
+five or more consecutive weekly certifications from a foreign IP address
+between June 2015 and June 2017.
+ Although BEACON One-Stop and BEACON included automated controls to
+block certain foreign IP addresses, these controls did not block all foreign IP
+addresses. Specifically, we examined the 3,724 claimants identified above as
+having previously used a foreign IP address under MABS to determine if they
+could file claims in BEACON One-Stop and BEACON. Our review disclosed
+that 988 of the 3,724 claimants filed weekly certifications from an IP address
+that would not have been blocked by the automated controls in place as of
+March 2021. Figure 10 provides a visual presentation of where the IP
+addresses for certain of those 988 claimants were located (many from
+Caribbean islands, Mexico, and Central America).
+28
+
+--- Page 31 ---
+Figure 10
+Map of IP Addresses Where Claims Could Still be Submitted
+Source: Agency Records
+ In April 2020, DUI stopped retaining a record of IP addresses used to submit
+weekly certifications and canceled its external subscription services, for which
+it paid approximately $2,900 per year, which used geo-mapping to identify the
+country associated with a claimant’s IP address. Canceling this service,
+impairs DUI’s ability to identify and investigate claims and certifications from
+foreign IP addresses, and the ability to update BEACON with a more
+complete and comprehensive list of restricted addresses.
+A similar condition regarding not using available IP addresses was commented
+upon in our preceding audit report.
+Recommendation 2
+We recommend that DUI
+a. continue to develop its automated controls used to block foreign IP
+addresses to ensure they are sufficiently comprehensive,
+b. retain a record of foreign IP addresses used and formally re-evaluate the
+decision to cease the use of a geo-mapping service to aid in the
+identification and investigation of foreign IP addresses that are used for
+both initial applications and weekly certifications, and
+c. investigate the foreign IP addresses identified in this finding and take
+corrective action for any ineligible claimants and benefits identified
+(repeat).
+29
+
+--- Page 32 ---
+Finding 3
+DUI did not ensure claimants who were full-time students were eligible for
+benefits, and that all claimants were enrolled in the Maryland Workforce
+Exchange System, as required.
+Analysis
+DUI did not ensure claimants who were full-time students were eligible for
+benefits, and that all claimants were enrolled in the Maryland Workforce
+Exchange System as required.
+ DUI did not obtain data to identify claimants who may not be eligible for
+benefits because they were full-time students and were not available for work.
+During the initial application and weekly certification process, applicants were
+asked if they were attending school (defined by State law as an institution of
+higher education). For applicants who were attending full-time and stated
+they were available for work, DUI inquired about the applicants’ course
+schedules and clarified the requirement to be able and available for work.
+DUI advised that the information provided by these applicants was not
+verified nor flagged for follow up in subsequent semesters. In addition, DUI
+did not have a process to identify claimants who failed to disclose their school
+enrollment on their applications or who may have enrolled in school after
+submitting their applications. For example, DUI did not obtain enrollment
+data from State universities to match against claimant data. Finally, DUI did
+not follow up on 179 claimants identified in our prior report who were
+enrolled as full-time students, all of whom stated they were able and available
+to work, and who received unemployment benefits totaling approximately
+$506,000.
+ DUI did not use available data in MABS to ensure that claimants had enrolled
+in the Maryland Workforce Exchange System. Specifically, no verification
+was performed from April 2017 until the Secretary of Labor suspended the
+requirement in March 2020.4 The requirement was reinstated in July 2021
+and DUI began automatically enrolling claimants in the Maryland Workforce
+Exchange System. DUI also did not follow up on 7,724 claimants identified
+in our prior report who had not enrolled in the Maryland Workforce Exchange
+system that had received benefits totaling $44.5 million. State law requires
+claimants to enroll in the system unless they are receiving benefits to
+supplement a temporary lay-off or a decreased work schedule.
+4 State law allows for the Secretary to suspend the requirement on an individual basis. Due to the
+impact of the COVID-19 pandemic on employment and unemployment activity, the Secretary
+took the extraordinary step of suspending this requirement on a global basis.
+30
+
+--- Page 33 ---
+Similar conditions were commented upon in our preceding audit report.
+Recommendation 3
+We recommend that DUI
+a. establish procedures, such as periodic matches to State higher education
+institution enrollment records, to identify and follow up on claimants who
+are attending school full-time but fail to disclose it (repeat);
+b. follow up on all applicants who state they are attending school to
+determine whether it impacts eligibility for unemployment benefits
+(repeat);
+c. verify that all claimants comply with applicable enrollment requirements,
+including the Maryland Workforce Exchange system (repeat); and
+d. take timely and appropriate corrective action for any potentially
+ineligible claimants or benefits identified, including those noted in this
+finding (repeat).
+Claims Processing
+Background
+The new BEACON system (and previously MABS) subjects initial claim
+applications to certain automated validation rules to help determine eligibility and
+benefits due. For example, wages reported by the applicant are automatically
+verified to wages reported by the applicable employer. If inconsistencies or other
+discrepancies are detected, applications and claims may be suspended from
+processing, and require manual review and adjustment by a claims processor. A
+manual review is also required for claims designated for adjudication. A claim is
+adjudicated when it requires a claims worker to further investigate certain issues
+and determine the impact on the claimant’s eligibility, for example whether the
+claimant was actually terminated or voluntarily resigned. Manual claims
+processing and adjudication are performed by DUI employees at the four DUI
+claims centers and by employees of the two aforementioned staffing vendors.
+Finding 4
+DUI did not have procedures to help prevent and detect duplicate benefit
+payments. Our analysis disclosed $43.3 million in potentially duplicate
+payments made to 12,500 claimants between April 2020 and December 2021
+that were not identified or investigated by DUI.
+Analysis
+DUI did not have procedures to help prevent and detect duplicate benefit
+payments. Our analysis of BEACON records disclosed $43.3 million in
+31
+
+--- Page 34 ---
+potentially duplicate payments made to 12,500 claimants between April 2020 and
+December 2021, where we could not determine that DUI identified or investigated
+the potentially duplicated payments. Our further analysis of seven of these
+payments totaling $22,103, including a review of the related debit card records,
+disclosed that six duplicate payments were made totaling $20,350. For example,
+one claimant received 19 payments for one benefit week totaling $5,210, and
+another received 16 payments for one benefit week totaling $7,616. These
+claimants should have received only $374 and $476, respectively, for the
+applicable benefit week.5 The remaining payment we reviewed was determined
+not to be a duplicate payment.
+According to DUI management, duplicate payments occurred primarily because
+of deficiencies in BEACON. For example, BEACON accepted multiple weekly
+certifications for the same benefit week which resulted in more than one payment
+being made, and BEACON allowed duplicate Lost Wage Assistance Program
+payments. In addition, claimants were able to improperly file for multiple
+programs for the same benefit week, such as PUA and regular unemployment
+insurance.
+As noted in our testing, certain data in BEACON that appeared to indicate a
+duplicate payment was made was incorrect. As a result, we could not readily
+determine how much of the aforementioned $43.3 million represented actual
+duplicate payments.
+Recommendation 4
+We recommend that DUI
+a. require the BEACON vendor to correct BEACON to prevent duplicate
+payments;
+b. use available BEACON records to identify duplicate payments; and
+c. take appropriate corrective action for the duplicate payments, including
+those noted in this finding.
+5 A named payee may not have actually received payment, but may have been a victim of identity
+theft.
+32
+
+--- Page 35 ---
+Finding 5
+DUI did not conduct timely verifications of income reported by applicants
+for PUA benefits and did not ensure manual adjustments processed by DUI
+and contract employees were proper.
+Analysis
+DUI did not conduct timely verifications of income reported by applicants for
+PUA benefits and did not ensure manual adjustments processed by DUI and
+contract employees were proper. During the period from January 27, 2020
+through December 31, 2020 federal PUA benefits were available for up to 39
+weeks to individuals ineligible for regular benefits (such as self-employed
+individuals). Individuals applying for PUA had to self-report their income in
+BEACON at the time of application which was used as the basis for claim
+payments. Federal regulations required these individuals to submit
+documentation to support the reported income within 21 days and for DUI to
+“promptly” review and adjust the claim if necessary. As of January 2021, $5.9
+billion was paid to claimants under the PUA program in Maryland.
+DUI Did Not Conduct Timely Income Verifications
+According to BEACON records as of January 31, 2021, DUI had not verified
+income for 40,265 of the 198,990 individuals who received PUA benefits between
+May and November 2020. In all of these cases, documentation had been
+submitted by the applicant and was awaiting review. Although most of these
+cases were verified by January 2022, there was a significant delay, which resulted
+in certain overpayments. Specifically, our test of 10 of these cases disclosed that
+it took between 274 and 288 business days to complete the review despite the
+documentation being submitted within 10 days of the initial claim.
+The untimely verifications resulted in significant delays in processing adjustments
+to the benefits due to discrepancies between the reported income and the support.
+For example, the verification of one claimant 281 days after the claim submission
+resulted in an adjustment of the weekly benefit from $430 to $278. Due to the
+untimely verification, DUI had already overpaid the claimant $6,080. DUI could
+not readily provide us with the total amount of overpayments identified as a result
+of delayed verifications.
+DUI Did Not Conduct Verifications of Manual Adjustments
+DUI did not have any process to verify the propriety of manual adjustments made
+by DUI and contract employees. As noted above, DUI and contract employees
+were responsible for reviewing supporting documentation and adjusting applicant
+information on BEACON. According to agency personnel, the BEACON system
+does not have the capability to show after the fact (either on a screen or in a
+33
+
+--- Page 36 ---
+generated report) the income amount that was entered by the employee who
+verified the income. This is a significant control deficiency since the amount
+entered serves as the basis for any future benefit payments, and there was no way
+to readily verify the amounts entered resulting in certain errors going undetected.
+Specifically, our review of income documentation submitted by 25 claimants
+receiving PUA, disclosed 7 claimants who received benefits totaling
+approximately $216,000 as of January 2021 that were being overpaid $10 to $169
+per week based on the submitted documentation. For example, one claimant was
+receiving $430 per week when based on provided income documentation they
+should have received $261, an overpayment of $169 per week. After our
+inquiries, DUI, with the assistance of the BEACON vendor, determined that the
+employee who verified this applicant’s income entered an incorrect income
+amount into BEACON.
+Recommendation 5
+We recommend that DUI
+a. ensure that critical applicant data, such as income, is verified and
+accurately adjusted if necessary, in a timely manner;
+b. ensure the aforementioned system deficiency regarding BEACON’s
+inability to show the verified income amount is corrected and establish a
+documented process to verify that the recorded information was entered
+accurately; and
+c. investigate and resolve any differences in weekly PUA benefit amounts
+disclosed as a result of income verifications, including those noted above.
+Finding 6
+DUI did not adequately review regular claims and adjudications processed
+by claims center DUI employees and temporary staff, and output reports of
+manual wage entries could not be generated from BEACON for verification
+purposes.
+Analysis
+DUI did not conduct all required supervisory reviews of regular claims and
+adjudications processed by claims center DUI employees and did not ensure that
+claims processed by staffing vendor employees were subject to review. In
+addition, output reports of manual wage entries could not be generated from
+BEACON for verification purposes.
+34
+
+--- Page 37 ---
+DUI Did Not Ensure Required Reviews were performed at Claim Centers
+DUI did not ensure supervisors at the claim centers reviewed manual claims and
+adjudications as required and therefore, did not take appropriate action when the
+reviews at certain centers were not performed. DUI policy requires supervisors at
+the claims centers to review seven claims processed by each claims processer on a
+weekly basis, and 60 adjudications each week. These reviews are intended to
+verify that critical information supporting the legitimacy of the claim is complete
+and properly evaluated and recorded.
+DUI did not monitor the claims centers to ensure the reviews were performed, and
+as of April 2021 DUI had no plans or process to ensure that the reviews, which
+are still required by DUI policy, were conducted in the future at these centers.
+We requested the most recent reviews from two of the four DUI claims centers,
+and noted that the required reviews were not conducted. For example, one claims
+center had not conducted any of the required reviews of adjudications since
+December 2016 and had not conducted any of the required reviews of manual
+claims since October 2019. DUI was not aware that the reviews were not being
+performed at these claims centers and accordingly did not take any corrective
+action. We could not readily determine the total number of manual claims and
+adjustments processed by DUI because BEACON did not have the ability to
+generate a report of these transactions. Similar conditions regarding the lack of
+supervisory reviews over manual claims were commented upon in our preceding
+audit report.
+Staffing Vendor
+DUI had no procedure to perform, and the related contract did not require,
+supervisory reviews of manual claims processed by staffing vendor employees.
+We could not readily determine the total number of manual claims and
+adjustments processed by the staffing vendor because BEACON did not have the
+ability to generate a report of these transactions that we deemed reliable.
+Manual Wage Entries
+DUI did not review manual adjustments made by DUI headquarter employees for
+certain employer wages, for example, military and federal employees. DUI
+headquarter employees were responsible for entering into BEACON income
+information based on supporting documentation from certain applicants. Since
+the implementation of BEACON in September 2020, DUI has been unable to
+generate output reports from BEACON to accurately provide claimant wages
+manually recorded. In the absence of output reports, supervisors were provided
+lists of manually entered wages by each employee to review. DUI employees
+creating the lists were also responsible for initiating claim payments as part of
+35
+
+--- Page 38 ---
+their job duties, and, since they were not independent of the process, the risk of
+improper payments increases.
+Due to the inability of BEACON to generate output reports, we were unable to
+quantify the extent of manual wage entries since the system was implemented.
+However, from July 1, 2017 through September 15, 2020, approximately 81,000
+wage entries were manually recorded in MABS.
+Recommendation 6
+We recommend that DUI
+a. ensure that supervisors at claim centers perform the required reviews of
+claims processed (repeat) and adjudications completed;
+b. establish a formal process to provide for supervisory review of claims
+processed by temporary staff used to assist DUI’s claim center employees;
+and
+c. require the BEACON vendor to address the aforementioned system
+deficiencies preventing the generation of system output reports of manual
+claims and adjustments (including those performed by the staffing
+vendor), and use those reports to verify the propriety of those entries.
+Finding 7
+DUI did not establish sufficient controls over reissued debit cards, and did
+not ensure the proper disposition of funds remaining on expired debit cards.
+Analysis
+DUI did not establish sufficient controls over reissued debit cards, and did not
+ensure the proper disposition of funds remaining on expired cards. Prior to May
+2021, DUI issued a UI Benefits Debit Card for each approved claimant as a
+means to access the claimant’s unemployment insurance benefits. Between July
+2017 and January 2021, there were 354,445 debit cards reissued to claimants, and
+as of October 2020, the value remaining on expired or never activated debit cards
+totaled $23.1 million.
+ There was no independent review of reissued debit cards to ensure they were
+proper. A new debit card can be issued if the original card is lost or damaged.
+The lack of review is significant because the employee responsible for
+reissuing cards was also responsible for updating claimant mailing addresses
+in the sponsoring bank’s records, and had access to update a claimant’s
+address in BEACON. As a result, the employee was in a position to identify
+an inactive card, reissue a new card to a different address (such as a PO box),
+and misappropriate the funds.
+36
+
+--- Page 39 ---
+According to records we obtained from the sponsoring bank, of the
+aforementioned 354,445 reissued debit cards, 1,970 relating to 1,170
+claimants were reissued to an address not included in DUI’s unemployment
+insurance system. We asked agency personnel for documentation to support
+30 of the debit cards that were mailed to addresses that appeared questionable,
+such as out of State, or where multiple cards were mailed to the same address.
+DUI could not provide us with documentation or adequate explanations for 23
+of these reissued cards, including whether an address change was made by
+DUI or the sponsoring bank. Benefits paid through these 23 reissued cards
+totaled $315,000.
+ DUI did not have procedures to ensure the proper disposition of funds
+remaining on debit cards that were expired or that were never activated. As
+previously noted, there were approximately 30,000 cards that were expired or
+never activated with $23.1 million6 remaining in the related accounts at the
+sponsoring bank as of October 2020. Since debit cards expire three years after
+they are issued, these funds should have been either returned to DUI or
+reported to the State Comptroller as unclaimed property.
+We were advised by agency personnel that DUI requested the sponsoring
+bank to periodically provide documentation regarding never activated and
+expired cards, but DUI never used this information for monitoring purposes.
+According to the Maryland Unemployment Benefits Debit Card Deposit
+Agreement between DUI and the sponsoring bank, if a debit card is not
+activated within one year of issuance, the account is to be closed and the funds
+returned to DUI. If the debit card is activated, any remaining unclaimed funds
+should be reported and remitted by the bank as unclaimed property to
+Maryland after a period of three years in accordance with State laws for
+unclaimed property.
+In May 2021, DUI discontinued use of the debit card, and began issuing benefits
+only by direct deposit or by check. However, cards in place at the time with
+remaining benefits could still be used, and reissued in the event of loss. Similar
+conditions were commented upon in our preceding audit report.
+Recommendation 7
+We recommend that DUI establish procedures to ensure
+a. all reissued debit cards are subject to an independent review and
+approval (repeat);
+6 A debit card may be not-activated if DUI canceled or froze the card due to potential fraud while
+determining the legitimacy of the claim. For example, the $23.1 million includes 59 canceled
+debit cards, which are part of the population of cards in Finding 8.
+37
+
+--- Page 40 ---
+b. cards reissued to a questionable address are adequately investigated and
+resolved, including the 1,970 noted above; and
+c. unspent funds remaining on debit cards are returned to DUI or reported
+to the State Comptroller as unclaimed property in accordance with the
+aforementioned Agreement (repeat).
+Finding 8
+DUI did not properly account for potentially fraudulent benefits totaling
+$493.9 million that were removed from claimants’ debit cards.
+Analysis
+DUI did not properly account for potentially fraudulent benefits totaling $493.9
+million that were removed from claimants’ UI Benefit Debit Cards (debit cards).
+In July 2020, DUI canceled debit cards for 46,986 claimants with benefits totaling
+$493.9 million because the claims originated from out of State, and accordingly,
+were considered potentially fraudulent. By canceling the cards, DUI stopped
+those benefits from being drawn by those claimants. DUI instructed these
+claimants to provide documentation to support their identity and the validity of
+their claim to have the claim reprocessed and repaid.
+Our review disclosed that DUI did not update BEACON to reflect the cancelation
+of these payments. As a result, claimants who did not submit the requested
+documentation received overpayment notices even though they never received the
+funds. In addition, DUI was unable to provide documentation of how much, if
+any, of the $493.9 million was subsequently repaid to claimants.
+We were advised by DUI management that the United States Department of
+Labor - Office of Inspector General is assisting DUI in investigating the
+potentially fraudulent claims. As of August 2022, DUI could not provide details
+regarding the investigation, the funds remain in DUI’s disbursement account, and
+no decision has been made on the disposition of these funds.
+Recommendation 8
+We recommend that DUI ensure that all transactions impacting claimant
+accounts are properly recorded in BEACON, including those noted in this
+finding.
+38
+
+--- Page 41 ---
+Unemployment Insurance Trust Fund
+Finding 9
+DUI did not ensure amounts disbursed from the Unemployment Insurance
+Trust Fund were properly transferred to the bank account used to make
+benefit payments.
+Analysis
+DUI did not ensure amounts disbursed from the Unemployment Insurance Trust
+Fund were properly transferred to the bank account used to make benefit
+payments. Specifically, as of May 2021, DUI had not performed a reconciliation
+of its record of Trust Fund activity to the corresponding bank records since
+August 2020. Disbursements from the Trust Fund totaled approximately $5.0
+billion during the period from October 2020 through May 2021 and are generally
+made daily.
+In response to our inquiries, in May 2021 DUI prepared the reconciliation for
+September 2020, which showed unresolved reconciling items totaling
+approximately $81.4 million dating back to 2019. As of January 2022, DUI had
+been unable to resolve these differences, and no additional reconciliations had
+been performed.
+Recommendation 9
+We recommend that DUI prepare periodic reconciliations of its record of
+Trust Fund activity to the corresponding bank records, and resolve
+differences timely, including those noted in this finding.
+Information Systems Security and Control
+We determined that Findings 10 through 13 related to “cybersecurity”, as defined
+by the State Finance and Procurement Article, Section 3A-301(b) of the
+Annotated Code of Maryland, and therefore are subject to redaction from the
+publicly available audit report in accordance with the State Government Article 2-
+1224(i). Consequently, the specifics of the following findings, including the
+analysis, related recommendation(s), along with the Maryland Department of
+Labor’s responses, have been redacted from this report copy.
+39
+
+--- Page 42 ---
+Finding 10
+Redacted cybersecurity-related finding.
+Finding 11
+Redacted cybersecurity-related finding.
+Finding 12
+Redacted cybersecurity-related finding.
+Finding 13
+Redacted cybersecurity-related finding.
+40
+
+--- Page 43 ---
+Audit Scope, Objectives, and Methodology
+We have conducted two parts of a fiscal compliance audit of the Maryland
+Department of Labor (MDL) – Division of Unemployment Insurance (DUI) for
+the period beginning April 17, 2017 and ending November 15, 2020. The audit
+was conducted in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DUI’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included benefit payments and related system
+implementation. We also determined the status of four of the six findings
+contained in our preceding audit report.
+Our audit did not include certain support services provided to DUI by MDL –
+Office of the Secretary. These support services (such as payroll, purchasing,
+maintenance of accounting records, and related fiscal functions) are included
+within the scope of our audits of MDL – Office of the Secretary. In addition, our
+audit did not include an evaluation of internal controls over compliance with
+federal laws and regulations for federal financial assistance programs and an
+assessment of DUI’s compliance with those laws and regulations because the
+State of Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including DUI.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of April 17, 2017 to November 15, 2020, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+41
+
+--- Page 44 ---
+and to the extent practicable, observations of DUI’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from this source
+were sufficiently reliable for the purposes the data were used during this audit.
+We also extracted data from the Maryland Automated Benefits System, the
+Maryland Unemployment Insurance Tax System, and BEACON, as well as from
+certain other State records, such as those maintained by the Maryland Department
+of Health, for the purpose of testing unemployment tax payments and
+reimbursements related to benefit claims and payments. We performed various
+tests of the relevant data and determined the data were sufficiently reliable for the
+purposes the data were used during the audit. Finally, we performed other
+auditing procedures that we considered necessary to achieve our audit objectives.
+The reliability of data used in this report for background or informational
+purposes was not assessed.
+DUI’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided for in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to DUI, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+42
+
+--- Page 45 ---
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DUI’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our audit also disclosed significant instances of noncompliance with
+applicable laws, rules, or regulations. Other less significant findings were
+communicated to DUI that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3A-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation”. Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to DUI and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+As a result of our audit, we determined that DUI’s accountability and compliance
+level was unsatisfactory. The primary factors contributing to the unsatisfactory
+rating were the significance of our audit findings and how the findings were
+pervasive across all areas of DUI’s operations. Our rating conclusion has been
+made solely pursuant to State law and rating guidelines approved by the Joint
+43
+
+--- Page 46 ---
+Audit Committee. The rating process is not a practice prescribed by professional
+auditing standards.
+The response from MDL, on behalf of DUI, to our findings and recommendations
+is included as an appendix to this report. Depending on the version of the audit
+report, responses to any cybersecurity findings may be redacted in accordance
+with State law. As prescribed in the State Government Article, Section 2-1224 of
+the Annotated Code of Maryland, we will advise MDL regarding the results of
+our review of its response.
+44
+
+--- Page 47 ---
+Exhibit 1
+Summary of Unemployment Insurance Modernization (BEACON) Findings in
+OLA Audit Reports Issued from July 1, 2015 to May 31, 2022
+Maryland Department of Information Technology (DoIT)
+Report Issued May 1, 2020
+Finding 1
+ Information Technology Project Requests (ITPRs) – DoIT did not have a documented
+review and approval of the annual BEACON ITPR, which our testing disclosed had not been
+updated from the preceding year’s ITPR.
+ Monthly Project Monitoring - DoIT did not require oversight project managers hired by a
+DoIT vendor, to document their review and verification of the accuracy of information
+provided in monthly project monitoring reports provided by the agencies. The review of these
+monthly monitoring reports is critical to monitoring project status including scope, schedule,
+cost, and risks. Our review of applicable reports discussed during fiscal year 2018 steering
+committee meetings disclosed that the actions to be taken to address BEACON identified
+risks, such as project delays, were not always included in the reports, and DoIT did not
+document that methods to address these risks were discussed in the related meetings.
+ DoIT Annual Major Information Technology Development Project Report – DoIT did not
+properly report total estimated project costs for BEACON, which we determined were
+significantly underestimated.
+Maryland Department of Labor (MDL)
+Report Issued January 7, 2022
+Finding 1
+ MDL did not obtain documentation to support $11.7 million in vendor billings for
+modernizing DUI’s unemployment insurance system. MDL approved these costs, which were
+essentially for the remainder of the contract, but could not provide documentation verifying the
+propriety of the amounts invoiced and paid.
+Division of Unemployment Insurance
+Part 1 Unemployment Insurance Tax Contributions
+Report Issued May 4, 2022
+Finding 2
+ DUI had not verified that unemployment tax collections were properly deposited and recorded
+since the implementation of BEACON in September 2020, due to the inability to generate
+certain required reports from the BEACON system
+45
+
+--- Page 48 ---
+Exhibit 1
+Summary of Unemployment Insurance Modernization (BEACON) Findings in
+OLA Audit Reports Issued from July 1, 2015 to May 31, 2022
+Finding 3
+ DUI did not regularly conduct data matches to identify employers who had not registered with
+DUI, as required by State law, and did not always follow up on the results of the matches that
+were performed. According to DUI management, DUI did not follow up on match results
+because BEACON was unable to generate notices to employers that would alert them of the
+legal requirement to register.
+Finding 4
+ DUI did not ensure reimbursable employers provided sufficient collateral to protect the State
+in the event claims are paid on their behalf. As of September 2021, BEACON was not able to
+display or generate reports of amounts due.
+Finding 5
+ DUI did not have formal policies for pursuing collection of delinquent employer accounts, and
+discontinued pursing delinquent accounts in September 2020 due to BEACON system
+deficiencies.
+Finding 6
+ Access to process critical employer tax related transactions and functions within BEACON
+was not adequately restricted.
+46
+
+--- Page 49 ---
+Exhibit 2
+Selected Sources for National Trends
+1. Testimony of the US Department of Labor (DOL) – Office of the
+Inspector General (OIG) to US Senate Committee on Homeland Security
+and Governmental Affairs (March 17, 2022)
+2. Pandemic Response Accountability Committee (PRAC) “Key Insights:
+State Pandemic Unemployment Insurance Programs” (December 16,
+2021) (This report contains links to US DOL – OIG publications and
+reports from sixteen State oversight agencies, which we also reviewed.)
+3. “Best Practices and Lessons Learned from the Administration of
+Pandemic-Related Unemployment Benefits Programs” (January 31, 2022),
+a report produced by the MITRE Corporation requested by PRAC
+4. US DOL – OIG Advisory Report: “CARES Act: Initial Areas of Concern
+Regarding Implementation of Unemployment Insurance Provisions”
+(April 21, 2020)
+5. US DOL – OIG Alert Memorandum: “The Employment and Training
+Administration Needs to Ensure State Workforce Agencies Implement
+Effective Unemployment Insurance Program Fraud Controls for High Risk
+Areas” (February 22, 2021)
+6. US DOL – OIG Alert Memorandum: “The Employment and Training
+Administration Needs to Issue Guidance to Ensure State Workforce
+Agencies Provide Requested Unemployment Insurance Data to the Office
+of Inspector General” (June 16, 2021)
+7. US DOL – OIG Report: “COVID-19: States Struggled to Implement
+CARES Act Unemployment Insurance Programs” (May 28, 2021)
+47
+
+--- Page 50 ---
+APPENDIX
+
+--- Page 51 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Benefit Payments
+Finding 1
+DUI did not conduct certain critical matches used to identify potentially fraudulent or
+improper claims. We conducted three matches to replicate four of the discontinued DUI
+matches and identified at least $32.3 million in potentially improper payments.
+We recommend that DUI
+a. require the BEACON vendor to address any system deficiencies preventing completion
+of matches, and in the future ensure that all matches are performed;
+b. conduct the aforementioned matches for the aforementioned periods when matches
+were not performed or did not include all claims; and
+c. investigate and resolve any potentially improper payments identified by the matches,
+including those noted in this finding.
+Agency Response
+Analysis
+Please provide State Employee Crossmatch contractor provided DUI with a State
+additional comments as Employees Crossmatch. DUI performed those matches weekly. In
+deemed necessary. performing the matches, DUI concluded that although the State agency
+may have reported certain employees as “still employed”, that was not
+always correct. The employee may have been separated due to a lack of
+work but remained on the agency’s payroll, therefore technically
+unemployed and eligible for unemployment benefits.
+Recommendation 1a Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI will require the vendor to address any system deficiencies
+corrective action or preventing completion of matches, and in the future ensure that all
+explain disagreement. matches are performed as specified in crossmatch business rules. Prior to
+the finding, DUI had addressed many crossmatch issues through written
+Problem Incident Reports (PIR’s) with the vendor. Although most have
+been corrected, DUI will continue to work with the vendor to test and
+verify that crossmatches are working as designed.
+Recommendation 1b Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI has started and will continue to devote staff to conduct the
+corrective action or aforementioned matches for the periods where matches were not
+explain disagreement. performed or did not include all claims.
+Page 1 of 12
+
+--- Page 52 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Recommendation 1c Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI staff has begun and will continue to investigate and fully resolve
+corrective action or any improper payments identified by the matches, including those noted
+explain disagreement. in this finding. DUI is taking prompt, corrective actions including
+setting up overpayments.
+Finding 2
+DUI did not have comprehensive procedures to ensure that individuals filing claims using a
+foreign Internet Protocol (IP) address were eligible to receive benefits, including 3,724
+claimants that received benefit payments totaling $3.6 million.
+We recommend that DUI
+a. continue to develop its automated controls used to block foreign IP addresses to ensure
+they are sufficiently comprehensive,
+b. retain a record of foreign IP addresses used and formally re-evaluate the decision to
+cease the use of a geo-mapping service to aid in the identification and investigation of
+foreign IP addresses that are used for both initial applications and weekly certifications,
+and
+c. investigate the foreign IP addresses identified in this finding and take corrective action
+for any ineligible claimants and benefits identified (repeat).
+Agency Response
+Analysis
+Please provide These findings were on the Legacy system MABS. Since implementing
+additional comments as the new BEACON system, the Foreign IPs are monitored and blocked.
+deemed necessary. Since the foreign IPs are blocked altogether. DUI is investigating to
+implement an alternative software product which is more powerful and
+has better Foreign IP and geolocation blocking features by the end of
+this year, 07/01/2023.
+Recommendation 2a Agree Estimated Completion Date: 09/20/2020
+Please provide details of The modernized system has checks and balances in place to prevent this
+corrective action or and the tools used in the web hosting provider including the software
+explain disagreement. products along with DUI and vendor procedures are constantly being
+assessed and updated to block foreign IPs.
+Page 2 of 12
+
+--- Page 53 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Recommendation 2b Agree Estimated Completion Date: 09/20/2020
+Please provide details of The BEACON system does not allow claims filed with foreign IP
+corrective action or addresses. However, all IP addresses are stored in an Audit log
+explain disagreement. irrespective of the IPS being foreign or domestic
+Recommendation 2c Agree Estimated Completion Date: 06/30/2023
+Please provide details of DUI will investigate the foreign IP address and claimants related to those
+corrective action or addresses. DUI will take the proper corrective action against those not
+explain disagreement. eligible for benefits.
+Finding 3
+DUI did not ensure claimants who were full-time students were eligible for benefits, and
+that all claimants were enrolled in the Maryland Workforce Exchange System, as required.
+We recommend that DUI
+a. establish procedures, such as periodic matches to State higher education institution
+enrollment records, to identify and follow up on claimants who are attending school
+full-time but fail to disclose it (repeat);
+b. follow up on all applicants who state they are attending school to determine whether it
+impacts eligibility for unemployment benefits (repeat);
+c. verify that all claimants comply with applicable enrollment requirements, including the
+Maryland Workforce Exchange system (repeat); and
+d. take timely and appropriate corrective action for any potentially ineligible claimants or
+benefits identified, including those noted in this finding (repeat).
+Agency Response
+Analysis
+Please provide DUI’s weekly claim certification asks claimants, for each week of
+additional comments as unemployment that is requested, if they are a full-time student. If the
+deemed necessary. claimant answers “yes.”, an issue is created to adjudicate. However,
+during the pandemic, Maryland was faced with an historic volume of
+claims. The Social Security Act requires States to administer the
+program in such a way that is reasonably calculated to ensure full
+payment of unemployment benefits at the earliest state of unemployment
+that is administratively feasible. States must balance the dual concerns of
+promptness and accuracy. During the pandemic, DUI prioritized
+adjudication issues based on the need to strike this balance.
+Page 3 of 12
+
+--- Page 54 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Recommendation 3a Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI understands the importance of this data match and is establishing
+corrective action or procedures to incorporate enrollment data from state universities to
+explain disagreement. identify claimants who are attending school full time but fail to disclose
+it.
+Recommendation 3b Agree Estimated Completion Date: 07/01/2023
+Please provide details of
+corrective action or DUI will follow up on all applicants who state they are attending school
+explain disagreement. to determine whether it impacts eligibility for unemployment benefits.
+Recommendation 3c Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI’s IT system automatically creates a registration for claimants in the
+corrective action or Maryland Workforce Exchange (MWE) when they file an initial claim
+explain disagreement. for unemployment insurance benefits. DUI will work with DWDAL to
+share information when claimants fail to fully complete their
+registration. DUI will investigate and, if applicable, adjudicate whether
+claimants have complied with enrollment requirements. In addition, DUI
+will add a question about MWE enrollment on the weekly certification.
+Currently, DUI relies on audits of random claims to verify whether
+claimants have complied with applicable enrollment requirements.
+Recommendation 3d Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI will investigate the findings and take the proper corrective action
+corrective action or against those claimants who are not eligible for benefits, including those
+explain disagreement. noted in the finding.
+Page 4 of 12
+
+--- Page 55 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Claims Processing
+Finding 4
+DUI did not have procedures to help prevent and detect duplicate benefit payments. Our
+analysis disclosed $43.3 million in potentially duplicate payments made to 12,500 claimants
+between April 2020 and December 2021 that were not identified or investigated by DUI.
+We recommend that DUI
+a. require the BEACON vendor to correct BEACON to prevent duplicate payments;
+b. use available BEACON records to identify duplicate payments; and
+c. take appropriate corrective action for the duplicate payments, including those noted in
+this finding.
+Agency Response
+Analysis
+Please provide
+additional comments as While DUI was unable to get the same query used by the auditors for
+deemed necessary. this finding, we concur that it is factually accurate.
+Recommendation 4a Agree Estimated Completion Date: 10/01/2022
+Please provide details of The Beacon system had some defects that were fixed as soon as they
+corrective action or were identified. The backup for the correcting PIRs has been submitted
+explain disagreement. to the auditors.
+Recommendation 4b Agree Estimated Completion Date: 10/01/2022
+Please provide details of The system had some defects that were fixed as soon as they were
+corrective action or identified. Overpayments and offsets were recorded in the system for the
+explain disagreement. population of claimants identified
+Recommendation 4c Agree Estimated Completion Date: 10/01/2022
+Please provide details of The system had some defects that were fixed as soon as they were
+corrective action or identified. Overpayments and offsets were recorded in the system for the
+explain disagreement. population of claimants identified. DUI was not able to replicate 12,500
+duplicate payments as noted in the audit.
+Page 5 of 12
+
+--- Page 56 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Finding 5
+DUI did not conduct timely verifications of income reported by applicants for PUA benefits
+and did not ensure manual adjustments processed by DUI and contract employees were
+proper.
+We recommend that DUI
+a. ensure that critical applicant data, such as income, is verified and accurately adjusted if
+necessary, in a timely manner;
+b. ensure the aforementioned system deficiency regarding BEACON’s inability to show
+the verified income amount is corrected and establish a documented process to verify
+that the recorded information was entered accurately; and
+c. investigate and resolve any differences in weekly PUA benefit amounts disclosed as a
+result of income verifications, including those noted above.
+Agency Response
+Analysis
+Please provide The verifications were not conducted in a timely manner due to the
+additional comments as backlog of claims and claims-related work due to the pandemic. We are
+deemed necessary. actively working to correct any weekly benefit amount (WBA)
+miscalculations.
+Recommendation 5a Agree Estimated Completion Date: 07/01/2023
+Please provide details of This was an issue due to the pandemic. To receive PUA benefits of
+corrective action or greater than the minimum WBA, a claimant had to provide proof of
+explain disagreement. income if they were self-employed or an independent contractor.
+Traditionally, self-employed or independent contractors do not qualify
+for Unemployment Insurance. Due to the number of PUA claims filed in
+2020 and 2021, there was a tremendous backlog of PUA Proof of
+Income work items. Under normal circumstances this is not an issue as
+the weekly benefit amount is based on employer reported wages, not in
+the manner that was used to calculate PUA weekly benefit amount.
+Recommendation 5b Agree Estimated Completion Date: 07/01/2023
+Please provide details of This defect is specific to the PUA Proof of Income work item. Any
+corrective action or change to wages regarding a UI claim is documented in notes and/or
+explain disagreement. account activity in Beacon, allowing for review. DUI implemented a
+manual solution to document the wages in the claimant’s portal and
+verify that the weekly benefit amount is calculated accurately. If
+Page 6 of 12
+
+--- Page 57 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+USDOL implements a program that is similar to PUA, DUI will
+reprogram its IT system to correct this defect.
+Recommendation 5c Agree Estimated Completion Date: 07/01/2023
+Please provide details of This effort is ongoing. There was a short time that USDOL allowed the
+corrective action or WBA to be based on the claimant's estimated earnings during the base
+explain disagreement. period, not on any actual proof. This caused many overpayments as,
+once we were able to verify their earnings, we found that claimants had
+overestimated their earnings for the PUA base period. DUI will continue
+to review PUA Proof of Income work items for accuracy and will correct
+any errors that are discovered.
+Finding 6
+DUI did not adequately review regular claims and adjudications processed by claims center
+DUI employees and temporary staff, and output reports of manual wage entries could not
+be generated from BEACON for verification purposes.
+We recommend that DUI
+a. ensure that supervisors at claim centers perform the required reviews of claims
+processed (repeat) and adjudications completed;
+b. establish a formal process to provide for supervisory review of claims processed by
+temporary staff used to assist DUI’s claim center employees; and
+c. require the BEACON vendor to address the aforementioned system deficiencies
+preventing the generation of system output reports of manual claims and adjustments
+(including those performed by the staffing vendor), and use those reports to verify the
+propriety of those entries.
+Agency Response
+Analysis
+Please provide
+additional comments as While factually accurate, regular review of claims and adjudication was
+deemed necessary. placed on hold due to the historic workload brought on by the pandemic
+Page 7 of 12
+
+--- Page 58 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Recommendation 6a Agree Estimated Completion Date: 12/31/2022
+Please provide details of DUI is reinstating the regular Supervisory review of UI claims and
+corrective action or adjudication. Supervisors have begun reviewing work to ensure quality
+explain disagreement. and consistency.
+Recommendation 6b Agree Estimated Completion Date: 12/31/2022
+Please provide details of In addition to reinstating Supervisory review for claim center staff, DUI
+corrective action or is working to establish a Quality Assurance (QA) Manager position. This
+explain disagreement. position will review the entirety of a claim from the initial claims
+application to completion of work items and adjudication issues, and the
+timely and accurate payment of benefits. The QA Manager and their
+team will also listen to calls to ensure excellent customer service. This
+team will review not only Maryland staff, but also relevant vendor staff.
+Recommendation 6c Agree Estimated Completion Date: 07/01/2022
+Please provide details of DUI will work with the vendor to ensure there is a report of manual
+corrective action or wage entries. DUI will then verify the validity of those entries with a
+explain disagreement. formalized review process.
+Finding 7
+DUI did not establish sufficient controls over reissued debit cards, and did not ensure the
+proper disposition of funds remaining on expired debit cards.
+We recommend that DUI establish procedures to ensure
+a. all reissued debit cards are subject to an independent review and approval (repeat);
+b. cards reissued to a questionable address are adequately investigated and resolved,
+including the 1,970 noted above; and
+c. unspent funds remaining on debit cards are returned to DUI or reported to the State
+Comptroller as unclaimed property in accordance with the aforementioned Agreement
+(repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Page 8 of 12
+
+--- Page 59 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Recommendation 7a Agree Estimated Completion Date: 01/05/2022
+Please provide details of On Friday, May 21, 2021, DUI stopped issuing new debit cards and
+corrective action or loading benefit payments onto debit cards. If claimants have a balance
+explain disagreement. on their debit card, they must work directly with the debit card vendor to
+access those funds in a different way. Also, the deadline to order a
+replacement debit card from the debit card vendor was January 5, 2022.
+Going forward, if a claimant changes their address in DUI’s IT system,
+they must complete an automated identity verification process.
+Recommendation 7b Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI continues to investigate all cases of potential fraud. DUI will
+corrective action or review the 1,970 claims noted in the finding and resolve any issues. In
+explain disagreement. many instances, our debit card vendor changed the addresses to which
+debit cards were sent without informing DUI. Going forward, if a
+claimant changes their address in DUI’s IT system, they must complete
+an automated identity verification process.
+Recommendation 7c Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI is working with legal counsel to make sure that the Maryland
+corrective action or Unemployment Benefits Debit Card Deposit Agreement is enforced with
+explain disagreement. appropriate funds returned to DUI or sent to the State Comptroller as
+unclaimed property.
+Page 9 of 12
+
+--- Page 60 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Finding 8
+DUI did not properly account for potentially fraudulent benefits totaling $493.9 million
+that were removed from claimants’ debit cards.
+We recommend that DUI ensure that all transactions impacting claimant accounts are
+properly recorded in BEACON, including those noted in this finding.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 8 Agree Estimated Completion Date: 07/01/2023
+Please provide details of The agency is in negotiations with the debit card vendor to finalize the
+corrective action or contract exit agreement. Once the issue is settled legally and our debit
+explain disagreement. card vendor provides the relevant data, DUI will update the status in
+BEACON.
+Page 10 of 12
+
+--- Page 61 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Unemployment Insurance Trust Fund
+Finding 9
+DUI did not ensure amounts disbursed from the Unemployment Insurance Trust Fund
+were properly transferred to the bank account used to make benefit payments.
+We recommend that DUI prepare periodic reconciliations of its record of Trust Fund
+activity to the corresponding bank records, and resolve differences timely, including those
+noted in this finding.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 9 Agree Estimated Completion Date: 07/01/2023
+Please provide details of DUI acknowledges that a backlog does exist and that a full reconciliation
+corrective action or will be completed. DUI expects to address the backlog and bring
+explain disagreement. reconciliation up to date by October 1, 2023, or earlier. Once the backlog
+is resolved, DUI will continue to conduct reconciliations monthly and
+resolve differences in a timely fashion.
+Page 11 of 12
+
+--- Page 62 ---
+Maryland Department of Labor
+Division of Unemployment Insurance
+Part 2
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that findings 10 through 13 related to
+“cybersecurity”, as defined by the State Finance and Procurements Article, Section 3A-301(b) of
+the Annotated Code of Maryland, and therefore are subject to redaction from the publicly
+available audit report in accordance with State Government Article 2-1224(i). Although the
+specifics of these findings including the analysis, related recommendations, along with MDL’s
+responses, have been redacted from this report copy, MDL’s response indicated agreement with
+these findings and related recommendations.
+Finding 10
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 11
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 12
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 13
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 12 of 12
+
+--- Page 63 ---
+AUDIT TEAM
+Michael J. Murdzak, CPA
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+Lauren E. Franchak, CPA
+Senior Auditor
+Michael K. Bliss
+Matthew D. Walbert, CISA
+Information Systems Senior Auditors
+Monisha A. Barnes
+Thea A. Chimento, CFE
+Mariyum Gill
+Owen M. Long-Grant
+Staff Auditors
+Dominick R. Abril
+Charles O. Price
+Information Systems Staff Auditors
+David R. Fahnestock, CPA
+Data Analytics Manager
+Charles H. Hinds IV, CPA
+Data Analytics Senior Auditor

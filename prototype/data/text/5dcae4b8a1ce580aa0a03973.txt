@@ -1,0 +1,1680 @@
+Title: Maryland Department of Health - Medical Care Programs Administration
+Date: 11/07/2019
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5dcae4b8a1ce580aa0a03973
+Extracted: 2025-06-19T06:21:34.627691
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Health
+Medical Care Programs Administration
+November 2023
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Nicholas P. Charles II
+Senator Katie Fry Hester Delegate Andrea Fletcher Harrison
+Senator Shelly L. Hettleman Delegate Steven C. Johnson
+Senator Cheryl C. Kagan Delegate Mary A. Lehman
+Senator Cory V. McCray Delegate David Moon
+Senator Justin D. Ready Delegate Julie Palakovich Carr
+Senator Bryan W. Simonaire Delegate Stephanie M. Smith
+Senator Craig J. Zucker Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+November 2, 2023
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Department of
+Health (MDH) – Medical Care Programs Administration (MCPA) for the period
+beginning August 1, 2018 and ending March 31, 2022. MCPA administers the
+Medical Assistance Program (Medicaid), which provides low-income Maryland
+residents with access to a broad range of health care benefits that are financed by
+State and federal funds. During fiscal year 2022, MCPA expenditures totaled
+approximately $14.1 billion, of which the majority related to Medicaid.
+This audit includes MCPA’s primary functions such as monitoring of recipient
+and provider eligibility, the Medicaid Management Information System (MMIS
+II) security and controls, third party insurance recoveries, and payments for
+Medicaid recipients in hospitals, nursing facilities, in-home and community-based
+settings. This activity accounted for approximately $4.3 billion in expenditures
+for fiscal year 2022. Our Office conducts separate audits of MCPA’s Managed
+Care Program, the Behavioral Health Administration’s Administrative Service
+Organization, and the Maryland Pharmacy Program, which collectively account
+for the majority of the State’s $14.1 billion in Medicaid expenditures.
+Our audit disclosed that referrals of potential third-party health insurance
+information were not investigated and recorded in MMIS II, which could result in
+MCPA improperly paying claims that should have been paid by a third party. For
+example, we found that only 180,000 (12 percent) of the 1.5 million referrals
+received from MCPA’s third-party liability vendor during the period from January
+2021 through June 2022 were recorded in MMIS II. As a result, claims paid for
+the recipients represented by the remaining 1.32 million referrals were not subject
+
+--- Page 4 ---
+to MCPA review to determine whether any portion of the claim should have been
+paid by another entity.
+MCPA did not have effective processes to identify, prevent, and recover
+questionable Medicaid payments. Specifically, MCPA did not refer instances of
+questionable Medicaid recipient eligibility to the Department of Human Services
+and Local Health Departments (LHDs) for investigation and did not have
+effective processes to identify and investigate payments made on behalf of
+incarcerated and deceased recipients. For example, we identified approximately
+18,000 claims totaling $3.6 million paid on behalf of 5,615 recipients for which
+the date of service occurred after the recipient’s date of death. MCPA also did not
+ensure that changes to recipient eligibility information were processed timely and
+accurately.
+Our audit disclosed that MCPA did not perform adequate oversight of hospital
+claims, nursing facilities, the in-home Community First Choice (CFC) program,
+and the community-based Medical Day Care program. For example, MCPA did
+not ensure that recipients in the CFC program received personal assistance
+services in accordance with their plans of service. LHDs are responsible for
+performing nurse monitoring visits to evaluate the quality of personal assistance
+services provided. However, as of November 2022, 19 percent of CFC recipients
+were more than 60 days overdue for a nurse monitoring visit, including 901
+recipients who were more than one year overdue.
+MCPA also did not monitor the contractor responsible for ensuring that Medicaid
+recipients receiving services from nursing facilities required the level of care
+rendered and did not have a process to ensure that patient-related ventilator claims
+submitted by nursing facilities were valid. In addition, MCPA did not adequately
+monitor its hospital claims audit contractor and had not pursued recovery of
+improper claims identified by the vendor totaling $6.9 million. MCPA also did
+not conduct required audits of Medical Day Care and Supports Planning
+providers.
+Our audit also disclosed certain deficiencies relating to information systems
+security and control. However, in accordance with the State Government Article,
+Section 2-1224(i) of the Annotated Code of Maryland, we have redacted the
+findings from this audit report. Specifically, State law requires the Office of
+Legislative Audits to redact cybersecurity findings in a manner consistent with
+auditing best practices before the report is made available to the public. The term
+“cybersecurity” is defined in the State Finance and Procurement Article, Section
+3.5-301(b), and using our professional judgment we have determined that the
+redacted findings fall under the referenced definition. The specifics of the
+2
+
+--- Page 5 ---
+cybersecurity findings were previously communicated to those parties responsible
+for acting on our recommendations.
+As further explained on page 11, MDH experienced a broad security incident
+resulting from a ransomware attack. Although we were generally able to obtain
+information needed to satisfy our audit objectives and related conclusions, certain
+records related to 4 of the 10 findings in this audit report were not available at the
+time of our review due to this incident. Additional comments can be found in the
+respective findings, which include recipient eligibility and program oversight
+functions.
+Finally, our audit also included a review to determine the status of the 11 findings
+contained in our preceding audit report. For the non-cybersecurity-related
+findings we determined that MCPA satisfactorily addressed 3 of those 9 findings.
+The remaining 6 findings are repeated in this report.
+We determined that MCPA’s accountability and compliance level was
+unsatisfactory, in accordance with the rating system we established in conformity
+with State law. The primary factors contributing to the unsatisfactory rating were
+the significance of our audit findings and the number of repeat findings. As noted
+in Figure 2, MCPA had a 14.1 percent vacancy rate. Although our audit did not
+attempt to identify the specific impact of this vacancy rate on MCPA operations,
+we believe that it may have contributed, at least in part, to the findings in this
+report (including one finding where MCPA specifically cited limited staff
+resources as a contributing cause) and the resulting rating.
+MDH’s response to this audit, on behalf of MCPA, is included as an appendix to
+this report. We reviewed the response and noted agreement to our findings and
+related recommendations and while there are other aspects of the response which
+will require further clarification, we do not anticipate that these will require the
+Joint Audit and Evaluation Committee’s attention to resolve. In addition,
+consistent with State law, we have redacted the elements of MDH’s response
+related to the cybersecurity audit findings.
+3
+
+--- Page 6 ---
+We wish to acknowledge the cooperation extended to us during the audit by MDH
+and MCPA. We also wish to acknowledge MDH’s and MCPA’s willingness to
+address the current audit issues and implement appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 7
+Agency Responsibilities and Audit Scope 7
+Ransomware Security Incident 11
+Potential Liability to the Federal Government 11
+Status of Findings From Preceding Audit Report 12
+Findings and Recommendations 14
+Third Party Liability
+* Finding 1 – The Medical Care Programs Administration (MCPA) 14
+did not ensure that all referrals of potential third-party health
+insurance information were investigated and recorded in the
+Medicaid Management Information System (MMIS II), which
+could result in MCPA improperly paying claims that should have
+been paid by a third party.
+Review of Questionable Activity
+* Finding 2 – MCPA did not have effective processes to identify, prevent, 16
+and recover questionable Medicaid payments, including $7.1
+million in payments on behalf of incarcerated and deceased
+recipients.
+Recipient Eligibility
+Finding 3 – MCPA did not ensure that changes to recipient Medicaid 19
+eligibility information were processed timely and accurately.
+Program Oversight
+* Finding 4 – MCPA had not established adequate oversight to ensure that 20
+all Community First Choice program recipients received personal
+assistance services in accordance with their plans of service.
+* Finding 5 – MCPA did not monitor the utilization control agent 22
+contractor to ensure continued stay reviews of Medicaid recipients
+receiving services from nursing facilities were performed timely.
+ Denotes item repeated in full or part from preceding audit report
+5
+
+--- Page 8 ---
+* Finding 6 – MCPA did not have an established process to ensure 23
+costly recipient ventilator care claims submitted by nursing
+facilities were valid, as required by State regulations.
+* Finding 7 – MCPA did not conduct the required audits of Medical Day 24
+Care and Supports Planning providers, and the related audit policy
+and procedures were not sufficiently comprehensive.
+Finding 8 – MCPA did not adequately monitor the hospital claims audit 25
+contractor and had not collected or recovered improper claims
+identified by the contractor totaling $6.9 million.
+Information Systems Security and Control
+Finding 9 – Redacted cybersecurity-related finding 27
+Finding 10 – Redacted cybersecurity-related finding 27
+Audit Scope, Objectives, and Methodology 28
+Exhibit 1 – Listing of Most Recent Office of Legislative Audits Fiscal 32
+Compliance Audits of Maryland Department of Health Units as of
+September 2023
+Agency Response Appendix
+ Denotes item repeated in full or part from preceding audit report
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities and Audit Scope
+The Medical Care Programs Administration (MCPA) of the Maryland
+Department of Health (MDH) operates under both Title XIX of the federal Social
+Security Act (Medicaid) and State law. Medicaid is a joint federal and state
+entitlement program for low-income individuals (recipients). The program is
+administered by the states, which are required to provide healthcare coverage to
+all applicants who meet the program’s eligibility criteria.
+In its capacity as Maryland’s administering agency, MCPA is responsible for
+enrolling the healthcare providers (such as physicians), establishing program
+regulations, setting provider payment rates, reviewing and paying provider claims,
+and obtaining federal reimbursement for eligible costs. MDH has agreements
+with the Department of Human Services (DHS) and the Maryland Health Benefit
+Exchange (MHBE) delegating its responsibility to them for Medicaid recipient
+eligibility determinations.
+According to State records, as of June 30, 2022, Medicaid enrollment totaled 1.7
+million recipients and MCPA’s expenditures during fiscal year 2022 totaled
+approximately $14.1 billion (see Figures 1 and 2), of which the majority related to
+Medicaid services (see Figure 3).
+Figure 1
+MCPA Expenditures and Medicaid Recipient Count
+(Fiscal Years 2015 to 2022)
+Source: State accounting records, MCPA records
+7
+
+--- Page 10 ---
+However, as explained in Figure 3, the majority of these expenditures are subject
+to review and testing in three other OLA audits.1 As noted in Figure 2, $9.3
+billion (66 percent) of these expenditures were federally funded.
+Figure 2
+MCPA Positions, Expenditures, and Funding Sources
+Full-Time Equivalent Positions as of June 30, 2022
+Positions Percent
+Filled 531 85.9%
+Vacant 87 14.1%
+Total 618
+Fiscal Year 2022 Expenditures
+Expenditures Percent
+Salaries, Wages, and Fringe Benefits $ 55,824,164 0.4%
+Technical and Special Fees 5,339,864 0.0%
+Operating Expenses 14,086,320,037 99.6%
+Total $14,147,484,065
+Fiscal Year 2022 Funding Sources
+Funding Percent
+General Fund $ 4,003,763,613 28.3%
+Special Fund 718,980,211 5.1%
+Federal Fund 9,337,698,527 66.0%
+Reimbursable Fund 87,041,714 0.6%
+Total $14,147,484,065
+Source: State financial and personnel records
+Individuals qualifying for cash assistance through either the Temporary Cash
+Assistance program or the federal Supplemental Security Income program
+automatically qualify for Medicaid benefits. Those eligible for Medicaid through
+these programs make up most of the Medicaid population and are referred to as
+“categorically needy” although there are other individuals that are considered
+categorically needy due to other circumstances (such as children residing in foster
+care). The remaining individuals are referred to as “medically needy,” meaning
+they cannot meet the cost of needed medical care but are generally self-supporting
+1 The increase in the number of Medicaid recipients and the related expenditures is primarily due
+to Medicaid eligibility determinations being suspended during the COVID-19 public health
+emergency.
+8
+
+--- Page 11 ---
+in other respects. Individuals may apply for Medicaid in person, through the mail,
+or online.
+MCPA uses a federally certified computerized system, the Medicaid Management
+Information System (MMIS II), implemented in 1995, to pay provider claims and
+to process paid claims for federal reimbursement. According to MCPA records,
+during fiscal year 2022, MMIS II was used to process transactions totaling
+approximately $13.4 billion. This Medicaid activity is currently covered under
+four separate audits2 as depicted in Figure 3.
+Figure 3
+MCPA’s Fiscal Year 2022 Medicaid Expenditures
+Processed via MMIS II, by OLA Audit
+($ in billions)
+PS
+$0.6
+4%
+MCP
+$7.3 MCPA
+55% $3.6
+27%
+ASO-BHA
+$1.9
+14%
+Source: MMIS II records
+The audit scope for this audit included MCPA’s primary administrative functions,
+including expenditures for $4.3 billion of MCPA’s activity during fiscal year
+2022 (approximately $3.6 billion processed through MMIS II, as noted in Figure
+3, and $699 million in expenditures processed outside of MMIS II). In this
+regard, this audit of MCPA excluded the following Medicaid services that are
+reviewed under three separate OLA audits (See Exhibit 1 on page 32):
+2 In addition to the other three audits, the recovery of the federal share of program costs is
+reviewed during our audit of the MDH Office of the Secretary and Other Units.
+9
+
+--- Page 12 ---
+ Managed Care Program (MCP) – MCPA contracts with Managed Care
+Organizations to provide a wide variety of services to enrolled Medicaid
+recipients in exchange for specified capitation payments.
+ Administrative Service Organization for Behavioral Health Services
+(ASO-BHA) – MCPA contracts with an ASO that is responsible for providing
+benefit management services to Medicaid recipients enrolled in the Behavioral
+Health System.
+ Pharmacy Services (PS) – MCPA provides pharmaceutical benefits to
+Medicaid recipients.
+Specifically, we reviewed procedures and controls over activities that would
+impact all MCPA expenditures including MCPA’s monitoring of MMIS II
+security and controls, recipient and provider eligibility, and third-party insurance
+recoveries. In addition, based on our assessments of significance and risk, we
+reviewed procedures and conducted testing unique to nursing facilities, hospital
+services, and the in-home Community First Choice and community-based
+Medical Day Care programs, which collectively accounted for $2.5 billion of the
+fiscal year 2022 expenditures processed in MMIS II for the scope of this audit
+(see Figure 4).
+Figure 4
+Fiscal Year 2022 Medicaid Expenditures
+Processed via MMIS II
+by Service Type
+($ in millions)
+Hospital
+Services
+$750
+Nursing
+21%
+Facilities
+$1,213
+Community
+34%
+First Choice
+$438
+12%
+Other Service
+Types
+Medical Day
+$1,046
+Care
+29%
+$122
+4%
+Source: MMIS II records
+10
+
+--- Page 13 ---
+Ransomware Security Incident
+In December 2021, MDH experienced a broad security incident resulting from a
+ransomware attack3. This incident affected the entire MDH computer network and
+disrupted information technology operations for all MDH servers and end user
+computers, resulting in substantial impact on all MDH business operations
+including MCPA. MDH notified the Department of Information Technology’s
+(DoIT) Office of Security Management, which initiated incident response
+measures. Various other parties were informed of this incident or engaged for
+recovery efforts. DoIT concluded that no evidence existed indicating that
+sensitive or regulated information had been improperly acquired. In June 2022,
+MDH received $40.4 million from the State Reserve Fund to cover the costs of its
+remediation, recovery, and security modernization efforts related to the incident.
+The incident, response measures, and related controls were subject to review as
+part of our recent audit of the MDH Office of the Secretary and Other Units.
+Although we were generally able to obtain information needed to satisfy our audit
+objectives and related conclusions, certain records related to Findings 2, 3, 7, and
+8 in this report were not available at the time of our review due to the incident
+(see additional comments in the respective findings).
+Potential Liability to the Federal Government
+In our January 26, 2023 special report on Statewide Review of Budget Closeout
+Transactions for Fiscal Year 2022, we noted that MDH had a potential federal
+liability of approximately $52 million4 for which State general funds may be
+needed. MDH reported the potential federal liability to the Comptroller of
+Maryland – General Accounting Division during the fiscal year 2022 closeout
+process.
+The obligation relates to unspent funds for the Rebalancing Fund Demonstration
+which is associated with the MCPA Money Follows the Person (MFP) program.
+By participating in the Rebalancing Demonstration, the State agreed to accept
+federal funds covering 75 percent of its MFP program expenditures, with the
+3 As defined by the federal Department of Homeland Security’s Cybersecurity and Infrastructure
+Security Agency, ransomware is an ever-evolving form of malware designed to encrypt files on a
+device, rendering any files and the systems that rely on them unusable. Malicious actors then
+demand ransom in exchange for decryption.
+4 The closeout report identified total potential liabilities to the federal government of
+approximately $86.2 million as of June 30, 2022, which also included $34.2 million in
+unresolved longstanding disallowed federal fund claims related to the MDH Developmental
+Disabilities Administration.
+11
+
+--- Page 14 ---
+remaining 25 percent supported by State funds, instead of the more traditional 50
+percent federal and 50 percent State funding arrangement used in many other
+federal assistance programs. However, the 25 percent savings that the State
+realized from the enhanced federal reimbursement rate is required to be spent on
+additional MFP program expenditures.
+The aforementioned $52 million potential liability represents this enhanced
+funding received for which the required additional MFP expenditures had not
+been made as of June 30, 2022. The Rebalancing Fund Demonstration was to end
+September 30, 2020; however, the federal Centers for Medicare and Medicaid
+Services extended the program until September 30, 2025.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the 11 findings contained in
+our preceding audit report on MCPA dated November 7, 2019. As disclosed in
+Figure 5 on the following page, for the non-cybersecurity-related findings, we
+determined that MCPA satisfactorily addressed 3 of those 9 findings. The
+remaining 6 findings are repeated in this report.
+12
+
+--- Page 15 ---
+Figure 5
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+MCPA did not sufficiently address errors noted in medical
+necessity determinations made by its utilization control agent Repeated
+Finding 1
+vendor and did not ensure the vendor conducted timely (Current Finding 5)
+continued stay reviews of nursing facilities.
+MCPA did not monitor the vendor responsible for conducting
+credit balance audits of hospitals and nursing facilities to
+Finding 2 ensure the audits were conducted timely and properly, and the Not Repeated
+contract did not include provisions to assess liquidated
+damages for noncompliance with contract requirements.
+MCPA did not require nor obtain comprehensive, independent
+reviews of the automated systems used by two vendors to
+Finding 3 ensure sensitive data, including personally identifiable Status Redacted5
+information and protected health information, were properly
+safeguarded.
+MCPA did not sufficiently document its review of
+investigations of questionable recipient eligibility and did not Repeated
+Finding 4
+take adequate follow-up action when errors were identified in (Current Finding 2)
+changes to critical eligibility information.
+MCPA did not ensure that all referrals of potential third-party
+Repeated
+Finding 5 health insurance information were timely and properly
+(Current Finding 1)
+investigated.
+MCPA had conducted virtually no audits of hospital claim
+Finding 6 Not Repeated
+payments since calendar year 2007.
+MCPA had not established appropriate oversight to ensure that
+Repeated
+Finding 7 all Community First Choice program recipients received
+(Current Finding 4)
+required daily living assistance services.
+MCPA did not audit all Medical Day Care program providers
+Repeated
+Finding 8 as required by its policy, and the related audit policy and
+(Current Finding 7)
+procedures were not sufficiently comprehensive.
+MCPA did not have an established process to ensure ventilator
+Repeated
+Finding 9 care claims submitted by nursing facilities were valid, as
+(Current Finding 6)
+required by State regulations.
+Claims that were suspended by automated edits within the
+Medicaid Management Information System (MMIS II) and
+Finding 10 Not Repeated
+subsequently reviewed and paid were not subject to sufficient
+supervisory review and approval.
+MCPA did not have sufficient procedures and controls to
+restrict access to MMIS II. For example, 727 MMIS II active
+Finding 11 Status Redacted5
+users could view the names and social security numbers of 3.5
+million active and inactive Medicaid recipients.
+5 Specific information on the current status of this cybersecurity–related finding has been redacted
+from the publicly available report in accordance with State Government Article, Section 2-
+1224(i) of the Annotated Code of Maryland.
+13
+
+--- Page 16 ---
+Findings and Recommendations
+Third-Party Liability
+Finding 1
+The Medical Care Programs Administration (MCPA) did not ensure that all
+referrals of potential third-party health insurance information were
+investigated and recorded in the Medicaid Management Information System
+(MMIS II), which could result in MCPA improperly paying claims that
+should have been paid by a third party.
+Analysis
+MCPA did not ensure that referrals of third-party health insurance information
+were investigated and recorded into MMIS II, which could result in MCPA
+improperly paying claims that should have been paid by a third party. Federal
+and State regulations provide that Medicaid shall be the payer of last resort and
+that it shall only be used to pay costs not covered by others, such as third-party
+insurers.
+MCPA receives referrals of other potentially liable parties from several sources
+including its third-party liability vendor, Managed Care Organizations (MCOs),
+the Department of Human Services (DHS), and the Maryland Health Benefit
+Exchange (MHBE). Referrals from the third-party liability vendor are to be
+recorded directly in MMIS II so that claims submitted for these individuals will
+be suspended for manual review and approval. Federal regulations require MCPA
+to follow up on the potential third-party insurance information obtained within 60
+days. Our review of MCPA’s procedures for processing referrals received from
+the third-party liability vendor and the MCOs disclosed the following:
+ MCPA did not verify that all referrals received from the third-party liability
+vendor were recorded in MMIS II. Third-party insurance coverage identified
+by the vendor was automatically interfaced into MMIS II monthly. Although
+MCPA advised that it verified that all of the referrals were interfaced, it could
+not document these efforts, and our review disclosed that only 180,000 (12
+percent) of the 1.5 million referrals the vendor submitted between January
+2021 and June 2022 were actually recorded in MMIS II. For example, the
+insurance information for 84,672 recipients provided by the vendor in January
+2022 was not interfaced into MMIS II as of November 2022.
+14
+
+--- Page 17 ---
+Our analysis6 of fee-for-service claims for these recipients with dates of
+service between February and December 2022 identified 431,443 claims
+totaling $103.1 million that were paid entirely by MCPA. Since the
+recipients’ insurance information was not properly recorded in MMIS II, these
+claims were not subject to review by MCPA to determine whether any portion
+of the claim should have been paid by another entity. We judgmentally
+selected 5 claims from this period totaling $78,000 and requested MCPA to
+determine whether the claim should have been paid by the recipient’s third-
+party insurance. MCPA had not yet investigated these claims as of September
+11, 2023.
+ MCPA could not document that it investigated all MCO referrals of possible
+third-party insurance, including 64,700 referrals noted in our prior report.
+Specifically, MCPA did not track the referrals and could not readily determine
+the number of referrals received from the MCOs or whether they had been
+investigated and recorded in MMIS II. Based on records submitted by the
+MCOs, we identified approximately 176,000 referrals from the MCOs during
+fiscal year 2022. Our judgmental test of 135 referrals received during two
+months (September 2021 and February 2022) disclosed that 86 referrals were
+not investigated and recorded in MMIS II as of November 2022.
+In addition, MCPA could not document that it had investigated and resolved
+the backlog of 64,700 referrals from the MCOs older than 60 days noted in
+our preceding audit report. MDH’s response, on behalf of MCPA, to that
+report indicated that it planned to eliminate the backlog by December 31,
+2020. During our current audit, MCPA advised that, as of October 2022, the
+backlog had decreased to 5,700 referrals. However, we could not verify the
+accuracy of this assertion due to MCPA’s inability to determine the number of
+MCO referrals recorded in MMIS II and the failure to track the resolution of
+the noted referrals. Compounding the issue are the aforementioned results of
+our current testing that again demonstrated that all recently reported referrals
+had not been recorded in MMIS II.
+Recommendation 1
+We recommend that MCPA ensure that
+a. all third-party health insurance information provided by its third-party
+liability vendor are interfaced with MMIS II, and
+b. all MCO insurance referrals are recorded into MMIS II timely (repeat).
+6 Our analysis was based on recipients with open insurance spans and excluded recipients who
+only had vision and/or dental insurance coverage.
+15
+
+--- Page 18 ---
+Review of Questionable Activity
+Finding 2
+MCPA did not have effective processes to identify, prevent, and recover
+questionable Medicaid payments, including $7.1 million in payments on
+behalf of incarcerated and deceased recipients.
+Analysis
+MCPA did not have effective processes to identify, prevent, and recover
+questionable Medicaid payments, including $7.1 million in payments on behalf of
+incarcerated and deceased recipients between July 2018 and April 2022. MCPA
+has several automated and manual processes to identify questionable Medicaid
+activity such as benefit recipients who are deceased, are missing social security
+numbers, or are receiving benefits in another state. Instances of questionable
+recipient eligibility information or activity are to be investigated and resolved by
+DHS or the Local Health Departments (LHDs) upon referral from MCPA, or in-
+house by MCPA employees. MCPA is responsible for overseeing the resultant
+investigative efforts to ensure the proper corrective actions were taken, such as
+removing eligibility for continued participation in Maryland’s Medicaid program
+or recovering erroneously paid benefits.
+Missing Social Security Numbers
+As of July 2022, MCPA had not referred instances of recipients with missing
+social security numbers (SSNs) to DHS and the LHDs for investigation since
+November 2021 and could not document the results of those entities’
+investigations, including the specific supporting documentation that had been
+reviewed, for pre-November 2021 referrals. A similar condition regarding the
+lack of supporting documentation was commented upon in our preceding audit
+report.
+MDH’s response to that preceding audit report indicated that, effective May 2019,
+it had implemented an automated system to track and document investigations.
+However, during our current audit MCPA management advised that the
+ransomware security incident previously mentioned in this report disrupted its
+access to the above referenced automated system. Accordingly, MCPA was
+unable to generate reports of recipients with missing SSNs for DHS and LHD
+review and could not support the results of the investigations that may have been
+performed prior to November 2021. As of July 2022, MCPA could not
+reasonably estimate when it would resume these reviews.
+16
+
+--- Page 19 ---
+Recipients Receiving Benefits in Other States
+MCPA did not review DHS and LHD investigations of recipients who were also
+receiving Medicaid benefits in other states to ensure the proper corrective action
+was taken (such as recovery of improper payments). A similar condition was
+commented upon in our preceding audit report. MDH’s response to that
+preceding audit report indicated that, effective May 2019, it implemented an
+automated system to track and document investigations. However, as previously
+noted, the ransomware security incident disrupted access to the automated system.
+While MCPA advised us that DHS and the LHDs continued to investigate these
+recipients, MCPA was unable to access the aforementioned automated system to
+obtain support for the results of the investigations.
+MCPA did not pursue an alternative method to pursue the results of these reviews
+and could not readily provide us with the number of recipients identified by this
+process. However, based on a report we obtained from MCPA, there were 11,376
+instances requiring investigation during April 2022 alone. The need for MCPA to
+monitor these reviews is evidenced by our October 2022 audit report of DHS’
+Family Investment Administration (FIA) which noted that FIA did not take timely
+or appropriate corrective action for 43 of the 46 questionable Medicaid-eligible
+recipients we tested, including recipients receiving Medicaid benefits in another
+state.
+Fee-for-Service Payments for Incarcerated Recipients
+MCPA did not have a process to identify, prevent, and recover fee-for-service
+payments related to incarcerated recipients, resulting in approximately $3.5
+million in such payments during fiscal years 2019 to 2022. Under federal and
+State regulations, Medicaid only covers certain fee-for-service claims (primarily
+inpatient hospital care) while a recipient is incarcerated7.
+Our Data Analytics Unit independently obtained incarceration records8 (including
+the periods of incarceration based on dates of inmate intake, transfer, and release)
+from the Maryland Department of Public Safety and Correctional Services
+(DPSCS) for the 4-year period of fiscal year 2019 to 2022. We then matched this
+data to MMIS II claims with service dates between July 2018 and April 2022 and
+identified fee-for-service payments (excluding inpatient hospital claims which are
+7 These individuals’ healthcare costs are generally paid by the Maryland Department of Public
+Safety and Correctional Services (DPSCS). In addition, incarcerated individuals are allowed to
+maintain Medicaid eligibility during periods of incarceration; however, these recipients are
+required to be disenrolled from Managed Care Organizations (MCO) and payments for ineligible
+services should be prevented. Capitation payments to MCOs are included within the scope of
+our audit of MCPA’s Managed Care Program.
+8 We determined that the incarceration records we received from DPSCS were sufficiently reliable
+for the purposes of our OLA match.
+17
+
+--- Page 20 ---
+eligible to be covered by Medicaid) totaling $3.5 million for 1,954 recipients who
+were incarcerated at the time of service. MCPA had not previously identified or
+investigated these payments and as of November 2022 had taken no action to
+recover these funds.
+Payments on Behalf of Deceased Recipients
+MCPA could not document its efforts to identify and remove deceased individuals
+from Medicaid. MCPA advised that it performed a monthly match of Medicaid
+recipient records to the federal Social Security Administration (SSA) and MDH
+Vital Statistics Administration (VSA) death records. MCPA forwards these
+results to DHS and LHDs to verify the recipients are deceased and disenroll the
+recipient from Medicaid to prevent future payments on behalf of these
+individuals. Our review disclosed that as of July 1, 2022 MCPA could not
+document that this match was performed from August 1, 2018 through March 31,
+2022, and that it monitored the related DHS and the LHD investigations. MCPA
+attributed the lack of documentation to the aforementioned ransomware security
+incident.
+Furthermore, MCPA did not investigate payments where a date of service was
+after the recipient’s date of death
+Figure 6
+according to SSA or VSA
+Medicaid Payments with a Date of
+records. We performed a match
+Service after Date of Death
+between MMIS II claims with
+Number Number
+service dates between July 2018 Claim Payment
+of of
+and April 2022 and the VSA Type Amount
+Recipients Payments
+death records as of May 2022.
+Capitation 1,270 2,505 $2,343,523
+Our match identified
+Fee-for-
+approximately 18,000 claims 4,345 15,205 1,219,509
+Service
+totaling $3.6 million associated
+Total 5,615 17,710 $3,563,032
+with 5,615 recipients which we
+Source: OLA match using MMIS II and VSA records.
+believe warrant further
+investigation to determine if the payments should be recovered (see Figure 6).
+At our request, MCPA investigated 20 of these recipients with potentially
+improper claims totaling $317,000 and determined that 15 recipients were
+deceased prior to the medical service represented by the claims, but were still
+actively enrolled in Medicaid as of January 2023. MCPA had not yet investigated
+potentially improper payments totaling $245,000 associated with these 15
+individuals as of January 2023.
+18
+
+--- Page 21 ---
+Recommendation 2
+We recommend that MCPA establish effective processes over questionable
+Medicaid payments. Specifically, MCPA should
+a. ensure that instances of recipients with missing SSNs are referred to DHS
+and the LHDs for investigation;
+b. sufficiently document its reviews of investigations of questionable
+recipient eligibility (including instances of recipients missing SSNs or
+receiving Medicaid benefits in other states) to support that proper
+corrective action was taken (repeat);
+c. establish a process to identify, prevent, and recover improper fee-for-
+service payments related to incarcerated recipients; and
+d. document its efforts to identify and remove deceased recipients from
+Medicaid and to investigate and pursue the recovery of improper
+payments after the recipients’ dates of death, including those noted in the
+analysis.
+Recipient Eligibility
+Finding 3
+MCPA did not ensure that changes to recipient Medicaid eligibility
+information were processed timely and accurately.
+Analysis
+MCPA did not ensure that changes to recipient Medicaid eligibility information
+were processed timely and accurately. MCPA is notified via automated reporting
+processes when recipient information in MMIS II differs from information on
+DHS’ and MHBE’s own recipient systems, and MCPA staff manually update
+MMIS II with the correct information based on its investigation. Our review
+disclosed that approximately 93,000 (58 percent) of the 161,000 notifications
+received between February 2022 and January 2023 had not been resolved as of
+February 2023. MCPA advised that this condition occurred as a result of the
+aforementioned ransomware security incident.
+MCPA also did not ensure that errors in changes made to recipient eligibility
+information were subsequently corrected. MCPA’s supervisory review of 1,957
+changes made to eligibility information between May and October 2021 identified
+239 changes that were not consistent with supporting documentation and
+consequently required correction. However, our test of 25 of these changes
+disclosed that 5 were not subsequently corrected in MMIS II after MCPA’s
+supervisory review.
+19
+
+--- Page 22 ---
+Recommendation 3
+We recommend that MCPA ensure recipient eligibility information is
+updated timely and accurately, and that errors to recipient eligibility
+information in MMIS II are corrected.
+Program Oversight
+Background
+MCPA is responsible for ensuring that Maryland Medicaid recipients receive high
+quality services and for verifying the propriety of the related provider payments.
+Based on our assessment of significance and risk we reviewed MCPA’s oversight
+of nursing facilities, hospital services, Community First Choice (CFC), and
+Medical Day Care, and its oversight of contractors that assist in the administration
+and monitoring of these programs.9
+Specifically, we reviewed MCPA’s oversight of the contractors that it uses to
+conduct audits of hospital claims to identify overpayments (such as from
+duplicate bills and unauthorized charges) and to conduct patient credit balance
+audits to identify amounts due to the State for claims paid to hospitals and nursing
+facilities by both the State and third parties (such as insurance companies). We
+also reviewed MCPA’s oversight of the contractors that it uses to conduct nursing
+facility cost settlements to identify underpayments or overpayments, and to
+conduct utilization reviews (including continued stay and medical eligibility
+reviews) of Medicaid recipients receiving services from hospitals and nursing
+facilities.
+Finding 4
+MCPA had not established adequate oversight to ensure that all CFC
+program recipients received personal assistance services in accordance with
+their plans of services.
+Analysis
+MCPA had not established adequate oversight to ensure that all CFC program
+recipients received personal assistance services in accordance with their plans of
+services. CFC is a community-based Medicaid waiver program in which elderly
+or disabled individuals who would otherwise live in a nursing facility are able to
+live in their own homes. CFC recipients receive assistance with daily living
+9 The CFC program provides services to eligible recipients that are intended to enable them to
+remain at home, while the Medical Day Care program provides various support services to
+functionally disabled adults which provides individuals the opportunity to receive medical care
+during the day in a community-based setting.
+20
+
+--- Page 23 ---
+activities from personal assistance providers, under agreements with MCPA, in
+accordance with a plan of service. LHDs are responsible for evaluating the
+quality of personal assistance services provided to the CFC recipients with the use
+of nurse monitors under contract to the LHDs. According to State records,
+during fiscal year 2022, MCPA paid CFC providers approximately $432.2
+million, of which $387.1 million and $6.6 million were for personal assistance
+and nurse monitoring providers (through the LHDs), respectively.
+Our review disclosed that MCPA had not established a process to ensure that
+nurse monitors were properly evaluating the quality of personal assistance
+services provided. According to MCPA records, there were 10,082 recipients
+receiving personal assistance services as of November 2022. Our analysis of
+recipient data in MDH’s Long Term Services and Supports system disclosed that
+1,873 recipients (19 percent) were more than 60 days overdue for their nurse
+monitoring visit, including 901 recipients who were more than one year overdue
+for a visit. According to MCPA’s records, the Baltimore City LHD was
+responsible for 821 of the 901 one-year overdue recipients, and at least 10 percent
+of recipients at 9 other LHDs were more than 60 days overdue.
+A similar condition was noted in our preceding audit report, including the long
+overdue monitoring visits by the Baltimore City LHD. In response to that report,
+MCPA advised that it implemented a process to follow-up with LHDs that had a
+significant number of recipients who were more than 30 days overdue for a
+monitoring visit. However, MCPA could not document that it had addressed the
+issue of untimely monitoring visits with the responsible LHD (including the
+Baltimore City LHD), and we found the follow-up process implemented was not
+effective because the monitoring report that MCPA relied on for this purpose was
+not focused on recipients who were more than 30 days overdue, as it did not
+identify the length of the delays (just that there was a delay). Consequently,
+MCPA did not identify that the aforementioned 1,873 recipients were
+significantly overdue.
+Recommendation 4
+We recommend that MCPA
+a. establish a process to ensure that all CFC recipients are monitored by
+nurses (repeat), and
+b. develop a plan to address the longstanding instances of non-compliance
+for the aforementioned LHD.
+21
+
+--- Page 24 ---
+Finding 5
+MCPA did not monitor the utilization control agent contractor to ensure
+continued stay reviews of Medicaid recipients receiving services from
+nursing facilities were performed timely.
+Analysis
+MCPA did not monitor its utilization control agent (UCA) contractor to ensure
+continued stay reviews (CSRs) of Medicaid recipients receiving services from
+nursing facilities were performed timely. CSRs ensure that recipients required the
+level of care provided and ultimately billed to Medicaid by nursing facilities. The
+contract required the UCA to perform quarterly CSRs of recipients during their
+first year in a nursing facility and annually thereafter. MCPA did not track the
+CSRs performed for each recipient to ensure the UCA completed all required
+reviews.
+Our analysis of 13,930 Medicaid recipients, who resided in nursing facilities and
+should have received at least one CSR during calendar year 202110, disclosed that
+2,387 recipients (17 percent) had not received a CSR anytime during calendar
+year 2021. As a result, MCPA did not have assurance that these recipients
+required the level of care provided and that the related payments were proper.
+According to MCPA records, MCPA made payments totaling $165.2 million to
+nursing facilities for these 2,387 recipients for nursing facility services during
+calendar year 2021.
+Since MCPA did not monitor the UCA for timely completion, it was not aware of
+the missing CSRs and therefore could not properly determine whether to assess
+liquidated damages against the UCA. The current contract at the time of our audit
+provided MCPA the ability to assess liquidated damages up to 0.5 percent of the
+monthly invoice amount.
+A similar condition was commented upon in our preceding audit report in which
+we noted that MCPA did not sufficiently address errors in medical necessity
+determinations made by the UCA or ensure the UCA conducted timely CSRs of
+nursing facilities. MDH’s response to that report indicated that it would
+implement the recommended corrective actions by the end of calendar year 2019.
+Although MCPA implemented procedures to address errors in medical necessity
+10 Specifically, our analysis focused on recipients with a first date of service between January and
+August 2021 and at least four months of claims during calendar year 2021. In this context, the
+first date of service represents the earliest date in calendar year 2021 that the recipient received
+services from the nursing facility; many of these recipients also received nursing facility services
+prior to January 2021.
+22
+
+--- Page 25 ---
+determinations, it still did not have a process to ensure that CSRs were conducted
+timely at nursing facilities.
+Recommendation 5
+We recommend that MCPA monitor the UCA vendor to ensure CSRs are
+performed timely and assess liquidated damages as permitted by the contract
+(repeat).
+Finding 6
+MCPA did not have an established process to ensure costly recipient
+ventilator care claims submitted by nursing facilities were valid, as required
+by State regulations.
+Analysis
+MCPA did not have a process to ensure nursing facility recipient ventilator care
+claims, which totaled approximately $54.7 million in calendar year 2021, were
+valid. According to MCPA records, as of January 2022, 16 nursing facilities were
+authorized to provide ventilator care services to Medicaid patients at an average
+daily reimbursement rate of $797. MCPA did not validate the ventilator care
+claims submitted by these facilities to ensure they were supported and proper.
+State regulations require MCPA to periodically validate that the days paid for
+ventilator care recipients are supported by medical records and to recoup
+payments for days that are not supported. At our request, MCPA obtained and
+reviewed 10 ventilator claims from 5 nursing facilities totaling $243,000 and
+concluded that the claims were properly supported.
+A similar condition was commented upon in our preceding audit report. Although
+MDH’s response to that report indicated that it planned to include ventilator care
+validations in the scope of its next UCA contract, MCPA had neither awarded the
+new contract during our audit period nor conducted its own validations.
+Recommendation 6
+We recommend that MCPA establish procedures to periodically validate
+ventilator care claims submitted by nursing facilities, as required by State
+regulations, and recoup any claim payments that are determined to be
+unsupported or improper (repeat).
+23
+
+--- Page 26 ---
+Finding 7
+MCPA did not conduct the required audits of Medical Day Care (MDC) and
+Supports Planning providers, and the related audit policy and procedures
+were not sufficiently comprehensive.
+Analysis
+MCPA did not audit all MDC and Supports Planning providers as required by its
+policy, and the MDC audit policy and procedures were not sufficiently
+comprehensive. MDC is a community-based group program that offers eligible
+Medicaid recipients health, social, and personal support in a day-care setting in
+accordance with their individualized plans of care as an alternative to institutional
+care. Supports Planners develop service plans for recipients in the CFC program
+that identify the personal assistance services each recipient requires with daily
+living activities. According to MCPA records, during calendar year 2021, MCPA
+paid 115 MDC and 27 Supports Planning providers approximately $126.7 million
+and $37.8 million, respectively, for these services.
+MDC Provider Audits
+MCPA did not conduct all of the required biennial audits of MDC providers as
+required by its policy. The audits either confirm program compliance by
+providers or identify issues, such as allegations of conditions affecting the health
+or welfare of recipients that had not been reported to the appropriate authorities as
+required. According to its records, MCPA made payments to 97 of the 115 MDC
+providers in each year during calendar years 2018 through 2021. Our review
+disclosed that MCPA had not conducted the two required audits for 79 (81
+percent) of the 97 providers over the four years. Specifically, the two required
+audits were not conducted for 18 providers and one of the required audits had
+been conducted for the other 61 providers.
+In addition, we determined the audits that were performed were not sufficiently
+comprehensive. We reviewed 12 of the 46 audits conducted between calendar
+years 2018 and 2021 for which documentation was readily available.11 Our
+review disclosed that 8 audits excluded at least 1 year of claims activity, including
+1 audit performed in November 2020 that excluded claims activity for the 6-year
+period from December 2011 through December 2017. We also noted that MCPA
+could not explain the basis of selection for claims tested during the 12 audits,
+including 7 audits for which MCPA also did not document the number of claims
+tested. Finally, MCPA did not have a process to expand testing when the audits
+identified program compliance issues or overpayments.
+11 Although MCPA records indicated that 111 audits were performed during this period, as of
+October 2022, MCPA could not provide documentation for 65 of these audits due to the
+ransomware security incident previously mentioned in this report.
+24
+
+--- Page 27 ---
+Similar conditions were commented upon in our preceding audit report. MDH's
+response to that report indicated that it would audit at least half of the MDC
+providers each year (and thus audit each provider once every two-year period) and
+would update its audit procedures to address the noted deficiencies by June 30,
+2020. As noted above, MCPA had not completed the required number of audits
+or implemented the recommended enhancements to its audit procedures.
+Supports Planning Provider Audits
+As of October 2022, MCPA had not audited any Support Planning providers since
+fiscal year 2019. MCPA policy provides for annual audits of these providers and
+that non-compliant providers submit quality improvement plans and monthly
+updates on their progress to address the deficiencies identified by the audits. Our
+review of the 2019 audits found that they had identified deficiencies (such as the
+providers’ failure to perform required criminal background checks of employees)
+and resulted in 10 providers being deemed non-compliant.
+Recommendation 7
+We recommend that MCPA
+a. audit MDC providers (repeat) and Supports Planning providers in
+accordance with its policy;
+b. ensure that all MDC provider claims since the previous audit are subject
+to testing (repeat); and
+c. enhance its MDC audit policy to establish audit scope requirements and
+testing methodology, including a requirement to expand audit testing
+when significant deficiencies are identified (repeat).
+Finding 8
+MCPA did not adequately monitor the hospital claims audit contractor and
+had not collected or recovered improper claims identified by the contractor
+totaling $6.9 million.
+Analysis
+MCPA did not adequately monitor the Medicaid hospital claims audit contractor
+and did not pursue recovery of $6.9 million in improper claims identified by its
+contractor. Hospital claims audits are required by the federal Patient Protection
+and Affordable Care Act (enacted in 2010) and provide assurance that hospital
+services provided to Maryland Medicaid recipients were necessary and not
+excessive. In June 2019, MCPA procured a contractor to perform these audits
+that would be paid a percentage of the improper payments recovered. According
+to MCPA records, hospital services totaled approximately $787.5 million in fiscal
+year 2021, and as of July 2022, the audit contractor had been paid $477,000.
+25
+
+--- Page 28 ---
+ MCPA did not obtain certain deliverables required by the audit contract. For
+example, the contract required the vendor to provide a plan detailing steps
+MCPA should take in order to reduce the occurrence of future improper
+hospital claims payments. As of August 2022, MCPA had not obtained this
+plan. We noted that the contract did not specify a separate fee for this
+deliverable, and therefore, it would appear to have been included in the
+aforementioned fee paid to the vendor.
+ MCPA did not always pursue recovery of overpayments identified by the
+audit contractor. Specifically, as of August 2022 MCPA had not pursued
+recovery of improper payments totaling $6.9 million that were reported by the
+contractor between 2 months to 2 years prior. MCPA advised us that the
+reason that it had not initiated collection actions over these funds was because
+of limited staff resources and the impact of the aforementioned ransomware
+security incident.
+Recommendation 8
+We recommend that MCPA
+a. adequately monitor the hospital claims audit contractor, including
+obtaining all deliverables as required by the contract; and
+b. pursue recovery of overpaid claims identified by the audit contractor in a
+timely manner.
+Information Systems Security and Control
+We determined that the Information Systems Security and Control section,
+including Findings 9 and 10 related to “cybersecurity”, as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore are subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following findings, including the analysis, related
+recommendations, along with MDH’s responses, have been redacted from this
+report copy.
+26
+
+--- Page 29 ---
+Finding 9
+Redacted cybersecurity-related finding.
+Finding 10
+Redacted cybersecurity-related finding.
+27
+
+--- Page 30 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Department of
+Health (MDH) – Medical Care Programs Administration (MCPA) for the period
+beginning August 1, 2018 and ending March 31, 2022. The audit scope for this
+audit included MCPA’s primary administrative functions and excluded the
+procedures and controls over the Managed Care Program, the Behavioral Health
+Administration’s Administrative Service Organization, and the Maryland
+Pharmacy Program, which are reviewed under three separate audits (as previously
+explained in the Background Information Section of this report).
+The audit was conducted in accordance with generally accepted government
+auditing standards except for certain requirements related to obtaining sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. Specifically, as described on page 11,
+certain records related to four findings were not available at the time of our
+review due to a ransomware security incident (additional comments are included
+in the respective findings).
+Generally accepted government auditing standards require that we plan and
+perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives.
+Except for the records that were unavailable as described above, we believe that
+the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MCPA’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included Medicaid Management Information System
+(MMIS II) and other information systems security and controls, recipient and
+provider eligibility, third party insurance recoveries, nursing facilities, hospital
+services, Community First Choice, and Medical Day Care. We also determined
+the status of the findings contained in our preceding audit report.
+Our audit did not include certain support services provided to MCPA by MDH.
+These support services (such as payroll, purchasing, maintenance of accounting
+records, and related fiscal functions) are included within the scope of our audit of
+28
+
+--- Page 31 ---
+the MDH – Office of the Secretary and Other Units. Our audit also did not
+include an evaluation of internal controls over compliance with federal laws and
+regulations for federal financial assistance programs and an assessment of
+MCPA’s compliance with those laws and regulations because the State of
+Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including MCPA.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of August 1, 2018 to March 31, 2022, but may include transactions before
+or after this period as we considered necessary to achieve our audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspection of documents and records, tests of transactions,
+and to the extent practicable, observations of MCPA’s operations. Generally,
+transactions were selected for testing based on audit judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from this source
+were sufficiently reliable for the purposes the data were used during the audit.
+We also extracted data from MMIS II (such as claims payments and recipient
+information) for the purpose of selecting test items and performing data analytics.
+We performed various tests of the relevant data and determined that the data were
+sufficiently reliable for the purposes the data were used during the audit. Finally,
+we performed other auditing procedures that we considered necessary to achieve
+our audit objectives. The reliability of data used in this report for background or
+informational purposes was not assessed.
+29
+
+--- Page 32 ---
+MCPA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to MCPA, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect MCPA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to MCPA that did not warrant inclusion in this
+report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation”. Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+30
+
+--- Page 33 ---
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to MCPA and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+As a result of our audit, we determined that MCPA’s accountability and
+compliance level was unsatisfactory. The primary factors contributing to the
+unsatisfactory rating were the significance of the audit findings and the number of
+repeat findings. Our rating conclusion has been made solely pursuant to State law
+and rating guidelines approved by the Joint Audit and Evaluation Committee.
+The rating process is not a practice prescribed by professional auditing standards.
+The response from MDH, on behalf of MCPA, to our findings and
+recommendations is included as an appendix to this report. Depending on the
+version of the audit report, responses to any cybersecurity findings may be
+redacted in accordance with State law. As prescribed in State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise MDH
+regarding the results of our review of its response.
+31
+
+--- Page 34 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Maryland Department of Health Units
+As of September 2023 (Page 1 of 2)
+Most Recent
+Name of Audit Areas Covered
+Report Date
+ Deer’s Head Center
+1 Chronic Care Hospital Centers 05/10/23
+ Western Maryland Hospital Center
+Developmental Disabilities
+2 Developmental Disabilities Administration 10/26/22
+Administration
+Behavioral Health Administration and
+ Behavioral Health Administration
+Medical Care Programs
+ Medical Care Programs Administration
+3 Administration - Administrative 10/25/22
+Administrative Service Organization for
+Service Organization for Behavioral
+Behavioral Health Services
+Health Services
+ Holly Center
+Intellectual Disabilities Residential  Potomac Center
+4 10/24/22
+Centers  Secure Evaluation and Therapeutic
+Treatment
+ John L. Gildner Regional Institute for
+Regional Institutes for Children and Children and Adolescents
+5 07/13/22
+Adolescents  Regional Institute for Children and
+Adolescents – Baltimore
+6 Office of the Chief Medical Examiner Office of the Chief Medical Examiner 05/12/22
+ Prevention and Health Promotion
+Administration
+Prevention and Health Promotion  Office of Population Health Improvement
+Administration - Office of Population  Office of Preparedness and Response
+Health Improvement - Office of  Office of Provider Engagement and
+7 02/23/21
+Preparedness and Response - Office Regulation – Office of Controlled
+of Provider Engagement and Substances Administration
+Regulation  Office of Provider Engagement and
+Regulation – Prescription Drug
+Monitoring Program
+ 22 Health Professional Boards and
+8 Regulatory Services Commissions 01/19/21
+ Office of Health Care Quality
+9 Vital Statistics Administration Vital Statistics Administration 11/10/20
+32
+
+--- Page 35 ---
+Exhibit 1
+Listing of Most Recent Office of Legislative Audits
+Fiscal Compliance Audits of Maryland Department of Health Units
+As of September 2023 (Page 2 of 2)
+Most Recent
+Name of Audit Areas Covered
+Report Date
+Pharmacy Services for
+ Medicaid Managed Care Program
+ Maryland Medicaid Pharmacy Program
+ Kidney Disease Program
+10 Pharmacy Services 08/31/20
+ Maryland AIDS Drug Assistance
+Program
+ Breast and Cervical Cancer Diagnosis
+and Treatment Program
+ Office of the Secretary
+ Deputy Secretary and Executive
+Director for Behavioral Health
+ Deputy Secretary for Developmental
+Office of the Secretary and Other
+11 Disabilities 07/14/20
+Units
+ Deputy Secretary for Public Health
+ Deputy Secretary for Health Care
+Financing and Chief Operating Officer
+ Deputy Secretary for Operations
+12 Spring Grove Hospital Center Spring Grove Hospital Center 04/22/20
+Medical Care Programs Managed Care Program, known as
+13 Administration - Managed Care HealthChoice including oversight of the nine 04/22/20
+Program private Managed Care Organizations
+14 Laboratories Administration Laboratories Administration 04/10/20
+15 Clifton T. Perkins Hospital Center Clifton T. Perkins Hospital Center 03/17/20
+ Maryland Health Care Commission
+ Health Services Cost Review
+16 Health Regulatory Commissions Commission 04/05/19
+ Maryland Community Health Resources
+Commission
+17 Thomas B. Finan Hospital Center Thomas B. Finan Hospital Center 03/26/19
+18 Springfield Hospital Center Springfield Hospital Center 12/06/18
+19 Eastern Shore Hospital Center Eastern Shore Hospital Center 11/19/18
+33
+
+--- Page 36 ---
+APPENDIX
+October 27, 2023
+Mr. Gregory A. Hook, CPA
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, MD 21201
+Dear Mr. Hook:
+Enclosed, please find the responses to the draft audit report on the Maryland Department of
+Health – Medical Care Programs Administration (MCPA) for the period beginning August 1,
+2018, and ending March 31, 2022.
+The report identifies a number of areas for improvement in MCPA policies and procedures. As
+the report notes, some of the findings can be attributed to staffing challenges and challenges
+relating to the 2021 network security incident. As you will see from our responses, MDH and
+MCPA are taking a number of actions to address these findings and strengthen MCPA.
+If you have any questions, please contact Frederick D. Doggett at 410-767-0885 or email at
+frederick.doggett@maryland.gov.
+Sincerely,
+Laura Herrera Scott, M.D., Secretary
+Maryland Department of Health
+Enclosures
+cc: Erin K. McMullen, R.N., Chief of Staff, MDH
+Marie Grant, Assistant Secretary for Health Policy, MDH
+
+--- Page 37 ---
+Ryan B. Moran, Dr. P.H., Deputy Secretary, Health Care Financing, MDH
+Tricia Roddy, Deputy Director, Medicaid, MDH
+Frederick D. Doggett, Director, Internal Controls, Audit Compliance & Information
+Security, MDH
+Deneen Toney, Deputy Director, Audit & Compliance, MDH
+Warren Waters, Jr., Chief of Staff, Health Care Financing, MDH
+2
+
+--- Page 38 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+Third Party Liability
+Finding 1
+The Medical Care Programs Administration (MCPA) did not ensure that all referrals of
+potential third-party health insurance information were investigated and recorded in the
+Medicaid Management Information System (MMIS II), which could result in MCPA
+improperly paying claims that should have been paid by a third party.
+We recommend that MCPA ensure that
+a. all third-party health insurance information provided by its third-party liability vendor
+are interfaced with MMIS II, and
+b. all MCO insurance referrals are recorded into MMIS II timely (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1a Agree Estimated Completion Date: 1/1/2024
+Please provide details of MDH is actively working on a plan of correction with a third party
+corrective action or liability vendor and information technology staff to address the carrier
+explain disagreement. text file interface. MCPA staff requested and received a master code file
+that was reviewed and sorted before being sent to the vendor for
+additional reviews. Any data discrepancies will be reconciled. MCPA
+staff have also requested a master file of codes that the vendor utilizes to
+have them added to the system. When the file is updated, MDH will
+conduct testing to ensure the interface is working as expected.
+Recommendation 1b Agree Estimated Completion Date: Complete
+Please provide details of MCPA has hired and trained three contractual employees to address this
+corrective action or finding. The backlog for 2019-2021 has been addressed, and the 2022
+explain disagreement. backlog was resolved by September 30, 2023. Continued progress on
+automating the referral process using the 270/271 format should resume
+once the carrier code file referenced above is resolved.
+Page 1 of 11
+
+--- Page 39 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+Review of Questionable Activity
+Finding 2
+MCPA did not have effective processes to identify, prevent, and recover questionable
+Medicaid payments, including $7.1 million in payments on behalf of incarcerated and
+deceased recipients.
+We recommend that MCPA establish effective processes over questionable Medicaid
+payments. Specifically, MCPA should
+a. ensure that instances of recipients with missing SSNs are referred to DHS and the
+LHDs for investigation;
+b. sufficiently document its reviews of investigations of questionable recipient eligibility
+(including instances of recipients missing SSNs or receiving Medicaid benefits in other
+states) to support that proper corrective action was taken (repeat);
+c. establish a process to identify, prevent, and recover improper fee-for-service payments
+related to incarcerated recipients; and
+d. document its efforts to identify and remove deceased recipients from Medicaid and to
+investigate and pursue the recovery of improper payments after the recipients’ dates of
+death, including those noted in the analysis.
+Agency Response
+Analysis Factually Accurate
+Please provide MCPA Policy experienced a work stoppage due to significant system
+additional comments as disruptions, which were caused by the MDH security incident on
+deemed necessary. 12/4/21. During the security incident, MCPA was not able to complete
+normal operations and was without system access until April 2022. Once
+access was reinstituted, workaround processes commenced to identify,
+prevent, and recover questionable Medicaid payments as appropriate.
+Recommendation 2a Agree Estimated Completion Date: Complete
+Please provide details of Once the security incident was resolved, MDH resumed the review
+corrective action or process. MCPA completed a comprehensive review of recipient cases
+explain disagreement. with missing SSNs prior to the system incident. MCPA is now
+reviewing the missing SSN cases on a monthly cycle, and cases are
+being sent to the local health departments and the Department of Human
+Page 2 of 11
+
+--- Page 40 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+Services for corrective action. MCPA continues to monitor the corrective
+action cases on a monthly basis.
+Recommendation 2b Agree Estimated Completion Date: 03/30/2024
+Please provide details of Once the security incident was resolved, MCPA began implementing a
+corrective action or workaround process. MCPA will utilize a standalone platform that will
+explain disagreement. be implemented in March 2024 and will allow document reviews of
+investigations of questionable recipient eligibility to support that proper
+corrective action is taken timely.
+Recommendation 2c Agree Estimated Completion Date: 03/31/2024
+Please provide details of Since the last audit, MDH has continued to improve efforts to identify
+corrective action or and prevent questionable Medicaid payments on behalf of incarcerated
+explain disagreement. recipients by adding a weekly manual review process of near-matches
+for DOB and SSN. Moreover, MCPA is actively working with DPSCS to
+receive comprehensive incarceration data to accurately identify all
+incarcerated recipients. The ability to prevent improper fee-for-service
+payments related to incarcerated recipients remains challenging for the
+current MMIS infrastructure. MDH is the process of procuring a new
+modular MMIS. Therefore, the ability to identify, prevent, and recover
+Fee For Service payments to incarcerated individuals can be
+incorporated into the requirements for the new claims and /or eligibility
+modules.
+Recommendation 2d Agree Estimated Completion Date: Complete
+Please provide details of MCPA runs the Death Match Report monthly and shares it with DHS,
+corrective action or which investigates and initiates the closing in the system of record.
+explain disagreement. Monthly, MCPA reviews a sample of cases. Cases needing to be closed
+are sent to DHS and the Local Departments of Health to initiate closing.
+MCPA monitors the corrective action plans monthly to ensure the
+closings are initiated. The process was stopped during the security
+incident but resumed on 07/2022.
+Additionally, due to the Public Health Emergency, the Centers for
+Medicare & Medicaid Services would not allow MCPA to close cases on
+households where the primary household member was deceased, as it
+would close the entire household. Redeterminations on these households
+have recommenced, and the primary deceased member is being removed
+from the household at their redetermination.
+Of the 15 cases that OLA identified that were deceased prior to medical
+services being rendered or capitation payments made on behalf of the
+Page 3 of 11
+
+--- Page 41 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+consumer, MCPA determined two of the consumers remain alive and
+active. One case was unable to be closed because there was a minor child
+in the household and per COVID-19 Public Health Emergency rules, the
+case was required to remain active. This case is marked for further
+review during the household’s next renewal cycle. 12 cases were found
+to be deceased and to date, all payments made after the consumer’s date
+of date have been successfully recouped.
+Recipient Eligibility
+Finding 3
+MCPA did not ensure that changes to recipient Medicaid eligibility information were
+processed timely and accurately.
+We recommend that MCPA ensure recipient eligibility information is updated timely and
+accurately, and that errors to recipient eligibility information in MMIS II are corrected.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3 Agree Estimated Completion Date: 12/31/23
+Please provide details of MCPA experienced work stoppage due to significant system disruptions,
+corrective action or which were caused by the MDH security incident on 12/4/21. During
+explain disagreement. the security incident, MCPA was not able to complete normal operations
+and was without system access until April 2022, at which time the
+certification turnaround document (CTAD) review resumed. MCPA will
+continue to ensure recipient eligibility information in MMIS is updated
+timely, and that errors to recipient eligibility information in MMIS II are
+updated to reflect current recipient statuses. Additionally, MCPA has
+developed remote working protocols that will allow staff to continue
+conducting Medicaid services and reviews during adverse working
+conditions.
+MCPA continues to work under Standard Operating Procedure #18-07,
+Revised 7/16/2021, to detail the process for reporting and processing
+CTADs. To determine that CTADs are completed accurately,
+management is responsible for reviewing and evaluating a minimum of
+Page 4 of 11
+
+--- Page 42 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+20 case samples each month. Additionally, reports are used in the
+Division of Recipient Eligibility Programs (DREP) to track the number
+of CTAD documents sent to the unit and processed on a monthly basis.
+Program Oversight
+Finding 4
+MCPA had not established adequate oversight to ensure that all CFC program recipients
+received personal assistance services in accordance with their plans of services.
+We recommend that MCPA
+a. establish a process to ensure that all CFC recipients are monitored by nurses (repeat),
+and
+b. develop a plan to address the longstanding instances of non-compliance for the
+aforementioned LHD.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: 12/31/23
+Please provide details of This finding is specific to CFC participants who are receiving personal
+corrective action or assistance services and are therefore required to also receive nurse
+explain disagreement. monitoring at the minimum frequency noted in COMAR 10.09.84.20
+(twice annually, with at least one in-person visit).
+MCPA has established a process to ensure that eligible participants
+receive the nurse monitoring service at the minimum frequency. As of
+October 2023, approximately five percent of eligible participants had not
+received the service, which was a significant decrease from the previous
+audit findings released in 2019.
+Since the time of the original finding, MCPA developed and
+implemented a Nurse Monitoring Agreement, which establishes clear
+standards for the service, its delivery, and its continuous monitoring both
+Page 5 of 11
+
+--- Page 43 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+the Local Health Departments (LHDs) providing nurse monitoring and
+MCPA. Since the original finding, new tools were also developed and
+implemented in the Department’s data management system,
+LTSSMaryland, to focus specifically on the population of participants
+that had not received the service of nurse monitoring, despite being
+eligible.
+Recommendation 4b Agree Estimated Completion Date: Complete
+Please provide details of The Nurse Monitoring Agreement, written in collaboration with the
+corrective action or LHDs, is completed and has been implemented. The LHDs are currently
+explain disagreement. following the standards established in the Agreement while the
+Department is pursuing signed agreements from all LHDs.
+Finding 5
+MCPA did not monitor the utilization control agent contractor to ensure continued stay
+reviews of Medicaid recipients receiving services from nursing facilities were performed
+timely
+We recommend that MCPA monitor the UCA vendor to ensure CSRs are performed
+timely and assess liquidated damages as permitted by the contract (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 5 Agree Estimated Completion Date: Complete
+Please provide details of
+corrective action or MCPA agrees with the recommendation and will continue to monitor the
+explain disagreement. UCA vendor.
+A three-point plan was developed to improve CSR timeliness and
+completion has been in place since 2019. Specifically, MCPA developed
+improved approaches for assuring CSRs get completed by the UCA,
+scheduled joint (UCA & MCPA) meetings resulting in a revised
+standard operating procedure, and wrote more targeted and active
+approaches to CSRs into the RFP for the next UCA to prevent similar
+issues under future procurements. The new contract with these
+approaches was awarded in June 2023 and its operations will begin in
+2024.
+Page 6 of 11
+
+--- Page 44 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+Finding 6
+MCPA did not have an established process to ensure costly recipient ventilator care claims
+submitted by nursing facilities were valid, as required by State regulations.
+We recommend that MCPA establish procedures to periodically validate ventilator care
+claims submitted by nursing facilities, as required by State regulations, and recoup any
+claim payments that are determined to be unsupported or improper (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 6 Agree Estimated Completion Date: Complete
+Please provide details of MCPA agrees that ventilator audits should be conducted, and
+corrective action or recoupment should occur for any claims that are unsupported. The UCA
+explain disagreement. will begin conducting these audits in early to mid-2024. As a short-term
+solution, the Department began conducting ventilator audits internally in
+September 2023.
+Upon the prior finding, MCPA wrote the ventilator audit process into the
+new requirements for the UCA contract. The award for the new contract
+was announced in June 2023 and is currently undergoing
+implementation; operations are due to begin in early 2024.
+Page 7 of 11
+
+--- Page 45 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+Finding 7
+MCPA did not conduct the required audits of Medical Day Care (MDC) and Supports
+Planning providers, and the related audit policy and procedures were not sufficiently
+comprehensive.
+We recommend that MCPA
+a. audit MDC providers (repeat) and Supports Planning providers in accordance with its
+policy;
+b. ensure that all MDC provider claims since the previous audit are subject to testing
+(repeat); and
+c. enhance its MDC audit policy to establish audit scope requirements and testing
+methodology, including a requirement to expand audit testing when significant
+deficiencies are identified (repeat).
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 7a Agree Estimated Completion Date: 12/31/24
+Please provide details of MDH agrees with this finding. Unfortunately, longstanding staff attrition
+corrective action or and insufficient resource capacity challenges, in addition to prioritizing
+explain disagreement. program operations during the COVID-19 public health emergency
+resulted in a delay in annual audits. The next steps related to specific
+audits are as follows:
+Supports Planning Providers - The next annual audit of the 27 Supports
+Planning Agencies will commence on January 1, 2024, and will
+conclude on or before December 31, 2024. MCPA will ensure that
+annual audits are conducted each year thereafter in accordance with its
+policy.
+MDC Audits - Identical to the aforementioned challenges, the MDC
+program will leverage next year’s schedule of audits to ensure each
+provider is audited for compliance.
+Recommendation 7b Agree Estimated Completion Date: 12/31/24
+Page 8 of 11
+
+--- Page 46 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+Please provide details of Supports Planning Agency (SPA) - Review of submitted claims is
+corrective action or included in the annual audit process. MCPA will ensure that claims are
+explain disagreement. tested during the next audit cycle and thereafter. The audit timeframe
+will be clearly documented to help prevent an overlap in claims testing
+or any associated data integrity issues.
+MDC - The MDC Program has updated its auditing tool to require all
+auditing staff document the time period of the previous attendance audit
+and resume attendance auditing from that period to ensure no time
+periods are skipped or missed while auditing each provider. The standard
+operating procedure (SOP) was also updated. The MDC team has
+received updated training and will continue to engage in monthly audit
+meetings to ensure competency and employ standardization among staff,
+reinforce best practices, discuss findings, auditing progress, technical
+assistance, and any other feedback from the team.
+Recommendation 7c Agree Estimated Completion Date: Complete
+Please provide details of Since this audit, the MDC program established an SOP that directs an
+corrective action or expansion of audits (i.e., extrapolation) based on specific deficiencies
+explain disagreement. (e.g., instances or trends of noncompliance with requisite attendance and
+reimbursement policies). Findings, risk controls, mitigation strategies,
+and best practices are discussed during audit meetings.
+Finding 8
+MCPA did not adequately monitor the hospital claims audit contractor and had not
+collected or recovered improper claims identified by the contractor totaling $6.9 million.
+We recommend that MCPA
+a. adequately monitor the hospital claims audit contractor, including obtaining all
+deliverables as required by the contract; and
+b. pursue recovery of overpaid claims identified by the audit contractor in a timely
+manner.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 8a Agree Estimated Completion Date: Complete
+Page 9 of 11
+
+--- Page 47 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+Please provide details of MDH has a report that includes recommendations from the vendor for
+corrective action or reducing and preventing improper payments issued on claims and
+explain disagreement. establishing a criterion for identifying error prone providers for
+heightened scrutiny. In addition, the Department has recovered
+overpayments identified by the contractor. The Department has already
+set up regular monthly meetings with the hospital audit contractor, with
+one quarterly meeting to include the Office of Inspector General for
+Health.
+Recommendation 8b Agree Estimated Completion Date: Complete
+Please provide details of Once the security incident was resolved MCPA recouped these payments
+corrective action or in full.
+explain disagreement.
+Page 10 of 11
+
+--- Page 48 ---
+Maryland Department of Health
+Medical Care Programs Administration
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that the Information Systems Security
+and Control section, including findings 9 and 10 related to “cybersecurity”, as defined by the
+State Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of Maryland,
+and therefore are subject to redaction from the publicly available audit report in accordance with
+the State Government Article 2-1224(i). Although the specifics of the following findings,
+including the analysis, related recommendations, along with MDH’s responses, have been
+redacted from this report copy, MDH’s responses indicated agreement with the findings and
+related recommendations.
+Finding 9
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Finding 10
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 11 of 11
+
+--- Page 49 ---
+A T
+UDIT EAM
+Edward A. Rubenstein, CPA
+Audit Manager
+R. Brendan Coffey, CPA, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Managers
+David R. Fahnestock, CPA
+Data Analytics Manager
+James J. Podhorniak, CPA, CFE
+Robert J. Smith, CPA
+Senior Auditors
+Eric Alexander, CPA, CISA
+Michael K. Bliss
+Information Systems Senior Auditors
+Charles H. Hinds, IV, CPA
+Data Analytics Senior Auditor
+Paul A. McGrew
+Andrew W. Mills
+Nga T. Nguyen Simmons
+Staff Auditors
+Vickey K. Micah
+Information Systems Staff Auditor

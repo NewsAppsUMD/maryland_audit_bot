@@ -1,0 +1,11 @@
+# Requirements file for deployment (pip-based)
+# Use this for PythonAnywhere or other pip-based deployments
+
+Flask==3.0.0
+python-dotenv==1.0.0
+llm==0.13.1
+llm-groq==0.1.0
+llm-gemini==0.1.0
+
+# Note: For local development, use 'uv sync' with pyproject.toml
+# For deployment, use 'pip install -r requirements.txt'

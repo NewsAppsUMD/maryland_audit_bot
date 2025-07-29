@@ -1,0 +1,781 @@
+Title: Maryland Department of Transportation - State Highway Administration
+Date: 01/30/2019
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5c598807a1ce580a5083cb96
+Extracted: 2025-06-18T22:24:02.176820
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Transportation
+State Highway Administration
+March 2022
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Carol L. Krimm (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Mark S. Chang
+Senator George C. Edwards Delegate Nicholas P. Charles II
+Senator Katie Fry Hester Delegate Andrea Fletcher Harrison
+Senator Cheryl C. Kagan Delegate Trent M. Kittleman
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Elizabeth G. Proctor
+Senator Craig J. Zucker Delegate Geraldine Valentino-Smith
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+March 29, 2022
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Carol L. Krimm, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Department of
+Transportation (MDOT) – State Highway Administration (SHA) for the period
+beginning July 1, 2017 and ending October 31, 2020. SHA is responsible for the
+planning, construction, improvement, maintenance, and operations of the State
+highway system.
+Our audit disclosed certain procurement related issues and insufficiency in
+information system security settings. Specifically, SHA did not publish certain
+contract awards on eMaryland Marketplace Advantage (eMMA) as required,
+including 3,114 snow removal contracts totaling $316.4 million. Furthermore,
+SHA did not adequately safeguard vendor proposals submitted electronically for
+certain ongoing procurements expected to result in awards for an estimated 66
+contracts for architectural and engineering services totaling $411.8 million. In
+addition, certain SHA employees may have potentially violated State ethics laws
+by having relationships with certain contractors and SHA did not take permissible
+disciplinary actions against certain of these related contractors when their
+performance was determined to be unsatisfactory. Finally, certain outdated
+software and security-related settings on SHA computers were not sufficient to
+provide SHA with adequate assurance that its computers were properly protected.
+Our audit also included a review to determine the status of the eight findings
+contained in our preceding SHA audit report. We determined that SHA
+satisfactorily addressed six of these findings. The remaining two findings are
+repeated in this report.
+
+--- Page 4 ---
+MDOT’s response to this audit, on behalf of SHA, is included as an appendix to
+this report. We reviewed the response to our findings and related
+recommendations, and have concluded that the corrective actions identified are
+sufficient to address all audit issues. Additionally, as allowed by our policy, we
+have edited MDOT’s response to remove certain language unrelated to the finding
+and overly detailed information regarding information systems security.
+We wish to acknowledge the cooperation extended to us during the audit by SHA.
+We also wish to acknowledge MDOT’s and SHA’s willingness to address the
+audit issues and implement appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Resource Sharing Agreements 4
+Status of Findings From Preceding Audit Report 5
+Findings and Recommendations 7
+Procurements
+* Finding 1 – The State Highway Administration (SHA) did not comply 7
+with publication requirements for certain contract awards totaling
+$333.4 million.
+Finding 2 – SHA did not have adequate safeguards in place to secure 8
+vendor proposals for architectural and engineering services submitted
+and stored electronically.
+Possible Ethics Violations
+Finding 3 – Certain SHA employees potentially violated State ethics 9
+laws and permissible disciplinary action was not taken when certain
+contractors performed unsatisfactorily.
+Information Systems Security and Control
+* Finding 4 – Two malware protection controls were not sufficient to 11
+provide adequate assurance that SHA computers were properly
+protected from security risks.
+Audit Scope, Objectives, and Methodology 13
+Agency Response Appendix
+ Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+The State Highway Administration (SHA) is responsible for the planning,
+construction, improvement, maintenance, and operations of the State highway
+system. SHA operates numerous facilities throughout the State, including a
+headquarters in Baltimore City, seven district offices, and the Statewide
+Operations Center (including the Coordinated Highways Action Response Team -
+CHART).
+According to the State’s accounting records, SHA’s expenditures totaled
+approximately $1.6 billion (special funds of $852 million and federal funds of
+$725 million) during
+fiscal year 2021.
+The majority of
+SHA’s expenditures
+related to capital
+projects for the
+construction and
+system preservation
+of State highways,
+roads, and bridges,
+related maintenance,
+and State and federal
+aid to local
+jurisdictions for the
+construction and
+maintenance of local
+roads (see Figure 1).
+Resource Sharing Agreements (RSAs)
+On August 3, 2018, we issued a performance report on Telecommunication
+Resource Sharing Agreements which contained several findings related to SHA.
+This audit report included a number of findings related to selected agencies, but
+emphasized the need for the Department of Information Technology to exercise
+greater oversight of the RSAs entered into by State agencies in general. The
+performance audit included the following select findings related to SHA.
+4
+
+--- Page 7 ---
+ SHA did not maintain comprehensive records of RSAs, inventories of State-
+owned telecommunication towers and fiber optic cables for potential resource
+sharing, and inventories of private company equipment installed on towers;
+ SHA did not treat certain agreements as resource sharing resulting in lost
+opportunities to maximize compensation;
+ SHA did not verify all monetary compensation was received;
+ SHA did not always include adequate provisions to protect State interests, and
+ SHA executed and renewed resource sharing agreements without proper
+approvals.
+The Maryland Department of Transportation, on behalf of SHA, agreed to the
+findings and recommendations in the August 2018 report.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the eight findings contained
+in our preceding audit report dated January 30, 2019. As disclosed in Figure 2
+below, we determined that SHA satisfactorily addressed six of these findings.
+The remaining two findings are repeated in this report.
+5
+
+--- Page 8 ---
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+State Highway Administration (SHA) procedures to identify State
+property damaged by traffic accidents using Maryland Department
+of State Police (MSP) records and to invoice for these damages were
+Finding 1 Not repeated
+not comprehensive. We identified more than 8,700 accidents during
+our audit period from MSP records that may have caused damage to
+State property and could be subject to recovery by the State.
+SHA did not have adequate procedures in place to ensure the
+Finding 2 Not repeated
+SafeZones program vendor complied with all contract requirements.
+SHA did not always follow established procedures at the one SHA
+Finding 3 district office that we examined to ensure the propriety of payments Not repeated
+to vendors for snow and ice removal contracts.
+SHA did not comply with certain State procurement-related
+Repeated
+Finding 4 reporting and publication requirements for contract awards totaling
+(Current Finding 1)
+$77.1 million.
+SHA did not have comprehensive written procedures to resolve, in a
+timely manner, certain highway construction-related expenditures
+Finding 5 Not repeated
+that had been suspended from the federal reimbursement process,
+and related follow-up efforts were not always documented.
+(Policy Issue) SHA had not completed a comprehensive review of
+physical security practices in place at its district offices to ensure
+Finding 6 Not repeated
+that equipment and supplies were adequately protected from loss or
+misappropriation.
+SHA lacked proper internal controls over corporate purchasing
+Finding 7 Not repeated
+cards to prevent or detect unauthorized purchases.
+Certain outdated software and security-related settings on SHA
+Repeated
+Finding 8 computers were not sufficient to provide SHA with adequate
+(Current Finding 4)
+assurance that its computers were properly protected.
+6
+
+--- Page 9 ---
+Findings and Recommendations
+Procurements
+Finding 1
+The State Highway Administration (SHA) did not comply with publication
+requirements for certain contract awards totaling $333.4 million.
+Analysis
+SHA did not comply with publication requirements on eMaryland Marketplace
+Advantage (eMMA)1 for certain contract awards totaling $333.4 million.
+Publishing awards on eMMA provides transparency to the general public over
+State procurements including information about each winning bidder and the
+amount of the related award.
+ SHA did not publish 3,114 contract awards for emergency snow and ice
+removal2 totaling $316.4 million for fiscal years 2018 to 2021. State law
+requires SHA to publish contracts procured as emergency procurements,
+which includes snow and ice removal contracts, on eMMA within 30 days of
+contract award. SHA management advised us that it believed its annual
+reporting of snow and ice removal contracts as emergency procurements to
+the Board of Public Works (BPW) satisfied all publication requirements under
+State law. However, SHA legal counsel confirmed that the snow and ice
+removal contract awards should be posted to eMMA within 30 days of contract
+approval and execution since they are considered emergency procurements.
+ Our test of five architectural and engineering service contract awards during
+the period from June 2019 through June 2020, totaling $35.5 million,
+disclosed that three contracts were not published on eMMA within 30 days of
+execution as required by State law. Specifically, one contract awarded on
+June 18, 2020 totaling $3.0 million was not published on eMMA as of June 15,
+2021 and two contracts totaling $14.0 million were published 46 and 103 days
+after execution. State law requires architectural and engineering service
+contracts be posted to eMMA 30 days after contract execution.
+1 eMaryland Marketplace (eMM) is an internet-based, interactive procurement system managed by
+the Department of General Services (DGS). Effective July 2019, DGS replaced eMM with
+eMaryland Marketplace Advantage (eMMA).
+2 State law allows SHA to procure contracts for the pretreatment and removal of snow and ice
+from Maryland bridges and roadways as emergency procurements in order to avoid or mitigate
+serious damage to public health, safety, or welfare. These are annual contracts procured prior to
+the start of each winter season. SHA’s utilization of the contract is contingent on the level of
+winter events during each season and unexpended balances do not carry over from season to
+season.
+7
+
+--- Page 10 ---
+A similar condition related to different contract types was commented upon in our
+two preceding audit reports.
+Recommendation 1
+We recommend that SHA comply with State procurement laws by publishing
+contract awards on eMMA within 30 days of contract award, as required
+(repeat).
+Finding 2
+SHA did not have adequate safeguards in place to secure vendor proposals
+for architectural and engineering services submitted and stored
+electronically.
+Analysis
+SHA did not have adequate safeguards in place to secure vendor proposals
+(expressions of interest and technical proposals) for architectural and engineering
+services submitted and stored electronically. Beginning in April 2020, SHA
+instructed vendors to submit their proposal documents for architectural and
+engineering contract solicitations directly to a Procurement Office shared email
+account. The proposal documents in the shared email account, which were not
+encrypted or password-protected, were then transferred to a shared file folder on
+SHA’s network. Thirty-two employees had access to either the shared email
+account or to the shared file folder prior to the bid submission deadlines for the
+solicitations. Consequently, confidential competitive information could be
+accessed and disclosed to other prospective candidates without detection.
+During the period from April 2020 through April 2021, SHA solicited 15
+architectural and engineering procurements that required emailed submissions.
+SHA estimated that 66 contracts totaling $411.8 million could ultimately be
+awarded through the 15 solicitations.
+Upon bringing this issue to SHA’s attention, it attempted to implement corrective
+action by requiring vendors to submit proposals on eMMA, which has security
+configurations for secure storage and transmission of electronically submitted
+bids and proposals. However, DGS subsequently advised SHA that eMMA would
+not have the functionality to handle electronically submitted bids and proposals
+for qualifications-based-selection (QBS) procurements (such as for architectural
+and engineering services). When using QBS, potential vendors submit an
+expression of interest, then a technical proposal for evaluation, and the award is
+made without consideration of price, which is negotiated later after the award.
+According to DGS, its Office of State Procurement plans to provide written
+8
+
+--- Page 11 ---
+guidance to State agencies in the future on how to handle bids and proposals for
+QBS procurements.
+Recommendation 2
+We recommend that SHA establish adequate safeguards to secure vendor
+proposals submitted and stored electronically against improper access. In
+addition, since eMMA presently does not have the functionality for
+qualifications-based selection procurements (such as for architectural and
+engineering services), SHA should consult with DGS to ensure that it
+implements the best corrective action for securing related vendor proposals.
+Possible Ethics Violations
+Finding 3
+Certain SHA employees potentially violated State ethics laws by overseeing
+contracts in which a qualifying relative had a financial interest and certain of
+these employees did not properly disclose that financial interest as required.
+In addition, permissible disciplinary action was not taken when certain of
+these related contractors performed unsatisfactorily.
+Analysis
+Certain SHA employees potentially violated State ethics laws by overseeing
+contracts in which a qualifying relative3 had a financial interest (owned or was an
+employee) in the contractor and certain of these employees did not properly
+disclose that financial interest as required. In addition, SHA did not document its
+rationale for not taking permissible disciplinary action when certain of these
+related contractors performed unsatisfactorily.
+We performed an analysis to identify potential conflicts of interest between SHA
+employees and contractors doing business with SHA and identified one employee
+who had a qualifying relative with a financial interest in a SHA contractor. Our
+review of contract documentation related to this employee disclosed that while
+this employee did not participate in work related to this contractor, the employee
+did not disclose the relationship to SHA or the State Ethics Commission
+(Commission) as required by SHA’s policy. In addition, in the course of our
+review, we identified two other employees that participated in contracts with two
+contractors in which their qualifying relatives had a financial interest.
+Specifically, we noted the following conditions.
+3 A qualifying relative is defined in Maryland Public Ethics Law Section 5-501 as a “spouse,
+parent, child, brother, or sister.”
+9
+
+--- Page 12 ---
+ One SHA employee directed and monitored a contractor that employed the
+employee’s qualifying relative. We noted at least 12 documented instances
+where the employee participated in matters involving this contractor,
+including representing SHA in discussions, directing operations when this
+contractor was performing work, and checking the contractor’s personnel in
+and out of their shift. The employee did not disclose the relationship to SHA
+or the Commission, as required. During our audit period, this contractor was
+issued three contracts totaling $886,300, and received payments totaling
+$385,146.
+ A second SHA employee participated in the oversight of a contractor where a
+qualifying relative worked. This employee had previously disclosed the
+relationship to SHA, and based on the advice of the Commission, SHA
+established a non-participation agreement that the employee signed, which
+prohibited the employee from participating in matters involving the
+contractor. However, we noted at least 26 documented instances where the
+employee participated in matters involving this contractor, including receiving
+contractor invoices and checking the contractor’s personnel in and out of their
+shift. During our audit period, this contractor was issued three contracts
+totaling $640,700 with payments totaling $427,813.
+ A third SHA employee (who was identified in our initial analysis) had a
+qualifying relative who owned a company doing business with SHA and
+another qualifying relative who performed services for the same company.
+The employee did not disclose these relationships to SHA or the Commission,
+as required by SHA policy. We did not identify instances in which the
+employee participated in matters involving this contractor. During our audit
+period, this contractor was issued two contracts totaling $120,100, with
+payments totaling $84,248.
+Our review also disclosed that SHA did not assess monetary penalties or
+terminate the contracts with the contractors noted above in the first and third
+bullet, who did not comply with the contract terms. For example, the contractor
+in the first bullet, was paid $385,146 and its contract stated that it may be
+terminated if the contractor did not report two or more occurrences of equipment
+failures to SHA. The contractor repeatedly failed to report equipment failures and
+SHA did not terminate the contract or document its justification for not taking
+corrective action. SHA did not have documentation evidencing which employees
+were involved in the decision to not take corrective action and therefore, we could
+not determine if the SHA employee with the qualifying relative was involved in
+these decisions. We were advised by district management personnel overseeing
+10
+
+--- Page 13 ---
+these contracts that contract terminations were subject to professional judgement
+on the part of SHA employees and were rarely taken for any contractor.
+We consulted senior management personnel at the Commission who advised that
+the aforementioned relationships with the first two employees above could
+potentially be a violation of State ethics law. Referral of a matter to the
+Commission by a State agency does not mean that a violation took place. Any
+final decision as to whether violations of State ethics laws did or did not occur
+would ultimately be made by the Commission.
+Recommendation 3
+We recommend that SHA
+a. refer the matters discussed above to the Commission and take action to
+comply with any decisions that the Commission provides on these
+matters, and
+b. take available corrective action when contractors do not comply with the
+terms of the contract or document the justification for waiving available
+disciplinary actions when performance was unsatisfactory.
+Information Systems Security and Control
+Background
+The SHA Office of Information Technology supports employee use of numerous
+information technology applications which operate on the Maryland Department
+of Transportation data center mainframe and various server platforms. Certain of
+SHA’s systems are either web-based or cloud-hosted applications which
+employees can access from remote locations. As of September 2020, SHA had
+over 3,900 computers in operation.
+Finding 4
+Two malware protection controls were not sufficient to provide adequate
+assurance that SHA computers were properly protected from security risks.
+Analysis
+Two malware protection controls were not sufficient to provide adequate
+assurance that SHA computers were properly protected from security risks. Our
+September and October 2020 testing disclosed the following conditions.
+ Certain SHA computers had not been updated with the latest releases for a
+certain software product known to have significant security-related
+vulnerabilities. Although the vendor for this software product frequently
+11
+
+--- Page 14 ---
+provides software patches to address these vulnerabilities, these computers
+had not been updated for these patches. Specifically, 9 of 14 computers tested
+which had the software product installed were running an outdated installed
+software version, having a software release date of January 2019.
+ Host-based firewalls were not enabled on the 3 of the 10 laptop computers
+tested. If these laptops were used outside of the SHA network, they would be
+susceptible to attack from untrusted traffic.
+The State of Maryland Information Technology Security Manual states that
+agencies, at a minimum, must protect against malicious code (viruses, worms,
+Trojan horses) by implementing protections (anti-virus, anti-malware) that, to the
+extent possible, include a capability for automatic updates. Similar conditions
+were commented upon in our preceding audit report.
+Recommendation 4
+We recommend that SHA
+a. promptly install all critical security-related software updates for
+commonly vulnerable applications on all computers (repeat), and
+b. ensure that all laptop computers are protected by an enabled and
+properly configured host-based firewall (repeat).
+12
+
+--- Page 15 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Department of
+Transportation (MDOT) – State Highway Administration (SHA) for the period
+beginning July 1, 2017 and ending October 31, 2020. The audit was conducted in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine SHA’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included procurements and disbursements for highway
+design, construction, and maintenance, as well as SHA’s operating expenditures,
+federal funds, equipment, and information systems. We also determined the
+status of the findings contained in our preceding audit report.
+Our audit did not include certain payroll support services (such as processing of
+personnel transactions and maintenance of employee leave records) provided by
+MDOT – Secretary’s Office to SHA. In addition, our audit did not include an
+evaluation of internal controls over compliance with federal laws and regulations
+for federal assistance programs and an assessment of SHA’s compliance with
+those laws and regulations because the State of Maryland engages an independent
+accounting firm to annually audit such programs administered by State agencies,
+including SHA.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of July 1, 2017 to October 31, 2020, but may include transactions before or
+after this period as we considered necessary to achieve our audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of SHA’s operations. Generally,
+13
+
+--- Page 16 ---
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in the
+finding, the results of any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+and MDOT’s Financial Management Information Systems (such as revenue and
+expenditure data), the State’s Central Payroll Bureau (payroll data), as well as
+from the contractor administering the State’s Corporate Purchasing Card Program
+(credit card activity). The extracts are performed as part of ongoing internal
+processes established by the Office of Legislative Audits and were subject to
+various tests to determine data reliability. We determined that the data extracted
+from these sources were sufficiently reliable for the purposes the data were used
+during this audit. Finally, we performed other auditing procedures that we
+considered necessary to achieve our audit objectives. The reliability of data used
+in this report for background or informational purposes was not assessed.
+SHA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to SHA, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+14
+
+--- Page 17 ---
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect SHA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to SHA that did not warrant inclusion in this report.
+The response from MDOT, on behalf of SHA, to our findings and
+recommendations is included as an appendix to this report. As prescribed in the
+State Government Article, Section 2-1224 of the Annotated Code of Maryland,
+we will advise MDOT regarding the results of our review of its response.
+15
+
+--- Page 18 ---
+APPENDIX
+
+--- Page 19 ---
+Maryland Department of Transportation
+State Highway Administration
+Agency Response Form
+Procurements
+Finding 1
+The State Highway Administration (SHA) did not comply with publication requirements
+for certain contract awards totaling $333.4 million.
+We recommend that SHA comply with State procurement laws by publishing contract
+awards on eMMA within 30 days of contract award, as required (repeat).
+Agency Response
+Analysis
+Please provide None.
+additional comments as
+deemed necessary.
+Recommendation 1 Agree Estimated Completion Date: 8/31/2022
+Please provide details of MDOT SHA will take the following corrective actions to address the
+corrective action or issues noted:
+explain disagreement.
+ For the 2021-2022 snow season, the Statewide Financial Manager
+will post a public notice with a memorandum that includes the
+blanket purchase order, vendor name, contract award, and the
+original award amount. This action will be completed by April 1,
+2022.
+ Beginning in the 2022-2023 snow season, we will require that each
+District and office post the contract award in eMMA before the
+Office of Finance activates the blanket purchase order. This will be
+an additional step in the existing approval process and quality
+assurance/quality control (QA/QC) checklist. Contract processes
+and templates are finalized and distributed by August 31st before
+each snow season.
+ For architectural/engineering (A/E) contracts, we will add eMMA
+posting confirmation to the QA/QC checklist for blanket purchase
+orders over $50,000 and require proof of posting to be attached. The
+eMMA Contract ID number must be posted for blanket purchase
+order activation. This action will be completed immediately.
+Page 1 of 7
+
+--- Page 20 ---
+Maryland Department of Transportation
+State Highway Administration
+Agency Response Form
+Finding 2
+SHA did not have adequate safeguards in place to secure vendor proposals for
+architectural and engineering services submitted and stored electronically.
+We recommend that SHA establish adequate safeguards to secure vendor proposals
+submitted and stored electronically against improper access. In addition, since eMMA
+presently does not have the functionality for qualifications-based selection procurements
+(such as for architectural and engineering services), SHA should consult with DGS to
+ensure that it implements the best corrective action for securing related vendor proposals.
+Agency Response
+Analysis
+Please provide None.
+additional comments as
+deemed necessary.
+Recommendation 2 Agree Estimated Completion Date: 7/15/2021
+Please provide details of MDOT SHA has reverted to sealed envelope submission of technical
+corrective action or proposals, as explained below.
+explain disagreement.
+ In May 2021, MDOT SHA directed all A/E procurement officers to
+receive Technical Proposals through eMMA for newly advertised
+contract series. For contract series already advertised, each
+procurement officer was directed to issue an amendment to the
+solicitation requiring each offeror to submit their Technical Proposal
+on a USB drive in a sealed envelope. (eMMA does not allow
+changes to the solicitation type after advertisement.) Technical
+proposals were then secured in a locked file room until the due date
+and time, when the envelope was to be opened in the presence of two
+State employees.
+ On December 21, 2021, the eMMA Help Desk informed MDOT
+SHA that the Triple Envelope process was not designed for
+Qualifications Based Selection, stating, “eMMA really only
+recognizes one 'phase' of proposal submission. So when a solicitation
+is Open (out on the street), vendors have to submit all parts of their
+proposal, both general, technical, and financial.” MDOT SHA has
+received all Technical Proposals as required in COMAR
+21.05.03.02G, Receipt of Proposals, since July 15, 2021.
+Page 2 of 7
+
+--- Page 21 ---
+Maryland Department of Transportation
+State Highway Administration
+Agency Response Form
+ On March 11, 2021, SHA’s Office of Procurement and Contract
+Management (OPCM) revised the template document for a request
+for technical proposals (RFTP). New language in the template states
+the following:
+The Technical Proposals in response to this RFTP are due no later
+than 12:00pm EST. on [Due Date] via USB and delivered to OPCM,
+707 North Calvert Street, C-405, Baltimore, Maryland 21202.
+Technical Proposals received after the deadline time will not be
+accepted, no matter how transmitted, and will be returned unopened
+to the Consultant.
+MDOT SHA will continue to consult with the Department of General
+Services to ensure that it implements the best corrective action for
+securing related vendor proposals since eMMA does not provide this
+functionality.
+Page 3 of 7
+
+--- Page 22 ---
+Maryland Department of Transportation
+State Highway Administration
+Agency Response Form
+Possible Ethics Violations
+Finding 3
+Certain SHA employees potentially violated State ethics laws by overseeing contracts in
+which a qualifying relative had a financial interest and certain of these employees did not
+properly disclose that financial interest as required. In addition, permissible disciplinary
+action was not taken when certain of these related contractors performed unsatisfactorily.
+We recommend that SHA
+a. refer the matters discussed above to the Commission and take action to comply with
+any decisions that the Commission provides on these matters, and
+b. take available corrective action when contractors do not comply with the terms of the
+contract or document the justification for waiving available disciplinary actions when
+performance was unsatisfactory.
+Agency Response
+Analysis
+Please provide None.
+additional comments as
+deemed necessary.
+Recommendation 3a Agree Estimated Completion Date: 4/29/22
+Please provide details of The MDOT SHA Ethics Coordinator has an internal process that is
+corrective action or followed when made aware of possible conflicts of interest between an
+explain disagreement. employee and a qualifying relative who is employed by a firm that does
+business with MDOT SHA. This includes contacting the employee’s
+senior manager to obtain information about the qualifying relationship
+and how the District/Office plans to avoid any interaction between the
+MDOT SHA employee and the qualifying relative and/or the qualifying
+relative’s employer. Once the requested information is received, a Non-
+Participation Plan is developed and implemented through the employee’s
+Senior Manager and signed by the employee. The executed Non-
+Participation Plan is sent to the State Ethics Commission for review and
+approval.
+This same process is employed if the matter deals with an employee who
+is deemed to have a non-qualifying relative under the State Ethics Laws.
+In these cases, a Mitigation Agreement is developed and implemented
+Page 4 of 7
+
+--- Page 23 ---
+Maryland Department of Transportation
+State Highway Administration
+Agency Response Form
+through the employee’s Senior Manager, signed by the employee, and
+sent to the State Ethics Commission for review and approval.
+The MDOT SHA Ethics Coordinator immediately began the process of
+developing a Non-Participation Plan for the employee identified by the
+Auditors. We learned that the employee’s son no longer works for the
+specific contractor referred to in the audit. However, we were made
+aware that another son of the same employee is working for a different
+snow vendor contractor. The Commission approved a Non-Participation
+Plan on February 14, 2022, which is now in place.
+MDOT SHA made the State Ethics Commission aware of this violation
+as mentioned in the Audit regarding non-compliance of the Non-
+Participation Plan that was in place. The appropriate disciplinary action
+was given to the employee who did not comply with the Non-
+Participation Plan. MDOT SHA updated the Non-Participation plan
+which was approved by the State Ethics Commission on February 14,
+2022. Additionally, we put a Mitigation Agreement in place, which was
+approved by the State Ethics Commission on February 14, 2022, to
+address the relationship between the MDOT SHA employee and his
+nephew, who is the owner of the company that does business with
+MDOT SHA.
+During the Audit, we were made aware of the relationship between the
+MDOT SHA employee and their qualifying relatives, who owns and is
+employed by a firm that does business with MDOT SHA. MDOT SHA
+acted and followed our internal process to develop and implement a
+Non-Participation Plan. MDOT SHA was made aware on August 19,
+2021, that the company no longer does business with MDOT SHA.
+MDOT SHA’s Office of Procurement and Contract Management
+confirmed on August 23, 2021, the company had no active
+procurements. MDOT SHA did not proceed with the Non-Participation
+Plan that was being developed given there were no active procurements
+and/or business relationship with the relative’s company.
+The MDOT SHA Ethics Coordinator and the MDOT SHA
+Organizational Development Division worked with the State Ethics
+Commission to establish training for MDOT SHA which will begin in
+April 2022. This will cover all aspects of the Maryland Public Ethics
+Law including employees who have relationships with vendors or
+vendor employees who are not qualifying relatives to capture these
+Page 5 of 7
+
+--- Page 24 ---
+Maryland Department of Transportation
+State Highway Administration
+Agency Response Form
+relationships under a Mitigation Agreement for State Ethics Commission
+approval.
+Recommendation 3b Agree Estimated Completion Date: 2/15/2022
+Please provide details of MDOT SHA will take corrective action when contractors do not comply
+corrective action or with contract terms through the use of the “Notice of Unsatisfactory
+explain disagreement. Performance Form” and any justifications for waivers of disciplinary
+actions will be documented.
+Page 6 of 7
+
+--- Page 25 ---
+Maryland Department of Transportation
+State Highway Administration
+Agency Response Form
+Information Systems Security and Control
+Finding 4
+Two malware protection controls were not sufficient to provide adequate assurance that
+SHA computers were properly protected from security risks.
+We recommend that SHA
+a. promptly install all critical security-related software updates for commonly vulnerable
+applications on all computers (repeat), and
+b. ensure that all laptop computers are protected by an enabled and properly configured
+host-based firewall (repeat).
+Agency Response
+Analysis
+Please provide None.
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: 9/30/2022
+Please provide details of MDOT SHA will patch all computers to the latest operating system and
+corrective action or to the latest version of our software products. MDOT SHA will ensure
+explain disagreement. compliance and remediate out of date computers and software by
+reviewing vulnerability scans near real time, reviewing monthly
+vulnerability scans, and capturing activities in the reporting system. We
+will apply critical updates on all computers and identify computers that
+failed to get patches.
+Recommendation 4b Agree Estimated Completion Date: 5/1/2022
+Please provide details of MDOT SHA will turn on the configuration to activate “host-based” on
+corrective action or all devices and turn on the privilege level security. This prevents
+explain disagreement. malware from damaging a PC and helps organizations deploy a better-
+managed desktop.
+Page 7 of 7
+
+--- Page 26 ---
+A T
+UDIT EAM
+Raymond G. Burton Jr., CPA, CFE
+Audit Manager
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Manager
+Edward J. Welsh, CFE
+Amanda M. Jones
+Senior Auditors
+Eric Alexander, CPA, CISA
+Information Systems Senior Auditor
+Kareem R. Jackson
+Paul A. McGrew
+Staff Auditors
+Vickey K. Micah
+Information Systems Staff Auditor

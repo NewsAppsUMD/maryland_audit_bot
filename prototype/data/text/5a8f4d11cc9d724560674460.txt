@@ -1,0 +1,1381 @@
+Title: Department of Human Services - Office of the Secretary and Related Units
+Date: 09/12/2017
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d11cc9d724560674460
+Extracted: 2025-06-17T18:56:11.949072
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Department of Human Services
+Office of the Secretary and Related Units
+September 2017
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Name Change and Agency Responsibilities 5
+Organizational Change 5
+Status of Findings From Preceding Audit Report 5
+Findings and Recommendations 6
+Information Technology Contract
+Finding 1 – The Department of Human Services (DHS) did not effectively 6
+administer contract terms and task order activity to ensure the
+reasonableness of vendor proposed services and costs. Task orders
+totaling $8.4 million were issued in excess of the amount authorized,
+without a contract modification, resulting in unfunded liabilities.
+Finding 2 – DHS cancelled an information system modernization 8
+project after paying approximately $10.1 million, including
+approximately $4.8 million that was paid unnecessarily.
+Maryland Legal Services Program
+Finding 3 – DHS guaranteed a minimum compensation to two of the 10
+eight legal firms awarded emergency contracts, resulting in payments
+of approximately $616,000 more than if the firms were paid a
+per-case fee.
+* Finding 4 – DHS did not have adequate procedures to ensure that 11
+payments to legal services firms were proper, and did not follow
+up on deficiencies with the services provided that were noted during
+annual site visits.
+Grant Management
+* Finding 5 – DHS lacked sufficient procedures and accountability over 12
+certain grants.
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Purchasing and Disbursements
+Finding 6 – DHS did not adequately monitor Department-wide user 14
+access to critical functions on the State’s Financial Management
+Information System and did not establish adequate online
+controls over purchase orders.
+Finding 7 – DHS paid $300,000 to a State university for services that 15
+were not provided.
+Federal Funds
+Finding 8 – DHS did not modify its payment rates for residential 15
+rehabilitation services, resulting in the use of State funds to cover
+the cost of services that are potentially eligible for federal
+reimbursement.
+Information Systems Security and Control
+Finding 9 – Sensitive personally identifiable information was 17
+not properly protected by DHS.
+* Finding 10 – Monitoring controls over critical databases were not 18
+sufficient to properly protect these databases.
+Finding 11 – Malware protection for DHS computers and Intrusion 19
+Detection Prevention System coverage for the DHS network was
+not sufficient to properly protect DHS computers and network.
+Electronic Benefits Transfer System
+* Finding 12 – DHS lacked assurance that the Electronic Benefit Transfer 21
+System service provider was properly secured against operational
+and security risks.
+Payroll
+Finding 13 – DHS did not adequately investigate payments to employees 22
+on multiple State payrolls.
+Audit Scope, Objectives, and Methodology 24
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+4
+
+--- Page 7 ---
+Background Information
+Name Change and Agency Responsibilities
+Chapter 205, Laws of Maryland 2017, effective July 1, 2017, changed the name
+of the Department of Human Resources to the Department of Human Services
+(DHS).
+DHS provides intervention services to stabilize families and vulnerable adults,
+encourages financial independence by providing temporary support and transition
+services, and provides for the welfare of children at risk. To deliver these
+services, DHS is organized into seven budgetary units. This audit included the
+operations of the Office of the Secretary, which provides overall direction and
+coordination for all DHS programs and activities; the Operations Office, which
+provides core administrative services to DHS units; and the Office of Technology
+for Human Services, which is responsible for the overall management and
+direction of DHS’ information systems. The remaining four units of DHS are
+audited and reported upon separately.
+According to State records, during fiscal year 2016, expenditures for all of DHS’
+seven budgetary units totaled approximately $2.5 billion, of which the majority
+was for assistance programs such as the Food Supplement Program. For the three
+units included in this audit, the expenditures totaled approximately $126.6 million
+during this period.
+Organizational Change
+Effective July 1, 2015, the grants management duties and responsibilities within
+DHS were reorganized consistent with State budget law. Specifically, prior to
+July 1, 2015, the Office of Grants Management (OGM) was budgeted within
+DHS’ Office of the Secretary and, subsequently, OGM was budgeted within
+DHS’ Family Investment Administration (FIA). The activities of OGM through
+June 30, 2015 were included in this audit. The subsequent activities of OGM will
+be included in a separate audit of FIA.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the nine findings contained
+in our preceding audit report dated June 24, 2014. We determined that DHS
+satisfactorily addressed five of these findings. The remaining four findings are
+repeated in this report.
+5
+
+--- Page 8 ---
+Findings and Recommendations
+Information Technology Contract
+Background
+The Department of Human Services (DHS) contracted with a vendor for the
+period from June 2010 through December 2015 at a total cost of approximately
+$125.4 million to provide computer applications services (such as enhancements
+and changes) to existing DHS information technology systems and programs.
+The contract allowed for two renewal options, the first of which was exercised at
+a cost of approximately $51.5 million through December 2017. The original
+contract and renewal options included two levels of service:
+ Level 1 services were for projects expected to take fewer than 500 hours to
+complete. These services were included in the monthly fixed cost paid to the
+vendor. Payments for Level 1 services during the audit period totaled
+approximately $47 million according to DHS’ records.
+ Level 2 services were for projects expected to take more than 500 hours to
+complete. For these services, DHS solicited a technical proposal from the
+vendor for each task order, including the number of anticipated hours and cost
+to complete each task. Payments for Level 2 services during the audit period
+totaled approximately $30 million according to DHS’ records.
+Finding 1
+DHS did not effectively administer contract terms and task order activity to
+ensure the reasonableness of vendor proposed services and costs. DHS also
+issued $8.4 million in task orders in excess of the amount authorized for fiscal
+year 2015 without a contract modification; the resulting expenditures created
+unfunded liabilities at year-end totaling $4.5 million.
+Analysis
+DHS did not effectively administer contract terms and task order activity
+associated with Level 2 services, resulting in a lack of assurance that services and
+costs proposed by the vendor were reasonable. Furthermore, DHS issued and
+paid for task orders during fiscal year 2015 in excess of the amount authorized
+under the contract without processing a contract modification. The resulting
+excess expenditures for these task orders could not be paid during that year
+because of the lack of an available appropriation, creating unfunded liabilities that
+were not reported during budgetary closeout.
+6
+
+--- Page 9 ---
+The Reasonableness of Task Order Hours and Costs Were Not Assessed
+DHS did not have formal procedures to verify the reasonableness of the employee
+hours and related costs proposed by the vendor to complete each task order. For
+example, in its May 2014 task order to develop a system for DHS consumers to
+use to apply for eligibility benefits and to manage their accounts online, the
+vendor estimated that it would take 12,840 hours at a total cost of $1,551,414
+(average of $121 per hour). This task order and the related contract also included
+the number of proposed personnel, estimated number of hours by labor category
+and project phase, and the maximum labor rates for various positions. DHS
+management personnel advised us that, for this and other task orders, it reviewed
+the task order proposals for reasonableness; however, there was no documentation
+of these reviews nor could DHS explain the methodology used to determine the
+reasonableness of the proposed costs.
+Furthermore, although there was no requirement for the vendor to provide the
+actual hours worked on approved task orders, nor would that information affect
+amounts paid on approved task orders, DHS did not attempt to obtain this
+information to help assess the reasonableness of future task order proposals.
+Vendor Billings Were Not Consistent with Contract Terms
+In March 2012, DHS formally adopted a change in the billing process for level 2
+services, from a deliverables basis to a fixed-price installment basis, that had no
+relationship to the contract deliverables. That is, the total cost of the task order
+was divided into equal monthly payments to be paid by DHS throughout the term
+of the task order, coinciding with DHS’ budgeted funds. This was inconsistent
+with the contract, which required that task orders be billed on a deliverables basis
+so that the vendor was paid when specified deliverables were received and
+accepted. While DHS received weekly status reports detailing the deliverables
+received, the receipt of deliverables did not affect the payments even if
+deliverables were delayed. The failure to make vendor payments on a
+deliverables basis contributed to the losses noted in Finding 2 when a task order
+was cancelled.
+Task Orders Authorized Were Not Monitored
+DHS did not monitor task orders and related expenditures for level 2 services,
+resulting in the issuance of, and payment for, approximately $8.4 million in task
+orders beyond the $10 million authorized in the contract for fiscal year 2015.
+While a maximum of $50 million was authorized for level 2 services in the
+original contract, specific contract provisions limited the maximum for such
+services to $10 million each year. DHS management was not aware that the task
+orders issued had exceeded the amount authorized in the contract until we brought
+this to its attention. Accordingly, DHS did not prepare a contract modification
+7
+
+--- Page 10 ---
+nor did it obtain Board of Public Works approval as required by State
+procurement regulations for contract modifications exceeding $50,000. The
+resulting expenditures exceeded the DHS available fiscal year 2015 appropriation
+by approximately $4.5 million, including an estimated $1.7 million in general
+funds; DHS deferred these expenditures until fiscal year 2016 without disclosing
+the unfunded liability to the Comptroller of Maryland’s General Accounting
+Division (GAD) during the fiscal year 2015 budgetary closeout process, as
+required.
+Recommendation 1
+We recommend that DHS
+a. establish procedures to ensure hours and related rates proposed by the
+vendor on task orders are reasonable,
+b. attempt to obtain documentation of actual hours worked by each vendor
+employee by task order and assess the reasonableness of the hours
+worked in relation to the hours proposed to assist in future task order
+reviews,
+c. ensure that future payments for Level 2 services are made on a
+deliverable basis consistent with contract terms,
+d. monitor task orders authorized to ensure that contracted amounts are not
+exceeded without first obtaining the necessary authorizations and
+entering into contract modifications,
+e. seek retroactive approval from BPW for the aforementioned contract
+modification, and
+f. report all unfunded year-end liabilities to GAD, as required.
+Finding 2
+DHS cancelled an information system modernization project after paying
+approximately $10.1 million, including approximately $4.8 million that was
+paid unnecessarily.
+Analysis
+DHS did not properly plan and administer task order projects, resulting in
+payments totaling approximately $10.1 million towards a $27.6 million
+information system modernization project that was subsequently cancelled. This
+amount included approximately $4 million in payments in excess of the value of
+the work performed because of the payment method used, and approximately
+$781,000 that could have been avoided if the vendor had been timely notified of
+the project cancellation. DHS management advised us that it does not anticipate
+resuming the project; therefore, there is no evidence that the deliverables received
+8
+
+--- Page 11 ---
+for the $10.1 million paid will provide any future benefits to the State. These
+costs were generally shared equally with the federal government.
+In December 2011, DHS issued two task orders valued at approximately $27.6
+million for a project to modernize the Client Automated Resource and Eligibility
+System (CARES), a project that was cancelled in October 2012. DHS
+management advised that the project was cancelled due to the enactment of the
+federal Affordable Care Act (ACA). We question DHS’ decision to initiate this
+project since the ACA had been enacted in March 2010 and the procurement for
+the new health benefit exchange system began in October 2011.
+Furthermore, as noted in our preceding finding, the majority of the $10.1 million
+paid to the vendor under these task orders was made on an installment basis. The
+value of deliverables submitted by the vendor and accepted by DHS during this
+period was approximately $6.1 million. Therefore, notwithstanding the
+cancellation of the project and the questionable value of the deliverables received,
+this installment payment method resulted in DHS paying approximately $4
+million more than if the payments had been based on deliverables.
+Finally, DHS did not formally cancel the project in a timely manner resulting in
+additional costs for the cancelled project. Specifically, while we were informed
+that DHS advised the vendor in October 2012 that the project was cancelled, DHS
+continued to pay the vendor for invoices up to December 2012. In January 2013,
+DHS formally notified the vendor of the cancellation in writing. DHS
+subsequently questioned approximately $1.7 million in vendor payments made
+during this three-month period, and ultimately agreed to allow the vendor to retain
+approximately $781,000.
+Recommendation 2
+We recommend that DHS enhance its planning prior to the issuance of task
+orders and take timely action to cancel tasks to avoid unnecessary costs.
+Maryland Legal Services Program
+Background
+DHS’ Maryland Legal Services Program (MLSP) was created to ensure the
+delivery of quality and effective legal representation in State court to children
+who are victims of abuse or neglect. These legal services are referred to as Child
+in Need of Assistance (CINA) proceedings and Termination of Parental Rights
+(TPR) proceedings. MLSP also provides legal services to indigent adults
+9
+
+--- Page 12 ---
+involved in adult guardianship proceedings. State regulations require DHS to
+contract with legal firms to represent these children and indigent adults.
+During the audit period, DHS attempted to procure a new contract with several
+legal firms to provide these services. However, the procurement was not
+approved by the Board of Public Works for a number of reasons, such as concerns
+with the lack of continuity of care resulting from the procurement of new legal
+firms. To ensure that there would not be a lapse in services, DHS entered into
+emergency contracts with eight incumbent legal firms to represent CINA and TPR
+cases for the period from September 2013 through August 2015 totaling
+approximately $24.5 million.
+Finding 3
+DHR guaranteed a minimum compensation to two of the eight legal firms
+awarded emergency contracts, resulting in payments of approximately
+$616,000 more than if, like the other six firms, they were paid on a per-case
+fee.
+Analysis
+DHS guaranteed a minimum compensation to two of the eight legal firms
+awarded emergency legal services contracts, but did not attempt to maximize the
+cases assigned to these two legal firms. Rather, we were advised by DHS
+management that cases were assigned on a rotating basis to all legal firms in the
+respective jurisdictions. As a result, based on our analysis, during the period from
+September 1, 2013 through August 31, 2015, DHS paid these legal firms
+approximately $616,000 more than if the legal firms were reimbursed on a per-
+case fee, which was the reimbursement method used for the other six firms.
+For example, during this period, one of these legal firms was assigned 2,708 cases
+which, based on its per-case fee of $1,150, would have resulted in total
+compensation of $3,114,200. However, this legal firm was paid $3,520,000
+because of the guaranteed minimum, resulting in excess payments of
+approximately $406,000. The guaranteed minimum compensation for the two-
+year period for the other legal firm was $1,100,000, and we calculated the
+associated excess payments to be $210,000.
+The guaranteed minimum compensation provision for these two firms was not
+included in previous contracts with these firms, and five of the eight firms were
+not offered this provision. The sixth legal firm elected not to take the guaranteed
+minimum compensation provision. DHS could not provide an explanation as to
+why this provision was only offered to three of the firms. We were advised by
+DHS management that the clause for a guaranteed minimum compensation was
+10
+
+--- Page 13 ---
+negotiated by an executive management employee who is no longer employed by
+DHS and that there was no documentation of these negotiations.
+Recommendation 3
+We recommend that in the future, DHS eliminate guaranteed minimums
+from its legal services contracts.
+Finding 4
+DHS did not have adequate procedures to ensure that payments to legal
+services firms were proper, and did not follow up on deficiencies with the
+services provided by the legal firms that were noted during annual site visits.
+Analysis
+DHS did not have adequate procedures to ensure that payments to legal firms
+were proper and did not follow up on deficiencies with the services provided by
+the legal firms that were noted during annual site visits.
+ DHS did not always obtain and review court orders to verify that it was
+legally responsible to provide services for the individuals invoiced by the
+legal firms. Similar conditions regarding DHS not ensuring the propriety of
+payments to legal firms were noted in our two preceding audit reports. In
+response to our prior report, DHS management advised us that it requested the
+firms to provide court orders with their invoices. Subsequently, certain legal
+firms challenged the legality of providing that information and did not comply
+with the request.
+Instead, for three larger jurisdictions, DHS obtained information directly from
+the courts to verify it was legally responsible for providing the services for
+these individuals. However, our test of 10 fiscal year 2014 and 2015 invoices,
+totaling approximately $2.2 million, from legal firms which provided services
+in these three jurisdictions, disclosed that, for 3 of the invoices totaling
+approximately $329,000, the verifications were not signed and dated and DHS
+could not document that it sighted the court records for all individuals on the
+invoice. For example, one invoice included charges totaling $18,400 for
+services provided to 16 individuals in one jurisdiction. However, our review
+of the court records disclosed that one of these individuals had actually
+received authorized legal services from the same firm in another jurisdiction.
+For the remaining 21 jurisdictions, DHS only verified the propriety of a
+limited selection of individuals invoiced by reviewing the court orders during
+annual site visits to the legal firms. Subsequently, we were advised that DHS
+11
+
+--- Page 14 ---
+modified its contracts to require the legal firms to submit documentation to
+substantiate each individual receiving services.
+ DHS did not follow up on deficiencies noted during annual site visits of each
+legal firm. These visits were performed to ensure legal firms were providing
+the required number of hours for each case, attorneys had a sufficient number
+of contacts with the clients, the attorney/client ratio was reasonable, and the
+overall quality of the services performed was adequate, as provided for by the
+contract.
+Our test of one site visit for each of the eight legal firms disclosed that three
+legal firms did not respond to DHS’ requests for information to support that
+services were provided, and DHR did not take any follow-up action. For
+example, on one site visit, DHS noted that there were “significant
+concerns/issues” including a lack of documentation that required client visits
+were conducted. DHS requested evidence of the client visits, but did not
+receive the requested information and did not take follow-up action to pursue
+the missing information, such as by withholding payments. As a result, there
+was a lack of assurance that the legal firms complied with contract
+requirements.
+Recommendation 4
+We recommend that DHS
+a. ensure that all payments made to legal firms are only for individuals for
+whom DHS is responsible to provide legal services (repeat); and
+b. follow up with the legal firms when deficiencies are identified during site
+visits, including those noted above and, in consultation with the Office of
+the Attorney General, take appropriate action such as by withholding
+payments when firms do not comply with contract provisions.
+Grants Management
+Finding 5
+DHS lacked sufficient procedures and accountability over certain grants.
+Analysis
+DHS lacked sufficient procedures and accountability over certain grants. DHS’
+Office of Grants Management provides funding to a network of community and
+faith-based organizations, local departments of social services, and State and local
+agencies. According to State records, grant payments totaling approximately
+12
+
+--- Page 15 ---
+$17.9 million were made to numerous grantees in various programs relating to
+homelessness, hunger, and community initiatives during fiscal year 2015.
+ DHS did not verify that certain grant funds were spent as intended. Our test
+of 15 disbursements made during fiscal year 2015 totaling approximately $4.4
+million related to 8 grantees under four grant programs (including Feeding
+Maryland and Emergency Transitional Housing Services) disclosed that DHS
+did not obtain sufficient supporting documentation for any of these
+disbursements. Although the grant agreements required grantees to provide
+expenditure reports on a regular basis, DHS did not require grantees to
+provide supporting documentation, such as food and hotel receipts, so that the
+reports could be verified.
+ DHS did not recover Maryland Emergency Food Program (MEFP) grant
+funds when grantees did not provide documentation that grant funds were
+used as intended. MEFP grant payments totaled approximately $969,000
+during fiscal year 2015. DHS conducted a review of a selection of grantees
+and identified 12 MEFP grantees with fiscal year 2015 grant expenditures
+totaling $36,000 that could not support the propriety of expenditures totaling
+$28,900. As of February 24, 2016, DHS had not made any attempt to collect
+the unsupported grant funds.
+Since DHS did not review all grantees to identify unsupported grant funds,
+additional grantees could have similar amounts due to the State. Our test of 7
+other 2015 MEFP grants with grant awards totaling $99,000 disclosed that
+DHS could not provide support for $31,400 in grant funds for 3 grantees. The
+MEFP funds are advanced at the beginning of the fiscal year and grantees are
+required to submit documentation to support the proper use of the funds (that
+is, for the purchase of food) and return any unused funds to DHS.
+Similar conditions regarding the failure to verify that grant funds were used as
+intended were commented upon in our two preceding audit reports.
+Recommendation 5
+We recommend that DHS
+a. independently verify, at least on a test basis, that grant funds are spent as
+intended (repeat); and
+b. recover grant funds when the grantee does not provide documentation to
+support that grant funds were used as intended, including those noted
+above.
+13
+
+--- Page 16 ---
+Purchasing and Disbursements
+Finding 6
+DHS did not adequately monitor Department-wide user access to critical
+functions on the State’s Financial Management Information System (FMIS)
+and did not establish adequate online controls over purchase orders.
+Analysis
+DHS did not adequately monitor user access to critical functions on the State’s
+FMIS and did not establish adequate online controls over purchase orders.
+According to State records, during fiscal year 2015, DHS used FMIS to process
+approximately $409 million in expenditures (excluding $1.6 billion in grants that
+were generally interfaced from CARES and would not be impacted by this
+finding). DHS’ FMIS Support Unit (FSU) is responsible for monitoring the
+Department-wide FMIS access capabilities of all DHS employees.
+Our review disclosed that FSU did not follow up with DHS units who did not
+respond to monthly confirmations of user access. FSU sent monthly reports of
+FMIS users and their assigned access capabilities to each of DHS’ 50 FMIS units
+for review. The units were required to respond to FSU indicating whether access
+assigned to each of the employees listed on the report was appropriate based on
+assigned job duties. Our test of these reports for six months between October
+2014 and August 2015 disclosed that between 14 and 19 units did not respond
+each month, including 16 units that did not respond to three or more monthly
+requests and 8 units that did not respond to any monthly requests. FSU did not
+follow up with any of these units to determine if the access was proper.
+DHS also did not establish adequate online approval requirements over purchase
+orders which, according to State accounting records, totaled approximately $210
+million during fiscal year 2015. Specifically, four Office of the Secretary
+employees could initiate and approve purchase orders without independent
+approvals. While our review disclosed that these four employees did not use this
+capability during fiscal year 2015, the possibility exists that unauthorized
+purchases could be made without detection.
+Recommendation 6
+We recommend that DHS
+a. follow up with units that do not respond to the monthly employee access
+reports, and
+b. use the available FMIS security features to establish independent online
+approval requirements for all purchasing transactions.
+14
+
+--- Page 17 ---
+Finding 7
+DHS paid $300,000 to a State university for services that were not provided.
+Analysis
+DHS paid a State university for services that were not provided. In July 2015,
+DHS and a State university entered into an agreement for the university to
+upgrade a power system at one of the university’s buildings that DHS used as an
+emergency shelter. The agreement specified that the university would provide
+DHS with detailed documentation to support labor and equipment costs, not to
+exceed $300,000, and documentation of an inspection to ensure that the upgraded
+system was in good working order. In August 2015, DHS paid the State
+university’s invoice for the full $300,000 but, as of March 2017, the upgrades had
+not been performed. DHS management could not explain why it paid the invoice
+without ensuring the services were performed.
+Recommendation 7
+We recommend that DHS
+a. ensure that the University provides the aforementioned power system
+upgrades or recover the funds paid; and
+b. in the future, obtain documentation to ensure services are performed
+prior to payment.
+Federal Funds
+Finding 8
+DHS did not modify its payment rates for residential rehabilitation services,
+resulting in the use of State funds to cover the cost of services that are
+potentially eligible for federal reimbursement.
+Analysis
+As a member of the State’s Rate Setting Reform Stakeholders Workgroup,1 DHS
+did not revise its rates paid for residential rehabilitation services, as recommended
+by a federal audit. This precluded federal reimbursement of those costs under
+Medicaid, and resulted in the use of State funds for services that are potentially
+eligible for federal reimbursement. According to State records, DHS received
+federal fund reimbursements totaling approximately $20.7 million in fiscal year
+1 The Workgroup was created under the State’s Interagency Rates Committee. The State’s
+Interagency Rates Committee was established to improve the rate-setting process for residential
+child care and comprises the Maryland Department of Health and the Departments of Human
+Services, Juvenile Services, Budget and Management, and Education, as well as the Governor’s
+Office of Children.
+15
+
+--- Page 18 ---
+2015 under the Medical Assistance program (Medicaid) for residential
+rehabilitation services.
+In its August 2011 audit report on the State’s Medicaid claims, the U.S.
+Department of Health and Human Services (HHS) concluded that the State’s use
+of a flat per diem rate for Medicaid claims for all residential rehabilitation
+services from October 1, 2005 through September 30, 2007, regardless of the
+specific services received by each client, made it unclear whether such services
+were eligible for Medicaid reimbursement. These Medicaid claims were for
+residential rehabilitation services costs incurred by the Department of Human
+Services and the Department of Juvenile Services. In response to the HHS audit
+report recommendations, the Maryland Department of Health, which administers
+the State’s Medicaid program, agreed to pursue changes to the State’s
+methodology for setting per diem rates for residential rehabilitation services and
+to ensure claims were properly documented in accordance with that methodology.
+This issue was referred to the State’s Rate Setting Reform Stakeholders
+Workgroup in the fall of 2011. The Workgroup determined that most services
+included in the per diem rates, such as room and board and recreation, were not
+Medicaid-covered services. Therefore, the Workgroup concluded that the small
+portion of Medicaid-covered services (such as mental health counseling by a
+licensed clinical social worker) should be recovered directly by the providers as
+fee-for-service claims and a reduced State per diem rate should be established for
+the non-Medicaid eligible services.
+However, as of March 2017, DHS and the Workgroup had made limited progress
+in determining a new reduced per diem rate for the non-Medicaid eligible
+services. Effective July 1, 2015 DHS is no longer recovering any federal funds
+for residential rehabilitation services and continues to pay providers using the
+original per diem rate methodology. As a result, costs associated with these
+services that are eligible for Medicaid reimbursement are now being funded solely
+by the State’s General Fund. DHS was unable to provide us with an estimate of
+the amounts that have not been recovered.
+Recommendation 8
+We recommend that DHS
+a. as a member of the Rate Setting Reform Stakeholders Workgroup,
+ensure that a methodology is established for a per diem residential
+rehabilitation services rate that includes only non-Medicaid services, and
+that Medicaid-eligible services are billed separately by the providers as
+fee-for-service claims; and
+16
+
+--- Page 19 ---
+b. determine the feasibility of identifying and recovering allowable
+Medicaid-eligible services costs and pursue retroactive federal
+reimbursement.
+Information Systems Security and Control
+Background
+The DHS Office of Technology for Human Services (OTHS) is responsible for
+the overall management and direction of DHS’ information systems. These
+systems include critical applications such as the mainframe-based Clients’
+Automated Resource and Eligibility System (CARES), the mainframe-based
+Child Support Enforcement System (CSES), and the server-based Children’s
+Electronic Social Services Information Exchange (CHESSIE).
+These systems are used to provide eligible individuals public assistance, food
+subsidies, child support payments, and foster care payments. Maintenance and
+operation of these information systems are provided by a combination of
+outsourced services and DHS personnel. OTHS operates both an internal network
+at DHS’ headquarters and a wide area network which connects to DHS’ locations
+throughout the state. Additionally, DHS obtains Internet and Statewide
+Government Intranet connectivity from networkMaryland.
+Finding 9
+Sensitive personally identifiable information (PII) was not properly protected
+by DHS.
+Analysis
+Sensitive PII was not properly protected by DHS. Specifically, we noted that
+sensitive PII was stored in several databases in clear text. For example, we noted
+that as of August 10, 2016, a table in one of these databases contained sensitive
+PII for 1,605,558 unique individuals in clear text. This included the individuals’
+full names, social security numbers, and dates of birth. In addition, we
+determined that this sensitive PII was not protected by other substantial mitigating
+controls. Finally, although DHS had generated an inventory of its PII, DHS
+advised that it had not reviewed this inventory to identify and remove unnecessary
+PII records.
+This PII, which is commonly associated with identity theft, should be protected by
+appropriate information system security controls. The State of Maryland
+Information Security Policy requires each agency to protect confidential data
+using encryption technologies and/or other substantial mitigating controls.
+17
+
+--- Page 20 ---
+Recommendation 9
+We recommend that DHS
+a. review its inventory of PII and determine if it is necessary to retain the
+PII and delete all unnecessary PII; and
+b. for remaining PII, properly protect such PII by encryption or other
+substantial mitigating controls.
+Finding 10
+Monitoring controls over the CARES, CSES, and CHESSIE databases were
+not sufficient to properly protect these databases.
+Analysis
+Monitoring controls over the CARES, CSES, and CHESSIE databases were not
+sufficient to properly protect these databases.
+ Although direct modifications to numerous tables in the CARES and CSES
+databases were logged, direct modifications to numerous tables in 17 separate
+databases and direct modifications made by 15 individuals were not included
+in a critical security report used to review such modifications.
+ DHS had not logged any critical database security and audit events for the
+CHESSIE database until September 2015. In addition, the logging initiated in
+September 2015 did not include certain events such as those generated by
+database administrators. Furthermore, DHS advised that it regularly
+generated reports of these logged activities and performed reviews and
+investigations of events recorded on these reports; however, there was no
+documentation supporting these reviews and investigations. Similar
+conditions were commented upon in our preceding audit report.
+The State of Maryland Information Security Policy states that information systems
+must generate audit records for all security-relevant events and procedures must
+be developed to routinely review audit records for indications of unusual
+activities, suspicious activities, or suspected violations, and report findings to
+appropriate officials for prompt resolution.
+Recommendation 10
+We recommend that DHS
+a. include all direct modifications to CARES and CSES database tables in
+the critical security report used to review such modifications; and
+b. log all critical CHESSIE database security and audit events, generate
+reports of these events, review these reports on a timely basis, and
+18
+
+--- Page 21 ---
+document these reviews and any investigations with the documentation
+retained for future reference (repeat).
+Finding 11
+Malware protection for DHS computers and Intrusion Detection Prevention
+System (IDPS) coverage for the DHS network were not sufficient to properly
+protect DHS computers and network.
+Analysis
+Malware protection for DHS computers and IDPS coverage for the DHS network
+were not sufficient to properly protect DHS computers and network.
+ DHS did not ensure, on an ongoing basis, that malware protection software
+was installed, up-to-date, and operational on all of its computers. DHS
+utilized an automated malware protection console to manage the malware
+protection software installed on its computers. However, we identified 1,691
+computers (out of 10,870 active DHS computers) that were not listed on the
+console as of June 2016.
+ Numerous workstations were configured with users having administrative
+rights. Administrative rights should be provided only to network and system
+administrators and select others since these rights are the highest permission
+level that can be granted to users and allows users to install software and
+change configuration settings. Our test of 78 workstations disclosed that 37
+user accounts had been provided administrative rights on their workstation.
+We were advised by central DHS IT staff that documentation was not readily
+available for assessing the propriety of the assigned administrative rights for
+these 37 workstations. As such, central DHS IT staff lacked assurance that
+the assigned administrative rights were necessary. Accordingly, if these 37
+workstations used by accounts with administrative rights were infected with
+malware, the malware would run with administrative rights and expose these
+workstations to a greater risk of compromise than if the workstations’ user
+accounts operated with only user rights. In addition, users with administrative
+rights could disable the malware protection software on their workstations.
+ Effectively there was no IDPS protection for the DHS network. Specifically,
+we noted that the three network-based IDPS devices employed by DHS were
+set to detect and report rather than block identified malicious traffic.
+However, the potentially malicious traffic identified by two of these three
+devices was never received by the appliance responsible for reporting such
+traffic and the reports generated for the third device were of a summary nature
+19
+
+--- Page 22 ---
+and did not contain the detailed information necessary to identify and
+investigate potential network intrusions.
+Recommendation 11
+We recommend that DHS
+a. ensure that malware protection software is installed and operational on
+all of its computers;
+b. ensure that administrative rights on workstations are restricted to
+network and system administrators and other select users requiring such
+rights with justification for assignment of such rights documented and
+retained centrally for future reference;
+c. configure its network-based IDPS devices to prevent high-risk,
+potentially malicious traffic from entering the network and log and
+report all lower-risk traffic; and
+d. regularly generate detailed reports of logged IDPS security events, review
+these reports, and investigate unusual or suspicious items on these
+reports, with such reviews and investigations being documented and
+retained for future reference.
+Electronic Benefits Transfer System
+Background
+DHS contracted with a service provider to implement, operate, and maintain a
+web-based Electronic Benefits Transfer System (EBTS) for the State of
+Maryland’s Temporary Cash Assistance and Food Supplement Programs. The
+EBTS provides cardholders with access (through a user ID and password) to their
+cash benefits as well as to perform administrative functions such as report a card
+lost or stolen, change a PIN, and request a replacement card. The most recent
+contract that was executed with the incumbent vendor covered an initial period
+from January 1, 2015 to June 30, 2019, with a cost not to exceed approximately
+$12.3 million through June 2019. The contract included two optional renewal
+periods (of two years each), which could extend the contract through June 30,
+2023.
+20
+
+--- Page 23 ---
+Finding 12
+DHS lacked assurance that the EBTS service provider was properly secured
+against operational and security risks.
+Analysis
+DHS lacked assurance that the EBTS service provider was properly secured
+against operational and security risks. Specifically, the only independent review
+of controls obtained subsequent to our prior audit did not address key security
+controls and no other reports were obtained to cover subsequent periods, even
+though they were contractually required. The most recent contract between DHS
+and the service provider required the provider to engage an independent auditing
+firm to conduct Service Organization Controls (SOC) reviews (both a SOC 1 and
+SOC 2 reviews) and report annually.
+ The service provider procured an independent review over its EBTS service to
+be performed in accordance with the American Institute of Certified Public
+Accountants’ Statement on Standards for Attestation Engagement 16 and
+received a SOC 1 Type 2 report dated August 31, 2015 for the period August
+1, 2014 through June 30, 2015. However, this was the only independent
+review of controls obtained subsequent to our prior audit. In addition, the
+SOC 1 report did not address several key security controls necessary for the
+EBTS service, which would have been addressed under a SOC 2 review. For
+example, we noted that the SOC 1 report, which is generally used in
+connection with financial statement reporting, did not state that vulnerability
+scanning and patch management policies and procedures existed and had been
+implemented or that intrusion detection, malware prevention, and antivirus
+protection had been implemented. Furthermore, the SOC 1 report did not
+stipulate that disaster recovery and business continuity policies, processes, and
+procedures existed and had been regularly tested. Similar conditions related
+to the SOC 1 report were commented upon in our preceding audit report.
+ As of December 13, 2016, the service provider had not obtained the
+contractually required SOC 2 Type 2 review and report which could have
+addressed the aforementioned security controls.
+The American Institute of Certified Public Accountants has issued guidance
+concerning examinations of service providers. Based on this guidance, service
+providers (like the aforementioned service provider) may contract for an
+independent review of controls and resultant independent auditor’s report referred
+to as a SOC report. There are several types of SOC reports, with varying scopes
+and levels of review and auditor testing. A SOC 2 Type 2 report contains the
+service organization’s description of its system and the results of the auditor’s
+21
+
+--- Page 24 ---
+examination of the suitability of the system design, operating effectiveness for the
+period under review, and any evaluation of system security, availability,
+processing integrity, confidentiality, and privacy.
+Recommendation 12
+We recommend that DHS
+a. ensure that the service provider complies with the contract and obtains
+all required independent reviews, including a SOC 2 Type 2 review that
+addresses all critical control provisions relating to security, availability,
+and other concerns for the EBTS contract; and
+b. review copies of these SOC 2 Type 2 reports and determine if the related
+independent reviews adequately address the aforementioned security
+concerns over DHS’ use of EBTS services, ensure that the service
+provider implements all critical recommendations made in the reports,
+document these efforts, and retain the documentation for future reference
+(repeat).
+Payroll
+Finding 13
+DHS did not adequately investigate payments to employees on multiple State
+payrolls.
+Analysis
+DHS did not investigate employees appearing on the Comptroller of Maryland –
+Central Payroll Bureau’s (CPB) quarterly reports of employees on multiple State
+payrolls (that is, employees who worked for both DHS and another State agency).
+DHS management advised us that DHS did not review the quarterly CPB reports
+and, instead, reviewed biweekly CPB reports of newly hired DHS employees with
+possible secondary employment. Because the biweekly reports only included
+newly hired employees, this review was not sufficient. Furthermore, DHS
+management advised us that the reviews were only performed on a test basis and
+were not documented.
+An adequate review of dual employment of all employees ensures that employees
+are not recording overlapping hours on their timesheets for both State agencies.
+For example, it came to the attention of the DHS Office of the Inspector General
+that an employee falsely recorded on the employee’s timesheet that the employee
+was working for DHS when the employee was actually teaching a course at a
+State university. This allegation did not result from DHS’ review of dual
+employment reports. The DHS Office of the Inspector General estimated that the
+22
+
+--- Page 25 ---
+employee received between $2,000 and $2,600 in pay from DHS during fiscal
+year 2013 while teaching courses at the university. The employee was terminated
+in 2014. Our review of four quarterly dual employment reports in fiscal year
+2013 disclosed that this employee was listed as working at both DHS and the
+university.
+During fiscal year 2015, based on State records, 61 DHS employees received
+payments totaling approximately $1.2 million from both DHS and other State
+agencies (including other DHS units) during the same pay periods. The payments
+to these employees do not necessarily indicate a problem since the employees
+may not have recorded overlapping work hours at both agencies. In this regard,
+our review of five employees for five pay periods with earnings totaling
+approximately $17,000 did not identify any overlapping hours.
+CPB has directed State agencies to investigate all employees appearing on the
+quarterly reports to ensure that the employees were not claiming the same work
+hours for multiple jobs during the same periods. According to the State’s records,
+during fiscal year 2015, DHS’ payroll expenditures totaled approximately $493
+million.
+Recommendation 13
+We recommend that DHS
+a. use quarterly reports provided by CPB to investigate all employees on
+multiple payrolls, and
+b. retain documentation to support these investigative efforts.
+23
+
+--- Page 26 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Department of Human
+Services and related units (DHS) for the period beginning August 13, 2012 and
+ending August 30, 2015. The audit was conducted in accordance with generally
+accepted government auditing standards. Those standards require that we plan
+and perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings
+and conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DHS’ financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included electronic benefit transfers, grants, federal funds,
+legal services, purchases and disbursements, corporate purchasing cards,
+information systems security and control, and payroll. Our audit included various
+support services (such as payroll, purchasing, maintenance of accounting records,
+and related fiscal functions) provided by DHS’ Office of the Secretary and related
+units to the other units of DHS. We also determined the status of the findings
+contained in our preceding audit report.
+Our audit did not include an evaluation of internal controls over compliance with
+federal laws and regulations pertaining to federal financial assistance programs
+and as assessment of DHS’ compliance with those laws and regulations because
+the State of Maryland engages an independent accounting firm to annually audit
+such programs administered by State agencies, including DHS.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+DHS’ operations, and tests of transactions. Generally, transactions were selected
+for testing based on auditor judgment, which primarily considers risk. Unless
+otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+24
+
+--- Page 27 ---
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during the
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+DHS’ management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DHS’ ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to DHS that did not warrant inclusion in this report.
+DHS’ response to our findings and recommendations is included as an appendix
+to this report. As prescribed in the State Government Article, Section 21224 of
+the Annotated Code of Maryland, we will advise DHS regarding the results of our
+review of its response.
+25
+
+--- Page 29 ---
+Finding 1
+DHS did not effectively administer contract terms and task order activity to
+ensure the reasonableness of vendor proposed services and costs. DHS also
+issued $8.4 million in task orders in excess of the amount authorized for fiscal
+year 2015 without a contract modification; the resulting expenditures created
+unfunded liabilities at year-end totaling $4.5 million.
+Recommendation 1
+We recommend that DHS
+a. establish procedures to ensure hours and related rates proposed by the
+vendor on task orders are reasonable,
+b. attempt to obtain documentation of actual hours worked by each vendor
+employee by task order and assess the reasonableness of the hours
+worked in relation to the hours proposed to assist in future task order
+reviews,
+c. ensure that future payments for Level 2 services are made on a
+deliverable basis consistent with contract terms,
+d. monitor task orders authorized to ensure that contracted amounts are not
+exceeded without first obtaining the necessary authorizations and
+entering into contract modifications,
+e. seek retroactive approval from BPW for the aforementioned contract
+modification, and
+f. report all unfunded year-end liabilities to GAD, as required.
+DHS concurs with these recommendations:
+a. DHS has implemented a task order review process. In this process a vendor
+will submit a formal time and cost estimate for requested scope of work.
+An internal DHS Review Team is convened to review the estimate.
+Historical project analysis along with subject matter knowledge
+assessments are used to ensure that the estimate is reasonable and in sync
+with the scope of work. The DHS internal review results are then compared
+to the vendors through independent estimation process results for
+commonality and alignment.
+In addition, under the Agile Safe methodology time and costs estimates
+have been replaced by user story estimating which is conducted by the Agile
+teams. Accordingly, as projects are migrated into the Agile arena from
+Waterfall, traditional time and cost estimates will no longer be pursued or
+used by DHS. DHS will continue to reference and monitor time and cost
+estimates for those Waterfall projects currently underway.
+b. To further provide governance, monitoring and oversight over actual hours
+worked by the vendor DHS is utilizing the project management tool,
+
+--- Page 30 ---
+Version One. Version One is used in conjunction with vendors to track all
+hours against the actual work and task orders assigned. The hours for work
+within Version One are reviewed and signed off for approval on a weekly
+basis.
+c. DHS understands and accepts that installment payments should no longer
+be permitted on the Application Maintenance/Operations and Enhancement
+Services Contract and will ensure that level 2 service payments for waterfall
+projects are made on a deliverable basis. As previously stated, Agile
+projects will be estimated via user stories by the Agile teams.
+d. DHS tracks and monitors all authorized task orders. The DHS PMO
+(Project Management Officer) review invoices on a monthly basis against
+funding allocation. In certain instances, encumbered funds have also been
+assessed to provide a comprehensive view of DHS available funds.
+e. DHS concurs with this recommendation.
+f. Any year-end liabilities will be reported to GAD.
+Finding 2
+DHS cancelled an information system modernization project after paying
+approximately $10.1 million, including approximately $4.8 million that was
+paid unnecessarily.
+Recommendation 2
+We recommend that DHS enhance its planning prior to the issuance of task
+orders and take timely action to cancel tasks to avoid unnecessary costs.
+DHS concurs with this recommendation:
+DHS has taken steps to address this issue and therefore, concurs with this
+recommendation. DHS tracks and monitors all costs associated with task orders.
+DHS has incorporated a task order vetting process by way of the DHS IT Advisory
+Council. The Council which is comprised of the DHS Deputy Secretaries and
+various Program Executive Directors, meet monthly to review and approve
+proposed task orders. In addition to this governing body, task orders are reviewed
+by DHS internal teams along with the vendor on a weekly basis.
+
+--- Page 31 ---
+Finding 3
+DHS guaranteed a minimum compensation to two of the eight legal firms
+awarded emergency contracts, resulting in payments of approximately
+$616,000 more than if, like the other six firms, they were paid on a per-case
+fee.
+Recommendation 3
+We recommend that in the future, DHS eliminate guaranteed minimums
+from its legal services contracts.
+DHS disagrees with this finding:
+After DHS failed to obtain the approval of the CINA contracts by the Board of
+Public Works in August 2013, BPW directed the Department to enter into
+emergency contracts. DHS senior management engaged in negotiations in order to
+obtain the emergency contracts, which resulted in continuation of legal services for
+children with no disruption in services. The two contractors provided legal services
+for several thousand children under the emergency contracts.
+Maintaining stability was of paramount importance to the Department and a failure
+to reach an agreement with the seven vendors would have resulted in upheaval for
+approximately 16,364 children and the risk of children losing statutorily mandated
+counsel. Inevitably, cases would have to be delayed, in order for new attorneys to
+be assigned. Continuity of representation was a priority of concern for the Board
+of Public Works. DHS determined that providing stability and continuity of
+representation for approximately 16,324 vulnerable children was priority and
+engaged in negotiated contracts with the incumbent legal service providers.
+Further, the Department determined that maintaining the calendar system, which
+was created for the jurisdictions with multiple contractors in 2007, was appropriate,
+as it had been established by the ranking of vendors which occurred in the 2007
+contract awards.
+DHS also believes that the OLA analysis is incorrect. The contract language relied
+upon by OLA is as follows, “[P]ayment to the Contractor pursuant to this Contract
+shall be at the rate provided in the Pricing Proposal of [amount] Dollars per case
+per year or a guaranteed minimum of [amount] per Contract year. Any amount in
+excess of the minimum dollar amount each year, shall be billed at the per-case rate.”
+The contract required the contractor to elect to either select to invoice the
+Department at the price per-case rate or select the guaranteed minimum dollar
+amount. Two of the contractors elected to invoice the Department the fixed price
+option (guaranteed minimum) and invoiced the Department for one twelfth of the
+amount for each year of the two (2) year emergency contract. The two contractors
+
+--- Page 32 ---
+were paid only the guaranteed minimum amount provided in their respective
+contracts. The two contractors provided legal services for three thousand four
+hundred sixty six (3466) children in a total of five (5) jurisdictions during the 2 year
+contract period. The average cost per case was $1459, which was not the highest
+cost per case paid to all of the incumbent CINA contractors. The price per case
+ranged from $700 to $1688 for all of the incumbent CINA contractors.
+One contractor elected to invoice the Department using the price per case amount
+and invoiced the Department at the per-case rate each month during the two (2)
+year emergency contract. That contractor provided legal services for nine hundred
+ninety five (995) children and was paid the agreed upon case rate for each child.
+Thus, the contractors provided high quality representation for the children at a
+reasonable rate.
+It should be noted that DHS has subsequently completed a new procurement for
+these services. The new contracts do not include any guaranteed minimums.
+Auditor’s Comment: Although DHS contends that the report analysis is
+incorrect, no information is provided in its response that contradicts the
+audit report analysis. As stated in the finding, DHS guaranteed minimum
+compensation to two firms providing legal services but did not maximize
+cases assigned to them, resulting in higher payments to these two firms.
+The remaining six firms were paid on a per-case basis, five of which were
+not offered the guaranteed minimum compensation option. Nevertheless,
+DHS states that the recommendation has been implemented.
+Finding 4
+DHS did not have adequate procedures to ensure that payments to legal
+services firms were proper, and did not follow up on deficiencies with the
+services provided by the legal firms that were noted during annual site visits.
+Recommendation 4
+We recommend that DHS
+a. ensure that all payments made to legal firms are only for individuals for
+whom DHS is responsible to provide legal services (repeat); and
+b. follow up with the legal firms when deficiencies are identified during site
+visits, including those noted above and, in consultation with the Office of
+the Attorney General, take appropriate action such as by withholding
+payments when firms do not comply with contract provisions.
+
+--- Page 33 ---
+a. DHS concurs with the recommendation, but disagrees with the repeat status
+of this recommendation. Specifically, the prior audit recommendation
+stated “verify that payments made to legal firms are only for individuals for
+whom DHS is responsible to provide legal services (for example, require
+legal firms to submit copies of the court orders appointing the firm as the
+representative).
+At the time of that earlier finding, the original contracts with the legal
+services providers did not require the submission of the supporting
+documentation as a part of the invoice submissions. However, MLSP
+modified all contracts to include the submission of appointment orders and
+documentation of billable events. As of September 1, 2016, all CINA/TPR
+and Adult Guardianship contracts require the submission of an appointment
+order and documentation that a billable event occurred, for each case that is
+invoiced. Therefore, DHS has complied with this portion of the
+recommendation.
+Regarding the test of 11 invoices, MLSP informed OLA that two (2) MLSP
+staff members were assigned to compare the invoices with the court issued
+reports, the MLSP Director and the MLSP contract monitor. Furthermore,
+in response to the prior audit, MLSP established a process to perform an in-
+depth review of 20% of the invoices. The 20% invoice review represented
+a risk based approach, as the review included the three largest multiple
+vendor jurisdictions. The three jurisdictions generated approximately 50%
+of all monies paid under the CINA contracts. The 20% review was also
+based on verbal advice provided by OLA during the prior audit indicating
+that a 20% audit of invoices would be sufficient to resolve the audit finding.
+During this current (2012-2015) audit cycle, OLA management stated that
+while there was no legal authority or best practice to determine the
+percentage of invoices that should be reviewed, and therefore OLA would
+not remove the audit finding unless DHS conducted 100% review of all
+invoices, in a timely fashion. OLA management indicated that it would not
+define a timeframe within which the review must occur to be considered
+“timely”.
+DHS has subsequently introduced new processes that will allow for a 100%
+review of invoices, including appointment orders and court orders.
+Auditor’s Comment: DHS contends that OLA provided advice
+during the preceding audit that a 20 percent review of invoices
+would be sufficient; however, OLA has no record of providing this
+advice. Also, DHS contends that, during the current audit, OLA
+management stated there is no legal requirement or best practice to
+determine the percentage of invoices to review. The review of all
+
+--- Page 34 ---
+invoices prior to payment is a fundamental internal control practice
+that should be implemented to mitigate the risk of improper
+payments, which DHS has agreed to do.
+b. DHS concurs with this recommendation. DHS/MLSP restructured the
+contract monitoring process requiring timely follow to material/significant
+deficiencies relative to contractual provisions. Additionally, MLSP
+developed and implemented standard operating procedures specifically
+with respect to obtaining appropriate supporting documentation and
+maintaining concise and comprehensive reports.
+Grants Management
+Finding 5
+DHS lacked sufficient procedures and accountability over certain grants.
+Recommendation 5
+We recommend that DHS
+a. independently verify, at least on a test basis, that grant funds are spent as
+intended (repeat); and
+b. recover grant funds when the grantee does not provide documentation to
+support that grant funds were used as intended, including those noted
+above.
+DHS concurs with this recommendation:
+a. In Fiscal Year 2016, FIA developed comprehensive guidelines regarding
+the use of MEFP funds, and instructions for submitting documentation to
+verify that the funds were expended on allowable activities. The new
+guidelines include instructions on how to submit quarterly activity reports,
+proof of expenditures (receipts), and keeping record of expenses for audit
+and monitoring purposes.
+FIA uses smart sheets as a tracking tool to document the submission of
+activity reports including proof of MEFP expenditures. This tool is also
+used to schedule and track monitoring visits. OIG was given access to this
+tool in April 2015.
+Site Monitoring Visits are used to verify that grant funds are spent as
+intended. These visits are conducted on an annual basis. As of this fiscal
+year (FY18), the legislative requirement for visits was amended to include
+annual visits for those Emergency Food Organizations that receive over
+
+--- Page 35 ---
+$6,000.00. Visits are also conducted for organizations that appear to be
+having problems, new EFOs and those that have not received a visit in a
+year or two.
+In addition, grantees are required to submit quarterly reports that include
+receipts to document purchases related to MEFP. FIA staff reviews these
+records to ensure that MEFP funds were used for the intended purpose.
+b. The FIA MEFP Coordinator reviews 100% of MEFP receipts submitted by
+the grantees as part of the quarterly reports. If there are non-food items
+identified on the receipts, the Coordinator notifies the grantee, in writing,
+that such purchases will not be counted toward the allotted MEFP funds. If
+a particular Grantee has not expended MEFP funds by the end of the state
+fiscal year, FIA asks that the balance be returned to the State. Grantees that
+fail to respond are referred to Central Collections. FIA tracks returned
+funds.
+Purchasing and Disbursements
+Finding 6
+DHS did not adequately monitor Department-wide user access to critical
+functions on the State’s Financial Management Information System (FMIS)
+and did not establish adequate online controls over purchase orders.
+Recommendation 6
+We recommend that DHS
+a. follow up with units that do not respond to the monthly employee access
+reports, and
+b. use the available FMIS security features to establish independent online
+approval requirements for all purchasing transactions.
+DHS concurs with this recommendation:
+The unit responsible for monitoring FMIS access will track responses from agency
+managers who review monthly security reports.
+Financial Management Information System (FMIS) security profiles for all of the
+cited employees have been corrected. Agency managers review monthly FMIS
+security reports, and training is being provided to assist managers with those
+reviews. Also, supplemental ad hoc reports are being used by the FMIS Support
+Unit to identify inappropriate system access.
+
+--- Page 36 ---
+Finding 7
+DHS paid $300,000 to a State university for services that were not provided.
+Recommendation 7
+We recommend that DHS
+a. ensure that the University provides the aforementioned power system
+upgrades or recover the funds paid; and
+b. in the future, obtain documentation to ensure services are performed
+prior to payment.
+DHS does not concur with the context this finding which regards this project as a
+payment of $300,000.00 by DHS to a “vendor” for goods and/or services. This
+transaction should be considered an intergovernmental transfer of funds pursuant
+to a MOU between two State entities to assist with the installation of a standby
+power system and better enabling the State to provide emergency services to
+individuals and families who are victims of disasters or emergency situations,
+within and outside the boarders of the State.
+Auditor’s Comment: DHS contends that the agreement was an
+intergovernmental transfer of funds, which should be viewed differently
+than payments to vendors. We disagree since the payment method has no
+bearing on the premise of our finding. As stated in the finding, the
+agreement required payment to the university for the labor and equipment
+costs for the power system upgrade. Payment should not have been made
+prior to the installation and related inspection of the equipment.
+DHS will continue to actively monitor this project through its 100% completion
+(inclusive of any testing, adjustments or minor alteration activities). DHS will
+continue to ensure that appropriate documentation is received, as well as monitor
+the progress of the project against its proposed construction timeline; requesting
+explanation for any deviations or project setbacks.
+DHS’ Office of Emergency Operations participates in the aid and relief of the
+distressed citizens of Maryland and those abroad during declared emergencies
+which are a result of natural weather related disasters, civil unrest, mass care
+sheltering, reunification efforts, etc… The installation of standby power systems
+throughout the State for critical infrastructure was a priority for the former
+Governor’s Office. This priority was articulated throughout the State Stat program.
+The priority was also adopted as a strategic goal for DHS. As such, funding to pre-
+wire and equip state disaster shelter facilities with backup power was included and
+carried in departmental budget allocations for multiple fiscal years. An opportunity
+
+--- Page 37 ---
+to further carry out this strategic goal presented itself when Towson University
+(TU) announced their plans to undergo a large-scale systematically phased multi-
+million dollar renovation project with a construction timeline spanning through
+2017.
+TU is one of the institutions that DHS has partnered with to serve as an emergency
+shelter during mass care sheltering events. Therefore, DHS has an obligation to
+stage and equip the facility with emergency resources that are specifically put in
+place for use when the facility is serving as a disaster shelter. Backup power is one
+of the most critical resources to be installed in disaster shelter facilities.
+As part of the aforementioned renovation project, DHS and TU entered into an
+agreement by way of a fully executed (July 2015) memorandum of understanding
+(MOU) which denotes that, TU is to install a Standby Power System at their
+Burdick Hall facility with DHS’ pecuniary assistance.
+Adhering to the agreement, DHS provided funding by way of a direct
+intergovernmental transfer to another state entity (TU) to assist in the purchase of
+equipment and supplies, for the renovation of the Burdick Hall; specifically to
+enable it to provide back-up power during emergency mass care sheltering
+operations. DHS has continued to monitor the progression of the TU renovation
+project by requesting monthly updates (progress reports) and by performing site
+visits with specific focus on the Burdick Hall component and the installation of the
+standby/backup power system.
+As late as August 9, 2017, TU progress reports, purchasing documents and
+correspondence show that DHS’ funds have been exhausted and used to procure
+wiring, paralleling switchgear, transfer switches, and other miscellaneous
+equipment; all critical and necessary components of the standby/backup power
+system. The aforementioned equipment has been received and is being
+appropriately stored (with loss protection) until its systematic installation. It is
+anticipated that the bulk of the installation of the standby/backup power system will
+be completed in October of 2017; testing, adjustments and minor alterations to
+occur thereafter. To date, the project has achieved an overall 75.3% completion.
+
+--- Page 38 ---
+Federal Funds
+Finding 8
+DHS did not modify its payment rates for residential rehabilitation services,
+resulting in the use of State funds to cover the cost of services that are
+potentially eligible for federal reimbursement.
+Recommendation 8
+We recommend that DHS
+a. as a member of the Rate Setting Reform Stakeholders Workgroup,
+ensure that a methodology is established for a per diem residential
+rehabilitation services rate that includes only non-Medicaid services, and
+that Medicaid-eligible services are billed separately by the providers as
+fee-for-service claims; and
+b. determine the feasibility of identifying and recovering allowable
+Medicaid-eligible services costs and pursue retroactive federal
+reimbursement.
+DHS disagrees with these recommendations:
+Rates for residential services are set by the Interagency Rates Committee (IRC) of
+which DHS is one of six (6) State agencies. The IRC is maintained by the State
+Department of Education. In addition, DHS is not the designated State agency
+responsible for Medicaid. For this audit finding to be affixed to this Department is
+inappropriate.
+Auditor’s Comment: Although the rates are established by the
+Interagency Rates Committee, DHS is a member of that group. Given the
+financial impact on its budget, we continue to believe that DHS should use
+its membership status to ensure a methodology is established to allow for
+federal reimbursement of eligible costs.
+Information Systems Security and Control
+Finding 9
+Sensitive personally identifiable information (PII) was not properly protected
+by DHS.
+Recommendation 9
+We recommend that DHS
+
+--- Page 39 ---
+a. review its inventory of PII and determine if it is necessary to retain the
+PII and delete all unnecessary PII; and
+b. for remaining PII, properly protect such PII by encryption or other
+substantial mitigating controls.
+a. DHS concurs with this recommendation.
+b. DHS concurs with this recommendation and will implement additional
+security controls to comply with cryptographic requirements.
+Finding 10
+Monitoring controls over the CARES, CSES, and CHESSIE databases were
+not sufficient to properly protect these databases.
+Recommendation 10
+We recommend that DHS
+a. include all direct modifications to CARES and CSES database tables in
+the critical security report used to review such modifications; and
+b. log all critical CHESSIE database security and audit events, generate
+reports of these events, review these reports on a timely basis, and
+document these reviews and any investigations with the documentation
+retained for future reference (repeat).
+DHS concurs with these recommendations:
+a. DHS has already corrected the issues described.
+b. DHS implemented logging, and has made significant progress since the
+previous audit period. Although the solution provided auditing of all
+administrative commands, DHS is working to implement logging of all
+database security and audit events. DHS will continue to conduct reviews
+and will document all reviews and investigations for future reference.
+Finding 11
+Malware protection for DHS computers and Intrusion Detection Prevention
+System (IDPS) coverage for the DHS network were not sufficient to properly
+protect DHS computers and network.
+Recommendation 11
+We recommend that DHS
+a. ensure that malware protection software is installed and operational on
+all of its computers;
+
+--- Page 40 ---
+b. ensure that administrative rights on workstations are restricted to
+network and system administrators and other select users requiring such
+rights with justification for assignment of such rights documented and
+retained centrally for future reference;
+c. configure its network-based IDPS devices to prevent high-risk,
+potentially malicious traffic from entering the network and log and
+report all lower-risk traffic; and
+d. regularly generate detailed reports of logged IDPS security events, review
+these reports, and investigate unusual or suspicious items on these
+reports, with such reviews and investigations being documented and
+retained for future reference.
+a. DHS disagrees with the number of computers that were identified as not
+having malware protection software installed and up to date. As discussed,
+these numbers were inaccurate due to technology refresh. However, DHS
+concurs to develop a process for ensuring reconciliation of these numbers
+to ensure that malware protection software is installed and operational on
+all computers.
+b. DHS concurs with this recommendation and will develop and enforce a
+written policy related to the assignment of local administrative rights.
+c. DHS concurs with this recommendation. Although DHS had its network-
+based IDPS devices set to detect and send alerts, DHS will configure them
+to prevent mode for high-risk traffic.
+d. DHS concurs with this recommendation and will configure the logging
+system to regularly generate detailed reports, and will review/investigate
+unusual or suspicious items, document reviews, and retain for future
+reference.
+Electronic Benefits Transfer System
+Finding 12
+DHS lacked assurance that the EBTS service provider was properly secured
+against operational and security risks.
+Recommendation 12
+We recommend that DHS
+a. ensure that the service provider complies with the contract and obtains
+all required independent reviews, including a SOC 2 Type 2 review that
+addresses all critical control provisions relating to security, availability,
+and other concerns for the EBTS contract; and
+
+--- Page 41 ---
+b. review copies of these SOC 2 Type 2 reports and determine if the related
+independent reviews adequately address the aforementioned security
+concerns over DHS’ use of EBTS services, ensure that the service
+provider implements all critical recommendations made in the reports,
+document these efforts, and retain the documentation for future reference
+(repeat).
+a. DHS concurs with this recommendation.
+b. DHS concurs with this recommendation.
+Payroll
+Finding 13
+DHS did not adequately investigate payments to employees on multiple State
+payrolls.
+Recommendation 13
+We recommend that DHS
+a. use quarterly reports provided by CPB to investigate all employees on
+multiple payrolls, and
+b. retain documentation to support these investigative efforts.
+DHS concurs with these recommendations:
+The following actions have been taken to address this issue:
+a. Contact was made with the Comptroller’s Central Payroll Bureau (CPB) to
+update CPB's distribution list so that the Department's Payroll Unit receives
+the quarterly reports of employees on multiple payrolls.
+b. Department payroll staff has been re-trained in researching, documenting
+and record retention of the dual employment reports.
+
+--- Page 42 ---
+A T
+UDIT EAM
+Joshua S. Adler, CPA, CFE
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+Nelson W. Hopkins, CPA
+John F. Nogel, CPA, CIA, CFE
+Senior Auditors
+Eric Alexander, CPA, CISA
+Michael K. Bliss, CISA
+Information Systems Senior Auditors
+Charles H. Hinds, IV, CPA
+Amanda M. Jones
+Joshua A. Naylor
+Nathan H. Suffin, CPA
+Staff Auditors
+Steven D. Bryant
+Robert H. Dean
+Information Systems Staff Auditors

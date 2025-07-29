@@ -1,0 +1,1973 @@
+Title: Department of Human Services - Family Investment Administration
+Date: 10/21/2022
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=6352effda1ce580a74f1ad2b
+Extracted: 2025-06-20T00:24:23.301119
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Department of Human Services
+Family Investment Administration
+October 2022
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Mark S. Chang (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Nicholas P. Charles II
+Senator George C. Edwards Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Trent M. Kittleman
+Senator Cheryl C. Kagan Delegate Carol L. Krimm
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Elizabeth G. Proctor
+Senator Craig J. Zucker Delegate Geraldine Valentino-Smith
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+October 21, 2022
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Mark S. Chang, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Department of Human Services
+(DHS) – Family Investment Administration (FIA) for the period beginning May 1, 2017
+and ending May 31, 2021. FIA oversees a number of public assistance programs which
+help vulnerable Marylanders buy food, pay energy bills, and obtain medical assistance.
+These programs are administered statewide by the 24 local departments of social services
+(LDSSs) and include Supplemental Nutrition Assistance Program (SNAP), Temporary
+Cash Assistance (TCA), Temporary Disability Assistance Program (TDAP), and the
+home energy assistance programs. According to DHS’ records, payments made during
+fiscal year 2021 for programs under FIA’s oversight totaled approximately $2.3 billion.
+These fiscal year 2021 expenditures were significantly greater than FIA’s expenditures in
+the past due to an influx of federal funds related to the COVID-19 pandemic.
+Our audit disclosed that FIA inadvertently disabled a system control resulting in SNAP
+benefits being awarded to applicants whose income exceeded the federally-established
+income thresholds. The programming change was not readily detected until March 2021
+when FIA noted the issue as part of the implementation of its new automated system.
+Additionally, FIA allowed numerous recipients to continue receiving TCA benefits
+beyond the five years allowed by federal and State regulations. According to FIA
+records, as of May 2021 there were 3,273 recipients receiving benefits for more than five
+years. While federal and State regulations provide for an exemption from the five-year
+limit in cases of hardship, we noted that FIA allowed extended benefits without issuing
+an exemption.
+We also noted that FIA did not conduct comprehensive quality assurance reviews of
+TCA cases to ensure that eligibility determinations and related benefits were proper.
+Quality assurance reviews, when conducted properly, are important to help FIA ensure
+the LDSSs are complying with the legal and regulatory requirements of each program.
+
+--- Page 4 ---
+In addition, we noted that FIA did not ensure the LDSSs maintained application
+documentation to support the propriety of eligibility determinations and other requirements
+for SNAP, TCA, and TDAP. For example, we tested 60 TCA cases and requested FIA to
+provide supporting documentation; however, FIA could not provide us with numerous
+documents including 26 Social Security Number verifications. We also found that FIA did
+not always determine whether TCA applicants received unemployment income, as required
+by federal regulations. FIA management advised it was unaware of the requirement to
+verify unemployment income during the first three months TCA benefits were issued.
+Although FIA had established computer matches designed to help ensure recipient
+eligibility and to detect potential fraud, it did not ensure that the resultant alerts were
+recorded timely and that timely and appropriate actions were taken. For example, our test
+of 46 alerts based on FIA benefits or income data with similar data from other states or
+federal government agencies via the Public Assistance Reporting Information System
+(PARIS) disclosed that for 43 alerts the LDSSs did not take timely or appropriate actions.
+Our audit also disclosed that FIA made significant modifications to an existing contract
+relating to TCA and TDAP that increased vendor compensation without formally
+determining the practicality or appropriateness of conducting a new contract procurement.
+Finally, our audit included a review to determine the status of the eight findings
+contained in our preceding audit report. We determined that FIA satisfactorily addressed
+three of these eight findings. The remaining five findings are repeated in this report.
+DHS’ response to this audit, on behalf of FIA, is included as an appendix to this report. In
+accordance with State law, we have reviewed the response and, while FIA agrees with
+certain recommendations in this report, we identified numerous instances in which
+statements in the response conflict with or disagree with the report findings. In each
+instance, we reviewed and reassessed our audit documentation, and reaffirmed the validity
+of our finding. In accordance with generally accepted government auditing standards, we
+have included “auditor’s comments” within DHS’ response to explain our position.
+Finally, for the remaining findings and recommendations we have concluded that the
+corrective actions identified are sufficient to address those issues.
+We wish to acknowledge the cooperation extended to us during the audit by FIA. We also
+wish to acknowledge DHS’ and FIA’s willingness to address the audit issues and implement
+appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Clients’ Automated Resource and Eligibility System (CARES) 6
+Replacement by Eligibility and Enrollment System
+COVID-19 Policy Changes 7
+Status of Findings From Preceding Audit Report 7
+Findings and Recommendations 9
+Supplemental Nutrition Assistance Program (SNAP)
+Finding 1 – The Family Investment Administration (FIA) inadvertently 9
+disabled a critical system control resulting in SNAP benefits being
+awarded to applicants whose income exceeded the federally-established
+income thresholds.
+Temporary Cash Assistance (TCA)
+* Finding 2 – FIA allowed numerous recipients to continue receiving 11
+TCA benefits beyond the five years allowed by federal and State regulations.
+Quality Assurance Reviews
+Finding 3 – FIA did not conduct comprehensive quality assurance 13
+reviews of TCA cases to ensure that eligibility determinations and
+related benefits were proper. In addition, FIA did not ensure that errors
+identified through the Temporary Disability Assistance Program (TDAP)
+quality assurance reviews were corrected timely.
+SNAP, TCA, and TDAP Eligibility
+Finding 4 – FIA did not ensure that the local departments of social 14
+services (LDSSs) maintained application documentation to support the
+propriety of SNAP, TCA, and TDAP eligibility determinations and other
+requirements.
+Finding 5 – FIA did not always determine whether TCA applicants 16
+received unemployment income, as required by federal regulations.
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Follow-up on Computer Matches
+* Finding 6 – FIA did not ensure that all social security number alerts 17
+were recorded in CARES for follow-up purposes.
+* Finding 7 – FIA did not ensure that the LDSSs conducted timely and 18
+appropriate follow-up on Public Assistance Reporting Information
+System alerts. Our review disclosed that the LDSSs did not take timely
+or appropriate action for 43 of the 46 alerts we tested.
+Energy Assistance Programs
+Finding 8 – FIA did not conduct monitoring reviews of certain local 20
+administering agencies in accordance with its policy and did not always
+execute agreements with energy suppliers.
+Contract Monitoring
+* Finding 9 – FIA did not adequately administer certain contracts and 21
+agreements related to its public assistance programs.
+Grants Management
+* Finding 10 – FIA did not obtain supporting documentation to support 24
+grant funds were spent as intended.
+Audit Scope, Objectives, and Methodology 26
+Exhibit 1 – SNAP Quality Control Error Rate Announcements for 29
+Federal Fiscal Year 2020 and 2021
+Exhibit 2 – Temporary Suspension of Claims Collections Guidance 31
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The Family Investment Administration (FIA) is a unit of the Department of Human
+Services (DHS) and oversees a number of public assistance programs that are
+administered statewide by the 24 local departments of social services (LDSSs).1
+While the LDSSs are responsible for the daily operations, State law requires FIA to
+supervise the public assistance activities of the LDSSs. FIA administers three major
+public assistance programs: the Temporary Cash Assistance Program (TCA) and the
+home energy assistance programs, both of which are funded by State and federal
+funds, and the Supplemental Nutrition Assistance Program (SNAP), which is
+entirely funded by federal funds.
+According to DHS’ records, during fiscal year 2021, programs under FIA’s
+jurisdiction included, on average, approximately 1.3 million monthly recipient
+records2 for which payments totaled approximately $2.3 billion (as detailed in Figure
+1 on the following page). For both the SNAP and TCA programs, there was a
+significant increase in recipients and expenditures in fiscal year 2021, compared to
+fiscal year 2020. This was largely attributable to the impact of the COVID-19
+pandemic. In addition, 57,924 medical assistance (Medicaid) recipients were
+approved for eligibility through LDSSs to receive health-related benefits through the
+Maryland Department of Health (MDH) during fiscal year 2021.
+1 LDSSs administer a number of programs for FIA as well as other units of DHS. The LDSSs are
+audited separately during our audits of DHS – Local Department Operations.
+2 Many recipients receive assistance from more than one program.
+5
+
+--- Page 8 ---
+Figure 1
+Fiscal Years 2020 and 2021
+Public Assistance Program Recipient and Expenditure Data
+Fiscal Year 2020 Fiscal Year 2021
+Average Average
+Program Expenditures Expenditures
+Monthly Monthly
+(In Millions) (In Millions)
+Recipients Recipients
+SNAP 648,705 $1,107 816,579 $1,963
+TCA 45,541 122 62,552 202
+Home Energy Assistance 192,072 106 212,845 126
+Temporary Disability 12,929 33
+10,465 38
+Assistance
+Other Assistance Programs 211,388 12 213,930 8
+Totals 1,110,6351 $1,380 1,316,3511 $2,337
+Source: DHS records
+1- Totals include individual recipients enrolled in one or more programs.
+LDSSs are responsible for ensuring applicants meet all financial and technical
+eligibility factors, and recording recipient and benefit data for TCA, SNAP, and
+Temporary Disability Assistance Program (TDAP) in DHS’ automated benefits
+system, the Clients’ Automated Resource and Eligibility System (CARES). CARES
+also includes data for several other assistance programs, as well as a Medicaid
+database for certain recipients who originally applied for Medicaid through the
+LDSSs. This Medicaid recipient database serves as the basis for Medicaid benefits,
+which are processed on a separate automated benefits system (MMIS II) maintained
+by MDH. Home energy assistance programs automated records are not included in
+CARES and are maintained by FIA in a separate computer system.
+CARES Replacement by Eligibility and Enrollment System
+In November 2021, FIA fully implemented the Eligibility and Enrollment (E&E)
+System a web based application which replaced CARES. This system evaluates new
+applications, interim changes to existing applications, as well as the recertification
+process for eligible recipients. E&E is part of the Maryland Total Human Services
+Integrated Network (MD THINK) which is a cloud-based platform that will allow
+multiple State agencies to share and manage data in one convenient place. Since
+CARES was the automated benefits system in effect during our audit period, our
+audit scope included CARES rather than the recently implemented E&E System.
+6
+
+--- Page 9 ---
+The scope of our next audit of the FIA will include an assessment of the E&E
+System.
+COVID-19 Policy Changes
+Due to the COVID-19 pandemic, certain federal and State requirements related to
+FIA’s assistance programs were modified. For example, for SNAP and for TCA,
+FIA received federal waivers so that recipients did not need to comply with work
+requirements. We took these changes into consideration during the course of our
+audit.
+Status of Findings from Preceding Audit Report
+Our audit included a review to determine the status of the eight findings contained in
+our preceding audit report dated March 21, 2019. As disclosed in Figure 2 on the
+following page, we determined that FIA satisfactorily addressed three of these
+findings. The remaining five findings are repeated in this report.
+7
+
+--- Page 10 ---
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+The Family Investment Administration (FIA) allowed
+certain recipients to continue to receive Temporary
+Repeated
+Finding 1 Cash Assistance benefits beyond the five-year federal
+(Current Finding 2)
+and State limit at an estimated annual cost of at least
+$6.6 million.
+FIA did not ensure that the local departments of social
+service (LDSSs) conducted timely and appropriate
+follow-up on certain computer match alerts, including Repeated
+Finding 2
+attempts to recover improper payments. Our review (Current Finding 7)
+disclosed that the LDSSs did not take appropriate
+action for 29 of the 31 alerts tested.
+FIA did not ensure that all social security number alerts
+were recorded in its computer system for follow-up Repeated
+Finding 3
+purposes, and the alerts that were recorded were not (Current Finding 6)
+dispositioned for extended periods.
+FIA did not take adequate follow-up action when
+LDSSs failed to conduct the required number of quality
+Finding 4 assurance reviews and did not ensure that errors were Not repeated
+corrected. Certain reviews conducted by FIA were not
+comprehensive.
+FIA did not obtain required documentation from
+recipients, resulting in the failure to recover certain
+Finding 5 Not repeated
+federal reimbursements; and did not close certain cases
+timely, allowing improper benefits to be issued.
+FIA did not adequately monitor costs and deliverables
+Repeated
+Finding 6 for certain contracts and agreements related to its
+(Current Finding 9)
+public assistance programs.
+FIA did not verify that certain grant funds were spent Repeated
+Finding 7
+as intended. (Current Finding 10)
+FIA did not periodically review and adequately restrict
+user access to its Office of Home Energy Programs
+Finding 8 computer system, resulting in several hundred Not repeated
+employees with unnecessary access to recipients’
+personally identifiable information.
+8
+
+--- Page 11 ---
+Findings and Recommendations
+Supplemental Nutrition Assistance Program
+Background
+The Supplemental Nutrition Assistance Program (SNAP) helps low-income
+households buy food. Applicants must meet certain financial (such as income not
+exceeding federal thresholds) and technical requirements (such as Maryland
+Resident, US Citizen, or Qualified Immigrant). Generally, the amount of benefits is
+based on household size and income. Specifically, a household may not exceed both
+a gross and a separate net income threshold, with the exception of households with
+qualifying elderly or disabled individuals which only need to meet the net income
+threshold, or households that are categorically eligible due to qualification for
+another means tested program. According to Department of Human Services (DHS)
+records, during fiscal year 2021, SNAP benefit payments totaled approximately
+$1.96 billion.
+Annually, the United States Department of Agriculture (USDA) monitors SNAP
+using a calculated error rate. The error rate is a key indicator of payment accuracy,
+measuring a state’s ability to determine a household’s eligibility for SNAP and issue
+benefits in the correct amount. Errors include incorrect amounts paid to an eligible
+client, payments made to a client incorrectly determined as eligible, and payment for
+which insufficient or no documentation was found. According to the USDA, the
+nationwide error rate for federal fiscal year 2019 (the most recent calculated) was
+7.36 percent and Maryland was ranked 20th with an error rate of 8.43 percent. High
+error rates are significant because USDA sanctions high-error states ($43.5 million
+in sanctions were assessed on 12 high-error states during fiscal year 2019). Due to
+issues with data collection related to the COVID-19 pandemic, the USDA could not
+establish error rates for federal fiscal years 2020 and 2021 (see Exhibit 1 – SNAP
+Quality Control Error Rate Announcements for Federal Fiscal Year 2020 and 2021).
+Finding 1
+The Family Investment Administration (FIA) inadvertently disabled a critical
+system control resulting in SNAP benefits being awarded to applicants whose
+income exceeded the federally-established income thresholds.
+Analysis
+The Family Investment Administration (FIA) inadvertently disabled a critical system
+control resulting in SNAP benefits being awarded to applicants whose income
+exceeded the federally-established income thresholds. FIA advised that in April
+2020, as part of changes to SNAP in response to the COVID-19 pandemic, it
+inadvertently disabled a system control within its automated benefits system that
+9
+
+--- Page 12 ---
+limited SNAP benefits to individuals who met appropriate income thresholds set by
+the federal government. The programming change was not readily detected until
+March 2021 when FIA noted the issue as part of the implementation of its new
+automated system. FIA advised that it notified the USDA of the error when the issue
+was identified, and in August 2021, USDA requested FIA to provide additional
+information to quantify the number of applicants and total benefits improperly
+issued. As of August 2022, FIA could not provide documentation that they
+responded to this request.
+Our analysis of SNAP data for April 2021 obtained from FIA disclosed that 86,479
+of the 465,038 households that received SNAP benefits had gross and/or net income
+that exceeded the maximum threshold limits. Although recipients could be exempt
+from the SNAP income thresholds (such as, when a household included a qualifying
+elderly or disabled individuals), FIA was unable to determine if the aforementioned
+86,479 households qualified for an exemption. We provided FIA with eight
+applications that received a total of $8,938 in monthly SNAP benefits and FIA
+confirmed that the aforementioned eight applicants did not have a documented
+income exemption. While FIA informed us that it reestablished the system income
+thresholds in November 2021, we noted that as of February 2022, six of the
+aforementioned eight applicants continued to receive benefits.
+FIA management advised us that they do not intend on implementing any collection
+actions for the payments made in error. Specifically, they referred to a notice on the
+USDA website that indicated collection action during the COVID pandemic had
+been suspended (see Exhibit 2 – Temporary Suspension of Claims Collections
+Guidance). However, the suspension of such activity expired in March 2022 and
+FIA has not attempted to take subsequent collection actions. FIA management
+advised that they interpret the website notice as a permanent waiver to collect any
+overpayment that occurred during this period, although the notice specifically does
+not address the issue of the waiver being deemed permanent. However, they could
+not provide clarifying documentation from the USDA to support these assertions.
+If in the future the federal government determines that reimbursement of amounts
+improperly paid will be required, the State may have to fund that request. In
+addition, the lack of controls over critical programming changes and resulting
+overpayments could have a significant impact on the State’s error rate and result in
+sanctions if similar conditions occur in the future (as noted above, the USDA could
+not establish the error rate during this period).
+10
+
+--- Page 13 ---
+Recommendation 1
+We recommend that FIA
+a. establish sufficient procedures to ensure critical programming changes are
+subject to independent review and approval,
+b. respond to federal granting agency requests for overpayment information,
+and
+c. collect the overpayments noted above unless written guidance is obtained
+from the USDA stating that reimbursement of amounts improperly paid will
+not be required.
+Temporary Cash Assistance
+Background
+Maryland’s Temporary Cash Assistance (TCA) program, provides cash assistance to
+families with dependent children when available resources do not fully address the
+family’s needs. Eligible families must meet financial and technical requirements and
+develop a plan for independence with their case manager. Generally, the amount of
+benefits a family may receive is based on their household size and income.
+According to DHS records, during fiscal year 2021, TCA benefit payments totaled
+approximately $202.1 million.
+Finding 2
+FIA allowed numerous recipients to continue receiving TCA benefits beyond
+the five years allowed by federal and State regulations.
+Analysis
+FIA allowed numerous recipients to continue receiving TCA benefits beyond the
+five years allowed by federal and State regulations. Federal and State regulations
+limit each TCA recipient’s benefits to a five-year lifetime period, unless the recipient
+was granted a hardship exemption by the Family Investment Program Supervisor
+and approved by the Director of the LDSS, or their designee; for example, because
+of domestic abuse. State regulations require the recipient’s case manager at the
+LDSSs to document the applicable reason(s) for any hardship exemption before
+making a recommendation to the Family Investment Program Supervisor and
+Director of the LDSS or designee to extend the TCA benefits. In addition, the case
+manager is required to develop a plan, designed to achieve recipient independence,
+within 60 days after the hardship exemption is granted.
+According to FIA records, as of May 2021 there were 3,273 recipients receiving
+benefits beyond the 5-year period, which totaled approximately $2.1 million
+11
+
+--- Page 14 ---
+monthly. We tested 15 recipients3 from 6 different LDSSs who, as of September
+2021, had received benefits beyond the five-year period. Our test disclosed that FIA
+did not have documentation of a hardship exemption for 9 of these recipients
+receiving TCA benefits from 4 to 12 years beyond the five-year limit totaling
+approximately $797,000. These 9 recipients included 2 individuals for whom the
+respective case manager recommended not to grant a hardship exemption, so it was
+unclear who authorized these long-term exemptions and the basis for the exemptions
+(i.e., why the case managers’ recommendations were ignored). For example, 1 of
+these recipients without a hardship exemption had continuously received TCA
+benefits for 12 years beyond the 5-year limit, which totaled $150,826 over that
+period of time. We also noted that 13 of these recipients lacked a plan designed to
+achieve recipient independence.
+This condition was caused in part because FIA’s automated system did not
+automatically terminate TCA benefits from recipients after the five-year lifetime
+period. In addition to violating State regulations, to the extent that these TCA
+benefits are determined to be improper, FIA may need to reimburse the federal
+government for the related federal fund expenditures.
+A similar condition was commented upon in our preceding audit report. The
+Department’s response, on behalf of FIA, indicated that FIA was working with IT
+developers to build enhanced technology features to prevent an automatic extension
+without a hardship exemption and independence plan. However, we were advised
+by FIA management that as of September 1, 2022, the aforementioned technology
+features have not been implemented.
+Recommendation 2
+We recommend that FIA
+a. comply with existing federal and State regulations by terminating TCA
+benefits to all recipients after five years unless a documented hardship
+exemption and related independence plan is prepared and approved, as
+required (repeat);
+b. determine the extent of improper payments and, in conjunction with the
+federal granting agency, develop a plan to address any amounts improperly
+recovered from the federal granting agency, and notify the General
+Assembly budget committees and the Department of Budget and
+Management of the extent of State payments made in violation of the
+aforementioned State regulations (repeat); and
+c. collect overpayments identified in accordance with its policy.
+3 We selected the recipients for testing based on the materiality of payments made to them.
+12
+
+--- Page 15 ---
+Quality Assurance Reviews
+Finding 3
+FIA did not conduct comprehensive quality assurance reviews of TCA cases to
+ensure that eligibility determinations and related benefits were proper. In
+addition, FIA did not ensure that errors identified through the Temporary
+Disability Assistance Program (TDAP) quality assurance reviews were
+corrected timely.
+Analysis
+FIA did not conduct comprehensive quality assurance reviews of TCA cases to
+ensure that eligibility determinations and related benefits were proper. In addition,
+FIA did not ensure that errors identified through the TDAP quality assurance
+reviews were corrected timely.
+• FIA did not conduct comprehensive quality assurance reviews of TCA cases to
+ensure that eligibility determinations and related benefits were proper.
+Specifically, our test of 10 of the 1,494 “reviews” performed between July 2019
+and May 2021 by FIA staff, disclosed that the applicable reviewer did not review
+the cases to ensure the eligibility determinations were proper and the amount of
+the benefit was accurate. Rather, they only documented improper payments that
+had been previously identified and corrected by the case manager.
+• TDAP quality assurance reviews did not ensure that identified errors were
+corrected timely. Our test of 10 TDAP quality assurance cases reviewed during
+January 2020 and January 2021 disclosed that 4 cases were not corrected timely.
+The reviews of these cases concluded that TDAP payments should stop
+immediately for various reasons, such as the recipient being deceased, but
+payments continued for 5 to 9 months after the reviews. During that time, TDAP
+benefits totaling $9,300 were issued.
+The aforementioned findings were caused, in part, because certain FIA quality
+assurance staff advised us they were unaware of the related policies and procedures;
+and our review disclosed that those policies and procedures were not always
+comprehensive. For example, the TCA quality assurance policies and procedures
+did not include guidance on how to review a payment for accuracy. Quality
+assurance reviews, when conducted properly, are important to help FIA ensure the
+LDSSs are complying with the legal and regulatory requirements of each program,
+including eligibility criteria and aid in identifying errors such as payments to
+ineligible recipients.
+13
+
+--- Page 16 ---
+Recommendation 3
+We recommend that FIA
+a. develop comprehensive quality assurance policies to be used by all quality
+assurance staff and conduct quality assurance reviews of TCA cases to
+ensure that eligibility determinations and related benefits were proper,
+b. ensure that errors identified during the TDAP quality assurance reviews are
+corrected timely, and
+c. collect overpayments identified in accordance with its policy.
+SNAP, TCA, and TDAP Eligibility
+Finding 4
+FIA did not ensure that the Local Department of Social Services (LDSSs)
+maintained application documentation to support the propriety of SNAP, TCA,
+and TDAP eligibility determinations and other requirements.
+Analysis
+FIA did not ensure that the LDSSs maintained application documentation to support
+the propriety of SNAP, TCA, and TDAP eligibility determinations and other
+requirements. State regulations require an individual applying for benefits to submit
+an application, the LDSS to perform certain verifications of eligibility requirements
+(such as Social Security Number and Income Verifications), and other requirements
+(such as development of a Family Independence Plan). FIA policy required the
+LDSS to scan into its electronic document management system all customer
+documents, including paper applications and verifications conducted by LDSS staff.
+We tested 60 TCA, 30 SNAP, and 10 TDAP cases, approved during fiscal years
+2020 and 2021, and requested FIA to provide us with the supporting documentation
+scanned into the system4. FIA advised us that certain documents were not scanned
+in the system by the LDSS as required, and therefore, they would need to obtain the
+documents from the LDSS. Despite our repeated requests over a 5-month period,
+ultimately FIA could not provide us with a significant number of documents needed
+to support eligibility determinations. See Figure 3 below for a summary of the
+missing documentation associated with the aforementioned cases (certain cases were
+missing multiple documents).
+4 FIA did not provide us direct access to the document management system.
+14
+
+--- Page 17 ---
+Figure 3
+Missing Documentation Noted During OLA Casefile Review
+Number of Missing
+Type of Document Documents*
+TCA SNAP TDAP
+Number of Casefiles Reviewed: 60 30 10
+Eligibility Documents
+Application 5 5 N/A
+Social Security Number / Immigration
+26 8 N/A
+Verification
+Criminal Record Verification 52 25 N/A
+Substance Abuse Screening 44 N/A N/A
+Income Verification 22 4 N/A
+Physicians Medical Report N/A N/A 3
+Other Required Documents
+Family Independence Plan 44 N/A N/A
+Child Support Agreement 32 N/A N/A
+N/A attribute not applicable or not tested for selected cases.
+* Some cases were missing several documents so the numbers total more than the number of cases tested.
+The average monthly payment for the aforementioned TCA, SNAP, and TDAP cases
+with missing documentation was $1,382, $1,638, and $243 respectively. Our recent
+audit report of the DHS Local Department Operations dated March 30, 2022 noted
+that the DHS Office of the Inspector General identified similar conditions during its
+audits of the LDSS.
+Recommendation 4
+We recommend that FIA
+a. ensure that the LDSSs scan all documentation as required to support the
+propriety of eligibility determinations, and
+b. obtain the missing documents noted in our finding and take corrective
+action for any unsupported eligibility determinations or other program
+requirements.
+15
+
+--- Page 18 ---
+Finding 5
+FIA did not always determine whether TCA applicants received unemployment
+income, as required by federal regulations.
+Analysis
+FIA did not always determine whether TCA applicants received unemployment
+income5 as required. Federal regulations require a verification of unemployment
+income at the time of application and for each of the first three months benefits are
+received, as this may impact applicant eligibility and the TCA benefits. Our test of
+30 TCA applications approved during fiscal years 2020 and 2021 disclosed that FIA
+could not document that it performed a verification of unemployment income for 15
+applications and could only document it verified unemployment benefits for the
+initial application but not the subsequent three months for the other 15 applications.
+We obtained unemployment income records for these 30 individuals from the
+Maryland Department of Labor’s Division of Unemployment Insurance and noted
+that two recipients received $9,613 in unemployment income during the first three
+months TCA benefits were issued, which may have resulted in overpayment of TCA
+benefits.
+FIA management advised it was not aware of the requirement to verify
+unemployment income during the first three months TCA benefits were issued.
+However, the federal single audit for fiscal year 2019 (issued in December 2019)
+identified this issue and reported it to Maryland Department of Human Services
+(DHS). In response to that finding, DHS concurred that it did not have a process to
+perform a monthly verification of unemployment compensation and agreed to
+develop a process to correct this finding. According to FIA records, 26,100 and
+11,000 TCA applications were approved during fiscal years 2020 and 2021,
+respectively.
+Recommendation 5
+We recommend that FIA
+a. verify unemployment compensation as required by federal regulations and
+maintain documentation of the related results;
+b. identify and record unemployment income for TCA recipients, including
+those noted above, and take appropriate corrective action; and
+c. collect overpayments identified in accordance with its policy.
+5 Our review was focused on regular unemployment benefits and excluded pandemic unemployment
+benefits which is not counted towards income for TCA.
+16
+
+--- Page 19 ---
+Follow-up on Computer Matches
+Background
+FIA periodically performs certain computer matches and related data verification
+procedures to help ensure recipients are eligible for public and medical assistance
+benefits and detect potential fraud. The computer matches compare recipient
+assistance data in CARES with outside data sources, such as federal Social Security
+Administration (SSA) records, prisoner records from the State’s Department of
+Public Safety and Correctional Services, and new hire registry data from the
+National Directory of New Hires. Computer matches are also performed by
+comparing CARES benefits or income data with similar data from other state or
+federal government agencies via the Public Assistance Reporting Information
+System (PARIS).
+The results of these matches are generally referred to the applicable LDSSs for
+investigation and resolution (referred to as being “dispositioned”) via “system alerts”
+recorded in CARES. A CARES system alert indicator is also generated when a
+recipient’s social security number (SSN) has not been obtained from the recipient or
+has not been verified through FIA’s matching process with SSA records.
+Finding 6
+FIA did not ensure that all social security number alerts were recorded in
+CARES for follow-up purposes.
+Analysis
+FIA did not ensure that all social security number (SSN) alerts were recorded in
+CARES for follow-up purposes. As a result, there is a lack of assurance that all the
+alerts for active public assistance cases were properly recorded, investigated, and
+dispositioned. FIA periodically compares recipient SSNs with SSA records and
+identifies recipients whose SSNs were not verified as accurate, as well as recipients
+with missing SSNs. The results of these SSN matches are subject to filtering
+techniques to eliminate certain match results (such as inactive recipients), and the
+final results are to be recorded in CARES by FIA as system alerts for LDSS
+investigation.
+Our December 2021 review of the results of SSN matches conducted for the month
+of May 2021 disclosed that 188 of the 681 new match results were not recorded as
+alerts in CARES. FIA could not readily explain why these alerts were not in the
+system.
+Federal and State regulations require the disclosure of SSNs by recipients during the
+benefits eligibility determination process, except for certain situations (such as a
+17
+
+--- Page 20 ---
+child in foster care or a newborn under one year of age). If a recipient does not have
+a SSN, State regulations allow the recipient to provide evidence that one has been
+applied for in order to begin receiving benefits and thus these recipients were able to
+obtain benefits properly for a certain period. In cases in which the recipient does not
+provide the needed SSN, the case manager is to follow the appropriate program
+policy. For example, the case manager may need to subsequently remove the
+individual from TCA if SSA did not accept the SSN application because the family
+did not provide evidence of age, identity, or citizenship needed to apply for a SSN.
+A similar condition was commented upon in our preceding audit report. The
+Department’s response, on behalf of FIA, to our prior report, indicated that FIA
+agreed to establish procedures to ensure that all SSN match results were recorded in
+CARES. However, as noted above, these procedures were not sufficiently
+comprehensive to ensure all alerts were recorded in the system.
+Recommendation 6
+We recommend that FIA ensure all SSN match alerts are properly recorded in
+the system for follow up (repeat).
+Finding 7
+FIA did not ensure that the LDSSs conducted timely and appropriate follow-up
+on PARIS alerts. Our review disclosed that the LDSSs did not take timely or
+appropriate action for 43 of the 46 alerts we tested.
+Analysis
+FIA did not ensure that the LDSSs conducted timely and appropriate follow-up on
+system alerts resulting from PARIS matches. According to FIA procedures, the
+PARIS alerts were to be investigated by LDSS staff who were also responsible for
+processing any needed adjustments in CARES (such as, to record previously
+unrecorded income which could affect the benefit payment). Management from FIA
+and one LDSS informed us that supervisory personnel did not verify the propriety of
+the follow-up efforts to ensure they were performed and performed timely.
+According to CARES generated reports, there were 7,148 PARIS alerts in December
+2019 and 22,312 alerts in March 2021.
+Our test of 46 alerts resulting from the December 2019 and March 2021 matches of
+CARES data with similar data from PARIS disclosed that the LDSSs did not take
+timely or appropriate follow-up action for 43 alerts (or record such follow-up action
+in CARES).
+18
+
+--- Page 21 ---
+• For 26 alerts, the LDSS did not take timely action to investigate and disposition
+the alerts. Specifically, alerts were dispositioned 61 to 177 days after the system
+due date.
+• For 29 alerts, related to 23 households receiving concurrent benefits in another
+state, the LDSSs did not perform appropriate follow-up. Specifically, system
+notes indicate that alerts were dispositioned when the case manager reached out
+to the other state, but did not include any conclusion as to what actions were
+taken such as closing the case in one state and recouping improper payments.
+• For 8 alerts, related to unreported federal income, there were no case notes to
+support what action was taken or any indication that the unreported income was
+added to the system.
+In addition, our review of the 17,103 PARIS alerts that the LDSSs had recorded as
+being investigated and dispositioned in March 2021 disclosed that 843 of these alerts
+were dispositioned on average 87 days (ranging from 61 to 259 days) after the alerts
+were generated. While range of days till dispositioning is lower than noted in our
+prior audit report, additional efforts are still needed to comply with FIA policy which
+requires that alerts be dispositioned within 20 days from the date generated.
+Recommendation 7
+We recommend that FIA monitor LDSSs PARIS alert activity to ensure that
+the LDSSs
+a. conduct timely and appropriate follow-up of PARIS alerts (repeat), and
+b. update the system and case notes for unreported income identified by the
+PARIS reports (repeat).
+Energy Assistance Programs
+FIA’s Office of Home Energy Programs administers two energy assistance
+programs.
+• Maryland Energy Assistance Program (MEAP) is a federally funded program
+that provides low-income Maryland residents financial assistance with bill
+payment, natural gas arrearage, and crises for a variety of heat and electric
+customers. Annually, the federal government approves Maryland’s Low Income
+Home Energy Assistance Plan (LIHEAP) (referred to as a State Plan) which
+includes the rates and guidelines for the program.
+19
+
+--- Page 22 ---
+• Electrical Universal Service Program (EUSP) is a State funded6 program that
+provides financial assistance to help low-income Maryland residents with home
+electric bills.
+Local administering agencies (LAAs) primarily process applications for these
+programs and determine applicant eligibility. The 20 LAAs in the State are
+comprised of 9 LDSSs and 11 local community action agencies. Once approved,
+payments are generally made by FIA directly to energy suppliers (such as utility
+companies) on the customer’s behalf. FIA pays the energy suppliers for each
+consumer in advance based on their income and historical energy usage.
+Finding 8
+FIA did not conduct monitoring reviews of certain LAAs in accordance with its
+policy and did not always execute agreements with energy suppliers.
+Analysis
+FIA did not conduct monitoring reviews of certain LAAs in accordance with its
+policy and did not always execute agreements with energy suppliers. According to
+FIA records, during fiscal year 2021, energy assistance payments totaled $125.6
+million. Our review disclosed the following:
+• FIA did not conduct the required number of monitoring reviews, and the reviews
+that were done were not performed in accordance with FIA’s Operations
+Manual. Specifically, the Manual requires a review of 8 LAAs to be completed
+each year with at least one review of each of the 20 LAAs every 3 years. The
+reviews are to include at least 25 cases to ensure applications were adequately
+documented (such as verification of cases that report zero income). The Manual
+further requires FIA to issue a final report to the LAA at the conclusion of each
+review and a corrective action plan (CAP) for all reports with one or more
+material weaknesses (as defined by the Manual).
+For example, during the three-year period ending June 2021, FIA did not conduct
+the required monitoring reviews for 3 of the 20 LAAs which accounted for $40.9
+million of the $130.4 million in benefits issued during fiscal year 2021. In
+addition, FIA did not review case files or issue a final report for 11 of the
+reviews conducted during fiscal year 2021.
+6 EUSP is funded by a combination of sources: (1) a ratepayer surcharge on electric bills; (2) an
+allocation of revenue from the Regional Greenhouse Gas Initiative carbon dioxide emission
+allowance auctions (budgeted through the Strategic Energy Investment Fund ); and (3) when
+available, if needed, LIHEAP.
+20
+
+--- Page 23 ---
+Furthermore, during the three-year period ending June 2020, FIA did not execute
+a CAP for 3 of the 6 monitoring reports we reviewed that contained a material
+weakness.
+• As of September 2021, FIA did not have a current energy agreement, with 4 of
+15 energy suppliers we tested that received payments totaling $12.9 million in
+fiscal year 2021. At the time of our testing, 3 of the 4 agreements had been
+expired between a month (August 2021) and 28 months (April 2019), and FIA
+was unable to provide any prior agreement with 1 energy supplier. FIA’s
+Manual requires energy suppliers to sign an agreement to participate in this
+program.
+Recommendation 8
+We recommend that FIA
+a. conduct all the required monitoring reviews and execute a CAP for reports
+that contain a material weakness, including those noted above; and
+b. ensure a current agreement is executed with energy suppliers, as required.
+Contract Monitoring
+Finding 9
+FIA did not adequately administer certain contracts and agreements related to
+its public assistance programs.
+Analysis
+FIA did not adequately administer certain contracts and agreements related to its
+public assistance programs. FIA was responsible for monitoring contracts and
+agreements related to its public assistance programs including those procured by
+DHS (centralized) and those procured by the LDSS. We noted several issues during
+our review of FIA procedures and controls over centralized contracts and agreements
+and FIA’s monitoring of the LDSS contracts and agreements.
+Centralized Contracts
+According to FIA records, during our audit period, there were 287 centralized
+contracts and agreements valued at $292.4 million. We tested 15 invoices totaling
+$10.3 million from 5 of these centralized contracts and agreements totaling $70.7
+million and noted the following:
+• FIA did not obtain documentation to support deliverables were received and
+amounts invoiced were proper for 9 invoices totaling $5.6 million related to three
+contracts totaling $39.4 million, as required by its policy. For example, FIA did
+21
+
+--- Page 24 ---
+not obtain documentation to support actual expenditures for payroll totaling $3.5
+million out of $4.9 million tested for the food supplement nutrition education
+program. FIA’s Contract Monitoring and Invoice Protocol requires supporting
+documentation to be submitted and reviewed prior to payment of invoices. A
+similar condition regarding a lack of documentation supporting billed costs has
+been commented upon in our four preceding audit reports dating back to
+November 2007.
+• FIA made significant modifications to vendor payment terms of an existing
+contract, to assist TCA and TDAP recipients in obtaining federal benefits,
+without formally determining
+the practicality or Figure 4
+appropriateness of Total Vendor Payments
+conducting a new contract Fiscal Years 2016-2021
+procurement. The original
+$1,200,000
+contract was procured in June
+$1,000,000
+2015 and had a total contract
+price of $19.9 million $800,000
+covering the five-year period $600,000
+ending May 31, 2020. Under $400,000
+the terms of the original
+$200,000
+contract, the vendor was to
+$0
+be paid for each case for 16 17 18 19 20 21
+which the vendor
+Source: State records
+successfully obtained
+approved federal benefits. In
+September 2020, FIA modified the contract payment terms through May 2022 so
+the vendor was paid based on reported effort in screening individuals to obtain
+federal benefits regardless of whether they successfully obtained benefits. For
+example, we noted one vendor invoice paid under the modified contract totaled
+$189,695, which under the original contract terms would have been $1,698.
+Although the contract modification was approved by the Board of Public Works,
+the potential for significantly greater vendor payments in relation to work
+performed was not explained. As noted in Figure 4, this contract modification
+has significantly increased the amount paid to the vendor, although FIA could
+not readily document enhanced vendor performance or outcomes (such as
+obtaining additional federal benefits for FIA clients).
+LDSS contracts
+FIA did not have an established process to oversee and approve LDSS contracts and
+agreements with State and local entities for public assistance programs and did not
+22
+
+--- Page 25 ---
+maintain a record of certain agreements. We reviewed the FIA listing of contracts
+and tested five agreements totaling $26.4 million related to four LDSS. Based on
+our review and testing, we noted the following:
+• FIA did not have a record of contracts and agreements procured by two
+significant LDSSs, which together represent 40 percent of FIA benefits issued
+within the State. Specifically, our review of FIA’s records which included 51
+active contracts and agreements valued at $20.6 million, did not include any
+contracts and agreements procured by these two LDSSs. Accordingly, FIA was
+unable to monitor the related activity.
+• Our test of five contracts and agreements relating to four LDSSs valued at $26.4
+million disclosed that none were monitored by FIA and two totaling $7.8 million
+were approved by FIA between six and nine months after the execution of the
+contract and agreement. Additionally, FIA did not review invoices, on a test
+basis, to ensure payments were in accordance with the contract or agreement.
+A similar condition was commented upon in our preceding audit report. FIA
+management advised us that it currently does not believe FIA is responsible for
+monitoring LDSS contracts and agreements. This current position is contrary to the
+Department’s response on FIA’s behalf to our prior report that FIA established a
+Contract Compliance Office to monitor the LDSS contracts. State law requires FIA
+to supervise LDSSs public assistance activities. Accordingly, since these contracts
+and agreements are for public assistance services, we continue to believe FIA should
+have procedures in place to ensure the services are being provided as intended.
+Recommendation 9
+We recommend that FIA
+a. obtain adequate documentation, including payroll records, timesheets, and
+receipts, to verify the accuracy of billings, as required by policy (repeat);
+b. ensure contract modifications are adequately supported and justified, and
+consider competitively procuring new contracts when significant changes to
+the terms of the contract are required; and
+c. in conjunction with DHS, formally determine which entity is responsible for
+LDSS contract oversight and establish processes to oversee and approve
+LDSS public assistance contracts and agreements to ensure that the related
+invoices are consistent with the agreements and that the agreed-upon
+services are received (repeat).
+23
+
+--- Page 26 ---
+Grants Management
+Finding 10
+FIA did not obtain supporting documentation to support grant funds were
+spent as intended.
+Analysis
+FIA did not obtain supporting documentation to support grant funds were spent as
+intended. FIA’s Office of Grants Management provides funding to a network of
+community and faith based organizations, LDSSs, and other State and local
+agencies. According to State records, during fiscal years 2020 and 2021, FIA made
+grant payments totaling approximately $52.4 million to 578 grantees. Our test of
+eight fiscal year 2020 and 2021 payments totaling approximately $12.1 million to
+four grantees under three grant programs, such as, the Emergency Food Assistance
+Program, disclosed that FIA did not verify that certain grant funds related to three
+grantees were spent as intended.
+Specifically, the grant agreements required grantees to submit quarterly reports
+detailing the number of individuals and/or families served, as well as annual
+independent financial audit reports. For all eight of the disbursements we tested,
+FIA had obtained the independent audit reports and the related quarterly reports, but
+did not obtain documentation (such as, timesheets and receipts) to support charges of
+those served related to five disbursements to three grantees with grants totaling $2.1
+million. FIA did obtain this type of information for three of the tested disbursements
+and used the information provided to assess the propriety of payments made.
+A similar condition was commented upon in four prior audit reports (our most recent
+audit report of FIA and three preceding audit reports of the DHS – Office of the
+Secretary7) dating back to January 2011. In its response on behalf of FIA, the
+Department agreed with our recommendation in the most recent report issued in
+March 2019 and FIA’s 2018 written policies (the most current available during our
+audit) required grantees to submit supporting documentation. However, as noted
+above, FIA did not include the documentation requirement in its grant agreements
+and still did not obtain the documentation that would be useful in determining the
+appropriateness of grantee disbursements.
+7 An organizational change effective July 1, 2015, transferred the Office of Grants Management and
+the responsibility for monitoring these grants to FIA.
+24
+
+--- Page 27 ---
+Recommendation 10
+We recommend that FIA
+a. independently verify, at least on a test basis, that grant funds are spent as
+intended by obtaining and reviewing documentation to support the
+propriety of payments (repeat); and
+b. ensure grant agreements include provisions to submit supporting
+documentation in accordance with its written policies.
+25
+
+--- Page 28 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Department of Human Services
+(DHS) – Family Investment Administration (FIA) for the period beginning May 1,
+2017 and ending May 31, 2021. The audit was conducted in accordance with
+generally accepted government auditing standards. Those standards require that we
+plan and perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+As prescribed by State Government Article, Section 2-1221 of the Annotated Code
+of Maryland, the objectives of this audit were to examine FIA’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included the quality assurance processes used by FIA to
+monitor the local departments of social services’ administration of the Supplemental
+Nutrition Assistance Program (SNAP), Temporary Cash Assistance, and the
+Temporary Disability Assistance Program; FIA’s administration of the home energy
+assistance programs and the Temporary Disability Assistance Program; contracts;
+grants; and criminal or unethical employee conduct. We also determined the status
+of the findings contained in our preceding audit report.
+Our audit did not include certain support services provided to FIA by DHS – Office
+of the Secretary. These support services (such as payroll, purchasing, maintenance
+of accounting records, and related fiscal functions) are included within the scope of
+our audit of the DHS – Office of the Secretary.
+Our audit also did not include an evaluation of internal controls over compliance
+with federal laws and regulations for federal financial assistance programs and an
+assessment of FIA’s compliance with those laws and regulations because the State of
+Maryland engages an independent accounting firm to annually audit such programs
+administered by State agencies, including FIA. We did review certain aspects of the
+federal SNAP program because of the potential impact on the annual error rate,
+which could result in sanctions.
+26
+
+--- Page 29 ---
+Our assessment of internal controls was based on agency procedures and controls in
+place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of May 1, 2017 to May 31, 2021, but may include transactions before or after
+this period as we considered necessary to achieve our audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of FIA operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance of
+the transaction to the area of operation reviewed. As a matter of course, we do not
+normally use sampling in our tests, so unless otherwise specifically indicated, neither
+statistical nor non-statistical audit sampling was used to select the transactions
+tested. Therefore, unless sampling is specifically indicated in a finding, the results
+from any tests conducted or disclosed by us cannot be used to project those results to
+the entire population from which the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure data).
+The extracts are performed as part of ongoing internal processes established by the
+Office of Legislative Audits and were subject to various tests to determine data
+reliability. We determined that the data extracted from these sources were
+sufficiently reliable for the purposes the data were used during this audit. We also
+extracted data from the Clients’ Automated Resource and Eligibility System and
+automated records relating to energy assistance programs for purposes of testing
+selected attributes relating to recipient eligibility, program payments, and FIA’s
+monitoring efforts. We performed various tests of the relevant data and determined
+that the data were sufficiently reliable for the purposes the data were used during the
+audit. Finally, we performed other auditing procedures that we considered necessary
+to achieve our audit objectives. The reliability of data used in this report for
+background or informational purposes was not assessed.
+FIA’s management is responsible for establishing and maintaining effective internal
+control. Internal control is a process designed to provide reasonable assurance that
+objectives pertaining to the reliability of financial records; effectiveness and
+efficiency of operations including safeguarding of assets; and compliance with
+applicable laws, rules, and regulations are achieved. As provided in Government
+Auditing Standards, there are five components of internal control: control
+environment, risk assessment, control activities, information and communication,
+and monitoring. Each of the five components, when significant to the audit
+27
+
+--- Page 30 ---
+objectives, and as applicable to FIA, were considered by us during the course of this
+audit.
+Because of inherent limitations in internal control, errors or fraud may nevertheless
+occur and not be detected. Also, projections of any evaluation of internal control to
+future periods are subject to the risk that conditions may change or compliance with
+policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising its
+legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be significant
+deficiencies in the design or operation of internal control that could adversely affect
+FIA’s ability to maintain reliable financial records, operate effectively and
+efficiently, and/or comply with applicable laws, rules, and regulations. Our report
+also includes findings regarding significant instances of noncompliance with
+applicable laws, rules, or regulations. Other less significant findings were
+communicated to DHS that did not warrant inclusion in this report.
+The response from DHS, on behalf of FIA, to our findings and recommendations is
+included as an appendix to this report. As prescribed in the State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise DHS
+regarding the results of our review of its response.
+28
+
+--- Page 31 ---
+Exhibit 1
+SNAP Quality Control Error Rate Announcements for Federal Fiscal Year 2020 and 2021
+Foodand DATE: February19,2021
+Nutrition
+Service
+SUBJECT: Supplemental Nutrition AssistanceProgram (SNAP)–Quality
+Control (QC)ErrorRate Announcements forFiscal Year (FY)
+1320BraddockPlace 2020andFY2021
+Alexandria,VA
+22314
+TO: All SNAP StateAgencies
+All FoodandNutritionServiceRegional SNAP Directors
+Issuing FNS/SNAP
+Agency/Office:
+Supplemental Nutrition AssistanceProgram (SNAP)–Quality
+Titleof
+Control (QC)ErrorRate Announcements forFiscal Year (FY)2020
+Document:
+andFY2021
+DocumentID:
+Z-RIN:
+Dateof Issuance: February19,2021
+Replaces: N/A
+Informs SNAP StateAgenciesthat USDAwill not issuepayment
+error rates,national and StatebyState,forfiscal years 2020and2021
+Summary:
+dueto flexibilities providedto StatesbySection4603(a)(2)ofthe
+ContinuingAppropriations Act, 2021andOther Extensions Act.
+Disclaimer: Thecontentsof this guidancedocumentdonot havetheforce
+and effectof law and arenot meanttobind thepublicorFNS in
+anyway. This documentisintended only toprovideclarityto
+thepublicregardingexistingrequirements underthelaw or
+agencypolicies.
+TheFood andNutrition Service(FNS)wouldliketo thankall ofits Stateagency
+partners andstakeholders fortheirpatienceas the agencyassessedits statutory
+requirements in light oftheQC flexibilities providedto States bySection
+4603(a)(2)oftheContinuingAppropriations Act, 2021andOtherExtensions
+Act. FNS has completed this reviewandhas determined that theagencycannot
+establishNationalandStatelevel payment errorratesfor Fiscal Year2020 and
+2021.
+Section16(c)(2)ofthe FoodandNutrition Act of 2008,as amended,1 defines
+“overpayment errorrate” and“underpayment errorrate”in terms ofthevalueof
+All SNAP StateAgencies
+17U.S.C.2025(c)(2)
+USDAisanEqualOpportunityProvider,EmployerandLender
+29
+
+--- Page 32 ---
+Page2
+all allotments issuedin afiscal year. Flexibilitiesprovidedbyappropriations legislation
+as well as the FNS-issuedblanket approval dated April 30,2020, however, providedState
+agenciestheoptionto suspendcertain QC regulatoryrequirements from March2020
+untilJune30,20212 in responseto the COVID-19 publichealthemergency. Asaresult
+ofStates optingto suspendtheQC regulatoryrequirements, FNS has onlyfivemonths of
+validateddataforFY2020,coveringOctober2019through February2020, and expects
+to haveonlythreemonths ofvalidateddata for FY2021,coveringJuly2021through
+September2021. Becauseofincompletedatasets that do not reflect the full fiscal year
+valueofallotments issuedbyStates, FNS cannot determineunderpayment and
+overpayment error rates. FNS thereforehas determinedtheagencycannot establish
+National andStatelevel payment errorrates for Fiscal Year2020and2021,andas such,
+cannot assessliabilityamounts for thoseFederal Fiscal Years.
+Duringthesuspension of certainQC regulatoryrequirements, FNS has encouragedState
+agenciesto continue conductingQC casereviews, as thedatacollectedprovidesinsight
+intotheeffectiveness of certification and recertification processes neededtoensure
+payment accuracy. FNS is awareState agencies mayelect to continueconductingQC
+casereviewsforpayment accuracyand program improvement purposes despiteoptingto
+suspendtheQC requirements. FNS applaudstheseefforts and remains availableto
+coordinate Federal reviewsofStateagencies’casereviewsduringthesuspension period
+in orderto providetechnical assistance forourmutual responsibilityto preserveprogram
+integrity. Additionally, FNS continues to providesupport forStateagencies to entercase
+reviews conductedforpayment accuracypurposes intotheautomatedQC system for
+Stateagencies (SNAP-QCS)duringthesuspension. FNS andStateagencies share a
+responsibilityto ensureproperstewardshipoftaxpayerdollars, andtheagencystands by
+to assist Stateagencieswiththeirpayment accuracyresponsibilities.
+FNS looks forwardto workingwith ourpartners to resumenormaloperations in July
+2021whenall regulatoryrequirements forQC casereviews will bein effect. If youhave
+anyquestions orneed additionalinformation, pleasecontact your FNS Regional Office.
+Pursuant to theCongressional ReviewAct andExecutiveOrder13891,the Officeof
+Information andRegulatoryAffairs has designatedthis documentas not majorandnot
+significant.
+Signed
+JessicaShahin
+AssociateAdministrator
+SupplementalNutritionAssistanceProgram
+All SNAP StateAgencies
+2WhiletheContinuingAppropriationsAct,2021andOtherExtensionsAct(P.L.116-159)providedthe
+optiontosuspendcertainQCregulatoryrequirementsthroughSeptember30,2021,theConsolidated
+AppropriationsAct,2021(P.L.116-260)reducedthesuspensionperiodtothroughJune30,2021.
+30
+
+--- Page 33 ---
+Temporary Suspension of Claims Collections Guidance | Food and Nutri... https://www.fns.usda.gov/snap/temporary-suspension-claims-collections
+Exhibit 2 - Temporary Suspension of Claims Collections Guidance
+An o�icial website of the United States government Here's how you know
+Food and Nutrition Service
+MENU
+U.S. DEPARTMENT OF AGRICULTURE
+Temporary Suspension of Claims Collections
+Guidance
+PROGRAMS FNS DISASTER ASSISTANCE FNS RESPONDS TO COVID-19 SNAP COVID-19 WAIVERS CLAIMS
+TEMPORARY SUSPENSION OF CLAIMS COLLECTIONS
+EO Guidance Document #
+FNS-GD-2020-0127
+Resource Type
+Auditor's Note: FIA management advised that the extension expired in March 2022
+Policy Memos
+Guidance Documents
+Resource Materials
+Policy Memo (200.87 KB) See pages 2 through 5 for Policy Memo.
+FNS will allow state agencies to suspend SNAP regulations at 7 CFR 273.18(d) by allowing flexibility in the
+time frame for establishing or disposing of new claims. States are also permitted to suspend SNAP
+regulations at 7 CFR 273.18(e)(1) and (e)(5) by not requiring collection of active recoupment of SNAP
+overpayments, delaying collection on newly established overpayments, and not considering any
+payments delayed due to this suspension to be delinquent.
+2021
+May Extensions
+Maryland Massachusetts North Carolina
+April Extensions
+Maryland Massachusetts New Jersey North Carolina
+31
+1 of 4 Excerpt (only included page 1 in this exhibit) 9/16/2022, 5:00 PM
+
+--- Page 34 ---
+Exhibit 2 - Temporary Suspension of Claims Collections Guidance (Policy Memo)
+Date: April 13,2020
+FoodandNutrition
+Service
+RE: SupplementalNutrition AssistanceProgram (SNAP)–Temporary
+WaiverofClaims CollectionActivities Dueto Novel Coronavirus
+1320BraddockPlace
+(COVID-19)–Blanket Approval
+Alexandria,VA
+22314
+DearSNAP Stateagencies,
+AsauthorizedbySNAP regulations at 7CFR 272.3(c)(1)(i),the Foodand Nutrition
+Service(FNS)will allow Stateagenciesto suspend:
+• SNAP regulations at 7CFR 273.18(d)byallowingflexibilityin thetime
+frameforestablishingor disposingofnew claims.
+• SNAP regulations at 7CFR 273.18(e)(1)and (e)(5)bynot requiringcollection
+ofactiverecoupment of SNAP overpayments, delayingcollectiononnewly
+establishedoverpayments,andnot consideringanypayments delayeddueto
+this suspension to bedelinquent.
+Undertheauthorityof7 CFR 272.3(c)(1)(i), FNS mayauthorizetemporarywaivers
+to deviatefrom specificregulatoryprovisionswhentheycannot beimplemented
+dueto extraordinarytemporarysituations. FNS has receivedmultiplerequests
+from Stateagenciesfortheseflexibilities andhas determinedthat approval is
+appropriatedueto theCOVID-19PublicHealth Emergency.
+Theseflexibilities areavailablethroughMay31, 2020. This waiveris contingent
+uponaStateagency’s compliancewith theconditions andevaluationrequirements
+detailedin theattachedenclosures, which aredue 45days after expiration
+(July15,2020).1
+If theStateagencyelects to implementtheseflexibilities,it must notifyits
+respective FNS Regional Office whowill acknowledgereceipt. Stateresponses
+will berelayedto the FNS StateAdministrationBranch.
+FNS is readyto providetechnical assistanceto Stateagencies as theyseekto
+maintain operationsand serveclientsduringthe current PublicHealth
+Emergency. If youhave anyquestionsorneed additional information, please
+contact yourrespectiveRegional Officerepresentative.
+Sincerely,
+4/13/2020
+X Ronald K. Ward
+RonaldK.Ward
+Director,ProgramAccountabilityandAdministrati...
+Signedby:DepartmentofAgriculture
+Enclosure
+USDAisanEqualOpportunityProvider,EmployerandLender
+32
+1 - FIA management advised that this date was subsequently extended through March 2022.
+
+--- Page 35 ---
+Enclosure
+Page1
+TEMPORARYWAIVEROFTIME FRAME FORESTABLISHINGNEW CLAIMS
+1. Regulatorycitation: 7CFR 273.18(d)
+2. Regulatoryrequirements: SupplementalNutritionAssistanceProgram (SNAP)
+regulations at 7CFR 273.18(d)requireStateagenciestoestablish aclaim beforethelast
+dayofthequarterfollowingthequarterin whichtheoverpayment ortraffickingincident
+was discoveredand ensurethatnoless than90percent of all claim referrals areeither
+establishedordisposedofaccordingto this timeframe.
+3. Description of alternativeprocedures: State agenciesareallowedflexibilityin thetimeframe
+forestablishingordisposingofnewclaims.
+4. Action and reason forapproval ordenial: Undertheauthorityof7CFR 272.3(c)(1)(i), FNS
+mayauthorizetemporarywaivers to deviatefrom specificregulatoryprovisions whenthey
+cannot beimplementeddueto extraordinarytemporarysituations. FNS has determinedthat
+approval oftheseflexibilitiesis appropriatedueto theCOVID-19PublicHealth Emergency.
+FNS is approvingtheflexibilityforaperiod of3 months, effectiveMarch 1,2020,through
+May31,2020.
+5. Conditions of approval: FNS is approvingthis flexibilitysubject to thefollowing
+conditions:
+• Stateagencieswill meet theregulatorydeadlinewhenpossibleandwill only
+exercisethis flexibilitywhenit is not possibleto doso.
+• If theStateagencyelects to implementtheseflexibilities,it must notifyits
+respective FNS Regional Office whowill acknowledgereceipt. Stateresponses
+will berelayedto the FNS StateAdministrationBranch.
+6. Evaluation DataRequirements: TheStateagencymust provideto FNS thedataand
+analysis listedbelow requiredforevaluation ofthis waiver:
+• Thenumberofhouseholds andaggregatedollar amount ofnewlyestablished
+claims affectedbythis adjustment
+7. Expiration date: May31,2020
+8. Qualitycontrol procedures: Atemporarydelayin theestablishment ordispositionof
+someclaims shouldhave noimpact onqualitycontrol procedures.
+33
+
+--- Page 36 ---
+Enclosure
+Page2
+TEMPORARYWAIVEROFCLAIMS COLLECTIONACTION
+1. Regulatorycitation: 7CFR 273.18(e)(1)and7 CFR(e)(5)
+2. Regulatoryrequirements: Supplemental NutritionAssistanceProgram (SNAP)
+regulations at 7CFR 273.18(e)(1)requireStateagencies to begin collectionaction on
+claims unlessit is not cost effective.
+SNAP regulations at 7CFR 273.18(e)(5)require Stateagenciesto consideraclaim
+delinquent iftheclaim has not beenpaid bytheduedateand asatisfactorypayment
+arrangement has not beenmade; orifapayment arrangement has been establishedanda
+scheduledpaymenthas not beenmadebythedue date.
+3. Description of alternativeprocedures: State agenciesmaytemporarilysuspendcollectionof
+activeclaims,delaycollectionactiononnewlyestablishedclaims,anddelaydelinquency
+determination.
+4. Action and reason forapproval ordenial: Undertheauthorityof7CFR 272.3(c)(1)(i), FNS
+mayauthorizetemporarywaivers to deviatefrom specificregulatoryprovisions whenthey
+cannot beimplementeddueto extraordinarytemporarysituations. FNS has determinedthat
+approval oftheseflexibilitiesis appropriatedueto theCOVID-19PublicHealth Emergency.
+FNS is approvingtheadjustment foraperiod of3 months,effectiveMarch 1,2020,through
+May31,2020.
+5. Conditions of approval: FNS is approvingthis adjustment subject to thefollowing
+conditions:
+• TheStateagencywill not considerpayments delayedduetothis suspension to be
+delinquent.
+• SNAP claims suspendedunderthiswaivermust not besubject to theaccrual of
+interest duringthesuspensionperiod.
+• Households remain liable fortheiroutstandingdebtsandtheStateagencywill
+restart collectionactivityanddelinquencydeterminations at theendofthe
+suspension period.
+• If theStateagencyelects to implement theseflexibilities, it must notifyits
+respective FNS Regional Office whowill acknowledgereceipt. Stateresponses
+will berelayedto the FNS StateAdministrationBranch.
+6. Evaluation DataRequirements: TheStateagencymust provideto FNS thedataand
+analysis listedbelow requiredforevaluation ofthis adjustment:
+• Thenumberofhouseholds andaggregatedollar amount ofactiveclaims affected
+bythis adjustment
+• Anestimatednumberof households andaggregatedollaramount ofclaims that
+wouldhavebeennewlyestablishedfrom March1, 2020,throughMay31,2020,
+thatwill bedeferreduntil thesuspension period ends.
+7. Expiration date: May31,2020
+34
+
+--- Page 37 ---
+Enclosure
+Page3
+8. Qualitycontrol procedures:Atemporaryclaims suspension shouldhavenoimpact on
+qualitycontrol procedures.
+35
+
+--- Page 38 ---
+APPENDIX
+October 11, 2022
+Mr. Gregory A. Hook
+Legislative Auditor
+Office of Legislative Audits
+The Warehouse at Camden Yards,
+351 West Camden Street, Suite 400,
+Baltimore, Maryland 21201
+Dear Mr. Hook:
+Enclosed is the Department of Human Services’ (DHS) response to the draft Legislative Audit
+Report on the Family Investment Administration (FIA) for the period beginning May 1, 2017 and
+ending May 31, 2021.
+If there are any questions regarding the response, please contact the Inspector General, Marva Sutherland
+at 443-378-4060 or marva.sutherland@maryland.gov.
+Sincerely,
+Lourdes R. Padilla
+Secretary
+Enclosures:
+cc:
+Gregory James, Deputy Secretary for MD THINK & Operations
+Daniel Wait, Acting Deputy Secretary of Administration
+Timothy Schuster, Special Assistant to the Secretary
+La Sherra Ayala, Executive Director, Family Investment Administration
+Marva M. Sutherland, Inspector General
+Stafford Chipungu, Chief Financial Officer
+Shelly-Ann Dyer, Assistant Inspector General for Audits
+William C. Niner, Director, Bureau of Audit Compliance & Reporting, FIA
+
+--- Page 39 ---
+311 W. Saratoga Street, Baltimore, MD 21201-3500 | Tel: 1-800-332-6347 | TTY: 1-800-735-2258 |www.dhs.maryland.gov
+
+--- Page 40 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Supplemental Nutrition Assistance Program
+Finding 1
+The Family Investment Administration (FIA) inadvertently disabled a critical system
+control resulting in SNAP benefits being awarded to applicants whose income exceeded the
+federally-established income thresholds.
+We recommend that FIA
+a. establish sufficient procedures to ensure critical programming changes are subject to
+independent review and approval,
+b. respond to federal granting agency requests for overpayment information, and
+c. collect the overpayments noted above unless written guidance is obtained from the
+USDA stating that reimbursement of amounts improperly paid will not be required.
+Agency Response
+Analysis
+Please provide FIA observed a federally approved waiver to suspend SNAP
+additional comments as overpayment collection. FIA has no outstanding items relating to this
+deemed necessary. matter.
+Recommendation 1a Agree Estimated Completion Date: December
+2022
+Please provide details of FIA concurs with the recommendation. The E&E system is following
+corrective action or the eligibility guidelines as required by federal and state regulations. To
+explain disagreement. ensure that all guidelines are met, FIA’s Operations and Policy teams
+along with the MD THINK team attend a daily Scrum Call to discuss the
+progress of projects under development. The projects are analyzed,
+developed, and tested by the MD THINK team. Validation of each
+project is completed independently by the FIA team. A critical part of
+the validation is regression testing which ensures that the introduction
+of new features have not inadvertently interfered with critical system
+controls.
+Recommendation 1b Agree Estimated Completion Date: Completed
+Please provide details of FIA concurs with the recommendation. The original request from our
+corrective action or federal partner was received in August 2021 and FIA responded in the
+explain disagreement. same month. FNS required a Post-Conversion Clean-Up Plan as a
+deliverable for E&E rollout. An element of our plan provided that our
+conversion process produced Work Items for cases where eligibility was
+different in E&E than what was converted, e.g. household is overscale
+Page 1 of 19
+
+--- Page 41 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+income based on the determination in E&E. Case Managers were
+required to review the Assigned Conversion Work Items and take the
+appropriate case actions. FNS evaluated and accepted our Post-
+Conversion Clean-Up Plan with no additional comments. Maryland
+resumed Quality Control (QC) Reviews effective July 2021 in an effort
+to identify and correct SNAP payment errors. Maryland also completed
+a project to close SNAP cases that were identified as ineligible.
+Collection activities are in progress and ongoing. FIA subsequently
+followed up with our federal partner. FNS has required no additional
+information at the time.
+Recommendation 1c Disagree Estimated Completion Date: N/A
+Please provide details of FIA disagrees with the recommendation. The overpayments noted
+corrective action or above occurred during the pandemic period in which the State had a
+explain disagreement. federal waiver to suspend Quality Control reviews. FIA does not plan a
+retroactive review, accordingly. FIA will pursue overpayments
+identified as part of its ongoing payment accuracy reviews.
+Auditor’s Comment: FIA’s response reiterates the position included in our analysis that
+it interprets the USDA website notice as a permanent waiver. As stated in our analysis,
+and based on our interpretation of the website’s plain language, the suspension of
+collection action expired in March 2022 and there was no clear intent that the language
+was a permanent waiver on collections. Since FIA could not provide clarifying
+documentation from the USDA to support its position, we continue to recommend that
+FIA either collect the noted overpayments or obtain written guidance from the USDA
+that the reimbursements of amounts improperly paid will not be required.
+Page 2 of 19
+
+--- Page 42 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Temporary Cash Assistance
+Finding 2
+FIA allowed numerous recipients to continue receiving TCA benefits beyond the five years
+allowed by federal and State regulations.
+We recommend that FIA
+a. comply with existing federal and State regulations by terminating TCA benefits to all
+recipients after five years unless a documented hardship exemption and related
+independence plan is prepared and approved, as required (repeat);
+b. determine the extent of improper payments and, in conjunction with the federal
+granting agency, develop a plan to address any amounts improperly recovered from the
+federal granting agency, and notify the General Assembly budget committees and the
+Department of Budget and Management of the extent of State payments made in
+violation of the aforementioned State regulations (repeat); and
+c. collect overpayments identified in accordance with its policy.
+Agency Response
+Analysis
+Please provide FIA does not deem this to be a widespread issue. After conducting a
+additional comments as follow-up review of the cases cited by the auditor, we confirmed that the
+deemed necessary. recipients were eligible to receive TCA benefits based on hardship, with
+the exception of 3 cases which are being assessed for further action
+accordingly.
+Recommendation 2a Agree Estimated Completion Date: March 2023
+Please provide details of FIA concurs with the recommendation. Effective March 2022, FIA
+corrective action or resumed the process for reviewing cases reaching the 60 month or
+explain disagreement. greater time limit. With this new process, the FIA reporting team
+provides a monthly report showing all cases approaching the time
+limit. The report is shared with local departments of social services with
+instructions to review each case to determine if a hardship exemption
+should be established and ensure an updated independence plan is
+completed. An FIA Headquarters team member samples the cases to
+confirm that the cases were closed after the 60 month time limit or has a
+hardship exemption in place. FIA is updating the E&E system to create
+an alert for case managers that will automatically flag cases at 60 months
+with no hardship documentation.
+Recommendation 2b Disagree Estimated Completion Date: N/A
+Page 3 of 19
+
+--- Page 43 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Please provide details of FIA disagrees with the recommendation. After conducting a follow-up
+corrective action or review of the cases cited by the auditor, we confirmed that the recipients
+explain disagreement. were eligible to receive TCA benefits based on hardship, with the
+exception of 3 cases which are being assessed for further action
+accordingly. However, the evidence of hardship was not always
+consistently documented in the case file. For example, medical
+documentation was in the case file to identify a disability which meets
+the criteria for a hardship, but the hardship form was not completed by
+the local department. FIA has taken measures to ensure the
+documentation for hardship is adequately included in the case file. A
+report of cases that exceeded the 60-month time limit was compiled and
+shared with the locals including instructions to assess the recipient's
+situation, document the hardship, and upload the documentation into
+E&E via the Enterprise Content Management System (ECMS).
+Effective March 2022, FIA resumed the process for reviewing cases
+reaching the 60 month or greater time limit. With this new process, the
+FIA reporting team provides a monthly report showing all cases
+approaching the time limit. The report is shared with local departments
+of social services with instructions to review each case to determine if a
+hardship exemption should be established. An FIA Headquarters team
+member samples the cases to confirm that the cases were closed after the
+60-month time limit or has a hardship exemption in place. FIA will also
+be conducting annual refresher training on the 60-month TCA policy.
+Auditor’s Comment: FIA disagrees with our recommendation 2b but indicates in its
+response that it conducted a follow-up review of the 15 recipients we tested. FIA
+reported that 3 of the 15 cases were being assessed for further action and implied that
+another 6 cases lacked documentation of the hardship exemption. Since 9 of the 15 cases
+we cited were deemed by FIA to be non-compliant or potentially non-compliant with
+federal regulations, it is unclear the basis for FIA’s comment that the broader problems
+identified in the finding were not widespread, and required further action to identify the
+extent of the problems, developing a plan to recover the improper payments, and
+notifying control agencies.
+Recommendation 2c Agree Estimated Completion Date: January 2023
+Please provide details of FIA concurs with the recommendation. FIA agrees to collect
+corrective action or overpayments identified in accordance with our policy.
+explain disagreement.
+Page 4 of 19
+
+--- Page 44 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Quality Assurance Reviews
+Finding 3
+FIA did not conduct comprehensive quality assurance reviews of TCA cases to ensure that
+eligibility determinations and related benefits were proper. In addition, FIA did not ensure
+that errors identified through the Temporary Disability Assistance Program (TDAP)
+quality assurance reviews were corrected timely.
+We recommend that FIA
+a. develop comprehensive quality assurance policies to be used by all quality assurance
+staff and conduct quality assurance reviews of TCA cases to ensure that eligibility
+determinations and related benefits were proper,
+b. ensure that errors identified during the TDAP quality assurance reviews are corrected
+timely, and
+c. collect overpayments identified in accordance with its policy.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 3a Agree Estimated Completion Date: December
+2022
+Please provide details of FIA concurs with the recommendation. FIA will continue to take the
+corrective action or appropriate actions to ensure that our quality assurance policies are
+explain disagreement. comprehensive and that all staff conducting such reviews are trained to
+ensure that eligibility determinations and related benefits are correctly
+determined. In the calendar year 2020, FIA had planned to take a
+broader approach to address TCA payment errors, including payments
+issued to individuals participating in the program beyond the 60-month
+timeline. FIA worked with the University of Maryland School of Social
+Work to develop an evidence-based strategy for sampling TCA cases for
+payment accuracy. FIA chose the Stratified Simple Random
+Sample. This methodology is valid statewide with statistical weighting
+while also providing accuracy rate by jurisdiction. The percentage of
+cases sampled for each jurisdiction will be determined by the number of
+unique cases in each jurisdiction. Consistent with national trends,
+quality assurance reviews, including the TCA payment error reviews,
+Page 5 of 19
+
+--- Page 45 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+were temporarily suspended due to the COVID-19 Public Health
+Emergency.
+Recommendation 3b Agree Estimated Completion Date: December
+2022
+Please provide details of FIA concurs with the recommendation. FIA will ensure that payment
+corrective action or errors identified during the TDAP reviews are shared with the LDSSs for
+explain disagreement. timely corrections.
+Recommendation 3c Agree Estimated Completion Date: December
+2022
+Please provide details of FIA concurs with the recommendation. FIA will follow pre-existing
+corrective action or processes to recoup overpayments identified as part of the payment error
+explain disagreement. reviews.
+Page 6 of 19
+
+--- Page 46 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+SNAP, TCA, and TDAP Eligibility
+Finding 4
+FIA did not ensure that the Local Department of Social Services (LDSSs) maintained
+application documentation to support the propriety of SNAP, TCA, and TDAP eligibility
+determinations and other requirements.
+We recommend that FIA
+a. ensure that the LDSSs scan all documentation as required to support the propriety of
+eligibility determinations, and,
+b. obtain the missing documents noted in our finding and take corrective action for any
+unsupported eligibility determinations or other program requirements.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: January 2023
+Please provide details of FIA concurs with the recommendation. FIA will review and update
+corrective action or existing policy manuals to establish clear case file documentation
+explain disagreement. requirements for each program and develop a standard process for
+document repository. After the manuals have been updated, FIA will
+conduct a statewide training on case file documentation. After the initial
+training, we will conduct an annual refresher training on the subject to
+reiterate the importance of proper case file documentation.
+Recommendation 4b Agree Estimated Completion Date: January 2023
+Please provide details of FIA concurs with the recommendation. FIA will obtain the required
+corrective action or missing documents identified in the audit and take corrective action for
+explain disagreement. any unsupported eligibility determinations or other program
+requirements.
+Page 7 of 19
+
+--- Page 47 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Finding 5
+FIA did not always determine whether TCA applicants received unemployment income, as
+required by federal regulations.
+We recommend that FIA
+a. verify unemployment compensation as required by federal regulations and maintain
+documentation of the related results;
+b. identify and record unemployment income for TCA recipients, including those noted
+above, and take appropriate corrective action; and
+c. collect overpayments identified in accordance with its policy.
+Agency Response
+Analysis
+Please provide No concerns with the factual accuracy, except that FIA’s management
+additional comments as was aware of the requirement to verify unemployment income during the
+deemed necessary. first three months TCA benefits are issued, accordingly.
+Auditor’s Comment: FIA’s assertion that FIA management was aware of the
+requirement to verify unemployment income during the first three months of TCA
+benefits is inconsistent with information provided to us during our fieldwork.
+Specifically, we had multiple meetings with FIA management officials in which we were
+informed that FIA management was unaware of such a requirement; a condition which
+appears to be consistent with our test results.
+Recommendation 5a Agree Estimated Completion Date: December
+2022
+Please provide details of FIA concurs with the concept of verifying Unemployment Income
+corrective action or Benefits (UI) as it is already a standard practice. UI benefits are verified
+explain disagreement. at application, redetermination, and when a customer submits an interim
+change. While regular Unemployment Insurance (UI) payments are
+considered unearned income for the purpose of determining TCA
+eligibility, Pandemic Unemployment benefits including Pandemic
+Unemployment Assistance (PUA), Federal Pandemic Unemployment
+Compensation (FPUC), Pandemic Emergency Unemployment
+Compensation (PEUC), and Mixed Earner Unemployment
+Compensation Program (MEUC) were excluded from April 2020 -
+September 2021. Required information was not always available to
+DHS FIA to verify UI due to the delays in processing UI claims at the
+onset of the COVID-19 pandemic at the claims processing state agency
+Page 8 of 19
+
+--- Page 48 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+as noted in publicly available information. As such, it is conceivable
+that a household may have applied and received TCA while their UI
+benefits were pending and would have continued to receive TCA until
+redeterminations resumed if they did not report a change in household
+circumstances.
+Normal practice dictates that FIA eligibility workers verify UI payments
+at application, 3 consecutive months after application, redetermination,
+and when a recipient reports a change in household
+circumstances. However, observing a federally approved COVID-19
+waiver, FIA suspended redeterminations from April 2020 until
+December 2021, which means that the three-month UI payment
+monitoring after redeterminations was also waived. Our normal practice
+resumed in January 2022.
+FIA will be conducting refresher training for all FIA case managers on
+verifying UI payments in accordance with standard practices. FIA is
+also continuing to work with the development team for E&E to create UI
+Review alerts for case managers after E&E has been integrated with the
+Beacon system (Maryland Department of Labor’s UI benefit
+management system).
+Auditor’s Comment: Although FIA agrees with Recommendation 5a, the subsequent
+comments are inconsistent with our test results and certain other information was not
+relevant to our finding. Specifically, FIA states that it verified unemployment income
+(UI) when an individual applied for benefits and the three consecutive months after
+application; however, as noted in our analysis, for 15 of 30 applications tested, there was
+no documented verification when the TCA applicant applied for benefits and for 30 of 30
+applications, there was no documentation for the three months after the initial application.
+In an apparent attempt to explain those test results, FIA stated that UI information was
+not always available to verify the benefits; however, FIA had no documentation
+supporting this assertion or its applicability to the specific items tested.
+FIA also stated that various types of pandemic unemployment were not considered
+income for TCA purposes and therefore, did not need to be verified. As stated in our
+report, our review was focused on regular unemployment benefits and excluded
+pandemic unemployment benefits. Lastly, FIA states that the three-month payment
+monitoring after redeterminations was suspended in accordance with a federal waiver;
+however, our testing was focused on initial applications not redeterminations and
+accordingly, the waiver and related suspension were not applicable.
+Page 9 of 19
+
+--- Page 49 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Recommendation 5b Agree Estimated Completion Date: December
+2022
+Please provide details of FIA concurs with the recommendation. As FIA resumes the established
+corrective action or TCA payment accuracy reviews, overpayments will be pursued when we
+explain disagreement. identify incidents where a customer failed to report a change in
+household circumstance including receipt of UI. We will also follow-up
+on the specific cases identified in the audit and take appropriate action if
+traditional UI (not Pandemic UI) benefits were issued and were not
+reported to the agency.
+Recommendation 5c Agree Estimated Completion Date: Completed
+Please provide details of FIA concurs with the recommendation. FIA will collect overpayments
+corrective action or identified in accordance with our policy on overpayments. Specifically,
+explain disagreement. FIA will pursue overpayments identified as part of its ongoing payment
+accuracy reviews.
+Page 10 of 19
+
+--- Page 50 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Follow-up on Computer Matches
+Finding 6
+FIA did not ensure that all social security number alerts were recorded in the Clients’
+Automated Resource and Eligibility System (CARES) for follow-up purposes.
+We recommend that FIA ensure all SSN match alerts are properly recorded in the system
+for follow up (repeat).
+Agency Response
+Analysis
+Please provide This is factually accurate; however, this issue was directly related to
+additional comments as CARES, the legacy eligibility system which has now been retired and
+deemed necessary. replaced by the E&E system.
+Recommendation 6 Agree Estimated Completion Date: Completed
+Please provide details of FIA concurs with the recommendation. The CARES legacy system has
+corrective action or since been replaced with the E&E system and we have enhanced our
+explain disagreement. procedures to ensure that all SSN match results are properly recorded in
+E&E. E&E has adequate controls and enhancements to ensure that all
+SSN match results are properly recorded in the system and Work Item
+alerts are generated to case managers. FIA continues to provide on-
+going training to remind staff to properly narrate all case actions in E&E.
+Page 11 of 19
+
+--- Page 51 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Finding 7
+FIA did not ensure that the LDSSs conducted timely and appropriate follow-up on the
+Public Assistance Reporting Information System (PARIS) alerts. Our review disclosed that
+the LDSSs did not take timely or appropriate action for 43 of the 46 alerts we tested.
+We recommend that FIA monitor LDSSs PARIS alert activity to ensure that the LDSSs
+a. conduct timely and appropriate follow-up of PARIS alerts (repeat), and
+b. update the system and case notes for unreported income identified by the PARIS
+reports (repeat).
+Agency Response
+Analysis
+Please provide No concerns with the factual accuracy. However, it is important to note
+additional comments as that due to the
+deemed necessary. COVID-19 national pandemic health emergency the collection of
+overpayments was
+placed on hold. The federal overpayment flexibilities waiver expired on
+March 31, 2022, with normal overpayment activities resuming. Prior to
+COVID-19, the FIA Bureau of Program Evaluation (now the Bureau of
+Audit Compliance & Reporting (BACR) completed a monthly review of
+the system generated PARIS report for overdue alerts and communicated
+results in a memorandum to each Local Department of Social Services
+(LDSS). BACR conducted a third layer of monitoring by sampling
+cases within the monthly overdue alerts tracking sheet submitted to the
+LDSSs. This review helped ensure alerts were dispositioned in the
+eligibility system (previously CARES, now E&E). It is important to
+note that based on the analysis, the 844 PARIS alerts noted are less than
+5% of the total PARIS alerts that were dispositioned beyond the 20 day
+time period. Furthermore, PARIS alerts that go beyond the 20 day time
+limit generally have external factors, beyond the control of FIA, that
+cause the alert to be dispositioned past the time limit (i.e. waiting on out-
+of-state confirmation).
+Recommendation 7a Agree Estimated Completion Date: January 2023
+Please provide details of FIA concurs with this recommendation. The LDSSs are responsible for
+corrective action or processing their PARIS alerts, determining the months of overpayments,
+explain disagreement. and updating the eligibility system (previously CARES, now E&E) to
+establish the overpayment and/or close the case. FIA’s BACR will
+resume completing a monthly review of the system generated PARIS
+report for overdue alerts and communicate results in a memorandum
+Page 12 of 19
+
+--- Page 52 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+to each LDSS. A third layer of monitoring will be done by sampling
+cases within the monthly overdue alerts tracking sheet submitted to the
+LDSSs. However, it is important to note that due to the COVID-19
+national pandemic health emergency, the monitoring of PARIS alerts
+and the collection of overpayments were placed on hold. The
+overpayment flexibilities waiver expired on March 31, 2022, with
+normal overpayment activities resuming.
+Recommendation 7b Agree Estimated Completion Date: January 2023
+Please provide details of FIA concurs with this recommendation. The LDSSs are responsible for
+corrective action or completing updates of the eligibility system (previously CARES, now
+explain disagreement. E&E) to follow-up on discovered unreported income. FIA monitors
+improper Temporary Cash Assistance (TCA) and Supplemental
+Nutrition Assistance Program (SNAP) benefit payments
+resulting in payment errors. BACR alerts LDSSs monthly of benefit
+error groups (BEGs) in need of processing within six months of formal
+written communication. However, it is important to note that due to the
+COVID-19 national pandemic health emergency the monitoring of
+BEGs and the collection of overpayments were put on hold. The
+overpayment flexibilities waiver expired on March 31, 2022, with
+normal overpayment activities resuming. However, FIA anticipates that
+it will be current with PARIS alerts by January 2023.
+Page 13 of 19
+
+--- Page 53 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Energy Assistance Programs
+Finding 8
+FIA did not conduct monitoring reviews of certain LAAs in accordance with its policy and
+did not always execute agreements with energy suppliers.
+We recommend that FIA
+a. conduct all the required monitoring reviews and execute a CAP for reports that contain
+a material weakness, including those noted above; and
+b. ensure a current agreement is executed with energy suppliers, as required.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 8a Agree Estimated Completion Date: Completed
+Please provide details of FIA concurs with the recommendation. Since this audit was conducted,
+corrective action or the FIA’s Office of Home Energy Programs (OHEP) has hired a
+explain disagreement. dedicated position for Quality Assurance. This position has since
+completed required monitoring reviews in accordance with our own
+Operations Manual and has completed all year end close out monitoring.
+This position was previously vacant. To ensure continuity of service
+during the pandemic, priority was given to ensuring remaining staff
+focused on benefit remittance. Moving forward corrective action plans
+(CAPs) will be executed and enforced for any material weakness
+identified during an internal monitoring review.
+Recommendation 8b Agree Estimated Completion Date: Completed
+Please provide details of FIA concurs with the recommendation. FIA has since hired a staff
+corrective action or member to ensure all agreements are current, valid, and signed. OHEP
+explain disagreement. has also inventoried and corrected all previous agreements that may have
+been missing a signature or were otherwise deemed incomplete. This
+project was completed in December 2021 and the dedicated staff will be
+responsible for ensuring compliance on an on-going basis.
+Page 14 of 19
+
+--- Page 54 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Contract Monitoring
+Finding 9
+FIA did not adequately administer certain contracts and agreements related to its public
+assistance programs.
+We recommend that FIA
+a. obtain adequate documentation, including payroll records, timesheets, and receipts, to
+verify the accuracy of billings, as required by policy (repeat);
+b. ensure contract modifications are adequately supported and justified, and consider
+competitively procuring new contracts when significant changes to the terms of the
+contract are required; and
+c. in conjunction with DHS, formally determine which entity is responsible for LDSS
+contract oversight and establish processes to oversee and approve LDSS public
+assistance contracts and agreements to ensure that the related invoices are consistent
+with the agreements and that the agreed-upon services are received (repeat).
+Agency Response
+Analysis
+Please provide While a portion of this analysis and recommendation is factually
+additional comments as accurate, we deem our process to be sufficient.
+deemed necessary.
+Centralized Contracts
+FIA has shared with the auditors that each contract is unique and
+monitored differently based on its size and scope of services. As such,
+invoice documentations for contracts under certain offices (i.e. Maryland
+Office for Refugees and Asylees, SNAP Employment and Training
+Programs) are fully reviewed before payments are issued. For most
+emergency food contracts, the administration reviews the invoices on
+test basis and during contract monitoring visits. During the audit, OLA
+auditors acknowledged that invoice verifications existed for certain
+invoices.
+LDSS Contracts
+FIA has established a process for reviewing LDSS contracts related to
+public assistance programs administration. The five contracts that FIA
+did not have on record were executed before the newly established
+review process was established in 2019. In addition to FIA review, each
+contract in the amount of $25,000 or greater is reviewed by the DHS
+Page 15 of 19
+
+--- Page 55 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Office of Procurement, the State Office of Procurement, and the Board
+of Public Works (BPW).
+Recommendation 9a Disagree Estimated Completion Date: N/A
+Please provide details of FIA disagrees with this recommendation as each contract is unique and
+corrective action or monitored differently based on its size and scope of service. As noted,
+explain disagreement. invoice documentations for contracts under certain offices (i.e. Maryland
+Office for Refugees and Asylees, SNAP Employment and Training
+Programs) are fully reviewed before payments are issued. However, for
+most emergency food contracts, the administration reviews the invoices
+on test basis and during contract monitoring.
+Auditor’s Comment: We concluded that FIA’s assertion in its response to the Analysis
+and Recommendation 9a that each contract is to be monitored differently is inconsistent
+with FIA’s Contract Monitoring and Invoice Protocol which states that, “Through the
+protocol, we seek to establish consistency in how FIA contracts are monitored and
+technical assistance is provided. The protocol will be used to ensure that invoices are
+received, reviewed, and paid in accordance with legislative requirements and internal
+policies.”
+Despite numerous requests by OLA during the audit, FIA was unable to provide relevant
+documentation to support the accuracy of billings, nor were such documents provided in
+response to the audit report. Furthermore, while FIA maintains that is has an established
+process for reviewing LDSS contracts, we continue to believe that this process is
+inadequate. For example, as noted in our analysis, FIA had no record of contracts for two
+significant LDSSs from which 40 percent of FIA benefits were issued.
+Recommendation 9b Disagree Estimated Completion Date: N/A
+Please provide details of FIA disagrees with the finding regarding its adherence to contract
+corrective action or modification requirements. The audit conclusion is subjective and not
+explain disagreement. based on specific state or federal rules. The contract referred in the
+report underwent a multistep review process which included a review by
+the State Office of Procurement and the Board of Public Works. Based
+on our expertise of delivering public assistance, the changes to the cost
+structure of the contract were just and fair and did not violate a specific
+law or regulatory requirement.
+Auditor’s Comment: FIA’s response to Recommendation 9b states that the finding’s
+conclusion was subjective. However, it does not address the objective facts in our
+analysis that 1) the modifications were made without the formal determination of the
+Page 16 of 19
+
+--- Page 56 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+practicality or appropriateness of conducting a new procurement and 2) that the Board of
+Public Works was not advised of the potential for FIA making greater vendor payments
+in relation to the work provided.
+Furthermore, FIA’s assertion that the modification was “just and fair” was not supported
+with evidence of the methodology for deciding on the updated pricing, which would be a
+key element in validating such an assertion.
+Recommendation 9c Agree Estimated Completion Date: January 2023
+Please provide details of FIA concurs with the recommendation. Following the prior audit
+corrective action or finding, FIA developed a three-pronged strategy to address this concern.
+explain disagreement. The strategy included the provision of period training to local contract
+managers who are responsible for drafting scopes of work, reviewing
+invoices, processing invoices, and monitoring contracts. It also included
+a plan to develop a central team to provide oversight of local contracts
+and ongoing technical assistance. Two of the three prongs including
+technical assistance and ongoing training have been implemented. Over
+the last two years, we have committed most personnel resources to the
+COVID-19 response. We are committed to revisiting the possibility of
+establishing the local contract oversight role as we transition to post-
+pandemic normalcy.
+Page 17 of 19
+
+--- Page 57 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Grants Management
+Finding 10
+FIA did not obtain supporting documentation to support grant funds were spent as
+intended.
+We recommend that FIA
+a. independently verify, at least on a test basis, that grant funds are spent as intended by
+obtaining and reviewing documentation to support the propriety of payments (repeat);
+and
+b. ensure grant agreements include provisions to submit supporting documentation in
+accordance with its written policies.
+Agency Response
+Analysis
+Please provide Independent verification on a test basis is the current method used. As
+additional comments as noted in the audit analysis, the audit disclosed that FIA obtained and
+deemed necessary. reviewed documentation to support propriety of payments for 3 of the 8
+disbursements reviewed which is evident of our test-based review. FIA
+respectfully requests that this condition be considered a discussion note
+item only.
+Recommendation 10a Disagree Estimated Completion Date: N/A
+Please provide details of FIA disagrees with the recommendation as FIA already reviews invoice
+corrective action or supporting documents on a test basis.
+explain disagreement.
+Auditor’s Comment: FIA disagrees with Recommendation 10a, by claiming that it
+reviews invoice support on a test basis. However, during our audit fieldwork, FIA did
+not inform us that it reviewed grant invoice support on a test basis nor did it define its
+methodology for selecting test items in its existing written policy. Finally, when OLA
+requested documentation for the eight disbursements for testing, FIA did not advise us
+that three of these disbursements were previously reviewed. Consequently, based on
+available audit evidence (or lack thereof) we were compelled to conclude that such a
+review was not performed by FIA. Nevertheless, regardless of the disagreement, FIA’s
+response indicates that it agrees that recommended invoice reviews are appropriate and a
+necessary control.
+Page 18 of 19
+
+--- Page 58 ---
+Department of Human Services
+Family Investment Administration
+Agency Response Form
+Recommendation 10b Agree Estimated Completion Date: July 2023
+Please provide details of FIA agrees with the recommendation. The administration is reviewing
+corrective action or its grant process to ensure that each agreement includes invoice
+explain disagreement. documentation requirements. Depending on the scope and complexity of
+the services in the agreement, the grantees will be required to either
+submit the verifications along with the invoice or maintain the for onsite
+inspection during monitoring visits. FIA will ensure that each grantee
+complies with the invoice verification requirements specific to their
+agreement.
+Page 19 of 19
+
+--- Page 59 ---
+A T
+UDIT EAM
+Catherine M. Clarke, CPA, CIA, CFE
+Audit Manager
+Robert J. Smith, CPA
+Senior Auditor
+Malik A. Farooq
+Kareem R. Jackson
+Andrew W. Mills
+Stacey D. Streett
+Staff Auditors

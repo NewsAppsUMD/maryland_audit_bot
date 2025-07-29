@@ -1,0 +1,1232 @@
+Title: Comptroller of Maryland - Revenue Administration Division
+Date: 08/23/2013
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d1acc9d724560674690
+Extracted: 2025-06-17T22:42:23.810500
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Comptroller of Maryland
+Revenue Administration Division
+September 2016
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Court Ruling on Taxes Paid to Other States 7
+Status of Findings From Preceding Audit Report 7
+Findings and Recommendations 8
+Local Income Tax Revenue Distribution
+Finding 1 – RAD had not determined the underlying causes(s) for 9
+erroneous subdivision codes recorded in SMART for numerous
+taxpayers in one county, which resulted in $8.7 million in local
+income taxes being incorrectly distributed.
+Finding 2 – RAD lacked sufficient policies and procedures to ensure 12
+that all subdivision codes assigned to taxpayers in SMART were
+proper.
+Out-of-State Tax Credits
+* Finding 3 – Required documentation was not always on file to 14
+support out-of-state tax credits claimed on paper tax returns filed
+by individual taxpayers.
+Adjustments to Taxpayer Accounts
+* Finding 4 – Significant financial adjustments to corporate taxpayer 15
+accounts were not always independently reviewed as required.
+Finding 5 – Controls were not in place to ensure adjustments to 16
+critical taxpayer account information were properly reviewed,
+and supporting documentation was not always on file.
+Information Systems Security and Control
+* Finding 6 – Certain critical database security and audit events were 18
+either not logged or not reviewed for propriety.
+Cash Receipts
+Finding 7 – RAD had not established sufficient controls over remotely 19
+deposited checks, and employees with access to collections had the
+capability to adjust taxpayer accounts.
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Replacement Checks
+Finding 8 – RAD lacked documentation that replacement refund checks 21
+were independently reviewed as required.
+Audit Scope, Objectives, and Methodology 22
+Exhibit 1 – Comptroller of Maryland Determined Net Local Income 24
+Tax Under/Over Distributions Tax Years 2010 - 2014
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The Revenue Administration Division’s (RAD) primary responsibilities include
+receiving and depositing various tax remittances, processing tax returns,
+maintaining taxpayer records, distributing taxes in accordance with applicable
+State laws, issuing income tax refunds, and providing assistance to taxpayers.
+RAD uses the Comptroller of Maryland’s automated State of Maryland Tax
+(SMART) system to record and process tax return information and issue refunds
+for individual income taxes, as well as for certain other taxes, such as corporate
+income taxes, employer withholding taxes, and sales and use taxes. RAD also
+administers laws and regulations pertaining to the manufacture, storage,
+transportation, sale, and distribution of alcoholic beverages, tobacco, and motor
+fuel, and collects the related excise taxes. The significant taxes collected by RAD
+(sources greater than $100 million annually), according to RAD’s records, for
+fiscal years 2013 through 2015, are listed in Table 1.
+5
+
+--- Page 8 ---
+Table 1
+Selected Tax Collections and Distributions
+Applicable to Fiscal Years 2013 – 2015
+(sources greater than $100 million annually)
+Fiscal Year
+2013 2014 2015
+(dollars stated in millions)
+Gross income taxes collected $15,884 $16,238 $17,152
+Less:
+Refunds 2,527 2,578 2,601
+Administrative expenses 14 14 14
+Total refunds and expenses 2,541 2,592 2,615
+Balance available for distribution $13,343 $13,646 $14,537
+Distribution of remaining balance:
+To State’s General Fund $8,255 $8,535 $9,124
+To local subdivisions 4,698 4,888 5,185
+To other Funds as provided by 390 223 228
+State Law (such as the
+Transportation Trust Fund)
+Total distributions $13,343 $13,646 $14,537
+Gross sales and use tax collections
+which are primarily credited to the State’s
+General Fund $4,128 $4,211 $4,426
+Gross motor fuel tax collections
+which are primarily credited to the
+Transportation Trust Fund $775 $879 $961
+Gross tobacco tax collections
+which are primarily credited to the State’s
+General Fund $416 $405 $392
+Gross estate tax collections
+which are primarily credited to the State’s
+General Fund $196 $182 $210
+Source: RAD Records
+Note: Distributions shown in this table relate to the stated fiscal year, but were not necessarily
+distributed in that year.
+6
+
+--- Page 9 ---
+Court Ruling on Income Taxes Paid to Other States
+Maryland’s individual income taxes collected from State residents include a State
+income tax due to the State and a local income tax due to the State’s local
+jurisdictions. Residents who earn income in another State are generally required
+to report that income on their Maryland income tax returns, but are allowed a
+credit against their State tax liability for taxes paid to the other state on that
+income. Previously, taxpayers were not allowed a corresponding credit against
+their local income tax liability.
+On May 18, 2015, the United States Supreme Court ruled (Comptroller of the
+Treasury of Maryland v. Wynne) that not permitting the credit against the local
+tax liability was unconstitutional. As a result, residents of Maryland who have
+paid income taxes to another state on income earned in that state are now allowed
+a credit against Maryland’s local income taxes. Residents may file amended
+income tax returns in Maryland for refunds of these taxes previously paid,
+generally subject to statutory time limits for amended returns. According to the
+Comptroller of Maryland’s records, as of November 27, 2015, RAD had issued
+refunds totaling $87.8 million, including $4.8 million in interest, relating to
+10,054 tax returns, as a result of this court ruling.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the 10 findings contained in
+our preceding audit report dated August 23, 2013. We determined that RAD
+satisfactorily addressed 7 of these findings. The remaining 3 findings are
+repeated in this report.
+7
+
+--- Page 10 ---
+Findings and Recommendations
+Local Income Tax Revenue Distribution
+Background
+The Revenue Administration Division (RAD) of the Comptroller of Maryland is
+responsible for processing individual income tax returns and collecting and
+distributing the related income tax revenue on behalf of the State and its 24
+jurisdictions (23 counties and Baltimore City). The State’s income tax revenue is
+primarily distributed to the General Fund. Each jurisdiction’s local income tax
+revenue is distributed in accordance with the local income tax rates established by
+ordinance or resolution, within parameters specified in State law. Taxpayers use
+those rates to determine the amount of their local income tax liability when
+preparing their tax returns.
+RAD is also required by law to distribute a portion of the local income tax
+revenue collected to the municipal corporations and special taxing districts
+(collectively referred to as special taxing areas) established within most
+jurisdictions. There are 172 special taxing areas located within 21 counties in the
+State. Two counties and Baltimore City have no special taxing areas within their
+boundaries. The amount distributed to a special taxing area is generally equal to
+17 percent of the local income tax collected from each taxpayer living within the
+boundaries of that special taxing area. Local income tax collected from taxpayers
+who do not live within a special taxing area is distributed entirely to the
+jurisdiction in which the taxpayer resided during the tax year, as is the remaining
+83 percent of the local income tax collected from taxpayers residing in special
+taxing areas. During fiscal year 2015, RAD distributed approximately $4.9
+billion in local income taxes, of which $111.1 million was distributed to special
+taxing areas.
+Within the Comptroller of Maryland’s automated State of Maryland Tax
+(SMART) system, each taxpayer is assigned a numeric subdivision code, based
+on the taxpayer’s address at the end of the tax year. The subdivision code
+identifies the jurisdiction, as well as any applicable special taxing area. RAD uses
+subdivision codes to distribute local income taxes associated with the tax returns
+to the applicable subdivisions.
+8
+
+--- Page 11 ---
+Finding 1
+RAD had not determined the underlying cause(s) for erroneous subdivision
+codes recorded in SMART for numerous taxpayers in one county. The
+erroneous codes resulted in $8.7 million in local income taxes being
+incorrectly distributed among the county and its special taxing areas for tax
+years 2010 through 2014.
+Analysis
+A review conducted by the Comptroller of Maryland disclosed that incorrect
+subdivision codes and related special taxing areas had been recorded in SMART
+for certain taxpayers in Montgomery County. The erroneous coding resulted in
+$8.7 million in local income taxes being incorrectly distributed among the special
+taxing areas within the County and the County at large (not within a special taxing
+area) for tax years 2010 through 2014. Although steps have been taken to correct
+the incorrect distribution of local income taxes in Montgomery County for those
+tax years, RAD had not conducted a detailed analysis to determine the underlying
+cause(s) of the erroneous subdivision coding which impacts the local income tax
+distribution. Also, the applicable taxpayer records had not been corrected in
+SMART. During fiscal year 2014, RAD distributed approximately $39.4 million
+in local income taxes to special taxing areas within the County, and $1.3 billion to
+the County at large.
+Based on concerns raised by certain State and local government officials, RAD
+became aware that some local income tax revenue collected from Montgomery
+County taxpayers may not have been properly distributed. In response, the
+Comptroller of Maryland’s Bureau of Revenue Estimates (BRE) reviewed the
+propriety of taxing areas recorded in SMART for essentially all taxpayers within
+Montgomery County’s 22 special taxing areas and the County at large using data
+from tax years 2010 through 2014. The review included a series of computer
+matches of address data recorded on tax returns in SMART with corresponding
+data available from selected sources, including certain State and local entities.
+BRE’s review resulted in the following conclusions:
+• Individual income tax returns filed for 14,861 of approximately 500,000 tax
+returns filed by Montgomery County taxpayers for tax year 2014 were
+assigned an incorrect subdivision code within SMART, and similar
+discrepancies were noted for tax years 2010 to 2013. As a result, local
+income taxes totaling approximately $8.7 million had been incorrectly
+distributed to certain special taxing areas within the County for tax years 2010
+through 2014 (as detailed in Exhibit 1). Specifically, over-distributions
+ranging from approximately $5,000 to $4.9 million were made to 8 special
+taxing areas. Those taxes should instead have been distributed to the
+9
+
+--- Page 12 ---
+County’s other 14 special taxing areas or to the County at large. The under-
+distributions for these 15 subdivisions ranged from approximately $10,000 to
+$6.1 million.
+• For an additional 1,393 income tax returns filed for tax year 2014, the
+taxpayer addresses as recorded in SMART could not be identified as
+legitimate addresses within Montgomery County, and no further investigation
+was conducted by reviewing the actual tax returns. Consequently, the extent
+to which distribution errors occurred for these returns was not determined.
+These returns included approximately $2.2 million in local income taxes due
+for tax year 2014, a portion of which may be due to special taxing areas. The
+inability of BRE’s computer matches to identify the legitimacy of these
+addresses may have occurred, for example, if address information on a tax
+return was not completely recorded in SMART. In such cases, the incomplete
+information would not allow BRE’s automated process to identify the actual
+correct address and corresponding subdivision code.
+The Comptroller’s Office contracted with a public accounting firm to perform
+certain agreed-upon procedures for tax year 2014 relating to the results of BRE’s
+review. The Office has stated in written testimony (during the fiscal year 2017
+legislative budget hearings) that the firm’s review found that BRE’s identification
+of misallocated receipts and the proposed reallocations were proper. In this
+regard, the firm’s February 2016 report indicates that based on its statistical
+approach, the errors identified by the firm with respect to BRE’s proposed
+reallocations for the 14,861 returns were within the five percent tolerable error
+rate established by the firm.
+Our judgmental selection of 60 Montgomery County tax returns filed for tax year
+2014 disclosed 31 returns were assigned to an incorrect taxing area in SMART,
+resulting in the incorrect distribution of $63,571 in local income taxes. For
+example, our comparison of address information on 20 returns for one taxing area
+with address data that RAD had received from that area disclosed 9 incorrectly
+assigned returns. As a result, local income taxes associated with these returns
+totaling $32,596 had been incorrectly distributed. We determined that in all but
+one case the returns we found to be incorrectly assigned were also identified and
+appropriately addressed by BRE in its review. We determined that the one case
+not identified by BRE was included in the aforementioned 1,393 returns for which
+BRE could not identify the proper taxing area.
+As of March 16, 2016, RAD had paid the aforementioned 14 special taxing areas
+and Montgomery County $8.7 million for the amounts that were owed them as a
+result of these improper distributions. Funding for these payments came from the
+10
+
+--- Page 13 ---
+Local Income Tax Reserve Fund, which is a fund maintained by RAD for the
+collection and distribution of local income taxes. In February 2016, BRE advised
+the 8 taxing areas that received an over-distribution for tax years 2010 to 2014
+that they would be required to repay those funds, in equal amounts, over a 10-year
+period through a reduction in their regular tax distributions beginning in February
+2019, and no interest would be assessed. The repayment of these funds over an
+extended period seems reasonable since it could have a significant impact on
+certain special taxing areas’ financial circumstances. For example, the $4.9
+million overpayment to one special taxing area exceeds its total annual operating
+budget. We estimated, based on fiscal year 2016 interest rates, that the erroneous
+local tax distributions made, coupled with the extended repayment period, will
+cost the State approximately $685,000 in interest over the repayment period.
+The Office also stated in its written testimony to the budget committees that the
+scope of this issue is likely specific to Montgomery County and is likely the result
+of the automated processing system used by the Comptroller (SMART) being
+unable to properly accommodate taxing jurisdictions that share zip codes.
+However, without a more detailed analysis of the cause or causes, it is uncertain if
+other jurisdictions in the State also experienced this problem and what actions are
+needed to resolve the matter.
+The information in Exhibit 1, which shows the details of the $8.7 million that was
+incorrectly distributed, also shows certain significant fluctuations from year-to-
+year in the amounts of incorrect distributions that occurred within the same taxing
+area, raising questions as to whether there could be multiple causes. For example,
+according to the data, one taxing area with a net over-distribution received
+$10,712 less than it was due for tax year 2013, but $590,908 more than it was due
+for tax year 2014. We were advised that the Comptroller’s Office is considering
+reviewing the propriety of taxing areas assigned in jurisdictions other than
+Montgomery County. However, as of June 23, 2016 no additional action had
+been taken.
+As of June 23, 2016, RAD had not made any adjustments to subdivision codes
+recorded in SMART for discrepancies identified by BRE’s review. We were
+advised that, because no adjustments had been made, it would be necessary to
+identify and correct any misallocation of local income taxes for tax year 2015,
+similar to the reallocation performed for tax years 2010 through 2014.
+11
+
+--- Page 14 ---
+Recommendation 1
+We recommend that RAD, in conjunction with the Comptroller’s Office,
+a. analyze the reasons the coding errors occurred, and implement process
+changes and correct tax data errors as needed to address the reasons
+identified;
+b. determine whether such coding problems could be affecting distributions
+in other jurisdictions and, if so, expand the review of subdivision codes
+and special taxing areas to all relevant jurisdictions and take appropriate
+action with respect to any local income taxes that were incorrectly
+distributed; and
+c. manually review the aforementioned 1,393 returns to ensure that special
+taxing areas are properly assigned and local income taxes are correctly
+distributed for these returns.
+Finding 2
+RAD lacked sufficient policies and procedures to ensure that all subdivision
+codes assigned to taxpayers in SMART were proper. In particular, adequate
+guidance was not provided to employees responsible for identifying special
+taxing areas for tax returns that suspended from processing, and source data
+used by these employees were outdated and incomplete.
+Analysis
+RAD did not have sufficient policies and procedures to ensure that all subdivision
+codes and related special taxing areas assigned to taxpayers in SMART were
+proper. Consequently, there was a lack of assurance that all local income taxes
+were accurately distributed. As commented upon in Finding 1, RAD recently
+determined that local income taxes for one County had been improperly
+distributed due to the improper coding of numerous taxpayers.
+SMART automatically assigns the same subdivision code from the prior tax year
+for taxpayers who previously filed a Maryland return, if there has been no change
+of address. When individuals file a Maryland return for the first time or file a
+return with a different address from the previous year, RAD has certain automated
+procedures in place to help identify, assign, and record the proper subdivision
+code for the taxpayer. If these automated procedures are not successful in
+identifying a subdivision code, the return will suspend from processing, and RAD
+employees will manually investigate and determine the proper code. The number
+of returns suspended and manually investigated for coding issues during a filing
+season was not readily available. Our review identified the following conditions
+which may have contributed to the assignment of erroneous subdivision codes to
+taxpayers.
+12
+
+--- Page 15 ---
+• Comprehensive written guidance was not provided to the 26 employees
+responsible for identifying the proper special taxing areas and corresponding
+subdivision codes for tax returns suspended from processing. Although RAD
+maintained a written manual that described certain procedures to be performed
+by these employees, the manual did not instruct employees on how to address
+certain common situations including (1) a taxpayer’s failure to disclose his or
+her taxing area on the tax return; (2) a tax return with a stated taxing area that
+conflicted with the taxpayer’s stated mailing address; and (3) a non-standard
+address, such as a post office box number.
+• Sources of information used by these employees to identify special taxing
+areas for suspended returns, based on the taxpayer addresses, were not always
+current or complete. Address listings within each special taxing area were
+generally received directly from the taxing areas; however, RAD did not
+routinely inquire about or request updated listings. For example, we noted
+that listings used by employees for seven taxing areas in Montgomery and
+Allegany counties were published in 1995. We also found that certain address
+listings being used were incomplete, as they excluded all addresses for several
+known special taxing areas. The aforementioned BRE review, as well as our
+own review (both mentioned in Finding 1), disclosed errors in the assignment
+of taxing areas in Montgomery County for some of the same areas for which
+outdated address information existed.
+• RAD lacked procedures to ensure that subdivision codes that were currently
+recorded in SMART, based on prior year returns, were accurate. As
+previously stated, returns that were received with the same address as the prior
+year were generally assigned by SMART to the same taxing area as the prior
+year. Without a procedure to periodically verify existing subdivision codes,
+any incorrect codes, such as codes for which the initial assignment was
+incorrect, would be allowed to continue for these taxpayers who submit
+returns with the same address in subsequent years.
+• Current tax forms do not facilitate identification of a taxpayer’s correct taxing
+area, which should correspond to the taxpayer’s address on the last day of the
+tax year. For example, Maryland Form 502 (Resident Income Tax Return)
+requires the taxpayer to record his or her current mailing address (at the time
+of filing the return), and the county and the special taxing area, if any, in
+which the taxpayer resided on the last day of the year. However, the taxpayer
+is not required to provide his or her address as of the last day of the tax year, if
+different. Without knowing the taxpayer’s address as of the last day of the tax
+year, RAD cannot verify the taxing area reported by the taxpayer. RAD
+13
+
+--- Page 16 ---
+advised us that it is considering modifying future tax forms to require the
+taxpayer’s full address as of the last day of the tax year.
+Recommendation 2
+We recommend that RAD
+a. establish comprehensive written policies and procedures for employees to
+follow when identifying special taxing areas and assigning subdivision
+codes for suspended returns,
+b. ensure that current and complete address data are obtained on a routine
+basis from all special taxing areas,
+c. take the necessary steps to ensure that correct subdivision codes have
+been assigned to all addresses recorded in SMART, and
+d. consider revising tax forms so that taxpayers are required to submit
+sufficient address information to facilitate the proper assignment of
+taxing area subdivision codes.
+Out-of-State Tax Credits
+Finding 3
+Required documentation was not always on file to support out-of-state tax
+credits claimed on paper tax returns filed by individual taxpayers.
+Analysis
+Required documentation was not always on file to support out-of-state tax credits
+claimed on paper tax returns filed by individual taxpayers. We examined 20 tax
+returns submitted in paper format for tax year 2013 that claimed out-of-state tax
+credits of approximately $35.0 million. Our test included the 9 largest out-of-
+state tax credits claimed on paper returns that year. We noted 6 returns for which
+credits totaling $27.2 million were allowed, even though required supporting
+documentation for these credits was not on file. A similar condition was
+commented upon in our preceding audit report.
+Generally, Maryland residents must report income earned in another State on their
+Maryland income tax return, but are entitled to a credit against their Maryland tax
+liability for taxes paid to these other states. Individual taxpayers who submit a
+Maryland paper income tax return claiming an out-of-state tax credit are required
+by RAD to submit supporting documentation (for example, a copy of the tax
+return filed with the other state) with their return. RAD’s procedures stipulate
+that credits be disallowed if the required documentation is not received.
+According to RAD’s records, out-of-state tax credits totaling $111.9 million were
+14
+
+--- Page 17 ---
+claimed by taxpayers on approximately 14,300 paper tax returns for tax year
+2013.
+Recommendation 3
+We recommend that RAD
+a. ensure that all required documentation is submitted and retained to
+support out-of-state tax credits claimed (repeat);
+b. take appropriate action, such as disallowing the claimed credit when the
+required documentation is not submitted (repeat); and
+c. investigate the aforementioned six returns and recover any amounts due
+(repeat).
+Adjustments to Taxpayer Accounts
+Finding 4
+Significant financial adjustments to corporate taxpayer accounts were not
+always independently reviewed, as required, and procedures did not provide
+assurance that all adjustments were identified for possible review.
+Analysis
+Significant financial adjustments to corporate taxpayer accounts processed by one
+RAD unit were not always reviewed by supervisory personnel in accordance with
+RAD’s procedures. Such adjustments may, for example, reduce a corporation’s
+tax liability in SMART due to information from an amended return. Our test of
+10 financial adjustments processed by the unit during our audit period, which
+reduced taxpayer liabilities by $157.2 million, disclosed that there was no
+documented supervisory review for 3 of these adjustments which totaled $23.4
+million. Furthermore, the unit did not use automated reports of adjustments
+processed to identify adjustments for review. Rather, the unit used documentation
+prepared by employees who processed the adjustments. Consequently, there was
+no assurance that all adjustments processed by the unit were identified for review.
+Similar conditions were commented upon in our preceding audit report.
+RAD’s written procedures for the unit require supervisory review of all
+significant adjustments. Additionally, the procedures require that automated
+reports of adjustments processed are to be used to identify adjustments for review.
+RAD advised us that problems relating to use of the automated reports have been
+corrected, and that since October 2015 the reports have been used for reviewing
+and approving adjustments. According to RAD’s records, during the period from
+July 2012 through June 2015, this unit processed adjustments that reduced
+corporate tax liabilities by $696.5 million.
+15
+
+--- Page 18 ---
+Recommendation 4
+We recommend that RAD
+a. ensure that significant financial adjustments to corporate taxpayer
+accounts are reviewed by supervisory personnel in accordance with its
+procedures, and that these reviews are documented (repeat); and
+b. use automated reports of adjustments processed to identify adjustments
+for review (repeat).
+Finding 5
+Controls were not in place to ensure adjustments to critical taxpayer account
+information were properly reviewed, and supporting documentation was not
+always on file.
+Analysis
+Adequate controls were not in place over adjustments to critical taxpayer account
+information on SMART, such as a change to a taxpayer’s address or identification
+number, and RAD did not always retain documentation to support these
+adjustments. According to RAD’s records, approximately 40,000 nonfinancial
+adjustments to taxpayer account information were recorded on SMART during
+fiscal year 2015.
+Our review of procedures and controls in place at the three RAD units responsible
+for processing approximately 34,000 of these adjustments disclosed that none of
+the units had adequate procedures in place to ensure the propriety of the
+adjustments. Supervisory personnel responsible for reviewing adjustments in two
+of the units used documentation prepared by the employees who processed the
+adjustments to identify transactions for review, rather than using available
+automated output reports of adjustments processed. Although output reports were
+generated by the third unit, certain adjustments were not subject to the
+supervisory review process and employees approved other adjustments without a
+review of source documentation.
+In addition, our test of 40 adjustments (primarily address changes) processed by
+these three units during fiscal year 2015 disclosed that documentation was not on
+file to support the propriety of 10 of the adjustments, all of which were processed
+by the same unit.
+16
+
+--- Page 19 ---
+Adequate control over taxpayer information recorded in SMART is critical to
+ensure that all transactions are accurately recorded and accounted for. For
+example, inaccurate or improper address changes in SMART could result in
+refund checks being diverted or inaccurate distributions of local income taxes.
+RAD’s written procedures require use of automated reports of all adjustments to
+taxpayer account information for supervisory review. In addition, these
+procedures require that documentation supporting these adjustments be retained
+for audit purposes.
+Recommendation 5
+We recommend that RAD
+a. ensure that adjustments to critical taxpayer account information are
+reviewed by supervisory personnel for propriety by verifying output
+reports of adjustments processed to supporting documentation, at least
+on a test basis;
+b. ensure that these reviews are documented; and
+c. retain supporting documentation for adjustments processed.
+Information Systems Security and Control
+Background
+RAD supports processing for several key tax systems. The most significant tax
+systems supported include the system for the individual and corporate income
+taxes and the sales and use taxes (SMART), and the motor fuel tax system.
+RAD’s centralized automated support for these systems includes processing tax
+remittances, tax returns, and tax refunds. The automated applications for these
+systems operate on the Comptroller of Maryland – Information Technology
+Division’s (ITD) Annapolis Data Center mainframe computer, with security
+software used as the primary means to protect the applications and related tax
+data.
+Additionally, the SMART system interfaces with the iFile, bFile, and Bill Pay
+systems. RAD operates these systems that allow individuals to file individual
+income tax returns (iFile), businesses to file returns for employer withholding
+taxes and sales and use taxes (bFile), and individuals and businesses to pay taxes
+(Bill Pay) over the Internet.
+The iFile, bFile, and Bill Pay systems are three-tiered, consisting of a website tier,
+an application software tier, and the back-end database tier. The physical servers
+supporting these systems reside in the ITD’s Annapolis Data Center computer
+room.
+17
+
+--- Page 20 ---
+Finding 6
+Critical SMART, Bill Pay, and iFile database security and audit events were
+either not logged or not reviewed for propriety.
+Analysis
+Critical SMART, Bill Pay, and iFile database security and audit events were
+either not logged or not reviewed for propriety.
+• Bill Pay and iFile database security and audit events such as adding and
+configuring roles of system users and turning off the audit function were not
+logged even though the capability to perform such logging existed. A similar
+condition was commented upon in our preceding audit report.
+• Detailed change reports supporting the items identified on a critical security
+system software report for the SMART database, such as changes in tax rates
+or tax liabilities, were not reviewed to ensure that the changes were proper. A
+similar condition was commented upon in our preceding audit report.
+• SMART system database security reports of grants and revokes of users’
+privileges and the assignment of changes to a userid were not reviewed for
+propriety.
+These conditions could result in unauthorized or inappropriate activities (affecting
+the integrity of the production database information) going undetected by
+management.
+The State of Maryland Information Security Policy requires that information
+systems generate audit records to ensure accountability for security-relevant
+events, that the audit records be routinely reviewed by appropriate officials for
+suspicious activities or suspected violations, and that findings be reported for
+prompt resolution.
+Recommendation 6
+We recommend that RAD implement appropriate database monitoring
+controls over the SMART, Bill Pay, and iFile tax systems. Specifically, we
+recommend that RAD
+a. log all critical Bill Pay and iFile database security and audit events
+(repeat);
+b. ensure that reviews of the propriety of the critical security system
+software reports for the SMART system include a review of the
+supporting detail change reports (repeat); and
+18
+
+--- Page 21 ---
+c. review all significant database (including SMART, Bill Pay, and iFile)
+security reports for propriety on a timely basis, document these reviews
+and retain the reviews for future reference.
+Cash Receipts
+Finding 7
+RAD did not establish sufficient controls over checks for payment of income
+taxes which were received in the mail and remotely deposited. Additionally,
+several employees were assigned incompatible functions, and certain
+adjustments to payments recorded in SMART were not independently
+reviewed.
+Analysis
+Controls were not sufficient over checks for payment of income taxes which were
+received in the mail and were processed using the remote deposit system. Remote
+deposit is a process whereby checks are scanned and the images of the checks are
+sent electronically to the bank for deposit. In addition, several employees had
+access to collections and the ability to record adjustments in taxpayer accounts,
+and certain adjustments to check payment amounts recorded in taxpayer accounts
+in SMART were not reviewed as required. Most checks received by RAD for
+income tax payments are received through the mail. According to RAD’s records,
+mail collections totaled approximately $4 billion during fiscal year 2015 of which
+at least $3.4 billion was deposited remotely.
+• RAD did not reconcile its record of checks that had been remotely deposited
+and were subsequently destroyed with its initial record of checks received.
+This reconciliation is required by the Office of the State Treasurer to ensure
+that all checks were destroyed, reducing the possibility that the checks could
+be misappropriated.
+• Fifteen employees with access to mail collections, of which 11 were
+responsible for processing the collections, also had the capability to record
+critical financial adjustments to taxpayer accounts in SMART, such as to
+reduce a tax liability. Although RAD had a process to review financial
+adjustments in SMART, only selected transactions were reviewed and, as
+previously mentioned (Finding 4), the reviews for certain transactions were
+not adequate. According to RAD’s records, these 15 employees processed
+adjustments totaling approximately $2.5 million during our audit period.
+19
+
+--- Page 22 ---
+• Supervisory personnel did not consistently review certain adjustments to
+check payments automatically recorded in SMART, in accordance with its
+procedures. In a process separate from the remote deposit function, checks
+received in the mail for income tax payments were scanned to record the
+related payments in taxpayer accounts in SMART. Certain RAD employees
+manually adjusted the check amounts in SMART when necessary to correct
+the automated postings. RAD’s procedures called for output reports to be
+generated weekly, for supervisory review purposes, of all manual adjustments
+that reduced a recorded payment to zero. These adjustments were deemed to
+be the highest risk, since they could indicate that the corresponding check had
+been misappropriated. However, we noted that, during the period from
+February 19, 2012 through June 27, 2015 (175 weeks), no reports were
+retained and no adjustments had been reviewed for 105 of those 175 weeks.
+In addition, 6 of the 70 weekly reports that were available were not signed as
+evidence that they were reviewed.
+As a result of these conditions, receipts could be lost or misappropriated without
+detection. The Office of the State Treasurer’s Policy on the Use of Remote
+Deposit Services by Maryland State Agencies requires that agencies
+independently reconcile destroyed checks to the record of incoming checks. The
+Comptroller of Maryland’s Accounting Procedures Manual requires the
+establishment of sufficient internal controls over collections, including adequate
+separation of cash receipt processing duties.
+Recommendation 7
+We recommend that RAD
+a. reconcile records of remotely deposited checks that have been destroyed
+with the record of checks received,
+b. ensure that employees who have access to collections do not have the
+capability to record critical adjustments to taxpayer accounts in SMART,
+c. ensure that all adjustments recorded in SMART to reduce check
+payments to zero are subject to the required supervisory review, and
+d. conduct a review of adjustments to check payments recorded in SMART
+during the aforementioned weeks that the review was not performed.
+20
+
+--- Page 23 ---
+Replacement Checks
+Finding 8
+RAD lacked documentation that checks, which were issued to replace refund
+checks that were returned to RAD, were reviewed as required by RAD’s
+policy.
+Analysis
+RAD lacked documentation that replacement refund checks, which totaled
+approximately $125 million during our audit period, were reviewed for propriety
+in accordance with RAD’s policy. Replacement checks may be generated, for
+example, when an original refund check is returned by a taxpayer due to an error
+or death of the taxpayer.
+The output reports that were used by supervisory personnel to select replacement
+checks for review were not complete, and the required number of checks was not
+reviewed for propriety. We compared the replacement checks listed on four
+weekly output reports generated during the period from February 2013 through
+May 2015 with data that we obtained separately from RAD of all replacement
+checks processed. We noted that three of the weekly reports did not include a
+total of 750 checks in the aggregate amount of $721,044. As a result, these
+checks were not subject to the independent supervisory review process.
+Furthermore, RAD’s policy requires that one check from each page of the output
+reports be selected for supervisory review of supporting documentation to ensure
+the propriety of these payments; however, our review of 15 output reports
+generated during this period disclosed that, of the 13,084 replacement checks
+listed on 256 pages, there was documentation of an independent supervisory
+review for only 29 of these checks.
+Recommendation 8
+We recommend that RAD
+a. ensure that output reports used to select replacement checks for review
+include all replacement checks generated;
+b. ensure that replacement checks on output reports are reviewed according
+to its policy; and
+c. review for propriety, at least on a test basis, the aforementioned 750
+checks not included in output reports.
+21
+
+--- Page 24 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Comptroller of Maryland –
+Revenue Administration Division (RAD) for the period beginning February 15,
+2012 and ending June 30, 2015. The audit was conducted in accordance with
+generally accepted government auditing standards. Those standards require that
+we plan and perform the audit to obtain sufficient, appropriate evidence to
+provide a reasonable basis for our findings and conclusions based on our audit
+objectives. We believe that the evidence obtained provides a reasonable basis for
+our findings and conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine RAD’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included the processing, evaluating, verifying, and
+recording of tax data as reported by taxpayers and other parties; the collection of
+tax receipts; and the distribution of tax refunds. We also determined the status of
+the findings included in our preceding audit report.
+Our audit did not include certain support services (such as processing of invoices,
+maintenance of accounting records, and related fiscal functions) provided to RAD
+by the Office of the Comptroller. These support services are included within the
+scope of our audit of the Office of the Comptroller. In addition, our audit did not
+include certain support services provided to RAD by the Comptroller of Maryland
+– Information Technology Division related to the procurement and monitoring of
+information technology equipment and services and the operation of the
+Annapolis Data Center. The operation of the Annapolis Data Center includes the
+development and maintenance of RAD applications and maintenance of the
+operating system and security software environment. These support services are
+included in the scope of our audits of the Information Technology Division.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+RAD’s operations, and tests of transactions. Generally, transactions were selected
+for testing based on auditor judgment, which primarily considers risk. Unless
+otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+22
+
+--- Page 25 ---
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+We also performed various data extracts of pertinent information from the
+Comptroller’s SMART system for the purpose of testing certain areas, such as tax
+credits and refunds. We performed various tests of the relevant data and
+determined that the data were sufficiently reliable for the purposes the data were
+used during the audit. Finally, we performed other auditing procedures that we
+considered necessary to achieve our audit objectives. The reliability of data used
+in this report for background or informational purposes was not assessed.
+RAD’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings related to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect RAD’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to RAD that did not warrant inclusion in this report.
+The response from the Comptroller of Maryland, on behalf of RAD, to our
+findings and recommendations is included as an appendix to this report. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise the Comptroller of Maryland regarding the
+results of our review of its response.
+23
+
+--- Page 26 ---
+Exhibit 1
+Net Local Income Tax Under/Over Distributions
+Tax Years 2010 – 2014 as Determined by the Comptroller of Maryland
+2010 2011 2012 2013 2014 Total
+Subdivisions with Net Under-Distributions
+Montgomery County $ 1,837,583 $ 1,853,638 $ 1,357,034 $ 768,339 $ 266,827 $ 6,083,421
+Chevy Chase Section 3 (13,201) 4,728 16,909 (4,614) 63,305 67,127
+Chevy Chase Section 5 (22,651) 18,832 22,313 6,153 188,848 213,495
+Chevy Chase View (6,439) 2,434 32,718 47,446 57,009 133,168
+Chevy Chase Village (55,638) 14,055 49,109 149,957 694,258 851,741
+Drummond 596 (18,138) (2,796) 21,229 33,856 34,747
+Friendship Heights 9,115 (54,462) 2,145 (23,671) 82,951 16,078
+Garrett Park 3,917 8,452 (2,509) (1,792) 2,373 10,441
+Martin’s Additions (283) 15,019 16,620 43,633 182,030 257,019
+North Chevy Chase 2,612 12,695 19,743 18,982 12,253 66,285
+Oakmont 2,557 4,402 9,513 9,282 21,203 46,957
+Poolesville (33,104) 9,679 29,845 69,783 85,016 161,219
+Somerset (39,858) (4,728) 21,268 39,039 196,143 211,864
+Takoma Park 8,572 51,407 79,905 120,740 192,686 453,310
+Washington Grove 4,056 13,712 15,366 2,630 13,170 48,934
+Total $ 8,655,806
+Subdivisions with Net Over-Distributions
+Barnesville $ (4,293) $ (8,730) $ (11,768) $ (9,008) $ (8,059) $ (41,858)
+Brookeville (30,728) (41,690) (38,549) (63,185) (99,877) (274,029)
+Chevy Chase (1,172,426) (1,461,346) (1,324,717) (630,569) (330,017) (4,919,075)
+Gaithersburg (357,511) (390,040) (316,649) (453,123) (958,790) (2,476,113)
+Glen Echo (2,967) (12) 1,438 (7,601) 4,124 (5,018)
+Kensington 22,532 12,653 18,393 (36,567) (22,339) (5,328)
+Laytonsville (67,305) (67,480) (61,698) (77,795) (86,063) (360,341)
+Rockville (85,136) 24,921 66,366 10,712 (590,908) (574,045)
+Total ($ 8,655,806)
+Source: Bureau of Revenue Estimates Records
+Note: Totals may not add up due to rounding
+24
+
+--- Page 29 ---
+COMPTROLLER OF MARYLAND
+REVENUE ADMINISTRATION DIVISION
+RESPONSES TO OLA FINDINGS AND RECOMMENDATIONS
+Local Income Tax Revenue Distribution
+RAD Response to OLA Analysis
+After internal reviews by RAD management revealed inconsistencies in the distribution of tax
+revenue to Montgomery County municipalities, the Comptroller took swift action to address this
+matter to provide proper recourse for jurisdictions affected and to prevent such errors from
+recurring in the future. The Comptroller took immediate steps to ensure that municipalities that
+did not receive the accurate revenue distribution were credited and worked closely with
+municipal leaders and other stakeholders to develop a remittance plan and timeline that is
+satisfactory to the jurisdictions that received more funds than they were owed.
+The internal reviews and subsequent audit by an independent, third-party auditor found that
+RAD’s distribution model contained coding errors and process opportunities that resulted in the
+misallocation of revenue to several Montgomery County jurisdictions. It should be noted that this
+distribution model was in place for many years, long before the incumbent Comptroller took
+office. However, the Comptroller is committed to ensuring that these incidents are prevented in
+the future and welcomes the opportunity to adopt a series of changes that would ensure greater
+accuracy moving forward.
+The Comptroller will also conduct an internal statewide audit to ensure that all municipalities’
+and counties’ accounts are properly accounted for and are accurately reconciled. This proactive
+action by the Comptroller seeks to confirm that the modifications to the distribution process will
+significantly improve the accuracy in which RAD distributes the local income tax revenue to the
+various taxing jurisdictions throughout the state.
+The distribution of local income tax funds is a very complex component of tax administration
+that relies very heavily on information provided by the taxpayer and cooperation from local
+government entities. Prior to the OLA audit, and as stated in the analysis, RAD had identified
+several contributing factors for the coding errors.
+To address this issue, RAD contracted with an independent auditor to examine the review
+process with the goal of confirming the root cause of the errors and assess the overall effect and
+impact these coding errors had on the business process. The initial analysis by the Bureau of
+Revenue Estimates (BRE) represented approximately 3.6% of the tax returns filed. Accordingly,
+the distributions were initially determined to be 96.4% accurate. RAD modified its processes
+and improved its accuracy, per the independent auditor’s findings, to a rate of 99.7%.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 1 of 13
+
+--- Page 30 ---
+We do acknowledge that during the start of the OLA audit, the actual underlying causes of the
+misallocation error were not yet determined; however, RAD management had identified potential
+inconsistencies and began its review before the commencement of the audit. RAD has completed
+its review and determined the reasons the coding errors occurred, has developed appropriate
+process enhancements to increase the accuracy of future local income tax distributions, and has
+reconciled the previous distributions. RAD provided information to the OLA auditors on the
+timely actions that the Comptroller took to immediately address this issue.
+Furthermore, it is worth noting that the OLA analysis included inconsistent data that could be
+misinterpreted and requires further clarification. For example, OLA indicates that $8.7 million
+was incorrectly distributed for five tax years: 2010 through 2014; however, OLA only noted the
+total distributions for fiscal year 2014: $39.4 million to the special taxing areas and $1.3 billion
+to Montgomery County. For tax years 2010 through 2014, more than $6 billion was distributed.
+The reallocation represented less than 0.2% of the total distribution during this period.
+OLA Recommendation 1
+We recommend that RAD, in conjunction with the Comptroller’s Office,
+a. Analyze the reasons the coding errors occurred, and implement process changes and
+correct tax data errors as needed to address the reasons identified;
+b. Determine whether such coding problems could be affecting distributions in other
+jurisdictions and, if so, expand the review of subdivision codes and special taxing areas
+to all relevant jurisdictions and take appropriate action with respect to any local
+income taxes that were incorrectly distributed; and
+c. Manually review the aforementioned 1,393 returns to ensure that special taxing areas
+are properly assigned and local income taxes are correctly distributed for these returns.
+RAD Responses to the Recommendations
+Recommendation A: Analyze the reasons the coding errors occurred, and implement
+process changes and correct tax data errors as needed to address the reasons identified.
+RAD concurs with the recommendation.
+RAD has analyzed and determined the reasons the coding errors occurred. As a result of this
+analysis, RAD has developed appropriate process enhancements to increase the accuracy of
+future local income tax distributions. It should be noted that the recommended actions have
+either already been completed or are ongoing. Since the reallocation errors were discovered, the
+Comptroller and RAD management have taken proactive and immediate steps to address this
+matter. These improved processes and procedures will be implemented by January 2017 and
+audited on an annual basis.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 2 of 13
+
+--- Page 31 ---
+Recommendation B: Determine whether such coding problems could be affecting
+distributions in other jurisdictions and, if so, expand the review of subdivision codes and
+special taxing areas to all relevant jurisdictions and take appropriate action with respect to
+any local income taxes that were incorrectly distributed.
+RAD concurs with the recommendation.
+As previously stated, the Comptroller will conduct a statewide audit to determine if coding errors
+have resulted in reallocation errors in other jurisdictions. Additionally, in conjunction with the
+BRE, RAD will continue to analyze the accuracy of the coding process with the purpose of
+distributing the local income to its respective taxing jurisdictions with a high rate of accuracy. If
+it is determined that coding errors have affected distributions in other jurisdictions, the agency
+will determine the appropriate action to take to address the distribution accordingly.
+Recommendation C: Manually review the aforementioned 1,393 returns to ensure that
+special taxing areas are properly assigned and local income taxes are correctly distributed
+for these returns
+Respectfully, RAD concurs with the recommendation with minor modification.
+As stated previously, reasons for the coding errors were identified, corrections were made to the
+returns processing work flow, and additional process improvements have been documented to
+minimize the risk of making coding errors in the future. RAD believes that the implementation
+of this recommendation should not occur until RAD has completed the following OLA
+recommendations: analyze the reasons the coding errors occurred; determine whether such
+coding problems could be affecting distributions in other jurisdictions; ensure that current and
+complete address data are obtained on a routine basis from all special taxing areas; and consider
+revising tax forms so that taxpayers are required to submit sufficient address information to
+facilitate the proper assignment of taxing area subdivision codes.
+Since the independent review determined that the revised process was 99.7% accurate for the
+addresses that met the postal standardization requirements, RAD believes the initial use of
+resources is better allocated to increase the accuracy of future local income tax distributions and
+identifying potential fraudulent tax return activity.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 3 of 13
+
+--- Page 32 ---
+OLA Recommendation 2
+We recommend that RAD
+a. Establish comprehensive written policies and procedures for employees to follow when
+identifying special taxing areas and assigning subdivision codes for suspended returns,
+b. Ensure that current and complete address data are obtained on a routine basis from all
+special taxing areas,
+c. Take the necessary steps to ensure that correct subdivision codes have been assigned to
+all addresses in SMART, and
+d. Consider revising tax forms so that taxpayers are required to submit sufficient address
+information to facilitate the proper assignment of taxing area subdivision codes.
+RAD Responses to the Recommendations
+Recommendation A: Establish comprehensive written policies and procedures for
+employees to follow when identifying special taxing areas and assigning subdivision codes
+for suspended returns.
+RAD concurs with the recommendation.
+RAD has updated its procedures to address the exceptions to the local income tax business rules.
+Additional training has been provided to applicable staff. These actions will assist in increasing
+the accuracy rate in the future.
+Recommendation B: Ensure that current and complete address data are obtained on a
+routine basis from all special taxing areas.
+RAD concurs with this recommendation.
+RAD concurs with OLA and understands the need for the taxing jurisdictions to assist the
+Comptroller of Maryland (“COM”) with executing a viable solution to this complicated issue by
+requiring that the taxing jurisdictions provide current data on a consistent basis. RAD has and
+will continue to request yearly updated address information for each taxing jurisdiction in the
+state.
+It is important to note that RAD has no recourse to compel local governments to comply with the
+request, and many of them fail to do so. Until they are compelled to provide this information
+each year in a timely fashion, the probability of error may increase.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 4 of 13
+
+--- Page 33 ---
+Recommendation C: Take the necessary steps to ensure that correct subdivision codes have
+been assigned to all addresses in SMART.
+RAD concurs with this recommendation.
+The agency is committed to taking all necessary steps to prevent this error from occurring in the
+future. We have either implemented or are in the process of implementing a series of changes
+resulting from our internal review and a third-party independent audit. Efforts to update and
+correct coding errors are in progress, and we look forward to strong cooperation from local
+government entities to ensure that COM has the most up-to-date addresses for taxpayers.
+As previously stated in our response to Recommendation B, RAD heavily relies on addresses
+provided by the taxpayer and makes concerted efforts to obtain updated address records from
+local government entities to keep our databases accurate. However, RAD and COM do not have
+legal authority to compel government entities to produce these records, which may increase the
+probability of error in the future.
+Recommendation D: Consider revising tax forms so that taxpayers are required to submit
+sufficient address information to facilitate the proper assignment of taxing area subdivision
+codes
+RAD concurs with this recommendation.
+As noted by OLA, RAD is already in the process of implementing this recommended action and
+the agency will be revising the tax forms to include the address where the taxpayer resided as of
+the last day of the tax year. This will provide additional information to assist in the proper
+jurisdictional coding. RAD anticipates this data will be collected beginning with tax year 2016.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 5 of 13
+
+--- Page 34 ---
+Out-of-State Tax Credits
+RAD Response to OLA Analysis
+RAD wishes to note that in OLA’s comprehensive review on this issue, there was no evidence of
+loss of revenue to the state attributable to this finding.
+OLA Recommendation 3
+We recommend that RAD
+a. Ensure that all required documentation is submitted and retained to support out-of-
+state tax credits claimed (repeat);
+b. Take appropriate action, such as disallowing the claimed credit when the required
+documentation is not submitted (repeat); and
+c. Investigate the aforementioned six returns and recover any amounts due (repeat).
+RAD Responses to the Recommendations
+Recommendation A: Ensure that all required documentation is submitted and retained to
+support out-of-state tax credits claimed (repeat).
+RAD concurs with this recommendation.
+This recommendation is consistent with existing procedure within RAD. We will reinforce the
+use of this procedure and provide additional training to appropriate staff as needed. RAD will
+also ensure that necessary documents are retained for subsequent verification.
+Recommendation B: Take appropriate action, such as disallowing the claimed credit when
+the required documentation is not submitted (repeat).
+RAD concurs with this recommendation.
+In accordance with existing RAD policy, out of state credits claimed are disallowed when
+required documentation is not submitted. RAD will review the specific returns noted by OLA
+for appropriate action as necessary.
+Recommendation C: Investigate the aforementioned six returns and recover any amounts
+due (repeat).
+RAD concurs with this recommendation.
+The agency has initiated the review of the out-of-state credits claimed for the six returns
+mentioned above and will take the appropriate action to recover any credits claimed that are
+disallowed as a result of the subsequent review. The anticipated completion date for the review
+and implementation of Recommendation 3 is December 31, 2016.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 6 of 13
+
+--- Page 35 ---
+Adjustments to Taxpayer Accounts
+RAD Response to OLA Analysis
+In response to OLA’s analysis on this finding, RAD wishes to emphasize that there was no
+evidence or indication of impropriety pertaining to this finding. All adjustments reviewed by
+OLA were determined to be proper, and there was no loss of revenue to the state. RAD had
+already identified this internal weakness in 2015 and initiated corrective action. Since October
+2015, the automated reports of adjustments were utilized for reviewing and approving respective
+adjustments. The supervisor uses the adjustment report to identify those adjustments requiring
+review and/or approval based upon the written procedures.
+OLA Recommendation 4
+We recommend that RAD
+a. Ensure that significant financial adjustments to corporate taxpayer accounts are
+reviewed by supervisory personnel in accordance with its procedures, and that these
+reviews are documented (repeat); and
+b. Use automated reports of adjustments processed to identify adjustments for review
+(repeat).
+RAD Responses to the Recommendations
+Recommendation A: Ensure that significant financial adjustments to corporate taxpayer
+accounts are reviewed by supervisory personnel in accordance with its procedures, and
+that these reviews are documented (repeat).
+RAD concurs with the recommendation.
+The recommended action is already part of RAD’s existing procedures, and RAD will continue
+to ensure that significant financial adjustments are reviewed and documented by supervisory
+personnel.
+Recommendation B: Use automated reports of adjustments processed to identify
+adjustments for review (repeat).
+RAD concurs with the recommendation.
+As previously stated, this recommended action is already in place and RAD will continue to
+utilize the automated reports of adjustments processed to identify and select adjustments for
+review.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 7 of 13
+
+--- Page 36 ---
+OLA Recommendation 5
+We recommend that RAD
+a. Ensure that adjustments to critical taxpayer account information are reviewed by
+supervisory personnel for propriety by verifying output reports of adjustments
+processed to supporting documentation, at least on a test basis;
+b. Ensure that these reviews are documented; and
+c. Retain supporting documentation for adjustments processed.
+RAD Responses to the Recommendations
+Recommendation A: Ensure that adjustments to critical taxpayer account information are
+reviewed by supervisory personnel for propriety by verifying output reports of
+adjustments processed to supporting documentation, at least on a test basis
+RAD concurs with the recommendation.
+The recommended action is an existing procedure within RAD. Critical non-financial
+adjustments will continue to be reviewed by supervisory personnel utilizing automated reports of
+applicable adjustments in accordance with current RAD procedures.
+Recommendation B: Ensure that these reviews are documented.
+RAD concurs with this recommendation.
+The recommended action is an existing procedure within RAD, and division management will
+continue to ensure that supervisory reviews are documented.
+Recommendation C: Retain supporting documentation for adjustments processed.
+RAD concurs with this recommendation.
+Supporting documentation for non-financial adjustments will be retained for audit purposes.
+Due to the volume of account adjustments, RAD will identify the appropriate content
+management solution to satisfy the document retention requirements established by OLA in this
+finding.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 8 of 13
+
+--- Page 37 ---
+Information Systems Security and Control
+RAD Response to OLA Analysis
+The Comptroller takes pride in the agency’s strong commitment to ensuring that its databases
+and networks are secure, which was reinforced by the fact that OLA found no security breaches
+within the agency’s IT system. Our IT division continues to prioritize the modernization of our
+network of firewalls, security appliances, intrusion detection and prevention programs, and
+Internet access control procedures. Protecting taxpayer data and combatting taxpayer identity
+fraud are two major goals for the agency. As such, the agency is committed to ensuring that its
+IT systems are compliant with all federal and state requirements and continues to audit and
+manage risks associated with threats to its core systems and processes.
+OLA Recommendation 6
+We recommend that RAD implement appropriate database monitoring controls over the
+SMART, Bill Pay, and iFile tax systems. Specifically, we recommend that RAD
+a. Log all critical Bill Pay and iFile database security and audit events (repeat);
+b. Ensure that reviews of the propriety of the critical security system software reports for
+the SMART system include a review of the supporting detail change reports (repeat);
+c. Review all significant database (including SMART, Bill Pay, and iFile) security reports
+for propriety on a timely basis, document these reviews and retain the reviews for
+future reference.
+RAD Responses to the Recommendations
+Recommendation A: Log all critical Bill Pay and iFile database security and audit events
+(repeat).
+RAD concurs with this recommendation.
+As part of our continued commitment to protecting our networks and security systems, the
+Comptroller’s database security and audit event logging systems will be enhanced to ensure all
+critical events will be properly logged.
+Recommendation B: Ensure that reviews of the propriety of the critical security system
+software reports for the SMART system include a review of the supporting detail change
+reports (repeat).
+RAD concurs with this recommendation.
+Reviews of the propriety of critical security system software reports will include a review of
+supporting detail change reports.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 9 of 13
+
+--- Page 38 ---
+Recommendation C: Review all significant database (including SMART, Bill Pay, and
+iFile) security reports for propriety on a timely basis, document these reviews and retain
+the reviews for future reference.
+RAD concurs with this recommendation.
+All significant database security reports will be reviewed for propriety in a timely manner and
+documentation of these reviews will be retained for audit purposes. The anticipated completion
+date for implementation of the recommendation is December 31, 2016.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 10 of 13
+
+--- Page 39 ---
+Cash Receipts
+RAD Response to OLA Analysis
+RAD wishes to note that in OLA’s comprehensive review on this issue, there was no evidence of
+impropriety or loss of revenue associated with this finding.
+OLA Recommendation 7
+We recommend that RAD
+a. Reconcile records of remotely deposited checks that have been destroyed with the
+record of checks received,
+b. Ensure that employees who have access to collections do not have the capability to
+record critical adjustments to taxpayer accounts in SMART,
+c. Ensure that all adjustments recorded in SMART to reduce check payments to zero are
+subject to the required supervisory review, and
+d. Conduct a review of adjustments to check payments recorded in SMART during the
+aforementioned weeks that the review was not performed.
+RAD Responses to the Recommendations
+Recommendation A: Reconcile records of remotely deposited checks that have been
+destroyed with the record of checks received.
+RAD concurs with this recommendation.
+The agency will ensure that destroyed checks are reconciled with the scanning batch reports.
+Recommendation B: Ensure that employees who have access to collections do not have the
+capability to record critical adjustments to taxpayer accounts in SMART.
+RAD concurs with this recommendation.
+In concurrence with this recommendation, RAD will limit access where practical. It must be
+noted that in order to process tax forms, certain employees may have access to collections, as
+well as the ability to post critical adjustments to taxpayer accounts. However, these employees
+do not have access to taxpayer addresses. Therefore, they do not have the ability to alter the
+delivery of a refund check.
+In addition, RAD policy requires supervisory review of financial adjustments recorded in
+SMART which therefore limits the exposure to potential misappropriation and corresponding
+adjustment to a taxpayer’s account. Accordingly, we believe that there is adequate control.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 11 of 13
+
+--- Page 40 ---
+In order to strengthen our processing and adherence to this recommendation, RAD will limit the
+access of certain employees to actual collections. A payment voucher form is being designed so
+that upon mail opening, the payment will be routed for immediate deposit while the tax form will
+be processed via the current process. This will further limit access to ensure proper segregation
+of duties.
+Recommendation C: Ensure that all adjustments recorded in SMART to reduce check
+payments to zero are subject to the required supervisory review.
+RAD concurs with this recommendation.
+RAD believes the agency is already in compliance with the recommendation. Additional
+information that supports our position appears below.
+Annually, the Payment Processing (PP) section adjusts less than 100 checks (of a total of
+approximately 1.3 million checks received) to a zero dollar status; we consider this immaterial
+and a true and proper exception to the normal processing. OLA noted only 39 such adjustments
+during the major filing season, and these exceptions are generally a result of the foreign checks,
+damaged checks, or improper formatting or sizing or checks.
+The Returns Processing (RP) section receives the zero dollar report identifying the checks to be
+removed (not to use to reconcile or otherwise balance to) for manual deposit. Additionally, all
+zero dollar adjustment checks remain in the automated TRIP21 check queue until such time as
+the zero dollar adjustment has been manually deposited. A supervisor reviews the applicable
+queue. Procedures will be implemented to ensure the propriety of these transactions utilizing the
+respective weekly output report which will be retained as documentation of review.
+Recommendation D: Conduct a review of adjustments to check payments recorded in
+SMART during the aforementioned weeks that the review was not performed.
+RAD concurs with this recommendation.
+While we concur with the recommended action, RAD will comply by using alternative
+procedures. As noted by OLA, RAD was unable to recreate certain applicable SMART reports
+dated prior to August 2014; however, all reports from August 17, 2014 through June 27, 2015
+were available for review. As described in the comment for recommendation, RAD also utilizes
+reports to review these adjustments. A review of the applicable adjustments during the period
+for which the SMART reports were not available will be completed by December 31, 2016.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 12 of 13
+
+--- Page 41 ---
+Replacement Checks
+RAD Response to OLA Analysis
+RAD wishes to note that in OLA’s comprehensive review on this issue, there was no evidence of
+impropriety or loss of revenue associated with this finding.
+OLA Recommendation 8
+We recommend that RAD
+a. Ensure that output reports used to select replacement checks for review include all
+replacement checks generated;
+b. Ensure that replacement checks on output reports are reviewed according to its policy;
+and
+c. Review for propriety, at least on a test basis, the aforementioned 750 checks not
+included in output reports.
+RAD Responses to the Recommendations
+Recommendation A: Ensure that output reports used to select replacement checks for
+review include all replacement checks generated.
+RAD concurs with this recommendation.
+RAD will ensure that the output reports are complete. RAD, in consultation with the
+Comptroller’s Information Technology Division, is identifying the root cause of the
+incompleteness of the replacement check output reports noted by OLA.
+Recommendation B: Ensure that replacement checks on output reports are reviewed
+according to its policy.
+RAD concurs with this recommendation.
+As OLA noted, a supervisory review was performed to ensure the propriety of replacement
+checks; however, documentation of the review was not indicated on the respective automated
+report. RAD will ensure the written policy regarding replacement checks is adhered to utilizing
+the aforementioned report.
+Recommendation C: Review for propriety, at least on a test basis, the aforementioned 750
+checks not included in output reports.
+RAD concurs with this recommendation. RAD will review those checks noted for propriety. The
+anticipated completion date of the review will be December 31, 2016.
+Comptroller of Maryland • Revenue Administration Division • OLA Audit Responses Page 13 of 13
+
+--- Page 42 ---
+AUDIT TEAM
+Mark S. Hagenbuch, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+Michael J. Murdzak, CPA
+Senior Auditor
+Eric Alexander, CPA, CISA
+R. Brendan Coffey, CPA, CISA
+Information Systems Senior Auditors
+Thomas L. Allen, III
+Lindsay M. Fertig, CPA
+Maryia Kuzina
+Lauren E. McLain, CPA
+Kelly M. McNemar, CPA
+Staff Auditors
+Steven D. Bryant
+Matthew D. Walbert
+Information Systems Staff Auditors

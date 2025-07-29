@@ -1,0 +1,683 @@
+Title: Department of Natural Resources
+Date: 08/01/2008
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d15cc9d724560674524
+Extracted: 2025-06-17T19:28:49.242653
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Department of Natural Resources
+July 2017
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Special Review of Resource Sharing Lease Agreements 4
+Status of Findings From Preceding Audit Report 5
+Findings and Recommendations 6
+COMPASS Licensing and Registration System
+* Finding 1 – DNR did not establish sufficient controls over the processing 6
+of voids and price changes.
+* Finding 2 – DNR lacked assurance that COMPASS was properly 7
+secured against operational and security risks.
+Cash Receipts
+* Finding 3 – DNR lacked adequate controls over collections at the 9
+Annapolis headquarters complex and one Regional
+Service Center.
+Telecommunication Tower Maintenance Contracts
+Finding 4 – DNR did not use available statewide contracts nor 11
+comply with State procurement regulations for the purchase of
+telecommunication tower maintenance and equipment
+installation services.
+Audit Scope, Objectives, and Methodology 14
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+The Department of Natural Resources (DNR) oversees the management and use
+of the State’s living and natural resources for the current and future enjoyment of
+Maryland’s citizens and visitors. These resources include the Chesapeake Bay
+and its tributaries, state forests and parks, and fisheries and wildlife. DNR
+maintains a headquarters location in Annapolis and seven Regional Service
+Centers. According to the State’s records, during fiscal year 2015, DNR’s capital
+and operating expenditures totaled $330.2 million.
+Special Review of Resource Sharing Lease Agreements
+On November 18, 2016, we issued a report on our special review of resource
+sharing lease agreements payments deposited into escrow accounts maintained
+outside of State control by a law firm. Under these agreements, DNR and two
+other State agencies received compensation from telecommunication companies
+for the use of the State’s communications infrastructure, such as the installation of
+private communication systems on State-owned towers. From February 2001
+through June 2016, the companies deposited lease payments totaling $4.4 million
+into the escrow accounts and the payments were subsequently used by DNR and
+another State agency to acquire equipment and services totaling $3.8 million.
+Our review concluded that agreements were not effectively monitored, sufficient
+accountability and control was not established for the lease payments, and
+purchases of equipment and services with these funds were not properly
+controlled and accounted for. The report contained findings and
+recommendations to all three State agencies including the following select
+findings related to DNR:
+• DNR did not maintain comprehensive records of its resource sharing
+agreements.
+• DNR did not establish effective oversight of escrow accounts.
+• Purchases were not subject to any independent supervisory review and
+approval and were not made in accordance with State procurement
+regulations.
+• DNR did not record, tag, and inventory equipment purchased with escrow
+account funds and could not provide a listing or identify the location of
+equipment purchased.
+4
+
+--- Page 7 ---
+We also noted that a DNR employee used escrow account funds to pay $73,350 to
+an out-of-State vendor to install a telecommunications tower on DNR land
+without conducting a proper procurement and executing a written contract. DNR
+agreed to the findings and recommendations in our November 2016 report.
+During our fiscal compliance audit, we noted additional concerns with DNR’s use
+of this vendor for tower maintenance work (see Finding 4 of this report).
+Status of Findings From Preceding Audit Report
+Based on our assessment of significance and risk relative to our audit objectives,
+our audit included a review to determine the status of five of the six findings
+contained in our preceding audit report dated August 18, 2014. We determined
+that DNR satisfactorily addressed two of the five findings. The remaining three
+findings are repeated in this report. We did not follow up on the remaining
+finding, which pertained to equipment inventory procedures.
+5
+
+--- Page 8 ---
+Findings and Recommendations
+COMPASS Licensing and Registration System
+Background
+The Department of Natural Resources (DNR) is responsible for issuing
+commercial fishing and recreational sports licenses which can be obtained at one
+of seven DNR Regional Service Centers (RSCs) and numerous third party sales
+agents (such as sporting goods stores) throughout the State. In April 2012, DNR
+implemented a web-based licensing and registration system, called COMPASS,
+for the issuance of recreational licenses, which was expanded in August 2013 to
+include commercial fishing licenses, and again in December 2015 to include boat
+licensing, registration, and taxes. Customers can process these transactions
+online, over the phone with call center staff, at RSCs, or for certain transactions,
+in-person with third party sales agents.
+To comply with State and federal laws, COMPASS collects customer data, such
+as name, social security number, date of birth, driver’s license number, and
+address. According to State law, certain of this data is deemed personally
+identifiable information (PII). The development, maintenance, and hosting of
+COMPASS is outsourced to a private contractor (service organization) which
+subcontracted hosting, backup, disaster recovery, maintenance of servers,
+firewalls, other network equipment, physical security, environmental controls,
+electrical power, and internet connectivity to two vendors.
+According to DNR’s records, fiscal year 2015 revenues processed through
+COMPASS totaled approximately $20.3 million, including $9.3 million initially
+collected by authorized third-party sales agents.
+Finding 1
+Numerous COMPASS users at the RSCs could process voids and price
+changes without supervisory review and approval at the time the
+transactions were processed and the post-transaction supervisory review at
+the Annapolis RSC was not effective.
+Analysis
+Numerous system users at the RSCs could process voids and price changes
+(including changing the price to zero) without supervisory review and approval at
+the time the transactions were processed and based upon our review of the
+procedures at the Annapolis RSC, the post-supervisory review of the transactions
+was not effective.
+6
+
+--- Page 9 ---
+We noted that RSC cashiers could initiate and void the same transaction within 30
+minutes of initiation as well as process a price change (which are permitted by
+regulations for certain customers, such as a disabled veteran) without supervisory
+approval.
+Our test of 10 voided transactions processed at the Annapolis RSC during fiscal
+year 2015 disclosed there was no documented supervisory review and approval of
+these transactions. In December 2015, DNR began generating output reports of
+voided transactions to assist supervisors in the monitoring of these transactions
+after the fact, but DNR management advised us that these reports were not
+complete as they did not include all voided transactions.
+Our test of 12 price changes processed at the Annapolis RSC during fiscal year
+2015 disclosed there was no documented supervisory review and approval or
+supervisory comparison to customer supplied documents supporting the nature of
+the revised transaction amount. In May 2016, the Annapolis RSC began
+generating output reports of price change transactions; however, we were advised
+that the supervisor only reviewed the listed reason for the price change without
+also tracing to supporting documentation. Similar conditions were commented
+upon in our preceding audit report.
+According to DNR’s records, during fiscal year 2015, there were 8,640 price
+changes processed at the RSCs that cumulatively reduced fees by $112,000, and
+7,172 voids processed in COMPASS. Due to the lack of reliable output reports
+the value of these voids could not be quantified.
+Recommendation 1
+We recommend that DNR establish complete and reliable reports of voids
+and price changes and procedures for documented supervisory review and
+approval of these transactions (repeat).
+Finding 2
+DNR lacked assurance that COMPASS was properly secured against
+operational and security risks.
+Analysis
+DNR lacked assurance that COMPASS was properly secured. DNR personnel
+advised us that as of May 2016, COMPASS’ primary service provider and a
+critical subcontractor had not obtained independent security reviews of
+COMPASS. The contract between DNR and the primary service provider
+required that the primary service provider and all subcontractors performing
+7
+
+--- Page 10 ---
+material services for COMPASS must obtain annual independent security reviews
+(either a Service Organization Controls review or other equally comprehensive
+review) for COMPASS. Accordingly, DNR lacked assurance that COMPASS,
+and the customer PII contained therein was properly secured. We noted that the
+dates of birth for 1.4 million customers and the drivers’ licenses for 1.1 million
+customers were being stored in plain text. A similar condition regarding the lack
+of security reviews was commented upon in our preceding audit report.
+The American Institute of Certified Public Accountants has issued guidance
+concerning examinations of service providers. Based on this guidance, service
+providers (like the aforementioned contractors) may contract for an independent
+review of controls and resultant independent auditor’s report referred to as a
+Service Organization Controls (SOC) report. There are several types of SOC
+reports, with varying scopes and levels of review and auditor testing. One type of
+report, referred to as a SOC 2 Type 2 report, contains the service organization’s
+description of its system and the results of the auditor’s examination of the
+suitability of the system design, operating effectiveness for the period under
+review, and any evaluation of system security, availability, processing integrity,
+confidentiality, and privacy. Due to the nature and sensitivity of the information
+contained in COMPASS, if a SOC review is performed in lieu of an equivalent
+comprehensive review, we believe a SOC 2 Type 2 report would be appropriate.
+Recommendation 2
+We recommend that DNR
+a. enforce the provisions of its COMPASS contract, by requiring that
+independent security reviews (such as SOC reviews with Type 2 reports)
+be performed for the primary service provider and all subcontractors
+providing material services; and
+b. obtain and review copies of these independent reports and ensure that the
+independent security reviews and related reports on COMPASS address
+all relevant and critical security controls and further ensure that the
+service providers implement all critical recommendations made in these
+reports (repeat).
+Cash Receipts
+Background
+According to DNR’s records, collections (cash, checks, and credit cards) totaled
+approximately $66.4 million during fiscal year 2015. These collections consisted
+of $38.3 million collected at seven RSCs and third party sales agents, $10.8
+million collected by various DNR units at the Annapolis headquarters complex,
+8
+
+--- Page 11 ---
+$10.8 million collected at State parks, and $6.5 million collected online solely via
+credit cards through the State Park Reservation System. For some of the
+collections, deposits are made by the remote locations (for example, the State
+parks and the seven RSCs). Collections received at DNR’s Annapolis
+headquarters are deposited by the Financial and Administrative Services
+Department (FAS).
+Finding 3
+DNR lacked adequate controls over collections at the Annapolis
+headquarters complex and the Annapolis RSC.
+Analysis
+DNR lacked adequate controls over collections at the Annapolis headquarters
+complex and the Annapolis RSC. According to DNR’s records, fiscal year 2015
+collections at headquarters totaled $10.8 million and at the RSC totaled $8.3
+million (including $7.2 million in cash and check collections and $1.1 million in
+credit card collections).
+Annapolis Headquarters
+• An independent verification of validated deposits slips to recorded collections
+was not properly performed. The individual who performed the deposit
+verification did not compare the validated deposit slip to the initial recordation
+(the mail log) of checks received for deposit. Rather, the validated deposit
+slip was compared to a secondary summary record of collections, (the deposit
+reconciliation form) which was prepared during the deposit process. In
+addition, this employee was not independent of the cash receipt process since
+the employee had access to collections.
+• Checks received by two departments at the Annapolis headquarters were not
+adequately safeguarded. For example, at one department, the checks were not
+restrictively endorsed immediately upon receipt, and at the other department,
+checks were not initially recorded upon receipt and were stored in an unlocked
+storage room until they were forwarded to FAS for bank deposit. According
+to DNR’s records, fiscal year 2015 cash receipts deposited for these two
+departments totaled $657,400.
+• FAS did not deposit certain checks pending a determination as to why DNR
+received the check (for example, no related accounts receivable record), but
+did not maintain a comprehensive listing of these unidentified checks
+requiring resolution in order to control, monitor, and document the ultimate
+disposition of the checks. If subsequent research concluded that the check
+was properly received by DNR, it would be processed for deposit; otherwise
+9
+
+--- Page 12 ---
+FAS returned the check to the sender. The lack of a comprehensive record
+could result in checks being misappropriated or lost without timely detection.
+We determined that during fiscal year 2015, 70 checks totaling $788,446 were
+withheld from deposit pending investigation, and that due to the lack of
+accountability, DNR was unable to readily determine the ultimate disposition
+of these checks. We tested 8 of those checks, totaling $203,500, and
+determined that 5 were deposited and 3 were returned to the sender.
+Annapolis Regional Service Center
+• A supervisory employee, who was responsible for closing out cashiers’ daily
+transactions and approving voids and price changes, was not independent of
+the collection process. The employee routinely performed cashiering duties,
+which gave the employee the capability to void receipt transactions without
+independent approval as mentioned in Finding 1, and had access to the cash
+receipts in the vault.
+• Checks received in the mail were not always recorded and restrictively
+endorsed immediately after the envelopes were opened. Rather, the opened
+envelopes were stored in a common area until staff was available to process
+the paperwork and associated payments. Based upon our observations on
+three days, we sighted nine unendorsed checks totaling $1,078 that remained
+undeposited for periods ranging from at least 4 to 33 days. Because the
+paperwork was frequently not date stamped when received, the actual delay
+may have been longer.
+• Bank deposits were not verified to the initial recordation documents (such as,
+the cashier closeout reports), but rather, to a summary document of receipts
+that was prepared during the deposit process.
+Similar conditions regarding a lack of supervisory employee independence and
+improper deposit verifications were commented upon in our preceding audit
+report.
+The Comptroller of Maryland’s Accounting Procedures Manual requires that
+receipts recorded on initial source documents be traced to deposit by an employee
+independent of the cash receipts functions. The Manual also requires the
+restrictive endorsement and initial recordation of checks immediately upon receipt
+as well as safeguarding cash receipts until deposit.
+10
+
+--- Page 13 ---
+Recommendation 3
+We recommend that DNR
+a. ensure deposit verifications are performed by an employee independent
+of the cash receipts functions using initial recordation documents
+(repeat),
+b. initially record and restrictively endorse checks received in the mail
+immediately upon opening the envelopes,
+c. properly secure all collections until bank deposit,
+d. establish accountability and control over unidentified checks and
+document the final disposition of the checks, and
+e. ensure that supervisory employees responsible for closing out cashiers’
+daily transactions maintain independence from the cash collection
+process.
+We advised DNR on accomplishing the necessary separation of duties using
+existing personnel.
+Telecommunication Tower Maintenance Contracts
+Finding 4
+DNR did not use available statewide contracts nor comply with State
+procurement regulations for the purchase of telecommunication tower
+maintenance and equipment installation services.
+Analysis
+DNR did not use available Statewide contracts nor comply with State
+procurement regulations when procuring certain telecommunication tower
+maintenance and equipment installation services. Purchases for these services
+were artificially divided to circumvent oversight and approval requirements, and
+sufficient evidence of competitive bids was lacking. Furthermore, invoices for
+those services were not adequately verified prior to payment. Consequently, DNR
+did not ensure it received the best value for these services and that all contracted
+services were provided. We determined that this arrangement with the vendor
+began as early as 2011. According to State records, during the period from July
+2011 to April 2016, DNR paid this vendor approximately $387,200 for these
+services1.
+1 Additional payments totaling $73,350 were made to this vendor from special bank accounts to
+install a telecommunication tower. Concerns with the activity from the special bank accounts
+were commented upon in our November 18, 2016 special review on Resource Sharing Lease
+Agreements.
+11
+
+--- Page 14 ---
+Available Statewide Contracts Were Not Used
+DNR employees who oversaw tower maintenance did not use available
+Department of Information Technology (DoIT) Statewide information technology
+contracts to procure tower maintenance and equipment installation services from
+pre-qualified vendors. Essentially the same services available under the DoIT
+contract were obtained from an out-of-State vendor. DNR could not document
+that the vendor had proper qualifications, licensing certifications, and insurance to
+perform tower climbs or to install and align microwave antennas. In addition, the
+vendor was not registered with the State Department of Assessments and Taxation
+as required by State law.
+Purchases Were Artificially Divided to Circumvent Oversight and State
+Procurement Regulations
+The same DNR employees artificially divided purchases circumventing oversight
+and State procurement regulations, which generally require competitive bidding
+for purchases over $5,000. The individual smaller dollar value procurements that
+resulted from these artificially divided purchases allowed DNR to avoid certain
+internal and external approvals and procurement requirements. Specifically,
+vendor payments totaling approximately $387,200 were comprised of individual
+purchases under $50,000, which DNR management advised is the threshold
+requiring review and approval by DNR’s procurement department. In addition,
+none of the purchases for telecommunication services were approved by DoIT as
+required. Furthermore, $288,700 of those procurements were divided into
+purchases under $15,000, which circumvented the requirement to publish the
+solicitation on eMaryland Marketplace.
+Procurements totaling $164,800 were of sufficiently small dollar amounts that
+they could be made using corporate purchasing cards. Even though State
+procurement regulations require the solicitation of oral or written bids for certain
+small procurements, including those made with corporate purchasing cards, DNR
+could not provide documentation that such solicitations were made by these
+employees. Finally, this vendor was the only bidder for procurements totaling
+$90,650, most of which were under $15,000. DNR management advised us that
+other vendors were solicited and declined to bid on these purchases, but DNR
+could not adequately support its assertions.
+Subsequently, in February 2016, DNR’s procurement department noticed the
+frequent payments to this vendor and recommended use of the Statewide DoIT
+contract or the award by DNR of a master contract for tower maintenance services
+due to the ongoing need for these services. As of November 2016, neither course
+of action had been pursued by DNR.
+12
+
+--- Page 15 ---
+Invoices Were Not Adequately Verified Prior to Payment
+Although we were advised that the employee approving the invoices for payment
+confirmed that the related equipment and services were received, this
+confirmation was not documented. Furthermore, we were advised that the
+confirmation was generally received from the DNR employees who unilaterally
+procured the related services.
+State agencies are encouraged to use available Statewide contracts with pre-
+qualified vendors to procure goods and services. If not using Statewide contracts,
+State procurement regulations generally require a formal written competitive
+procurement and publication of the solicitation on eMaryland Marketplace for
+procurements over $15,000. Purchases expected to cost between $5,000 and
+$15,000 require at least two bids, which can be solicited in writing or orally
+directly from vendors at the discretion of the agency’s purchasing agent. State
+law and regulations also prohibit procurements from being artificially divided to
+circumvent procurement requirements. Furthermore, DoIT approval is required
+for all telecommunication procurements and Board of Public Works approval is
+required for such purchases over $200,000.
+Recommendation 4
+We recommend that DNR
+a. use available Statewide contracts and comply with State law and
+regulations by discontinuing the practice of artificially dividing
+procurements;
+b. when competitively procuring services, maintain complete bid
+documentation and ensure procurements are approved by appropriate
+internal personnel and control agencies;
+c. review the activity associated with this vendor for propriety, and report
+the results of the review, including related procurement activity, to the
+appropriate control agency;
+d. ensure that vendors are licensed in the State, and obtain and document
+all necessary vendor qualifications and certifications; and
+e. ensure invoices are adequately verified prior to payment by obtaining
+documented confirmation that the related equipment and services were
+received.
+13
+
+--- Page 16 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Department of Natural
+Resources (DNR) for the period beginning February 5, 2013 and ending January
+5, 2016. The audit was conducted in accordance with generally accepted
+government auditing standards. Those standards require that we plan and perform
+the audit to obtain sufficient, appropriate evidence to provide a reasonable basis
+for our findings and conclusions based on our audit objectives. We believe that
+the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DNR’s financial
+transactions, records and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included procurements and disbursements, corporate
+purchasing cards, cash receipts, payroll, special funds, and critical information
+technology systems. We also determined the status of five of the six findings
+contained in our preceding audit report.
+Our audit did not include an evaluation of internal controls over compliance with
+federal laws and regulations for federal financial assistance programs and an
+assessment of DNR’s compliance with those laws and regulations because the
+State of Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including DNR.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+DNR’s operations, and tests of transactions. Generally, transactions were selected
+for testing based on auditor judgment, which primarily considers risk. Unless
+otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+14
+
+--- Page 17 ---
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during this
+audit. We also extracted data from DNR’s COMPASS for the purpose of testing
+licensing transactions and system access. We performed various tests of the
+relevant data and determined that the data were sufficiently reliable for the
+purposes the data were used during the audit. Finally, we performed other
+auditing procedures that we considered necessary to achieve our audit objectives.
+The reliability of data used in this report for background or informational
+purposes was not assessed.
+DNR’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DNR’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to DNR that did not warrant inclusion in this report.
+DNR’s response to our findings and recommendations is included as an appendix
+to this report. As prescribed in the State Government Article, Section 2-1224 of
+the Annotated Code of Maryland, we will advise DNR regarding the results of our
+review of its response.
+15
+
+--- Page 19 ---
+Department of Natural Resources
+Response to OLA Audit Report – 2016
+10 July 2017
+Finding 1 -- Numerous COMPASS users at the RSC could process voids and price changes
+without supervisory review and approval at the time the transactions were processed; and the
+post-transaction supervisory review at the Annapolis RSC was not effective.
+Recommendation 1 – establish complete and reliable reports of voids and price
+changes and procedures for documented supervisory review and approval of these
+transactions. (repeat)
+Department Response: The department agrees with the recommendation which
+has already been implemented.
+Additional Department Comments:
+• Compass was modified subsequent to OLA’s 2016 on-site visits to address the
+inconsistencies in the void and variance reports. Licensing staff have confirmed
+that the reports are now complete and reliable.
+• The voids and price variance reports have been modified to incorporate a
+verification signature, representing supervisory review and confirmation that the
+voids and price overrides were appropriate.
+Finding 2 – DNR lacked assurance that COMPASS was properly secured against
+operational and security risks.
+Recommendation 2(a) – enforce the provisions of its COMPASS contract by
+requiring that independent security reviews (such as SOC reviews with Type 2
+reports) be performed for the primary service provider and all subcontractors
+providing material services
+Recommendation 2(b) – obtain and review copies of these independent reports and
+ensure that the independent security reviews and related reports on COMPASS
+address all relevant and critical security controls and further ensure that the service
+providers implement all critical recommendations made in these reports (repeat)
+Department Response: The department agrees with the recommendations and
+is working towards full compliance by December 1, 2017.
+Additional Department Comments:
+• The department is in possession of a SOC 2 Type II audit report dated 5/26/2016
+for the subcontractor providing material services. The department is moving its
+COMPASS system to cloud-based equipment and hosting model in July 2017. It
+is our understanding that this environment was audited and found to be SOC 1, 2
+and 3 compliant as of 10/28/2016. Following this transition, a SOC 2 Type II
+audit of the developer and manager of COMPASS will be scheduled.
+Page 1 of 4
+
+--- Page 20 ---
+Department of Natural Resources
+Response to OLA Audit Report – 2016
+10 July 2017
+Finding 3 – DNR lacked adequate controls over collections at the Annapolis
+headquarters complex and the Annapolis RSC.
+Department Response: The department acknowledges that we could have a
+higher level of internal controls as required by OLA’s internal control
+procedures. Because of the limitation of necessary resources, the department
+has been actively pursuing a partnership with the Maryland Motor Vehicle
+Administration (MVA) as a resolution to this matter.
+Additional Department Comments:
+• The department has reviewed each transaction where a check was identified as
+not being deposited for a period ranging from 4 to 33 days (second bullet under
+Annapolis Regional Service Center). In every circumstance but one, the
+submission, including the check, was returned to the applicant for additional
+information or correction. The applicant resubmitted the check originally written
+along with the additional/corrected information. Analyzing deposit delay using
+the check date overstated the time between receipt and our ability to process that
+transaction. The delay between check date and processing resulted from actions
+by the applicant, not the department. No receipt date was stamped on the
+documents for the remaining transaction, making it impossible to determine the
+true processing delay.
+Recommendation 3(a) – ensure deposit verifications are performed by an employee
+independent of the cash receipts functions using initial recordation documents. (repeat)
+Department Response: The department agrees with the recommendation which has
+already been implemented.
+Additional Department Comments:
+• The department’s Finance and Administrative Services (FAS) Unit validates deposits
+using Bank of America’s Cash Pro Online program. This report is used to verify that
+all collections are reconciled to the Bank of America bank statement report. The
+employee who performs the deposit validation does not have access to the accounts
+receivable database or the safe in which deposits are kept awaiting pickup, nor does
+this employee perform any other cash receipts function. The Manager of General
+Accounting is the approver of the deposit reconciliation.
+Recommendation 3(b) – initially record and restrictively endorse checks received in the
+mail immediately upon opening the envelopes.
+Department Response: The department agrees with the recommendation which has
+already been implemented.
+Page 2 of 4
+
+--- Page 21 ---
+Department of Natural Resources
+Response to OLA Audit Report – 2016
+10 July 2017
+Additional Department Comments:
+• Managers of the department’s seven Service Centers were notified shortly after our
+5/10/17 meeting with OLA that mail should not be opened until just prior to
+processing.
+Recommendation 3(c) – properly secure all collections until bank deposit
+Department Response: The department agrees with the recommendation which has
+already been implemented.
+Additional Department Comments:
+• Maryland Park Service has addressed staffing issues that contributed to this finding
+and made procedural changes to ensure the restrictive endorsement and recordation of
+checks upon receipt.
+• Fishing & Boating Services has procured stamps to restrictively endorse checks upon
+receipt and has implemented deposit reconciliation by staff independent of the cash
+receipts process.
+Recommendation 3(d) – establish accountability and control over unidentified checks
+and document the final disposition of the checks
+Department Response: The department agrees with the recommendation which has
+already been implemented.
+Additional Department Comments:
+• FAS developed a spreadsheet to track unidentified checks removed from the deposit
+reconciliation that is maintained by an employee independent of the cash receipts
+process. It contains the check number, name, amount, and date removed from the
+deposit, as well as the final disposition of the check.
+Recommendation 3(e) – ensure that supervisory employees responsible for closing
+out cashiers’ daily transactions maintain independence from the cash collection
+process
+Department Response: The department agrees with the recommendation and
+acknowledges the importance of separation of duties relative to the processing of
+cash receipts.
+Additional Department Comments:
+• Compliance is difficult due to the limited number of staff at our Service Centers.
+The Service Center manager generally prepares the deposit; and while the
+manager does not wait on customers on a daily basis, they often cover the counter
+during lunch breaks, when staff is out for illness or vacation, and at times of
+extremely heavy customer load.
+Page 3 of 4
+
+--- Page 22 ---
+Department of Natural Resources
+Response to OLA Audit Report – 2016
+10 July 2017
+• The current effort to locate DNR Service Centers at Maryland MVA locations
+will offer greater opportunity for independent review. The Dundalk Service
+Center has been moved to the Essex MVA. The Salisbury Service Center will be
+moving to MVA in the fall of 2017. Planning has already begun for the Bel Air
+Service Center’s move. All other Service Centers will be scheduled for future
+consolidation with nearby MVA facilities.
+Finding 4 – DNR did not use available statewide contracts nor comply with State
+procurement regulations for the purchase of telecommunications tower maintenance and
+equipment installation services.
+Recommendation 4(a) – use available statewide contracts and comply with State law
+and regulations by discontinuing the practice of artificially splitting procurements
+Recommendation 4(b) – when competitively procuring services, maintain complete
+bid documentation and ensure procurements are approved by appropriate internal
+personnel and control agencies
+Recommendation 4(d) – ensure that vendors are licensed in the State, and obtain and
+document all necessary vendor qualifications and certifications
+Recommendation 4(e) – ensure invoices are adequately verified prior to payment by
+obtaining documented confirmation that the related equipment and services were
+received
+Department Response: The department agrees with the recommendations
+which have already been implemented.
+Recommendation 4(c) – review the activity associated with this vendor for propriety,
+and report the results of the review, including related procurement activity, to the
+appropriate control agency
+Department Response: The department agrees with the recommendation which
+has already been implemented.
+Additional Department Comments:
+• All items purchased with escrow funds have been accounted for. While we
+lack the technical expertise to confirm that work was performed properly, we
+did confirm that DNR staff provided tower access on each of the dates that
+work was invoiced, and that there were no reports of system outages during
+the period of time the vendor provided those services.
+• The department continues to work with DoIT and the Maryland State Police
+to address lease modifications and effect transfer of the escrow funds to the
+Major Information Technology Development Project Fund.
+Page 4 of 4
+
+--- Page 23 ---
+AUDIT TEAM
+Matthew L. Streett, CPA, CFE
+Audit Manager
+Richard L. Carter, CISA
+Information Systems Audit Manager
+J. Alexander Twigg
+Senior Auditor
+Edward O. Kendall
+Information Systems Senior Auditor
+Zain Khalid
+Joshua A. Naylor
+James J. Podhorniak, CPA, CFE
+Timothy S. Rice
+Larry M. Richardson
+Staff Auditors
+OTHER STAFF WHO CONTRIBUTED TO THIS REPORT
+David O. Mauriello, CPA

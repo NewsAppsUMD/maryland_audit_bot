@@ -1,0 +1,12 @@
+[project]
+name = "maryland-audit-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datasette>=0.65.1",
+    "pdfplumber>=0.11.7",
+    "playwright>=1.52.0",
+    "sqlite-utils>=3.38",
+]

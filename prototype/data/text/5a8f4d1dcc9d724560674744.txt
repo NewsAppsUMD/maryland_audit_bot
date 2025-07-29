@@ -1,0 +1,747 @@
+Title: University System of Maryland - University of Maryland, Baltimore County
+Date: 08/06/2009
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d1dcc9d724560674744
+Extracted: 2025-06-18T05:58:05.004482
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+University System of Maryland
+University of Maryland, Baltimore County
+March 2016
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Executive Summary 5
+Background Information 7
+Agency Responsibilities 7
+Status of Findings From Preceding Audit Report 7
+Findings and Recommendations 9
+Student Residency
+Finding 1 – UMBC Had Not Established Sufficient Controls Over 9
+Changes to Student Residency Status Determinations
+Payroll
+Finding 2 – UMBC Did Not Ensure That Employees Appearing on 10
+Multiple State Payrolls Were Adequately Investigated
+Finding 3 – Human Resource and Payroll Capabilities Assigned to 11
+Individuals on the Financial Management Systems Were Not
+Adequately Restricted
+Information Systems Security and Control
+Finding 4 – The UMBC Network Was Not Sufficiently Secured 12
+Student Financial Aid
+Finding 5 – UMBC Did Not Ensure the Propriety of Financial Aid 13
+Transactions Posted to Student Accounts
+Corporate Purchasing Cards
+Finding 6 – UMBC Did Not Always Comply With Certain Corporate 15
+Purchasing Card Requirements and Related Procurement Policies
+and Procedures
+Disbursements
+Finding 7 – Proper Internal Controls Were Not Established Over the 16
+Processing of Disbursement Transactions
+Audit Scope, Objectives, and Methodology 19
+Agency Response Appendix
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Executive Summary
+Legislative Audit Report on the University System of Maryland
+University of Maryland, Baltimore County (UMBC)
+March 2016
+ Changes to student residency status were not always verified for
+propriety and certain employees had unnecessary access to the financial
+management system that allowed them to record changes to student
+residency. Proper residency status for each student is critical to ensure
+that the proper amount of tuition (in-state or out-of-state) is charged
+(Finding 1).
+UMBC should ensure that reviews of student residency changes include
+residency changes made by all departments and that user access capabilities
+are restricted to those employees that require such access.
+ Controls over the payroll process could be improved as UMBC did not
+ensure that employees on multiple state payrolls were adequately
+investigated nor ensure that human resource and payroll capabilities
+assigned to employees on the financial management systems were
+adequately restricted (Findings 2 and 3).
+UMBC should investigate employees on multiple state payrolls and document
+their efforts and ensure user access capabilities are adequately restricted.
+ UMBC’s network was not adequately secured. For example, intrusion
+prevention systems were not in place to protect the network from risks
+associated with encrypted traffic (Finding 4).
+UMBC should take the recommended actions to adequately secure the
+network.
+ UMBC did not ensure that employee capabilities on the financial
+management system were adequately restricted to prevent improper
+financial aid transactions and also did not establish additional controls to
+ensure the propriety of certain financial aid transactions posted to
+student accounts (Findings 5).
+UMBC should take the recommended actions to improve controls over
+financial aid transactions.
+5
+
+--- Page 8 ---
+ UMBC did not always comply with corporate purchasing card
+requirements and related procurement policies and procedures nor
+establish necessary safeguards to prevent unauthorized disbursement
+transactions from being processed (Findings 6 and 7).
+UMBC should comply with the corporate purchasing card requirements and
+the related procurement policies and procedures and also establish appropriate
+controls over disbursement transactions.
+6
+
+--- Page 9 ---
+Background Information
+Agency Responsibilities
+The University of Maryland, Baltimore County (UMBC) is a comprehensive
+public research institution of the University System of Maryland and operates
+under the jurisdiction of the System’s Board of Regents. UMBC offers a broad
+range of baccalaureate, graduate, and doctoral programs in the liberal arts,
+sciences, and engineering disciplines. Student enrollment for the Fall 2015
+semester totaled 13,839, including 11,243 undergraduate students and 2,596
+graduate students. UMBC’s budget is funded by unrestricted revenues, such as
+tuition and fees and a State general fund appropriation, as well as restricted
+revenues, such as federal grants and contracts. According to the State’s
+accounting records, UMBC’s revenues for fiscal year 2015 totaled approximately
+$404 million, which included a State general fund appropriation of approximately
+$103 million.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the eight findings contained
+in our preceding audit report dated May 8, 2012. We determined that UMBC
+satisfactorily addressed these findings.
+7
+
+--- Page 10 ---
+8
+
+--- Page 11 ---
+Findings and Recommendations
+Student Residency
+Finding 1
+Controls over changes to student residency status were not sufficient.
+Analysis
+The University System of Maryland (USM) – University of Maryland, Baltimore
+County (UMBC) did not establish sufficient controls over changes to the student
+residency status (in-state or out-of-state) recorded in student accounts. Accurate
+student residency determinations are critical because of the significant differences
+between in-state and out-of-state student tuition rates. For example, the
+undergraduate tuition for Maryland residents was $5,192 for the Spring 2015
+semester, whereas the undergraduate tuition rate for out-of-state students was
+$11,341.
+ Although output reports of student residency changes were available for
+supervisory review and approval, these reports were not used to verify the
+propriety of changes made by all departments. Specifically, only changes
+made by the Registrar’s Office were reviewed for propriety. Consequently,
+UMBC lacked assurance that all student residency changes made were
+appropriate. According to a report prepared by UMBC at our request, there
+were 7,149 changes made from out-of-state to in-state residency status during
+our audit period, of which 6,862 were made in departments for which the
+verification process had not been performed. Our testing did not disclose any
+improper residency status changes.
+ UMBC did not ensure that capabilities assigned to individuals on the financial
+management systems were adequately restricted to prevent improper student
+residency transactions. For example, 44 users could record changes to a
+student’s residency status even though the users did not require that capability
+to perform their job duties.
+USM’s Board of Regents’ Policy on Student Classification for Admission and
+Tuition Purposes states that a student requesting a change in residency status must
+submit a USM Petition for Change in Classification for Tuition along with
+supporting evidence that provides clear and convincing evidence of his or her
+residency status, such as a valid Maryland driver’s license. Additionally, the
+UMBC policy requires that changes to a student’s residency status be subject to
+the review and approval of UMBC officials.
+9
+
+--- Page 12 ---
+Recommendation 1
+We recommend that UMBC
+a. review the output reports for student residency changes made by all
+departments, at least on a test basis;
+b. document these reviews; and
+c. restrict user access capabilities to those employees who require such
+capabilities to perform their job duties, and remove the aforementioned
+unnecessary access capabilities.
+Payroll
+Finding 2
+UMBC did not ensure that employees on multiple State payrolls were
+adequately investigated.
+Analysis
+UMBC did not ensure that employees appearing on quarterly reports received
+from the Comptroller of Maryland’s Central Payroll Bureau (CPB) of employees
+simultaneously on multiple State payrolls (for example, worked for both UMBC
+and another State agency) were adequately investigated. These investigations
+should review the propriety of the payroll payments for simultaneous periods
+worked. Although UMBC’s Payroll Department reviewed the reports, identified
+the departments in which such employees worked, and directed those departments
+to investigate the propriety of the dual employment and return a verification form
+to certify the departments’ completion of the investigations, the Payroll
+Department did not monitor the departments to ensure verification forms were
+returned. In addition, the Payroll Department did not include for investigation
+employees who appeared on the reports, but were terminated at the time the
+reports were reviewed. Consequently, the propriety of payroll payments to these
+former employees during the time of their employment was not investigated.
+The CPB report for the fourth quarter of calendar year 2014 included 123 UMBC
+employees identified as working at UMBC and another State agency. As of April
+2015, 85 of these employees, including 18 terminated employees, had not been
+fully investigated by UMBC to ensure that the employees were not receiving
+payment twice for the same work hours. Based on the State’s records, during
+calendar year 2014, 154 UMBC employees received payments totaling
+approximately $2.9 million from UMBC and other State agencies during the same
+pay periods. The appearance of these employees does not necessarily indicate a
+problem since there may not have been overlapping hours reported to have been
+worked at UMBC and the other State agencies.
+10
+
+--- Page 13 ---
+CPB has directed State agencies to investigate all employees appearing on the
+quarterly reports to ensure that they were not claiming hours for multiple jobs
+during the same time periods. According to the State’s records, during fiscal year
+2014, UMBC’s payroll expenditures totaled approximately $216 million.
+Recommendation 2
+We recommend that UMBC
+a. monitor departments to ensure that investigations of employees on
+multiple payrolls are completed in a timely manner,
+b. retain documentation to support these monitoring efforts, and
+c. include in the investigations employees who had been terminated.
+Finding 3
+UMBC did not ensure that human resource and payroll capabilities assigned
+to individuals on the financial management systems were adequately
+restricted.
+Analysis
+UMBC did not ensure that capabilities assigned to individuals on the financial
+management systems were adequately restricted to prevent improper payroll
+transactions. Our review of 7 critical functions related to human resources and
+payroll determined that 19 system users were assigned unnecessary access to one
+or more of the critical functions. For example, 15 users could enter leave balance
+adjustments even though the users did not require this access for their job duties.
+USM’s IT Security Standards specify that institutions are responsible for ensuring
+that access rights reflect employee status, including changes in employee status.
+Recommendation 3
+We recommend that UMBC restrict user access capabilities for critical
+functions to those employees who require such capabilities to perform their
+assigned job duties, and remove the aforementioned unnecessary access
+capabilities.
+11
+
+--- Page 14 ---
+Information Systems Security and Control
+Background
+UMBC’s Division of Information Technology (DOIT) manages the development,
+maintenance, and support of UMBC’s information technology infrastructure
+including support for academic teaching and research, networking, and business
+information systems. DOIT maintains a campus-wide network that supports both
+administrative and academic operations. The network includes internet
+connectivity, email, and various administrative systems and servers. DOIT
+maintains critical campus-wide applications, including financial, student
+administration, and human resources applications.
+Finding 4
+The UMBC network was not sufficiently secured.
+Analysis
+The UMBC network was not sufficiently secured.
+ Although the network-based intrusion detection prevention system (IDPS)
+used by UMBC had the capability to decrypt and analyze encrypted network
+traffic received, this feature was not enabled. Furthermore, we determined
+that host-based intrusion protection systems (HIPS) were not in use on
+UMBC’s servers that processed encrypted traffic. The absence of IDPS
+coverage for such encrypted traffic created a network security risk as such
+traffic could contain malicious exploits which would not be detected.
+Complete IDPS coverage includes the use of a properly-configured, network-
+based IDPS that analyzes encrypted traffic, and/or the use of a HIPS on
+critical servers, to aid significantly in the detection and prevention of, and
+response to, potential network security breaches and attacks.
+ A shared administrator account, to which four employees had access, was
+used to administer several critical UMBC firewalls and the device hosting
+these firewalls. Allowing multiple employees to share the same account
+precludes accountability for administrative actions performed on the device
+and its hosted firewalls and is prohibited by the USM IT Security Standards.
+ Password controls over administrative user access to the aforementioned
+firewalls and the device hosting these firewalls were inadequate. Our review
+disclosed that password requirements for length, complexity, age, and history
+were not implemented although the device hosting these firewalls had that
+capability. The USM IT Security Standards establish requirements for
+password length, complexity, age, and history.
+12
+
+--- Page 15 ---
+ Access control rules on a network device allowed unnecessary connections to
+a network segment hosting numerous critical servers, thereby placing these
+servers at risk. The USM IT Security Standards state that firewalls should be
+configured to block all services not required and disable unused ports.
+Recommendation 4
+We recommend that UMBC
+a. perform a documented review and assessment of its network security
+risks from encrypted network traffic and identify how IDPS and/or HIPS
+coverage should be best applied to its network and implement this
+coverage;
+b. discontinue the use of shared accounts to administer its firewalls and
+devices and create and use individual accounts for administrators;
+c. implement password control settings for these firewalls and the device
+hosting these firewalls so that, at a minimum, they comply with the
+aforementioned USM IT Security Standards’ requirements, and
+d. configure its network control devices to limit access to only required
+servers over necessary ports.
+Student Financial Aid
+Finding 5
+UMBC did not ensure the propriety of financial aid transactions posted to
+student accounts.
+Analysis
+Adequate controls had not been established to ensure the propriety of financial aid
+transactions posted to student accounts.
+ UMBC did not ensure that capabilities assigned to individuals on the financial
+management systems were adequately restricted to prevent improper financial
+aid transactions. Our review of 20 critical functions related to student
+financial aid determined that 14 system users were assigned unnecessary
+access to one or more of the critical functions or were assigned incompatible
+capabilities. For example, 13 users could add financial aid awards to the
+system and disburse the awards to students.
+ For athletic and honors scholarships, the initial award amounts posted to
+student accounts were not independently reviewed for propriety since the
+13
+
+--- Page 16 ---
+employees responsible for performing these reviews could also post and
+change award amounts.
+ For federal direct loans, the employee responsible for reviewing the propriety
+of flags posted to and removed from student accounts and for certifying
+verification audits required by the United States Department of Education
+(DOE) was not independent since the employee could also record and remove
+flags, and was responsible for conducting the DOE required reviews of
+student eligibility. UMBC places flags on student accounts in certain
+circumstances, such as failure to maintain satisfactory academic progress, to
+prevent additional financial aid from being posted to the student’s account.
+Also, at the direction of DOE, UMBC completes, on a test basis, verification
+audits of selected federal financial aid application data submitted by students
+to ensure students meet eligibility requirements. These verification audits are
+an integral part of the process to ensure the propriety of financial aid awards
+made.
+According to UMBC’s records, during academic year 2014, financial aid awarded
+to students totaled approximately $93.0 million, including athletic and honors
+scholarships totaling $18.4 million and federal direct loans totaling $47.7 million.
+Recommendation 5
+We recommend that UMBC
+a. restrict user access capabilities to perform critical financial aid functions
+to those employees who require such capabilities to perform their
+assigned job duties, in a manner that ensures the proper segregation of
+duties;
+b. ensure that supervisory personnel independent of the financial aid award
+process verify, at least on a test basis, the propriety of athletic and honors
+financial aid awards posted to student accounts;
+c. ensure that such verifications are documented; and
+d. ensure that the employee responsible for reviewing the propriety of flags
+posted to and removed from student accounts and for certifying the
+review of DOE verification audits cannot also record or remove flags or
+conduct the reviews.
+14
+
+--- Page 17 ---
+Corporate Purchasing Cards
+Finding 6
+UMBC did not always comply with corporate purchasing card requirements
+and related procurement policies and procedures.
+Analysis
+UMBC did not always comply with corporate purchasing card (CPC)
+requirements and related procurement policies and procedures. According to the
+issuing bank’s records, as of March 2015, corporate purchasing cards had been
+issued to 269 employees, and the related expenditures totaled approximately
+$15.8 million during fiscal year 2014.
+ Our review disclosed that, during our audit period, UMBC repeatedly
+procured chemicals from one vendor, totaling approximately $520,000,
+without consolidating and soliciting competitive bids and entering into a
+written contract as required. In this regard, most of these purchases were
+made by employees in various UMBC science and engineering departments
+who repeatedly purchased chemicals from this vendor using corporate
+purchasing cards. Although the individual purchases were valued at $5,000 or
+less (the level requiring bids), combined purchases to this vendor for these
+chemicals significantly exceeded this level. Also, since the purchases were
+not consolidated, UMBC’s leverage as a high-volume purchaser may not have
+been maximized.
+ CPC bank statements were not always approved as required. Our review of
+11 monthly bank statements during fiscal year 2015, with purchases totaling
+approximately $399,000, disclosed that 4 of the bank statements, with
+purchases totaling approximately $168,000, were not properly signed by both
+the cardholder’s immediate supervisor and the cardholder. A documented
+review of bank statements and the corresponding documentation of
+expenditures incurred is critical because UMBC obtained an exemption from
+the Comptroller of Maryland’s General Accounting Division from requiring
+its fiscal officer to review the monthly cardholder activity logs, which would
+have provided a secondary review of the CPC transactions. That exemption
+was granted, in part, because of control procedures that were purportedly in
+place, including the review of the bank statements.
+The USM Procurement Policies and Procedures requires that contracts for goods
+or services of $5,000 or more be awarded based on competitive bidding. The
+corporate purchase card program is not intended to replace current State
+procurement regulations or internal agency policies. In addition, the Comptroller
+15
+
+--- Page 18 ---
+of Maryland’s Corporate Purchasing Card Program Policy and Procedures
+Manual and UMBC’s Purchasing Card Program Policies and Procedures require
+that supervisory personnel examine supporting documentation for expenditures
+made to ensure that they are appropriate, and document that review by signing,
+along with the cardholder, the related bank statements.
+Recommendation 6
+We recommend that UMBC
+a. consolidate procurements of similar goods to maximize buying power,
+when possible, and ensure that these procurements comply with the USM
+Procurement Policies and Procedures; and
+b. ensure that bank statements are reviewed and signed by both the
+cardholder’s immediate supervisor and the cardholder, as required.
+Disbursements
+Finding 7
+Proper internal controls were not established over the processing of
+disbursement transactions.
+Analysis
+UMBC did not adequately restrict user access capabilities and establish necessary
+safeguards to prevent unauthorized disbursement transactions from being
+processed. Specifically, three employees responsible for reviewing and approving
+disbursement batches, generating and approving the related disbursement
+transmittal lists, and releasing those batches to the Comptroller of Maryland’s
+General Accounting Division (GAD) for payment, could also add or modify
+vendors in the system and alter the transmittal file (posted transactions) prior to
+releasing the batches to GAD. As a result, unauthorized disbursements could be
+processed without detection. According to the State’s accounting records, UMBC
+processed disbursements totaling approximately $94.2 million during fiscal year
+2014. Our test of invoice payments processed did not disclose any inappropriate
+or erroneous transactions.
+According to industry best practices, as described by the State of Maryland
+Information Security Policy, State agencies are responsible for ensuring
+separation of duties and assigning appropriate system permissions and
+responsibilities for agency system users.
+16
+
+--- Page 19 ---
+Recommendation 7
+We recommend that UMBC ensure that the employees responsible for
+approving and releasing disbursement transactions for payment be denied
+the capability to alter those transactions, including modifications to the
+related vendors.
+17
+
+--- Page 20 ---
+18
+
+--- Page 21 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the University System of
+Maryland (USM) – University of Maryland, Baltimore County (UMBC) for the
+period beginning July 1, 2011 and ending March 18, 2015. The audit was
+conducted in accordance with generally accepted government auditing standards.
+Those standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine UMBC’s financial
+transactions, records and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included purchases and disbursements related to UMBC’s
+operations, student accounts receivable, cash receipts, payroll, contracts and
+grants, information security over UMBC computer applications, and student
+financial aid. We also determined the status of the findings included in our
+preceding audit report.
+Our audit did not include certain support services provided to UMBC by the USM
+Office. These support services (such as bond financing) are included within the
+scope of our audit of the USM Office. In addition, our audit did not include an
+evaluation of internal controls over compliance with federal laws and regulations
+for federal financial assistance programs and an assessment of UMBC’s
+compliance with those laws and regulations because the State of Maryland
+engages an independent accounting firm to annually audit such programs
+administered by State agencies, including the components of the USM.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+UMBC’s operations, and tests of transactions. Generally, transactions were
+selected for testing based on auditor judgment, which primarily considers risk.
+Unless otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the items were selected.
+19
+
+--- Page 22 ---
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+various sources were sufficiently reliable for the purposes the data were used
+during this audit. We also extracted data from UMBC’s financial systems for the
+purpose of testing certain areas, such as student accounts receivable and financial
+aid. We performed various tests of the relevant data and determined that the data
+were sufficiently reliable for the purposes the data were used during the audit.
+Finally, we performed other auditing procedures that we considered necessary to
+achieve our audit objectives. The reliability of data used in this report for
+background or informational purposes was not assessed.
+UMBC’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect UMBC’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to UMBC that did not warrant inclusion in this
+report.
+The response from the USM Office, on behalf of UMBC, to our findings and
+recommendations is included as an appendix to this report. As prescribed in the
+20
+
+--- Page 23 ---
+State Government Article, Section 2-1224 of the Annotated Code of Maryland,
+we will advise the USM Office regarding the results of our review of its response.
+21
+
+--- Page 25 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE COUNTY
+JULY 1, 2011 TO MARCH 18, 2015
+Student Residency
+Finding 1
+Controls over changes to student residency status were not sufficient.
+Recommendation 1
+We recommend that UMBC
+a. review the output reports for student residency changes made by all
+departments, at least on a test basis;
+b. document these reviews; and
+c. restrict user access capabilities to those employees who require such
+capabilities to perform their job duties, and remove the aforementioned
+unnecessary access capabilities.
+University response
+We concur and effective immediately, we have taken the following action:
+a. Reviewed, on a test basis, the output reports for student residence changes
+made by all departments;
+b. documented these reviews; and,
+c. restricted user access capabilities to those employees who require such
+capabilities to perform their job duties, and remove unnecessary access
+capabilities.
+Payroll
+Finding 2
+UMBC did not ensure that employees on multiple State payrolls were
+adequately investigated.
+Recommendation 2
+We recommend that UMBC
+a. monitor departments to ensure that investigations of employees on
+multiple payrolls are completed in a timely manner,
+b. retain documentation to support these monitoring efforts, and
+c. include in the investigations employees who had been terminated.
+
+--- Page 26 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE COUNTY
+JULY 1, 2011 TO MARCH 18, 2015
+University response
+We partially concur.
+The University System of Maryland (USM) recently distributed guidance
+detailing system-wide procedures and protocols for dual-employment situations.
+Based on this guidance, faculty (including lecturers & adjuncts) appearing on
+more than one state agency payroll listings of all categories, are to be excluded
+from the investigation requirement. In addition, this guidance provides that
+employees who are terminated as of the date the report is received are excluded
+from further investigation
+Excluding faculty and separated employees significantly decreases the number of
+employees to be investigated. With this guidance, the UMBC employees
+identified on the cited CPB report would be reduced from 123 to 40. Out of those
+remaining 40, we were able to successfully investigate and verify 21.
+Going forward, we will proceed as follows:
+a. Monitor the departments to ensure the investigations are completed in a timely
+manner per the USM guidance;
+b. Retain documentation to support these monitoring efforts; and
+c. In accordance with USM guidance, we will investigate terminated employees
+unless a terminated or separated employee has previously appeared on the
+dual-employment reports during the current year, and were successfully
+investigated, that employee need not be investigated again.
+Finding 3
+UMBC did not ensure that human resources and payroll capabilities
+assigned to individuals on the financial management systems were
+adequately restricted.
+Recommendation 3
+We recommend that UMBC restrict user access capabilities for critical
+functions to those employees who require such capabilities to perform their
+assigned job duties, and remove the aforementioned unnecessary access
+capabilities.
+
+--- Page 27 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE COUNTY
+JULY 1, 2011 TO MARCH 18, 2015
+University response
+We concur.
+We have (i) restricted user access capabilities for critical functions to those who
+require such capabilities to perform their duties and (ii) removed the unnecessary
+access capabilities.
+Information Systems Security and Control
+Finding 4
+The UMBC network was not sufficiently secured.
+Recommendation 4
+We recommend that UMBC
+a. perform a documented review and assessment of its network security
+risks from encrypted network traffic and identify how IDPS and/or HIPS
+coverage should be best applied to its network and implement this
+coverage;
+b. discontinue the use of shared accounts to administer its firewalls and
+devices and create and use individual accounts for administrators;
+c. implement password control settings for these firewalls and the device
+hosting these firewalls so that, at a minimum, they comply with the
+aforementioned USM IT Security Standards’ requirements, and
+d. configure its network control devices to limit access to only required
+servers over necessary ports.
+University response
+We concur and have taken the following action:
+a. Performed a document review and assessment of network security risks
+from encrypted network traffic and implemented SSL inspections through
+our IDPS to address these risks.
+b. Discontinued the use of shared accounts and assigned individual accounts
+to all individuals who are authorized to make administrative changes on
+our firewalls;
+c. Enabled the vendor password complexity feature on our firewalls to
+ensure our passwords meet USM requirements, and
+d. Reviewed and updated our network access controls to limit access to only
+required servers over necessary ports.
+
+--- Page 28 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE COUNTY
+JULY 1, 2011 TO MARCH 18, 2015
+Student Financial Aid
+Finding 5
+UMBC did not ensure the propriety of financial aid transactions posted to
+student accounts.
+Recommendation 5
+We recommend that UMBC
+a. restrict user access capabilities to perform critical financial aid
+functions to those employees who require such capabilities to perform
+their assigned job duties, in a manner that ensures the proper
+segregation of duties;
+b. ensure that supervisory personnel independent of the financial aid
+award process verify, at least on a test basis, the propriety of athletic
+and honors financial aid awards posted to student accounts;
+c. ensure that such verifications are documented; and
+d. ensure that the employee responsible for reviewing the propriety of
+flags posted to and removed from student accounts and for certifying
+the review of DOE verification audits cannot also record or remove
+flags or conduct the reviews.
+University response
+We concur and have taken the following action:
+a. User access capabilities for critical functions have been restricted to those
+employees who require such capabilities to perform their assigned job duties
+and in a manner that ensures a proper segregation of duties.
+b. Supervisory personnel independent of the financial aid award process are
+verifying, at least on a test basis, the propriety of initial financial aid awards
+posted to student accounts.
+c. The above verifications are being documented; and
+d. The employee responsible for reviewing the propriety of flags posted to
+student accounts and for certifying the review of DOE verification audits
+cannot also record flags and conduct the reviews.
+
+--- Page 29 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE COUNTY
+JULY 1, 2011 TO MARCH 18, 2015
+Corporate Purchasing Cards
+Finding 6
+UMBC did not always comply with corporate purchasing card requirements
+and related procurement policies and procedures.
+Recommendation 6
+We recommend that UMBC
+a. consolidate procurements of similar goods to maximize buying power,
+when possible, and ensure that these procurements comply with the USM
+Procurement Policies and Procedures; and
+b. ensure that bank statements are reviewed and signed by both the
+cardholder’s immediate supervisor and the cardholder, as required.
+University response
+a. We concur. We conducted a competitive procurement and issued the contract
+for the purchase of chemicals that maximizes our buying power and complies
+with the USM Procurement Policies & Procedures.
+b. We concur. While the 4 activity logs cited were signed by both the
+cardholder’s immediate supervisor and the cardholder, we will re-emphasize
+that the bank statements must also be signed in our P-Card holder and
+supervisor training as well as during our new cardholder reviews.
+Disbursements
+Finding 7
+Proper internal controls were not established over the processing of
+disbursement transactions.
+Recommendation 7
+We recommend that UMBC ensure that the employees responsible for
+approving and releasing disbursement transactions for payment be denied
+the capability to alter those transactions, including modifications to the
+related vendors.
+
+--- Page 30 ---
+RESPONSE TO LEGISLATIVE AUDIT REPORT
+UNIVERSITY SYSTEM OF MARYLAND
+UNIVERSITY OF MARYLAND, BALTIMORE COUNTY
+JULY 1, 2011 TO MARCH 18, 2015
+University response
+We concur. By the start of the Fall 2016 semester, the function of approving and
+releasing disbursement transactions for payment will be transitioned to an
+independent alternative area. The individuals responsible for approving and
+releasing disbursements will not have the capability to alter those transactions,
+including modifications to the related vendors.
+
+--- Page 31 ---
+A T
+UDIT EAM
+William R. Smith, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+John F. Nogel, CPA, CIA, CFE
+Senior Auditor
+Michael K. Bliss, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Senior Auditors
+Steven A. Crocker
+Mindy R. Garrett
+Tu N. Vuong
+Staff Auditors
+Robert H. Dean
+Edward O. Kendall
+Information Systems Staff Auditors

@@ -1,0 +1,1786 @@
+Title: Harford County Public Schools
+Date: 03/24/2021
+Type: Local School Systems
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=605b32a7a1ce580fc8ceb512
+Extracted: 2025-06-19T11:49:08.289647
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Financial Management Practices Audit Report
+Harford County Public Schools
+March 2021
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Carol L. Krimm (House Chair)
+Senator Malcolm L. Augustine Delegate Steven J. Arentz
+Senator Adelaide C. Eckardt Delegate Mark S. Chang
+Senator George C. Edwards Delegate Nicholas P. Charles II
+Senator Katie Fry Hester Delegate Andrea Fletcher Harrison
+Senator Cheryl C. Kagan Delegate Keith E. Haynes
+Senator Benjamin F. Kramer Delegate David Moon
+Senator Cory V. McCray Delegate April R. Rose
+Senator Justin D. Ready Delegate Geraldine Valentino-Smith
+Senator Craig J. Zucker One Vacancy
+To Obtain Further Information
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 ꞏ 301-970-5900 ꞏ 1-877-486-9964 (Toll Free in Maryland)
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+March 24, 2021
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Carol L. Krimm, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We conducted an audit of the financial management practices of the Harford
+County Public Schools (HCPS) in accordance with the requirements of the State
+Government Article, Section 2-1220(e) of the Annotated Code of Maryland. The
+objectives of this audit were to evaluate whether HCPS’ procedures and controls
+were effective in accounting for and safeguarding its assets and whether its
+policies provided for the efficient use of financial resources.
+Our audit disclosed that HCPS needs to improve internal controls and
+accountability in certain areas, including payroll processing, information systems,
+procurement and disbursements, equipment, student transportation, and health
+care claims and fee processing. For example, HCPS did not ensure that employee
+access to its automated financial management system applications, such as
+procurement, accounts payable, human resources, and payroll, was properly
+restricted resulting in numerous employees with unnecessary or incompatible
+access capabilities. Additionally, HCPS did not ensure critical human resources
+and payroll transactions were independently reviewed for propriety. Specifically,
+the processing of new hires, other earnings transactions (including leave payouts),
+and rate increases were not subject to independent review and comparison to
+supporting documentation.
+We also identified significant security and control risks that existed within HCPS’
+computer network. For example, HCPS had not adequately safeguarded sensitive
+
+--- Page 4 ---
+information in one of its applications which held approximately 102,500 records
+containing sensitive electronic personally identifiable information. Additionally,
+HCPS lacked assurance that proper security existed for an online data backup
+service, used to hold production data that was hosted, operated, and maintained by
+a third-party service provider. Furthermore, certain servers were not adequately
+protected and an intrusion detection prevention system was not properly
+configured to protect the HCPS network.
+In addition, we identified certain practices which, if implemented, could provide
+opportunities for achieving cost savings in student transportation. Specifically,
+we found that certain components of the payments to bus contractors could not be
+supported and included costs that should not have been reimbursed, resulting in
+higher payments than necessary for student transportation services.
+Finally, based on our current audit assessment of significance and risk to our audit
+objectives, our audit included a review to determine the status of the 15 findings
+contained in our preceding audit report. We determined that HCPS satisfactorily
+addressed 7 of these findings. The remaining 8 findings are repeated in this
+report.
+We conducted our audit fieldwork from September 5, 2019 to June 30, 2020. A
+portion of our fieldwork included time in which the local education agencies were
+impacted by the COVID-19 pandemic health crisis. Specifically, beginning on
+March 16, 2020, the State Superintendent of Schools decided to close school and
+administrative buildings to employees and the public for a two-week period. This
+was eventually extended for the remainder of the 2019-2020 school year with
+limited access by certain employees. Although all HCPS buildings were closed
+for a portion of our fieldwork, the objectives and scope of our audit were not
+significantly impacted. To the extent that the COVID-19 crisis continues to
+impact WCPS operations, certain recommendations in this report may need to be
+adjusted to ensure proper controls under the modified operations.
+HCPS’ response to this audit is included as an appendix to this report. We
+reviewed the response and noted agreement to our findings and related
+recommendations, and while there are other aspects of HCPS’ response which
+will require further clarification, we do not anticipate that these will require the
+Joint Audit and Evaluation Committee’s attention to resolve. Finally, we have
+edited HCPS’ response to remove certain vendor names or products, as allowed
+by our policy.
+2
+
+--- Page 5 ---
+We wish to acknowledge the cooperation extended to us during the audit by
+HCPS and its willingness to address the audit issues and to implement appropriate
+corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+3
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 7
+Statistical Overview 7
+Oversight 8
+External Audits 9
+Status of Findings From Preceding Audit Report 10
+Findings and Recommendations 11
+Revenue and Billing Cycle 11
+Federal Funds 12
+Procurement and Disbursement Cycle
+Finding 1 – Harford County Public Schools’ (HCPS) procurement 14
+policies did not incorporate certain recognized best practices or
+requirements of State law when evaluating the merits of participation
+in intergovernmental cooperative purchasing agreements.
+* Finding 2 – Certain transactions processed on its automated system 15
+were not subject to independent review and approval and verified to
+appropriate supporting documentation after being entered on the
+system.
+Human Resources and Payroll
+* Finding 3 – HCPS did not ensure critical human resources and payroll 17
+transactions were independently reviewed for propriety.
+Equipment Control and Accountability
+* Finding 4 – HCPS’ equipment policies were not comprehensive, detail 18
+records were incomplete, and physical inventories were not
+conducted.
+Information Technology
+* Finding 5 – HCPS did not ensure employee access to its automated 19
+financial system applications was properly restricted resulting in
+numerous employees with improper and unnecessary access.
+* Denotes item repeated in full or part from preceding audit report
+5
+
+--- Page 8 ---
+Finding 6 – HCPS maintained sensitive electronic personally identifiable 21
+information in a manner that did not provide adequate safeguards.
+* Finding 7 – HCPS lacked assurance that an online data backup service 21
+managed by a third-party provider was properly secured against
+operational and security risks.
+* Finding 8 – Certain servers were improperly located within the 23
+the internal network, and intrusion detection prevention system
+coverage did not exist for untrusted encrypted traffic.
+Facilities Construction, Renovation, and Maintenance
+Finding 9 – HCPS did not perform preventive maintenance in accordance 25
+with its Comprehensive Maintenance Plan.
+Transportation Services
+* Finding 10 – Certain components of the payments to bus contractors 26
+could not be supported and included costs that should not have been
+reimbursed, resulting in higher payments than necessary for student
+transportation services.
+Finding 11 – HCPS did not independently verify manifest data entered 28
+into the transportation payments system and did not maintain support
+for payments made prior to fiscal year 2020.
+Food Services 29
+School Board Oversight 29
+Management of Other Risks
+* Finding 12 – HCPS did not audit or adequately verify the propriety of 31
+health care claims, insurance premiums and administrative fees paid to
+the third-party administrator, and the eligibility of enrolled dependents.
+Audit Scope, Objectives, and Methodology 34
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+6
+
+--- Page 9 ---
+Background Information
+Statistical Overview
+Enrollment
+According to student enrollment records compiled by the Maryland State
+Department of Education (MSDE), Harford County Public Schools (HCPS) ranks
+8th in student enrollment among the 24 public school systems in Maryland. Fiscal
+year 2019 full-time student enrollment was 37,826 students. HCPS had 53
+schools, consisting of 33 elementary schools, 8 middle schools, 8 high schools, 1
+middle/high school, and 3 other types of schools (including alternative,
+vocational, and special education).
+Funding
+HCPS revenues consist primarily of funds received from Harford County, the
+State, and the federal government. According to the HCPS audited financial
+statements, revenues from all sources totaled approximately $570.2 million in
+fiscal year 2019; including approximately $257.6 million from the State. See
+Figure 1 below for HCPS’ revenue sources per enrolled student in fiscal year
+2019 according to its audited financial statements.
+Figure 1
+HCPS Revenue Sources Per Enrolled Student
+Fiscal Year 2019
+Source: HCPS’ Fiscal Year 2019 Audited Financial Statements and MSDE Data
+7
+
+--- Page 10 ---
+Expenditures
+According to HCPS’ audited financial statements, fiscal year 2019 expenditures
+were approximately $579.3 million. The largest expenditure category was
+salaries and wages, including benefits, which accounted for approximately 81
+percent of total expenditures during fiscal year 2019. According to MSDE
+records, during the 2018-2019 school year, HCPS had 5,064 full-time equivalent
+positions, which consisted of 3,603 instructional and 1,461 non-instructional
+positions (see Figure 2).
+Figure 2
+HCPS Expenditures by Category and Selected Statistical Data
+Fiscal Year 2019
+(amounts in millions)
+Source: HCPS’ Fiscal Year 2019 Audited Financial Statements and MSDE Data
+Oversight
+HCPS is governed by a local school board, consisting of six elected voting
+members, three appointed voting members, the county superintendent of schools,
+who is an ex officio nonvoting member, and one voting student member. The
+student member has the same rights and privileges as a member appointed or
+elected, and can vote on and participate in all matters except those specifically
+prohibited by law, such as acquisition and disposition of real property, collective
+bargaining and the appointment of the superintendent. In accordance with State
+law, MSDE provides considerable oversight of HCPS through the establishment
+and monitoring of various financial and academic policies and regulations.
+8
+
+--- Page 11 ---
+MSDE also works with HCPS to comply with the requirements and mandates of
+federal law. The Harford County government exercises authority over HCPS
+primarily through the review and approval of HCPS’ annual operating and capital
+budgets.
+External Audits
+HCPS engages a certified public accounting firm to independently audit its annual
+financial statements. The firm performs procedures to verify the amounts and
+disclosures in the financial statements. The firm also evaluates the
+appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management. In the related audit reports, the firm
+stated that the financial statements presented fairly, in all material respects, the
+financial position of HCPS as of June 30, 2015, 2016, 2017, 2018, and 2019, and
+the changes in its financial position and its cash flows for the years then ended in
+accordance with accounting principles generally accepted in the United States of
+America.
+Additionally, in accordance with Government Auditing Standards, as part of the
+audited financial statements the accounting firm also issued separate reports on
+HCPS’ control over financial reporting and its tests of HCPS’ compliance with
+certain provisions of laws, regulations, contracts, grant agreements and other
+matters. This report is an integral part of the annual independent audited financial
+statements. Furthermore, the accounting firm also conducts the Single Audit of
+HCPS’ federal grant programs. The Single Audit is intended to provide assurance
+to the federal government that adequate internal controls are in place, and the
+entity is generally in compliance with program requirements.
+We reviewed the aforementioned financial statement audits and Single Audit
+reports for fiscal years 2015 through 2019, and examined the related work papers
+for the fiscal year 2018 audits, which were the latest available during our audit
+fieldwork.
+Certain work of the independent certified public accounting firm, which we
+determined was reliable, covered areas included in the scope of our audit. As a
+result, we did not conduct any audit work related to the following areas:
+ State and local government revenues received via wire transfer
+ Accounts receivables
+ Federal grant activity
+ Employee salary levels
+9
+
+--- Page 12 ---
+The independent accounting firm did not disclose any material deficiencies in
+these areas.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the 15 findings contained in
+our preceding audit report dated January 29, 2015. As disclosed in Figure 3, we
+determined that HCPS satisfactorily addressed 7 of these findings. The remaining
+8 findings are repeated in this report.
+Figure 3
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+Finding 1 Finance Office collections were not recorded or deposited timely. Not repeated
+HCPS did not adequately restrict users’ capabilities on its automated Repeated
+Finding 2
+procurement and accounts payable system. (Current Finding 5)
+HCPS did not adequately monitor payments made for special Repeated
+Finding 3
+education services. (Current Finding 2)
+Independent reviews of payroll and personnel transactions were Repeated
+Finding 4 lacking and access to the automated payroll system was not properly (Current Finding 3
+restricted. and 5)
+HCPS certified sick leave to the Maryland State Retirement and
+Finding 5 Pension System as unused for the portion that was previously paid to Not repeated
+employees upon separation, resulting in increased pension benefits.
+Repeated
+Finding 6 HCPS equipment policies were not comprehensive.
+(Current Finding 4)
+HCPS’ information technology controls over disaster recovery
+Finding 7 Not repeated
+planning and backup of critical data were not sufficient.
+HCPS lacked assurance that adequate controls existed over its Repeated
+Finding 8
+production data backups stored with a cloud service provider. (Current Finding 7)
+The HCPS intrusion detection prevention system was not properly Repeated
+Finding 9
+protecting the network. (Current Finding 8)
+HCPS’ energy management program was not sufficiently
+Finding 10 Not repeated
+comprehensive.
+HCPS did not have formal targets and goals for revising bus routes or
+Finding 11 Not repeated
+use automated routing software to improve route efficiency.
+Certain payments to bus contractors were not based on market Repeated
+Finding 12
+conditions or actual costs. (Current Finding 10)
+Food service collections were not properly recorded nor adequately
+Finding 13 Not repeated
+safeguarded until deposit.
+HCPS did not ensure the propriety of payments for employee and Repeated
+Finding 14
+retiree healthcare costs. (Current Finding 12)
+Competitive bids were not obtained for a stop-loss contract and the
+Finding 15 Not repeated
+contract was not approved by the Board.
+10
+
+--- Page 13 ---
+Findings and Recommendations
+Revenue and Billing Cycle
+Background
+Harford County Public Schools (HCPS) revenues consist primarily of funds
+received from Harford County, the State, and the federal government. According
+to HCPS’ audited financial statements, revenues from all sources totaled
+approximately $570.2 million in fiscal year 2019; including approximately $257.6
+million from the State.
+External Audits
+There were similarities between the work of the independent certified public
+accounting firm that audited HCPS’ financial statements and the objectives of our
+audit for certain revenue activities. As a result, we relied on this work to provide
+audit coverage for State and local government revenues received via wire transfer
+and accounts receivable, for which the auditor’s procedural review and testing
+disclosed no material weaknesses or significant deficiencies.
+School Activity Funds
+Schools collect funds for other purposes such as student activities, clubs, and
+school publications. Because they are not considered school revenue, these
+school activity funds are accounted for separately by each school, and reported in
+summary in the audited financial statements. During fiscal year 2019, school
+activity collections totaled $6 million and the June 30, 2019 fund balance was
+$2.4 million.
+HCPS’ Board of Education (the Board) has a fiduciary responsibility to ensure
+that school activity funds were used only for intended purposes. HCPS’ internal
+auditor conducts audits of the school activity funds at each of its schools. The
+reviews consisted of evaluating and testing compliance with the HCPS
+Procedures Manual for School Activity Funds. The Manual establishes standard
+procedures for all schools to follow to ensure school activity funds are adequately
+safeguarded and accounted for in a uniform manner. The results of the reviews
+were provided to the respective school’s principal and HCPS management to be
+addressed. Our review of the internal auditor’s findings during fiscal years 2017,
+2018 and 2019 generally found the management of these funds to be adequate and
+that any control weaknesses identified were not prevalent. The internal audit
+reports reviewed did not identify any improprieties regarding the misuse of funds.
+11
+
+--- Page 14 ---
+Conclusion
+Based on our current assessment of significance and risk relative to our audit
+objectives, we did not conduct any work in this area other than a limited review to
+determine that HCPS satisfactorily addressed the prior report finding. We relied
+on the work performed by the independent certified public accounting firm and
+HCPS’ internal auditor for all other audit coverage in this area including
+procedures and controls related to the accounting for and safeguarding of cash
+receipts with respect to revenue and billing.
+Federal Funds
+Background
+HCPS receives funds pertaining to federal government programs that are
+generally restricted for use for a specific program (such as the School Lunch
+Program or Special Education). According to HCPS’ Single Audit, fiscal year
+2019 expenditures totaled $26.6 million, not including federally funded fee-for-
+service programs such as Medicaid reimbursement for special education services.
+Single Audit Reports Disclosed No Reportable Conditions Regarding Federal
+Grant Management
+There were similarities in the work performed by the independent certified public
+accounting firm that conducted the Single Audit of HCPS’ federal grants and the
+objectives of our audit in this area. In addition to expressing an opinion on HCPS
+compliance with the terms of several grant programs, the auditor also considered
+the existing internal control structure’s impact on compliance and audited the
+required Schedule of Expenditures of Federal Awards (which includes claimed
+and reported grant expenditures) for fiscal years 2016 to 2019.
+The related reports stated that HCPS complied, in all material respects, with the
+requirements applicable to its major federal programs. With respect to internal
+controls over compliance with, and the operation of, major federal programs, the
+auditors did not identify any material weaknesses or significant deficiencies.
+Medicaid Funds for Eligible Services
+HCPS has established a procedure to identify children eligible for Medicaid-
+subsidized services and the services rendered. Medicaid is an entitlement program
+for which certain service costs can be reimbursed to HCPS. Medicaid activity is
+not covered by the Single Audit of federal grants.
+The Maryland State Department of Education’s Interagency Medicaid Monitoring
+Team issued a report in June 2019 of the results of its review of 40 student case
+12
+
+--- Page 15 ---
+files for 74 criteria (including the correct billing of Medicaid for eligible
+services). The report found that HCPS was 100 percent compliant with 69 criteria
+and between 93 and 99 percent compliant with the remaining 5 criteria.
+According to HCPS records, fiscal year 2019 state and federal reimbursements for
+Medicaid-subsidized services totaled approximately $5.3 million.
+Conclusion
+Based on our current assessment of significance and risk relative to our audit
+objectives, our audit did not include a review of Medicaid-subsidized services.
+We relied on the work of the independent certified public accounting firm that
+conducted the Single Audits for all other work in this area, including policies,
+procedures, and controls with respect to federal grants and expenditures.
+Procurement and Disbursement Cycle
+Background
+According to the audited financial statements and HCPS’ records, non-payroll
+disbursements totaled $108.5 million during fiscal year 2019. HCPS uses a
+combination of manual and automated methods to process purchases and
+disbursements. Requisitions are manually created and approved by a supervisor
+in the requesting department. Approved requisitions are then entered into the
+financial management system and converted to purchase orders by the purchasing
+department, which also generally handles the solicitation, bid evaluation, and
+establishment of contracts.
+HCPS written procurement policies require that procurements exceeding $25,000
+be competitively bid in accordance with Section 5-112 of the Education Article of
+the Annotated Code of Maryland. Contracts and agreements exceeding $100,000
+that HCPS procures are to be approved by the Board.
+Invoices are submitted by vendors directly to the accounts payable department for
+entry into the financial management system. The system matches invoices to
+appropriate purchasing documents and the verification of receipt entered by the
+receiving school or department. Invoices received without an associated purchase
+order must be accompanied by a disbursement voucher approved by department
+supervisory personnel. The system then prints vendor checks or processes an
+electronic payment and posts the payment to the financial records.
+13
+
+--- Page 16 ---
+Finding 1
+HCPS procurement policies did not incorporate certain recognized best
+practices or requirements of State law when evaluating the merits of
+participation in intergovernmental cooperative purchasing agreements
+(ICPA).
+Analysis
+HCPS procurement policies did not incorporate certain recognized best practices
+or requirements of State law when evaluating the merits of participating in an
+ICPA. Specifically, the following statutory requirement and critical best practices
+were not included in HCPS’ policies and were not consistently used when
+obtaining goods and services under an ICPA.
+ Prepare a written assessment of the benefits of using an ICPA as required
+by State law
+ Analyze all costs of conducting competitive solicitations
+ Research, compare, and evaluate available ICPAs
+ Verify ICPA has a clause allowing utilization by other parties
+ Verify the ICPA solicitation was competitively bid and publicly
+advertised. Obtain originating agency’s competitive procurement
+documentation (including public advertisements and proposal evaluations)
+ Verify terms, scope of services, specifications, and price meet HCPS
+needs
+ Execute an addendum of participation with lead agency and remove or
+incorporate necessary local terms and conditions
+We tested HCPS’ participation in four ICPAs during fiscal years 2017 through
+2020 with contract awards totaling approximately $4.7 million. Our review
+disclosed that HCPS did not comply with the statutory requirement that it prepare
+a written assessment of the benefits of using the ICPA for any of the ICPAs
+tested. In addition, four of the six best practices (analyze all the costs of
+conducting competitive solicitations; research, compare, and evaluate other
+available ICPAs; obtain the originating agency’s competitive procurement
+documentation; and verify the terms and specifications meet its needs) were not
+performed for any of the ICPAs tested and the remaining two best practices were
+not performed for at least two of the ICPAs tested.
+Incorporating the aforementioned statutory requirement and best practices into
+HCPS policies could help ensure they are consistently used. We did find that an
+additional best practice to obtain a copy of the ICPA price list for invoice
+verification was included by HCPS in an ICPA checklist that it used and was
+adhered to for all four ICPAs we reviewed.
+14
+
+--- Page 17 ---
+State law, which legal counsel to the Maryland General Assembly advised us is
+applicable to local education agencies, allows the use of cooperative purchasing
+arrangements or ICPAs only after the using entity has determined (or assessed) in
+writing that the use of such arrangements will provide cost benefits, promote
+administrative efficiencies, or promote intergovernmental cooperation1.
+Furthermore, the Institute for Public Procurement, formerly known as the
+“National Institute of Government Purchasing”, as well as other public and
+educational organizations have published ICPA best practices that include
+comprehensive multi-step checklists that require, among other things (as per the
+list above), that prospective ICPA users verify that the contract allows other
+entities to participate, the contract was awarded through a competitive
+procurement process, and requires that addendums be executed documenting their
+participation and incorporating local required terms and conditions.
+Recommendation 1
+We recommend that HCPS establish and adhere to the aforementioned
+statutory requirement and other identified and acknowledged best practices
+when using ICPAs.
+Finding 2
+Certain transactions processed on its automated system were not subject to
+independent review and approval and verified to appropriate supporting
+documentation after being entered into the system.
+Analysis
+Certain transactions processed on its automated system were not subject to
+independent review and approval and verified to appropriate supporting
+documentation after being entered into the system.
+ HCPS did not periodically generate a report of new vendors added, or changes
+to existing vendor information, for review by independent personnel to ensure
+that the vendor information added or changed was proper and accurately
+1Section 13-110 of the State Finance and Procurement Article, of the Annotated Code of Maryland
+in part, defines an intergovernmental cooperative purchasing agreement (ICPA). As defined, an
+ICPA is a contract that is entered into by at least one governmental entity in a certain manner,
+that is available for use by the governmental entity entering the contract and at least one
+additional governmental entity, and that is intended to promote efficiency and savings that can
+result from intergovernmental cooperative purchasing. The aforementioned law applies to all
+ICPAs regardless of the services, goods, or commodities purchased. In addition, Section 5-
+112(a)(3) of the Education Article of the Code provides that local education agencies do not need
+to conduct competitive procurements for goods and commodities if they use a contract awarded
+by public agencies or intergovernmental purchasing organizations and the originating procuring
+agency followed public bidding procedures.
+15
+
+--- Page 18 ---
+recorded. During the period of January 2018 to November 2019, there were
+20,319 vendor information changes (such as vendor name, bank account
+number) made by 9 different HCPS employees without any supervisory
+oversight. Our review of 10 of these vendor changes did not identify any
+improprieties.
+ The employee responsible for approving the disbursements batch generated by
+the automated system prior to payment, including those that did not have an
+associated purchase order, only assessed the reasonableness of the transaction
+and did not perform a documented comparison of the transactions to the
+related supporting documentation (such as an invoice and disbursement
+voucher form). During fiscal year 2019, HCPS processed over 8,000
+payments totaling approximately $218.1 million for invoices without an
+associated purchase order (including 300 payments totaling $136.8 million for
+health care, retirement, and workers compensation).
+ Invoices processed for special education service providers were not verified
+against independent documentation. HCPS special education program
+personnel compared the invoices to time records, which were produced and
+maintained by the providers’ employees. Although the time records were
+signed by HCPS school-based personnel after services were rendered, these
+original signed time records were not sent directly to HCPS contract monitors
+but, rather, were first returned to the providers’ employees, who then
+submitted them to contract monitors. This practice could allow the
+opportunity for unauthorized changes to be made to the time records that
+could go undetected. According to HCPS records, payments to six special
+education service providers totaled $1.4 million during fiscal years 2017 -
+2019. A similar condition related to verifying special education services
+billed was commented upon in our preceding audit report.
+Recommendation 2
+We recommend that HCPS
+a. ensure that changes to the vendor information recorded in the automated
+accounts payable system are periodically verified to appropriate source
+documentation by an independent employee;
+b. ensure that an independent employee conducts a documented comparison
+of disbursement transactions to the related supporting documentation, at
+least on a test basis; and
+c. obtain independent supporting documentation for special education
+services invoices (repeat).
+16
+
+--- Page 19 ---
+Human Resources and Payroll
+Background
+Payroll expense represents the largest single cost component in the HCPS budget.
+According to HCPS’ records, fiscal year 2019 salary, wage, and benefit costs
+totaled approximately $470.8 million, representing 81 percent of the total
+expenditures. According to Maryland State Department of Education reports,
+during the 2018-2019 school year HCPS had 5,064 full-time positions, which
+consisted of 3,603 instructional and 1,461 non-instructional positions.
+HCPS uses automated systems to maintain human resources information, record
+employee time, track employee leave usage, and process and record payroll
+transactions. Most employees use direct deposit, which is processed by HCPS’
+payroll system.
+Finding 3
+HCPS did not ensure critical human resources and payroll transactions were
+independently reviewed for propriety.
+Analysis
+HCPS did not ensure critical human resources and payroll transactions entered in
+the system were independently reviewed for propriety. Specifically, the
+processing of new hires, other earnings transactions (including leave payouts),
+and rate increases were not subject to independent review and comparison to
+supporting documentation. Although we were advised that system reports were
+produced for certain transactions, the employees that reviewed them were not
+independent, and the reports were not retained for future reference. In calendar
+year 2019, HCPS processed over 7,600 critical human resources and payroll
+transactions, including adding and terminating employees and processing salary
+increases. Our test of 10 employee additions or terminations and 10 salary
+increases totaling approximately $230,000 did not disclose any inappropriate or
+erroneous transactions.
+A similar condition regarding the lack of supervisory review and approval of
+critical transactions was commented upon in our preceding audit report.
+Recommendation 3
+We recommend that HCPS
+a. perform a documented independent supervisory review of human
+resources and payroll transactions entered in the system to appropriate
+supporting documentation, at least on a test basis (repeat); and
+b. retain system reports of transactions entered used to verify transactions.
+17
+
+--- Page 20 ---
+Equipment Control and Accountability
+Background
+According to HCPS’ audited financial statements, the undepreciated value of its
+capital equipment inventory totaled $48.8 million as of June 30, 2019. HCPS
+maintains centralized automated records for equipment with a cost of $5,000 or
+more (including assets capitalized for financial statement purposes). Control and
+recordkeeping of non-capitalized assets having a value of less than $5,000 was
+delegated to individual departments or schools. Thus, certain information
+technology items (desktops, laptops, tablets) are recorded on separate inventory
+records maintained by each school where the items are located.
+Finding 4
+HCPS’ equipment policies were not comprehensive, detail records were
+incomplete, and physical inventories were not conducted.
+Analysis
+HCPS’ equipment policies did not establish system-wide standards for controlling
+capital and sensitive equipment. For example, there were no requirements for
+tagging equipment, performing physical inventories, and investigating lost and
+stolen items. Additionally, HCPS policy did not define or require recording of
+non-capitalized sensitive equipment items that would be prone to theft, such as
+technology equipment (for example, cameras and laptops). The Government
+Finance Officers Association recommends that an entity establish controls over
+non-capitalized equipment that is marketable and susceptible to theft.
+Absent established system-wide standards, HCPS maintained informal,
+incomplete records of sensitive non-capitalized assets, which included certain
+types of sensitive items (such as desktops, laptops, and tablets) while excluding
+others (such as digital cameras or projectors). Furthermore, since it was not
+required, these records did not include the cost of the sensitive items or the
+purchase date. As of February 2020, HCPS’ records listed approximately 37,000
+non-capitalized devices with product names, model, serial numbers, and location
+information.
+HCPS also did not perform periodic physical inventories of either capital or
+sensitive non-capitalized equipment to account for items recorded, and identify
+and investigate missing items. During our test of 26 equipment items recorded in
+HCPS records, we could not locate 8 of those items. We were advised by HCPS
+that these items were either lost, stolen, or damaged. However, HCPS could not
+provide any documentation supporting this assertion.
+18
+
+--- Page 21 ---
+A similar condition regarding the failure to establish policies and procedures to
+ensure uniform accountability and control over its equipment inventory was
+commented upon in our two preceding audit reports.
+Recommendation 4
+We recommend that HCPS
+a. establish policies and procedures to ensure that uniform accountability
+and control is maintained over its equipment inventory (recording and
+conducting periodic inventories), including certain sensitive non-
+capitalized items (repeat);
+b. ensure that all sensitive equipment items, deemed subject to theft, are
+recorded in the detail records (including recording the purchase date and
+cost); and
+c. conduct periodic physical inventories of equipment items, compare the
+results to the detail records, and investigate missing items, including those
+noted above.
+Information Technology
+The HCPS Office of Information Technology (OIT) maintains and administers the
+HCPS’ computer network, computer operations, and information system
+applications. HCPS operates a wide area network, with internet connectivity,
+which connects the individual schools’ local networks to the computer resources
+located at HCPS’ headquarters. OIT maintains a computer room at the
+headquarters location in which numerous computer servers and network devices
+operate to support HCPS information system applications including its student
+information and financial management systems. Also, OIT utilized a cloud
+service provider for storage of critical production systems’ data backups, which
+included sensitive personal information for both students and employees.
+Finding 5
+HCPS did not ensure employee access to its automated financial management
+system applications was properly restricted resulting in numerous employees
+with improper and unnecessary access.
+Analysis
+HCPS did not ensure that employee access to its automated financial system
+applications, such as procurement, accounts payable, human resources and
+payroll, was properly restricted resulting in numerous employees with
+unnecessary or incompatible access capabilities. User access was granted by OIT
+based upon electronic mail messages sent by an employee’s respective supervisor.
+19
+
+--- Page 22 ---
+Our review disclosed that HCPS did not retain these messages to support the
+access assigned and did not perform periodic reviews to ensure all user access
+was proper and necessary to complete the users’ job duties.
+Our review disclosed that 322 of the 326 users (including external auditors and
+cafeteria workers) with access to perform both critical accounts payable (such as
+adding a vendor, entering invoices, and processing payments) and human
+resources and payroll functions (such as, adding new employees and processing
+payroll transactions) did not require such broad access for their specific jobs. The
+remaining four users were information technology employees who HCPS advised
+needed unrestricted access to the system. HCPS was unaware that the 322 users
+had the unnecessary access until we brought it to their attention in November
+2019. After we brought the situation to its attention, HCPS changed a user access
+profile setting that reduced the number of users with critical access to 54.
+We reviewed the access of the remaining 54 users and concluded that 19 still had
+access that was not required to perform their job duties and 26 had incompatible
+or unnecessary access. For example, three users could perform incompatible
+accounts payable system functions, such as adding vendors, entering invoices and
+processing payments without the need for online independent approval. These
+users also had access to the blank check stock and two could print checks with
+authorized facsimile signatures. Another 13 of the 54 users still had incompatible
+human resources and payroll access (such as adding employees and processing
+payroll) without online independent approval.
+Finally, HCPS did not create transaction reports to monitor the four information
+technology employees with unrestricted access to ensure no unauthorized
+transactions were processed. Similar conditions regarding the need to restrict
+critical automated financial system capabilities and eliminate incompatible
+functions were commented upon in our preceding audit report.
+Recommendation 5
+We recommend that HCPS ensure that employee access to its automated
+financial system applications, such as procurement, accounts payable, human
+resources and payroll is appropriate. Specifically, we recommend that HCPS
+a. retain documentation to support supervisory approval of user access;
+b. perform periodic independent reviews of financial system applications
+access;
+c. restrict critical system functions to employees who need those capabilities
+to perform their job duties and separate employee duties to eliminate
+incompatible financial system application functions, including those
+noted above (repeat); and
+20
+
+--- Page 23 ---
+d. generate and review transaction reports to monitor employees with
+unrestricted access capabilities to ensure all transactions processed were
+proper.
+Finding 6
+HCPS maintained sensitive electronic personally identifiable information
+(PII) in a manner that did not provide adequate safeguards.
+Analysis
+HCPS maintained sensitive electronic PII in a manner that did not provide
+adequate safeguards. Specifically, as of October 2019, we identified one critical
+system’s database which contained sensitive PII involving approximately 102,500
+records which was maintained in a manner that made the information vulnerable
+to improper disclosure. Additionally, HCPS personnel advised us that other
+substantial mitigating controls did not exist to otherwise protect this sensitive PII.
+Furthermore, HCPS had not performed an inventory of its systems to identify all
+stored sensitive PII, determined if it was necessary to retain the PII, and deleted
+PII identified as unnecessary. Detailed aspects of this finding were omitted from
+this report; however, the related information was previously shared with HCPS
+for the purposes of implementing the following recommendations.
+The State of Maryland Information Technology Security Manual requires that
+agencies protect confidential data using adequate safeguards and/or other
+substantial mitigating controls.
+Recommendation 6
+We recommend that HCPS
+a. implement appropriate information security safeguards for sensitive
+electronic PII it maintains; and
+b. perform an annual inventory of its application systems, identify all
+sensitive electronic PII, and delete all unnecessary PII.
+Finding 7
+HCPS lacked assurance that an online data backup service managed by a
+third-party provider was properly secured against operational and security
+risks.
+Analysis
+HCPS lacked assurance that all necessary information technology security and
+operational controls existed over its production systems online data backup
+21
+
+--- Page 24 ---
+service which was hosted, operated, and maintained by a third-party service
+provider. HCPS used the backup service, which included storage of PII, under a
+service order dated July 1, 2008, which was updated on June 25, 2015. Our
+examination disclosed the associated contract did not contain certain key security
+control provisions in regard to protecting HCPS backup data within the service
+provider’s network. For example, provisions did not exist for defining security
+incidents and necessary actions, requiring software vulnerability testing and patch
+management, and for requiring regular reviews of audit logs. Industry best
+practices recommend detailing the specific responsibilities mentioned above in
+clear and concise contractual language to limit operational and security risks. A
+similar condition was commented upon in our prior audit report.
+The service provider obtained a System and Organization Controls (SOC) 2 Type
+2 report, issued on December 19, 2018, for the period October 1, 2017 to
+September 30, 2018, covering the security, availability, processing integrity, and
+confidentiality trust service principles. The report did not cite any control
+weaknesses, and was obtained and reviewed by HCPS. Our November 2019
+review disclosed that the SOC report did not address certain key security controls
+necessary for the data backup service and the associated network that are typically
+included in a SOC 2 review covering the security and availability principles. For
+example, the SOC review did not test controls related to retention and review of
+audit logs recording privileged or unauthorized access or information security
+events and the use of vulnerability scanning, network intrusion detection and
+malware prevention. A similar condition was commented upon in our prior audit
+report.
+The American Institute of Certified Public Accountants has issued guidance
+concerning examinations of service providers and issuance of System and
+Organization Controls reports, including SOC 2 Type 2 reports for service
+organizations. The SOC 2 Type 2 report contain the service organization’s
+description of its system and the results of the auditor’s examination of the
+suitability of the system design and operating effectiveness for the period under
+review, and can include an evaluation of system security, data availability,
+processing integrity, confidentiality, and privacy trust services criteria. Service
+provider customers are responsible for obtaining and reviewing SOC reports in
+order to assess risk over their usage of service provider systems. The State of
+Maryland Information Technology Security Manual, within its risk assessment
+policy section, enumerates customer responsibilities relative to SOC reports
+which include reviewing such reports to ensure they contain complete
+implementation of all needed security controls.
+22
+
+--- Page 25 ---
+Recommendation 7
+We recommend that HCPS
+a. take appropriate actions to include in its service provider contract
+provisions that address the aforementioned security and operational risks
+(repeat), and
+b. request that the independent security reviews for its online data backup
+service and related SOC reports address all necessary security controls
+(repeat).
+Finding 8
+Certain servers were improperly located within the internal network, and
+intrusion detection prevention system coverage did not exist for untrusted
+encrypted traffic.
+Analysis
+HCPS’ computer network was not adequately secured. We noted two conditions
+affecting network security.
+ Certain servers were located in the HCPS internal network rather than being
+isolated in a separate protected network zone to minimize security risks.
+These servers, by their nature and location, created improper security risk for
+the internal network. Best practices in the State of Maryland Information
+Technology Security Manual include placing such servers in an external
+protected zone to protect those servers as well as the entity’s internal network.
+Detailed aspects of this finding were omitted from this report; however, the
+related information was previously shared with HCPS for the purposes of
+implementing appropriate corrective actions.
+ Intrusion detection prevention system (IDPS) coverage did not exist for
+untrusted encrypted traffic entering the HCPS network. HCPS operated a
+network appliance having integrated IDPS. Although the network-based
+IDPS used by HCPS had the capability to decrypt and analyze encrypted
+network traffic received, this feature was not enabled for a portion of such
+traffic. Additionally, server host-based intrusion prevention system coverage
+was not used for this untrusted encrypted traffic. We identified 2 firewall
+rules that allowed encrypted traffic from any source to 26 unique network
+destinations within HCPS’ internal network without IDPS coverage.
+The aforementioned absence of IDPS coverage creates network security risk
+as the untrusted encrypted traffic could contain undetected malicious data.
+Best practices in the State of Maryland Information Technology Security
+23
+
+--- Page 26 ---
+Manual require protection against malicious code and attacks by using IDPS
+to monitor system events, detect attacks, and identify unauthorized use of
+information systems and/or confidential information. A similar condition was
+commented upon in our preceding audit report.
+Recommendation 8
+We recommend that HCPS
+a. relocate servers, as appropriate, to a separate protected network zone to
+limit security exposures to the internal network segment; and
+b. perform a documented review and assessment of its network security
+risks and identify how IDPS coverage should be applied to its network for
+all untrusted traffic, including encrypted traffic, and implement this
+coverage (repeat).
+Facilities Construction, Renovation, and Maintenance
+Background
+HCPS employs a staff of 504 employees to maintain its 53 schools (including
+alternative, vocational, and special education) and a number of other facilities
+(such as administrative and support offices). According to its fiscal year 2020
+Capital Improvement Plan, necessary construction, major renovations, and
+systemic improvements to HCPS’ facilities over the next six years are estimated
+to cost $344.3 million.
+HCPS Capital Projects Were Properly Procured and Approved and Related
+Expenditures Were Properly Supported
+Our review of 9 construction-related procurements awarded during fiscal years
+2015 to 2018 totaling $62.6 million, disclosed that all 9 contracts were
+competitively procured and approved by the Board. In addition, our test of 20
+invoices totaling $12.7 million for these contracts disclosed that the invoices were
+properly supported and the amounts invoiced were in accordance with contract
+terms. Finally, our test of 16 change orders totaling $980,000 for these contracts
+disclosed that the change orders were properly supported and approved.
+Processes are in Place to Minimize Energy Costs
+HCPS has processes in place to minimize energy costs. Specifically, HCPS
+utilizes vendor energy metering systems to monitor heating and air conditioning
+usage and related costs. HCPS also has written policies that encourage both
+students and employees to be aware of and limit their energy use. HCPS also
+makes use of solar alternative energy sources. Finally, HCPS participates in a
+Baltimore regional cooperative and an Eastern Shore consortium to purchase
+24
+
+--- Page 27 ---
+energy at the best possible terms. According to documents provided by HCPS
+from its energy management vendor (which we did not audit), HCPS saved over
+$5.5 million through energy cost avoidance from calendar years 2015 to 2018.
+Finding 9
+HCPS did not perform preventive maintenance in accordance with its
+Comprehensive Maintenance Plan.
+Analysis
+HCPS did not perform preventive maintenance (PM) in accordance with its
+Comprehensive Maintenance Plan (CMP). Although, HCPS developed a CMP
+which required inspections and PM at certain intervals, our review of 61 PM work
+orders at 15 schools disclosed that 29 work orders were performed between 15
+and 432 days late, including 18 that were overdue by 120 days or more.
+Required PM is performed on critical building components (such as air
+conditioning and ventilation systems, boilers and plumbing, electrical systems,
+and roofs) and parking lots. Failing to perform the required PM in a timely
+manner could cause system failures and additional maintenance expenditures.
+Recommendation 9
+We recommend that HCPS complete all preventive maintenance required by
+its comprehensive maintenance plan in a timely manner.
+Transportation Services
+Background
+According to statistics compiled by the Maryland State Department of Education
+(MSDE), HCPS has approximately 32,500 students eligible to receive student
+transportation services. HCPS reported that 7.6 million route miles were traveled
+to transport students for the 2018-2019 school year. These students were
+transported using 334 contractor-owned buses and 97 school system-owned buses.
+According to HCPS’ financial records, fiscal year 2019 transportation costs
+totaled $45.2 million with $25.0 million (55 percent) representing payments for
+the contracted bus services.
+HCPS’s bus contracts are for a 6-year term and payments are negotiated each
+year. Specifically, HCPS and the bus contractors meet in August and September
+of each school year to reach an agreement on the rates to be paid the following
+school year. If no agreement is reached by January 1st, then the contract
+terminates as of June 30th of the fiscal year in question. As noted in Figure 4,
+25
+
+--- Page 28 ---
+payments to bus contractors consist of several components including hourly
+reimbursements for drivers, a per-mile maintenance fee, fuel costs, a per-vehicle
+allotment (or PVA) intended as reimbursement for the cost of purchasing a bus
+(less sales tax which is reimbursed upfront) and a flat rate for return on
+investment, reimbursement of certain administrative costs (such as bus driver
+training, physicals, and drug testing), and an operations payment.
+Figure 4
+Cost Components for Bus Contractor Payments
+Fiscal Year 2019
+(dollar amounts in millions)
+Cost Component Amount
+Reimbursements for Drivers Hourly Rates $7.8 31%
+Maintenance Fee and Fuel Costs $5.9 24%
+Per-vehicle Allotment (PVA) $4.8 19%
+Field Trips, Athletics, Alternative, and Special Education $3.1 13%
+Other Administrative Costs, Spare Bus, Extended Buses,
+$2.3 9%
+Sales Tax, and Insurance
+Operations Payment (formula per-bus profit margin) $1.1 4%
+Total $25.0
+Source: HCPS Records
+Finding 10
+Certain components of the payments to bus contractors could not be
+supported and included costs that should not have been reimbursed,
+resulting in higher payments than necessary for student transportation
+services.
+Analysis
+Certain components of the payments to bus contractors could not be supported
+and included costs that should not have been reimbursed, resulting in higher
+payments than necessary for student transportation services. During the 2017-
+2018 school year, the HCPS cost per mile for transporting students ($4.33) was
+higher than the average cost per mile for three of four other similarly sized school
+systems ($3.66).
+ HCPS did not have a documented basis for the formula used to calculate the
+monthly operations payments to bus contractors. Specifically, although a
+formula2 for calculating the operations element was included in the bus
+2 The formula is generally equal to 13 percent of the average total payments for time and route
+mileage associated with each bus (excluding spare buses) plus certain administrative costs.
+26
+
+--- Page 29 ---
+contracts annual table of payment rates, it was not supported by any cost
+studies and the basis for the payment was not explained in the contracts.
+HCPS modified its PVA payment formula, effective fiscal year 2017, to
+include the annual operations component, which it advised is intended to
+provide profit to the bus contractors. We estimate the operations payments
+collectively totaled $3.8 million during fiscal 2017 to 2020 for the 213 buses
+placed into service during that period. According to HCPS records, the
+operations payment per bus year class increased each year and ranged from
+$5,793 in fiscal year 2017 to $6,698 in fiscal year 2020. The operations
+payments are projected to be an additional $15.6 million over the remaining
+15-year life of the buses, resulting in payments totaling $19.4 million
+(approximately $91,000 during the life of each bus in addition to the PVA).
+ HCPS could not support the appropriateness of the $4.1 million it paid to bus
+contractors for bus maintenance costs during fiscal year 2019. The contract
+includes language that provides for the annual adjustment of the previous
+year’s per-mile maintenance reimbursement rate based on the Transportation
+Consumer Price Index for the Baltimore Washington metro area, contingent
+upon available funding. However, the annual per-mile maintenance base rate
+used was not supported by actual documented maintenance costs, cost studies
+or independently derived estimates, and the rate paid ($0.83 per-mile for fiscal
+year 2020) was not stipulated in the contracts.
+ HCPS did not obtain Board approval of the individual bus contracts, which
+are for a six-year term, or the bus payment rate exhibits referenced in the
+contracts, which are annually negotiated, as required by its procurement
+policies for contracts exceeding $100,000. Of the 32 bus contractors, 29
+received fiscal year 2019 payments of over $100,000 per year, including 8
+who received over $1 million per year.
+ The standard contract language used by HCPS for its bus contracts did not
+include a right to audit provision. Such a provision would allow HCPS to
+verify the contractor’s actual costs of purchasing and maintaining the buses
+when negotiating the PVA and the operations payment noted above, plus
+hourly reimbursements for drivers, the per-mile maintenance fee, fuel costs,
+and other administrative costs. The State of Maryland has established a
+preference in regulation that all contracts require contractors to make their
+records available for audit by authorized representatives of the State at all
+reasonable times.
+27
+
+--- Page 30 ---
+Similar conditions regarding inadequate support for bus maintenance payments,
+and not submitting bus payment components to the Board for approval, were
+commented upon in our preceding audit report.
+Recommendation 10
+We recommend that HCPS
+a. document the basis for the bus contractor operations payment;
+b. use actual documented maintenance costs, cost studies, or independently
+derived estimates for establishing contractor rates for per-mile
+maintenance costs (repeat);
+c. present the bus contracts and annual updated bus component payment
+rates to the Board for approval (repeat); and
+d. include provisions to audit the bus contractors in future contracts and use
+it to determine the actual cost of operating contractor buses to use in
+future contract negotiations.
+Finding 11
+HCPS did not independently verify manifest data entered into the
+transportation payments system and did not maintain support for payments
+made prior to fiscal year 2020.
+Analysis
+HCPS did not independently verify the accuracy of manifest data entered into the
+transportation payments system and did not maintain support for payments made
+prior to fiscal year 2020.
+ Manifest information manually entered into the automated system by HCPS
+employees was not independently reviewed for propriety. The manifest
+information, such as route times and miles, is used to calculate certain
+payments, such as the drivers’ hourly reimbursement that is made to the
+contractors.
+ The automated system used by HCPS prior to fiscal year 2020 did not
+maintain historical data supporting the calculation of payments for the PVA,
+administrative costs, fuel, and bus driver hourly wages. Specifically, the data
+were overwritten each year and no record of the prior year’s payments were
+maintained. As a result, we are unable to determine if payments made to bus
+contractors prior to 2020 were proper. HCPS converted to a new
+transportation payments system beginning in fiscal year 2020, and we were
+informed that the new system will maintain historical data. The contractor
+payments we were able to test for fiscal year 2020 did not disclose any
+28
+
+--- Page 31 ---
+material payment inaccuracies (driver hours and mileage was supported,
+negotiated rates were properly applied, and payment amounts were
+mathematically accurate).
+Recommendation 11
+We recommend that HCPS
+a. independently verify manifest data entered into transportation payments
+system for accuracy, and
+b. ensure system payment documentation and support is maintained for
+future reference.
+Food Services
+Background
+According to the audited financial statements, food service operating expenditures
+totaled $17.9 million in fiscal year 2019, which were primarily funded from
+federal sources totaling $9.6 million and food sales totaling $7.9 million.
+According to MSDE records, HCPS had 263.5 food service positions in fiscal
+year 2019 for its 53 schools, consisting of 230 cafeteria positions and 33.5
+administrative positions.
+According to MSDE records, 30 percent of HCPS students qualified for free and
+reduced-price meals as of October 31, 2018.
+Conclusion
+Based on our current assessment of significance and risk relative to our audit
+objectives, we did not conduct any work in this area other than a limited review to
+determine that HCPS satisfactorily addressed the prior report finding in this area.
+School Board Oversight
+Background
+The Harford County Board of Education (the Board) is composed of six elected
+members, three appointed members, and the county superintendent of schools,
+who is an ex officio nonvoting member. There is also one student member who
+has the same rights and privileges as the other voting members, with the exception
+of certain matters (such as acquisition and disposition of real property, collective
+bargaining, and employee promotions and discipline). As noted in the
+Background Information section, the Board contracted with a certified public
+accounting firm for independent audits of the HCPS financial statements and
+29
+
+--- Page 32 ---
+federal programs. To assist in its oversight of various areas of HCPS operations
+and governance, the Board established several committees, such as Audit, Board
+Policy, Budget, Legislative, and Student Government. Additionally, the Board
+has established a number of citizen advisory committees (such as Career and
+Technology Education, Family Life, Gifted and Talented, Safety and Security,
+and Special Education), which meet with the Board periodically and serve as
+channels for public concerns and information.
+HCPS Adopted an Ethics Policy that Met the Requirements of State Law
+The HCPS Board has adopted a detailed ethics policy that conforms to State law
+and was approved by the State Ethics Commission. The policy is applicable to all
+Board members and employees and includes provisions for conflicts of interest
+and financial disclosures by Board members and certain employees. Specifically,
+annual financial disclosures are required to be filed by Board members,
+candidates for the Board, the Superintendent, and other administrators (such as
+school principals and agency buyers) by April 30th of each year.
+In accordance with the policy, HCPS established an Ethics Panel consisting of
+five members appointed by the Board to interpret ethics policies and provide
+advice on policy implementation. The Panel also reviews and rules on any
+reported complaints of ethics violations. Our review of the records for certain
+Board members and HCPS employees required to submit financial disclosure
+forms for calendar year 2018 disclosed that forms were submitted as required.
+Conclusion
+Our audit did not disclose any reportable conditions related to school board
+oversight.
+Management of Other Risks
+Healthcare Background
+HCPS is a member of the Harford County Public Entities Health Care Consortium
+(hereafter referred to as the Consortium) for employee and retiree health care.
+The Consortium negotiates contracts with a third-party administrator (TPA) firm
+for health care claims processing services for employee and retiree medical,
+vision, dental, and pharmacy costs and for stop-loss coverage. HCPS is the
+largest member of the Consortium as its claims represented 70 percent of the
+Consortium’s total claims for plan year 2019.
+HCPS is self-insured and ultimately covers the cost of the medical services
+received by its employees. HCPS pays the TPA monthly that includes a
+30
+
+--- Page 33 ---
+subscription charge based on the number of participants and their medical
+coverage, and an administration fee. The monthly payment also includes the stop-
+loss insurance, which indemnifies HCPS against health insurance claim amounts
+that exceed $300,000 per participant per plan year.
+Medical providers submit claims to the TPA who pays them on behalf of HCPS.
+In a year-end settlement process, which segregates the participating agencies for
+the plan year ending June 30, 2019, the TPA nets the amount of medical claims it
+paid, and related fees, excess stop loss amounts and rebates, against the monthly
+subscription charges billed to and paid by HCPS to determine any excess amount
+due from or to be reimbursed to either party.
+The Consortium contracts with a consultant to help manage the health plans. The
+consultant performs data analysis of the health services utilization and costs,
+provides recommendations on potential rate changes, and evaluates the merits of
+the health plan proposals.
+As of February 19, 2020, HCPS provided health insurance benefits to
+approximately 15,500 enrolled employees, dependents, and retirees. According to
+TPA records, during the 2018-2019 contract year health care payments totaled
+$97.2 million, including $2.9 million in administrative fees and $3.3 million in
+stop-loss insurance.
+Finding 12
+HCPS did not audit or adequately verify the propriety of health care claims,
+insurance premiums and administrative fees paid to the TPA, and the
+eligibility of enrolled dependents.
+Analysis
+HCPS did not audit or adequately verify the propriety of health care claims,
+insurance premiums and administrative fees paid to the TPA, and the eligibility of
+enrolled dependents.
+ HCPS did not audit the propriety of the medical claims paid on its behalf by
+the TPA to ensure that the services were actually provided, covered by the
+health plans, appropriately priced, and accurately reported on the year-end
+settlement. Furthermore, HCPS did not receive detailed claims data from the
+TPA to verify the propriety of the aforementioned items and accuracy of the
+year-end settlement. The State of Maryland’s Office of Personnel Services
+and Benefits administers self-insured health plans for State employees and
+contracts for comprehensive reviews of claims paid by plan administrators.
+According to the Office, improper payments identified from these reviews
+31
+
+--- Page 34 ---
+have consistently exceeded the cost of the reviews. A similar condition was
+commented upon in our preceding audit report.
+ HCPS did not always document its verification of health insurance premiums
+billed monthly by the TPA. HCPS had developed a computerized report that
+compared amounts due according to its enrollment records to the amounts
+billed by the TPA, which was to be reviewed monthly by staff. Our test of 12
+fiscal year 2019 monthly billings totaling $97.2 million disclosed that HCPS
+could not document the comparison for 5 monthly billings totaling $39.4
+million.
+ HCPS did not verify the propriety of administrative fees assessed by the TPA,
+which totaled $2.9 million in fiscal year 2019. The fees were included in the
+annual settlement with the TPA based on a fixed amount per enrollee.
+However, HCPS did not verify the accuracy of the annual settlement amount
+by multiplying the number of participants according to its human resources
+enrollment records by the applicable contract rate. Our recalculation of the
+administrative fees for the 2019 contract year did not disclose significant
+variances. A similar condition was commented upon in our preceding audit
+report.
+ HCPS did not ensure that it received all prescription drug rebates from the
+TPA’s pharmacy benefits manager as reported on the annual settlement with
+the TPA. In fiscal year 2019, the TPA reported that HCPS received
+prescription drug rebates totaling $6.2 million.
+ HCPS did not ensure all enrolled dependents were eligible to participate in the
+HCPS health plan. Although HCPS had established new dependent eligibility
+verification procedures and enrollment documentation criteria, such
+documentation was not always obtained to verify new dependents met health
+insurance enrollment criteria. Furthermore, HCPS had not performed a
+dependent eligibility audit to identify previously enrolled ineligible
+dependents. Our test of 18 employees with dependent insurance coverage
+disclosed that 17 of the employees had not provided documentation required
+to support dependent eligibility, such as social security cards, and birth and
+marriage certificates.
+Recommendation 12
+We recommend that HCPS
+a. ensure audits are conducted of the propriety of health care claims paid,
+and documentation is obtained supporting amounts reported on the year-
+end settlement by the TPA (repeat);
+32
+
+--- Page 35 ---
+b. document the comparisons of its records of enrolled employees to TPA
+invoices and contract rates to determine the propriety of premiums
+billed;
+c. perform documented comparisons of its records of enrolled employees
+and contract rates to determine the propriety of administrative fees
+assessed on the year-end settlement (repeat);
+d. obtain documentation from the TPA’s pharmacy benefit manager
+supporting the amount of drug rebates reported by the TPA on the year-
+end settlement; and
+e. conduct audits of enrolled dependents and ensure employees in the health
+care plan submit the documentation required to verify the eligibility of
+their dependents before they are enrolled in the plans.
+33
+
+--- Page 36 ---
+Audit Scope, Objectives, and Methodology
+We conducted a performance audit to evaluate the effectiveness and efficiency of
+the financial management practices of the Harford County Public Schools
+(HCPS). We conducted this audit under the authority of the State Government
+Article, Section 2-1220(e) of the Annotated Code of Maryland, and performed it
+in accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+We had two broad audit objectives:
+1. Evaluate whether the HCPS procedures and controls were effective in
+accounting for and safeguarding its assets.
+2. Evaluate whether the HCPS policies provided for the efficient use of
+financial resources.
+In planning and conducting our audit of HCPS, we focused on 11 major financial-
+related areas of operations as approved on December 6, 2016 by the Joint Audit
+and Evaluation Committee of the Maryland General Assembly in accordance with
+the enabling legislation. The scope of the work performed in each of these areas
+was based on our assessments of significance and risk. Therefore, our follow-up
+on the status of findings included in our preceding audit report on HCPS dated
+January 27, 2015, included those findings that were applicable to the current audit
+scope for each of the 11 areas.
+The audit objectives excluded reviewing and assessing student achievement,
+curriculum, teacher performance, and other academic-related areas and functions.
+Also, we did not evaluate the HCPS Comprehensive Education Master Plan or
+related updates, and we did not review the activities, financial or other, of any
+parent teacher association, group, or funds not under the local board of
+education’s direct control or management.
+To accomplish our objectives, we reviewed applicable State laws and regulations
+pertaining to public elementary and secondary education, as well as policies and
+procedures issued and established by HCPS. We also interviewed personnel at
+HCPS and the Maryland State Department of Education (MSDE), and staff at
+other local school systems in Maryland (as appropriate). Our audit procedures
+34
+
+--- Page 37 ---
+included inspections of documents and records, and observations of HCPS
+operations. We also tested transactions and performed other auditing procedures
+that we considered necessary to achieve our objectives, generally for the period
+from July 1, 2016 to September 4, 2019. Generally, transactions were selected for
+testing based on auditor judgment, which primarily considers risk. Unless
+otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the test items were selected. For certain areas within the scope of the audit, we
+relied on the work performed by the independent accounting firm that annually
+audits HCPS’ financial statements and conducts the federal Single Audit, as well
+as the HCPS internal auditor.
+We used certain statistical data—including financial and operational—compiled
+by MSDE from various informational reports submitted by the Maryland local
+school systems. This information was used in this audit report for background or
+informational purposes, and was deemed reasonable.
+We also extracted data from the HCPS automated financial management system
+for the purpose of testing expenditure and payroll transactions. We performed
+various audit procedures on the relevant data and determined the data were
+sufficiently reliable for the purposes the data were used during the audit.
+HCPS’ management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to HCPS, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate. In addition
+to the conditions included in this report, other findings were communicated to
+HCPS that were not deemed significant and, consequently, did not warrant
+inclusion in this report.
+35
+
+--- Page 38 ---
+We conducted our audit fieldwork from September 5, 2019 to June 30, 2020. A
+portion of our fieldwork included time in which the local education agencies were
+impacted by the COVID-19 pandemic health crisis. Specifically, beginning on
+March 16, 2020, the State Superintendent of Schools decided to close school and
+administrative buildings to employees and the public for a two-week period. This
+was eventually extended for the remainder of the 2019-2020 school year with
+limited access by certain employees. Although all HCPS buildings were closed
+for a portion of our fieldwork, the objectives and scope of our audit were not
+significantly impacted. To the extent that the COVID-19 crisis continues to
+impact HCPS operations, certain recommendations in this report may need to be
+adjusted to ensure proper controls under the modified operations.
+The HCPS response to our findings and recommendations is included as an
+appendix to this report. As prescribed in the State Government Article, Section 2-
+1224 of the Annotated Code of Maryland, we will advise HCPS regarding the
+results of our review of its response.
+36
+
+--- Page 39 ---
+APPENDIX
+Business Services
+Deborah L. Judd, CPA
+Assistant Superintendent for Business Services
+March 19, 2021
+Mr. Gregory A. Hook, CPA,
+Legislative Auditor
+Dear Mr. Hook:
+Please accept the attached Agency Response Form as the result of the Legislative
+Audit of Harford County Public Schools. We appreciate the collaboration during the
+audit and the opportunity to provide responses to your findings.
+Please contact us with any questions
+Sincerely,
+Deborah L. Judd, CPA
+Assistant Superintendent for Business Services
+
+--- Page 40 ---
+Harford County Public Schools
+Agency Response Form
+Procurement and Disbursement Cycle
+Finding 1
+HCPS procurement policies did not incorporate certain recognized best practices or
+requirements of State law when evaluating the merits of participation in intergovernmental
+cooperative purchasing agreements (ICPA).
+We recommend that HCPS establish and adhere to the aforementioned statutory
+requirement and other identified and acknowledged best practices when using ICPAs.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 1 Agree Estimated Completion Date: 6/30/2021
+Please provide details of The purchasing practices as it relates to ICPA agreements currently incorporate
+corrective action or many of the requirements of State Law by using a “Piggyback” check list to evaluate
+explain disagreement. the merits of participating in an ICPA. Going forward HCPS will incorporate other
+best practices.
+Page 1 of 16
+
+--- Page 41 ---
+Harford County Public Schools
+Agency Response Form
+Finding 2
+Certain transactions processed on its automated system were not subject to independent
+review and approval and verified to appropriate supporting documentation after being
+entered into the system.
+We recommend that HCPS
+a. ensure that changes to the vendor information recorded in the automated accounts
+payable system are periodically verified to appropriate source documentation by an
+independent employee;
+b. ensure that an independent employee conducts a documented comparison of
+disbursement transactions to the related supporting documentation, at least on a test
+basis; and
+c. obtain independent supporting documentation for special education services invoices
+(repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 2a Agree Estimated Completion Date: Jan 2021
+Please provide details of AP135 picks up vendor changes and other things. The Assistant
+corrective action or Superintendent for Business Services will review the report quarterly
+explain disagreement. and randomly select documentation to confirm appropriate changes.
+Recommendation 2b Agree Estimated Completion Date: Complete
+Please provide details of Independent review occurs by any number of managers within the
+corrective action or organization as described in the processes and compensating controls
+explain disagreement. below.
+Budget Managers monitor their budget accounts very closely and are
+provided daily reports that are updated each night for that day’s
+transactions. Any inappropriate charges to their accounts are questioned
+and investigated. . Budget Managers routinely contact Business Services
+if a transaction is posted to one of their accounts that they did not
+approve or if something is not charged to their account that should have
+been. In addition, the Assistant Superintendent of Business Services
+prepares the quarterly financial reports and investigates variances, often
+looking at documentation to understand the specific transactions that
+have posted.
+Page 2 of 16
+
+--- Page 42 ---
+Harford County Public Schools
+Agency Response Form
+The budget office monitors Health, Life, Dental and Retirement accounts
+very closely. Any unexpected variances are questioned and
+investigated. Quarterly meetings are held with the budget office and the
+Assistant Superintendent of Business Services to discuss budgets by
+state categories and by line item for any areas that appear high.
+When Health, Life and Dental are paid each month, the Benefits Office
+sends the approved Disbursement Vouchers and invoices to
+Finance. Approximately $10 million each month. The accounting
+specialist coordinates with the Director of Finance in order to process the
+payments, ensuring funds are available. The Director of Finance will
+transfer money from our MLGIP account to our checking account to
+cover this large amount, as needed. The accounting specialist then
+processes the ACH payments. There is management involvement and
+approval in processing these payments each month.
+Retirement payments made quarterly and annually are initiated by the
+Director of Finance. For the quarterly Local Share of Teachers’
+retirement and the quarterly Admin Fee for Teachers and Employees
+plans, the Director of Finance prepares and submits the Disbursement
+Vouchers to Accounts Payable who process payment.
+The annual employer contribution to Employees’ Retirement is paid via
+Wire Transfer in December each year. The Director of Finance provides
+instruction to Accounts Payable to make this payment via Wire
+Transfer. Management involvement throughout the process as The
+Director then faxes payment acknowledgement to MSRA.
+Recommendation 2c Agree Estimated Completion Date: Jan 2021
+Please provide details of HCPS will develop a process that requires the timesheet to come to the
+corrective action or special education office from the school, rather than the contractor.
+explain disagreement.
+Human Resources and Payroll
+Finding 3
+Page 3 of 16
+
+--- Page 43 ---
+Harford County Public Schools
+Agency Response Form
+HCPS did not ensure critical human resources and payroll transactions were
+independently reviewed for propriety.
+We recommend that HCPS
+a. perform a documented independent supervisory review of human resources and payroll
+transactions entered in the system to appropriate supporting documentation, at least on
+a test basis (repeat); and
+b. retain system reports of transactions entered used to verify transactions.
+Agency Response
+Analysis Factually Accurate
+Please provide HCPS does ensure accuracy of payroll transactions through monitoring
+additional comments exception reports and ensuring supervisor approval exists, as necessary.
+as deemed necessary. The independent auditor, on a test basis, also reviews transactions.
+Recommendation 3a Agree Estimated Completion Date: Ongoing
+Please provide details HCPS will perform a periodic documented review of personnel and
+of corrective action or payroll transactions, on a test basis by the Assistant Superintendent for
+explain disagreement. Human Resources.
+Recommendation 3b Agree Estimated Completion Date: March 2020
+Please provide details Human resources will run reports quarterly and the Assistant
+of corrective action or Superintendent for Human Resources will review and verify transactions
+explain disagreement. and will retain the documentation.
+Page 4 of 16
+
+--- Page 44 ---
+Harford County Public Schools
+Agency Response Form
+Equipment Control and Accountability
+Finding 4
+HCPS’ equipment policies were not comprehensive, detail records were incomplete, and
+physical inventories were not conducted.
+We recommend that HCPS
+a. establish policies and procedures to ensure that uniform accountability and control is
+maintained over its equipment inventory (recording and conducting periodic
+inventories), including certain sensitive non-capitalized items (repeat);
+b. ensure that all sensitive equipment items, deemed subject to theft, are recorded in the
+detail records (including recording the purchase date and cost); and
+c. conduct periodic physical inventories of equipment items, compare the results to the
+detail records, and investigate missing items, including those noted above.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 4a Agree Estimated Completion Date: June 2021
+Please provide details of HCPS will establish inventory policies/procedures to address the
+corrective action or accountability and controls over certain sensitive items.
+explain disagreement.
+Recommendation 4b Agree Estimated Completion Date: complete
+Please provide details of HCPS automated asset management systems does inventory
+corrective action or (continuously) through the asset reporting agent. HCPS will address any
+explain disagreement.
+unaccounted for items. The several systems utilized for tracking do not
+have the capability to track purchase date and cost. Those items would
+be found in HCPS’ ERP system.
+Recommendation 4c Agree Estimated Completion Date: annually
+Please provide details of The 20/21 school year was the first-year students all had devices.
+corrective action or Devices will be accounted for at year-end and unaccounted for devices
+explain disagreement. will be investigated. Each school has an asset tag system which
+identifies the device assigned to each student.
+Page 5 of 16
+
+--- Page 45 ---
+Harford County Public Schools
+Agency Response Form
+Information Technology
+Finding 5
+HCPS did not ensure employee access to its automated financial management system
+applications was properly restricted resulting in numerous employees with improper and
+unnecessary access.
+We recommend that HCPS ensure that employee access to its automated financial system
+applications, such as procurement, accounts payable, human resources and payroll is
+appropriate. Specifically, we recommend that HCPS
+a. retain documentation to support supervisory approval of user access;
+b. perform periodic independent reviews of financial system applications access;
+c. restrict critical system functions to employees who need those capabilities to perform
+their job duties and separate employee duties to eliminate incompatible financial system
+application functions, including those noted above (repeat); and
+d. generate and review transaction reports to monitor employees with unrestricted access
+capabilities to ensure all transactions processed were proper.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 5a Agree Estimated Completion Date: Complete
+Please provide details of Technology has developed a form for this purpose. Approval is tracked,
+corrective action or verified, and retained.
+explain disagreement.
+Recommendation 5b Agree Estimated Completion Date: April 2021
+Please provide details of Management will review appropriate financial system access quarterly.
+corrective action or
+explain disagreement.
+Recommendation 5c Agree Estimated Completion Date: Complete
+Please provide details of HCPS restricts access to critical systems through security software
+corrective action or which is implemented by the Technology Department. Security Roles
+explain disagreement. are established within the security module and users are assigned to roles
+based on their job duties. Through the quarterly review of user security
+access (see 5b response), HCPS will be able to identify employees who
+Page 6 of 16
+
+--- Page 46 ---
+Harford County Public Schools
+Agency Response Form
+may be included in a role in error and their access will be removed, if
+deemed necessary.
+Recommendation 5d Agree Estimated Completion Date: Ongoing
+Please provide details of Upon completion of the quarterly review of system access, HCPS will
+corrective action or review any transactions that may have occurred by employees with
+explain disagreement. incompatible job functions.
+Page 7 of 16
+
+--- Page 47 ---
+Harford County Public Schools
+Agency Response Form
+Finding 6
+HCPS maintained sensitive electronic personally identifiable information (PII) in a manner
+that did not provide adequate safeguards.
+We recommend that HCPS
+a. implement appropriate information security safeguards for sensitive electronic PII it
+maintains; and
+b. perform an annual inventory of its application systems, identify all sensitive electronic
+PII, and delete all unnecessary electronic PII.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 6a Agree Estimated Completion Date: Ongoing
+Please provide details of HCPS IT staff meet weekly to identify ANY potential security
+corrective action or vulnerabilities, craft a scope and sequence for deployment, or
+explain disagreement. corrective measure(s).
+Recommendation 6b Agree Estimated Completion Date: Ongoing
+Please provide details of HCPS IT staff will continually identify and perform deletion of
+corrective action or electronic PII as appropriate and does not impact operation of the
+explain disagreement. district’s mission.
+Details of deletion of non-electronic PII falls outside the Office of
+Technology.
+Page 8 of 16
+
+--- Page 48 ---
+Harford County Public Schools
+Agency Response Form
+Finding 7
+HCPS lacked assurance that an online data backup service managed by a third-party
+provider was properly secured against operational and security risks.
+We recommend that HCPS
+a. take appropriate actions to include in its service provider contract includes provisions
+that address the aforementioned security and operational risks (repeat), and
+b. request that the independent security reviews for its online data backup service and
+related SOC reports address all necessary security controls (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 7a Agree Estimated Completion Date: 12 months
+Please provide details of Agree in part, as HCPS can only request the suggested modifications.
+corrective action or This was done after the 2015 audit to no avail. As an alternative, HCPS
+explain disagreement. is exploring moving our data backup strategy to a more local controlled
+data center.
+Recommendation 7b Agree Estimated Completion Date:
+Please provide details of HCPS is actively reworking the existing contract to include additional
+corrective action or security controls covered under the vendor’s independent SOC review.
+explain disagreement.
+Page 9 of 16
+
+--- Page 49 ---
+Harford County Public Schools
+Agency Response Form
+Finding 8
+Certain servers were improperly located within the internal network, and intrusion
+detection prevention system coverage did not exist for untrusted encrypted traffic.
+We recommend that HCPS
+a. relocate servers, as appropriate, to a separate protected network zone to limit security
+exposures to the internal network segment; and
+b. perform a documented review and assessment of its network security risks and identify
+how IDPS coverage should be applied to its network for all untrusted traffic, including
+encrypted traffic, and implement this coverage (repeat).
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 8a Agree Estimated Completion Date: 12 months
+Please provide details of HCPS will research and, where appropriate, will relocate servers.
+corrective action or
+explain disagreement.
+Recommendation 8b Agree Estimated Completion Date: 12 months
+Please provide details of HCPS is actively working to strengthen security protection measures to
+corrective action or all publicly facing web servers.
+explain disagreement.
+Page 10 of 16
+
+--- Page 50 ---
+Harford County Public Schools
+Agency Response Form
+Facilities Construction, Renovation, and Maintenance
+Finding 9
+HCPS did not perform preventive maintenance in accordance with its Comprehensive
+Maintenance Plan.
+We recommend that HCPS complete all preventive maintenance required by its
+comprehensive maintenance plan in a timely manner.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 9 Agree Estimated Completion Date: Spring 2021
+Please provide details of HCPS is evaluating the structure of the preventative maintenance
+corrective action or program to align the needs of the system to the staffing resources. The
+explain disagreement. next comprehensive maintenance plan will incorporate these changes.
+Page 11 of 16
+
+--- Page 51 ---
+Harford County Public Schools
+Agency Response Form
+Transportation Services
+Finding 10
+Certain components of the payments to bus contractors could not be supported and
+included costs that should not have been reimbursed, resulting in higher payments than
+necessary for student transportation services.
+We recommend that HCPS
+a. document the basis for the bus contractor operations payment;
+b. use actual documented maintenance costs, cost studies, or independently derived
+estimates for establishing contractor rates for per-mile maintenance costs (repeat);
+c. present the bus contracts and annual updated bus component payment rates to the
+Board for approval (repeat); and
+d. include provisions to audit the bus contractors in future contracts and use it to
+determine the actual cost of operating contractor buses to use in future contract
+negotiations.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 10a Agree Estimated Completion Date: Complete
+Please provide details of The agreements with the bus contractors document the agreed-upon
+corrective action or payments. HCPS will retain documentation supporting the bus
+explain disagreement. contractor operations payment from future negotiation meetings with the
+bus contractors or during the bid process.
+Recommendation 10b Agree Estimated Completion Date: complete
+Please provide details of The agreements with the bus contractors document agreed-upon
+corrective action or payments. HCPS will retain documentation supporting the bus
+explain disagreement. contractor per-mile maintenance cost from future negotiation meetings
+with the bus contractors or during the bid process.
+Recommendation 10c Agree Estimated Completion Date: ongoing
+Please provide details of Each year the board approves the increase in all annual costs related to
+corrective action or the bus contractors through the annual budget approval process.
+explain disagreement. Renegotiated contracts will continue to be presented to the board for
+approval in the future (2023 when this contract expires).
+Recommendation 10d Agree Estimated Completion Date: 2023
+Page 12 of 16
+
+--- Page 52 ---
+Harford County Public Schools
+Agency Response Form
+Please provide details of HCPS will attempt to include an audit or financial review provision in
+corrective action or the next bus contract negotiations.
+explain disagreement.
+Page 13 of 16
+
+--- Page 53 ---
+Harford County Public Schools
+Agency Response Form
+Finding 11
+HCPS did not independently verify manifest data entered into the transportation payments
+system and did not maintain support for payments made prior to fiscal year 2020.
+We recommend that HCPS
+a. independently verify manifest data entered into transportation payments system for
+accuracy, and
+b. ensure system payment documentation and support is maintained for future reference.
+Agency Response
+Analysis
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 11a Agree Estimated Completion Date: Complete
+Please provide details of HCPS began implementing the recommendation in the 19/20 school
+corrective action or year.
+explain disagreement.
+Recommendation 11b Agree Estimated Completion Date: Complete
+Please provide details of HCPS will maintain this information for audit purposes.
+corrective action or
+explain disagreement.
+Page 14 of 16
+
+--- Page 54 ---
+Harford County Public Schools
+Agency Response Form
+Management of Other Risks
+Finding 12
+HCPS did not audit or adequately verify the propriety of health care claims, insurance
+premiums and administrative fees paid to the TPA, and the eligibility of enrolled
+dependents.
+We recommend that HCPS
+a. ensure audits are conducted of the propriety of health care claims paid, and
+documentation is obtained supporting amounts reported on the year-end settlement by
+the TPA (repeat);
+b. document the comparisons of its records of enrolled employees to TPA invoices and
+contract rates to determine the propriety of premiums billed;
+c. perform documented comparisons of its records of enrolled employees and contract
+rates to determine the propriety of administrative fees assessed on the year-end
+settlement (repeat);
+d. obtain documentation from the TPA’s pharmacy benefit manager supporting the
+amount of drug rebates reported by the TPA on the year-end settlement; and
+e. conduct audits of enrolled dependents and ensure employees in the health care plan
+submit the documentation required to verify the eligibility of their dependents before
+they are enrolled in the plans.
+Agency Response
+Analysis Factually Accurate
+Please provide
+additional comments as
+deemed necessary.
+Recommendation 12a Agree Estimated Completion Date: Spring 2021
+Please provide details of HCPS is currently engaged in an audit with a third party to review the
+corrective action or propriety of healthcare claims. HCPS will also corroborate the year-end
+explain disagreement. settlement produced by the TPA.
+Recommendation 12b Agree Estimated Completion Date: Ongoing
+Please provide details of The HR/IS Analyst will compare invoices to employee elections to
+corrective action or verify monthly medical billings.
+explain disagreement.
+Recommendation 12c Agree Estimated Completion Date: 7/1/2021
+Page 15 of 16
+
+--- Page 55 ---
+Harford County Public Schools
+Agency Response Form
+Please provide details of 1)HCPS will engage a benefit consultant , benefit enrollment provider,
+corrective action or and health benefits insurer in conversation by March 31, 2021 to develop
+explain disagreement.
+a process to validate monthly administrative fees, and fees assessed on
+year-end settlement.
+2)Solution to be tested for plan year ending 6/30/2021 and implemented
+for use beginning with plan year 7/1/2021 – 6/30/2022.
+Recommendation 12d Agree Estimated Completion Date: 2021
+Please provide details of HCPS will engage benefit consultant, pharmacy benefits manager, and
+corrective action or health benefits insurer as needed, in conversation by March 31, 2021 to
+explain disagreement.
+determine how HCPS may be able to verify drug rebates reported on the
+year-end settlement.
+Recommendation 12e Agree Estimated Completion Date: 2021/2022
+Please provide details of HCPS will consider a dependent audit. For new enrollees, verification is
+corrective action or currently required to ensure valid dependent status.
+explain disagreement.
+Page 16 of 16
+
+--- Page 56 ---
+A T
+UDIT EAM
+Raymond G. Burton Jr., CPA, CFE
+Audit Manager
+Richard L. Carter, CISA
+R. Brendan Coffey, CPA, CISA
+Information Systems Audit Managers
+Mindy R. Garrett
+Senior Auditor
+Roman J. Gouin
+Matthew D. Walbert, CISA
+Information Systems Senior Auditors
+Jordan T. Duke
+Owen M. Long
+John B. Wachter, CFE
+Staff Auditors
+Joseph R. Clayton
+Information System Staff Auditor

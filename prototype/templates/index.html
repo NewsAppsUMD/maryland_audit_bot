@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maryland Audit Reports Analyzer - Prototype</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="mb-4">Maryland Audit Reports Analyzer</h1>
+                <p class="lead">AI-assisted analysis of legislative audit reports for Maryland government agencies</p>
+                <p class="text-muted"><strong>Prototype Version</strong> - Testing with 3 agencies</p>
+            </div>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Select Agency</h5>
+                    </div>
+                    <div class="card-body">
+                        <select id="agencySelect" class="form-select mb-3">
+                            <option value="">Choose an agency...</option>
+                            {% for agency in agencies %}
+                            <option value="{{ agency }}">{{ agency }}</option>
+                            {% endfor %}
+                        </select>
+                        
+                        <label for="modelSelect" class="form-label">Select Model</label>
+                        <select id="modelSelect" class="form-select mb-3">
+                            {% for model in models %}
+                            <option value="{{ model.id }}" {% if model.is_default %}selected{% endif %}>
+                                {{ model.display_name }}{% if model.is_default %} (Default){% endif %}
+                            </option>
+                            {% endfor %}
+                        </select>
+                        
+                        <button id="analyzeBtn" class="btn btn-primary w-100" disabled>
+                            Analyze Reports
+                        </button>
+                        
+                        <div id="loadingState" class="mt-3 d-none">
+                            <div class="d-flex align-items-center">
+                                <div class="spinner-border spinner-border-sm me-2" role="status">
+                                    <span class="visually-hidden">Loading...</span>
+                                </div>
+                                <span>Analyzing reports...</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Agency Statistics -->
+                <div class="card mt-3">
+                    <div class="card-header">
+                        <h6>Agency Statistics</h6>
+                    </div>
+                    <div class="card-body">
+                        {% for agency, stat in stats.items() %}
+                        <div class="mb-2">
+                            <strong>{{ agency }}</strong><br>
+                            <small class="text-muted">
+                                {{ stat.report_count }} reports<br>
+                                {{ stat.date_range }}
+                            </small>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 id="resultsTitle">Analysis Results</h5>
+                        <div id="analysisMetadata" class="d-none">
+                            <small class="text-muted">
+                                Model: <span id="modelUsed"></span> | 
+                                Reports: <span id="reportsCount"></span> | 
+                                Date Range: <span id="dateRange"></span> | 
+                                Text: <span id="textLength"></span> chars
+                            </small>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div id="resultsContent">
+                            <p class="text-muted">Select an agency and click "Analyze Reports" to see AI-generated analysis of potential newsworthy issues.</p>
+                        </div>
+                        
+                        <div id="errorContent" class="d-none">
+                            <div class="alert alert-danger" role="alert">
+                                <strong>Error:</strong> <span id="errorMessage"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Instructions -->
+                <div class="card mt-3">
+                    <div class="card-body">
+                        <h6>How it works:</h6>
+                        <ol>
+                            <li>Select one of the three test agencies from the dropdown</li>
+                            <li>Click "Analyze Reports" to process all audit reports for that agency</li>
+                            <li>AI analyzes the reports and generates a summary of potential newsworthy issues</li>
+                            <li>Results prioritize recent issues, fraud/abuse, and significant public impact</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const agencySelect = document.getElementById('agencySelect');
+            const modelSelect = document.getElementById('modelSelect');
+            const analyzeBtn = document.getElementById('analyzeBtn');
+            const loadingState = document.getElementById('loadingState');
+            const resultsContent = document.getElementById('resultsContent');
+            const errorContent = document.getElementById('errorContent');
+            const resultsTitle = document.getElementById('resultsTitle');
+            const analysisMetadata = document.getElementById('analysisMetadata');
+
+            // Enable/disable analyze button based on selection
+            agencySelect.addEventListener('change', function() {
+                analyzeBtn.disabled = !this.value;
+                if (this.value) {
+                    resultsTitle.textContent = `Analysis Results - ${this.value}`;
+                } else {
+                    resultsTitle.textContent = 'Analysis Results';
+                }
+            });
+
+            // Handle analyze button click
+            analyzeBtn.addEventListener('click', function() {
+                const selectedAgency = agencySelect.value;
+                const selectedModel = modelSelect.value;
+                if (!selectedAgency) return;
+
+                // Show loading state
+                loadingState.classList.remove('d-none');
+                analyzeBtn.disabled = true;
+                resultsContent.innerHTML = '<p class="text-muted">Processing reports...</p>';
+                errorContent.classList.add('d-none');
+                analysisMetadata.classList.add('d-none');
+
+                // Make API call with model parameter
+                const url = `/api/analyze/${encodeURIComponent(selectedAgency)}?model=${encodeURIComponent(selectedModel)}`;
+                fetch(url)
+                    .then(response => response.json())
+                    .then(data => {
+                        loadingState.classList.add('d-none');
+                        analyzeBtn.disabled = false;
+
+                        if (data.success) {
+                            // Show results with proper HTML rendering
+                            resultsContent.innerHTML = `<div class="analysis-result">${data.content}</div>`;
+                            
+                            // Show metadata
+                            document.getElementById('modelUsed').textContent = data.model_used || 'Unknown';
+                            document.getElementById('reportsCount').textContent = data.reports_analyzed || 0;
+                            document.getElementById('dateRange').textContent = data.date_range || 'Unknown';
+                            document.getElementById('textLength').textContent = (data.text_length || 0).toLocaleString();
+                            analysisMetadata.classList.remove('d-none');
+                            
+                            errorContent.classList.add('d-none');
+                        } else {
+                            // Show error
+                            document.getElementById('errorMessage').textContent = data.error || 'Unknown error occurred';
+                            errorContent.classList.remove('d-none');
+                            resultsContent.innerHTML = '<p class="text-muted">Analysis failed. Please try again.</p>';
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        loadingState.classList.add('d-none');
+                        analyzeBtn.disabled = false;
+                        
+                        document.getElementById('errorMessage').textContent = 'Network error occurred';
+                        errorContent.classList.remove('d-none');
+                        resultsContent.innerHTML = '<p class="text-muted">Analysis failed. Please try again.</p>';
+                    });
+            });
+        });
+    </script>
+</body>
+</html>

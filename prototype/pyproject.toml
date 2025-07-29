@@ -1,0 +1,31 @@
+[project]
+name = "maryland-audit-prototype"
+version = "0.1.0"
+description = "Prototype web app for analyzing Maryland audit reports with AI"
+dependencies = [
+    "flask>=3.0.0",
+    "python-dotenv>=1.0.0",
+    "llm>=0.13.1",
+    "llm-groq>=0.1.0",
+    "llm-gemini>=0.1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "black",
+    "flake8",
+    "pytest",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+only-include = [
+    "app.py",
+    "utils.py", 
+    "llm_analyzer.py",
+    "templates/",
+    "static/",
+]

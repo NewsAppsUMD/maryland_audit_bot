@@ -1,0 +1,739 @@
+Title: Uninsured Employers' Fund
+Date: 09/28/2011
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d1ccc9d72456067471c
+Extracted: 2025-06-18T05:55:00.694604
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Uninsured Employers’ Fund
+June 2025
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative
+Audits has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Benjamin T. Brooks, Sr. Delegate Andrea Fletcher Harrison
+Senator Paul D. Corderman Delegate Steven C. Johnson
+Senator Katie Fry Hester Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David H. Moon
+Senator Clarence K. Lam, M.D. Delegate Julie Palakovich Carr
+Senator Cory V. McCray Delegate Emily K. Shetty
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+June 6, 2025
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Uninsured Employers’ Fund
+(UEF) for the period beginning December 1, 2020 and ending October 31, 2024.
+UEF is an independent State agency that is responsible for paying workers’
+compensation awards (including medical payments) to claimants who failed to
+receive payments from their employers that did not have workers’ compensation
+insurance as required by State law. UEF is also responsible for collecting
+assessments from certain employers and insurance companies to fund these
+awards as well as reimbursements from uninsured employers. Since September
+2017, UEF has contracted with a Third Party Administrator (TPA) that is
+responsible for investigating, processing, and managing UEF claims.
+Our audit disclosed that UEF did not adequately monitor and pursue collection of
+amounts due from insurance companies and employers. Specifically, UEF’s
+automated accounts receivable system did not produce accurate accounts
+receivable aging reports and UEF could not document it had attempted to identify
+and refer delinquent employers for license suspension, as permitted by State law.
+These conditions were noted but not corrected from our three preceding audit
+reports dating back to November 2014. UEF also did not always refer delinquent
+accounts to the Department of Budget and Management’s Central Collection Unit
+(CCU), a condition noted but not corrected from our five preceding audit reports
+dating back to May 2009. As of March 2025 we identified 389 delinquent
+accounts totaling approximately $2.0 million that had not been referred to CCU as
+required.
+
+--- Page 4 ---
+Our audit also disclosed that UEF did not ensure that payments to its TPA were
+adequate supported and consistent with the contract terms, a condition noted but
+not corrected from our two preceding audit reports dating back to January 2018.
+Specifically, UEF did not obtain adequate documentation to support hours worked
+by TPA employees complied with contract terms and the related amounts billed.
+According to UEF records, payments to the TPA between December 2020 and
+October 2024 totaled approximately $7.1 million.
+Finally, our audit disclosed a cybersecurity-related finding. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted the finding from this audit report.
+Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted finding falls under
+the referenced definition. The specifics of the cybersecurity finding were
+previously communicated to those parties responsible for acting on our
+recommendations.
+UEF’s response to this audit is included as an appendix to this report. Consistent
+with State law, we have redacted the elements of UEF’s response related to the
+cybersecurity audit finding. We reviewed the response to our findings and related
+recommendations, and have concluded that the corrective actions identified are
+sufficient to address all issues.
+We wish to acknowledge the cooperation extended to us during the audit by UEF.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities and Financial Activity 4
+Increase in Unfunded Liability and Potential Fund Insolvency 5
+Status of Findings From Preceding Audit Report 6
+Findings and Recommendations 7
+Accounts Receivable
+* Finding 1 – The Uninsured Employers’ Fund (UEF) did not adequately 7
+monitor and pursue collection of all delinquent accounts and did not
+refer delinquent accounts to the State’s Central Collection Unit (CCU)
+as required.
+Third-Party Administrator (TPA) Payments
+* Finding 2 – UEF did not obtain and review sufficient documentation to 9
+support the administrative fees paid to the TPA for administrative
+services.
+Information Systems Security and Control
+Finding 3 – Redacted cybersecurity-related finding. 10
+Audit Scope, Objectives, and Methodology 11
+Agency Response Appendix
+* Denotes items repeated in full or part from preceding audit report.
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities and Financial Activity
+The Uninsured Employers’ Fund (UEF) is responsible for paying workers’
+compensation awards (including medical payments) to claimants who failed to
+receive payments from their employers that did not have workers’ compensation
+insurance as required by State law. According to State records, during fiscal year
+2024, UEF’s expenditures totaled approximately $4.3 million (see Figure 1).
+UEF’s primary source of revenue is an assessment collected from employers and
+insurance companies on awards and settlement agreements involving permanent
+disability or death approved by the Workers’ Compensation Commission (WCC).
+Figure 1
+UEF Positions, Expenditures, and Funding
+Sources
+Full Time Equivalent Positions as of June 30, 2024
+Positions
+Filled 13
+Vacant 0
+Total 13
+Fiscal Year 2024 Expenditures
+Expenditures
+Salaries, Wages and Fringe Benefits $1,873,302
+Technical and Special Fees 1,763,921
+Operating Expenses 653,497
+Total $4,290,720
+Fiscal Year 2024 Funding Source
+Funding
+Special Fund $4,248,202
+Non-Budgeted Fund 42,518
+Total $4,290,720
+Source: State financial and personnel records
+4
+
+--- Page 7 ---
+As noted in Figure 2, UEF’s fund balance as of June 30, 2024, totaled
+approximately $5.3 million. During fiscal year 2024, revenues (primarily
+assessments) totaled approximately $9.3 million, claim payments (indemnity and
+medical payments) totaled approximately $6.8 million. Between fiscal years 2021
+and 2024, assessment revenue declined while claim payments increased.
+Figure 2
+Summary of UEF Financial Data for Fiscal Years
+2021 - 2024
+($ in millions)
+$15.0
+Claim Payments Operating Expenses Assessment Revenue Fund Balance
+$10.0
+$8.5 $8.6
+$7.1 $5.0
+$5.3
+$0.0
+2021 2022 2023 2024
+Source: State records
+Unfunded Liability and Potential Fund Insolvency
+UEF’s most recent actuarial study performed in December 2020 indicated that, as
+of June 30, 2020, UEF had an unfunded liability for its claims of approximately
+$115.8 million, representing an increase of $99.8 million since UEF’s prior
+actuarial study performed in January 2015. The 2020 study primarily attributed
+this significant increase to UEF having more complete and reliable claims data
+than was available at the time of the prior estimate.
+The unfunded liability results from claim obligations being funded on a pay-as-
+you-go basis. Accordingly, obligations that become due in future periods will
+have to be paid from future assessments collected from employers and insurance
+companies. In this regard, the December 2020 study indicated that the Fund will
+be insolvent by fiscal year 2030 unless a temporary increase to UEF’s assessment
+rate is maintained in future years.1
+UEF and the Workers Compensation Commission (WCC) formed a workgroup to
+study and report on potential changes to UEF’s funding structure, operations, or
+1 Chapter 495, Laws of Maryland, 2020, provided for a temporary increase (from 2 percent to 3
+percent) for fiscal year 2021.
+5
+
+--- Page 8 ---
+other factors to address the potential insolvency. UEF recommended that the
+legislature increase the assessment collected from employers and insurance
+companies and the legislature approved an increase in the rate to 2.5 percent
+effective July 1, 2025.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the three findings contained
+in our preceding audit report dated September 14, 2021. See Figure 3 for the
+results of our review.
+Figure 3
+Status of Preceding Findings
+Preceding
+Finding Description Implementation Status
+Finding
+UEF did not ensure that payments to its TPA
+were adequately supported and consistent with
+the contract terms. As a result, we identified Repeated
+Finding 1
+payments totaling $521,083 for which the rate (Current Finding 2)
+paid by UEF was not included in the contract
+or exceeded the rates specified in the contract.
+UEF did not adequately review recurring
+indemnity payments processed by the TPA to Not repeated
+Finding 2
+ensure claimants were still eligible for
+payment.
+UEF did not adequately monitor and pursue
+collection of all delinquent accounts. As of
+November 30, 2020, there were 1,920 Repeated
+Finding 3
+delinquent accounts totaling $14.5 million that, (Current Finding 1)
+based on their age, should have been referred to
+the State’s Central Collection Unit.
+6
+
+--- Page 9 ---
+Findings and Recommendations
+Accounts Receivable
+Finding 1
+Uninsured Employers’ Fund (UEF) did not adequately monitor and pursue
+collection of all delinquent accounts and did not refer delinquent accounts to
+the State’s Central Collection Unit (CCU), as required.
+Analysis
+UEF did not adequately monitor and pursue collection of all delinquent accounts
+and did not refer delinquent accounts to CCU, as required. UEF maintains
+accounts receivable records for amounts due from insurance companies and
+employers. These amounts include assessments on certain Workers’
+Compensation Commission (WCC) awards, fines and penalties assessed by WCC,
+and reimbursements due from uninsured employers for claimant awards and
+medical payments made on their behalf. As of March 2025, UEF’s records
+reflected an accounts receivable balance totaling approximately $117.4 million,
+with $115.6 million currently outstanding for more than 90 days.
+Dunning Notices Were Not Issued at Proper Intervals
+UEF did not always send the required number of dunning notices at required
+intervals. Our test of 15 delinquent invoices2 over 180 days past due totaling
+approximately $8,000, disclosed that for 14 invoices totaling $7,800, UEF did not
+send the required dunning notices. For example, UEF did not send any dunning
+notices for 7 of the invoices and only sent one notice for 3 invoices. CCU
+regulations, as amended for UEF, require that three written demands, at 30-day
+intervals, will normally be made before an account is declared delinquent.
+A similar condition was noted during our five preceding audit reports dating back
+to May 2009. In response to our prior report, UEF stated they would work to
+improve the process and would comply with the recommendation by March 2022.
+UEF was unable to provide explanations for why certain accounts are still not
+pursued for collection.
+Delinquent Accounts Were Not Referred to CCU as Required
+UEF did not refer all delinquent accounts to CCU as required. According to
+UEF’s records as of March 2025, there were 389 delinquent accounts totaling
+approximately $2 million that were more than 180 days old and should have been
+2 Test items were selected from UEF reports based on the age of the accounts (over 180 days),
+timing of assessments (within the audit period), and likelihood to hold a business license.
+7
+
+--- Page 10 ---
+referred to CCU. This included 20 delinquent accounts that collectively totaled
+approximately $1.5 million, which had been delinquent for periods ranging from
+243 days to 16 years. Delays in the pursuit of outstanding debt may decrease the
+likelihood of collecting the funds owed.
+A similar condition was noted in our five preceding audit reports dating back to
+2009. In response to our prior audit, UEF advised that it has attempted over
+multiple years to identify and send all identifiable debts to the CCU. UEF
+management advised us that it hired an employee to specifically address getting
+delinquent accounts referred to CCU. While the number of delinquent accounts
+not referred to CCU has significantly decreased since the prior audit, additional
+efforts are needed to address the remaining delinquent accounts.
+Account Aging Reports Were Not Accurate and Reliable
+The accounts aging reports produced by UEF’s automated accounts receivable
+system were not accurate and reliable for use in monitoring its accounts
+receivable balances. Specifically, as of March 2025, the total amount of
+delinquent accounts referred to CCU according to UEF’s aging report ($108.9
+million) did not agree to a detailed report of delinquent accounts that were
+referred ($27.9 million); a difference of $81 million.
+A similar condition was noted in our three preceding audits dating back to 2014.
+In response to our prior report, UEF advised that it would resolve the issues with
+the aging report by March 2022. However, as noted above, UEF did not correct
+the aging reports as indicated in its prior response.
+Delinquent Employers Were Not Always Referred for License Suspension
+UEF could not document that it attempted to identify and pursue license
+suspensions for delinquent employers. In this regard, our test of 5 licensed
+employers with accounts totaling $77,336 that had been delinquent for between
+181 days to more than 3 years, disclosed that UEF could not document that it
+attempted to identify whether any held a business or professional license or permit
+for any of the employers. State law permits UEF to request State and local
+licensing authorities to suspend the applicable license or permit of employers who
+fail to pay an assessment or penalty, or who failed to reimburse UEF for the
+payment of an award.
+A similar condition was noted in our three preceding audit reports dating back to
+November 2014. In response to our preceding audit report, UEF advised that it
+had established a process to identify and refer delinquent accounts to applicable
+State and local licensing authorities for license or permit suspension. Although
+UEF created new written procedures for investigating and referring delinquent
+8
+
+--- Page 11 ---
+accounts, UEF could not document that it had implemented the process and as of
+January 2025 could only document that it referred 13 delinquent accounts for
+license suspension between January 2020 and October 2024.
+Recommendation 1
+We recommend that UEF
+a. generate dunning notices and produce accurate accounts receivable aging
+reports to monitor and pursue collection activities (repeat),
+b. refer all delinquent accounts to CCU for collection in accordance with
+CCU regulations (repeat), and
+c. document attempts to identify and refer delinquent employers to
+applicable State and local licensing authorities for license or permit
+suspension (repeat).
+Third-Party Administrator Payments
+Finding 2
+UEF did not obtain and review sufficient documentation to support the
+monthly fees paid to the third-party administrator (TPA) for administrative
+services.
+Analysis
+UEF did not obtain and review sufficient documentation to support the monthly
+fees paid to the TPA for administrative services. UEF paid the TPA a fixed
+monthly fee for each year of the contract (a total of approximately $7.1 million
+during the period from December 1, 2020 to October 31, 2024) for administrative
+services. In accordance with the TPA contract, the administrative services were
+to include nine full-time dedicated vendor employees to process UEF claims.
+Our review disclosed that the invoices submitted by the TPA did not identify the
+vendor employees or related hours worked by employees, as required by the
+contract. As a result, UEF was precluded from determining the reasonableness of
+billed services. In this regard, we reviewed ten monthly statistical reports
+(January through October 2024) routinely provided by the TPA to UEF, which
+were not used by UEF in the invoice approval process. Based on our review of
+these reports and comparison to the related monthly invoices, we determined that
+for five of the ten months, the TPA only reported claims activity processed by
+seven to eight employees.
+UEF management advised us that it was aware that the TPA was not providing all
+the required staffing during this period but had not pursued the matter with the
+9
+
+--- Page 12 ---
+TPA and did not attempt to recover any administrative fees. Due to the lack of
+TPA personnel payroll data, we were unable to quantify the monetary impact for
+the missing positions.
+A similar condition was noted in our two preceding audit reports dating back to
+January 2018. In response to our preceding audit report, UEF developed written
+procedures for monitoring TPA billings and operations which included a
+requirement for weekly reports of hours to be sent to the contract monitor by the
+TPA. Despite this requirement, the UEF employee responsible for TPA invoice
+review and approval, did not review the reports from the TPA; only the invoices.
+Recommendation 2
+We recommend that UEF ensure that invoiced amounts are supported and
+agree to contract approved rates and level of services prior to approving
+invoices for payment (repeat).
+Information Systems Security and Control
+We determined that the Information Systems Security and Control section,
+including Finding 3 related to “cybersecurity,” as defined by the State Finance
+and Procurement Article, Section 3.5-301(b) of the Annotated Code of Maryland,
+and therefore is subject to redaction from the publicly available audit report in
+accordance with the State Government Article 2-1224(i). Consequently, the
+specifics of the following finding, including the analysis, related
+recommendations, along with UEF’s response, have been redacted from this
+report copy.
+Finding 3
+Redacted cybersecurity-related finding.
+10
+
+--- Page 13 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Uninsured Employers’ Fund
+(UEF) for the period beginning December 1, 2020 and ending October 31, 2024.
+The audit was conducted in accordance with generally accepted government
+auditing standards. Those standards require that we plan and perform the audit to
+obtain sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. We believe that the
+evidence obtained provides a reasonable basis for our findings and conclusions
+based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine UEF’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included UEF’s monitoring of the Third-Party
+Administrator contract deliverables (including claims processing, assessment
+collections and billings), accounts receivable, cash receipts, and information
+systems security and control. We also determined the status of the findings
+contained in our preceding audit report.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of December 1, 2020 to October 31, 2024, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of UEF’ operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical sampling was used to select the transactions
+tested. Therefore, unless sampling is specifically indicated in a finding, the
+results from any tests conducted or disclosed by us cannot be used to project those
+results to the entire population from which the test items were selected.
+11
+
+--- Page 14 ---
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from this source
+were sufficiently reliable for the purposes the data were used during this audit.
+We also extracted data from UEF’s automated accounts receivable system for the
+purpose of testing assessment accounts receivables. We performed various tests
+of the relevant data and determined that the data were sufficiently reliable for the
+purposes the data were used during this audit. Finally, we performed other
+auditing procedures that we considered necessary to achieve our audit objectives.
+The reliability of data used in this report for background or informational
+purposes was not assessed.
+UEF’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to UEF, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect UEF’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes a finding regarding a significant instance of
+12
+
+--- Page 15 ---
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to UEF that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that a finding in this report falls under
+that definition. Consequently, for the publicly available audit report all specifics
+as to the nature of the cybersecurity finding and required corrective actions have
+been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of this cybersecurity finding have been
+communicated to UEF and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+UEF’s response to our findings and recommendations is included as an appendix
+to this report. Depending on the version of the audit report, responses to any
+cybersecurity findings may be redacted in accordance with State law. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise UEF regarding the results of our review of its
+response.
+13
+
+--- Page 16 ---
+APPENDIX
+
+--- Page 18 ---
+Uninsured Employers’ Fund
+Agency Response Form
+Accounts Receivable
+Finding 1 (Policy Issue)
+Uninsured Employers’ Fund (UEF) did not adequately monitor and pursue
+collection of all delinquent accounts and did not refer delinquent accounts to
+the State’s Central Collection Unit (CCU), as required.
+We recommend that UEF
+a. generate dunning notices and produce accurate accounts receivable aging
+reports to monitor and pursue collection activities (repeat),
+b. refer all delinquent accounts to CCU for collection in accordance with
+CCU regulations (repeat), and
+c. document attempts to identify and refer delinquent employers to
+applicable State and local licensing authorities for license or permit
+suspension (repeat).
+Agency Response
+Analysis
+Please provide The Agency agrees with this finding and is working to comply with
+additional comments as all recommendations.
+deemed necessary.
+In the 2021 OLA Agency Audit, the UEF was found to have had a
+large number of debts, spanning several decades, that had not been
+referred to the CCU for collections. In response, the UEF hired a
+temporary employee to identify all outstanding debts and to refer
+them to CCU. The UEF examined each entry and was successful in
+greatly reducing the amount of unreferred debts. The UEF will
+continue its work to do so until all outstanding debts have been
+reviewed and referred.
+The UEF also understands the value that its power to suspend
+business licenses can have on its collection efforts. In fact, this has
+been a focus of the agency since its prior audit.
+In 2021, in response to the Audit, the UEF installed a written
+license suspension revocation process, which requires an agency
+employee to begin the process of suspending business licenses in
+every case where the UEF is triggered and not reimbursed.
+By way of background, Maryland does not issue general business
+licenses but, instead, issues specific licenses that may be required
+depending on the trade of the business (e.g. Contractor license,
+Page 1 of 6
+
+--- Page 19 ---
+Uninsured Employers’ Fund
+Agency Response Form
+Liquor license, Tree Expert license, etc.). Therefore, not all
+businesses are required to have licenses and many more businesses
+we interact with operate unlawfully, without required licenses.
+Even in situations where employers do have a valid license, the UEF
+may not legally suspend that license unless the employer fails to pay
+an assessment or reimburse the UEF after a valid award. Businesses
+that have valid licenses are often willing to enter into payment
+arrangements with the UEF to prevent the UEF from suspending
+their licenses. For these reasons, the total number of cases leading
+to actual suspension requests may appear relatively low.
+The UEF emphasizes that it has been largely effective at requesting
+the suspension of applicable licenses in cases where:
+a) there is an affirmed Order to pay after a hearing;
+b) the employer has a valid license; and,
+c) the employer has not entered into a payment plan with the UEF.
+The UEF is now aware and acknowledges, thanks to the work of the
+auditors, that it needs to improve the process for documenting its
+license searches and subsequent correspondences with employers
+and licensing agencies to ensure that its effectiveness is record,
+quantified and monitored by management. The audit finding is
+legitimate and the agency is grateful to the auditors for their work in
+uncovering this issue so that the agency can rectify any
+shortcomings with the process and improve it.
+Recommendation 1a Agree Estimated Completion Date: 10/31/2025
+Please provide details of Plan/Timetable
+corrective action or
+explain disagreement. Dunning Notices –
+The UEF agrees that, in certain cases, Dunning notices were not
+being sent in accordance with the required timelines. The UEF
+management has reiterated to staff the importance of these notices
+being sent timely. The UEF will continue to improve the processes
+for debt collection and attempt to identify technology-based
+efficiencies in the process that will ensure that notices be sent
+according to the required timelines and that aging reports are
+accurate.
+Staff is and will continue to be reviewing dunning notices as
+produced to investigate and determine where issues are arising to
+cause production failure (process requires staff review which
+Page 2 of 6
+
+--- Page 20 ---
+Uninsured Employers’ Fund
+Agency Response Form
+involves significant review of individual entries) - to be completed by
+7/31/2025
+- based on findings of review corrective actions will be taken
+by 8/31/2025 to ensure proper notices are sent out
+- further review of corrected process will then be tested for
+accuracy to be completed by 10/31/2025
+Accurate aging reports –
+Staff review and correction are in progress. Relevant staff has been
+consulted and have been instructed to determine why this is
+occurring and to correct it.
+- evaluation of issues causing errors will continue and be
+completed by 8/15/2025
+- evaluation of systems involved and investigation into ability
+to adjust existing systems by staff to be concluded by
+9/30/2025
+- system adjustments will be implemented by 10/31/2025
+- staff review of dunning notices to ensure improvements and
+accuracy have been achieved - completed by 11/30/2025
+Recommendation 1b Agree Estimated Completion Date: 8/1/2025
+Please provide details of The UEF has been provided the list of the 389 accounts
+corrective action or identified by the OLA. Many of these debts are very old and each
+explain disagreement. debt must be individually investigated and referred to CCU when
+appropriate. The UEF has already begun these investigations and
+will ensure that all appropriate old debts are referred to the CCU.
+As of October 2024, the UEF has already instituted written
+procedures for ensuring that all new debts will be timely referred to
+the CCU going forward.
+Plan/Timetable
+In progress – UEF is self-funded but has hired a temporary
+staff person to do this work and comply with this
+recommendation -current and ongoing
+Page 3 of 6
+
+--- Page 21 ---
+Uninsured Employers’ Fund
+Agency Response Form
+A review of the 389 Accounts identified by the OLA has begun and
+is currently ongoing but requires individual investigation of each
+account – current and ongoing
+as appropriate debts are identified those debts are referred to CCU;
+estimated completion date 8/1/2025 for 389 Accounts to be reviewed
+and sent to the CCU as required
+as new debt has been and continues to be received it has been and
+will continue to be forwarded to the CCU - ongoing
+investigation and review older debt for appropriateness of
+forwarding to CCU will continue and be ongoing – ongoing
+Recommendation 1c Agree Estimated Completion Date: 8/31/2025
+Please provide details of Plan/Timetable
+corrective action or
+explain disagreement. Review and Correction in Progress –
+The UEF’s written procedures for license suspension procedures
+require that all actions taken on license suspensions be documented
+in its internal legal software. The OLA audit revealed this was not
+being done regularly. The UEF has already stressed the importance
+to collections employees of electronically documenting such actions.
+Going forward a specific license suspension folder will be created on
+the internal software for each account in collections and all license
+search results and related communications will be notated in that
+folder. UEF management will also begin requiring monthly status
+reports of license suspension activities and will perform periodic
+checks of the internal software program to ensure proper
+documentation.
+The UEF has had a formal program with a written protocol in place
+to identify and refer applicable employers for license suspensions
+ongoing and continues that program regularly. This will continue.
+As a result of the OLA Audit, it has been discovered that although
+employers are regularly reviewed for license suspension the process
+of required documentation has not been occurring.
+Review and monitoring improvements are required to ensure that
+the actual results are being recorded properly and the UEF is
+currently reviewing that part of the process and identifying
+immediate improvements that are required and acting to correct
+any lapses in data entry or management on an ongoing basis.
+Page 4 of 6
+
+--- Page 22 ---
+Uninsured Employers’ Fund
+Agency Response Form
+The UEF is currently reviewing the program to improve
+documentation and ensure records reflect the actual case by case
+actions taken in all appropriate cases and to ensure all applicable
+eligible employers are referred for license suspensions– expected
+completion date 8/31/2025
+Third-Party Administrator Payments
+Finding 2
+UEF did not obtain and review sufficient documentation to support the
+monthly fees paid to the third-party administrator (TPA) for administrative
+services.
+We recommend that UEF ensure that invoiced amounts are supported and
+agree to contract approved rates and level of services prior to approving
+invoices for payment (repeat).
+Agency Response
+Analysis
+Please provide The Agency agrees with this Finding and will continue the process of
+additional comments as complying with the Recommendation.
+deemed necessary.
+Recommendation 2 Agree Estimated Completion Date: 8/31/2025
+Please provide details of The UEF understands and appreciates the importance of effectively
+corrective action or monitoring its TPA. Although, the TPA employees work onsite and
+explain disagreement. the agency is, therefore, aware if the contract’s personnel
+requirements are being met, the agency agrees that the TPA’s
+invoices did not meet the requirements of its contract. The UEF has
+already forwarded the TPA a copy of the “invoicing” section of the
+TPA contract demanding that invoices comply with the contractual
+terms going forward, including listing all claims personnel, their
+wages, and their hours worked. Moreover, UEF employees have
+been directed not to pay any invoices that do not meet these
+requirements going forward.
+Plan/Timetable
+Page 5 of 6
+
+--- Page 23 ---
+Uninsured Employers’ Fund
+Agency Response Form
+The vendor has been notified of the requirements expected from it to
+provide documentation which satisfies this Finding.
+The UEF has also initiated and is continuing to expand and refine a
+program to ensure the required information relevant to this finding
+is obtained by the agency for review and approval
+Constant reviews of documents will occur and revisions as
+appropriate will also be implemented to obtain the data required by
+the Finding.
+Final implementation of the program is expected 8/31/2025.
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that the Information
+Systems Security and Control section, including Finding 3 related to
+“cybersecurity,” as defined by the State Finance and Procurement Article, Section
+3.5-301(b) of the Annotated Code of Maryland, and therefore is subject to
+redaction from the publicly available audit report in accordance with State
+Government Article 2-1224(i). Although the specifics of the finding, including
+the analysis, related recommendations, along with UEF’s responses, have been
+redacted from this report copy, UEF’s responses indicated agreement with the
+finding and related recommendations.
+Finding 3
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 6 of 6
+
+--- Page 24 ---
+AUDIT TEAM
+Michael J. Murdzak, CPA
+Audit Manager
+Edwin L. Paul, CPA, CISA
+Information Systems Audit Manager
+John B. Wachter, CFE
+Senior Auditor
+Vickey K. Micah
+Information Systems Senior Auditor
+Summer L. Carbaugh
+Kareem R. Jackson
+Staff Auditors
+Joshua A. Nicodemus, CISA
+Information Systems Staff Auditor

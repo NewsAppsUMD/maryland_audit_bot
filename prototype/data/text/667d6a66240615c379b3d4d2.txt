@@ -1,0 +1,574 @@
+Title: Office of the State Prosecutor
+Date: 06/25/2024
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=667d6a66240615c379b3d4d2
+Extracted: 2025-06-20T09:07:38.421596
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Office of the State Prosecutor
+June 2024
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i) of the Annotated Code of Maryland, the Office of Legislative Audits
+has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Clarence K. Lam, M.D. (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Joanne C. Benson Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Steven C. Johnson
+Senator Shelly L. Hettleman Delegate Mary A. Lehman
+Senator Cheryl C. Kagan Delegate David Moon
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Stephanie M. Smith
+Senator Bryan W. Simonaire Delegate M. Courtney Watson
+Senator Craig J. Zucker One Vacancy
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.state.md.us
+Website: www.ola.state.md.us
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+June 25, 2024
+Senator Clarence K. Lam, M.D., Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Office of the State Prosecutor
+(OSP) for the period beginning May 16, 2019 and ending June 30, 2023. OSP is
+an independent agency within the Executive Branch responsible for investigating
+and, where warranted, prosecuting criminal offenses under the State election laws,
+Public Ethics Law, and bribery laws, and certain multi-jurisdictional crimes and
+criminal offenses committed by a State or local official.
+Our audit disclosed that OSP did not comply with certain State Procurement
+regulations for a major system procurement. Specifically, OSP purchased a third-
+party case management system and related system maintenance services without a
+competitive procurement process, written contract, or publication of the
+solicitation and award on eMaryland Marketplace Advantage, and without control
+agency approval. Payments to this vendor totaled approximately $131,000
+between June 2020 and July 2023.
+Furthermore, our audit disclosed cybersecurity-related findings. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted the findings from this audit
+report. Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(b), and using our
+professional judgment we have determined that the redacted findings fall under
+the referenced definition. The specifics of the cybersecurity findings were
+previously communicated to those parties responsible for acting on our
+recommendations.
+
+--- Page 4 ---
+OSP’s response to this audit is included as an appendix to this report. We
+reviewed OSP’s response and noted general agreement to our findings and related
+recommendations, and while there are other aspects of the response which will
+require further clarification, we do not anticipate that these will require the Joint
+Audit and Evaluation Committee’s attention to resolve. Additionally, in
+accordance with our policy, we have edited OSP’s response to remove references
+to certain state agencies. Finally, consistent with State law, we have redacted the
+elements of OSP’s response related to the cybersecurity audit findings.
+We wish to acknowledge the cooperation extended to us during the course of this
+audit by OSP and its willingness to address the audit issues and implement
+appropriate corrective actions.
+Respectfully submitted,
+Gregory A. Hook, CPA
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Findings and Recommendations 5
+Information Systems Security
+Finding 1 – Redacted cybersecurity-related finding 5
+Procurement
+Finding 2 – OSP did not comply with certain aspects of State procurement 5
+regulations when it purchased a third-party case management system
+and related maintenance services.
+Information Systems Security
+Finding 3 – Redacted cybersecurity-related finding 6
+Audit Scope, Objectives, and Methodology 7
+Agency Response Appendix
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+The Office of the State Prosecutor (OSP) is an independent agency within the
+Executive Branch. OSP investigates and, where warranted, prosecutes criminal
+offenses under the State election laws and Public Ethics Law, the bribery laws,
+and offenses constituting criminal malfeasance, misfeasance, or nonfeasance in
+office (when committed by a State or local official), as well as multi-jurisdictional
+crimes. OSP conducts these investigations on its own initiative or at the request
+of the Governor, the Attorney General, the General Assembly, the State Ethics
+Commission, or a State’s Attorney.
+According to the State’s records, during fiscal year 2023, OSP’s expenditures
+totaled approximately $2.3 million, of which approximately $1.9 million was for
+salaries, wages, and fringe benefits as noted in Figure 1.
+Figure 1
+OSP Positions, Expenditures and Funding Source
+Full-Time Equivalent Positions as of June 30, 2023
+Positions Percent
+Filled 13 100.0%
+Vacant 0 0.0%
+Total 13
+Fiscal Year 2023 Expenditures
+Expenditures Percent
+Salaries, Wages, and Fringe Benefits $1,777,613 76.5%
+Technical and Special Fees 136,555 5.9%
+Operating Expenses 409,293 17.6%
+Total $2,323,461
+Fiscal Year 2023 Funding Source
+Funding Percent
+General Funds $2,323,461 100.0%
+Total $2,323,461
+So urce: State financial and personnel records
+4
+
+--- Page 7 ---
+Findings and Recommendations
+Information Systems Security
+We determined that Finding 1 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with OSP’s response, have been redacted from this
+report copy.
+Finding 1
+Redacted cybersecurity-related finding.
+Procurement
+Finding 2
+OSP did not comply with certain aspects of State procurement regulations
+when it purchased a third-party case management system and related
+maintenance services.
+Analysis
+OSP did not comply with certain aspects of State procurement regulations when it
+purchased a third-party electronic case management system and related
+maintenance services as a sole source procurement. During the period from June
+2020 to July 2023 OSP paid the vendor $131,000 for a case management system
+and related maintenance services.
+OSP obtained the services of a vendor to provide a case management system
+without a competitive procurement process and without preparing the required
+written sole source procurement justification prior to the procurement. OSP
+management advised that it selected the vendor based on interviews conducted
+with other State and local entities and its determination that using other vendors
+would not be cost effective. However, OSP could not provide documentation to
+support that other vendors were not cost effective, and an informal agency
+determination of cost-effectiveness does not justify the use of a sole source
+procurement. Further, OSP management provided correspondence from the
+Department of Information Technology (DoIT) management which indicated that
+a competitive procurement may be needed. Finally, we noted that OSP did not
+5
+
+--- Page 8 ---
+have a signed contract with the vendor, did not publish the solicitation and award
+on eMaryland Marketplace Advantage (eMMA), and did not obtain control
+agency approval, as required by State procurement regulations.
+State procurement regulations stipulate that the sole source procurement method
+can only be used when no other source for the item is acceptable or suitable, and
+its use must be supported with a written justification approved by the agency
+head. Furthermore, procurement regulations require formal written contracts with
+certain critical provisions and sole source contract awards are required to be
+published on eMMA within 30 days. Regulations further provide that sole sourced
+contracts valued at $100,000 or greater require approval by the Department of
+General Services – Office of State Procurement and the Board of Public Works.
+Recommendation 2
+We recommend that OSP comply with State procurement regulations by
+adequately documenting the justification for this sole source award, execute
+a written contract, publish the contract award on eMMA, and retroactively
+obtain control agency approval, as applicable.
+Information Systems Security
+We determined that Finding 3 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendation(s), along with OSP’s response, have been redacted from this
+report copy.
+Finding 3
+Redacted cybersecurity-related finding.
+6
+
+--- Page 9 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Office of the State Prosecutor
+(OSP) for the period beginning May 16, 2019 and ending June 30, 2023. The
+audit was conducted in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine OSP’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included procurements and disbursements, and payroll.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of May 16, 2019 to June 30, 2023, but may include transactions before or
+after this period as we considered necessary to achieve our audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of the OSP’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in the
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as expenditure data) and the
+State’s Central Payroll Bureau (payroll data), as well as from the contractor
+7
+
+--- Page 10 ---
+administering the State’s Corporate Purchasing Card Program (credit card
+activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during the
+audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+OSP’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to OSP, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect the OSP’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to OSP that did not warrant inclusion in this report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+8
+
+--- Page 11 ---
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(b), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that certain findings in this report fall
+under that definition. Consequently, for the publicly available audit report all
+specifics as to the nature of cybersecurity findings and required corrective actions
+have been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of these cybersecurity findings have been
+communicated to OSP and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+OSP’s response to our findings and recommendations is included as an appendix
+to this report. Depending on the version of the audit report, responses to any
+cybersecurity findings may be redacted in accordance with State law. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise OSP regarding the results of our review of its
+response.
+9
+
+--- Page 12 ---
+APPENDIX
+STATE OF MARYLAND
+CHARLTON T. HOWARD Ill
+State Prosecutor Hampton Plaza
+Suite 410
+SARAH R. DAVID
+300 East Joppa Road
+Deputy State Prosecutor
+Towson, MD 21286-3152
+LETAM DUSON Telephone (4 10) 3 21-4067
+ABIGAIL E. TICSE
+1 (800) 695-4058
+MARY W. SETZER
+Fax (410) 321-3851
+Senior Assistant State Prosecutors OFFICE OF
+THE STATE PROSECUTOR
+June 3, 2024
+Gregory J. Hook, CPA
+Legislative Auditor
+Office of Legislative Audits
+Maryland General Assembly
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21202
+Dear Mr. Hook:
+Enclosed is our response to the Office of Legislative Audits draft audit report on the
+Office of the State Prosecutor for the period beginning May 16, 2019, and ending June 30, 2023.
+We very much appreciate the time and effort of your team in conducting the audit. As reflected
+in our response, and as stated in prior discussions with your team, we concur with two of the
+reports' findings, and disagree with certain aspects of the other finding. Details are provided in
+our response. We are available to discuss this matter further if desired, as we respect the role of
+your office and would like to reach a consensus on these issues.
+Please do not hesitate to contact our office with any questions about our response or the
+audit in general.
+Sincerely,
+
+--- Page 13 ---
+Office of the State Prosecutor
+Agency Response Form
+Information Systems Security
+The Office of Legislative Audits (OLA) has determined that Finding 1 related to
+“cybersecurity,” as defined by the State Finance and Procurement Article, Section
+3.5-301(b) of the Annotated Code of Maryland, and therefore is subject to
+redaction from the publicly available audit report in accordance with State
+Government Article 2-1224(i). Although the specifics of the finding, including
+the analysis, related recommendation(s), along with OSP’s responses, have been
+redacted from this report copy, OSP’s responses indicated agreement with the
+finding and related recommendations.
+Finding 1
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 1 of 7
+
+--- Page 14 ---
+Office of the State Prosecutor
+Agency Response Form
+Procurement
+Finding 2
+OSP did not comply with certain aspects of State procurement regulations
+when it purchased a third-party case management system and related
+maintenance services.
+We recommend that OSP comply with State procurement regulations by
+adequately documenting the justification for this sole source award, execute
+a written contract, publish the contract award on eMMA, and retroactively
+obtain control agency approval, as applicable.
+Agency Response
+Analysis
+Please provide Although a small agency without a dedicated procurement
+additional comments as team, OSP consulted extensively with other state agencies, in
+deemed necessary.
+particular the Department of Information Technology (DoIT)
+and one other state agency, as well our legal counsel and the
+Maryland Procurement Manual and other relevant regulations,
+prior to proceeding with a sole source small procurement of
+the chosen electronic case management system, and to the best
+of our ability duplicated the previous process followed by
+another state agency in acquiring the same system. OSP fully
+documented in the paperwork accompanying the application
+for grant funds utilized in this project, and in multiple emails
+and other written documents, the rationale underlying the
+procurement, and subsequently conducted an extensive review
+to identify a case management system which would best meet
+OSP’s unique requirements. We believed that absent
+contravening regulations, and given the guidance provided by
+the Maryland Procurement Manual, as well as other state
+agencies, the procurement cost (under $50,000) and unique
+qualifications of the chosen system, as well as other relevant
+circumstances, justified the use of a Sole Source Small
+Procurement, within the authority of OSP to execute, for a
+year’s software license.
+Page 2 of 7
+
+--- Page 15 ---
+Office of the State Prosecutor
+Agency Response Form
+OSP nonetheless acknowledges the concerns raised by OLA.
+Given the success of the system after the initial year trial, and
+our subsequent year sole source small procurement purchases
+(under $30000 per year), it makes sense to obtain additional
+documentation and seek a longer-term procurement to
+enhance the transparency of the procurement, ensure seamless
+agency operations, and remove any question of regulatory
+compliance. Accordingly, we will adopt their
+recommendations to engage in a new contract process.
+Upon being notified by OLA that a separate, standalone
+memorandum justifying the sole source selection was
+required, the OSP agency head authored a memorandum
+documenting the purchase justification and provided a copy to
+the OLA Audit Team.
+As to why a sole source procurement was necessary, OSP has
+unique agency electronic data management requirements, as it
+is the only agency of its kind in the state, and indeed in the
+US, where all investigation and prosecution functions
+regarding crimes within the agency’s jurisdiction, as well as
+civil litigation regarding those matters, are embodied in one
+stand-alone organization. Thus, a case management
+application had to support investigative factors such as law
+enforcement reporting, the ability to handle evidence review
+and documentation in complex financial matters, search
+warrant support, confidential informant management, criminal
+intelligence collection, and forensic support; litigation factors
+such as discovery, motion practice, appellate and post-
+conviction practice, attorney work product protection filter
+team and restricted data compartmentalization, and on site
+trial support; as well as administrative factors regarding
+agency metrics and mandatory reporting. Accordingly, OSP
+needed a system which supported all those functions. After
+raising the topic, as noted in the OLA Report, our assigned
+DoIT Project Officer subsequently concurred with our
+determination.
+Page 3 of 7
+
+--- Page 16 ---
+Office of the State Prosecutor
+Agency Response Form
+OSP then conducted an extensive review of available systems
+utilized by other state and local agencies, as well as others
+commercially available.
+OSP initially reviewed a number of case management systems
+utilized by other prosecution, investigation and inspector
+general agencies, as well as surveying other available systems
+In addition, the State Prosecutor, a retired federal law
+enforcement senior executive, had extensive experience with
+managing electronic case management systems, including
+service for several years as the head of the national Law
+Enforcement Information Exchange (LINX) network, and was
+very familiar with industry standards and practices. As
+expected, most systems reviewed by OSP were tailored and
+marketed to support either the investigative mission or the
+litigation process, but not both. Based upon OSP’s analysis,
+the system chosen, already utilized, and validated, by several
+local agencies, including the other state agency previously
+referenced, was the sole case management application we
+found which was proven reliable and could be tailored to meet
+all agency investigation, litigation, and administrative
+requirements.
+As to the procurement process, as noted, OSP is a small
+agency, consisting at the time of 13 personnel, none of whom
+were procurement specialists, and so we relied heavily on
+utilizing the technical and procurement expertise of both the
+State Department of Information Technology (DOIT) and
+another state agency, as well as our own assigned Assistant
+Attorney General. OSP also followed the guidance contained
+in the Maryland Procurement Manual. As noted, the other
+state agency, in coordination with DOIT, had previously
+procured and was currently using the identical system OSP
+ultimately selected. OSP followed our partners’ guidance
+and/or duplicated their efforts when acquiring the product. In
+addition, the process was conducted during the COVID
+epidemic, which posed several logistics and coordination
+challenges.
+Page 4 of 7
+
+--- Page 17 ---
+Office of the State Prosecutor
+Agency Response Form
+After determining the chosen system was the only system
+meeting OSP requirements, DOIT conducted a full
+examination and validation of the information security
+provisions required by DOIT for State IT contracts and
+advised that the system satisfied all requirements.
+The vendor provided cost information, which tracked the
+current costs incurred by another state agency and other local
+agencies utilizing the system, and was more cost effective
+than other, less qualified candidates, as well as full licensing
+agreements for the system, which detailed all contractual
+obligations. We undertook a final review of all documents
+with our partners and in consultation with the Maryland
+Procurement Manual and other regulations. As the purchase
+costs of this small procurement were under $50,000, OSP was
+advised that no additional administrative steps were necessary,
+and we undertook the purchase utilizing the same purchase
+order/licensing agreement method as the other state agency
+adopted.
+In a related but separate matter, although the original intent
+was to utilize DOIT for cloud management services for the
+system, DOIT later recommended that the most efficient and
+cost-effective option was to purchase cloud hosting services
+directly from the chosen vendor, which we did. As with the
+original purchase, DOIT also reviewed the cloud management
+services licensing agreement and validated that all information
+security requirements were satisfied. (Note: As additional
+validation, DOIT had previously done a full review of the
+system and approved another state agency’s purchase of
+system services prior to our acquisition.) In our view the
+relatively small amount for the second purchase ($13,000) and
+the unique advantages offered by the vendor also met the
+criteria for a sole source small procurement, and thus did not
+trigger additional administrative requirements.
+Page 5 of 7
+
+--- Page 18 ---
+Office of the State Prosecutor
+Agency Response Form
+After validating the utility and worth of the application,
+subsequent year purchases of both the application license and
+separate cloud services were also under the small procurement
+threshold and were processed accordingly. As per our review
+of the Maryland Procurement Manual, notice in eMMA was
+not required at the time for this type of sole source purchase.
+Recommendation 2 Agree Estimated Completion Date: 2025
+Please provide details of Given OLA concerns, OSP will adopt OLA’s recommendation. We
+corrective action or have already provided written justification for the sole source award and
+explain disagreement. other documentation to OLA, and we will seek a revised contract and
+other required steps for the agency sole source purchase of the chosen
+electronic case management system, in consultation with our Counsel,
+and in compliance with State procurement regulations.
+Page 6 of 7
+
+--- Page 19 ---
+Office of the State Prosecutor
+Agency Response Form
+Information Systems Security
+OLA has determined that Finding 3 related to “cybersecurity,” as defined by the
+State Finance and Procurement Article, Section 3.5-301(b) of the Annotated Code
+of Maryland, and therefore is subject to redaction from the publicly available
+audit report in accordance with State Government Article 2-1224(i). Although the
+specifics of the finding, including the analysis, related recommendation(s), along
+with OSP’s responses, have been redacted from this report copy, OSP’s responses
+indicated agreement with the finding and related recommendations.
+Finding 3
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 7 of 7
+
+--- Page 20 ---
+A T
+UDIT EAM
+Catherine M. Clarke, CPA, CIA, CFE
+Audit Manager
+Sporthi J. Carnelio
+Senior Auditor

@@ -1,0 +1,2039 @@
+Title: Maryland Department of Health - Medical Care Programs Administration
+
+
+NOTE: Effective July 1, 2014, the Mental Hygiene Administration and the Alcohol and Drug Abuse Administration were merged to create the Behavioral Health Administration within the Maryland Department of Health (MDH). Effective January 1, 2015, MDH implemented a new integrated Public Behavioral Health System. Certain functions previously performed by MHA are now performed by the Medical Care Programs Administration (MCPA). Specifically, MCPA now monitors and accounts for activities of the Administrative Service Organization (ASO) responsible for the authorization of behavioral health services, data collection, claims submission, and the payment of claims. Activities of the ASO since January 1, 2015 were excluded from this audit and are included in our audits of MCPA.
+Date: 08/18/2017
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5a8f4d13cc9d7245606744c9
+Extracted: 2025-06-17T19:16:33.795125
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Department of Health
+Medical Care Programs Administration
+August 2017
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 6 ---
+4
+
+--- Page 7 ---
+Table of Contents
+Background Information 8
+Name Change and Agency Responsibilities 8
+Public Behavioral Health System 10
+Medicaid Enterprise Restructuring Project Termination 10
+Status of Findings From Preceding Audit Reports 12
+Findings and Recommendations 13
+Recipient Enrollment
+Finding 1 – The Medical Care Programs Administration (MCPA) did 14
+not assign a temporary enrollment status to 11,153 new enrollees,
+resulting in delays in placing individuals in Managed Care
+Organizations (MCOs). Such delays, which were allegedly
+caused by a computer compatibility issue, resulted in certain
+associated claims being paid on a fee-for-service basis that would
+have been paid by an MCO.
+* Finding 2 – The current memoranda of understanding with the Department 16
+of Human Services and the Maryland Health Benefits Exchange
+are not sufficient to ensure that eligibility determinations are
+timely and proper.
+Finding 3 – MCPA did not take timely follow-up action on questionable 18
+enrollee eligibility information it identified and did not ensure that
+critical eligibility information was properly recorded on the
+Medicaid Management Information System (MMIS II).
+* Finding 4 – MCPA did not take timely action to ensure recipients age 65 21
+or older had applied for Medicare as required by State regulations.
+* Finding 5 – MCPA did not ensure that all reports of potential third-party 23
+health insurance for Medicaid recipients were received and properly
+investigated in a timely manner.
+* Finding 6 – MCPA did not always assess damages against its MCO 24
+enrollment broker which continuously failed to meet minimum
+enrollment levels required by the contract.
+* Denotes item repeated in full or part from preceding audit report
+5
+
+--- Page 8 ---
+Program Oversight – Hospitals and Long-Term Care Providers
+* Finding 7 – MCPA has not conducted required audits of hospital claims 26
+processed since calendar year 2007.
+Finding 8 – MCPA did not adequately monitor the vendors responsible 27
+for conducting credit balance audits and utilization reviews of
+long-term care facilities and/or hospitals.
+Program Oversight – Behavioral Health
+Finding 9 – MCPA did not monitor the ASO to ensure that deficiencies 30
+noted during provider audits conducted by the ASO were
+corrected and related overpayments were recovered.
+Finding 10 – MCPA did not ensure the ASO resolved rejected behavioral 30
+health claims timely, resulting in the payment of potentially
+improper claims and lost federal fund reimbursements.
+* Finding 11 – Access controls over the ASO’s servers hosting the portal 31
+and the web-server software were inadequate, intrusion detection
+prevention system coverage did not exist for encrypted traffic, and
+sensitive personally identifiable information (PII) was stored without
+adequate safeguards.
+Program Oversight – Dental Benefits
+Finding 12 – MCPA did not ensure that the former dental benefits 33
+administrator was properly administering the dental benefits program
+and was conducting required provider audits, and did not ensure
+bank accounts were reconciled, and sensitive data were secured.
+Information Systems Security and Control
+Finding 13 – Sensitive PII within the Electronic Data Interchange 36
+Transaction Processing System (EDITPS) database was stored
+and transmitted without adequate safeguards and MCPA did not
+remediate 20 of the 21 security vulnerabilities identified in a
+consultant’s report on EDITPS.
+* Denotes item repeated in full or part from preceding audit report
+6
+
+--- Page 9 ---
+Interagency Agreement
+Finding 14 – MCPA did not obtain documentation to support labor and 38
+overhead charges invoiced by the University of Maryland
+Baltimore County (UMBC), representing 72 percent of amounts
+billed under the agreement for MCO capitation rate-setting
+services.
+Finding 15 – MCPA did not authorize UMBC to transmit sensitive 39
+Medicaid protected health information to a third-party vendor for
+data storage and did not ensure UMBC executed a data sharing
+agreement with this vendor, as required by federal regulation.
+Audit Scope, Objectives, and Methodology 41
+Agency Response Appendix
+7
+
+--- Page 10 ---
+Background Information
+Name Change and Agency Responsibilities
+Chapter 214, Laws of Maryland 2017, effective July 1, 2017 renamed the
+Department of Health and Mental Hygiene to be the Maryland Department of
+Health.
+The Medical Care Programs Administration (MCPA) of the Maryland
+Department of Health (MDH) operates under both Title XIX of the Federal Social
+Security Act (Medicaid) and State law. Medicaid is a joint federal and state
+entitlement program for low-income individuals. The program is administered by
+the states, which are required to provide healthcare coverage to all applicants who
+meet the program’s eligibility criteria. In its capacity as Maryland’s
+administering agency, MCPA is responsible for enrolling the healthcare providers
+(such as physicians), establishing program regulations, setting provider payment
+rates, reviewing and paying provider claims, and obtaining federal reimbursement
+for eligible costs. MDH has agreements with the Department of Human Services
+(DHS) and the Maryland Health Benefit Exchange (MHBE) delegating its
+responsibility for recipient eligibility determinations.
+According to MCPA records as of June 30, 2015, the Medical Assistance Program
+served approximately 1.2 million individuals through approximately 124,000
+healthcare providers. During fiscal year 2015, Medicaid expenditures totaled
+approximately $9.7 billion, including $5.8 billion in federal fund expenditures.
+As noted in the charts above, the number of Medicaid recipients and the related
+expenditures have increased significantly in recent years. These increases were,
+8
+
+--- Page 11 ---
+in part, due to the passage of the federal Patient Protection and Affordable Care
+Act (ACA) and the Maryland Health Progress Act of 2013. The ACA established
+a new methodology to calculate individual and family income, making it easier
+for people to gain health coverage through one application and enroll in the
+appropriate healthcare program. Simultaneously, the Maryland Health Progress
+Act expanded Medicaid eligibility to children ages 6 through 18 and adults
+younger than age 65 (including those with no dependents) with family or
+household income up to 138 percent of federal poverty guidelines (previously 116
+percent), and former foster care adolescents up to age 26 (previously age 21). The
+costs associated with the Medicaid expansion were 100 percent federally funded
+through calendar year 2016.
+Individuals qualifying for cash assistance through the Temporary Cash Assistance
+program or the federal Supplemental Security Income program automatically
+qualify for Medicaid benefits. Those eligible for Medicaid through these
+programs make up most of the Medicaid population and are referred to as
+“categorically needy” although there are other individuals that are considered
+categorically needy due to other circumstances (such as children residing in foster
+care). The remaining individuals are referred to as “medically needy,” meaning
+they cannot meet the cost of needed medical
+care, but are generally self-supporting in
+other respects. Individuals may apply for
+Medicaid in person, through the mail, or
+online.
+MCPA uses a federally certified
+computerized system, the Medicaid
+Management Information System (MMIS II)
+implemented in 1995, to pay provider claims
+and to process paid claims for federal
+reimbursement. According to MCPA
+records, during fiscal year 2015 MMIS II
+was used to process transactions totaling
+approximately $8.7 billion. Some MCPA
+expenditures are not processed through
+MMIS II, such as Medicare premiums for
+Medicaid-eligible recipients, certain
+pharmacy claims, and transportation costs, and certain State-funded grants.
+9
+
+--- Page 12 ---
+Public Behavioral Health System
+Chapter 460, Laws of Maryland 2014, effective July 1, 2014, merged the Mental
+Hygiene Administration (MHA) and the Alcohol and Drug Abuse Administration
+to create the Behavioral Health Administration (BHA) within MDH. Effective
+January 1, 2015, MDH implemented a new integrated Public Behavioral Health
+System (PBHS). The PBHS realigned program responsibilities under the Deputy
+Secretary for Health Care Financing and the Deputy Secretary for Behavioral
+Health. As a result, certain functions previously performed by MHA are now
+performed by MCPA. Specifically, MCPA now monitors and accounts for
+activities of the Administrative Service Organization (ASO) responsible for
+authorization of behavioral health services, data collection, claims submission,
+and the payment of claims.
+The newly established BHA manages and processes claims funded solely with
+State funds. BHA also manages evidence-based practices and promising clinical
+interventions for behavioral health services; establishes, refines, and monitors
+clinical standards for Medicaid-financed services to ensure that payment policies
+support clinical care; and ensures clinical criteria for grant-based services.
+The scope of our audit included MCPA’s role in monitoring and accounting for
+activities of the ASO since the transfer of these operations to MCPA in January
+2015. The ASO activity prior to this period and the remaining functions of the
+former MHA will be included in our first audit of BHA.
+Medicaid Enterprise Restructuring Project Termination
+Background
+In January 2012, MDH began the process of replacing its existing MMIS (MMIS
+II) with a modernized MMIS called the Medicaid Enterprise Restructuring Project
+(MERP). At the time, MDH awarded a five-year contract totaling approximately
+$171 million, to design, develop, implement, and operate MERP and to provide
+fiscal agent services. The MERP project encountered certain development
+problems, including disagreements with the contractor over the scope of work and
+the inability of the contractor to submit certain acceptable deliverables.
+MERP did not progress beyond the design phase, and MDH continues to use
+MMIS II to process its Medicaid claims. The fiscal year 2017 budget included
+funds to conduct a self-assessment, which would identify the gap between the
+current capabilities of MMIS II as compared to the current needs of the State.
+10
+
+--- Page 13 ---
+Contract Termination
+Due to the lack of completed deliverables, MDH issued a directive letter, or cure
+notice, on January 31, 2014 and again on March 14, 2014, detailing certain
+specific actions that needed to be corrected for MERP to move forward. The
+notices required the contractor to cure its failure to submit an acceptable project
+schedule as obligated under the contract or show cause why the contract should
+not be terminated for default.
+The Department of Information Technology (DoIT) reported to the General
+Assembly that, as of August 15, 2014, the contractor had failed to submit a
+satisfactory response to either cure notice, and MDH had been working with the
+contractor to find a suitable path forward without success. According to DoIT,
+the project remained high-risk and, on August 22, 2014, with the support of DoIT,
+MDH suspended development work on the project for a period of 90 days to
+resolve outstanding issues and to develop an acceptable path forward to continue
+MERP. Numerous stop work orders were issued by MDH through September
+2015 and, in October 2015, after negotiations regarding the future of the project
+collapsed, MDH notified the contractor that it was terminating the contract for
+default. MDH had paid the contractor approximately $30.5 million prior to the
+termination.
+Pending Litigation
+In September 2013, the contractor submitted a contract claim for approximately
+$62 million for alleged delays on the part of MDH and work the contractor
+claimed fell outside the original scope of the contract. The contractor
+subsequently reduced its contract claim to approximately $34 million. MDH
+rejected the claim in April 2014, and the contractor filed an appeal with the Board
+of Contract Appeals (BCA) on May 28, 2014.
+In November 2015, the contractor filed additional claims against MDH, resulting
+in total claims in excess of $70 million. On December 22, 2015, the Office of the
+Attorney General (OAG) filed a motion with BCA to dismiss the contractor’s first
+claim. The contractor filed a response to that motion in January 2016 and the
+OAG replied in March 2016. Oral arguments were heard by the BCA on April
+21, 2016 but as of July 12, 2017, the BCA had not ruled on the motion.
+In March 2016, the OAG finalized terms with outside counsel to represent MDH
+in litigation related to the MERP project. On July 14, 2016, MDH filed its own
+claim with the BCA, asserting breach of contract resulting in damages in an
+amount yet to be determined, but substantially in excess of $30 million. On
+August 15, 2016, the contractor responded denying breach of contract. The claim
+is still pending.
+11
+
+--- Page 14 ---
+Status of Findings From Preceding Audit Reports
+Our audit included a review to determine the status of the nine findings contained
+in our preceding MCPA audit report dated April 25, 2014. We determined that
+MCPA satisfactorily addressed four of these findings. The remaining five
+findings are repeated in this report.
+Our audit also included a review to determine the status of four of the five
+findings included in our audit report of the former MHA, dated September 18,
+2014. These four findings related to the administration of the ASO contract. The
+status of the remaining finding will be addressed during our audit of BHA. We
+determined that MCPA satisfactorily addressed two of these findings. The
+remaining two findings are repeated in this report and appear as one finding.
+Finally, based on our assessment of significance and risk to our audit objectives,
+we did not determine the status of one finding previously included in the audit
+report of the Maryland Department of Aging dated July 1, 2014. This finding
+pertained to the Maryland Home and Community-Based Services Waiver for
+Older Adults Program. This Program activity (renamed the Medicaid Home and
+Community-Based Options Waiver Program) is now performed by MCPA.
+12
+
+--- Page 15 ---
+Findings and Recommendations
+Recipient Enrollment
+Background
+In its capacity as Maryland’s administering agency, the Medical Care Programs
+Administration (MCPA) of the Maryland Department of Health (MDH) is
+responsible for establishing regulations, guidelines, and procedures for Medical
+Assistance applicant eligibility. The responsibility for recipient eligibility
+determinations is shared by the local departments of social services within the
+Department of Human Services (DHS), the Maryland Health Benefit Exchange
+(MHBE), and the local health departments within MDH, which serve as MHBE
+connector entities. MDH has agreements with DHS and MHBE delegating its
+responsibility for recipient eligibility determinations. Recipient eligibility for
+Medicaid benefits is generally required to be redetermined annually.
+Department of Human Services
+MDH and DHS maintain a Memorandum of Understanding (MOU), last updated
+in July 2011, which assigns responsibility to DHS for determining applicants’
+eligibility for Medicaid. Applicant eligibility is primarily determined by the local
+departments of social services, which are under the supervision of DHS.
+Applicants can be categorically eligible or medically needy. A medically needy
+person generally receives only Medicaid benefits while some categorically
+eligible persons receive benefits from both MDH (Medical Assistance) and DHS
+(such as Temporary Cash Assistance). Applicant information is recorded on
+DHS’s Client Automated Resource Eligibility System (CARES) and, for those
+applicants deemed eligible for Medicaid, that information is subsequently
+interfaced with the Medicaid Management Information System (MMIS II).
+Maryland Health Benefits Exchange
+In September 2013, MDH and MHBE entered into an MOU under which MHBE,
+through the Maryland Health Connection, processes eligibility determinations and
+redeterminations for income-based coverage groups (that is, certain categorically
+eligible or medically needy applicants with household income up to 138 percent
+of federal poverty guidelines). Applicant information is recorded on the Health
+Benefit Exchange system (referred to as either HBX or MHC) and for those
+applicants deemed eligible for Medicaid, information is ultimately interfaced into
+MMIS II. Individuals may apply online through the Maryland Health Connection
+or may enroll through the MDH local health departments, which are MHBE
+connector entities.
+13
+
+--- Page 16 ---
+Most Maryland Medicaid recipients are required to enroll in HealthChoice, the
+statewide managed care program that began in 1997. Under HealthChoice,
+MCPA makes specified capitation payments to private Managed Care
+Organizations (MCOs) that provide services to these Medicaid recipients in
+Maryland. While the MCOs provide a wide variety of services to enrolled
+recipients, certain services (such as behavioral health services) are paid for on a
+fee-for-service basis even for recipients enrolled in an MCO as described below.
+These services are termed “carve outs.” According to MCPA records, payments
+to MCOs totaled approximately $4.5 billion during fiscal year 2015.
+Populations excluded from the HealthChoice program include the institutionalized
+and individuals who are dually eligible for Medicaid and Medicare. Populations
+not covered by an MCO are covered on a fee-for-service basis. Under the fee-for-
+service system, health providers (such as physicians, hospitals, and medical
+equipment suppliers) are paid a fee for each service or supply provided. Fees are
+generally billed at rates established by MCPA or, in the case of hospital stays, at
+rates established by the Maryland Health Services Cost Review Commission.
+According to MCPA records, fee-for-service claim payments totaled
+approximately $688 million during fiscal year 2015.
+Finding 1
+MCPA did not assign a temporary enrollment status to 11,153 new enrollees,
+resulting in delays in placing individuals in MCOs. Such delays, which were
+allegedly caused by a computer compatibility issue, resulted in certain
+associated claims being paid on a fee-for-service basis that would have been
+paid by an MCO.
+Analysis
+MCPA identified 11,153 new recipients whose enrollment in an MCO was
+delayed when these enrollees were not assigned a temporary enrollment status.
+According MDH, this occurred due to a computer compatibility issue with the
+HBX. New recipients are supposed to be assigned a temporary enrollment status
+that provides a 28-day eligibility period during which they may select an MCO
+via MCPA’s enrollment broker. During this period, claims are paid on a fee-for-
+service basis. At the conclusion of the 28-day period, any HealthChoice enrollee
+who did not select an MCO is automatically assigned and enrolled in an MCO by
+MCPA’s claims payment and processing system, MMIS II. The delays in
+enrolling new recipients into an MCO resulted in MCPA paying certain of the
+recipients’ claims on a fee-for-service basis rather than the claims being paid by
+an MCO.
+14
+
+--- Page 17 ---
+MCPA became aware that certain enrollees were not assigned the temporary
+enrollment status and remained as fee-for-service beyond the 28-day period after
+several enrollees contacted MCPA in July 2014 inquiring as to why they had not
+been enrolled in an MCO. MCPA management advised us that it investigated the
+issue and noted that these individuals had never been assigned the temporary
+eligibility status in MMIS II when initially enrolled. Therefore, the enrollees
+were not referred to the enrollment broker and the automatic enrollment was not
+triggered after the 28-day period elapsed.
+MCPA management believed the error was likely due to software compatibility
+issues between MMIS II and the HBX. MCPA subsequently designed an MMIS
+II query to identify additional enrollees who remained in fee-for-service status
+due to the error and ran the query in October 2014. We were advised that MCPA
+researched the identified recipients and made needed corrections to ensure the
+recipients were properly enrolled in an MCO. Although MCPA believed the
+compatibility issues had been corrected, a second query was run in November
+2015 which showed the problem continued to exist. In total, the two queries
+identified 11,153 recipients who were not assigned the temporary enrollment
+status and, therefore, were not timely enrolled in an MCO as appropriate. MCPA
+advised us that it investigated the status of each of these 11,153 individuals and
+placed them in an MCO if warranted.
+Capitation rates paid to MCOs are generally lower than payments on a fee-for-
+service basis. MCPA could not readily determine the fiscal impact of these delays
+because of the complexities in the Medicaid reimbursement process. Specifically,
+the existence of numerous carve-out services that are paid on a fee-for-service
+basis even for recipients enrolled in an MCO makes it difficult to determine the
+amount that was erroneously paid as fee-for-service.
+Nevertheless, after excluding claims related to readily identifiable carve outs (that
+is, claims that were properly paid on a fee-for-service basis), we identified fee-
+for-service claims totaling approximately $13.3 million that were paid for 1,571
+of the 11,153 recipients during fiscal year 2015. The amount erroneously paid as
+fee-for-service would be less than $13.3 million due to other carve outs and
+circumstances which can only be determined on a case-by-case investigation of
+the recipients.
+We tested the 10 highest fee-for-service claims paid during fiscal year 2015 that
+related to 8 of the 1,571 recipients. These 10 claims totaled approximately $2.2
+million. We found that, for 4 claims totaling approximately $826,000, the claims
+were paid as fee-for-service for recipients who should have been enrolled in an
+MCO prior to the dates services were provided. If these recipients had been
+15
+
+--- Page 18 ---
+enrolled timely, these claims would have been covered by MCOs. The remaining
+6 claims were properly paid as fee-for-service claims (for example, the services
+were rendered within the temporary enrollment period).
+Recommendation 1
+We recommend that MCPA
+a. take the appropriate action to ensure the compatibility of the MMIS II
+and HBX software; and
+b. implement monitoring procedures to ensure all eligible HealthChoice
+enrollees are placed in an MCO within 28 days. For example, MCPA
+should run periodic queries of recipients not enrolled in MCOs after 28
+days, investigate the status of each recipient, and place each in an MCO if
+warranted.
+Finding 2
+The current memoranda of understanding (MOUs) with DHS and MHBE
+are not sufficient to ensure that eligibility determinations are timely and
+proper.
+Analysis
+The current MOUs with DHS and MHBE are not sufficient to ensure that
+eligibility determinations are timely and proper. Deficiencies with the DHS
+eligibility process and related monitoring have been commented upon in our
+MCPA and various DHS audit reports dating back to 1992. It was previously
+noted that these deficiencies occurred, at least in part, because the MOU between
+MDH and DHS did not provide for adequate MCPA oversight, did not include
+comprehensive procedures to ensure problems were corrected, and was generally
+outdated.
+In response to one of our preceding audit reports (dated December 6, 2010),
+MCPA updated its MOU with DHS in July 2011, and started to develop a more
+comprehensive method to monitor the eligibility process. However, our review
+disclosed that the current MOU with DHS and the MOU established with MHBE
+in September 2013 still were not sufficient. Specifically, our review of the MOUs
+disclosed the following conditions:
+ The current MOUs do not require DHS and MHBE to have quality control
+procedures in place to help ensure the integrity of the eligibility process.
+While not required in the MOU, DHS had established certain quality control
+16
+
+--- Page 19 ---
+procedures; however, as cited in our April 2015 audit of DHS’s Family
+Investment Administration (FIA), these procedures were not comprehensive
+or were not always carried out. For example, FIA lacked documentation that
+it had performed certain computer matches required by its policies that were
+designed to help ensure recipients were eligible for public assistance and
+medical assistance benefits and to help detect potential fraud.
+ The MOUs do not address certain longstanding deficiencies that were
+disclosed in MCPA’s audit reports dating back to 2010. For example,
+although DHS has had issues conducting timely eligibility redeterminations,
+its MOU does not require that accurate eligibility end dates be recorded in
+MMIS II. Eligibility coverage end dates, which are based on information
+collected and coded by DHS and MHBE, continued to be recorded in MMIS
+II as “9999” for more than 1.1 million recipients as of August 2015,
+preventing MCPA from monitoring the timeliness of redeterminations. (As
+noted in Finding 3, MCPA records eligibility end dates in this manner to
+prevent benefits from being cancelled should the redeterminations not be
+performed timely.) In addition, while MCPA has identified that DHS
+improperly issued multiple medical assistance numbers to the same recipient
+in the past, the MOUs do not require that procedures be established to detect
+and correct these situations, such as by establishing an edit, or supervisory
+review of output reports. We found that the medical assistance numbers for 3
+of 10 recipients selected for testing, who were enrolled with multiple medical
+assistance numbers, were not linked in MMIS II. This condition could result
+in duplicate payments being made for the same recipient, although we did not
+identify duplicate payments for these individuals.
+ The MOUs do not specifically require actions to be taken when fraud or abuse
+is identified during the eligibility determinations and redeterminations
+processes, or how this information should be communicated to MCPA. As a
+result, there is a lack of assurance that all instances of fraud and abuse were
+being properly investigated and communicated to MDH. State regulations
+require all local departments of social services and other agencies to report
+cases of suspected fraud to MDH.
+ The MOUs do not provide clear expectations of the need for DHS and MHBE
+to take corrective action in the event MCPA identifies deficiencies with their
+eligibility efforts. For example, as noted in the next Finding, 3,424 of the
+19,131 recipients enrolled in newborn coverage groups (for recipients less
+than one year old) were more than one year old. Specifically, the MOU with
+MHBE does not require that corrective action be taken to address any
+significant deficiencies identified regarding its recipient eligibility
+17
+
+--- Page 20 ---
+responsibilities. While the MOU with DHS provides that the Secretary shall
+be informed of such issues, it does not provide any consequences, should
+deficiencies not be addressed.
+Recommendation 2
+We recommend that MCPA modify the MOUs with DHS and MHBE to
+require
+a. quality control procedures be established,
+b. the aforementioned longstanding deficiencies be addressed (repeat),
+c. specific steps be taken when fraud or abuse is identified, and
+d. corrective action be taken when deficiencies with eligibility
+determinations are identified.
+Finding 3
+MCPA did not take timely follow-up action on questionable enrollee
+eligibility information it identified and did not ensure that critical eligibility
+information was properly recorded on MMIS II. Our test disclosed certain
+overpayments.
+Analysis
+MCPA did not take timely follow-up action on questionable enrollee information
+it identified, including enrollees with missing social security numbers, and did not
+ensure that critical eligibility information was properly recorded on MMIS II. As
+a result, MCPA improperly paid certain fee-for-service claims on behalf of
+individuals who were enrolled in MCOs.
+Inadequate Follow-up on Questionable Enrollee Eligibility
+ MCPA did not conduct timely follow-up of potentially ineligible recipients it
+identified. MCPA periodically generated reports which identified possible
+issues with eligibility determinations and redeterminations (known as alerts)
+and referred these alerts (such as recipients enrolled in other states) to the
+appropriate local department of social services (LDSS) for resolution.
+However, our review disclosed that MCPA did not take timely follow-up
+action to ensure these alerts were resolved. For example, as of June 2015,
+these reports identified three large LDSSs that had 2,721 alerts that had been
+outstanding for 79, 125, and 194 days on average, and 266 alerts statewide
+related to long-term care (LTC) recipients that had been outstanding for an
+average of 201 days.
+MCPA also did not have comprehensive records of its follow-up efforts on
+enrollees required to provide social security numbers for which no social
+18
+
+--- Page 21 ---
+security numbers were recorded on MMIS II. According to MCPA records as
+of August 2015, there were 12,027 recipients without a social security number
+recorded in MMIS II, of which 2,547 had been missing since 2011. These
+12,027 recipients did not meet any of the allowable exceptions (such as
+undocumented aliens) and, therefore, were required to have a social security
+number within 90 days in order to be eligible for coverage. MCPA
+management advised us that they took certain actions related to missing social
+security numbers but those efforts were not fully documented.
+ MCPA did not adequately document its investigation of discrepancies it
+identified between recipient data recorded in MMIS II and related data in
+CARES or HBX. MCPA generated monthly reports that identified
+discrepancies between MMIS II and CARES regarding whether recipients
+were active and/or deceased, but did not document efforts to follow up on
+these reports. For example, the March 2016 report identified 195 recipients
+recorded as deceased in CARES who were active in MMIS II, but MCPA
+could not document that it followed up on these recipients. Our test of 5 of
+these recipients disclosed that they were still not identified as deceased in
+MMIS II as of June 23, 2016. We noted a small amount of claims processed
+for these 5 deceased recipients after their dates of death. Similar reports were
+not generated for differences between recipient data recorded in MMIS II and
+HBX.
+In addition, MCPA generated daily reports identifying discrepancies between
+recipient profiles in MMIS II and in CARES or HBX, such as differences in
+social security numbers and identification numbers. While we were advised
+MCPA reviewed these reports and made needed corrections, MCPA did not
+document that any follow-up actions were taken to address these
+discrepancies.
+Inadequate Procedures to Ensure Integrity of Critical Eligibility Information
+ Changes made to critical recipient eligibility information (such as eligibility
+periods) in MMIS II were not subject to supervisory review and approval.
+Additionally, MCPA did not have a mechanism to ensure that changes to
+eligibility information made by DHS staff (such as dates enrolled or
+disenrolled) were processed in a timely manner. Our tests disclosed that
+errors and delays in data entry resulted in overpayments. We judgmentally
+selected for testing 22 fee-for-service claims paid totaling $6 million, for
+services rendered during the period from May 2013 to December 2014, for
+recipients who were enrolled in an MCO as of the dates of service. (The 22
+claims had certain characteristics that raised questions regarding their
+propriety.) Our test disclosed that 7 claims totaling $2.4 million were
+19
+
+--- Page 22 ---
+improperly paid by MCPA as fee-for-service claims rather than by the MCOs
+because of errors or delays in the data entry of the MCO enrollment
+information.
+ MCPA did not document its efforts to monitor the timeliness of eligibility
+redeterminations and the related follow-up efforts. MCPA routinely recorded
+the eligibility end dates for recipients in MMIS II as ‘9999’ rather than the
+actual eligibility end date. Based on our query, more than 1.1 million
+Medicaid recipients had a ‘9999’ end date as of August 2015. As a result,
+these individuals would remain eligible for services indefinitely unless
+terminated by MCPA, DHS, or MHBE due to an eligibility redetermination or
+the death of the individual. MCPA management advised us that accurate
+coverage end dates were not recorded to avoid mistakenly terminating benefits
+for a recipient who does not receive a timely redetermination. MCPA advised
+that, instead, it monitored the timeliness of eligibility redeterminations using
+information from CARES and HBX and followed up with MHBE and DHS
+for any untimely redeterminations. However, these efforts were not
+documented.
+ MCPA did not monitor individuals enrolled in age-specific coverage groups to
+ensure that they were removed in a timely manner when they no longer met
+the age requirements. We reviewed the propriety of the coverage groups
+assigned to approximately 260,000 of the aforementioned 1.1 million
+recipients who were enrolled in coverage groups that are limited to a specific
+age range. Our review disclosed 93,425 recipients who were over the age
+range for their respective coverage group. For example, 3,424 of the 19,131
+recipients enrolled in newborn coverage groups (for recipients less than one
+year old) were more than one year old, including one recipient who was 28
+years old when determined eligible to receive coverage in December 2009 and
+was mistakenly placed into the newborn coverage group at that time.
+Although these individuals may remain eligible for coverage under a different
+coverage group, the eligibility criteria vary by group and, therefore, need to be
+reassessed.
+Recommendation 3
+We recommend that MCPA
+a. conduct timely and documented follow-up of potentially ineligible
+recipients and recipients with missing social security numbers, and
+ensure their prompt resolution;
+b. generate monthly reports of discrepancies between MMIS II and HBX
+regarding whether recipients were active or deceased;
+20
+
+--- Page 23 ---
+c. promptly resolve all discrepancies identified in recipient data recorded in
+MMIS II and CARES or HBX and document follow-up actions taken;
+d. establish procedures to ensure changes to critical recipient eligibility
+information recorded in MMIS II are subject to supervisory review and
+approval, at least on a test basis;
+e. develop a mechanism to monitor the timeliness of eligibility changes made
+by DHS staff;
+f. review the aforementioned improper claim payments, and take
+appropriate corrective action, including recovery of overpayments;
+g. document its efforts to monitor the timeliness of eligibility
+redeterminations and the related follow-up efforts; and
+h. monitor individuals enrolled in age-specific coverage groups and
+document the related corrective actions.
+Finding 4
+MCPA did not take timely action to ensure recipients age 65 or older had
+applied for Medicare as required by State regulations.
+Analysis
+MCPA did not take timely action to ensure Medicaid recipients age 65 or older
+had applied for Medicare. According to MCPA records, during fiscal year 2015
+MCPA paid claims totaling $85.4 million for 4,133 recipients who were at least
+65 years old and were not enrolled in Medicare, despite being potentially eligible
+based on their coverage group and age. The failure to ensure recipients are
+enrolled in Medicare when eligible is
+significant because Medicare is
+entirely federally funded.
+Furthermore, the amounts paid on fee-
+for-service claims by Medicaid for
+recipients who are dually eligible for
+Medicare and Medicaid are generally
+less than the amounts paid for
+recipients who only have Medicaid.
+Providers must submit claims for
+Medicare reimbursement before
+submitting the claims for Medicaid reimbursement, which generally covers the
+Medicare coinsurance (normally 20 percent) and deductibles.
+We stated in our preceding audit report, that MCPA did not have a process to
+ensure all recipients age 65 or older had applied for Medicare. In August 2012,
+MCPA began a Medicare outreach program which included mailing notices to
+21
+
+--- Page 24 ---
+recipients age 65 or older advising them of the need to apply for Medicare to
+retain their Medicaid benefits. Approximately 22,300 notices had been mailed as
+of August 2, 2016, resulting in approximately 10,000 recipients enrolling in
+Medicare (see table). However, MCPA did not mail the notices in a timely
+manner nor take adequate follow-up action.
+MCPA sent each recipient up to three notices before the recipient was referred to
+DHS to terminate the benefits.1 The notices were sent on a quarterly basis so it
+took up to one year to terminate the eligibility of recipients who did not respond
+and, during this period, recipient claims continued to be paid by Medicaid on a
+fee-for-service basis. In addition, MCPA did not have any monitoring process in
+place to ensure DHS terminated the eligibility of recipients who did not respond
+to the notices. Our test of 14 recipients included in the outreach program who
+were 65 or older as of January 2016 disclosed that 11 recipients had not applied
+for Medicare and their eligibility had not been terminated as of the date of our test
+in January 2016, even though they had turned 65 between 1995 and 2014.
+Medicaid claims payments totaling $103,000 were processed for 10 of the 11
+recipients during fiscal year 2015.
+State regulations require Medicaid applicants, age 65 years or older, to furnish
+proof that they have applied for or are receiving Medicare. DHS2 employees are
+to ensure that Medicaid applicants applied for Medicare during the initial
+application process and during the annual redeterminations.
+Recommendation 4
+We recommend that MCPA
+a. establish a process to ensure recipients age 65 or older have applied for
+Medicare on a timely basis, as required by State regulations (repeat); and
+b. ensure that DHS terminates the eligibility of recipients who do not reply
+to Medicare outreach efforts, as appropriate.
+1 MCPA cannot terminate recipients who receive Supplemental Security Income benefits but
+should still be pursuing them to enroll in Medicare.
+2 Recipients over 65 cannot apply via MHBE and are referred to DHS.
+22
+
+--- Page 25 ---
+Finding 5
+MCPA did not ensure that all reports of potential third-party health
+insurance for Medicaid recipients were received and properly investigated in
+a timely manner.
+Analysis
+MCPA did not ensure that all potential third-party health insurance information
+for Medicaid recipients was received and properly investigated in a timely
+manner. In addition to information collected by DHS and MHBE about potential
+third-party insurance during the Medicaid enrollment process, MCPA received
+referrals of possible third-party insurance from numerous sources, including from
+other units of DHS (such as from the Child Support Enforcement Administration)
+and from an MCPA contractor that was responsible for identifying possible
+unreported third-party insurance. According to its records, MCPA received
+approximately 134,000 referrals from DHS and 10,000 referrals from its
+contractor during calendar year 2015. Federal regulations require MCPA to
+follow up on the potential third-party insurance information obtained within 60
+days.
+ Although MCPA received monthly reports from DHS of possible third-party
+insurance for Medicaid recipients, MHBE was not required by the related
+MOU to provide these reports. In this regard, during our audit period MCPA
+received only one report from MHBE (in March 2015) that included
+approximately 24,300 recipients with potential insurance. According to
+MHBE records, during the audit period more than 730,000 recipients enrolled
+in Medicaid programs through MHBE.
+ MCPA did not have a process to ensure third-party insurance information
+received was investigated properly and timely. Initial accountability was not
+established over certain referrals (that is, referrals received from the MCOs),
+and MCPA did not have adequate documentation to support that
+investigations were completed, appropriate conclusions were reached, and
+insurance status was properly recorded in MMIS II in a timely manner. While
+MCPA advised us that monthly supervisory reviews were completed, on a test
+basis, to ensure that appropriate conclusions were made for referrals,
+documentation of each monthly review was only retained for a three-month
+period. However, our examination of documentation of recent reviews did not
+disclose any evidence of supervisory review. Similar conditions were noted in
+our preceding audit report.
+As a result, there was a lack of assurance that MCPA properly investigated
+reports of potential third-party insurance. In this regard, we tested 15
+23
+
+--- Page 26 ---
+recipients for which potential insurance information was referred by DHS and
+the MCPA contractor in May and June 2015. Our tests disclosed that, a year
+later, MCPA did not have any documentation that the referrals for 6 recipients
+had been investigated.
+Federal regulations provide that Medicaid shall be the payer of last resort.
+Specifically, Medicaid shall only be used to pay costs not covered by others, such
+as third-party insurers. Recoveries from third-party insurers totaled $33 million
+for the period between July 1, 2014 and April 30, 2015.
+Recommendation 5
+We recommend that MCPA
+a. require MHBE to submit reports of possible third-party insurance on a
+monthly basis;
+b. establish initial accountability over all insurance referrals received and
+ensure all are properly investigated in a timely manner, in accordance
+with federal regulations (repeat); and
+c. conduct documented monthly supervisory reviews of investigative efforts
+to ensure appropriate conclusions were reached (repeat) and the
+insurance status was properly recorded in MMIS II.
+Finding 6
+MCPA did not always assess damages against its MCO enrollment broker
+which continuously failed to meet minimum enrollment levels required by
+the contract.
+Analysis
+MCPA did not always assess damages against its MCO enrollment broker which
+consistently failed to meet minimum enrollment levels required by the contract
+(referred to as Voluntary Enrollment Rate or VER). MCPA has used the same
+vendor since August 2005 to function as an enrollment broker assisting and
+enrolling individuals in MCOs. During this period, MCPA processed multiple
+contract modifications for expanded enrollments and renewed the contract
+multiple times for a total cost of $84.5 million. MCPA paid the broker $7.3
+million during fiscal year 2015. Based on our calculations for the fiscal year 2015
+VER shortfalls, MCPA could have assessed damages totaling $227,000 on the
+broker.
+The contract provided that the broker maintain a VER of at least 80 percent of the
+new applicants each month, which is the percentage of individuals the vendor
+directly enrolled in HealthChoice MCOs. Individuals not enrolled by the broker
+24
+
+--- Page 27 ---
+were automatically enrolled by MMIS II in an MCO which may not best meet the
+clients’ needs. The contract provided that MCPA may assess damages if the
+enrollment broker does not meet the minimum enrollments.
+However, as noted in the table, the
+broker consistently failed to meet
+the minimum VER. For example,
+the broker met the VER for only
+one month during fiscal year 2015.
+For the remaining 11 months, the
+broker enrolled only 67 percent (or
+159,860) of the 237,379 new
+applicants.
+MCPA management advised us
+that it was aware that the broker
+did not meet the required VER but has only assessed damages of approximately
+$900,000 for VER shortfalls during fiscal years 2009 through 2012. These
+assessments were made in response to a similar finding in our preceding audit
+report. MCPA management advised us that it did not assess damages for
+shortfalls in subsequent periods for various reasons, including because the broker
+had to process increased enrollments due to the Affordable Care Act and had
+complications related to the HBX. In this regard, we noted that a contract
+modification approved by the Board of Public Works (BPW) on February 19,
+2014 increased the contract value by $2 million to address the increased
+enrollment and waived the VER damages for the period from December 31, 2013
+through April 2014. However, although the period of increased enrollment had
+passed, MCPA continued to waive the VER damages subsequent to April 2014
+without sufficient justification and without notifying BPW.
+Recommendation 6
+We recommend that MCPA assess damages when the enrollment broker
+does not achieve the contractually required level of performance (repeat).
+Program Oversight - Hospitals and Long-Term Care (LTC)
+Providers
+Background
+MCPA uses numerous vendors to assist in its administration of the Medicaid
+program and in verifying billings by providers, including hospitals and LTC
+providers. MCPA has also used vendors in the past to conduct audits of hospital
+claims to identify overpayments (such as from duplicate bills and unauthorized
+25
+
+--- Page 28 ---
+charges) and to conduct patient credit balance audits to identify amounts due to
+the State for claims paid to hospitals and LTC facilities by both the State and third
+parties (such as insurance companies). In addition, MCPA uses vendors to review
+LTC cost settlements to identify underpayments or overpayments, and to conduct
+utilization reviews (including continued stay and medical eligibility reviews) of
+Medicaid recipients and LTC facilities.
+Finding 7
+MCPA has not conducted required audits of hospital claims processed since
+calendar year 2007.
+Analysis
+MCPA has not conducted audits of hospital claims payments, which according to
+MCPA records, totaled approximately $900 million during fiscal year 2015, as
+required by federal regulations. MCPA has historically contracted with a
+recovery audit contractor to perform post-payment audits of hospital claims to
+identify and pursue potential overpayments. As noted in our preceding audit
+report, MCPA terminated its contract for these post-payment audits in February
+2012 because the vendor failed to conduct the required number of audits. Prior to
+the vendor’s termination, the most recent claims audited by the vendor covered
+services paid during calendar years 2004 through 2007. The vendor identified
+overpayments totaling approximately $10.7 million for claims paid during
+calendar years 2005 and 2006. The failure to audit hospital claims timely was
+commented upon in our preceding audit report and could result in MCPA paying
+for hospital services that were never provided or that were not medically
+necessary or MCPA paying excessive costs due to unbundling of services.
+MCPA did not issue a request for proposals (RFP) for a new contractor until May
+2013 and did not receive any qualified proposals in response to this or to a
+subsequent RFP issued in October 2013. As a result, MCPA requested and
+received a temporary exemption from conducting the recovery audits from the
+federal Centers for Medicare and Medicaid Services (CMS) in February 2014.
+According to the terms of the exemption, MCPA was to procure a new recovery
+audit contractor contract by November 1, 2014, and we were advised, that the
+MDH Office of the Inspector General (OIG) was to perform recovery audits
+during the period between contracts.
+However, the OIG audited only 4 of the approximately 80 hospitals in the State
+during the period between contracts. These 4 audits identified overpayments of
+approximately $234,000. A new vendor was procured in August 2015 but was
+terminated approximately one year later due to performance issues. This vendor
+conducted only one audit prior to termination and OIG management advised us
+26
+
+--- Page 29 ---
+that, as of June 2017, the OIG had completed only one hospital audit subsequent
+to the termination of this vendor.
+The Patient Protection and Affordable Care Act (ACA), enacted on March 23,
+2010, required states to implement the programs by April 1, 2011 in which they
+would contract with one or more recovery audit contractor. Prior to the ACA,
+these audits were considered to be a best practice. In addition, certain claim data
+may no longer be available for review because State regulations only require
+hospitals to retain documentation of the claims for six years. MCPA management
+advised us that in May 2013 it notified the hospitals to retain the documentation
+beyond the six-year period required by State regulations. However, no
+subsequent notifications were sent to hospitals to ensure they continue to retain
+the documentation.
+Recommendation 7
+We recommend that MCPA
+a. ensure that hospital claims are audited in a timely manner (repeat), and
+b. notify hospitals to retain claims data until audited.
+Finding 8
+MCPA did not adequately monitor the vendors responsible for conducting
+credit balance audits and utilization reviews of long-term care facilities
+and/or hospitals.
+Analysis
+MCPA did not adequately monitor the vendors responsible for conducting credit
+balance audits and utilization reviews of hospitals and/or LTC facilities to ensure
+the audits and reviews were comprehensive and were performed in a timely
+manner. According to MCPA records, claims processed in fiscal year 2015 by
+hospitals and LTC facilities totaled $900 million and $1.2 billion, respectively.
+Inadequate Monitoring of Vendor Conducting Credit Balance Audits
+MCPA did not monitor the vendor responsible for conducting credit balance
+audits of hospitals and LTC facilities to ensure the audits were conducted properly
+and in a timely manner. Credit balance audits identify funds due to the State from
+provider billing errors, duplicate billings, and/or third-party collections. For
+example, if MCPA paid for a service for which the facility also collected from an
+insurance company or the patient, this would result in a credit balance on the
+patient’s account, representing funds due to the State since Medicaid is the payer
+of last resort. According to its records, MCPA paid the vendor conducting credit
+balance audits $1.6 million during fiscal year 2015. Audits of LTC facilities
+27
+
+--- Page 30 ---
+completed from July 2013 through November 2015 resulted in recoveries totaling
+$1.6 million and audits of hospitals initiated from September 2010 through
+November 2014 resulted in recoveries totaling $4.2 million.
+MCPA did not have a comprehensive list of hospitals and LTC facilities to allow
+it to monitor the audits conducted, and our review disclosed the audits were not
+conducted in a timely manner. Specifically, based on our review and compilation
+of available records, we determined that, as of November 2015, 40 of the 83
+hospitals had not been audited during fiscal year 2014, including 28 which also
+had not been audited in fiscal year 2013. In addition, 65 of the State’s 224 LTC
+facilities had not been audited for periods ranging from two to four years, and 132
+of the 159 LTC facilities that were audited had gaps in the periods covered,
+ranging from 31 to 516 days. For example, the most recent audits of one facility
+covered credit balances for claims paid in fiscal years 2011, 2012, 2014, and
+2015, but none for fiscal year 2013. The January 2010 contract with the vendor
+provided for annual audits of hospitals but did not specify the frequency of the
+LTC audits; however, according to MCPA management, it expected the vendor to
+conduct LTC audits at least biennially.
+MCPA also did not review the vendor’s procedures for conducting these credit
+balance audits to ensure that the procedures were sufficient to identify
+overpayments. Although the vendor provided a methodology for identifying
+overpayments in its proposal for the current contract, MCPA did not ensure that
+the vendor’s current methodology was consistent with the accepted proposal.
+Inadequate Monitoring of Utilization Reviews
+MCPA did not ensure that the utilization control agent (UCA) conducted proper
+continued stay and medical eligibility reviews of LTC facilities. Continued stay
+reviews ensure the recipient’s medical condition warranted remaining in a nursing
+facility, and the medical eligibility reviews determine whether the level of care
+provided was justified. Both of these reviews are critical to ensure that
+subsequent charges were proper. According to its records, during fiscal year
+2015, MCPA paid the UCA $2.3 million for the reviews performed.
+We were advised by MCPA management that, prior to September 2012, MCPA
+verified the accuracy of the UCA reviews, on a test basis, by ensuring
+documentation maintained by the facility adequately supported the UCA’s
+conclusions; however, due to staffing shortages, these verifications were
+discontinued. As a result, there is a lack of assurance that the UCA was properly
+conducting the reviews for which MCPA was billed.
+28
+
+--- Page 31 ---
+Recommendation 8
+We recommend that MCPA ensure that
+a. credit balance audits are performed for all facilities, are sufficiently
+comprehensive, and cover claims processed in all fiscal years; and
+b. the utilization control agent conducts proper continued stay and medical
+eligibility reviews of LTC facilities, at least on a test basis.
+Program Oversight – Behavioral Health
+Background
+Consistent with State law, effective January 2015, MCPA assumed responsibility
+for the Administrative Service Organization (ASO) providing benefit
+management services for the Public Behavioral Health System. The ASO is
+responsible for ensuring recipient eligibility, authorizing recipient services,
+paying provider claims, and performing oversight of providers to ensure the
+propriety and accuracy of claims and related services. The current contract was
+awarded to the incumbent contractor that previously served as ASO under the
+Mental Hygiene Administration; the contract spans three years beginning on
+January 1, 2015, with two additional one-year options, and has a cumulative
+contract value (including option years) totaling approximately $77 million. The
+contract value includes a monthly administrative fee for each recipient who is
+eligible to receive behavioral health services.
+During fiscal year 2015, behavioral health claims disbursements made from a
+State-funded bank account by the ASO totaled $900 million, $491 million of
+which occurred after MCPA assumed responsibility for monitoring the ASO. The
+vast majority of these claims were eligible for federal fund participation
+(reimbursement) which is normally 50 percent of the amount paid.
+The ASO’s system processed various information related to the provision of
+mental health services. This system captured and stored sensitive personally
+identifiable information (PII) including typical demographic information for
+individuals including name, social security number, address, and date of birth.
+The system also captured and stored sensitive protected health information,
+including but not limited to medical diagnosis codes, prescribed medications, and
+physician assessments of patient risks, impairments, and substance abuse. In
+addition, the ASO operated a portal which allowed web-based access to certain
+systems by providers and recipients (which are referred to as “members” in the
+ASO’s information system).
+29
+
+--- Page 32 ---
+Finding 9
+MCPA did not monitor the ASO to ensure that deficiencies noted during
+provider audits conducted by the ASO were corrected and related
+overpayments were recovered.
+Analysis
+MCPA did not monitor the ASO to ensure that deficiencies noted during provider
+audits conducted by the ASO were corrected and related overpayments were
+recovered. The ASO was required to conduct 300 provider audits each year,
+which are a critical source for validating the behavioral health claims and
+routinely identify deficiencies in the claims submitted and overpayments to the
+providers. MCPA did not maintain a record of deficiencies and overpayments
+noted during the ASO’s provider audits to ensure that deficiencies were corrected
+and overpayments were recovered by the ASO.
+Our test of 10 provider audits conducted by the ASO disclosed that, for 2 audits,
+MCPA did not conduct any follow-up to ensure the ASO recovered
+approximately $21,000 in improper claims identified in the audits. These claims
+were recovered after our inquiries, which were 10 to 12 months after the related
+provider audits were completed.
+Recommendation 9
+We recommend the MCPA maintain a record of deficiencies and
+overpayments noted during the provider audits and ensure corrective action
+is taken and documented, including recovery of any overpayments.
+Finding 10
+MCPA did not ensure the ASO resolved rejected behavioral health claims
+timely, resulting in the payment of potentially improper claims and the loss
+of federal fund reimbursements.
+Analysis
+MCPA did not ensure the ASO resolved rejected behavioral health claims timely,
+resulting in the payment of potentially improper claims and the loss of federal
+fund reimbursements totaling $768,000, a portion of which occurred after MCPA
+assumed responsibility for ASO oversight. The ASO pays providers using a
+State-funded bank account, after which the claims are recorded in MMIS II for
+recovery of the federal share of the cost. MMIS II rejects claims for various
+reasons, such as when the client or provider were not eligible on the date of
+service or when the claim is a duplicate claim. The ASO is responsible for
+investigating the cause of the rejections and either resubmitting a corrected claim
+30
+
+--- Page 33 ---
+or recovering the payment from the provider. Although MCPA held regular
+meetings with the ASO to identify, investigate, and resolve rejected claims, these
+efforts were not sufficient to ensure that all rejected claims were resolved.
+In March 2016, the ASO provided a summary report to MCPA detailing claims
+totaling approximately $1.5 million paid during the period from September 24,
+2009 to March 11, 2014, that were rejected for federal reimbursement by MMIS
+II. These claims exceeded the two-year period available to recover the 50 percent
+federal financial participation and, as a result, the State has lost federal
+reimbursements of $768,000 even if the claims are determined to be proper. At
+least $237,000 of this lost federal reimbursement occurred after January 1, 2015
+(that is, the related claims became two years old after January 1, 2015), the date
+MCPA assumed responsibility for the ASO. Although the contract with the ASO
+provides some recourse if the ASO does not resolve denied claims timely, no
+attempts had been made by MCPA to recover the lost funds.
+Recommendation 10
+We recommend that MCPA
+a. enhance processes to ensure that all rejected claims are investigated,
+resolved, and resubmitted in a timely manner;
+b. ensure that the ASO recovers any amounts due from providers for
+rejected claims; and
+c. determine the feasibility of recovering any lost funds from the ASO.
+Finding 11
+Access controls over the ASO’s servers hosting the portal and the web-server
+software were inadequate, intrusion detection prevention system coverage
+did not exist for encrypted traffic, and sensitive PII was stored without
+adequate safeguards.
+Analysis
+Access controls over the ASO’s servers hosting the portal and the web-server
+software were inadequate, intrusion detection prevention system (IDPS) coverage
+did not exist for encrypted traffic, and sensitive PII was stored without adequate
+safeguards.
+ The portal’s default user account had unnecessary modification access to
+133,135 files within the website’s Document Root. As a result of this
+condition, the web applications associated with this portal were unnecessarily
+exposed to security risks and attacks which could disrupt website functionality
+and expose member data. The ASO’s Provider and Member web applications
+31
+
+--- Page 34 ---
+operated on a web server which used web-server software. These applications
+were accessible via the ASO’s portal website. Information presented by the
+portal website is stored in files within what is known as the Document Root.
+ IDPS coverage did not exist for virtually all untrusted encrypted traffic
+entering the ASO’s network. Specifically, we determined that IDPS coverage
+did not exist for 78 of 79 internal locations receiving encrypted traffic from
+untrusted sources such as providers. Strong network security uses a layered
+approach, relying on various resources structured according to assessed
+network security risks. Complete IDPS coverage includes, when there is
+encrypted traffic, the use of a network-based IDPS that is supplemented
+(where necessary) with host-based intrusion prevention to aid significantly in
+the detection/prevention of, and response to, potential network security
+breaches and attacks. A similar condition was commented upon in our
+preceding audit report dated September 18, 2014 for MHA.
+ The ASO stored sensitive PII, relating to Maryland members, in clear text.
+The ASO stored Maryland member PII (including full names, social security
+numbers, and dates of birth) for over 2,300,000 unique individuals in clear
+text within a master file and 24 separate database tables. We further noted
+that the sensitive information stored in the master file was not masked or
+truncated when system users accessed this data. This sensitive PII, which is
+commonly associated with identity theft, should be protected by appropriate
+information system security controls.
+Best practice guidelines from the State of Maryland Information Security
+Policy require each State agency to protect confidential data using encryption
+technologies and/or other substantial mitigating controls. A similar condition
+was commented upon in our preceding audit report for MHA.
+Recommendation 11
+We recommend that MCPA
+a. request that the ASO identify and restrict all unnecessary default user
+account file modification access within the web server for the ASO portal;
+b. request that the ASO implement necessary IDPS coverage for encrypted
+traffic entering its network (repeat); and
+c. require that the ASO encrypt all files and database objects containing
+Maryland members’ PII, and mask or truncate social security numbers
+applicable to Maryland members from online users that do not need to
+see the full number (repeat).
+32
+
+--- Page 35 ---
+Program Oversight – Dental Benefits
+Background
+MCPA contracts with a dental benefits administrator (DBA) to administer, under
+one fee-for-service program, dental services for children enrolled in Medicaid and
+the Children’s Health Insurance Program, pregnant women enrolled in Medicaid,
+and adults enrolled in the Rare and Expensive Case Management program. The
+DBA is responsible for maintaining a network of providers to provide dental
+benefits to eligible recipients and is responsible for ensuring that claims submitted
+by these providers are proper, including conducting periodic audits.
+As of June 30, 2015, there were approximately 616,000 recipients enrolled in the
+dental benefits programs. During fiscal year 2015, the DBA paid the providers
+for services totaling approximately $162.5 million using a State-funded bank
+account, and MCPA paid the DBA $3.4 million in administrative fees. The
+contract with the former DBA ended December 31, 2015, and MCPA entered into
+a contract with a new DBA effective January 1, 2016.
+Finding 12
+MCPA did not ensure that the former DBA was properly administering the
+dental benefits program and was conducting required provider audits, and
+did not ensure bank accounts were reconciled, and sensitive data were
+secured.
+Analysis
+MCPA did not properly monitor the former DBA to ensure it was properly
+administering the dental benefits program. MCPA’s contract with the current
+DBA has similar requirements and risks as the former contract, and MCPA needs
+to maintain proper oversight of the current DBA.
+MCPA Did Not Conduct Audits of the DBA
+Although the contract required the DBA to submit to a yearly audit by an
+independent review agent contracted by MCPA, no such audits were conducted
+during the contract period (July 1, 2009 through December 31, 2015). The
+contract requires the audit to encompass all major aspects of the administration of
+the dental program, including claims payments to providers, to determine if the
+DBA is meeting its contractual requirements.
+MCPA Did Not Monitor DBA Provider Audits
+MCPA did not adequately monitor the quantity or quality of provider audits
+performed by the DBA. Specifically, MCPA could not readily determine the
+number of audits conducted by the DBA and did not review the auditing
+33
+
+--- Page 36 ---
+procedures to ensure they were comprehensive. While the contract did not
+specify a required number of audits be performed, in response to our request,
+MCPA determined that, during fiscal year 2015, the DBA conducted audits of
+only 32 of the 1,354 providers participating in the dental program as of August
+2014.
+MCPA Did Not Ensure the DBA Investigated Rejected Claims
+MCPA did not ensure the DBA resolved claims submitted by the DBA and
+rejected by MMIS II edits. According to MCPA records as of June 30, 2015,
+there were approximately $800,000 in denied claims awaiting DBA resolution,
+including $393,000 in claims that were more than two years old that were no
+longer eligible for the 50 percent (or $196,500) federal reimbursement. To the
+extent that these State-funded claims could not be recovered from the providers or
+recovered from the former DBA, the State would fully absorb the costs of the
+improper claims. In this regard, in consultation with its legal counsel, MCPA
+withheld the final administrative payments due to the former DBA for November
+2015 and December 2015 totaling approximately $530,000 for unresolved
+rejected claims. Subsequently we were advised that, after MCPA took additional
+actions to pay some of these claims, the DBA ultimately reimbursed MCPA
+approximately $183,000 to settle the remaining rejected claims. After receiving
+this reimbursement, MCPA released the previously withheld administrative
+payments to the former DBA.
+The DBA pays the providers for services from a State-funded bank account and
+periodically submits an automated file of these paid claims to MCPA for
+recording in MMIS II for recovery of the federal share of the cost. MMIS II
+rejects claims for various reasons, such as when the client or provider were not
+eligible on the date of service or when the claim is a duplicate claim. The DBA is
+responsible for investigating the cause of the rejections and either resubmitting a
+corrected claim or recovering the payment from the provider. MCPA
+management advised us that MCPA personnel met regularly with the DBA to
+attempt to resolve these outstanding rejected claims, but these efforts were not
+sufficient to ensure rejected claims were resolved.
+MCPA Did Not Monitor the State Bank Account Used by the DBA
+MCPA did not ensure that the DBA appropriately accounted for funds in the State
+bank account. MCPA received a $10 million advance to maintain a State bank
+account that was used by the DBA to pay dental claims. Our review disclosed
+that MCPA did not pursue significant unaccounted for funds noted on the monthly
+fund compositions. For example, the composition for the month ending June 30,
+2015 identified unaccounted funds totaling approximately $570,000. After
+further refinement of its process, by August 2016 MCPA was ultimately able to
+account for all funds in the State bank account. Furthermore, bank reconciliations
+34
+
+--- Page 37 ---
+prepared by the DBA were not signed or dated and did not include sufficient
+support to enable MCPA to verify the results.
+MCPA Did Not Ensure the DBA Safeguarded Sensitive Data
+MCPA did not require or obtain comprehensive, independent reviews of the
+DBA’s system to ensure sensitive data, including personally identifiable
+information such as social security numbers, were properly safeguarded. The
+American Institute of Certified Public Accountants has issued guidance for
+various reviews of service organizations such as a SOC 2 Type 2 review. A SOC
+2 Type 2 review includes a review of controls placed in operation and tests of
+operating effectiveness for the period under review, and would provide MCPA
+with assurance as to the propriety of the design and operation of critical controls,
+including those related to the safeguarding of sensitive data. Because of the
+nature and sensitivity of the information contained in the DBA system, we believe
+a SOC 2 Type 2 report would be appropriate.
+In response to our request, the DBA provided MCPA with a SOC 1, Type 2 report
+that covered the period from October 1, 2013 through September 30, 2014.
+However, this review was not current when provided to us and was limited in
+scope in that it did not provide assurance that the DBA’s system security,
+availability, processing integrity, data confidentiality, and privacy was adequate.
+Recommendation 12
+We recommend that MCPA
+a. conduct, or contract with an independent contractor to conduct, a
+comprehensive annual audit of the DBA to ensure compliance with all
+contractual requirements;
+b. ensure that the DBA properly and timely resolves rejected federal fund
+reimbursement claims;
+c. ensure the DBA conducts the required provider audits and that the audits
+are sufficient;
+d. ensure that all bank reconciliations obtained from the DBA are dated,
+signed, and properly supported; and
+e. require the DBA to obtain a SOC 2 Type 2 review to ensure critical data
+are properly safeguarded.
+Information Systems Security and Control
+Background
+MCPA uses a contractor for the operation and maintenance of the Electronic Data
+Interchange Transaction Processing System (EDITPS), an Internet web-based
+35
+
+--- Page 38 ---
+application that allows health care providers to electronically submit Medicaid
+claims. After claims data have been received and subjected to limited edits, the
+EDITPS application delivers the claims data to the MMIS II application, which
+operates on the Annapolis Data Center (ADC), to complete claims processing and
+payment. MCPA manages MMIS II’s application program development and
+maintenance and uses the ADC’s security software to help secure MMIS II. In
+addition, MCPA uses the MDH firewalls to protect critical EDITPS servers.
+Finding 13
+Sensitive PII within the EDITPS database was stored and transmitted
+without adequate safeguards, and MCPA did not remediate 20 of the 21
+reported security vulnerabilities identified in a consultant’s report on
+EDITPS.
+Analysis
+Sensitive PII was stored and transmitted within the EDITPS database without
+adequate safeguards, and MCPA did not remediate 20 of the 21 reported
+information technology security vulnerabilities identified in a consultant’s report
+on EDITPS.
+ Sensitive PII within the EDITPS database was stored and transmitted in clear
+text. Specifically, we determined that, as of September 14, 2015, the EDITPS
+production database contained 1,725,324 unique social security numbers in
+clear text along with full names, addresses, and dates of birth. In addition, we
+determined that this sensitive PII was not protected by other substantial
+mitigating controls. We further noted that the process used to transfer data
+containing PII, from the EDITPS server to the ADC mainframe did not use
+encryption.
+This sensitive PII is commonly associated with identity theft. Accordingly,
+appropriate information system security controls need to exist to ensure that
+this information is safeguarded and not improperly disclosed. The State of
+Maryland Information Security Policy requires that agencies protect
+confidential data using encryption technologies and/or other substantial
+mitigating controls and must encrypt all media containing confidential
+information during transmission.
+ Our review disclosed that six months after a consultant issued its information
+technology security report on EDITPS, only 1 of 21 reported vulnerabilities
+identified by the consultant had been remediated; and, that as of August 2016
+remediation efforts had ceased. Vulnerabilities included in this report
+included use of outdated and unsupported database software. The consultant’s
+36
+
+--- Page 39 ---
+report stated that the outdated/unsupported software may contain
+vulnerabilities that could be exploited by adversaries to compromise EDITPS
+confidentiality, integrity, and availability.
+Federal regulations require a biennial information technology security review
+of EDITPS. In early fiscal year 2016, a consultant conducted an EDITPS risk
+assessment to fulfill this security review requirement. A final report was
+issued to MCPA on November 23, 2015 which detailed a total of 21 findings.
+Recommendation 13
+We recommend that MCPA
+a. perform an inventory of its systems to identify all sensitive PII, determine
+if it is necessary to retain this PII, and delete all unnecessary PII;
+b. determine if all necessary PII is properly protected by encryption or
+other substantial mitigating controls;
+c. use approved encryption methods to encrypt all sensitive PII not
+otherwise properly protected;
+d. use approved encryption methods to encrypt all sensitive PII in transit;
+and
+e. ensure that all significant vulnerabilities cited in the aforementioned
+consultant’s report are addressed and remediated in a timely manner and
+that these efforts are documented and retained for future reference.
+Interagency Agreement
+Background
+MCPA has a longstanding interagency agreement with the University of
+Maryland Baltimore County (UMBC) to assist with the HealthChoice program.
+Under HealthChoice, MCPA makes specified monthly capitation payments to
+private MCOs that provide services to Medicaid recipients, who each must enroll
+in one of eight MCOs. The MCOs contract with health care professionals and
+other entities (such as hospitals) to provide the necessary medical services to
+enrollees. The MCO capitation payments vary by enrollee and are adjusted
+annually based on the individual MCO expenditures and the enrollee’s risk
+adjusted category (RAC). For example, for the last quarter of fiscal year 2015,
+the rates paid for the Family and Children RAC in Baltimore City ranged from
+$79 (RAC 1) to $1,639 (RAC 7), depending on demographics and level of
+services. According to MCPA records, payments to MCOs totaled approximately
+$4.5 billion during fiscal year 2015.
+37
+
+--- Page 40 ---
+Under the interagency agreement, UMBC assists MCPA with the MCO capitation
+rate-setting process and RAC placements, and provides system support. In July
+2014, MCPA approved a five-year agreement with UMBC valued at
+approximately $33 million.
+Finding 14
+MCPA did not obtain documentation to support labor and overhead charges
+invoiced by UMBC, representing 72 percent of amounts billed during fiscal
+year 2015 under the agreement.
+Analysis
+MCPA did not obtain and review documentation to support labor and overhead
+charges invoiced by UMBC under its interagency agreement for assisting in the
+MCO rate setting process for the HealthChoice program. Consequently, MCPA
+did not verify the propriety of the invoiced amounts prior to payment. Labor and
+overhead costs (which included salaries, wages, and fringe benefits), accounted
+for approximately 72 percent of the total UMBC charges for fiscal year 2015 of
+$6.2 million.
+Our review of UMBC’s invoices
+under the agreement disclosed
+that the invoices only reflected a
+summary total for each major
+billing category (such as labor
+and overhead, and indirect costs)
+and a certification as to the
+accuracy of those totals. MCPA
+did not request or obtain
+documentation from UMBC to
+support these summary charges.
+Such documentation should
+include the specific UMBC employees who worked on MCPA projects, their
+hourly rates, and the number of hours worked.
+Although UMBC provided several reports with additional information, such as
+the names of employees assigned to MCPA projects and a project budget listing
+employee salaries, these reports were not in any way correlated to the amounts
+invoiced. Furthermore, since indirect costs were billed at 28 percent of modified
+direct costs (which included labor and overhead), the propriety of the indirect
+costs could also not be determined.
+38
+
+--- Page 41 ---
+Recommendation 14
+We recommend that MCPA obtain adequate documentation of labor and
+overhead charges invoiced (such as timesheets and salary information) and
+use that documentation to verify the accuracy of charges billed by UMBC
+prior to payment.
+Finding 15
+MCPA did not authorize UMBC to transmit sensitive Medicaid protected
+health information to a third-party vendor for data storage and did not
+ensure UMBC executed a data-sharing agreement with this vendor as
+required by federal regulation.
+Analysis
+MCPA did not authorize UMBC to transmit sensitive Medicaid enrollee medical
+data to an information management vendor for off-site data back-up and storage.
+MCPA also did not ensure that UMBC executed a data-sharing agreement with
+this vendor, as required by federal regulation. MCPA shares sensitive health
+records with UMBC, including encounter and diagnostic records for all Medicaid
+enrollees, which UMBC needs in its responsibility to establish MCO capitation
+rates. These medical data are considered protected health information (PHI) as
+defined by the federal Health Insurance Portability and Accountability Act
+(HIPAA).
+According to its interagency agreement, UMBC may share these data with third
+parties only after MCPA provides written approval, and a data sharing agreement,
+known as a Business Associate Agreement (BAA), is executed between UMBC
+and the third party. The BAA is required by the interagency agreement to outline
+permitted uses of PHI, prohibits the use of information for any other purpose not
+stated in the agreement, and requires the entity to use appropriate safeguards to
+prevent any unintended disclosure of the information.
+After our June 2016 request, MCPA provided documentation of a BAA between
+UMBC and its information management vendor, signed by the two parties on
+May 20, 2016, which was almost two years after the effective date of the current
+agreement (July 1, 2014) between MCPA and UMBC. MCPA did not document
+its approval of the BAA.
+Under HIPAA, MCPA could be liable for the acts of its agents, including business
+associates. In addition to the risks of improper disclosure of PHI, MCPA could be
+subject to penalties ranging from $100 to $50,000 for each incident (depending on
+the incident category), with a calendar year maximum of $1.5 million for a single
+39
+
+--- Page 42 ---
+incident category. The Maryland Confidentiality of Medical Records Act also
+provides for civil and criminal penalties for violations, including prohibited
+disclosure of protected information.
+Recommendation 15
+We recommend that MCPA
+a. document its written approval for all data sharing arrangements between
+UMBC and applicable third parties, including the aforementioned BAA;
+and
+b. ensure UMBC has entered into BAAs with all applicable third parties, as
+required by federal regulations.
+40
+
+--- Page 43 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Medical Care Programs
+Administration (MCPA) of the Maryland Department of Health for the period
+beginning July 1, 2012 and ending June 30, 2015. The audit was conducted in
+accordance with generally accepted government auditing standards. Those
+standards require that we plan and perform the audit to obtain sufficient,
+appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MCPA’s financial
+transactions, records and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included federal fund reimbursements, managed care
+organizations, administrative service organizations, enrollee eligibility, long-term
+care, hospital services, post-payment verifications, cash receipts, and information
+systems. We also determined the status of the findings contained in our preceding
+audit report. Finally, because of a Department reorganization, we determined the
+status of four of the findings included in our audit report of the former Mental
+Hygiene Administration (MHA), dated September 18, 2014.
+Our audit did not include certain support services provided to MCPA by the
+Department. These support services (such as payroll, purchasing, contract
+procurement, maintenance of accounting records, and related fiscal functions) are
+included within the scope of our audit of the Department’s Office of the Secretary
+and Other Units. In addition, our audit did not include an evaluation of internal
+controls over compliance with federal laws and regulations for federal financial
+assistance programs and an assessment of MCPA’s compliance with those laws
+and regulations because the State of Maryland engages an independent accounting
+firm to annually audit such programs administered by State agencies, including
+MCPA.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+MCPA’s operations, and tests of transactions. Generally, transactions were
+selected for testing based on auditor judgment, which primarily considers risk.
+41
+
+--- Page 44 ---
+Unless otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. In addition, we extracted data from the Medicaid
+Management Information System (MMIS II) for the purpose of selecting test
+items and assessing user access. We performed various tests of the relevant data
+and determined that the data were sufficiently reliable for the purposes the data
+were used during the audit. Finally, we performed other auditing procedures that
+we considered necessary to achieve our objectives. The reliability of data used in
+this report for background or informational purposes was not assessed.
+MCPA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records,
+effectiveness and efficiency of operations including safeguarding of assets, and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect MCPA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to MCPA that did not warrant inclusion in this
+report.
+42
+
+--- Page 45 ---
+As a result of our audit, we determined that MCPA’s accountability and
+compliance level was unsatisfactory. The primary factors contributing to the
+unsatisfactory rating were the significance of our audit findings, and the number
+of repeat findings from preceding reports. Our rating conclusion has been made
+solely pursuant to State law and rating guidelines approved by the Joint Audit
+Committee. The rating process is not a practice prescribed by professional
+auditing standards.
+The Department’s response, on behalf of MCPA, to our findings and
+recommendations is included as an appendix to this report. As prescribed in the
+State Government Article, Section 2-1224 of the Annotated Code of Maryland,
+we will advise the Department regarding the results of our review of its response.
+43
+
+--- Page 47 ---
+Recipient Enrollment
+Finding 1
+MCPA did not assign a temporary enrollment status to 11,153 new enrollees,
+resulting in delays in placing individuals in MCOs. Such delays, which were
+allegedly caused by a computer compatibility issue, resulted in certain
+associated claims being paid on a fee-for-service basis that would have been
+paid by an MCO.
+Recommendation 1
+We recommend that MCPA
+a. take the appropriate action to ensure the compatibility of the MMIS II
+and HBX software; and
+b. implement monitoring procedures to ensure all eligible HealthChoice
+enrollees are placed in an MCO within 28 days. For example, MCPA
+should run periodic queries of recipients not enrolled in MCOs after 28
+days, investigate the status of each recipient, and place each in an MCO if
+warranted.
+Administration’s Response
+a. The Administration concurs. A monthly report is generated that identifies
+MCO eligible recipients who have not been assigned to an MCO. The system
+was modified in 2014 and 2015 to correct the defects.
+b. The Administration concurs. Beginning in July 2016, monthly reports are run
+of HealthChoice eligible recipients not enrolled in an MCO after 28 days.
+These reports are reviewed by our Enrollment Unit to ensure those recipients
+who are not given an enrollment span are legitimate. All reports are retained
+for auditing purposes.
+Finding 2
+The current memoranda of understanding (MOUs) with DHS and MHBE
+are not sufficient to ensure that eligibility determinations are timely and
+proper.
+Recommendation 2
+We recommend that MCPA modify the MOUs with DHS and MHBE to
+require
+a. quality control procedures be established,
+b. the aforementioned longstanding deficiencies be addressed (repeat),
+c. specific steps be taken when fraud or abuse is identified, and
+d. corrective action be taken when deficiencies with eligibility
+determinations are identified.
+1
+
+--- Page 48 ---
+Administration’s Response
+a. The Administration concurs. The Administration will work with MHBE to
+modify the MOU by July 2018.
+b. The Administration concurs. The Administration will work with DHS and
+MHBE to modify MOUs by July 2018.
+c. The Administration concurs. The Administration will work to modify MOUs
+by July 2018.
+d. The Administration concurs. The Administration will work with MHBE to
+modify the MOU by July 2018.
+Finding 3
+MCPA did not take timely follow-up action on questionable enrollee
+eligibility information it identified and did not ensure that critical eligibility
+information was properly recorded on MMIS II. Our test disclosed certain
+overpayments.
+Recommendation 3
+We recommend that MCPA
+a. conduct timely and documented follow-up of potentially ineligible
+recipients and recipients with missing social security numbers, and
+ensure their prompt resolution;
+b. generate monthly reports of discrepancies between MMIS II and HBX
+regarding whether recipients were active or deceased;
+c. promptly resolve all discrepancies identified in recipient data recorded in
+MMIS II and CARES or HBX and document follow-up actions taken;
+d. establish procedures to ensure changes to critical recipient eligibility
+information recorded in MMIS II are subject to supervisory review and
+approval, at least on a test basis;
+e. develop a mechanism to monitor the timeliness of eligibility changes made
+by DHS staff;
+f. review the aforementioned improper claim payments, and take
+appropriate corrective action, including recovery of overpayments;
+g. document its efforts to monitor the timeliness of eligibility
+redeterminations and the related follow-up efforts; and
+h. monitor individuals enrolled in age-specific coverage groups and
+document the related corrective actions.
+2
+
+--- Page 49 ---
+Administration’s Response
+a. The Administration concurs in part. The federal government prohibits state
+Medicaid agencies from efforts that “deny or delay services for an otherwise
+eligible individual pending issuance of verification of the individual’s social
+security number (SSN) by the Social Security Administration (SSA) or if the
+individual meets one of the exceptions” 42 CFR 435.910 (f). Three
+exceptions are listed at sec. 435.910(h): A Medicaid beneficiary is not
+required to have a SSN if, like many recipients of Emergency Medical
+Services who are undocumented aliens, the individual is not eligible to receive
+one. Second, an individual who does not have a SSN and can only obtain one
+for a “valid non-work reason” can get a Medicaid number without a SSN.
+There is also an exception for individuals with “well-established religious
+objections.” Due to these federal exceptions to the SSN requirement, and
+relaxation of the former federal requirements that each recipient have a SSN,
+we can expect to see large numbers of recipients who lack an SSN for a matter
+of months or during the 90-day reasonable opportunity period, and the small
+number who are never required to have an SSN as a condition for receiving
+Medicaid. The MHC continues to implement system enhancements to ensure
+that recipients’ cases close if they do not provide a SSN within the required
+timeline. System enhancements will continue through 2018.
+b. The Administration concurs. The Administration implemented reports in June
+2016 to confirm and update cases where applicants are found to be deceased.
+c. The Administration concurs. Standard Operating Procedures (SOP) will be
+established and implemented by March 2018.
+d. The Administration concurs. SOPs will be established and implemented by
+March 2018.
+e. The Administration concurs. The Administration will develop an audit
+process to monitor and ensure that coverage group changes by DHS are
+processed timely. The Administration will implement this process by March
+2018.
+f. The Administration concurs. MCPA has investigated the cases mentioned and
+has recovered any appropriate overpayments.
+g. The Administration concurs.
+h. The Administration concurs.
+Finding 4
+MCPA did not take timely action to ensure recipients age 65 or older had
+applied for Medicare as required by State regulations.
+Recommendation 4
+We recommend that MCPA
+a. establish a process to ensure recipients age 65 or older have applied for
+Medicare on a timely basis, as required by State regulations (repeat); and
+3
+
+--- Page 50 ---
+b. ensure that DHS terminates the eligibility of recipients who do not reply
+to Medicare outreach efforts, as appropriate.
+Administration’s Response
+a. The Administration concurs. DHS is now handling this process and has
+developed a Corrective Action Plan/Standard Operating Procedure to handle
+outreach timely. The Administration continues to make significant progress
+in assuring that applicants apply for Medicare benefits; yet, there are
+circumstances where recipients 65 years and older do not meet Medicare
+eligibility requirements, so it is appropriate for Medicaid to pay these claims
+in full.
+The state regulation is that the customer age 65 or older must apply for and
+accept any benefits that they may be eligible for; however, there are factors
+that contribute to the fact that not all Medicaid recipients over 65 will meet
+Medicare eligibility.
+An applicant must present proof from the Social Security Administration the
+applicant has filed. Although the applicant is required to apply for Medicare
+Part A, there is no requirement to purchase this benefit; persons may not be
+eligible for free Part A coverage. Nevertheless, applicants 65 or older must
+apply for, but may reject this coverage if payment cannot be made.
+b. The Administration concurs. Auditing functions will be implemented by
+March 2018.
+Finding 5
+MCPA did not ensure that all reports of potential third-party health
+insurance for Medicaid recipients were received and properly investigated in
+a timely manner.
+Recommendation 5
+We recommend that MCPA
+a. require MHBE to submit reports of possible third-party insurance on a
+monthly basis;
+b. establish initial accountability over all insurance referrals received and
+ensure all are properly investigated in a timely manner, in accordance
+with federal regulations (repeat); and
+c. conduct documented monthly supervisory reviews of investigative efforts
+to ensure appropriate conclusions were reached (repeat) and the
+insurance status was properly recorded in MMIS II.
+4
+
+--- Page 51 ---
+Administration’s Response
+a. The Administration concurs. Since this audit, the Administration has
+established a process with MHBE where MHBE is sending TPL referrals to
+the Division of Recoveries and Financial Services (DRAFS) in the same
+format as Child Support Services Agency (CSEA).
+b. The Administration concurs. By working with referral sources to reduce and
+eliminate duplicate referrals, the Administration will be better able to timely
+verify insurance information. MCPA is including TPL identification and
+verification in the RFP currently being drafted for the new TPL contract to
+begin July 1, 2018.
+c. The Administration concurs. Supervisors are now performing monthly audits
+to ensure that the work being done is timely and correct, and properly
+recorded in MMIS II. MCPA is including TPL identification and verification
+in the RFP currently being drafted for the new TPL contract to begin
+July 1, 2018. Documentation related to the monthly audits will be retained for
+future audits.
+Finding 6
+MCPA did not always assess damages against its MCO enrollment broker
+which continuously failed to meet minimum enrollment levels required by
+the contract.
+Recommendation 6
+We recommend that MCPA assess damages when the enrollment broker
+does not achieve the contractually required level of performance (repeat).
+Administration’s Response
+The Administration concurs. MCPA did assess damages of approximately
+$900,000 for VER shortfalls for the period of July 1, 2008-December 31, 2012 in
+response to a prior OLA audit finding.
+Beginning in January 2013, despite diligent efforts by the Broker to achieve the
+contractually required level of performance, MCPA did assess applicable invoice
+withholds as per the certified penalty tables for the period of January 2013-April
+2013. For the period of July 2013-September 2013, MCPA granted the Broker a
+service level waiver (SLA) including the VER requirement due to the unexpected
+exit of a managed care plan from the HealthChoice program. The Broker was
+tasked with enrolling all affected recipients from the exiting plan to another
+managed care organization within 90 days.
+Beginning in December 2013, MCPA transitioned approximately 90,000
+recipients from the Primary Adult Care (PAC) program to the HealthChoice
+program as part of the Medicaid expansion through the Affordable Care Act
+(ACA). Again, the broker was tasked with transitioning recipients from PAC
+5
+
+--- Page 52 ---
+Managed Care Organizations (MCOs) to HealthChoice MCOs. Subsequently,
+MCPA granted the Broker a SLA waiver for the month of December 2013.
+With the advent of the ACA on January 1, 2014 and under the terms of Contract
+Modification #7 for the period for December 30, 2013 to December 31, 2014, the
+Broker was granted an SLA waiver related to the emergency circumstances for
+the work added by Modification #7. The waiver remained in effect until April
+2014. Modification #7 in the amount of $2,000,000 was sought because of
+technical problems plaguing the Health Information Exchange (HIX), an
+eligibility and enrollment system operated by the Maryland Health Benefit
+Exchange, a large number of newly eligible Medicaid recipients who were
+anticipated to receive assistance with their MCO choice through the HIX instead
+required assistance through the Broker to select their MCO. As a result, the
+modification provided increased services on a time and materials basis to those
+recipients who were unable to select an MCO using the HIX. The Broker was
+required to provide the following additional services:
+1. Enrollment packet mailings.
+2. Customer Service Representative services related to new enrollments who
+were unable to select an MCO in the HIX.
+3. Customer Service Representative services related to the new PAC annual right
+to choose period from January 2014 through April 2014, and
+4. Ancillary call center services including phone line capacity and other call
+center infrastructure.
+At the end of the waiver period in April 2014 and throughout Fiscal year 2015,
+the Broker continued to receive a substantial increase in the number of newly
+eligible Medicaid recipients to enroll. More specifically, there were several
+months during this period in which the Broker received a 60% increase in the
+number of recipients they were required to enroll which far exceeded enrollment
+assumptions. Subsequently, the VER was only achieved for one month in FY
+2015 as referenced in the auditor’s findings. SLA waivers were granted for the
+remaining months.
+It should also be noted on April 1, 2014, the Maryland Health Benefit Exchange
+approved a resolution to adopt the Connecticut Exchange Platform referred to as
+“HBX” as the eligibility and enrollment system for the MHC to replace the failing
+HIX. The HBX was adopted “as is” and only minor changes to notices, system
+interfaces and branding were possible to meet the goal of implementation by
+November 15, 2014. Once again, the functionality to enable Medicaid eligible
+individuals to shop, select and enroll into an MCO did not exist and as such,
+MCPA required the Broker to assist an increased number of recipients with
+selecting an MCO.
+Fiscal years 2014 and 2015 proved to be very challenging for enrolling eligible
+recipients into the Medicaid Program. More specifically, the ACA created an
+unanticipated number of eligible recipients, eligibility system transitions,
+6
+
+--- Page 53 ---
+technical glitches and system inefficiencies in the HIX and HBX led to the
+development of system workarounds and forced the Broker to make modifications
+to automated processes, two MCOs joined the HealthChoice program and one
+MCO exited the Program. These initiatives significantly impacted the Broker’s
+ability to meet the contract requirements and metrics. The Broker has continued
+to work diligently with MCPA and has made good faith efforts to meet the needs
+of the Program. As such, MCPA is hereby waiving its right to seek damages for
+failure to meet service level metrics including the VER requirement under RFP
+Section 2.2.D.2 and 2.2.D.5 for the referenced months. It should be noted, formal
+correspondence granting the referenced monthly SLA waivers were issued to the
+Broker and copies were shared with the Auditor’s during the review period and
+are available upon request. Please also note, the VER requirement no longer
+remains in the current contract since consumers are able to enroll online.
+Program Oversight - Hospitals and Long-Term Care (LTC)
+Providers
+Finding 7
+MCPA has not conducted required audits of hospital claims processed since
+calendar year 2007.
+Recommendation 7
+We recommend that MCPA
+a. ensure that hospital claims are audited in a timely manner (repeat), and
+b. notify hospitals to retain claims data until audited.
+Administration’s Response
+a. The Administration concurs. Between 2012 and 2017 the Administration
+made numerous efforts to obtain a qualified Recovery Audit Contractor
+(RAC) that meets federal requirements, including four separate requests for
+proposal (RFPs). Three of the RFPs returned no qualified applicants. An
+RFP issued in 2014 led to the award of a contract to a RAC in July 2015;
+unfortunately, the vendor failed to meet the contractual requirements. After
+numerous unsuccessful efforts to get the vendor into compliance, the contract
+was terminated in November 2016. Federal regulations set the requirements
+for the selection and reimbursement of RACs. The reimbursement is
+contingency based and the contingency percentage is limited by federal
+regulations. In addition, Maryland does not permit the results of audit
+samples to be extrapolated to the entire audit universe. Thus, vendors do not
+view RAC contracts as financially profitable. To address this issue, the
+Administration has again made contact with CMS, with the goal of obtaining
+relief from the federal contingency-fee RAC ceilings. Pending the outcome of
+these discussions, the Administration may develop an alternative approach to
+7
+
+--- Page 54 ---
+obtaining the required audits. Expected completion date for establishing a
+plan for timely audits, is October 2017.
+b. The Administration concurs. Such notification will be made to the hospitals
+no later than September 2017.
+Finding 8
+MCPA did not adequately monitor the vendors responsible for conducting
+credit balance audits and utilization reviews of long-term care facilities
+and/or hospitals.
+Recommendation 8
+We recommend that MCPA ensure that
+a. credit balance audits are performed for all facilities, are sufficiently
+comprehensive, and cover claims processed in all fiscal years, and;
+b. the utilization control agent conducts proper continued stay and medical
+eligibility reviews of LTC facilities, at least on a test basis.
+Administration’s Response
+a. The Administration concurs. The Administration will monitor the contractor
+auditing the facilities in accordance with the terms of the RFP/contract to
+ensure the audits are sufficiently comprehensive and cover claims processed
+in all fiscal years. Documentation pertaining to the specific audits will be
+maintained.
+b. The Administration concurs. The MCPA monitors the UCA based on
+monthly reports, conducts biweekly random audits of decisions, and meets
+with the UCA bi-weekly to discuss any discrepancies. In addition, a clinical
+team made up of doctors and nurses from both the Administration and the
+UCA meet monthly to review all resident cases to identify length of stay and
+discharge expectations.
+For LTC nursing facilities, the Administration audits monthly invoices for
+timeliness of reviews, accuracy of clinical decisions, duplication of reviews,
+and ensures appropriate letters and follow-up was conducted. All reviews not
+meeting these requirements are denied.
+8
+
+--- Page 55 ---
+Program Oversight – Behavioral Health
+Finding 9
+MCPA did not monitor the ASO to ensure that deficiencies noted during
+provider audits conducted by the ASO were corrected and related
+overpayments were recovered.
+Recommendation 9
+We recommend the MCPA maintain a record of deficiencies and
+overpayments noted during the provider audits and ensure corrective action
+is taken and documented, including recovery of any overpayments.
+Administration’s Response
+The Administration concurs. Upon receipt of responsibility for monitoring the
+contract, the MCPA Behavioral Health Unit in collaboration with the Behavioral
+Health Administration implemented a tracking document which is shared among
+responsible parties and managed by MCPA to closely monitor
+recoveries. Documentation will continue to be maintained to support the audits
+performed by the ASO.
+Finding 10
+MCPA did not ensure the ASO resolved rejected behavioral health claims
+timely, resulting in the payment of potentially improper claims and the loss
+of federal fund reimbursements.
+Recommendation 10
+We recommend that MCPA
+a. enhance processes to ensure that all rejected claims are investigated,
+resolved, and resubmitted in a timely manner;
+b. ensure that the ASO recovers any amounts due from providers for
+rejected claims; and
+c. determine the feasibility of recovering any lost funds from the ASO.
+Administration’s Response
+a. The Administration concurs. The Administration receives weekly reports on
+claims that were processed through the ASO, but rejected by MMIS. These
+reports have been refined to include communication workflow and to identify
+9
+
+--- Page 56 ---
+specific tasks to reconcile the claims. The Administration and the ASO work
+collaboratively to ensure that all denied claims are investigated, resolved, and
+resubmitted in a timely manner. This includes maintaining a tracking log and
+email confirmation of completions of resubmissions.
+b. The Administration concurs. If there was loss of match that was the
+responsibility of the provider, MCPA would recoup funds from the provider.
+c. The Administration concurs. MCPA recovered the Federal match from the
+ASO as per the contract, any loss resulting from ASO error is the
+responsibility of the ASO.
+Finding 11
+Access controls over the ASO’s servers hosting the portal and the web-server
+software were inadequate, intrusion detection prevention system coverage
+did not exist for encrypted traffic, and sensitive PII was stored without
+adequate safeguards.
+Recommendation 11
+We recommend that MCPA
+a. request that the ASO identify and restrict all unnecessary default user
+account file modification access within the web server for the ASO portal;
+b. request that the ASO implement necessary IDPS coverage for encrypted
+traffic entering its network (repeat); and
+c. require that the ASO encrypt all files and database objects containing
+Maryland members’ PII, and mask or truncate social security numbers
+applicable to Maryland members from online users that do not need to
+see the full number (repeat).
+Administration’s Response
+a. The Administration concurs. On May 9, 2017, the ASO implemented controls
+to identify and restrict all unnecessary default user account file modification
+access within the Web server.
+b. The Administration concurs. The ASO is completing a Proof of Concept to
+enable cloud based web application firewall capabilities. Upon completion of
+the Proof of Concept the ASO will make a determination to implement either
+a cloud based web application firewall solution or an on premise Web
+Application Solution to inspect all encrypted traffic.
+c. The Administration concurs. The ASO migrated all data to a new data center
+on May 9, 2017 where all information is stored on encrypted SAN that
+provides full encryption of all Maryland Data. All data from internal disks
+were moved to the encrypted SAN in this new Data Center.
+10
+
+--- Page 57 ---
+Program Oversight – Dental Benefits
+Finding 12
+MCPA did not ensure that the former DBA was properly administering the
+dental benefits program and was conducting required provider audits, and
+did not ensure bank accounts were reconciled, and sensitive data were
+secured.
+Recommendation 12
+We recommend that MCPA
+a. conduct, or contract with an independent contractor to conduct, a
+comprehensive annual audit of the DBA to ensure compliance with all
+contractual requirements;
+b. ensure that the DBA properly and timely resolves rejected federal fund
+reimbursement claims;
+c. ensure the DBA conducts the required provider audits and that the audits
+are sufficient;
+d. ensure that all bank reconciliations obtained from the DBA are dated,
+signed, and properly supported; and
+e. require the DBA to obtain a SOC 2 Type 2 review to ensure critical data
+are properly safeguarded.
+Administration’s Response
+a. The Administration concurs. We have decided to implement a more proactive
+solution. Instead of an annual after-the-fact audit, the Administration has
+employed a dedicated staff person to validate that the Dental Vendor meets all
+contractual obligations throughout the year; this allows the contract monitor to
+ensure compliance on an ongoing basis.
+b. The Administration concurs. The Administration meets weekly with the new
+Dental Vendor to ensure timely resolution of denied claims. On a weekly
+basis, the vendor sends a file of rejected claims that they have resolved, as
+well as lists of claims that they cannot resolve. The Administration is in the
+process of developing a more formalized response to the rejected claims from
+the DBA.
+c. The Administration concurs. The Administration, in collaboration with the
+Dental Vendor, has developed an audit plan and the Contract Monitor reviews
+the plan weekly. During the weekly call with the Dental Vendor all ongoing
+audits are discussed and updates noted. The Administration has collaborated
+with the Vendor to develop a tracker of all audits. The tracker is reviewed on a
+weekly basis.
+d. The Administration concurs. The Administration has informed the Dental
+Vendor that all bank reconciliations must be signed, dated and have any
+11
+
+--- Page 58 ---
+supporting documentation attached that would be needed to confirm the
+reconciliation amounts.
+e. The Administration concurs. As required by the contract, a SOC 2 Type 2
+audit is completed annually. The DBA submitted the CY2016 SOC 2 audit to
+the Administration in May 2017.
+Information Systems Security and Control
+Finding 13
+Sensitive PII within the EDITPS database was stored and transmitted
+without adequate safeguards, and MCPA did not remediate 20 of the 21
+reported security vulnerabilities identified in a consultant’s report on
+EDITPS.
+Recommendation 13
+We recommend that MCPA
+a. perform an inventory of its systems to identify all sensitive PII, determine
+if it is necessary to retain this PII, and delete all unnecessary PII;
+b. determine if all necessary PII is properly protected by encryption or
+other substantial mitigating controls;
+c. use approved encryption methods to encrypt all sensitive PII not
+otherwise properly protected;
+d. use approved encryption methods to encrypt all sensitive PII in transit;
+and
+e. ensure that all significant vulnerabilities cited in the aforementioned
+consultant’s report are addressed and remediated in a timely manner and
+that these efforts are documented and retained for future reference.
+Administration’s Response
+a. The Administration concurs. An inventory of the system, database, and other
+data stores has been conducted to identify all sensitive PII/PHI information.
+The Administration has determined that it is necessary to retain the PII/PHI
+data to perform the functions EDITPS is tasked to execute such as, but not
+limited to, eligibility verification, claims and encounter processing, eligibility,
+Department of Corrections matching, etc. The inventory was performed
+during initial design and development of EDTIPS to support the HIPAA
+mandate and HIPAA Privacy Rule.
+b. The Administration concurs with the recommendation but not the finding. The
+EDITPS PII/PHI data is protected by substantial mitigating controls such as
+but not limited to secured physical access to the server room, locked and
+secured computer rack, data is stored on a SAN RAID-5 configuration – only
+the SQL Server is configured to access that LUN where this data is stored.
+12
+
+--- Page 59 ---
+compromised. Also, if EDIPTS was compromised, the encrypted data would
+not prevent access to an adversary.
+Auditor’s Comment: The items mentioned by MCPA as providing data
+protection do not constitute substantial mitigating controls. During
+previous discussions with MCPA personnel on this issue, we identified
+various scenarios for which encryption would be beneficial. As a result,
+MCPA had agreed to research the use of encryption for PII.
+c. The Administration concurs. Use of approved encryption methods are in
+place for PII/PHI data that is at rest for backups at off-site secure storage. All
+other PII/PHI data is properly protected.
+d. The Administration does not concur. Use of approved encryption methods to
+encrypt all sensitive PII/PHI is in place for files sent or received outside of the
+MDH Network. As to PII/PHI data transmitted between EDITPS and
+Annapolis Data Center (ADC) mainframe, the data is transmitted over the
+private State network. Using software that employs file access controls and
+proprietary data compression (the data is unreadable) for file transfer to ADC.
+The network is a private closed network therefore traffic does not travel
+through the public internet. Consideration should be made at a State level to
+upgrade to an encrypted network rather than by each agency.
+Auditor’s Comment: While the State network is a private network, it
+should not be assumed that the State agency and various contractors who
+operate the network are trusted entities. During previous discussions with
+MCPA personnel on this issue, MCPA agreed to encrypt data in transit.
+e. The Administration concurs. All significant vulnerabilities cited in the
+aforementioned consultant’s report have been addressed and some of the
+remediation efforts are still being worked. The recommendations and
+remediations are documented and retained for future reference.
+Interagency Agreement
+Finding 14
+MCPA did not obtain documentation to support labor and overhead charges
+invoiced by UMBC, representing 72 percent of amounts billed during fiscal
+year 2015 under the agreement.
+Recommendation 14
+We recommend that MCPA obtain adequate documentation of labor and
+overhead charges invoiced (such as timesheets and salary information) and
+13
+
+--- Page 60 ---
+use that documentation to verify the accuracy of charges billed by UMBC
+prior to payment.
+Administration’s Response
+The Administration concurs. Beginning in FY18, the Administration will
+periodically request and review payroll expenditure reports to verify information
+such as the specific UMBC employees who worked on MCPA’s projects, their
+hourly rates, and the number of hours worked. Grant Summary Reports and
+Grant Detail Reports are also now submitted monthly by UMBC in addition to
+semi-annual reports.
+Finding 15
+MCPA did not authorize UMBC to transmit sensitive Medicaid protected
+health information to a third-party vendor for data storage and did not
+ensure UMBC executed a data-sharing agreement with this vendor as
+required by federal regulation.
+Recommendation 15
+We recommend that MCPA
+a. document its written approval for all data sharing arrangements between
+UMBC and applicable third parties, including the aforementioned BAA;
+and
+b. ensure UMBC has entered into BAAs with all applicable third parties, as
+required by federal regulations.
+Administration’s Response
+a. The Administration concurs. The Administration is currently in compliance
+with this recommendation. Contract provisions requiring written approval are
+new to the current agreement, which became effective in FY15.
+Additionally, the Administration formally amended its agreement with UMBC
+effective October 14, 2016, to include a provision which directly addresses
+UMBC’s ability to archive data at UMBC’s designated off-site backup storage
+facility using its information management vendor.
+b. The Administration concurs. The Administration has established a
+comprehensive tracking system for all data exchanges between UMBC and
+third parties. To support this endeavor, the Administration has developed a
+new data use agreement template. All data use agreements are executed
+jointly by the Administration, UMBC, and the third party. The execution of
+multi-party agreements simplifies the tracking process and ensures all
+necessary protections are in place.
+14
+
+--- Page 61 ---
+A T
+UDIT EAM
+Heather A. Warriner, CPA
+Audit Manager
+Richard L. Carter, CISA
+Stephen P. Jersey, CPA, CISA
+Information Systems Audit Managers
+James M. Fowler
+Senior Auditor
+Michael K. Bliss, CISA
+Edwin L. Paul, CPA, CISA
+Information Systems Senior Auditors
+Thomas L. Allen, III
+Jaime A. DeWitt, CPA
+Christopher J. Fowler
+Mindy R. Garrett
+Staff Auditors
+Steven D. Bryant
+Robert H. Dean
+Information Systems Staff Auditors

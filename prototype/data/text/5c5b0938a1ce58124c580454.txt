@@ -1,0 +1,837 @@
+Title: Department of Labor, Licensing and Regulation - Division of Unemployment Insurance
+Date: 02/05/2019
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=5c5b0938a1ce58124c580454
+Extracted: 2025-06-18T22:24:21.906359
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Department of Labor, Licensing and Regulation
+Division of Unemployment Insurance
+February 2019
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+For further information concerning this report contact:
+Department of Legislative Services
+Office of Legislative Audits
+301 West Preston Street, Room 1202
+Baltimore, Maryland 21201
+Phone: 410-946-5900 · 301-970-5900
+Toll Free in Maryland: 1-877-486-9964
+Maryland Relay: 711
+TTY: 410-946-5401 · 301-970-5401
+E-mail: OLAWebmaster@ola.state.md.us
+Website: www.ola.state.md.us
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse
+involving State of Maryland government resources. Reports of fraud, waste, or abuse
+may be communicated anonymously by a toll-free call to 1-877-FRAUD-11, by mail to the
+Fraud Hotline, c/o Office of Legislative Audits, or through the Office’s website.
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color,
+creed, marital status, national origin, race, religion, gender, gender identity, sexual orientation,
+or disability in the admission or access to its programs, services, or activities. The Department’s
+Information Officer has been designated to coordinate compliance with the nondiscrimination
+requirements contained in Section 35.107 of the Department of Justice Regulations. Requests for
+assistance should be directed to the Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 5 ---
+Table of Contents
+Background Information 5
+Agency Responsibilities 5
+Status of Findings From Preceding Audit Report 5
+Findings and Recommendations 6
+Benefit Payments
+Finding 1 – The Division of Unemployment Insurance (DUI) did not 7
+always use available data to identify claimants who may not be
+eligible for benefits, and did not always conduct timely investigations
+into the results of certain data matches.
+Finding 2 – Supervisory reviews of claims and adjustments to claimant 10
+wages on the Maryland Automated Benefits System (MABS) were
+not always conducted or documented.
+* Finding 3 – DUI lacked a formal comprehensive policy for timely 12
+collection of delinquent accounts resulting from benefit
+overpayments and referrals to the State’s Central Collection Unit.
+Finding 4 – DUI did not establish sufficient controls over reissued debit 13
+cards nor ensure the proper disposition of funds remaining on expired
+cards.
+Employer Contributions
+Finding 5 – DUI did not adequately follow up or track the results of 15
+computer matches it performed to identify employers that had not
+registered with DUI and may not be remitting required
+unemployment insurance taxes.
+System Access
+Finding 6 – DUI did not have a comprehensive or effective procedure to 16
+periodically review user access to the Maryland Unemployment
+Insurance Tax System and MABS, which resulted in unnecessary or
+incompatible access being granted to certain individuals.
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Audit Scope, Objectives, and Methodology 18
+Agency Response Appendix
+4
+
+--- Page 7 ---
+Background Information
+Agency Responsibilities
+The Division of Unemployment Insurance (DUI) is a separate budgetary unit
+within the Department of Labor, Licensing and Regulation that administers the
+State’s Unemployment Insurance Program. DUI’s primary responsibilities
+include collecting unemployment insurance tax contributions from employers,
+processing applications for unemployment benefits, and disbursing the related
+unemployment benefits. DUI also maintains the Maryland Unemployment
+Insurance Trust Fund (UITF), which is used to account for the aforementioned
+collections and disbursements. According to the State’s records, DUI’s fiscal
+year 2017 operating expenditures (excluding unemployment benefit
+disbursements) totaled approximately $71.4 million.
+Maryland employers are required to remit Maryland unemployment insurance
+taxes based on a percentage of wages paid to their employees which, during
+calendar year 2017, ranged from 0.3 percent to 7.5 percent of the first $8,500 of
+employee wages. Certain entities, such as nonprofit organizations and
+governmental entities, are exempt from these taxes and, instead, reimburse the
+State for any unemployment benefits paid on their behalf. As of November 2017,
+an unemployed individual could receive a maximum of $430 per week for 26
+weeks in one benefit year.
+According to DUI records, during fiscal year 2017, DUI collected approximately
+$608 million from employers ($540 million in unemployment insurance taxes and
+$68 million in reimbursements). During this period, DUI paid approximately
+$550 million in unemployment insurance benefits to more than 120,000
+claimants. As of June 30, 2017, the UITF had a balance of approximately $1.3
+billion.
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the five findings contained
+in our preceding audit report dated February 27, 2015. We determined that DUI
+satisfactorily addressed four of these findings. The remaining finding is repeated
+in this report.
+5
+
+--- Page 8 ---
+Findings and Recommendations
+Benefit Payments
+Background
+Individuals may file for unemployment insurance benefits online or over the
+phone with any of the four Division of Unemployment Insurance (DUI) claims
+centers located throughout the State. Individuals may not apply for benefits in
+person. Each individual completes an application, which includes his or her
+previous employer, wages earned, and the reason for the individual’s current
+unemployment. After verifying that the application information is complete and
+the applicant is eligible for benefits, DUI sets up an account for each approved
+claimant into which weekly benefits are transferred. DUI also issues each
+approved claimant a Maryland Unemployment Insurance (UI) Benefits Debit
+Card, which is used by the claimant to access benefits.
+Benefit amounts are based on the individual applicant’s earnings and other factors
+(such as, the number of dependents). State law requires applicants to be able,
+available, and actively looking for work in order to be eligible for unemployment
+benefits. During our review, as a further condition of eligibility, DUI required
+applicants to register in the Maryland Workforce Exchange system within 10 days
+of filing a claim. The Maryland Workforce Exchange system provides services to
+help individuals gain employment. In addition, claimants are required to certify
+each week that they are able, available, and actively looking for work and disclose
+any information that could affect their eligibility (such as, attending school). Any
+claimant who obtains work must notify DUI of the number of days worked and
+the related compensation.
+DUI’s business information systems include the Maryland Unemployment
+Insurance Tax System (UITAX), which is used to process employers’
+unemployment insurance taxes owed and paid, and the Maryland Automated
+Benefits System (MABS), which tracks payments to and amounts due from
+unemployment insurance claimants. MABS also tracks wage information
+reported by Maryland employers.
+6
+
+--- Page 9 ---
+Finding 1
+DUI did not always use available data to identify claimants who may not be
+eligible for benefits, and did not always conduct timely investigations into the
+results of certain data matches.
+Analysis
+DUI did not always use available data to identify claimants who may not be
+eligible for benefits. DUI performs various procedures both prior to and after the
+claims approval process as a means to ensure that only eligible applicants are
+approved and that the benefit amounts are proper. Any overpayments identified
+are required to be repaid to DUI, and any incidents of suspected fraud are
+investigated.
+Claimants Filing from Foreign Internet Protocol (IP) Addresses
+DUI did not sufficiently use available IP address data to identify claimants filing
+an initial claim or weekly certification from foreign IP addresses1 and flag them
+for follow-up, nor did DUI have a proactive process to prevent these potentially
+improper claims from being approved. DUI collects data on the IP addresses
+from which claims and weekly certifications are filed but primarily only used
+these data to augment existing investigations of possibly ineligible claimants who
+had been identified through other means. Individuals who file from a foreign IP
+address may be residing outside of the country and may be unavailable for work,
+which could affect their eligibility for benefits. Based on DUI records for the
+period from June 2015 through June 2017, there were 503 claimants who filed
+five or more consecutive weekly certifications from a foreign IP address.
+We tested 20 of these claimants who filed between 24 and 52 weekly
+certifications. Our test found 19 who received approximately $182,000 in
+benefits for whom we identified additional information that led us to conclude
+that these claimants may have been ineligible for benefits.
+For example, on the initial claim, one individual reported termination from
+employment as a result of working outside of the country and being unable to
+return to the United States as requested by the employer. This initial claim and
+subsequent weekly certifications originated from an IP address in India, but the
+claims were never flagged for follow-up. In addition, in this instance, the
+claimant should not have been approved for benefits based on the aforementioned
+situation noted on the initial claim. Another claimant tested was not flagged for
+filing from a foreign IP address but was subsequently investigated by DUI after
+submitting another claim in a subsequent year from a foreign phone number.
+1 For the purposes of our audit, a foreign IP address is defined as one originating from other than
+the 50 states, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, and Canada.
+7
+
+--- Page 10 ---
+While DUI investigated and took action to assess an overpayment regarding the
+individual phone claim, it did not review the prior claims submitted by this
+claimant via a foreign IP address.
+DUI’s policies and procedures stipulate that DUI should cease providing benefits
+to claimants discovered to have an out-of-country status and that these claimants
+should be flagged for review and potential recovery. In addition, a 2015 report
+published by the United States Department of Labor – Office of the Inspector
+General (OIG) on combatting fraud in the Unemployment Insurance Program,
+recommended that state workforce agencies (such as DUI) develop a plan to
+identify and consider blocking claims that originate from outside the country, as a
+means to minimize fraud. Since claimants must be able and available to work to
+be eligible for benefits, we believe DUI should develop a plan to identify and
+review claimants filing from foreign IP addresses as recommended by the federal
+OIG to help prevent improper claims.
+Claimants Attending School Full-Time
+DUI did not obtain data to identify claimants who may not be eligible for benefits
+because they were full-time students and were not available for work. During the
+initial application process, applicants were asked if they were attending school
+(defined by State law as an institution of higher education). For applicants who
+were attending school full-time but who also stated they were available for work,
+DUI would inquire about the applicants’ course schedules and clarify the
+requirement to be able and available for work. However, DUI did not verify the
+information provided by these applicants nor flag them for follow-up in
+subsequent semesters. DUI also did not have any procedure to identify claimants
+who failed to disclose their school enrollment on their applications or who may
+have enrolled in school after submitting their applications. For example, DUI did
+not obtain enrollment data from State universities to match against claimant data.
+We matched DUI claim payment records for the period from August 2015
+through May 2017 with student enrollment records obtained from three State
+universities for the corresponding academic semesters (Fall 2015, Spring 2016,
+Fall 2016, and Spring 2017). This match identified 179 claimants who were
+enrolled as full-time students, all of whom stated they were able and available to
+work, and who received unemployment benefits totaling approximately $506,000.
+Of the 179 claimants, 87 claimants reported to DUI that they were attending
+school. Our test of 20 of these 87 claimants, who received approximately
+$109,000 in benefits, confirmed that none were flagged by DUI for periodic
+follow-up to determine if their status as a full-time student affected their ability
+and availability for full-time work. The remaining 92 claimants identified in our
+match responded on one or more weekly DUI certifications that they were not
+8
+
+--- Page 11 ---
+attending school and, under current DUI procedures, would also not have been
+identified for follow-up.
+Since the DUI certifications require the claimants to attest to their education and
+employment situations under penalty of perjury (with false statements potentially
+resulting in a loss of benefits) and each claimant’s availability to work could
+change, we believe that DUI should routinely verify eligibility to work at least
+once a semester and should have a procedure to identify claimants who failed to
+disclose their school enrollment or who may have enrolled after submitting their
+applications.
+Claimants not Enrolled in the Maryland Workforce Exchange System
+DUI did not use available data to ensure that claimants had enrolled in the
+Maryland Workforce Exchange System. State law requires claimants to enroll in
+the system unless they are receiving benefits to supplement a temporary lay-off or
+a decreased work schedule. We compared unemployment claims records for
+benefits paid for non-exempt claimants between July 1, 2014 and March 31, 2017
+with records of individuals enrolled in the Workforce Exchange system. We
+identified 7,724 claimants who had not enrolled in the Workforce Exchange
+system and had received benefit payments totaling $44.5 million.
+Although the Secretary has the authority to formally waive this requirement on a
+case-by-case basis, DUI could not always provide documentation of the waivers.
+Using statistical sampling, we selected and reviewed 52 of the 8,122 claims paid
+for the aforementioned claimants. Our test disclosed that there was no
+documentation of formal waivers for 43 of the 52 claims tested to justify why the
+claimants had not enrolled. Based on our statistical sampling, we are 95 percent
+confident that at least 74.09 percent of the total population of 8,122 claims (6,017)
+did not have documentation to support a waiver and, therefore, were not in
+compliance with State law, which could result in the delay or denial of UI
+benefits.
+Claimants With Reported Wages
+DUI did not timely investigate the results of quarterly data matches it performed
+of individuals receiving unemployment benefits, as reflected in MABS, with
+individuals with reported wage income. We tested 20 individuals who were
+identified from the matches performed for four quarters in calendar year 2015 as
+receiving unemployment benefits as well as wage income. Our test disclosed that,
+as of August 2017, DUI did not complete its review of the match results for these
+20 individuals for periods ranging from 112 to 358 days after the end of the
+quarter. The failure to conduct timely reviews is significant because claimants
+continue to receive benefits until the match result investigations are completed.
+9
+
+--- Page 12 ---
+For example, these 20 individuals received approximately $144,000 in improper
+unemployment benefits, of which approximately $19,000 could have been
+avoided or reduced if the quarterly match results were investigated within 60 days
+following the end of the quarter.
+Recommendation 1
+We recommend that DUI maximize the use of available data to identify
+ineligible claimants and conduct timely investigations of the results of data
+matches. Specifically, we recommend that DUI
+a. implement a proactive process, such as flagging foreign IP addresses for
+immediate investigation, to minimize the risk of improper benefits being
+paid to claimants who may be unavailable to work;
+b. follow up on all applicants who state they are attending school to
+determine whether it impacts eligibility for unemployment benefits;
+c. establish procedures, such as periodic matches to State higher education
+institution enrollment records, to identify and follow up on claimants who
+are attending school full-time but fail to disclose it;
+d. verify that all claimants comply with applicable enrollment requirements,
+including the Maryland Workforce Exchange system;
+e. conduct timely investigations of the results of quarterly wage matches;
+and
+f. take timely and appropriate corrective action for any ineligible claimants
+or benefits identified, including those noted in this finding.
+Finding 2
+Supervisory reviews of claims and adjustments to claimant wages on MABS
+were not always conducted or documented.
+Analysis
+Supervisory reviews of claims and adjustments to claimant earned wages were not
+always conducted or documented.
+ Required supervisory reviews of claims processed at the two claims centers
+we reviewed were not always performed. These two claims centers processed
+claims totaling $63.7 million and $126.4 million during fiscal year 2017. Our
+test of 10 weeks of claims activity processed at each of the centers during the
+period between August 2014 and April 2017 disclosed that one center did not
+complete 840 of the required 1,540 claims reviews and the other center did not
+complete 658 of the required 770 claims reviews. According to DUI policy,
+supervisors at the claims centers are required to review seven claims
+processed by each claims taker on a weekly basis. These reviews are intended
+10
+
+--- Page 13 ---
+to verify that critical information is complete and properly recorded. DUI did
+not monitor the claims centers to ensure the reviews were performed.
+ Claimant wages manually recorded in MABS by DUI employees were not
+subject to independent supervisory review. According to DUI records,
+approximately 4,000 wage entries were manually recorded during the audit
+period by DUI employees who were also responsible for initiating claim
+payments as part of their job duties. DUI did not generate output reports or
+perform supervisory reviews of the manually entered wages. MABS uses
+employee wages to calculate the benefits paid to claimants. Consequently,
+improper or erroneous claimant wage data could result in improper claim
+payments.
+For most Maryland employers, wages are automatically recorded in MABS
+when reported on a quarterly basis. For employers who are not required to
+report wage information (such as out-of-State employers and the federal
+government), DUI employees are responsible for manually entering wage data
+for relevant claimants.
+Our test of manually recorded wage entries made between May 2015 and
+September 2016 for 10 claimants who received $57,487 in benefits disclosed
+that DUI could not locate documentation, such as a claimant’s employer’s
+wage report, to support the propriety of 5 entries. All 10 entries were
+processed by employees who could also process claims, including 4 that were
+made by the same employee who initiated a claim for the same claimant. We
+did sight documentation to support the propriety of these 4 claims.
+Recommendation 2
+We recommend that DUI
+a. establish a formal monitoring process to ensure supervisors at the local
+claims centers perform the required claims reviews;
+b. generate output reports of manual wage entries and ensure these entries
+are independently reviewed and approved, at least on a test basis;
+c. retain appropriate documentation of manual wage entries; and
+d. ensure all supervisory reviews are documented and retained for future
+reference.
+11
+
+--- Page 14 ---
+Finding 3
+DUI lacked a formal comprehensive policy for timely collection of delinquent
+accounts resulting from benefit overpayments and referrals to the State’s
+Central Collection Unit (CCU).
+Analysis
+DUI lacked a formal comprehensive policy for timely collection of delinquent
+accounts related to benefit overpayments and referrals to CCU. State law allows
+DUI to recover benefits paid to claimants who are subsequently found to be
+ineligible, and to assess penalties and interest on overpayments made to claimants
+who either made a false statement or failed to disclose a material fact in order to
+obtain the benefits. According to DUI records as of June 30, 2017, the benefit
+overpayment account balance totaled approximately $156.6 million, including
+$139.7 million that was more than one year old. During calendar year 2017, DUI
+referred approximately 25,000 accounts totaling $43.7 million to CCU.
+DUI is exempt from standard State collection regulations and, consequently,
+established its own collection policy. The policy was revised several times
+throughout the audit period to reflect different criteria for accounts referred to
+CCU and for accounts transferred to DUI’s litigation unit. However, updates to
+the policy were not consolidated into the policy document; rather, changes to
+provisions within the policy were denoted in various informal emails that
+included handwritten modifications. As a result, policy provisions were not
+clearly established and communicated for enforcement. Additionally, certain
+modifications lacked clarity in setting forth which accounts should be referred to
+CCU and did not clearly provide specific timelines for the collection process or
+for referrals to CCU.
+We tested 15 delinquent benefit overpayment accounts totaling approximately
+$182,000 dating back to 2010. Our test disclosed that 5 accounts were
+appropriately retained for DUI collection efforts. With respect to the remaining
+accounts, 4 accounts had been referred to CCU for periods ranging from three to
+five years after the accounts had qualified to be referred, and the remaining 6
+accounts, dating back to 2010, should have been but had not been referred to
+CCU. While DUI’s collection policy changed multiple times during the audit
+period, these 6 accounts qualified to be referred to CCU under the most
+conservative of these policies, which was one year after the date of overpayment
+for accounts with no relevant activity, such as pending legal issues.
+In our preceding audit report, we commented that DUI did not always refer
+certain delinquent overpayment accounts to CCU. We also disclosed that $118.6
+million of the $170.3 million December 31, 2013 benefit overpayment accounts
+12
+
+--- Page 15 ---
+receivable balance was more than a year old. Finally, we cited the referral of
+approximately 3,600 accounts totaling $8.8 million to CCU during calendar year
+2013. As previously mentioned, during calendar year 2017, DUI referred to CCU
+approximately 25,000 accounts totaling $43.7 million. Accordingly, while
+significant progress has been noted in CCU referral activity, continued
+improvement is warranted.
+Recommendation 3
+We recommend that DUI
+a. update and formalize internal collection policies to reflect current best
+practices, including the expected timeframes for various collection
+methods; and
+b. refer applicable delinquent benefit overpayment accounts to CCU in
+accordance with its updated policy (repeat).
+Finding 4
+DUI did not establish sufficient controls over reissued debit cards nor ensure
+the proper disposition of funds remaining on expired cards.
+Analysis
+DUI did not establish sufficient controls over reissued UI Benefits Debit Cards
+and did not ensure the proper disposition of funds remaining on expired debit
+cards. DUI issues a UI Benefits Debit Card for each approved claimant as a
+means to access the claimant’s unemployment insurance benefits. A new debit
+card can be issued if the original card is lost or damaged.
+ There was no independent review of reissued debit cards to ensure they were
+proper. This is significant because the employee responsible for reissuing lost
+or damaged debit cards had other incompatible duties that allowed the
+employee to reissue debit cards on inactive accounts and potentially
+misappropriate funds. Specifically, in addition to reissuing debit cards, this
+employee’s duties included the responsibility for updating claimant mailing
+addresses in the card sponsoring bank’s records. This employee was also
+responsible for identifying debit cards that had not been activated within six
+months of issuance and for following up with these claimants. As a result, the
+employee was in a position to identify an inactive card, reissue a new card to a
+different address (such as a PO box), and misappropriate the funds.
+According to records we obtained from the sponsoring bank, approximately
+90,000 debit cards were reissued during the period between April 2014 and
+June 2017, of which 349 were reissued to an address not included in DUI’s
+benefit system.
+13
+
+--- Page 16 ---
+We asked DUI management for documentation to support 15 of the debit
+cards that were mailed to addresses that appeared questionable (such as a PO
+box or multiple cards to the same address). DUI could not provide us with
+documentation or adequate explanations for these card issuances, including 10
+debit cards that were issued to an address that had never been listed in DUI’s
+automated system for the claimant. Benefits paid to these 15 claimants totaled
+approximately $95,300 during the period from February 2014 through June
+2017.
+ DUI did not have procedures to ensure the proper disposition of funds
+remaining on expired debit cards. According to an October 2017 report
+obtained by DUI from the sponsoring bank, there were approximately 18,000
+activated and not-activated cards that had expired with approximately
+$450,000 remaining in the related accounts at the sponsoring bank. The most
+recent transactions on the activated accounts occurred during the period from
+November 2013 through June 2014. Since debit cards expire three years after
+they are issued, these funds should have been either returned to DUI or
+reported to the State Comptroller as unclaimed property during the period
+between November 2016 and June 2017.
+We were advised that DUI did not transfer these unclaimed funds in
+accordance with the Maryland Unemployment Benefits Debit Card Deposit
+Agreement because claimants sometimes safeguard funds on the inactivated
+debit cards for emergency situations. However, according to the Agreement
+between DUI and the sponsoring bank, if a debit card is not activated within
+one year of issuance, the account is to be closed and the funds returned to
+DUI. If the debit card is activated, any remaining unclaimed funds should be
+reported and remitted as unclaimed property to Maryland after a period of
+three years in accordance with State laws for unclaimed property.
+Recommendation 4
+We recommend that DUI establish procedures to ensure
+a. all reissued debit cards are subject to independent review and approval,
+including the 349 cards noted above; and
+b. unspent funds remaining on debit cards are returned to DUI or reported
+to the State Comptroller as unclaimed property in accordance with the
+Agreement.
+14
+
+--- Page 17 ---
+Employer Contributions
+Finding 5
+DUI did not adequately follow up or track the results of computer matches it
+performed to identify employers that had not registered with DUI and may
+not be remitting required unemployment insurance taxes.
+Analysis
+DUI did not adequately follow up or maintain records of the results of computer
+matches it used to identify employers that did not register with DUI and may not
+be remitting unemployment insurance tax payments. On a weekly basis, DUI
+matched information about newly hired employees with employers’
+unemployment insurance tax information in its UITAX system to identify entities
+with employees that have not filed as employers with DUI. The Maryland
+Department of Human Services maintains a new hire registry based on
+information reported by employers, which was used for this match.
+We reviewed DUI’s follow-up of the approximately 1,200 match results that were
+identified in 10 weeks during fiscal years 2016 and 2017. Our review disclosed
+that DUI’s records indicate that only one letter was sent to each entity requesting
+an explanation for the failure to register as a Maryland employer. DUI did not
+maintain copies of the letters that were issued, any responses received, and actions
+taken, and did not follow up with entities that did not reply to the letters.
+Consequently, DUI had no record of the overall effectiveness or results of its
+follow-up efforts.
+DUI management advised us that following up on these matches is an inefficient
+process because the matches sometimes include entities that are exempt from
+unemployment taxes and new entities for which information had not yet been
+entered into its UITAX system. Nevertheless, DUI maintains additional data that
+it could use to help focus its follow-up efforts. DUI could exclude the exempt
+employers from the matches performed and could use data elements in the match
+results to further focus formal follow-up on employers with higher risk of
+significant unpaid taxes (such as employers with a large number of new hires).
+Recommendation 5
+We recommend that DUI improve the effectiveness of its match procedures
+used to identify employers who failed to register and remit unemployment
+taxes. Specifically, we recommend that DUI
+a. reevaluate its match criteria,
+b. maintain copies of letters sent to entities identified in these computer
+matches and the related entity responses, and
+15
+
+--- Page 18 ---
+c. perform documented follow-up of entities which fail to respond to the
+letters.
+System Access
+Finding 6
+DUI did not have a comprehensive or effective procedure to periodically
+review user access to UITAX and MABS which resulted in unnecessary or
+incompatible access being granted to certain individuals.
+Analysis
+DUI’s procedure to periodically review user access capabilities on UITAX and
+MABS was not comprehensive or effective. Specifically, while supervisors were
+contacted annually to determine if any changes were needed to the access of
+employees under their supervision, those supervisors were not required to
+positively confirm that individual employee access was appropriate. In addition,
+no analysis was performed to ensure that employees had not been granted access
+capabilities that were incompatible with their assigned job duties. We identified
+certain individuals who were granted unnecessary update access or could perform
+incompatible functions.
+UITAX is used to process and track employer unemployment insurance taxes
+owed and paid, and MABS is used to track employee wages reported by
+employers and unemployment insurance benefit payments. As of August 2017,
+there were 79 user accounts with update access to the UITAX system and 303
+user accounts with update access to the MABS system.
+ Our review of the 79 UITAX user accounts disclosed that 9 accounts had
+unnecessary access. For example, 2 accounts were assigned to employees
+who no longer worked at DUI. Three other user accounts, which provided
+capabilities to record and modify accounts receivable records, were assigned
+to one employee who did not have any job duties related to accounts
+receivable.
+ Our test of 30 MABS user accounts disclosed that all 30 accounts had
+unnecessary or incompatible access. For example, 12 claims center
+adjudicators who required access to clear discrepancies with an initial claim,
+also had the capability within the system to initiate the claim. Since claims
+initiated are only subject to review on a test basis, these employees could
+initiate fraudulent claims without detection.
+16
+
+--- Page 19 ---
+DUI advised us that certain employees are provided access to multiple
+incompatible functions so they can serve in a backup capacity when work volume
+is high. However, given the number of user accounts in existence, we do not
+believe this to be sufficient justification to allow these employees to have access
+to incompatible duties on a routine basis.
+According to the State of Maryland Information Security Policy, agencies shall
+continuously (at least annually) monitor the security controls within their
+information systems to ensure that the controls are operating as intended. The
+Policy further provides that agencies must support the “least possible privilege”
+security strategy in which users are only granted the access needed to perform
+assigned tasks.
+Recommendation 6
+We recommend that DUI
+a. establish an effective procedure to perform periodic reviews of UITAX
+and MABS user access capabilities; and
+b. discontinue providing routine incompatible or unnecessary user access
+capabilities, and remove the incompatible or unnecessary access noted
+above.
+17
+
+--- Page 20 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Department of Labor,
+Licensing and Regulation (DLLR) – Division of Unemployment Insurance (DUI)
+for the period beginning February 24, 2014 and ending April 16, 2017. The audit
+was conducted in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and
+conclusions based on our audit objectives. We believe that the evidence obtained
+provides a reasonable basis for our findings and conclusions based on our audit
+objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine DUI’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included employer unemployment contributions,
+reimbursements from government agencies and certain non-profit organizations,
+benefit claims and payments, and recovery of benefit overpayments. We also
+determined the status of the findings contained in our preceding audit report.
+Our audit did not include certain support services provided to DUI by the DLLR –
+Office of the Secretary. These support services (such as payroll, purchasing,
+maintenance of accounting records, and related fiscal functions) are included
+within the scope of our audits of the Office of the Secretary. In addition, our audit
+did not include an evaluation of internal controls over compliance with federal
+laws and regulations for federal financial assistance programs and an assessment
+of DUI’s compliance with those laws and regulations because the State of
+Maryland engages an independent accounting firm to annually audit such
+programs administered by State agencies, including DUI.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, observations of
+DUI’s operations, and tests of transactions. Generally, transactions were selected
+for testing based on auditor judgment, which primarily considers risk. Unless
+otherwise specifically indicated, neither statistical nor non-statistical audit
+sampling was used to select the transactions tested. Therefore, the results of the
+tests cannot be used to project those results to the entire population from which
+the test items were selected.
+18
+
+--- Page 21 ---
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from this source
+were sufficiently reliable for the purposes the data were used during this audit.
+We also extracted data from the Maryland Automated Benefits System and the
+Maryland Unemployment Insurance Tax System for the purpose of testing benefit
+claims and payments. We performed various tests of the relevant data and
+determined that the data were sufficiently reliable for the purposes the data were
+used during the audit. Finally, we performed other auditing procedures that we
+considered necessary to achieve our audit objectives. The reliability of data used
+in this report for background or informational purposes was not assessed.
+DUI’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect DUI’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes findings regarding significant instances of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to DUI that did not warrant inclusion in this report.
+The response from DLLR, on behalf of DUI, to our findings and recommendations
+is included as an appendix to this report. As prescribed in the State Government
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise the
+Office of the Secretary regarding the results of our review of its response.
+19
+
+--- Page 23 ---
+Benefit Payments
+Finding 1
+DUI did not always use available data to identify claimants who may not
+be eligible for benefits, and did not always conduct timely investigations
+into the results of certain data matches.
+Response – DUI agrees with the findings:
+a. DLLR accepts this recommendation. DUI will implement a
+proactive process and will block all foreign IP addresses from the
+website. These claimants will still be provided due process and
+will be able to file for benefits via the telephone. DLLR will
+implement this change by July 2019.
+b. DLLR accepts this recommendation. DUI will institute a system
+whereby a DUI staffer follows up with the claimant to investigate
+and verify that the claimant is attending school to determine
+whether it impacts the claimant’s eligibility for unemployment
+benefits. DLLR will implement this verification system by July
+2019.
+c. DLLR accepts this recommendation. DUI will develop MOUs in
+conjunction with higher education institutions throughout the
+state to perform cross-matches and verify that claimants are
+truthfully providing complete information regarding their status
+as students. This will also help in analyzing a claimant’s eligibility
+for unemployment benefits by ascertaining the number of credit
+hours the claimant is enrolled in for that semester. DLLR will
+begin developing the required MOUs with the universities by
+March 2019.
+d. DLLR accepts this recommendation. DUI currently registers
+claimants with the Maryland Workforce Exchange (“MWE”)
+system via a data transfer of essential demographic information at
+the time the claimant files their initial claim. DUI will set up a
+periodic review of this data transfer to ensure the transfer is
+capturing all DUI claimants that register for the MWE.
+Additionally, DUI will institute a quarterly cross-match with the
+
+--- Page 24 ---
+Division of Workforce Development and Adult Learning, the
+Division within DLLR that oversees the MWE, to ensure that all
+claimants are meeting enrollment requirements. If a claimant is
+not registered, the claimant will be disqualified from receiving
+benefits. DLLR will implement this change by March 2019.
+e. DLLR accepts this recommendation. DUI has recently moved the
+cross-match report closer to the preceding quarter ending in an
+effort to minimize the potential for additional overpayments. DUI
+is currently making determinations on average within 40 days
+after a cross-match report hit is received following the close of the
+filing period for the respective quarter’s wages.
+f. DLLR accepts this recommendation and will take appropriate
+corrective action for any ineligible claimants or benefits identified.
+DUI will begin taking action to recover any overpayments by
+March 2019.
+
+--- Page 25 ---
+Benefit Payments
+Finding 2
+Supervisory reviews of claims and adjustments to claimant wages on
+MABS were not always conducted or documented.
+Response – DUI agrees with the findings:
+a. DLLR accepts this recommendation. DUI has implemented a
+statewide review process by using a uniform claims review
+checklist. All claims center supervisors are instructed to perform
+supervisory reviews, at least on a test basis, and to document the
+reviews. Documentation is to be maintained for at least six months
+to allow a sample of the reviews to be further reviewed by a claims
+administrator.
+b. DLLR accepts this recommendation. DUI will implement a system
+whereby supervisors independently review all manually entered
+wage data to confirm the validity of the entries. This system will
+be implemented immediately.
+c. DLLR accepts this recommendation. DUI will retain appropriate
+documentation of manual wage entries for at least three years.
+DUI will also explore the possibility of maintaining these reports
+electronically.
+d. DLLR accepts this recommendation and will retain all supervisory
+reviews for at least six months to allow for further review by
+management. DUI will also explore the possibility of maintaining
+these reports electronically.
+
+--- Page 26 ---
+Benefit Payments
+Finding 3
+DUI lacked a formal comprehensive policy for timely collection of
+delinquent accounts resulting from benefit overpayments and referrals
+to the State’s Central Collection Unit (CCU).
+Response – DUI agrees with the findings:
+a. DLLR accepts this recommendation. DUI will memorialize its
+internal collection policies in a written policy. DUI will review the
+written policy periodically and update the policy as appropriate.
+DUI will take action by March 2019.
+b. DLLR accepts this recommendation. DUI will work with CCU
+and develop appropriate referral criteria based on collection
+actions available under Maryland law and CCU’s capacity to
+effectively take additional referrals at this time. DUI will also
+update its MOU with CCU to reflect the new referral criteria.
+DUI will take action and begin developing a new MOU
+immediately.
+
+--- Page 27 ---
+Benefit Payments
+Finding 4
+DUI did not establish sufficient controls over reissued debit cards nor
+ensure the proper disposition of funds remaining on expired cards.
+Response – DUI agrees with the findings:
+a. DLLR accepts this recommendation. DUI has implemented the
+appropriate segregation of duties to perform and review this
+function. When DUI determines that a claimant has not received
+their debit card due to an incorrect address, a request is now made
+to the claim center to update Maryland’s Automated Benefit
+System (MABS) with the correct address. Once this is completed,
+an employee who has access to the debit card system has the card
+reissued. All address changes to debit cards are recorded within
+MABS. The debit card banking institution is to refer any card
+holders with address changes to DUI for updating. DUI will also
+review the accounts of the 349 debit cards that were reissued to
+identify additional policies it may institute to avoid any further
+complications.
+b. DLLR accepts this recommendation. In regards to the inactivated
+debit cards, DUI will ask the bank to provide the list of debit cards
+that have not been activated within one year of issuance, monthly.
+DUI will follow-up with the sponsoring bank if it does not receive
+this list within a timely fashion. DUI will be able to use this list to
+cancel the inactivated debit cards. The remaining balance will be
+escheated to the agency. DUI will implement this recommendation
+immediately.
+In regards to unspent funds on activated debit cards, DUI will
+work with the sponsoring bank to ensure that the card closes once
+the card expires. Once the activated card closes, the funds will
+revert back to the State Comptroller. DUI will implement this
+recommendation immediately.
+
+--- Page 28 ---
+Employer Contributions
+Finding 5
+DUI did not adequately follow up or track the results of computer
+matches it performed to identify employers that had not registered with
+DUI and may not be remitting required unemployment insurance taxes.
+Response – DUI agrees with the findings:
+a. DLLR accepts this recommendation. DUI will reevaluate its
+match criteria and explore pursuing an enhanced cross-match on
+identified high risk employers in our modernized system. Efforts
+to enhance the cross-match will require the use of IT resources
+that are currently focused on the modernization project. The
+enhanced cross-match will be implemented once the
+modernization project is completed. In the meantime, DUI will
+continue to perform a system automated cross-match between
+employers and the State New Hire registry.
+b. DLLR accepts this recommendation. DUI’s modernized system
+will be able to maintain copies of letters sent to entities identified
+in the enhanced cross-match. The modernized system will also be
+able to maintain copies of any related entity responses sent to DUI.
+This will be instituted once DUI’s modernized system is fully
+implemented later this year.
+c. DLLR accepts this recommendation. DUI’s modernized system
+will be able to automatically send out follow-up notices to entities
+which fail to respond to the initial letters. This system will be
+implemented once DUI’s modernization system is fully
+implemented later this year.
+
+--- Page 29 ---
+System Access
+Finding 6
+DUI did not have a comprehensive or effective procedure to periodically
+review user access to UITAX and MABS which resulted in unnecessary
+or incompatible access being granted to certain individuals.
+Response – DUI agrees with these findings:
+a. DLLR accepts this recommendation. DUI will begin reviewing
+UITAX and MABS user access capabilities every six months to
+determine if user access to confidential UI information needs to be
+restricted. DUI will update its account access policies to reflect
+this new biannual review. DUI will implement the new biannual
+review immediately.
+b. DLLR accepts this recommendation. DUI will review the
+individual’s position description needs, discuss access needs with
+the individual’s supervisor or supervisors, and take into
+consideration requirements and flexibility to ensure unnecessary
+users to do not have access to the UITAX or MABS systems.
+DLLR will implement this review immediately.
+
+--- Page 30 ---
+A T
+UDIT EAM
+Heather A. Warriner, CPA
+Audit Manager
+Richard L. Carter, CISA
+Information Systems Audit Manager
+David R. Fahnestock, CPA
+Senior Auditor
+Matthew D. Walbert, CISA
+Information Systems Senior Auditor
+Samuel Hur, CPA
+Larry M. Richardson
+Winnie J. Tenekam
+Richard Tran
+Staff Auditors
+Joseph R. Clayton
+Information Systems Staff Auditor
+Yanchao Ma
+Staff Auditor Intern
