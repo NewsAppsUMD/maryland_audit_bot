@@ -130,6 +130,30 @@ def extract_key_findings(section):
     
     return '\n'.join(key_lines)
 
+def format_citations(citation_references):
+    """Format citation references as HTML footnotes"""
+    if not citation_references:
+        return ""
+    
+    citations_html = "\n\n<h3>Sources</h3>\n<ol>\n"
+    
+    # Sort by citation number
+    sorted_citations = sorted(citation_references.items(), key=lambda x: int(x[0].strip('[]')))
+    
+    for citation_key, citation_info in sorted_citations:
+        title = citation_info['title']
+        date = citation_info['date']
+        report_type = citation_info['type']
+        url = citation_info['url']
+        
+        citations_html += f'<li><strong>{title}</strong> ({report_type}, {date})'
+        if url:
+            citations_html += f' - <a href="{url}" target="_blank">View Report</a>'
+        citations_html += '</li>\n'
+    
+    citations_html += "</ol>"
+    return citations_html
+
 def clean_html_response(text):
     """Remove HTML code block markers and thinking tokens from response text"""
     import re
@@ -187,6 +211,8 @@ Format your response using HTML tags for proper web display. Use <h3> for sectio
 
 Write for a general audience. Briefly explain any complex government or financial terms in plain language. Do not assume reader expertise in government operations or audit procedures.
 
+**IMPORTANT: When referencing specific findings, issues, or recommendations, include citation numbers (e.g., [1], [2]) that correspond to the source reports. Use these citations for any specific claims, dollar amounts, dates, or findings you mention.**
+
 Provide:
 
 <h3>Agency Overview</h3>
@@ -229,7 +255,7 @@ Audit Materials (arranged chronologically, most recent first):
 def analyze_agency(agency_name, preferred_model=None):
     """Analyze an agency using LLM with fallback models"""
     # Load text content for the agency
-    combined_text = load_text_files_for_agency(agency_name)
+    combined_text, citation_references = load_text_files_for_agency(agency_name)
     
     if not combined_text:
         return {
@@ -325,11 +351,15 @@ Make sure to clearly state this timeline in your "Audit Timeline" section.
             
             # Clean up HTML code block markers from the response
             content = clean_html_response(response.text())
+            
+            # Add formatted citations to the content
+            citations = format_citations(citation_references)
+            content_with_citations = content + citations
                 
             return {
                 'success': True,
                 'model_used': model_name,
-                'content': content,
+                'content': content_with_citations,
                 'text_length': len(combined_text),
                 'reports_analyzed': len(reports),
                 'date_range': date_range,  # Readable format for display

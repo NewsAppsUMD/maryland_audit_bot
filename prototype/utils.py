@@ -63,7 +63,9 @@ def get_reports_for_agency(agency_name):
     return agency_reports
 
 def load_text_files_for_agency(agency_name):
-    """Load and combine all text files for an agency, prioritizing recent reports"""
+    """Load and combine all text files for an agency, prioritizing recent reports
+    Returns: (combined_text, citation_references)
+    """
     reports = get_reports_for_agency(agency_name)
     
     # Sort reports by date (most recent first)
@@ -92,6 +94,7 @@ def load_text_files_for_agency(agency_name):
     sorted_reports = reports_with_dates + reports_without_dates
     
     combined_text = ""
+    citation_references = {}  # Store citation information
     text_dir = Path(__file__).parent / "data" / "text"
     
     for i, report in enumerate(sorted_reports):
@@ -106,13 +109,22 @@ def load_text_files_for_agency(agency_name):
                     if i < 3:  # Mark first 3 as highest priority
                         priority_indicator += " [RECENT/HIGH PRIORITY]"
                     
-                    combined_text += f"\n\n--- {priority_indicator} {report.get('title', 'Unknown')} ({format_date_readable(report.get('date', 'Unknown Date'))}) ---\n"
+                    # Create citation reference
+                    citation_key = f"[{i+1}]"
+                    citation_references[citation_key] = {
+                        'title': report.get('title', 'Unknown'),
+                        'date': format_date_readable(report.get('date', 'Unknown Date')),
+                        'url': report.get('url', ''),
+                        'type': report.get('type', 'Unknown Type')
+                    }
+                    
+                    combined_text += f"\n\n--- {priority_indicator} {report.get('title', 'Unknown')} ({format_date_readable(report.get('date', 'Unknown Date'))}) {citation_key} ---\n"
                     combined_text += content
             except FileNotFoundError:
                 print(f"Warning: Text file not found for {file_id}")
                 continue
     
-    return combined_text.strip()
+    return combined_text.strip(), citation_references
 
 def get_agency_stats():
     """Get basic statistics about each test agency"""
