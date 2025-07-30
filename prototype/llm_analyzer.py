@@ -15,6 +15,7 @@ def compress_text_for_model(text, model_name, max_chars=80000):
         'gemini-2.0': 120000,
         'groq': 30000,  # Most other Groq models have smaller context windows
         'llama': 30000,
+        'gpt-4o-mini': 80000
     }
     
     # Determine the appropriate limit for this model
