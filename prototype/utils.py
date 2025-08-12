@@ -13,11 +13,14 @@ def format_date_readable(date_str):
         return date_str
 
 def get_test_agencies():
-    """Return the 3 test agencies for the prototype"""
+    """Return the 6 test agencies for the prototype"""
     return [
         "Division of Occupational and Professional Licensing",
         "Office of the Public Defender", 
-        "Maryland Legal Services Corporation"
+        "Maryland Legal Services Corporation",
+        "Office of the Clerk of Circuit Court - Talbot County",
+        "Office of the Register of Wills - Talbot County",
+        "Talbot County Public Schools"
     ]
 
 def load_reports_data():
@@ -57,6 +60,32 @@ def get_reports_for_agency(agency_name):
             if any(term in title for term in [
                 "Division of Occupational and Professional Licensing",
                 "Occupational and Professional Licensing"
+            ]):
+                agency_reports.append(report)
+        
+        elif agency_name == "Office of the Clerk of Circuit Court - Talbot County":
+            # Match Talbot County Clerk variations
+            if any(term in title for term in [
+                "Clerk of Circuit Court",
+                "Talbot County Clerk",
+                "Circuit Court - Talbot"
+            ]) and "Talbot" in title:
+                agency_reports.append(report)
+                
+        elif agency_name == "Office of the Register of Wills - Talbot County":
+            # Match Talbot County Register of Wills variations
+            if any(term in title for term in [
+                "Register of Wills",
+                "Talbot County Register"
+            ]) and "Talbot" in title:
+                agency_reports.append(report)
+                
+        elif agency_name == "Talbot County Public Schools":
+            # Match Talbot County Schools variations
+            if any(term in title for term in [
+                "Talbot County Public Schools",
+                "Talbot County Schools",
+                "Public Schools - Talbot"
             ]):
                 agency_reports.append(report)
     
