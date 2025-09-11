@@ -13,7 +13,7 @@ app.secret_key = os.getenv('FLASK_SECRET_KEY', 'dev-secret-key-change-in-product
 def get_available_models():
     """Get list of available models with display information"""
     default_model = os.getenv('DEFAULT_MODEL', 'gemini-2.5-flash')
-    fallback_models_str = os.getenv('FALLBACK_MODELS', 'gpt-4o-mini,groq/meta-llama/llama-4-scout-17b-16e-instruct,groq/moonshotai/kimi-k2-instruct,groq/qwen/qwen3-32b')
+    fallback_models_str = os.getenv('FALLBACK_MODELS', 'gpt-5-mini,groq/meta-llama/llama-4-scout-17b-16e-instruct,groq/moonshotai/kimi-k2-instruct-0905,groq/qwen/qwen3-32b')
     fallback_models = [m.strip() for m in fallback_models_str.split(',')]
     
     all_models = [default_model] + fallback_models
