@@ -23,6 +23,8 @@ jobs:
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
 
       - name: Install dependencies
         # uv reads .python-version and installs the pinned Python automatically
@@ -46,5 +48,7 @@ jobs:
             echo "No new reports; nothing to commit."
           else
             git commit -m "Update audit reports (automated scrape)"
+            # Rebase in case anything was pushed to main during the run
+            git pull --rebase origin main
             git push
           fi
