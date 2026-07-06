@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 from playwright.sync_api import sync_playwright
 
-logging.basicConfig(level=logging.INFO, format="%(message)s")
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
 def load_existing_reports(filename="ola_reports.json"):
@@ -14,7 +14,7 @@ def load_existing_reports(filename="ola_reports.json"):
             with open(filename, "r") as f:
                 return json.load(f)
         except (json.JSONDecodeError, IOError):
-            logger.warning(f"Warning: Could not read {filename}, starting fresh")
+            logger.warning(f"Could not read {filename}, starting fresh")
             return []
     return []
 

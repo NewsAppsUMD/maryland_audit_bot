@@ -8,8 +8,9 @@ from llm_analyzer import analyze_agency
 load_dotenv()
 
 app = Flask(__name__)
-if os.getenv('FLASK_SECRET_KEY'):
-    app.secret_key = os.getenv('FLASK_SECRET_KEY')
+secret_key = os.getenv('FLASK_SECRET_KEY')
+if secret_key:
+    app.secret_key = secret_key
 else:
     app.secret_key = 'dev-secret-key-change-in-production'
     app.logger.warning(

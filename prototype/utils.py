@@ -118,7 +118,7 @@ def load_text_files_for_agency(agency_name):
         try:
             # Handle YYYY-MM-DD format
             return datetime.strptime(date_str, '%Y-%m-%d')
-        except:
+        except (ValueError, TypeError):
             # Fallback to string sorting if parsing fails
             return date_str
     

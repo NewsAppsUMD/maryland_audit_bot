@@ -1,16 +1,14 @@
 import json
 import logging
 import os
-from urllib.parse import urlparse
 import pdfplumber
 from pathlib import Path
 import time
 from datetime import datetime
 from playwright.sync_api import sync_playwright
-import tempfile
 import shutil
 
-logging.basicConfig(level=logging.INFO, format="%(message)s")
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
 REPORTS_SEARCH_URL = 'https://www.ola.state.md.us/Search/Report?keyword=&agencyId=&dateFrom=&dateTo='
@@ -30,10 +28,10 @@ def load_reports(filename="ola_reports.json"):
             with open(filename, "r") as f:
                 return json.load(f)
         except (json.JSONDecodeError, IOError):
-            logger.error(f"Error: Could not read {filename}")
+            logger.error(f"Could not read {filename}")
             return []
     else:
-        logger.error(f"Error: {filename} not found. Run the scraper first.")
+        logger.error(f"{filename} not found. Run the scraper first.")
         return []
 
 def create_directories():
