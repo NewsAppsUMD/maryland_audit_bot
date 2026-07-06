@@ -33,62 +33,67 @@ def load_reports_data():
         print(f"Error: {data_path} not found. Please copy ola_reports.json to the data directory.")
         return []
 
+# Title-matching rules for each agency, keyed by canonical agency name.
+# A report matches an agency if its title contains ANY of the "match_any"
+# substrings AND ALL of the "require_all" substrings (if present).
+AGENCY_TITLE_PATTERNS = {
+    "Maryland Legal Services Corporation": {
+        "match_any": [
+            "Maryland Legal Services Corporation",
+            "Legal Services Corporation",
+        ],
+    },
+    "Office of the Public Defender": {
+        "match_any": ["Public Defender"],
+    },
+    "Division of Occupational and Professional Licensing": {
+        "match_any": [
+            "Division of Occupational and Professional Licensing",
+            "Occupational and Professional Licensing",
+        ],
+    },
+    "Office of the Clerk of Circuit Court - Talbot County": {
+        "match_any": [
+            "Clerk of Circuit Court",
+            "Talbot County Clerk",
+            "Circuit Court - Talbot",
+        ],
+        "require_all": ["Talbot"],
+    },
+    "Office of the Register of Wills - Talbot County": {
+        "match_any": [
+            "Register of Wills",
+            "Talbot County Register",
+        ],
+        "require_all": ["Talbot"],
+    },
+    "Talbot County Public Schools": {
+        "match_any": [
+            "Talbot County Public Schools",
+            "Talbot County Schools",
+            "Public Schools - Talbot",
+        ],
+    },
+}
+
 def get_reports_for_agency(agency_name):
     """Get all reports for a specific agency"""
     reports = load_reports_data()
     agency_reports = []
-    
+
+    rules = AGENCY_TITLE_PATTERNS.get(agency_name)
+    if not rules:
+        return agency_reports
+
+    match_any = rules.get("match_any", [])
+    require_all = rules.get("require_all", [])
+
     for report in reports:
         title = report.get('title', '')
-        
-        # Handle different agency matching strategies
-        if agency_name == "Maryland Legal Services Corporation":
-            # Match various health department variations
-            if any(term in title for term in [
-                "Maryland Legal Services Corporation", 
-                "Legal Services Corporation"
-            ]):
-                agency_reports.append(report)
-                
-        elif agency_name == "Office of the Public Defender":
-            # Exact match for this agency
-            if "Public Defender" in title:
-                agency_reports.append(report)
-                
-        elif agency_name == "Division of Occupational and Professional Licensing":
-            # Match various licensing division variations
-            if any(term in title for term in [
-                "Division of Occupational and Professional Licensing",
-                "Occupational and Professional Licensing"
-            ]):
-                agency_reports.append(report)
-        
-        elif agency_name == "Office of the Clerk of Circuit Court - Talbot County":
-            # Match Talbot County Clerk variations
-            if any(term in title for term in [
-                "Clerk of Circuit Court",
-                "Talbot County Clerk",
-                "Circuit Court - Talbot"
-            ]) and "Talbot" in title:
-                agency_reports.append(report)
-                
-        elif agency_name == "Office of the Register of Wills - Talbot County":
-            # Match Talbot County Register of Wills variations
-            if any(term in title for term in [
-                "Register of Wills",
-                "Talbot County Register"
-            ]) and "Talbot" in title:
-                agency_reports.append(report)
-                
-        elif agency_name == "Talbot County Public Schools":
-            # Match Talbot County Schools variations
-            if any(term in title for term in [
-                "Talbot County Public Schools",
-                "Talbot County Schools",
-                "Public Schools - Talbot"
-            ]):
-                agency_reports.append(report)
-    
+        if any(term in title for term in match_any) and \
+                all(term in title for term in require_all):
+            agency_reports.append(report)
+
     return agency_reports
 
 def load_text_files_for_agency(agency_name):

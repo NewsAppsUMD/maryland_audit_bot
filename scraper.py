@@ -1,7 +1,11 @@
 import json
+import logging
 import os
 from datetime import datetime
 from playwright.sync_api import sync_playwright
+
+logging.basicConfig(level=logging.INFO, format="%(message)s")
+logger = logging.getLogger(__name__)
 
 def load_existing_reports(filename="ola_reports.json"):
     """Load existing reports from JSON file"""
@@ -10,7 +14,7 @@ def load_existing_reports(filename="ola_reports.json"):
             with open(filename, "r") as f:
                 return json.load(f)
         except (json.JSONDecodeError, IOError):
-            print(f"Warning: Could not read {filename}, starting fresh")
+            logger.warning(f"Warning: Could not read {filename}, starting fresh")
             return []
     return []
 
@@ -24,7 +28,8 @@ def extract_file_id_from_url(url):
     if url and 'fileId=' in url:
         try:
             return url.split('fileId=')[1].split('&')[0]
-        except:
+        except Exception as e:
+            logger.warning(f"Could not extract fileId from URL {url}: {e}")
             return None
     return None
 
@@ -61,21 +66,21 @@ def backfill_file_ids(reports):
 def run_scraper():
     # Load existing reports
     existing_reports = load_existing_reports()
-    
+
     # Backfill file_ids for existing reports
     backfilled_count = backfill_file_ids(existing_reports)
     if backfilled_count > 0:
-        print(f"Backfilled file_id for {backfilled_count} existing reports")
-    
+        logger.info(f"Backfilled file_id for {backfilled_count} existing reports")
+
     existing_keys = {create_report_key(report) for report in existing_reports}
-    
+
     with sync_playwright() as p:
         # Launch browser (use headless=False to see the browser in action)
         browser = p.chromium.launch(headless=True)
-        
+
         # Create a new page
         page = browser.new_page()
-        
+
         # Set user agent and other headers
         page.set_extra_http_headers({
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -84,37 +89,37 @@ def run_scraper():
             'Connection': 'keep-alive',
             'Upgrade-Insecure-Requests': '1',
         })
-        
+
         # Navigate to the URL
         url = 'https://www.ola.state.md.us/Search/Report?keyword=&agencyId=&dateFrom=&dateTo='
         page.goto(url, wait_until='networkidle')
-        
+
         # Wait for the table to load
         page.wait_for_selector('tbody')
-        
+
         # Extract data using Playwright's DOM querying
         new_reports = []
-        
+
         # Get all table rows
         rows = page.query_selector_all('tbody tr')
-        
+
         for row in rows:
             cells = row.query_selector_all('td')
-            
+
             if len(cells) >= 3:  # Ensure we have enough cells
                 report = {}
-                
+
                 # Extract date (first cell) and convert to ISO format
                 raw_date = cells[0].inner_text().strip()
                 report['date'] = convert_date_to_iso(raw_date)
-                
+
                 # Extract type (second cell)
                 report['type'] = cells[1].inner_text().strip()
-                
+
                 # Extract title and URL (third cell)
                 title_cell = cells[2]
                 report['title'] = title_cell.inner_text().strip()
-                
+
                 # Check if cell contains a link
                 link = title_cell.query_selector('a')
                 if link:
@@ -126,32 +131,32 @@ def run_scraper():
                 else:
                     report['url'] = None
                     report['file_id'] = None
-                
+
                 # Add scraped timestamp
                 report['scraped_at'] = datetime.now().isoformat()
-                
+
                 # Check if this is a new report
                 report_key = create_report_key(report)
                 if report_key not in existing_keys:
                     new_reports.append(report)
-        
+
         # Close the browser
         browser.close()
-    
+
     # Combine existing and new reports
     all_reports = existing_reports + new_reports
-    
+
     # Save all reports
     save_reports(all_reports)
-    
-    print(f"Found {len(new_reports)} new reports")
-    print(f"Total reports in database: {len(all_reports)}")
-    
+
+    logger.info(f"Found {len(new_reports)} new reports")
+    logger.info(f"Total reports in database: {len(all_reports)}")
+
     if new_reports:
-        print("\nNew reports:")
+        logger.info("\nNew reports:")
         for report in new_reports:
-            print(f"  - {report['date']}: {report['title'][:80]}...")
-    
+            logger.info(f"  - {report['date']}: {report['title'][:80]}...")
+
     return new_reports
 
 if __name__ == "__main__":

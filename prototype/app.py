@@ -8,7 +8,15 @@ from llm_analyzer import analyze_agency
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = os.getenv('FLASK_SECRET_KEY', 'dev-secret-key-change-in-production')
+if os.getenv('FLASK_SECRET_KEY'):
+    app.secret_key = os.getenv('FLASK_SECRET_KEY')
+else:
+    app.secret_key = 'dev-secret-key-change-in-production'
+    app.logger.warning(
+        "FLASK_SECRET_KEY environment variable is not set! "
+        "Falling back to an insecure development default. "
+        "Set FLASK_SECRET_KEY before deploying this app anywhere real."
+    )
 
 def get_available_models():
     """Get list of available models with display information"""
