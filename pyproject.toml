@@ -7,9 +7,11 @@ requires-python = ">=3.13"
 dependencies = [
     "datasette>=0.65.1",
     "flask>=3.1.1",
+    "llm-ollama>=0.15.1",
     "llm>=0.27.1",
     "pdfplumber>=0.11.7",
     "playwright>=1.52.0",
+    "pydantic>=2.11.7",
     "python-dotenv>=1.1.1",
     "sqlite-utils>=3.38",
 ]

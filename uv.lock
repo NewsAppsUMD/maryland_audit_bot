@@ -454,6 +454,20 @@ wheels = [
 ]
 
 [[package]]
+name = "llm-ollama"
+version = "0.15.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "llm" },
+    { name = "ollama" },
+    { name = "pydantic" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/c3/95/654b9e2e5f821ed2eaf5f3227b49e554e9195de89e8346d7d5dcc1ddca4f/llm_ollama-0.15.1.tar.gz", hash = "sha256:618d517c3c133f746bb68b4903425b837175818022a49da56333e41eb37ec21f", size = 23638 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ee/e2/b36c34b410940eb3d5259f00a94ac8605c383fec6fed8fc8e06b864f077c/llm_ollama-0.15.1-py3-none-any.whl", hash = "sha256:aa9e46e0dce7e12b7f8291ea9fe004b4c0c7b02567283c9938563cd9308f34f8", size = 16218 },
+]
+
+[[package]]
 name = "markupsafe"
 version = "3.0.2"
 source = { registry = "https://pypi.org/simple" }
@@ -489,8 +503,10 @@ dependencies = [
     { name = "datasette" },
     { name = "flask" },
     { name = "llm" },
+    { name = "llm-ollama" },
     { name = "pdfplumber" },
     { name = "playwright" },
+    { name = "pydantic" },
     { name = "python-dotenv" },
     { name = "sqlite-utils" },
 ]
@@ -505,8 +521,10 @@ requires-dist = [
     { name = "datasette", specifier = ">=0.65.1" },
     { name = "flask", specifier = ">=3.1.1" },
     { name = "llm", specifier = ">=0.27.1" },
+    { name = "llm-ollama", specifier = ">=0.15.1" },
     { name = "pdfplumber", specifier = ">=0.11.7" },
     { name = "playwright", specifier = ">=1.52.0" },
+    { name = "pydantic", specifier = ">=2.11.7" },
     { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "sqlite-utils", specifier = ">=3.38" },
 ]
@@ -521,6 +539,19 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/3a/41/580bb4006e3ed0361b8151a01d324fb03f420815446c7def45d02f74c270/mergedeep-1.3.4.tar.gz", hash = "sha256:0096d52e9dad9939c3d975a774666af186eda617e6ca84df4c94dec30004f2a8", size = 4661 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/2c/19/04f9b178c2d8a15b076c8b5140708fa6ffc5601fb6f1e975537072df5b2a/mergedeep-1.3.4-py3-none-any.whl", hash = "sha256:70775750742b25c0d8f36c55aed03d24c3384d17c951b3175d898bd778ef0307", size = 6354 },
+]
+
+[[package]]
+name = "ollama"
+version = "0.6.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "httpx" },
+    { name = "pydantic" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/fc/72/5f12423b6b39ca8430fbe56f77fcf4ef60f63067c7c4a2e30e200ed9ec16/ollama-0.6.2.tar.gz", hash = "sha256:936d55daa684f474364c098611c933626f8d6c7d67065c5b7ae0c477b508b07f", size = 53145 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/c4/ab/d6722beeb2d10f7a3b9ff49375708904fde18f82b5609a0bc4aeb5996a4d/ollama-0.6.2-py3-none-any.whl", hash = "sha256:3ad7daab28e5a973445c36a73882a3ef698c2ebb00e21e308652741577509f7d", size = 15115 },
 ]
 
 [[package]]
