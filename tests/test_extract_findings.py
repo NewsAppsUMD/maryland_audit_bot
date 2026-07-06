@@ -1,8 +1,12 @@
-"""Tests for the pure functions in extract_findings.py. No Ollama calls."""
+"""Tests for extract_findings.py. No Ollama calls: model interactions are
+exercised through a stubbed llm.get_model."""
+import argparse
+import json
+
 import pytest
 
 import extract_findings as ef
-from schemas import DollarAmount, Finding, ReportExtraction
+from schemas import DollarAmount, Finding, FindingsChunk, ReportExtraction
 
 
 HEADER = (
@@ -185,9 +189,9 @@ class TestValidDate:
         assert not ef.valid_date("2030-01-01")
 
 
-def make_extraction(**overrides):
-    finding = Finding(
-        number=1,
+def make_finding(number=1, **overrides):
+    fields = dict(
+        number=number,
         title="Cash receipts totaling $1,234 were not deposited timely.",
         description="Deposits were late.",
         category="cash_receipts",
@@ -198,6 +202,12 @@ def make_extraction(**overrides):
         agency_agrees=True,
         agency_completion_date=None,
     )
+    fields.update(overrides)
+    return Finding(**fields)
+
+
+def make_extraction(**overrides):
+    finding = make_finding()
     fields = dict(
         agency_name="Test Agency",
         parent_department=None,
@@ -287,3 +297,404 @@ class TestSplitIntoChunks:
         chunks = ef.split_into_chunks(text, max_chars=100)
         assert "".join(chunks) == text
         assert all(len(c) <= 100 for c in chunks)
+
+    def test_oversized_single_finding_is_hard_split(self):
+        text = ("Transmittal letter.\n"
+                + "Finding 1\n" + ("Analysis paragraph text.\n\n" * 100)
+                + "Finding 2\nShort analysis.\n")
+        chunks = ef.split_into_chunks(text, max_chars=800)
+        assert all(len(c) <= 800 for c in chunks)
+        assert "".join(chunks) == text
+
+    def test_oversized_prefix_is_hard_split(self):
+        prefix = "Transmittal letter paragraph.\n\n" * 100
+        text = prefix + "Finding 1\nAnalysis.\n"
+        chunks = ef.split_into_chunks(text, max_chars=500)
+        assert all(len(c) <= 500 for c in chunks)
+        assert "".join(chunks) == text
+        assert chunks[0].startswith("Transmittal letter paragraph.")
+
+    def test_hard_split_prefers_paragraph_boundaries(self):
+        piece = "para one.\n\npara two.\n\npara three.\n\npara four."
+        segments = ef._hard_split(piece, max_chars=25)
+        assert "".join(segments) == piece
+        assert all(len(s) <= 25 for s in segments)
+        # splits land after blank lines, so segments start at paragraph starts
+        assert segments[1].startswith("para")
+
+
+class TestCountAsteriskFindings:
+    def test_toc_and_heading_same_number_counted_once(self):
+        text = ("* Finding 1 - Cash receipts were bad 9\n"
+                "some text\n"
+                "Finding 1 *\n"
+                "Cash receipts were bad.\n")
+        assert ef.count_asterisk_findings(text) == {"1"}
+
+    def test_distinct_numbers_counted_separately(self):
+        text = "* Finding 2\ntext\nFinding 5 *\ntext\n"
+        assert ef.count_asterisk_findings(text) == {"2", "5"}
+
+    def test_unmarked_findings_not_counted(self):
+        assert ef.count_asterisk_findings("Finding 1\ntext\n") == set()
+
+
+class TestWriteJsonAtomic:
+    def test_writes_valid_json_without_tmp_leftover(self, tmp_path):
+        path = tmp_path / "out.json"
+        ef.write_json_atomic(path, {"a": 1})
+        assert json.loads(path.read_text()) == {"a": 1}
+        assert list(tmp_path.glob("*.tmp")) == []
+
+    def test_overwrites_existing(self, tmp_path):
+        path = tmp_path / "out.json"
+        path.write_text("old")
+        ef.write_json_atomic(path, [1, 2])
+        assert json.loads(path.read_text()) == [1, 2]
+
+
+class TestDollarAmountZero:
+    def test_zero_does_not_match_arbitrary_digits(self):
+        assert not ef.dollar_amount_in_text(0.0, "we tested 10 items in 2014")
+
+    def test_zero_matches_explicit_zero(self):
+        assert ef.dollar_amount_in_text(0.0, "a balance of $0 remained")
+
+
+# --- Stubbed-LLM tests for extract() control flow ---
+
+VALID_CHUNK_JSON = '{"findings": []}'
+INVALID_JSON = "this is not json"
+INVALID_SCHEMA_JSON = '{"findings": "not a list"}'
+
+
+class StubResponse:
+    def __init__(self, text):
+        self._text = text
+
+    def text(self):
+        return self._text
+
+
+class StubModel:
+    """Pops scripted actions (a JSON string or an Exception) per model name."""
+
+    def __init__(self, name, script, calls):
+        self.name = name
+        self._script = script
+        self._calls = calls
+
+    def prompt(self, prompt_text, system=None, schema=None, **options):
+        self._calls.append({"model": self.name, "prompt": prompt_text,
+                            "system": system, "schema": schema,
+                            "options": options})
+        action = self._script[self.name].pop(0)
+        if isinstance(action, Exception):
+            raise action
+        return StubResponse(action)
+
+
+@pytest.fixture
+def stub_llm(monkeypatch):
+    script = {}
+    calls = []
+    monkeypatch.setattr(ef.llm, "get_model",
+                        lambda name: StubModel(name, script, calls))
+    return script, calls
+
+
+class TestExtractControlFlow:
+    def test_success_first_attempt(self, stub_llm):
+        script, calls = stub_llm
+        script["prim"] = [VALID_CHUNK_JSON]
+        result, model, attempts, error = ef.extract(
+            "the prompt", FindingsChunk, "prim", "esc")
+        assert result == FindingsChunk(findings=[])
+        assert (model, attempts, error) == ("prim", 1, None)
+        assert len(calls) == 1
+        assert calls[0]["options"] == {"temperature": 0, "num_ctx": ef.NUM_CTX}
+        assert "failed validation" not in calls[0]["prompt"]
+
+    def test_repair_prompt_threads_error_back(self, stub_llm):
+        script, calls = stub_llm
+        script["prim"] = [INVALID_JSON, VALID_CHUNK_JSON]
+        result, model, attempts, _ = ef.extract(
+            "the prompt", FindingsChunk, "prim", "esc")
+        assert result is not None
+        assert (model, attempts) == ("prim", 2)
+        repair_prompt = calls[1]["prompt"]
+        assert repair_prompt.startswith("the prompt")
+        assert "failed validation" in repair_prompt
+
+    def test_schema_validation_error_also_repaired(self, stub_llm):
+        script, calls = stub_llm
+        script["prim"] = [INVALID_SCHEMA_JSON, VALID_CHUNK_JSON]
+        result, model, attempts, _ = ef.extract(
+            "p", FindingsChunk, "prim", "esc")
+        assert result is not None
+        assert attempts == 2
+
+    def test_escalates_after_primary_exhausted(self, stub_llm):
+        script, calls = stub_llm
+        script["prim"] = [INVALID_JSON] * 3
+        script["esc"] = [VALID_CHUNK_JSON]
+        result, model, attempts, _ = ef.extract("p", FindingsChunk, "prim", "esc")
+        assert result is not None
+        assert (model, attempts) == ("esc", 4)
+        assert [c["model"] for c in calls] == ["prim"] * 3 + ["esc"]
+        # repair error does not leak across models: escalation starts fresh
+        assert "failed validation" not in calls[3]["prompt"]
+
+    def test_non_validation_error_breaks_to_escalation(self, stub_llm):
+        script, calls = stub_llm
+        script["prim"] = [RuntimeError("connection refused")]
+        script["esc"] = [VALID_CHUNK_JSON]
+        result, model, attempts, _ = ef.extract("p", FindingsChunk, "prim", "esc")
+        assert result is not None
+        assert (model, attempts) == ("esc", 2)
+
+    def test_all_models_fail(self, stub_llm):
+        script, calls = stub_llm
+        script["prim"] = [INVALID_JSON] * 3
+        script["esc"] = [INVALID_JSON] * 3
+        result, model, attempts, error = ef.extract("p", FindingsChunk, "prim", "esc")
+        assert result is None
+        assert model is None
+        assert attempts == 6
+        assert error
+
+    def test_same_primary_and_escalation_not_retried_twice(self, stub_llm):
+        script, calls = stub_llm
+        script["only"] = [INVALID_JSON] * 3
+        result, model, attempts, error = ef.extract("p", FindingsChunk, "only", "only")
+        assert result is None
+        assert attempts == 3
+
+
+class TestExtractReportChunking:
+    def fake_extract_factory(self, responses, seen):
+        def fake_extract(prompt_text, schema, model_name, escalation_model_name,
+                         system_prompt=ef.SYSTEM_PROMPT):
+            seen.append({"prompt": prompt_text, "schema": schema,
+                         "system": system_prompt})
+            return responses.pop(0)
+        return fake_extract
+
+    def test_small_text_single_call(self, monkeypatch):
+        seen = []
+        responses = [(make_extraction(), "m", 1, None)]
+        monkeypatch.setattr(ef, "extract", self.fake_extract_factory(responses, seen))
+        result, models, attempts, error = ef.extract_report("short text", "m", "big")
+        assert result is not None
+        assert len(seen) == 1
+        assert seen[0]["schema"] is ReportExtraction
+
+    def test_chunk_merge_keeps_chunk1_version_and_sorts(self, monkeypatch):
+        monkeypatch.setattr(ef, "CHUNK_THRESHOLD_CHARS", 5)
+        monkeypatch.setattr(ef, "split_into_chunks", lambda text: ["c1", "c2"])
+        chunk1 = make_extraction(findings=[
+            make_finding(3, title="three from chunk1"),
+            make_finding(1, title="one from chunk1"),
+        ])
+        chunk2 = FindingsChunk(findings=[
+            make_finding(3, title="three DUPLICATE from chunk2"),
+            make_finding(2, title="two from chunk2"),
+        ])
+        seen = []
+        responses = [(chunk1, "m", 1, None), (chunk2, "m", 2, None)]
+        monkeypatch.setattr(ef, "extract", self.fake_extract_factory(responses, seen))
+
+        result, models, attempts, error = ef.extract_report("x" * 10, "m", "big")
+
+        assert error is None
+        assert [f.number for f in result.findings] == [1, 2, 3]
+        # chunk 1's version of finding 3 wins (setdefault semantics)
+        assert result.findings[2].title == "three from chunk1"
+        assert attempts == 3
+        assert models == "m"
+        assert len(seen) == 2
+        assert seen[1]["schema"] is FindingsChunk
+        assert "LATER PORTION" in seen[1]["system"]
+
+    def test_chunk_failure_fails_whole_report(self, monkeypatch):
+        monkeypatch.setattr(ef, "CHUNK_THRESHOLD_CHARS", 5)
+        monkeypatch.setattr(ef, "split_into_chunks", lambda text: ["c1", "c2"])
+        responses = [(make_extraction(), "m", 1, None), (None, None, 6, "boom")]
+        monkeypatch.setattr(ef, "extract", self.fake_extract_factory(responses, []))
+
+        result, models, attempts, error = ef.extract_report("x" * 10, "m", "big")
+
+        assert result is None
+        assert attempts == 7
+        assert "chunk 2 failed" in error
+
+    def test_chunk1_failure_short_circuits(self, monkeypatch):
+        monkeypatch.setattr(ef, "CHUNK_THRESHOLD_CHARS", 5)
+        monkeypatch.setattr(ef, "split_into_chunks", lambda text: ["c1", "c2"])
+        seen = []
+        responses = [(None, None, 6, "boom")]
+        monkeypatch.setattr(ef, "extract", self.fake_extract_factory(responses, seen))
+
+        result, models, attempts, error = ef.extract_report("x" * 10, "m", "big")
+
+        assert result is None
+        assert len(seen) == 1  # chunk 2 never attempted
+
+
+# --- process_reports integration (tmp dirs, stubbed extract_report) ---
+
+SHARED_BODY = ("--- Page 1 ---\nShared report body.\n\nFinding 1\n"
+               "Cash receipts totaling $1,234 were not deposited timely.\n"
+               "Analysis (repeat)\n")
+UNIQUE_BODY = ("--- Page 1 ---\nUnique report body.\n\nFinding 1\n"
+               "Cash receipts totaling $1,234 were not deposited timely.\n"
+               "Analysis (repeat)\n")
+
+
+class PipelineEnv:
+    def __init__(self, tmp_path):
+        self.text_dir = tmp_path / "text"
+        self.ext_dir = tmp_path / "extractions"
+        self.failures = tmp_path / "failures.json"
+
+
+@pytest.fixture
+def pipeline_env(tmp_path, monkeypatch):
+    env = PipelineEnv(tmp_path)
+    env.text_dir.mkdir()
+    monkeypatch.setattr(ef, "TEXT_DIR", env.text_dir)
+    monkeypatch.setattr(ef, "EXTRACTIONS_DIR", env.ext_dir)
+    monkeypatch.setattr(ef, "FAILURES_FILE", env.failures)
+    # aaa and bbb share a body (duplicates); ccc is unique
+    (env.text_dir / "aaa.txt").write_text(HEADER + SHARED_BODY)
+    (env.text_dir / "bbb.txt").write_text(
+        HEADER.replace("01/15/2021", "03/20/2013") + SHARED_BODY)
+    (env.text_dir / "ccc.txt").write_text(HEADER + UNIQUE_BODY)
+    index = {fid: {"file_id": fid, "title": f"Report {fid}",
+                   "type": "Fiscal Compliance"}
+             for fid in ("aaa", "bbb", "ccc")}
+    monkeypatch.setattr(ef, "load_index", lambda filename="ola_reports.json": index)
+    return env
+
+
+def make_args(**overrides):
+    defaults = dict(limit=None, file_id=None, model="stub", escalation_model="big",
+                    report_type=None, force=False, retry_failures=False)
+    defaults.update(overrides)
+    return argparse.Namespace(**defaults)
+
+
+def stub_extract_report(calls, result_factory=None):
+    def fake(clean_text, model_name, escalation_model_name):
+        calls.append(clean_text)
+        if result_factory:
+            return result_factory(clean_text)
+        return make_extraction(), model_name, 1, None
+    return fake
+
+
+def read_output(env, fid):
+    return json.loads((env.ext_dir / f"{fid}.json").read_text())
+
+
+class TestProcessReports:
+    def test_extracts_once_per_group_and_fans_out(self, pipeline_env, monkeypatch):
+        calls = []
+        monkeypatch.setattr(ef, "extract_report", stub_extract_report(calls))
+        ef.process_reports(make_args())
+
+        assert len(calls) == 2  # aaa/bbb group once, ccc once
+        a, b, c = (read_output(pipeline_env, fid) for fid in ("aaa", "bbb", "ccc"))
+        assert a["duplicate_of"] is None
+        assert b["duplicate_of"] == "aaa"
+        assert a["content_hash"] == b["content_hash"]
+        assert c["duplicate_of"] is None
+        assert c["content_hash"] != a["content_hash"]
+        assert a["extraction"]["findings"][0]["number"] == 1
+
+    def test_rerun_skips_everything(self, pipeline_env, monkeypatch):
+        calls = []
+        monkeypatch.setattr(ef, "extract_report", stub_extract_report(calls))
+        ef.process_reports(make_args())
+        calls.clear()
+        ef.process_reports(make_args())
+        assert calls == []
+
+    def test_missing_duplicate_restored_without_llm(self, pipeline_env, monkeypatch):
+        calls = []
+        monkeypatch.setattr(ef, "extract_report", stub_extract_report(calls))
+        ef.process_reports(make_args())
+        (pipeline_env.ext_dir / "bbb.json").unlink()
+        calls.clear()
+
+        ef.process_reports(make_args())
+
+        assert calls == []  # copy path, no extraction
+        assert read_output(pipeline_env, "bbb")["duplicate_of"] == "aaa"
+
+    def test_limit_counts_extractions(self, pipeline_env, monkeypatch):
+        calls = []
+        monkeypatch.setattr(ef, "extract_report", stub_extract_report(calls))
+        ef.process_reports(make_args(limit=1))
+        assert len(calls) == 1
+        # the duplicate group was fanned out before the limit stopped the run
+        assert (pipeline_env.ext_dir / "aaa.json").exists()
+        assert (pipeline_env.ext_dir / "bbb.json").exists()
+        assert not (pipeline_env.ext_dir / "ccc.json").exists()
+
+    def test_failures_recorded_and_run_continues(self, pipeline_env, monkeypatch):
+        def failing(clean_text):
+            return None, None, 6, "model exploded"
+        calls = []
+        monkeypatch.setattr(ef, "extract_report",
+                            stub_extract_report(calls, failing))
+        ef.process_reports(make_args())
+
+        failures = json.loads(pipeline_env.failures.read_text())
+        assert {f["file_id"] for f in failures} == {"aaa", "bbb", "ccc"}
+        assert not pipeline_env.ext_dir.exists() or not list(pipeline_env.ext_dir.glob("*.json"))
+
+    def test_unexpected_exception_guarded(self, pipeline_env, monkeypatch):
+        def factory(clean_text):
+            if "Unique report body" in clean_text:
+                return make_extraction(), "stub", 1, None
+            raise RuntimeError("kaboom")
+        calls = []
+        monkeypatch.setattr(ef, "extract_report", stub_extract_report(calls, factory))
+
+        ef.process_reports(make_args())  # must not raise
+
+        assert (pipeline_env.ext_dir / "ccc.json").exists()
+        failures = json.loads(pipeline_env.failures.read_text())
+        failed_ids = {f["file_id"] for f in failures}
+        assert "aaa" in failed_ids and "bbb" in failed_ids
+        assert all("kaboom" in f["error"] for f in failures)
+
+    def test_success_clears_failure_entry(self, pipeline_env, monkeypatch):
+        ef.record_failure("aaa", "old error", 6)
+        calls = []
+        monkeypatch.setattr(ef, "extract_report", stub_extract_report(calls))
+        ef.process_reports(make_args())
+        failures = json.loads(pipeline_env.failures.read_text())
+        assert failures == []
+
+    def test_retry_failures_selects_only_failed(self, pipeline_env, monkeypatch):
+        ef.record_failure("ccc", "old error", 6)
+        calls = []
+        monkeypatch.setattr(ef, "extract_report", stub_extract_report(calls))
+        ef.process_reports(make_args(retry_failures=True))
+        assert len(calls) == 1
+        assert (pipeline_env.ext_dir / "ccc.json").exists()
+        assert not (pipeline_env.ext_dir / "aaa.json").exists()
+
+    def test_copy_for_duplicate_clears_failure(self, pipeline_env, monkeypatch):
+        calls = []
+        monkeypatch.setattr(ef, "extract_report", stub_extract_report(calls))
+        ef.process_reports(make_args())
+        (pipeline_env.ext_dir / "bbb.json").unlink()
+        ef.record_failure("bbb", "old error", 6)
+
+        ef.process_reports(make_args())
+
+        failures = json.loads(pipeline_env.failures.read_text())
+        assert failures == []

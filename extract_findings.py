@@ -19,6 +19,7 @@ import argparse
 import hashlib
 import json
 import logging
+import os
 import random
 import re
 from datetime import datetime
@@ -49,7 +50,7 @@ MAX_CHUNK_CHARS = 80_000  # ~20k tokens per chunk, leaves headroom in num_ctx
 # which OLA uses to denote "repeated in full or part from preceding audit
 # report"). Table-of-contents entries ("Finding 1 - Blah...") don't match.
 FINDING_HEADING_RE = re.compile(r"^[ \t]*[\*∗✱]?[ \t]*Finding\s+(\d+)[ \t]*[\*∗✱]?[ \t]*$", re.MULTILINE)
-ASTERISK_FINDING_RE = re.compile(r"^[ \t]*[\*∗✱][ \t]*Finding\s+\d+|^[ \t]*Finding\s+\d+[ \t]*[\*∗✱]", re.MULTILINE)
+ASTERISK_FINDING_RE = re.compile(r"^[ \t]*[\*∗✱][ \t]*Finding\s+(\d+)|^[ \t]*Finding\s+(\d+)[ \t]*[\*∗✱]", re.MULTILINE)
 PAGE_MARKER_RE = re.compile(r"^--- Page \d+ ---[ \t]*$", re.MULTILINE)
 HEADER_SEPARATOR_RE = re.compile(r"^-{40,}[ \t]*$", re.MULTILINE)
 
@@ -125,12 +126,14 @@ def content_hash(body):
     return hashlib.sha1(body.strip().encode("utf-8")).hexdigest()
 
 
-def dedupe_texts(file_ids, text_dir=TEXT_DIR):
+def dedupe_texts(file_ids, text_dir=None):
     """Group file_ids by body content hash.
 
     Returns (groups, hash_by_fid) where groups maps content_hash to a sorted
     list of file_ids sharing that body (the first is the canonical copy).
     """
+    if text_dir is None:
+        text_dir = TEXT_DIR
     groups = {}
     hash_by_fid = {}
     for fid in file_ids:
@@ -183,26 +186,65 @@ def preprocess(text):
     return clean, count_findings_headings(clean), estimate_tokens(clean)
 
 
+def _hard_split(piece, max_chars):
+    """Split a single oversized piece into segments of at most max_chars.
+
+    Prefers paragraph boundaries (blank lines), then line boundaries, then a
+    raw character cut. Concatenating the segments reproduces the input.
+    """
+    segments = []
+    remaining = piece
+    while len(remaining) > max_chars:
+        cut = remaining.rfind("\n\n", max_chars // 2, max_chars - 1)
+        if cut != -1:
+            cut += 2  # keep the blank line with the left segment
+        else:
+            cut = remaining.rfind("\n", max_chars // 2, max_chars)
+            if cut != -1:
+                cut += 1
+            else:
+                cut = max_chars
+        segments.append(remaining[:cut])
+        remaining = remaining[cut:]
+    if remaining:
+        segments.append(remaining)
+    return segments
+
+
 def split_into_chunks(clean_text, max_chars=MAX_CHUNK_CHARS):
     """Split very large report text on Finding boundaries.
 
-    Chunk 1 always includes everything before the first finding (transmittal
-    letter, background, Status of Preceding Findings). Concatenating the
-    chunks reproduces the input exactly.
+    Chunk 1 always starts with everything before the first finding
+    (transmittal letter, background, Status of Preceding Findings). A single
+    section larger than max_chars is hard-split (Ollama would otherwise
+    silently truncate an oversized prompt). Concatenating the chunks
+    reproduces the input exactly.
     """
     if len(clean_text) <= max_chars:
         return [clean_text]
     matches = list(FINDING_HEADING_RE.finditer(clean_text))
     if not matches:
-        return [clean_text[i: i + max_chars] for i in range(0, len(clean_text), max_chars)]
+        logger.warning(
+            f"  No Finding boundaries in {len(clean_text)}-char text; hard-splitting")
+        return _hard_split(clean_text, max_chars)
     starts = [m.start() for m in matches]
-    pieces = []
+    # Pieces: the prefix (transmittal letter etc.), then one per finding section.
+    pieces = [clean_text[: starts[0]]]
     for i, start in enumerate(starts):
         end = starts[i + 1] if i + 1 < len(starts) else len(clean_text)
         pieces.append(clean_text[start:end])
-    chunks = []
-    current = clean_text[: starts[0]]  # transmittal letter etc. stays in chunk 1
+    expanded = []
     for piece in pieces:
+        if len(piece) > max_chars:
+            logger.warning(
+                f"  Section of {len(piece)} chars exceeds chunk budget "
+                f"({max_chars}); hard-splitting it")
+            expanded.extend(_hard_split(piece, max_chars))
+        else:
+            expanded.append(piece)
+    chunks = []
+    current = ""
+    for piece in expanded:
         if current and len(current) + len(piece) > max_chars:
             chunks.append(current)
             current = piece
@@ -300,8 +342,20 @@ def extract_report(clean_text, model_name, escalation_model_name):
     return extraction, ",".join(dict.fromkeys(models_used)), attempts, None
 
 
+def count_asterisk_findings(text):
+    """Distinct finding numbers marked with an asterisk (repeat marker).
+
+    Returns a set of finding-number strings: a finding asterisked in both the
+    table of contents and at its own heading counts once.
+    """
+    return {a or b for a, b in ASTERISK_FINDING_RE.findall(text)}
+
+
 def dollar_amount_in_text(amount, text):
     """Check whether a dollar amount appears in the raw text in some form."""
+    if amount == 0:
+        # Bare "0" appears in nearly any text; require an explicit zero amount.
+        return "$0" in text or "0.00" in text
     candidates = set()
     if amount == int(amount):
         whole = int(amount)
@@ -317,8 +371,13 @@ def dollar_amount_in_text(amount, text):
     return any(c in text for c in candidates)
 
 
-def valid_date(value, min_year=1995, max_year=2026):
-    """True if value is a parseable YYYY-MM-DD date in a sane year range."""
+def valid_date(value, min_year=1995, max_year=None):
+    """True if value is a parseable YYYY-MM-DD date in a sane year range.
+
+    max_year defaults to next year (report dates can't be in the future).
+    """
+    if max_year is None:
+        max_year = datetime.now().year + 1
     try:
         parsed = datetime.strptime(value, "%Y-%m-%d")
     except (ValueError, TypeError):
@@ -353,7 +412,9 @@ def validate_extraction(extraction, raw_text, expected_findings_count):
             flags.append(f"bad_date: {field}={value}")
 
     repeats_claimed = sum(1 for f in extraction.findings if f.is_repeat)
-    asterisk_hints = len(ASTERISK_FINDING_RE.findall(raw_text))
+    # Dedupe by finding number: the same finding is often asterisked in both
+    # the TOC/summary list and at its heading, and must count as one hint.
+    asterisk_hints = len(count_asterisk_findings(raw_text))
     has_repeat_language = bool(re.search(r"repeat", raw_text, re.IGNORECASE))
     if repeats_claimed and not has_repeat_language:
         flags.append(f"repeats_claimed_{repeats_claimed}_but_no_repeat_language_in_text")
@@ -362,6 +423,20 @@ def validate_extraction(extraction, raw_text, expected_findings_count):
             f"repeat_count_mismatch: extracted {repeats_claimed}, "
             f"asterisk markers {asterisk_hints}")
     return flags
+
+
+def write_json_atomic(path, data):
+    """Write JSON to path atomically (temp file + os.replace).
+
+    A crash mid-write must never leave a truncated .json file behind: the
+    exists-skip logic would trust it forever and downstream readers would
+    crash on it.
+    """
+    path = Path(path)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    with open(tmp, "w") as f:
+        json.dump(data, f, indent=2)
+    os.replace(tmp, path)
 
 
 def load_failures():
@@ -382,16 +457,14 @@ def record_failure(file_id, error, attempts):
         "attempts": attempts,
         "failed_at": datetime.now().isoformat(),
     })
-    with open(FAILURES_FILE, "w") as f:
-        json.dump(failures, f, indent=2)
+    write_json_atomic(FAILURES_FILE, failures)
 
 
 def clear_failure(file_id):
     failures = load_failures()
     remaining = [f for f in failures if f.get("file_id") != file_id]
     if len(remaining) != len(failures):
-        with open(FAILURES_FILE, "w") as f:
-            json.dump(remaining, f, indent=2)
+        write_json_atomic(FAILURES_FILE, remaining)
 
 
 def write_output(file_id, extraction, flags, model, chash, duplicate_of):
@@ -405,8 +478,7 @@ def write_output(file_id, extraction, flags, model, chash, duplicate_of):
         "duplicate_of": duplicate_of,
     }
     path = EXTRACTIONS_DIR / f"{file_id}.json"
-    with open(path, "w") as f:
-        json.dump(output, f, indent=2)
+    write_json_atomic(path, output)
     return path
 
 
@@ -416,8 +488,8 @@ def copy_for_duplicate(file_id, canonical_id):
     with open(canonical_path) as f:
         output = json.load(f)
     output["duplicate_of"] = canonical_id
-    with open(EXTRACTIONS_DIR / f"{file_id}.json", "w") as f:
-        json.dump(output, f, indent=2)
+    write_json_atomic(EXTRACTIONS_DIR / f"{file_id}.json", output)
+    clear_failure(file_id)
 
 
 def spot_check(n):
@@ -479,6 +551,13 @@ def select_file_ids(index, args):
 
 
 def process_reports(args):
+    """Run extraction over the selected file_ids.
+
+    Duplicate-group semantics: extraction happens once per unique body and the
+    result is written for every file_id in the group. With --force, a selected
+    file_id is re-extracted even if it is a non-canonical duplicate, and the
+    fresh result overwrites the outputs of ALL members of its group.
+    """
     index = load_index()
     if not index:
         return
@@ -499,56 +578,63 @@ def process_reports(args):
         if args.limit and extracted >= args.limit:
             logger.info(f"Reached --limit {args.limit}")
             break
-        out_path = EXTRACTIONS_DIR / f"{fid}.json"
-        if out_path.exists() and not args.force:
-            skipped += 1
-            continue
-
-        chash = hash_by_fid.get(fid)
-        group = groups.get(chash, [fid])
-        canonical = group[0]
-
-        # If the canonical extraction already exists, copy instead of re-extracting.
-        canonical_path = EXTRACTIONS_DIR / f"{canonical}.json"
-        if fid != canonical and canonical_path.exists() and not args.force:
-            copy_for_duplicate(fid, canonical)
-            logger.info(f"{fid}: duplicate of {canonical}, copied extraction")
-            copied += 1
-            continue
-
-        title = (index.get(fid) or {}).get("title", "")
-        logger.info(f"{fid}: extracting ({title[:60]})")
-        text = (TEXT_DIR / f"{fid}.txt").read_text(encoding="utf-8")
-        _, body = split_header(text)
-        clean, expected_count, est_tokens = preprocess(text)
-        logger.info(f"  ~{est_tokens} tokens, {expected_count} finding headings")
-
-        start = datetime.now()
-        extraction, model_used, attempts, error = extract_report(
-            clean, args.model, args.escalation_model)
-        elapsed = (datetime.now() - start).total_seconds()
-
-        if extraction is None:
-            logger.error(f"  FAILED after {attempts} attempts: {str(error)[:200]}")
-            record_failure(fid, str(error), attempts)
-            failed += 1
-            continue
-
-        flags = validate_extraction(extraction, body, expected_count)
-        if flags:
-            logger.info(f"  {len(flags)} validation flag(s): {flags}")
-        logger.info(f"  OK: {len(extraction.findings)} findings, model {model_used}, "
-                    f"{attempts} attempt(s), {elapsed:.1f}s")
-
-        # Write for every file_id in the duplicate group.
-        for member in group:
-            member_path = EXTRACTIONS_DIR / f"{member}.json"
-            if member != fid and member_path.exists() and not args.force:
+        # Guard the whole per-file body: one corrupt or unreadable file must
+        # not kill a long unattended run.
+        try:
+            out_path = EXTRACTIONS_DIR / f"{fid}.json"
+            if out_path.exists() and not args.force:
+                skipped += 1
                 continue
-            duplicate_of = None if member == canonical else canonical
-            write_output(member, extraction, flags, model_used, chash, duplicate_of)
-            clear_failure(member)
-        extracted += 1
+
+            chash = hash_by_fid.get(fid)
+            group = groups.get(chash, [fid])
+            canonical = group[0]
+
+            # If the canonical extraction already exists, copy instead of re-extracting.
+            canonical_path = EXTRACTIONS_DIR / f"{canonical}.json"
+            if fid != canonical and canonical_path.exists() and not args.force:
+                copy_for_duplicate(fid, canonical)
+                logger.info(f"{fid}: duplicate of {canonical}, copied extraction")
+                copied += 1
+                continue
+
+            title = (index.get(fid) or {}).get("title", "")
+            logger.info(f"{fid}: extracting ({title[:60]})")
+            text = (TEXT_DIR / f"{fid}.txt").read_text(encoding="utf-8")
+            _, body = split_header(text)
+            clean, expected_count, est_tokens = preprocess(text)
+            logger.info(f"  ~{est_tokens} tokens, {expected_count} finding headings")
+
+            start = datetime.now()
+            extraction, model_used, attempts, error = extract_report(
+                clean, args.model, args.escalation_model)
+            elapsed = (datetime.now() - start).total_seconds()
+
+            if extraction is None:
+                logger.error(f"  FAILED after {attempts} attempts: {str(error)[:200]}")
+                record_failure(fid, str(error), attempts)
+                failed += 1
+                continue
+
+            flags = validate_extraction(extraction, body, expected_count)
+            if flags:
+                logger.info(f"  {len(flags)} validation flag(s): {flags}")
+            logger.info(f"  OK: {len(extraction.findings)} findings, model {model_used}, "
+                        f"{attempts} attempt(s), {elapsed:.1f}s")
+
+            # Write for every file_id in the duplicate group.
+            for member in group:
+                member_path = EXTRACTIONS_DIR / f"{member}.json"
+                if member != fid and member_path.exists() and not args.force:
+                    continue
+                duplicate_of = None if member == canonical else canonical
+                write_output(member, extraction, flags, model_used, chash, duplicate_of)
+                clear_failure(member)
+            extracted += 1
+        except Exception as e:
+            logger.error(f"{fid}: unexpected error, skipping: {e}")
+            record_failure(fid, f"unexpected error: {e}", 0)
+            failed += 1
 
     logger.info("=" * 60)
     logger.info(f"Done. Extracted: {extracted}, copied from duplicates: {copied}, "
