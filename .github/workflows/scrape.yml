@@ -1,0 +1,50 @@
+name: Scrape OLA reports
+
+on:
+  schedule:
+    # Mondays at 11:00 UTC (7am EDT / 6am EST)
+    - cron: "0 11 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install dependencies
+        # uv reads .python-version and installs the pinned Python automatically
+        run: uv sync
+
+      - name: Install Playwright Chromium
+        run: uv run playwright install chromium --with-deps
+
+      - name: Scrape report metadata
+        run: uv run python scraper.py
+
+      - name: Download PDFs and extract text
+        run: uv run python pdf_parser.py
+
+      - name: Commit and push new data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ola_reports.json pdfs/ text/
+          if git diff --staged --quiet; then
+            echo "No new reports; nothing to commit."
+          else
+            git commit -m "Update audit reports (automated scrape)"
+            git push
+          fi

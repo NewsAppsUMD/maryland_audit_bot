@@ -56,6 +56,12 @@ uv run app.py
 
 The app reads model settings from environment variables (`DEFAULT_MODEL`, `FALLBACK_MODELS`) and warns loudly if `FLASK_SECRET_KEY` is unset.
 
+## Automation
+
+A GitHub Actions workflow (`.github/workflows/scrape.yml`) runs the scraper and PDF parser every Monday morning (11:00 UTC) and can also be triggered manually from the Actions tab. When it finds new reports, it commits the updated `ola_reports.json` plus the new files in `pdfs/` and `text/` back to the repository as `github-actions[bot]`.
+
+The findings-extraction step (`extract_findings.py`) requires a local Ollama instance and is not part of the workflow — run it locally after new reports arrive.
+
 ## Tests
 
 ```
