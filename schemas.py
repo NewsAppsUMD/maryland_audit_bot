@@ -6,7 +6,7 @@ extracted by the LLM -- it comes from ola_reports.json metadata.
 """
 from typing import Literal
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class DollarAmount(BaseModel):
@@ -44,7 +44,17 @@ class Finding(BaseModel):
 class ReportExtraction(BaseModel):
     """Document-level extraction for one OLA audit report."""
     agency_name: str
-    parent_department: str | None
+    parent_department: str | None = Field(description=(
+        "The audited entity's direct parent department, only if it is a "
+        "subordinate unit of a larger department (e.g., 'Department of "
+        "Health' for a program within DoH). The Office of Legislative "
+        "Audits, the Department of Legislative Services, and the Maryland "
+        "General Assembly are the AUDITOR that wrote this report -- never "
+        "use any of those as parent_department. Use null if the audited "
+        "entity is a standalone agency, independent commission, or "
+        "locally-governed body (e.g., a county school system, a bi-state "
+        "commission) with no true state-department parent."
+    ))
     report_date: str | None  # letter date IN the document -- don't trust metadata
     audit_period_start: str | None
     audit_period_end: str | None

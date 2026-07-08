@@ -38,7 +38,9 @@ TEXT_DIR = Path("text")
 EXTRACTIONS_DIR = Path("extractions")
 FAILURES_FILE = Path("extraction_failures.json")
 
-DEFAULT_MODEL = "qwen3.5:9b"
+# qwen3.5:35b beat 9b on both accuracy and wall time in the 10-report pilot
+# (no retries needed vs. multiple malformed-JSON repair attempts on 9b).
+DEFAULT_MODEL = "qwen3.5:35b"
 DEFAULT_ESCALATION_MODEL = "qwen3.5:35b"
 NUM_CTX = 32768  # Ollama silently truncates at its small default; set explicitly
 MAX_ATTEMPTS_PER_MODEL = 3  # 1 fresh attempt + 2 repair attempts
@@ -84,6 +86,7 @@ Rules:
 - dollar_amounts: dollar figures explicitly tied to the finding, each with a short context phrase. Convert phrases like "$1.4 million" to 1400000.
 - recommendation, agency_agrees, agency_completion_date: from the recommendation for the finding and the agency's response to it (Agree/Disagree and estimated completion date), if present.
 - prior_findings_count / prior_findings_repeated: from the Status of Preceding Findings discussion (how many findings the preceding report contained and how many are repeated in this report).
+- parent_department: see the field description in the schema. The auditor (OLA / Department of Legislative Services / Maryland General Assembly) is never the parent_department.
 - total_dollar_impact: the sum of clearly quantified questioned or unaccounted-for amounts across findings, or null if none are quantified.
 - agency_response_summary: 1-3 sentences summarizing the agency's overall response.
 """
