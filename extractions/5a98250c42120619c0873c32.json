@@ -1,0 +1,274 @@
+{
+  "extraction": {
+    "agency_name": "State Department of Assessments and Taxation",
+    "parent_department": "State Department of Assessments and Taxation",
+    "report_date": "2013-12-01",
+    "audit_period_start": "2009-08-21",
+    "audit_period_end": "2012-07-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain Aspects of DAT\u2019s Quality Assurance Process for Real Property Assessments and Related Documentation Requirements Were Not Formalized",
+        "description": "DAT needs to formalize quality assurance processes over real property assessments and clarify documentation requirements. Oversight by area supervisors was not formalized, and local office supervision lacked written policies regarding documentation of assessment values. Variations in documentation were found across three local offices reviewed.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 285500000.0,
+            "context": "land value reductions"
+          },
+          {
+            "amount": 700000000.0,
+            "context": "commercial real property assessments reviewed"
+          },
+          {
+            "amount": 161000000.0,
+            "context": "properties lacked certain information substantiating recorded values"
+          },
+          {
+            "amount": 58000000.0,
+            "context": "assessed values for income approach properties"
+          },
+          {
+            "amount": 91000000.0,
+            "context": "assessed values recorded in AAVS"
+          },
+          {
+            "amount": 106000000.0,
+            "context": "supporting documentation prepared by assessors"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "residential properties with total assessable base"
+          }
+        ],
+        "recommendation": "DAT should formalize certain aspects of its quality assurance process by specifying the nature and extent of reviews to be conducted by area supervisors, establishing responsibilities of local office supervisory personnel regarding review and approval of assessors\u2019 work, and specifying documentation to be maintained to support assessment values.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Physical Exterior Inspections Were Not Performed for All Properties in Accordance With State Law",
+        "description": "DAT does not perform physical exterior inspections for all properties due to staffing shortages and lacked policies governing how inspections should be documented. DAT relies on property sales data but lacks controls over this data input.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DAT should take appropriate actions to help ensure compliance with State law regarding the physical inspection of properties, establish documentation requirements for inspections conducted, and maintain records of property inspections conducted.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "AAVS Had Vulnerabilities That Placed Assessment Data at Risk and Certain Historical Data Was Not Archived",
+        "description": "AAVS had critical access vulnerabilities allowing unauthorized modifications without detection, vendor software was outdated, historical data changes were not archived for one tax year, and system conversion documentation was incomplete.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7600000.0,
+            "context": "multi-year contract total for AAVS"
+          },
+          {
+            "amount": 6900000.0,
+            "context": "total paid to vendors for AAVS as of October 2012"
+          }
+        ],
+        "recommendation": "DAT should perform a full evaluation of AAVS to identify access vulnerabilities and ensure appropriate modifications are made, ensure the most current version is used, maintain historical records of changes to AAVS data, and maintain complete records of system conversion results.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-01-15"
+      },
+      {
+        "number": 4,
+        "title": "DAT Procedures Did Not Ensure Certain Data Recorded in AAVS Were Complete and Accurate",
+        "description": "Procedures did not ensure data from local governments received into AAVS was complete or accurate due to lack of receiving logs and supervisory reviews. Electronic data processing errors were not corrected due to insufficient knowledge by supervisors.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 100000.0,
+            "context": "permit improvements requiring assessment completion"
+          }
+        ],
+        "recommendation": "DAT should enhance procedures by requiring each local assessment office to establish a log for property transaction documents, ensure pertinent information is properly recorded in AAVS and errors resolved, and ensure supervisors verify critical data with documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DAT Had Not Performed Timely and Comprehensive Verifications of Certain Returns and Tax Credit Applications",
+        "description": "DAT had not performed timely verifications for personal property returns (2008-2011) or tax credit applications (2009-2011), and franchise tax return reviews lacked documentation. Data matches to identify non-filers were limited, and electronic redemption reports from jurisdictions were missing.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 69000.0,
+            "context": "homeowners' credits processed during test period"
+          },
+          {
+            "amount": 16600.0,
+            "context": "credits missing supporting documentation"
+          },
+          {
+            "amount": 529.0,
+            "context": "credit received more than due to data entry error"
+          },
+          {
+            "amount": 18900000.0,
+            "context": "homeowners' credits approved for 11 jurisdictions in fiscal year 2012"
+          }
+        ],
+        "recommendation": "DAT should perform timely verifications of personal property tax returns and tax credit applications, expand data matches to identify non-filing entities, ensure local jurisdictions submit monthly electronic redemption reports, and determine cost benefits of electronic filing.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-01-01"
+      },
+      {
+        "number": 6,
+        "title": "Access and Monitoring Controls Over the AAVS System Database Were Not Sufficient to Protect Critical Data",
+        "description": "Access controls for the AAVS database allowed unauthorized modifications via default accounts, critical security events were not logged or reviewed, and audit records were not routinely examined.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DAT should limit access to all critical databases to personnel whose job duties require such access and log critical security events for the AAVS database, regularly review these logs, investigate unusual items, and document reviews.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DAT\u2019s Network Was Not Adequately Secured",
+        "description": "The DAT network was inadequately secured due to improper VPN access by third parties, firewall misconfiguration preventing traffic analysis by IDPS, lack of host-based intrusion protection on web servers, and unrestricted remote administrative access to the IDPS module.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DAT should configure firewall and virtual private networks for least privilege security, modify network-based IDPS and firewall configurations to ensure all critical traffic is reviewed by the IDPS module, perform a documented review of network security risks, and restrict remote access to the IDPS module.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Malware Protection on DAT Workstations and Servers Needs Improvement",
+        "description": "Malware protection software was not installed on all servers, there was no enterprise-wide management tool for monitoring it, definition files were not kept up-to-date, and workstations had administrator rights instead of user rights.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DAT should develop and implement enterprise-wide automated procedures to ensure all workstations and servers are configured with anti-malware software operating properly, regularly confirm updates, and limit local administrative rights on user workstations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "An Up-to-Date and Comprehensive Disaster Recovery Plan Did Not Exist",
+        "description": "DAT did not have an up-to-date disaster recovery plan; the existing plan lacked required provisions like alternate sites and hardware listings and had not been updated in five years.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DAT should maintain a comprehensive disaster recovery plan, which is updated at least annually, in accordance with IT Disaster Recovery Guidelines.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "DAT Did Not Adequately Monitor Certain Contract Billings",
+        "description": "DAT failed to monitor contract billings properly, resulting in potential overpayments due to incorrect rates billed by a contractor and discrepancies between reported and actual scanned images for document services.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000.0,
+            "context": "billings reviewed during fiscal years 2011 through 2013"
+          },
+          {
+            "amount": 228300.0,
+            "context": "incorrect rates for three fiscal year 2012 billings"
+          },
+          {
+            "amount": 5000.0,
+            "context": "potential overpayments from incorrect rates"
+          },
+          {
+            "amount": 302000.0,
+            "context": "payments to contractor for services received during fiscal year 2012"
+          },
+          {
+            "amount": 498000.0,
+            "context": "contractor paid during period October 2010 through May 2012"
+          },
+          {
+            "amount": 6900.0,
+            "context": "value of difference in scanned images under contract rates"
+          },
+          {
+            "amount": 139500.0,
+            "context": "potential overpayments to contractor for period October 2010 through August 2012"
+          }
+        ],
+        "recommendation": "DAT should establish procedures to ensure the propriety of contractor billings by maintaining records necessary to perform verifications, verify billed costs agree with contractual terms, and seek recovery of any overpayments identified.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Sufficient Controls Were Not Established Over Certain Collections",
+        "description": "Controls over cash collections were insufficient; independent verifications of recorded collections to deposit were not documented for significant amounts, and 'no fee' transactions lacked supervisory review allowing potential misappropriation.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 23500000.0,
+            "context": "cash and check collections at headquarters location during fiscal year 2012"
+          },
+          {
+            "amount": 2500000.0,
+            "context": "collections in cash during fiscal year 2012"
+          },
+          {
+            "amount": 21000000.0,
+            "context": "collections in checks during fiscal year 2012"
+          },
+          {
+            "amount": 4700000.0,
+            "context": "collections from 24 days tested during fiscal years 2011 and 2012"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "collections for which there was no documentation of verifications"
+          },
+          {
+            "amount": 86700.0,
+            "context": "payments removed from the system during fiscal years 2011 and 2012"
+          }
+        ],
+        "recommendation": "DAT should document the performance of independent verifications of recorded collections to deposit and generate output reports of 'no fee' transactions for supervisory review.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The State Department of Assessments and Taxation concurred with all findings and provided specific implementation plans or status updates for each recommendation. The agency noted staffing constraints as a factor in some delays and outlined steps such as requesting legislation, purchasing new equipment, and hiring additional personnel to address the recommendations.",
+    "total_dollar_impact": 255229.0,
+    "extraction_notes": "Report date derived from 'December 2013' header. Audit period from Scope section. Prior findings count/repeated from Status of Findings section. Dollar amounts converted to integers. Criminal referral and fraud hotline origin are false as no explicit statements were found."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 58000000.0",
+    "dollar_amount_not_in_text: finding 5 amount 18900000.0",
+    "dollar_amount_not_in_text: finding 11 amount 23500000.0",
+    "dollar_amount_not_in_text: finding 11 amount 4700000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:06:04.156861",
+  "content_hash": "77d6dd10859480b31b7ba54a3a3d71108b0674da",
+  "duplicate_of": "5a8f4d0acc9d724560674288"
+}

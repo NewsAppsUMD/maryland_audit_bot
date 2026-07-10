@@ -1,0 +1,157 @@
+{
+  "extraction": {
+    "agency_name": "Coppin State University",
+    "parent_department": "University System of Maryland",
+    "report_date": "2016-03-01",
+    "audit_period_start": "2012-03-27",
+    "audit_period_end": "2014-11-19",
+    "findings": [
+      {
+        "number": 1,
+        "title": "CSU Did Not Establish Adequate Controls Over Student Residency Status Determinations",
+        "description": "Student residency status determinations were not independently reviewed for propriety; employees responsible for reviews also made the determinations, risking improper status recording without detection.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3312.0,
+            "context": "full-time undergraduate tuition and fee charges for Maryland residents"
+          },
+          {
+            "amount": 5942.0,
+            "context": "nonresidents"
+          }
+        ],
+        "recommendation": "CSU should establish procedures requiring a documented independent review, at least on a test basis, of in-state residency determinations recorded in its automated system to ensure that the residency status was proper.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "CSU Lacked Controls to Ensure the Propriety of Financial Aid Posted to Student Accounts",
+        "description": "Adjustments to financial aid award amounts were not independently verified for propriety; three employees had system access capabilities that allowed them to initiate and disburse financial aid with no further approval requirements.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31100000.0,
+            "context": "financial aid awarded to students including grants and scholarships during fiscal year 2014"
+          }
+        ],
+        "recommendation": "CSU should establish procedures to ensure that financial aid award adjustments are reviewed and approved by supervisory personnel based on a review of supporting documentation, and eliminate incompatible user capabilities so that the same individual cannot initiate the recordation of financial aid and release the aid.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The CSU Internal Network Was Not Properly Secured",
+        "description": "Contractors had unnecessary network level access to the CSU network placing devices at risk; authentication controls over administrative access to perimeter firewalls were inadequate because password requirements were not enforced.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CSU should restrict each contractor\u2019s network level access to only those devices that each contractor needs to access and ensure that its firewalls\u2019 authentication and password control settings comply with the minimum standards required by the USM IT Security Standards.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Equipment Was Not Properly Controlled and Accounted For",
+        "description": "An equipment control account was not maintained; CSU did not properly maintain critical equipment records or conduct physical inventories as required; tested items were untagged or not recorded in detail records.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 17800000.0,
+            "context": "equipment total as of June 30, 2014"
+          },
+          {
+            "amount": 9000.0,
+            "context": "sensitive computer-related items purchased during audit period"
+          },
+          {
+            "amount": 5600.0,
+            "context": "items not recorded in CSU\u2019s detail records as of February 2015"
+          }
+        ],
+        "recommendation": "CSU should establish a control account and periodically reconcile the account to the corresponding detail records; ensure that all equipment purchases are properly recorded in the detail records; perform documented periodic physical inventories of equipment items, reconcile the results to the related detail records, and investigate any missing or unaccounted for items; ensure that equipment items are tagged with a unique property tag number identifying the items as State property.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-08-31"
+      },
+      {
+        "number": 5,
+        "title": "CSU Did Not Establish Sufficient Control Over Mail Collections",
+        "description": "Checks received in the mail were not immediately restrictively endorsed for deposit only; the initial record of collections was not forwarded to the employee responsible for verifying all collections had been recorded.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 612000.0,
+            "context": "mail collections over a six-month period in fiscal year 2014"
+          }
+        ],
+        "recommendation": "CSU should restrictively endorse checks immediately upon receipt and ensure that the employees who prepare the initial record of collections forward the record directly to the independent employee responsible for verifying that collections received in the mail were processed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Payroll Adjustments Were Not Independently Reviewed and Approved and System Access Was Not Appropriate",
+        "description": "Four employees had system access to process payroll adjustments without adequate supervisory review; eight employees could modify employee leave balances including their own without independent supervisory review.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 38700000.0,
+            "context": "CSU\u2019s payroll expenditures during fiscal year 2014"
+          }
+        ],
+        "recommendation": "CSU should ensure that adjustments to payroll and leave balances are subject to a documented independent review and approval; assign system access capabilities only to those employees who require such capabilities to perform their job duties, and remove the aforementioned unnecessary access capabilities.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-03-31"
+      },
+      {
+        "number": 7,
+        "title": "Food Service Commission Payments Were Not Adequately Verified",
+        "description": "CSU did not verify sales amounts reported by the food services vendor to detailed sales reports to help ensure the propriety of commission payments received.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 367000.0,
+            "context": "commissions received from the vendor by CSU during fiscal year 2014"
+          },
+          {
+            "amount": 350000.0,
+            "context": "contract threshold for commission payments"
+          },
+          {
+            "amount": 335000.0,
+            "context": "commission payments reviewed during fiscal years 2014 and 2015"
+          }
+        ],
+        "recommendation": "CSU should verify commission payments for propriety by comparing gross sales upon which the commission payments are based to detailed sales reports.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 12,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland/Coppin State University agreed with all recommendations and outlined corrective actions or implementation status for each finding, including the adoption of an Asset Management System in March 2015 and completion of security role redesign by March 31, 2016.",
+    "total_dollar_impact": 5600.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:51:28.166477",
+  "content_hash": "9936d73c04e4cf5d373f9704ecb1b6a1cd75d083",
+  "duplicate_of": "5a8f4d0dcc9d724560674396"
+}

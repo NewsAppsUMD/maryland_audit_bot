@@ -1,0 +1,120 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2015-10-01",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Region Had Not Fully Reconciled its Inmate Fund",
+        "description": "Jessup and ECI Offices had not fully reconciled inmate fund records with Comptroller records; last reconciliation was July 2014 prior to new system implementation. Significant differences existed ($182,000 Jessup, $64,000 ECI) unresolved since August 2014 due to inability to obtain reports from MOBSII.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 182000.0,
+            "context": "Jessup Office unresolved difference"
+          },
+          {
+            "amount": 64000.0,
+            "context": "ECI Office unresolved difference"
+          }
+        ],
+        "recommendation": "Work with DPSCS Office of Secretary to obtain reports; reconcile MOBSII balances timely and resolve differences; consult Comptroller/DBM on disposition if unresolved.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-04-30; 2016-06-30"
+      },
+      {
+        "number": 2,
+        "title": "Controls Were Lacking Over Certain Inmate Fund Transactions and Records",
+        "description": "Jessup Office lacked controls; transactions not independently reviewed, user access not restricted (incompatible duties), checking account unreconciled since April 2014.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2500000.0,
+            "context": "Inmate fund receipts"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "Disbursements"
+          }
+        ],
+        "recommendation": "Independently review transactions; restrict user access; ensure monthly reconciliations timely.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-02-29"
+      },
+      {
+        "number": 3,
+        "title": "The Region Made Repeated Purchases From Two Vendors Without Competitive Bids and Written Contracts",
+        "description": "Region made frequent purchases of fresh produce from two vendors without consolidating/bidding or contracts during FY 2012-2014. Jessup $2M, ECI $652k. State regulations require competitive procurement for amounts >$5k.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2000000.0,
+            "context": "Jessup Office payments to two vendors"
+          },
+          {
+            "amount": 652000.0,
+            "context": "ECI Office payments to two vendors"
+          }
+        ],
+        "recommendation": "Comply with regulations; competitively procure fresh produce; execute written contracts and obtain DGS approval.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-31; Effective immediately"
+      },
+      {
+        "number": 4,
+        "title": "A Management Employee Was In a Position to Influence the Region\u2019s Decision to Hire an Immediate Family Member",
+        "description": "Management employee influenced hiring of family member as contractual employee in their unit without recruitment/interview process. Potential ethics violation and noncompliance with personnel laws. Earnings totaled $28,000 by May 19, 2015.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 28000.0,
+            "context": "Contractual employee earnings as of May 19, 2015"
+          }
+        ],
+        "recommendation": "Refer matter to State Ethics Commission; comply with laws/policies in future.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Procedures and Controls Over Overtime Payments and Leave Recordkeeping Need Improvement",
+        "description": "Ineligible employees paid overtime ($16,350 based on tests); compensatory leave balances exceeded maximums (2,080 hours excess).",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 16350.0,
+            "context": "Total improper overtime payments based on tests"
+          }
+        ],
+        "recommendation": "Enhance review procedures; establish controls for leave balances; investigate and take action.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency agreed to recommendations for Findings 1, 2, and 3 with specified completion dates. For Finding 4, the text lists contacts but does not explicitly state agreement or a date in the provided appendix section.",
+    "total_dollar_impact": 262350.0,
+    "extraction_notes": "Report date inferred as October 1, 2015 based on 'October 2015' header. Audit period covers South Region July 1, 2012 to June 30, 2014. Finding 1 marked repeat with asterisk and text confirmation. Finding 4 referral is to State Ethics Commission, not Attorney General Criminal Division."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:38:27.024738",
+  "content_hash": "78fdcd6fe2aaebfb1e570c440aa5c46cdc13d174",
+  "duplicate_of": null
+}

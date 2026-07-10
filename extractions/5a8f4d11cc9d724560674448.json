@@ -1,0 +1,194 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Higher Education Commission",
+    "parent_department": "Maryland Higher Education Commission",
+    "report_date": "2025-03-20",
+    "audit_period_start": "2020-04-01",
+    "audit_period_end": "2023-11-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MHEC did not always send required service questionnaires and employer verifications timely, and did not place the recipients in repayment mode when responses were not received.",
+        "description": "MHEC failed to send required service questionnaires and employer verifications timely or follow up when recipients/employers did not respond. For 6 of 10 tested recipients with outstanding obligations totaling $167,757, requests were sent 31-391 days late. Additionally, 6 recipients were not placed in repayment mode timely (78-381 days after third notice).",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 241183.0,
+            "context": "financial aid awards tested"
+          },
+          {
+            "amount": 167757.0,
+            "context": "outstanding obligations with late requests"
+          }
+        ],
+        "recommendation": "Ensure all required service questionnaires and employer verifications are sent timely, and that recipients are placed in repayment mode when responses to these notices are not received.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-11-01"
+      },
+      {
+        "number": 2,
+        "title": "MHEC did not independently review adjustments to accounts receivable records, did not ensure that amounts due for unsatisfied service obligations were posted to the accounts receivable records, and did not send dunning notices or refer delinquent accounts to the State\u2019s Central Collection Unit (CCU) timely.",
+        "description": "MHEC lacked independent review of 1,799 adjustments totaling approximately $6.9 million. Reconciliation between financial aid system and accounts receivable was lacking. Dunning notices for 8 of 10 tested delinquent accounts ($253,769) were sent 37-766 days late; referrals to CCU were also delayed.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6900000.0,
+            "context": "adjustments processed"
+          },
+          {
+            "amount": 195760.0,
+            "context": "adjustments tested"
+          },
+          {
+            "amount": 256000.0,
+            "context": "recipients placed in repayment status amounts due"
+          },
+          {
+            "amount": 347347.0,
+            "context": "delinquent accounts opened"
+          },
+          {
+            "amount": 253769.0,
+            "context": "dunning notices sent late"
+          }
+        ],
+        "recommendation": "Generate output reports of adjustments and independently verify; ensure repayments posted by reconciling systems; send timely dunning notices and forward delinquent accounts to CCU.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-09-30"
+      },
+      {
+        "number": 3,
+        "title": "MHEC did not perform annual reconciliations of financial aid awards recorded in the Maryland College Aid Processing System (MDCAPS) to the State\u2019s accounting records and investigate and resolve differences on a timely basis.",
+        "description": "As of February 8, 2024, reconciliations had not been completed since fiscal year 2021. Differences totaling approximately $8 million between MDCAPS ($124.9 million) and State records ($116.9 million) were unresolved for fiscal year 2022; fiscal year 2023 reconciliation was not started.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8000000.0,
+            "context": "differences between MDCAPS and State records"
+          },
+          {
+            "amount": 124900000.0,
+            "context": "MDCAPS total"
+          },
+          {
+            "amount": 116900000.0,
+            "context": "State accounting records total"
+          }
+        ],
+        "recommendation": "Complete annual reconciliations of financial aid awards recorded in MDCAPS to State\u2019s accounting records and investigate/resolve differences.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-08-01"
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Specifics of the cybersecurity findings were redacted from this report in accordance with State law. The specifics were previously communicated to parties responsible for acting on recommendations.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Specifics of the cybersecurity findings were redacted from this report in accordance with State law. The specifics were previously communicated to parties responsible for acting on recommendations.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "MHEC did not independently review Student Loan Debt Relief Tax Credits. Our test of 20 credits disclosed 4 that were not adequately supported and may not have been eligible for the credit.",
+        "description": "MHEC issued $18 million in SLDRTC to 8,255 individuals in fiscal year 2023 without independent review. Test of 20 credits ($52,032) found 4 credits ($3,965) lacked adequate documentation and may not have been eligible (e.g., SSN discrepancies).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18000000.0,
+            "context": "SLDRTC issued in fiscal year 2023"
+          },
+          {
+            "amount": 52032.0,
+            "context": "credits tested"
+          },
+          {
+            "amount": 3965.0,
+            "context": "potentially ineligible credits"
+          }
+        ],
+        "recommendation": "Independently review and approve processing/issuance of SLDRTC; investigate/corrective action regarding the four potentially invalid credits.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-12-01"
+      },
+      {
+        "number": 7,
+        "title": "MHEC did not implement effective procedures for ensuring that all payments made to community colleges for retirement and pension contributions were proper.",
+        "description": "MHEC did not reconcile records to audited data from community colleges (fiscal years 2022/2023). Difference of $2.1 million in optional retirement plan disbursements ($16.7 million vs $14.6 million) was not investigated. Also, certification documentation for 4 employees ($4,136) was missing prior to payment.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 45000000.0,
+            "context": "payments for MSTRPS employees"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "reimbursed by colleges"
+          },
+          {
+            "amount": 16700000.0,
+            "context": "optional retirement costs"
+          },
+          {
+            "amount": 14600000.0,
+            "context": "audited information received"
+          },
+          {
+            "amount": 2100000.0,
+            "context": "difference in optional retirement plan records"
+          },
+          {
+            "amount": 13728.0,
+            "context": "monthly retirement contributions tested"
+          },
+          {
+            "amount": 4136.0,
+            "context": "payments without certification documentation"
+          }
+        ],
+        "recommendation": "Ensure amounts paid for State\u2019s share of community college employees\u2019 retirement and pension costs are proper; review audited data and resolve differences; document actions; obtain employee certification prior to paying matching contributions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-12-30"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MHEC acknowledged the findings and identified staffing shortages and leadership transitions as contributing factors. The agency stated it has implemented new processes, reorganized the Office of Student Financial Assistance, increased staffing, and established independent review protocols to address the issues. They agreed with all recommendations and provided completion dates ranging from September 2024 to August 2025.",
+    "total_dollar_impact": 10103965.0,
+    "extraction_notes": "Cybersecurity findings (4 & 5) were redacted per State law. Dollar amounts converted to integers. Dates formatted YYYY-MM-DD."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 7 amount 14600000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T02:36:26.546656",
+  "content_hash": "fbcc2f6ba928c40722b13ed5e27f9a207bd6ba09",
+  "duplicate_of": "5a8f4d11cc9d724560674444"
+}

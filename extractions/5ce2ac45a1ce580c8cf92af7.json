@@ -1,0 +1,219 @@
+{
+  "extraction": {
+    "agency_name": "Washington County Public Schools",
+    "parent_department": "Washington County Public Schools",
+    "report_date": "2025-02-13",
+    "audit_period_start": "2021-07-01",
+    "audit_period_end": "2023-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain requirements of State law and recognized best practices were not incorporated into Washington County Public Schools\u2019 (WCPS) procurement policies and were not consistently used when participating in intergovernmental cooperative purchasing agreements.",
+        "description": "WCPS did not incorporate statutory requirements or best practices into procurement policies for ICPAs. They used the ICPA method for 82 procurements totaling approximately $94.2 million but lacked written assessments justifying cost benefits or administrative efficiencies. Testing of 5 ICPAs totaling approximately $8.3 million disclosed missing best practices such as analyzing costs of competitive solicitations.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 94200000.0,
+            "context": "ICPA procurements awards totaling"
+          },
+          {
+            "amount": 8300000.0,
+            "context": "5 ICPAs tested"
+          }
+        ],
+        "recommendation": "WCPS should incorporate the aforementioned statutory requirements and other identified and acknowledged best practices into its procurement policies and ensure that the performance of the requirements and best practices are documented when evaluating and participating in ICPAs.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 2025"
+      },
+      {
+        "number": 2,
+        "title": "WCPS published contract awards on its website instead of on eMaryland Marketplace Advantage as required by State procurement law.",
+        "description": "WCPS did not publish contract awards on eMMA as required by State law for contracts $50,000 or more. From July 1, 2022 to February 20, 2024, WCPS published 78 contract awards valued at or over $50,000 totaling $57.3 million on its website instead of eMMA.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 57300000.0,
+            "context": "aggregate contract awards not published on eMMA"
+          }
+        ],
+        "recommendation": "WCPS should comply with State procurement law by publishing contract awards on eMMA as required.",
+        "agency_agrees": true,
+        "agency_completion_date": "January 2025"
+      },
+      {
+        "number": 3,
+        "title": "WCPS did not competitively procure a $3.6 million nursing services contract that has been awarded annually to the same vendor since 2013, and did not obtain available supporting documentation to ensure that related billings were proper.",
+        "description": "WCPS awarded a one-year $3.6 million nursing contract to the incumbent without competitive bids in August 2022 (similar awards made since 2013). WCPS did not obtain detailed staff timesheets or assignment reports to validate vendor billings for invoices totaling approximately $454,000 and $390,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3600000.0,
+            "context": "nursing services contract"
+          },
+          {
+            "amount": 454000.0,
+            "context": "invoice from October 2022"
+          },
+          {
+            "amount": 390000.0,
+            "context": "invoice from April 2023"
+          }
+        ],
+        "recommendation": "WCPS should ensure that contracts are competitively procured and awarded; use available supporting documentation (such as timesheets and staff assignment reports) to validate the propriety of vendor billings.",
+        "agency_agrees": true,
+        "agency_completion_date": "June 2025, July 2025"
+      },
+      {
+        "number": 4,
+        "title": "WCPS did not independently review payroll adjustments for propriety.",
+        "description": "WCPS did not independently review payroll adjustments for propriety. Two employees calculated and entered adjustments totaling approximately $1.2 million in fiscal year 2023 without independent supervisory review or approval. Testing of 10 leave payout adjustments valued at approximately $673,000 disclosed no inappropriate transactions.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "payroll adjustments"
+          },
+          {
+            "amount": 673000.0,
+            "context": "tested leave payout adjustments"
+          }
+        ],
+        "recommendation": "WCPS should perform a documented independent supervisory review of payroll adjustments to ensure that they are appropriate and properly supported.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 2025"
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Redacted cybersecurity-related finding. Specifics of the findings, including analysis and recommendations, have been redacted from this report.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Redacted cybersecurity-related finding. Specifics of the findings, including analysis and recommendations, have been redacted from this report.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Redacted cybersecurity-related finding. Specifics of the findings, including analysis and recommendations, have been redacted from this report.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "WCPS did not adequately monitor the performance of its third-party administrator that provided medical healthcare and pharmacy claims processing services.",
+        "description": "WCPS did not adequately monitor TPA performance. Payments to the TPA totaled approximately $1.1 million in fiscal year 2023. WCPS did not obtain claim data for supporting amounts billed; last audit was FY 2018 (recoveries $19,477). Pharmacy rebates totaled $7.3 million during fiscal year 2023.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1100000.0,
+            "context": "payments to the TPA"
+          },
+          {
+            "amount": 19477.0,
+            "context": "recoveries identified in prior audit"
+          },
+          {
+            "amount": 500000.0,
+            "context": "stop-loss limit"
+          },
+          {
+            "amount": 992000.0,
+            "context": "stop-loss premiums paid"
+          },
+          {
+            "amount": 93000.0,
+            "context": "stop-loss coverage received"
+          },
+          {
+            "amount": 7300000.0,
+            "context": "pharmacy rebates"
+          }
+        ],
+        "recommendation": "WCPS should establish procedures to verify the propriety of TPA claim billings; conduct claims audits; obtain and use detailed claim payment data for stop-loss limit; conduct pharmacy TPA audits; establish a process to independently verify TPA compliance with performance measures.",
+        "agency_agrees": true,
+        "agency_completion_date": "July 2025, December 2025, March 2025, September 2025"
+      },
+      {
+        "number": 9,
+        "title": "WCPS did not have memorandums of agreement with its affiliated foundations to address each entity\u2019s roles and responsibilities.",
+        "description": "WCPS did not have MOAs with BISFAF and WCPSEF. BISFAF revenues/expenditures/assets FY2023 were $274,000/$242,000/$2.1 million. WCPSEF reported revenues/expenditures/assets FY2023 were $111,000/$128,000/$69,000.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 274000.0,
+            "context": "BISFAF revenues"
+          },
+          {
+            "amount": 242000.0,
+            "context": "BISFAF expenditures"
+          },
+          {
+            "amount": 2100000.0,
+            "context": "BISFAF assets"
+          },
+          {
+            "amount": 111000.0,
+            "context": "WCPSEF reported revenues"
+          },
+          {
+            "amount": 128000.0,
+            "context": "WCPSEF reported expenditures"
+          },
+          {
+            "amount": 69000.0,
+            "context": "WCPSEF assets"
+          }
+        ],
+        "recommendation": "WCPS should enter into MOAs with affiliated foundations detailing roles and responsibilities for each entity in critical areas such as conflicts of interest, collection and safeguarding funds, and procurement policies.",
+        "agency_agrees": true,
+        "agency_completion_date": "June 2025"
+      }
+    ],
+    "prior_findings_count": 13,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "WCPS agreed to all recommendations and provided corrective action plans with estimated completion dates ranging from January 2025 to September 2025.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Findings 5-7 are redacted cybersecurity-related findings. Finding 4 and Finding 8 are marked as repeats in the text (asterisks in TOC, '(repeat)' in recommendations). Audit period based on Scope section."
+  },
+  "validation_flags": [
+    "repeat_count_mismatch: extracted 2, asterisk markers 1"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T21:28:59.501646",
+  "content_hash": "2225867b020845c41b7d4ace9a9406ab3ea741a2",
+  "duplicate_of": "5a945d38cc9d72404c150a3e"
+}

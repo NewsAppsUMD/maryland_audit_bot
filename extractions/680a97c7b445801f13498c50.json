@@ -1,0 +1,130 @@
+{
+  "extraction": {
+    "agency_name": "Department of Natural Resources",
+    "parent_department": "Department of Natural Resources",
+    "report_date": "2025-04-24",
+    "audit_period_start": "2019-08-06",
+    "audit_period_end": "2023-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Department of Natural Resources (DNR) did not effectively monitor local FCA programs to ensure they complied with the terms of the program and did not properly account for the related funds.",
+        "description": "DNR failed to conduct required biennial reviews for 15 of 22 jurisdictions and lacked documentation of site visits. Additionally, DNR could not determine fund balances accurately because local jurisdictions did not report them, preventing verification of refunds due within five years or six growing cycles.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [],
+        "recommendation": "Perform biennial reviews of all local forest conservation programs; maintain a complete listing of local projects; ensure all local jurisdictions submit annual reports; and properly identify and account for the use of local forest conservation funds in accordance with State law.",
+        "agency_agrees": true,
+        "agency_completion_date": "2026-12-31"
+      },
+      {
+        "number": 2,
+        "title": "DNR did not use $3.4 million collected for reforestation projects within the required timeframe and did not refund the funds to the paying entities to use for planting trees as required by State law.",
+        "description": "As of March 2024, DNR had not used or returned $3.4 million collected prior to fiscal year 2019 as required by State law, which mandates use within five years or six growing seasons after receipt.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 2,
+        "dollar_amounts": [
+          {
+            "amount": 3400000.0,
+            "context": "collected for reforestation projects not used or returned within required timeframe"
+          }
+        ],
+        "recommendation": "Ensure State FCA funds are expended for reforestation and afforestation in accordance with State law; determine the amount of State FCA funds that have not been spent within the time required, refund those funds back to the entities in accordance with State law, and ensure that those funds are used for tree planting.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-12-31"
+      },
+      {
+        "number": 3,
+        "title": "DNR did not evaluate Chesapeake and Atlantic Coastal Bays Trust Fund grant proposals using the published grant selection criteria, and certain grants were not competitively awarded as required by State law.",
+        "description": "Testing of seven grants totaling approximately $23.4 million disclosed that DNR did not use published selection criteria for five grants ($15.3 million) and did not use a competitive selection process for two grants ($8.1 million).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 15300000.0,
+            "context": "grants where DNR did not evaluate proposals using published selection criteria"
+          },
+          {
+            "amount": 8100000.0,
+            "context": "grants awarded without a competitive selection process"
+          }
+        ],
+        "recommendation": "Evaluate grant proposals submitted based on the published selection criteria and ensure all grant awards are competitively solicited as required.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-12-01"
+      },
+      {
+        "number": 4,
+        "title": "DNR could not provide documentation to support the propriety of approximately $1.7 million in federal fund accrued revenue. DNR also could not document the recovery of the funds and subsequently advised us that approximately $603,000 is not recoverable because the related costs were deemed ineligible by the federal granting agency.",
+        "description": "DNR could not support the propriety of approximately $1.7 million in federal fund accrued revenue or its subsequent recovery from FEMA. DNR determined that $603,000 was not recoverable due to ineligible costs, potentially requiring State funds to cover expenditures.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1700000.0,
+            "context": "federal fund accrued revenue for which DNR could not provide documentation"
+          },
+          {
+            "amount": 603000.0,
+            "context": "accrued revenue determined to be not recoverable due to ineligible costs"
+          }
+        ],
+        "recommendation": "Maintain supporting documentation for accrued revenue entries; determine the disposition of the aforementioned entries, properly report any amounts determined to be uncollectable, and work with the Department of Budget and Management to resolve any related deficits.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-07-01"
+      },
+      {
+        "number": 5,
+        "title": "DNR did not use available information to ensure the Comptroller of Maryland (COM) transferred certain required revenue into the Fund.",
+        "description": "Analysis of records for fiscal years 2020 to 2023 disclosed that COM did not transfer $430,225 of the $706,715 it should have under State law. DNR was unaware of this underfunding until OLA brought it to their attention.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 430225.0,
+            "context": "required revenue not transferred into the Mel Noland Woodland Incentive Fund"
+          }
+        ],
+        "recommendation": "Ensure COM deposits the proper amount into the Fund and work in conjunction with COM to recover the aforementioned $430,225.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-12-31"
+      },
+      {
+        "number": 6,
+        "title": "DNR did not verify the propriety of $15.1 million in charges for technology enterprise services received from the Department of Information Technology during fiscal years 2021 through 2023.",
+        "description": "DNR did not obtain adequate documentation to verify the propriety of charges totaling $15.1 million related to technology enterprise services, including failing to utilize available DoIT reports to support estimated units billed against actual usage.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 7,
+        "dollar_amounts": [
+          {
+            "amount": 15100000.0,
+            "context": "charges for technology enterprise services received from DoIT not verified"
+          }
+        ],
+        "recommendation": "Continue to work with DoIT to obtain the necessary information to ensure all technology enterprise services invoiced are supported and received.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-04-01"
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "DNR agreed with all recommendations and attributed past non-compliance to staff changes and remote work conditions during the audit period. The agency outlined corrective actions including hiring new staff, implementing digital tracking systems, centralizing grant management, and improving communication with the Comptroller's office.",
+    "total_dollar_impact": 19533225.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:43:09.123002",
+  "content_hash": "82665b79cb0fb1544fc63998dbc297e0a98f7553",
+  "duplicate_of": "5a8f4d15cc9d724560674514"
+}

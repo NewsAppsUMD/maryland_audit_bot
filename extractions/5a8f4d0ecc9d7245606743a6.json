@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "agency_name": "Criminal Injuries Compensation Board",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2014-10-01",
+    "audit_period_start": "2011-02-22",
+    "audit_period_end": "2014-04-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Award determinations were not always made timely.",
+        "description": "CICB did not make award determinations in a timely manner. Review of case files for 20 payments totaling $224,000 disclosed that 6 awards totaling $76,000 had delays ranging from 37 to 321 days beyond the 90-day statutory limit.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 224000.0,
+            "context": "review of case files for award payments"
+          },
+          {
+            "amount": 76000.0,
+            "context": "6 awards had delays beyond statutory limit"
+          }
+        ],
+        "recommendation": "We recommend that CICB make award determinations within 90 days, as required.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the response from DPSCS, on behalf of CICB, to the finding and recommendation is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'October 2014'. Audit period explicitly stated in Scope section. Agency response content not provided in text snippet."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:57:11.360064",
+  "content_hash": "640f763598394a53f2c530bb3ea44b248a869068",
+  "duplicate_of": "5a8f4d0ecc9d7245606743a2"
+}

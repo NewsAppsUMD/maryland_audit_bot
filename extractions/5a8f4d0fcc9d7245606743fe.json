@@ -1,0 +1,126 @@
+{
+  "extraction": {
+    "agency_name": "Department of Human Resources",
+    "parent_department": "Department of Human Resources",
+    "report_date": "2015-04-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2013-11-24",
+    "findings": [
+      {
+        "number": 1,
+        "title": "FIA lacked documentation that required computer matches were performed and alerts were adequately resolved.",
+        "description": "FIA could not provide documentation for all required computer matches since July 2010, including SSN, PARIS, and New Hire matches. System alerts resulting from matches were not always recorded in CARES, and many cases with unverified or missing Social Security Numbers remained unresolved for extended periods (over 10,500 outstanding longer than a year as of January 2014).",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. ensure documentation is maintained showing that all computer matches are performed at the required intervals and that the results are investigated; b. determine the specific reasons and the appropriateness of certain match results not being recorded in CARES as system alerts; c. ensure that local departments investigate and resolve unverified or missing recipient social security numbers, including those noted above, on a timely basis.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Certain quality assurance reviews were not always conducted as required.",
+        "description": "Local departments of social services did not conduct all required Pre-Review Program (PRP) reviews for SNAP cases, with some offices conducting fewer than the required percentages or none at all in September 2013. FIA lacked documentation that noncompliance was adequately addressed despite having access to monthly reports on review completion rates.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. use the aforementioned monthly reports to ensure that PRP reviews are performed as required by the local departments; b. maintain documentation specifying the steps taken to address noncompliance on the part of local departments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "FIA did not ensure that adequate documentation was maintained to support applicant eligibility and the validity of payments made for energy assistance programs.",
+        "description": "Local Administering Agencies (LAAs) failed to maintain required documentation such as valid driver's licenses, lease agreements, or utility bills for tested applications totaling approximately $24,000. Additionally, some applications lacked certifier signatures and were approved past the 45-day regulatory requirement.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 125000000.0,
+            "context": "Energy assistance program benefits totaled during fiscal year 2013"
+          },
+          {
+            "amount": 24000.0,
+            "context": "test of applications processed by two LAAs"
+          }
+        ],
+        "recommendation": "a. obtain and maintain all required documentation to support critical energy assistance application data; b. approve or deny completed applications within the required time frame.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "FIA\u2019s monitoring of contract costs and deliverables for certain contracts was not sufficient.",
+        "description": "Monitoring procedures needed improvement for four contracts totaling $22.6 million. FIA did not sufficiently verify billed costs on three contracts, including one where payments totaled $2.7 million lacked details like hours incurred or work dates. For another contract valued at $302,000 base plus $332,000 renewal option, required quarterly reports of economic benefits were not received.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 22600000.0,
+            "context": "contracts for which monitoring procedures needed to be improved"
+          },
+          {
+            "amount": 2700000.0,
+            "context": "payments made on one contract during the period from January through November 2013"
+          },
+          {
+            "amount": 302000.0,
+            "context": "contract base term value"
+          },
+          {
+            "amount": 332000.0,
+            "context": "one year renewal option valued"
+          }
+        ],
+        "recommendation": "a. obtain adequate documentation, such as time and payroll records, to verify the accuracy and propriety of contract billings; b. ensure that required contract deliverables, such as economic benefit reports, are received.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "FIA lacked procedures and documentation to ensure that Temporary Disability Assistance Program payments were made only to eligible recipients, and that federal funds were recovered.",
+        "description": "FIA was unable to provide critical documentation for 12 TDAP recipients totaling $76,025 in payments. Cases were not closed timely after SSA decisions, resulting in $14,400 paid to individuals where benefits should have ceased. Additionally, FIA did not receive federal reimbursements totaling $6,465 for 3 individuals due to delays in submitting IAR forms.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 43000000.0,
+            "context": "TDAP benefits totaled during fiscal year 2013"
+          },
+          {
+            "amount": 76025.0,
+            "context": "paid to 12 recipients from November 2008 to June 2014 where documentation was missing"
+          },
+          {
+            "amount": 14400.0,
+            "context": "TDAP benefits paid after SSA final decision rendered"
+          },
+          {
+            "amount": 6465.0,
+            "context": "federal reimbursements not received for 3 individuals"
+          }
+        ],
+        "recommendation": "a. all documentation required to establish recipient eligibility is received and maintained prior to making TDAP payments; b. TDAP cases are closed in a timely manner once SSA renders its final decision regarding a recipient\u2019s application for federal benefits; c. IAR forms are appropriately filed and all reimbursable TDAP payments are received.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Human Resources generally agreed with the findings and recommendations, noting that some issues represented a low level of risk or had already been addressed through system modifications and process improvements implemented in 2014 and early 2015. They expressed agreement with reservations on specific documentation requirements but committed to further controls and monitoring enhancements.",
+    "total_dollar_impact": 20865.0,
+    "extraction_notes": "Report date derived from header 'April 2015'. Audit period explicitly stated in Scope section. Prior findings count/repeated derived from Status of Findings section. Dollar amounts converted to integers. Criminal referral and fraud hotline origin are false as no explicit statements were found."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:03:47.887296",
+  "content_hash": "f33dfacf515660c4b8944f4b58fabe639faceb43",
+  "duplicate_of": "5a8f4d0fcc9d7245606743fc"
+}

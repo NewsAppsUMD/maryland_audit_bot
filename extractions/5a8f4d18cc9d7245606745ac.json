@@ -1,0 +1,119 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2013-01-01",
+    "audit_period_start": "2009-07-01",
+    "audit_period_end": "2012-06-03",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Cash Receipts Received on Behalf of Inmates Were Not Adequately Accounted for and Controlled",
+        "description": "Collections received for inmates were not adequately accounted for or controlled. The employee verifying deposits had access to collections and verified them using logs from deposit preparers rather than initial records, with verifications performed 7 to 112 days after deposit. There was no procedure to ensure numerical sequence of receipt numbers, and work release collection forms were not verified to deposit.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4800000.0,
+            "context": "inmate collections totaled approximately"
+          },
+          {
+            "amount": 113000.0,
+            "context": "test of 17 deposits totaling approximately"
+          }
+        ],
+        "recommendation": "Ensure an employee independent of cash receipts processing verifies deposit of all collections daily; ensure documentation used to initially record collections is given directly to the independent employee; properly account for receipt forms and maintain inventory by an employee without access to cash receipts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Region Lacked Certain Critical Controls Over Inmate Working Fund Transactions and Records",
+        "description": "Critical controls for inmate working fund transactions were lacking. One employee signing checks did not examine supporting documentation, and the signature stamp was left unsecure allowing unauthorized access. Supervisory review of bank reconciliations did not verify critical data, and monthly composition statements were not prepared as required.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1700000.0,
+            "context": "working fund disbursements totaled approximately"
+          },
+          {
+            "amount": 284000.0,
+            "context": "reconciling items totaling approximately"
+          },
+          {
+            "amount": 175000.0,
+            "context": "advance from the Comptroller"
+          }
+        ],
+        "recommendation": "Ensure employees reviewing supporting documentation prior to approval; adequately secure blank checks and signature stamps; ensure supervisory review of bank reconciliations includes verification of critical data; prepare fund compositions monthly as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Controls Over Critical Payroll Adjustments Were Not Sufficient",
+        "description": "Procedures for verifying payroll adjustments were not sufficient, and overtime adjustments were not always supported by documentation. The employee approving time reports did not review supporting documentation, and the independent verification test was inadequate as it included only six randomly selected employees without regard to recorded adjustments.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 28000.0,
+            "context": "test of 10 overtime adjustments totaling approximately"
+          },
+          {
+            "amount": 11000.0,
+            "context": "307 hours totaling not supported by approved documentation"
+          },
+          {
+            "amount": 118600000.0,
+            "context": "payroll expenditures totaled approximately"
+          },
+          {
+            "amount": 7300000.0,
+            "context": "adjustments to payroll totaled approximately"
+          },
+          {
+            "amount": 6000000.0,
+            "context": "$6 million for overtime"
+          }
+        ],
+        "recommendation": "Ensure critical payroll adjustments are selected for review and verified to supporting documentation; increase the number of employee payroll payments verified each pay period based on significance and risk; ensure overtime payments are made only if required documentation is completed.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Corporate Purchasing Card Transactions Were Not Verified as Required",
+        "description": "Corporate purchasing card transactions were not verified for propriety as required. Supervisory personnel approved cardholder activity logs without reviewing supporting documentation such as itemized receipts and invoices, potentially allowing unauthorized purchases to be made without detection.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2600000.0,
+            "context": "CPC expenditures totaled approximately"
+          }
+        ],
+        "recommendation": "Ensure that all documentation supporting CPC transactions is reviewed by supervisory personnel as required.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Public Safety and Correctional Services agreed to all recommendations for Findings 1 and 2, stating they would implement changes effective immediately. The provided text does not include the agency's response for Findings 3 or 4.",
+    "total_dollar_impact": 11000.0,
+    "extraction_notes": "Report date derived from header 'January 2013'. Audit period explicitly stated in Scope section. Agency completion dates marked as null as 'Effective immediately' is not a YYYY-MM-DD date."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:15:01.881754",
+  "content_hash": "f597fdff29b57e09fe2df631d1d30bed299690a2",
+  "duplicate_of": null
+}

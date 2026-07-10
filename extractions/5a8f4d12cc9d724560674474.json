@@ -1,0 +1,169 @@
+{
+  "extraction": {
+    "agency_name": "Department of Information Technology",
+    "parent_department": "Department of Information Technology",
+    "report_date": "2016-09-01",
+    "audit_period_start": "2012-02-09",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DoIT lacked sufficient documentation supporting its reviews of annual MITDP status reports and system development documents, and that quarterly portfolio reviews were conducted.",
+        "description": "DoIT lacked sufficient documentation to support effective monitoring of Major Information Technology Development Projects (MITDPs) through reviews of annual status reports and system development documents. Issues included unupdated project information for projects valued at $163.6 million, lack of approval documentation for each System Development Life Cycle phase, and insufficient documentation of quarterly portfolio review meetings.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 355500000.0,
+            "context": "five MITDP projects tested"
+          },
+          {
+            "amount": 163600000.0,
+            "context": "ITPRs not updated from prior year"
+          }
+        ],
+        "recommendation": "a. ensure project status information reported on the ITPR is current and complete as part of its annual review and approval process; b. implement procedures to approve each SDLC phase when successfully completed; c. establish and adhere to specific documentation requirements to support that quarterly portfolio review meetings were performed, that agency project status reports were verified for accuracy, and that its recommended corrective actions resulting from the meeting were documented.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DoIT had not established a process to independently evaluate project managers hired through a vendor to oversee MITDPs, specific project monitoring documentation and reporting requirements, nor a means to ensure sufficient contract personnel were assigned to monitor all 33 MITDPs valued at $850 million.",
+        "description": "DoIT lacked a process to independently evaluate vendor-supplied oversight project managers or ensure sufficient resources were assigned to monitor all 33 MITDPs. Activity reports from project managers varied in content, and only 6 of up to 20 available personnel were assigned without explanation for the workload.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 850000000.0,
+            "context": "value of all MITDPs"
+          },
+          {
+            "amount": 32200000.0,
+            "context": "total contract value with vendor"
+          },
+          {
+            "amount": 3800000.0,
+            "context": "payments to vendor as of December 2015"
+          }
+        ],
+        "recommendation": "a. establish a process to independently evaluate the performance of OPMs; b. develop specific documentation and reporting requirements for OPM project monitoring activities; c. establish a process to ensure an adequate number of OPMs are assigned to meet the project oversight needs.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DoIT had not established comprehensive policies for project changes to scope, schedule, or costs (rebaselining) and Independent Verification and Validation assessments.",
+        "description": "DoIT lacked comprehensive policies for rebaselining projects and using Independent Verification and Validation (IV&V) assessments. Rebaselining was based on subjective judgment without maintained historical records, and IV&V initiation criteria were unclear, resulting in only one IV&V initiated for 33 MITDPs.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend DoIT establish and adhere to comprehensive policies, including the aforementioned suggested provisions, governing project rebaselining decisions and recordkeeping, and the use of IV&Vs.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "The DoIT, DBM, and EOG networks were not properly secured in that certain contractors had been granted unnecessary access and certain security capabilities were not fully used.",
+        "description": "Networks for DoIT, DBM, and EOG were improperly secured. Contractors had unnecessary network level access to workstations and servers (57 of 213), and advanced security appliances did not utilize expanded capabilities or intrusion detection systems for encrypted traffic.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. restrict each DoIT and DBM contractor\u2019s network level access to only those servers and workstations that each contractor needs to access; b. fully utilize the expanded capabilities of the advanced security appliances to properly secure the DoIT, DBM, and EOG networks; c. perform a documented review and assessment of its network security risks from encrypted traffic and identify how IDPS and/or HIPS coverage should be best applied to its network and implement this coverage.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Computers covered by DoIT\u2019s managed desktop services were not properly maintained and secured with current malware protection.",
+        "description": "Managed computers were not properly maintained or secured. Issues included outdated malware software on 188 computers, unauthorized local administrator rights on 32 workstations, and unpatched vulnerabilities on 662 computers running older versions of commonly vulnerable applications.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. ensure that all managed computers are running current versions of their malware protection software; b. ensure that administrative rights on managed workstations are restricted to system and network administrators; c. promptly install all critical security-related software updates for commonly vulnerable applications on all managed computers.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "DoIT did not properly instruct State agencies procuring services from DoIT\u2019s statewide contract to secure competitive bids received electronically and DoIT did not always properly secure its own bids.",
+        "description": "DoIT failed to properly instruct agencies on securing electronic competitive bids (guidance lacked password protection for technical proposals) and did not properly secure its own bids. Testing of two contracts showed only financial proposals were protected or none were, and opening in presence of two employees was not documented.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "one contract tested"
+          },
+          {
+            "amount": 100000.0,
+            "context": "other contract tested"
+          },
+          {
+            "amount": 479500000.0,
+            "context": "total awarded through CATS+ master contract"
+          },
+          {
+            "amount": 108200000.0,
+            "context": "awarded by DoIT for its operations"
+          }
+        ],
+        "recommendation": "a. revise its guidance for the CATS+ contract to require that access to competitive bid proposals received electronically be properly restricted and ensure this guidance is established for all its statewide contracts; b. ensure that agencies using DoIT\u2019s statewide information technology contracts are specifically instructed to document the opening of competitive bid proposals in the presence of at least two State employees; c. properly secure its own bids consistent with this guidance.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DoIT did not recommend an appropriate reduction in the Universal Service Fee in recognition of excess funds in the Universal Service Trust Fund.",
+        "description": "DoIT did not recommend a fee reduction for fiscal year 2015 despite the Universal Service Trust Fund balance significantly exceeding needed amounts ($12.4 million as of June 30, 2015). The fund balance could support the program for at least three years without assessment.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7800000.0,
+            "context": "USTF revenue in fiscal year 2013"
+          },
+          {
+            "amount": 4000000.0,
+            "context": "TAM program expenditures in fiscal year 2013"
+          },
+          {
+            "amount": 6700000.0,
+            "context": "USTF fund balance as of June 30, 2013"
+          },
+          {
+            "amount": 10300000.0,
+            "context": "USTF balance as of June 30, 2014"
+          },
+          {
+            "amount": 12400000.0,
+            "context": "USTF balance as of June 30, 2015"
+          }
+        ],
+        "recommendation": "a. annually determine the minimum balance needed in the USTF, considering the fund balance and projected TAM expenditure activity for that year; b. recommend a change in the Universal Service Fee, as necessary.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DoIT generally concurred with recommendations but disagreed on specific points regarding SDLC phase approval (Finding 1), contractor network access restrictions (Finding 4), opening bids in presence of two employees (Finding 6), and fee reduction timing due to potential FCC mandate costs (Finding 7). They cited ongoing transformation to Lean Agile models, regulatory constraints, and the need for further analysis as reasons for disagreements or explanations.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'September 2016'. Audit period explicitly stated in Scope section. Prior findings count/repeated based on Status of Findings From Preceding Audit Reports section."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 7 amount 6700000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:18:12.571933",
+  "content_hash": "f1c93d588e9f03cb9a30074064ffc52e69eee4b6",
+  "duplicate_of": null
+}

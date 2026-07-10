@@ -1,0 +1,171 @@
+{
+  "extraction": {
+    "agency_name": "University of Maryland, Baltimore",
+    "parent_department": "University System of Maryland",
+    "report_date": "2016-09-01",
+    "audit_period_start": "2011-09-07",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "UMB lacked an independent verification of adjustments to financial aid awards posted to student accounts, and certain employees had incompatible system access capabilities that allowed them to both adjust and disburse financial aid awards.",
+        "description": "Sufficient controls were not established to ensure the propriety of financial aid posted to student accounts. Adjustments to financial aid award amounts were not independently verified for propriety using available output reports, and seven employees had incompatible system access capabilities allowing them to release aid despite it not being necessary for their job duties.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 138000000.0,
+            "context": "financial aid awarded to students"
+          }
+        ],
+        "recommendation": "UMB should use available output reports to independently verify that all adjustments to financial aid were proper, and eliminate incompatible user capabilities so that the same individual cannot both adjust and release (disburse) financial aid.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "There was no independent verification to ensure that all fund requests for reimbursement of federal financial aid were received.",
+        "description": "UMB did not have an adequate process to ensure that funds were deposited in the State's bank account for all requests to the federal government for reimbursement of financial aid. An independent employee did not use available output reports to verify that all requested funds were received and deposited, creating a risk that funds could be redirected.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 122000000.0,
+            "context": "federal financial aid for student grants and loans"
+          }
+        ],
+        "recommendation": "An employee independent from the process of requesting federal financial aid should use available automated reports of requests made to verify that all requested funds were properly deposited into the State's bank account.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Several employees, including some who did not require the applicable system capabilities for their job duties, could process certain transactions, such as tuition waivers, without independent verification.",
+        "description": "Controls over critical transactions posted to student accounts were not sufficient. Several employees processed transactions like tuition waivers and residency determinations without independent verification, and output reports were not generated or used adequately. Additionally, 11 employees had system access capabilities they did not require for their job duties.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3100000.0,
+            "context": "tuition waivers"
+          },
+          {
+            "amount": 145200000.0,
+            "context": "student account charges"
+          }
+        ],
+        "recommendation": "UMB should establish procedures, including the use of available output reports, to independently verify the propriety of critical transactions posted to student accounts, and remove unnecessary employee system access capabilities.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Certain employees were assigned system access capabilities to process purchase orders and disbursement transactions without independent review and approval.",
+        "description": "UMB did not establish adequate controls over certain purchasing and disbursement transactions. Eighteen employees could process purchase orders not subject to independent review, and two employees could process disbursements like honorariums and stipends without further automated or manual review and approval.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 113500000.0,
+            "context": "purchase orders processed"
+          },
+          {
+            "amount": 404000.0,
+            "context": "disbursements by one employee"
+          },
+          {
+            "amount": 95000.0,
+            "context": "disbursements by another employee"
+          }
+        ],
+        "recommendation": "UMB should ensure that all purchase orders in excess of the dollar amounts specified and all disbursement transactions are subject to independent review and approval.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Through an interagency agreement, UMB acquired certain information technology services totaling $539,000 on behalf of the Maryland Longitudinal Data System Center, which allowed the Center to avoid using a competitive procurement process for those services.",
+        "description": "UMB and the Center improperly used an interagency agreement to procure additional services from third-party vendors without oversight or competitive procurement. The agreement included fees even though UMB did not exercise contractual responsibilities other than procuring contracts. Prior notification of sole source procurements exceeding $100,000 was not provided as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 539000.0,
+            "context": "IT services acquired"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "total cost of interagency agreement for three years"
+          },
+          {
+            "amount": 100000.0,
+            "context": "threshold for sole source procurement notification"
+          }
+        ],
+        "recommendation": "UMB should discontinue using interagency agreements which enable another agency to avoid a competitive procurement process, and notify the USM Office of all sole source procurements in excess of $100,000 as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "UMB did not always use available output reports to ensure that only valid payroll adjustments were processed.",
+        "description": "Available output reports were not always being reviewed to ensure that only authorized payroll adjustments were processed. Three departments with 1,168 employees were not using the output reports for verification purposes despite their availability from the Central Payroll Bureau.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 741300000.0,
+            "context": "payroll expenditures for fiscal year 2015"
+          }
+        ],
+        "recommendation": "UMB should establish procedures requiring independent review and approval of the payroll output reports subsequent to CPB processing for all departments to ensure that only properly approved payroll adjustments were processed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "The UMB network was not sufficiently secured in that properly configured firewall rules and effective intrusion detection prevention system coverage did not exist.",
+        "description": "The core firewalls contained unused rules allowing access to the internal network from untrusted parties. Effective intrusion detection prevention system (IDPS) coverage for encrypted network traffic did not exist, and network traffic from numerous untrusted sources was not subject to IDPS protection.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "UMB should perform periodic documented reviews of its firewall rules to ensure that only necessary rules remain active and delete/disable rules based on these reviews, and perform a documented review and assessment of network security risks to implement IDPS/HIPS coverage for traffic from all untrusted parties.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "UMB procedures were not sufficient for maintaining and securing numerous workstations against malware.",
+        "description": "Certain workstations had users with administrative rights rather than user rights. Some computers had not been updated with the latest releases for software products known to have vulnerabilities. UMB did not effectively use application restriction software on over 1,000 CITS maintained workstations.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "UMB should ensure that administrator rights on workstations are restricted to only those individuals requiring such rights, promptly install all critical security-related software updates, and develop, implement, and enforce an application restriction software policy.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland and UMB agreed with all recommendations. Responses indicated that procedures were implemented during or after the audit to address control weaknesses, including supervisory review requirements, removal of unnecessary system access capabilities, revised payroll verification procedures, and implementation of network security enhancements such as new firewalls and application restriction software.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'September 2016'. Audit period explicitly stated in Scope section. No criminal referrals or fraud hotline origins mentioned. Prior findings status indicates all 7 preceding findings were addressed satisfactorily."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 5 amount 1200000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:29:33.338158",
+  "content_hash": "cca7577905be4f94a843e9735232ba59259ced5f",
+  "duplicate_of": "5a8f4d1dcc9d72456067473c"
+}

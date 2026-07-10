@@ -1,0 +1,62 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2016-10-01",
+    "audit_period_start": "2013-04-01",
+    "audit_period_end": "2016-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office did not always deposit its collections in a timely manner.",
+        "description": "The Office failed to deposit collections totaling approximately $1.5 million during fiscal year 2015 in a timely manner. Testing of collections totaling approximately $428,000 disclosed that receipts received on four days were deposited three to eight business days after receipt.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1500000.0,
+            "context": "collections during fiscal year 2015"
+          },
+          {
+            "amount": 428000.0,
+            "context": "test of collections"
+          },
+          {
+            "amount": 11389.0,
+            "context": "range of amounts received on four days"
+          },
+          {
+            "amount": 44232.0,
+            "context": "range of amounts received on four days"
+          },
+          {
+            "amount": 41722.0,
+            "context": "example collection not deposited until seven business days after receipt"
+          },
+          {
+            "amount": 112000.0,
+            "context": "collections for the four days with untimely deposits"
+          }
+        ],
+        "recommendation": "We recommend that the Office deposit all collections in a timely manner.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office's response to the finding and recommendation is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'October 2016' as no specific transmittal letter date was provided. No parent department explicitly stated in text."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 1500000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:04:09.019665",
+  "content_hash": "9b20c390ac700ab4f302a8b8abab7dc530fbdb6a",
+  "duplicate_of": "5a8f4d18cc9d7245606745de"
+}

@@ -1,0 +1,68 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland - General Accounting Division",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2024-09-25",
+    "audit_period_start": "2019-12-02",
+    "audit_period_end": "2023-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The General Accounting Division (GAD) did not adequately monitor agency corporate purchasing card activity.",
+        "description": "GAD failed to conduct required field visits or obtain self-audits for agencies using the Corporate Purchasing Card program, resulting in $364.8 million in spending without oversight between August 2021 and December 2022. Additionally, GAD did not review questionable purchases as required and failed to ensure all participating agencies submitted monthly compliance certifications.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 2,
+        "dollar_amounts": [
+          {
+            "amount": 281300000.0,
+            "context": "CPC spending during fiscal year 2023"
+          },
+          {
+            "amount": 364800000.0,
+            "context": "CPC spending between August 2021 and December 2022 without field visits or self-audits"
+          },
+          {
+            "amount": 114000000.0,
+            "context": "Fiscal year 2023 CPC spending by 52 agencies not visited or required to submit self-audit"
+          },
+          {
+            "amount": 675970.0,
+            "context": "Total of 111 questionable transactions identified"
+          },
+          {
+            "amount": 5600.0,
+            "context": "Amount of invoices obtained supporting propriety of two transactions"
+          }
+        ],
+        "recommendation": "Establish formal policies and procedures for review of Statewide CPC activity including criteria for questionable transactions and frequency of field visits; require all agencies to submit self-audits if not receiving a field review; ensure all agencies submit required monthly compliance certifications.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-12-31"
+      },
+      {
+        "number": 2,
+        "title": "GAD did not have a current and comprehensive listing of agencies that were granted an exemption (waiver) from submitting support for disbursements.",
+        "description": "GAD lacked a current listing of waivers, relying on a binder dating back to 1980 which included waivers for defunct agencies like the Department of Personnel and Crownsville Hospital Center. Furthermore, GAD had no formal procedures to periodically review whether granted waivers were still warranted.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish a current and comprehensive listing of agencies granted waivers from State regulations; establish and adhere to formal policies to periodically review waivers to ensure they are still warranted.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-09-30"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Comptroller's Office agreed with all findings and recommendations, stating their response satisfies each recommendation. They acknowledged the audit team's professionalism and noted that while some aspects require clarification, they do not anticipate needing Committee attention to resolve them.",
+    "total_dollar_impact": 675970.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:36:57.141843",
+  "content_hash": "1d4c7d3b10841ac8dc842bb3f709dfcb0aaa4787",
+  "duplicate_of": null
+}

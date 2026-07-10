@@ -1,0 +1,78 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2016-11-09",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2016-02-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The University of Maryland, Baltimore County\u2019s (UMBC) Facilities Management Department used an on-call maintenance contract as a means to process the work of other vendors, thereby circumventing UMBC\u2019s Simplified Procurement Procedures.",
+        "description": "UMBC employees processed other vendors' work through an on-call maintenance contract to avoid competitive bidding requirements for procurements over $5,000. This arrangement allowed contractors to charge mark-ups on unrelated vendor costs and occurred at least 28 times involving 11 vendors paid a total of $209,500.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 209500.0,
+            "context": "paid to vendors"
+          }
+        ],
+        "recommendation": "Ensure procurements are performed in accordance with UMBC\u2019s Simplified Procurement Procedures; discontinue its practice of processing vendor payments through its on-call contractors and directing the on-call contractors to use subcontractors selected by UMBC employees; properly separate the duties over the procurement, contract monitoring, and invoice approval functions for maintenance services.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-10-17"
+      },
+      {
+        "number": 2,
+        "title": "UMBC did not document its rationale for reevaluating a technical proposal submitted by a vendor that was initially rejected, but subsequently selected as one of the on-call maintenance contractors, nor did UMBC adequately document the subsequent reevaluation of the bid proposal.",
+        "description": "UMBC failed to document why a rejected vendor's bid was reevaluated and selected. Only 3 of 6 committee members participated in reevaluation without explanation or signatures. $1 million paid to this contractor during the period.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "paid to contractor whose bid was reevaluated"
+          }
+        ],
+        "recommendation": "Adequately document the reevaluation and rationale for reevaluating vendor bid proposals; ensure that documentation is maintained to substantiate the concurrence by evaluation committee members of bidder rankings.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Invoices submitted by two vendors did not always provide sufficient detail to substantiate the propriety of the charges, and one vendor submitted invoices with questionable charges. In addition, some of the work performed by one of these vendors could likely have been performed by UMBC employees or the on-call maintenance contractors at a lower cost.",
+        "description": "Proposals/invoices lacked details (e.g., square footage). Six seating vendor invoices totaling $7,500 had questionable charges for non-existent rows. Work could have been done cheaper in-house or via on-call ($95/hr vs $57/hr). Total payments to these vendors were $190,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7500.0,
+            "context": "questionable charges"
+          },
+          {
+            "amount": 190000.0,
+            "context": "total payments to flooring and seating vendors"
+          }
+        ],
+        "recommendation": "Ensure that proposals and invoices contain sufficient details to enable verification of the amounts billed; conduct a thorough review of the seating vendor\u2019s invoices and investigate and resolve any discrepancies, including recovering any amounts that are determined to be improperly billed; use UMBC employees or the on-call maintenance contractors to perform seating maintenance and repairs to the extent practical.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": true,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "The University System of Maryland agreed with all recommendations. For Finding 1, they stated the practice was discontinued and duties separated effective October 17, 2016. For Finding 2, they committed to documenting reevaluations and concurrence. For Finding 3, they confirmed a review of invoices was conducted, discrepancies were investigated, and on-call contracts will be used for seating maintenance due to insufficient staff.",
+    "total_dollar_impact": 217000.0,
+    "extraction_notes": "Report date taken from transmittal letter (November 9, 2016). Audit period based on payment review dates (July 2012 through February 2016). Criminal referral confirmed in Background section referring 'these matters' to the Office of the Attorney General. Fraud hotline origin confirmed in Scope/Objectives."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:17:31.555924",
+  "content_hash": "522de63e833a62f2fda59c56b2def0cc782e1c31",
+  "duplicate_of": null
+}

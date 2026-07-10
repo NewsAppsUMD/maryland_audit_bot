@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills Dorchester County",
+    "parent_department": null,
+    "report_date": "2015-05-01",
+    "audit_period_start": "2011-11-21",
+    "audit_period_end": "2015-02-17",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a written response as there were no recommendations in the report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings sections ('Finding N') were present in the text. Background financial figures ($1,261,897 gross receipts, $288,402 operating expenses) are not tied to specific findings."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:24:26.104749",
+  "content_hash": "692ef607ce6cca0c02083507c4b989a896044239",
+  "duplicate_of": null
+}

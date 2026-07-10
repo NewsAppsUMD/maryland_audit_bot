@@ -1,0 +1,81 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2008-11-19",
+    "audit_period_start": "2005-08-01",
+    "audit_period_end": "2008-03-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Efforts were not made to obtain certain medical services for the Eastern Shore Hospital Center (ESHC) and the Upper Shore Community Mental Health Center (USCMHC) at the lowest possible prices.",
+        "description": "Review of expenditures disclosed efforts generally were not made to obtain medical services at the lowest possible prices, with providers paid without soliciting bids. Expenditures for these services totaled approximately $715,000 at ESHC and $321,000 at USCMHC during the audit period. Testing of invoices showed rates paid were excessive compared to Medicaid and State employee health plan reimbursement rates.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 715000.0,
+            "context": "Expenditures for medical services at ESHC"
+          },
+          {
+            "amount": 321000.0,
+            "context": "Expenditures for medical services at USCMHC"
+          },
+          {
+            "amount": 100000.0,
+            "context": "Test of selected invoices paid by ESHC to two medical providers"
+          },
+          {
+            "amount": 5180.0,
+            "context": "Three invoices tested for cardiology services"
+          },
+          {
+            "amount": 3982.0,
+            "context": "Difference between rates paid by ESHC and Medicaid rates on tested invoices"
+          },
+          {
+            "amount": 3299.0,
+            "context": "Total difference with State employee health plan reimbursement rates"
+          }
+        ],
+        "recommendation": "We recommend that ESHC comply with the provisions of the State Procurement Regulations with respect to obtaining medical services for ESHC and USCMHC patients.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "ESHC did not properly monitor contract billings for pharmacy services.",
+        "description": "ESHC did not adequately monitor a contract with a State university to provide personnel for the operation of its pharmacy. Costs billed were not compared with supporting documents such as payroll records. Payments to the university totaled $348,000 during fiscal year 2007 and the contract was not reported to DBM as required.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 348000.0,
+            "context": "Payments to the university during fiscal year 2007"
+          },
+          {
+            "amount": 100000.0,
+            "context": "Threshold for reporting agreements to DBM"
+          }
+        ],
+        "recommendation": "We recommend that ESHC verify the accuracy of amounts charged on the invoices from the State university by reviewing supporting documents, including payroll records. In addition, we recommend that ESHC report the contract to DBM, as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 1,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Center takes exception to Finding 1 regarding the basis of comparison (Medicaid fee schedule) but acknowledges fee structures remain high due to specialist shortages. For Finding 2, the Center agrees with the findings and recommendations, noting that verification steps have been taken and OPASS will handle reporting contracts to DBM.",
+    "total_dollar_impact": 7281.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:16:57.546952",
+  "content_hash": "6db57aeb80ea532f4012cf24ffad2c1553996bd4",
+  "duplicate_of": null
+}

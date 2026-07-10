@@ -1,0 +1,143 @@
+{
+  "extraction": {
+    "agency_name": "Department of Business and Economic Development",
+    "parent_department": "Department of Business and Economic Development",
+    "report_date": "2015-10-21",
+    "audit_period_start": "2013-07-01",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Formal Goals, Objectives, and Related Measures Had Not Been Established for Directing and Evaluating the Program and Fund Manager Performance",
+        "description": "BPW and DBED had not established goals or objectives to direct lending activities or evaluate performance beyond state law requirements. No economic impact targets, industry focuses, or geographic distribution measures were defined.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BPW and DBED establish Program goals, objectives, and related measures to direct the lending and investing activities and to evaluate Program and fund manager performance.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 2,
+        "title": "DBED Did Not Establish Interim Financial Reporting Requirements or Ensure Fund Managers Submitted Audited Financial Statements of Grant Activity in Accordance With the Contract",
+        "description": "DBED failed to require interim financial reports and one fund manager submitted audited statements that commingled Program activity with other operations using an incorrect reporting period.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BPW require DBED to develop interim financial reporting requirements and enforce fund manager compliance with the financial reporting requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06-30"
+      },
+      {
+        "number": 3,
+        "title": "DBED Had Not Established a Formal Process to Verify Fund Manager Compliance with Key Program Contractual Requirements",
+        "description": "DBED lacked a formal process to verify compliance with eligibility, targeted area requirements, underwriting standards, and insurance coverage. Two fund managers received $3,577,000 without verified insurance.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 105000.0,
+            "context": "loans to businesses with bad credit or no credit score"
+          },
+          {
+            "amount": 450000.0,
+            "context": "equity loans without collateral"
+          },
+          {
+            "amount": 3577000.0,
+            "context": "Program funds received before insurance verification"
+          }
+        ],
+        "recommendation": "BPW ensure that DBED establishes formal processes for verifying fund manager compliance with key contractual requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DBED Had Not Established a Formal Evaluation Process to Assess the Performance of Fund Managers",
+        "description": "DBED had not established a formal annual evaluation process to assess fund manager performance or whether desired results were achieved.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DBED establish a formal process to annually evaluate fund manager performance.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 5,
+        "title": "DBED Authorized a Contract Modification for One Fund Manager Without Obtaining BPW Approval",
+        "description": "DBED authorized an increase in the fund establishment fee by $145,000 without BPW approval as required by State law and agreements.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 145000.0,
+            "context": "increase in fund establishment expense fee without approval"
+          }
+        ],
+        "recommendation": "BPW require DBED to submit all contract modifications and related justifications to BPW for its review and approval.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "DBED Had Not Established Effective Oversight of the Transactions Processed Through the Fund Managers\u2019 State Checking Accounts",
+        "description": "DBED lacked oversight controls; $75,611 was paid for expenses without approval, $9,000 exceeded budget, and $130,000 in untimely requests were authorized despite no obligation to pay.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 75611.0,
+            "context": "expenses paid without prior authorization"
+          },
+          {
+            "amount": 9000.0,
+            "context": "excess expenses over approved budget"
+          },
+          {
+            "amount": 130000.0,
+            "context": "untimely reimbursement requests not obligated to pay"
+          }
+        ],
+        "recommendation": "BPW ensure DBED establishes effective checking account monitoring procedures and controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DBED Had Not Established Comprehensive Policies Governing the Process for Requesting Additional Grant Funds to Replenish the State Checking Accounts",
+        "description": "DBED had no policy requiring sufficient documentation like loan closing statements or timeframes for pending loans before requesting additional grant funds.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2750000.0,
+            "context": "requests for additional grant funds lacking support"
+          }
+        ],
+        "recommendation": "BPW require DBED to establish comprehensive formal procedures requiring submission of sufficient documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Board of Public Works and Department of Commerce agreed with all recommendations. They plan to develop program goals and metrics in fiscal year 2016, have implemented enhanced reporting requirements since fiscal year 2015, and will seek retroactive approval for the $9,000 excess expense while assessing late reimbursement requests on a case-by-case basis.",
+    "total_dollar_impact": 284000.0,
+    "extraction_notes": "Report date taken from Agency Response transmittal. Prior findings counts not explicitly stated in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T23:03:19.515150",
+  "content_hash": "7a08fa600807aa46ed7c11819ede1843e56f9b76",
+  "duplicate_of": null
+}

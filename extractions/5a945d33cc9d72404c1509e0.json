@@ -1,0 +1,123 @@
+{
+  "extraction": {
+    "agency_name": "State Highway Administration",
+    "parent_department": "Maryland Department of Transportation",
+    "report_date": "2011-06-24",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2010-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "A Senior SHA Management Employee Appeared to Have Solicited Funds from Firms Doing, or Seeking to Do, Business with SHA",
+        "description": "A senior OOC management employee appeared to have solicited funds from firms doing business with SHA potentially violating State Ethics Laws and policies. The employee was a partial owner of an out-of-state company that promoted sports activities sponsored by seven firms doing business with SHA. Two of these firms were awarded $16 million contracts shortly before the event, and the employee may have attempted to expedite their award.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 250.0,
+            "context": "sponsorships ranging from $250 to $2,500"
+          },
+          {
+            "amount": 32000000.0,
+            "context": "two contracts awarded ($16 million each)"
+          }
+        ],
+        "recommendation": "Take appropriate action regarding the employee's apparent violation of State Ethics Laws; ensure that employees comply with laws and policies; refer the matter to the State Ethics Commission for advice on amended Financial Disclosure Statements.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-03-30 (Referral to State Ethics Commission); Training within 60 days of April 18, 2011 memo; Employee no longer employed by SHA as of report date."
+      },
+      {
+        "number": 2,
+        "title": "A Former Senior SHA Management Employee Was Hired by a Firm within 12 days of Retirement and Subsequently Worked on an SHA Contract that, as an Employee, this Individual had Helped to Procure",
+        "description": "A former senior management employee started working for a firm doing business with SHA within 12 days of retiring from SHA. The employee was directly involved in the procurement of the firm's $16 million contract and subsequently worked on it as an executive of the firm, approving invoices totaling $96,896.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 96896.0,
+            "context": "invoices approved by former employee in capacity as executive of firm"
+          }
+        ],
+        "recommendation": "Take appropriate action regarding the former employee's continued involvement with this contract and refer the matter to the State Ethics Commission; ensure that employees comply with laws and policies.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-06-22 (Letter prohibiting employee from working on contract); Review of contracts for period Jan 1, 2009 to present."
+      },
+      {
+        "number": 3,
+        "title": "SHA Did Not Ensure that Firms Doing Business with SHA Complied with State Ethics Laws and SHA Policies Regarding the Hiring of Former State Employees",
+        "description": "SHA did not ensure firms complied with laws/policies regarding hiring former employees. One firm disclosed 35 former SHA employees, including one hired within nine months of retirement who worked on a screening committee for a contract awarded to that firm.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Periodically obtain records of former employees from firms providing contractual services; review these records during invoice payment approval process to determine compliance.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-12-31 (Measures in place); Quarterly reporting by June 30, 2011; Invoice review begins August 1, 2011."
+      },
+      {
+        "number": 4,
+        "title": "SHA Circumvented Certain Established Independent Bid Evaluation Processes",
+        "description": "Procurement of two $16 million contracts circumvented established bid evaluation processes and was not adequately documented. OPC did not perform complete ratings, disparities were not resolved or documented, key components were not signed/justified, and screening committee independence was compromised.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 32000000.0,
+            "context": "two contracts awarded ($16 million each)"
+          }
+        ],
+        "recommendation": "Ensure OPC evaluates all proposal categories; document resolution of rating variances; ensure bid evaluations are fully documented; establish written policy regarding screening committee composition.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-12-31 (Written policy and corrective measures); Quality control function effective August 31, 2011."
+      },
+      {
+        "number": 5,
+        "title": "SHA Solicited the Cooperation of Firms to Redirect Contract Funds for Unrelated Projects, and/or to Conceal Overspending on Other Contracts, Thereby Circumventing BPW Oversight and Approval",
+        "description": "SHA solicited firms to redirect contract funds for unrelated projects or conceal overspending. Approximately $1.5 million was diverted from one contract to cover over-expenditures on another. Invoices totaling $250,583 and $274,505 had majority amounts related to out-of-scope projects.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1500000.0,
+            "context": "diverted from one contract to cover over-expenditures"
+          },
+          {
+            "amount": 60000.0,
+            "context": "services provided under another contract covered by funds"
+          },
+          {
+            "amount": 800000.0,
+            "context": "anticipated amount for inspection services in another district"
+          },
+          {
+            "amount": 250583.0,
+            "context": "invoice amount where majority was out of scope"
+          },
+          {
+            "amount": 274505.0,
+            "context": "invoice amount where majority was out of scope"
+          }
+        ],
+        "recommendation": "Take appropriate corrective action; develop procedures and controls to ensure contract funds are only used as authorized; document basis of contract amounts submitted to BPW; obtain BPW approval for significant modifications.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-12-31 (Training and review completed); Office of Audits restructured by September 30, 2011; Checklist implemented August 31, 2011."
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": true,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "The Department of Transportation/SHA concurred with all findings and recommendations. Corrective actions included referring matters to the State Ethics Commission, issuing memoranda on ethics compliance, restructuring the Office of Audits and Procurement and Contracts, implementing quarterly reporting for former employees, and establishing quality control functions by December 31, 2011.",
+    "total_dollar_impact": 1560000.0,
+    "extraction_notes": "Report date taken from transmittal letter (June 24, 2011). Audit period derived from text 'conducted from July through December 2010'. Criminal referral applies to all findings based on Background section statement. Dollar amounts converted to integers."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:33:33.969689",
+  "content_hash": "31974018924b72750271f31e537c64e699f85bb0",
+  "duplicate_of": null
+}

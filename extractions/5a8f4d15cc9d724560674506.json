@@ -1,0 +1,77 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Health Insurance Plan",
+    "parent_department": null,
+    "report_date": "2012-04-01",
+    "audit_period_start": "2008-01-01",
+    "audit_period_end": "2011-06-05",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MHIP had not obtained an independent review of its ASO claims management system to ensure that the related internal controls were designed and operating effectively.",
+        "description": "MHIP had not obtained an independent review of the ASO's automated claims management system as of February 14, 2012, despite transferring processing to a different system in July 2010. The ASO advised it had no plans for such a review, leaving operational integrity and data security vulnerable.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MHIP obtain annual independent reviews of the ASO's claims management system (such as a SOC 2, type 2 examination) to ensure the system's internal controls are suitably designed and operating effectively.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MHIP did not routinely conduct independent reviews of its ASO to determine if the ASO was operating in compliance with its contract.",
+        "description": "During the audit period (January 1, 2008 to June 5, 2011), only one independent formal review of the ASO's performance was conducted. This review found instances where coverage wasn't terminated for non-payment, resulting in improper payments totaling $1.3 million which were reimbursed.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000.0,
+            "context": "improper payment of claims and related ASO administrative fees"
+          }
+        ],
+        "recommendation": "We recommend that MHIP a. conduct periodic (such as, annually) independent reviews of its ASO to determine if member eligibility, enrollment, premium collections, and claims processing are being performed in accordance with the contractual requirements; and b. take timely corrective action (such as, obtaining reimbursement for improperly paid claims and removing ineligible members) when deficiencies are identified by the independent reviews.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MHIP made payments to a vendor totaling approximately $367,000, without documentation of competitive bids being obtained or of the existence of a current written contract.",
+        "description": "MHIP made payments totaling approx $367,000 to a vendor for IT services without competitive bids or a written contract as required by policy. Disputes arose regarding billable hours and performance, leading to termination in February 2011 and an estimated $90,000 owed by the vendor plus $50,000 withheld invoices.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 367000.0,
+            "context": "payments to vendor without documentation of competitive bids or written contract"
+          },
+          {
+            "amount": 90000.0,
+            "context": "vendor owed State for overcharges previously paid by MHIP"
+          },
+          {
+            "amount": 50000.0,
+            "context": "withheld payment of several vendor invoices dated from November 2010 to February 2011"
+          }
+        ],
+        "recommendation": "We recommend that MHIP a. execute written contracts and obtain competitive bids prior to obtaining the related services, as required by its procurement policy; and b. in consultation with legal counsel, take appropriate action to resolve the aforementioned dispute and collect any amounts due.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MHIP concurs with all findings and recommendations. For Finding 1, the Board approved funds for an audit but noted the ASO declined to perform it at their expense; MHIP will arrange the contract/audit. For Finding 2, MHIP plans to hire an outside firm for a compliance audit and notes $227,803 recovered in liquidated damages previously. For Finding 3, MHIP states the issue is resolved, vendor agreements were maintained, policy was adopted later, and outstanding invoices will be paid.",
+    "total_dollar_impact": 1440000.0,
+    "extraction_notes": "Report date derived from 'April 2012' header. Audit period explicitly stated in Scope section. Prior findings count based on Status of Preceding Findings section mentioning three findings from MIA audit."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:00:46.994227",
+  "content_hash": "589f3c9e30677101be6687ff73afe72b9932a054",
+  "duplicate_of": null
+}

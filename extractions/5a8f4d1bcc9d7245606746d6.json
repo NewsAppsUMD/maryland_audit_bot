@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Tax Court",
+    "parent_department": "Maryland Tax Court",
+    "report_date": "2016-12-01",
+    "audit_period_start": "2013-02-20",
+    "audit_period_end": "2016-10-02",
+    "findings": [],
+    "prior_findings_count": 1,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a written response as there were no recommendations in the report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings sections present. Audit period and dates extracted from transmittal letter."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:37:59.478417",
+  "content_hash": "456b5e8bc37eb7e0e7c27b92e7d0bd4189dc892e",
+  "duplicate_of": null
+}

@@ -1,0 +1,110 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2010-03-26",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 4,
+        "title": "Arrestee Medical Exams",
+        "description": "OIHS had not established an adequate process to ensure that all intake medical exams were completed timely; limited documentation of monitoring was available, and tests showed some inmates received exams after seven days or none at all.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 4,
+        "dollar_amounts": [],
+        "recommendation": "We recommended that the Office of Inmate Health Services (OIHS) ensure that medical exams are completed within seven days for all arrestees, as required in the inmate medical contract.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-05-15"
+      },
+      {
+        "number": 5,
+        "title": "Inmates with Chronic Medical Problems",
+        "description": "OIHS did not establish a process to ensure that all inmates with chronic medical conditions were added to the contractor\u2019s database; test of 70 inmates disclosed 15 had not been added, and database lacked required visit dates.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 5,
+        "dollar_amounts": [],
+        "recommendation": "We recommended that OIHS establish a process to ensure that all inmates with chronic care conditions receive required services from the contractor\u2019s medical staff.",
+        "agency_agrees": null,
+        "agency_completion_date": "2010-06-01"
+      },
+      {
+        "number": 6,
+        "title": "Service Delivery Monitoring - Audits",
+        "description": "OIHS did not always require formal corrective action plans from contractors; had no process to ensure all contractor performed audits were submitted; unable to verify implementation of plans due to limited staffing.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 6,
+        "dollar_amounts": [],
+        "recommendation": "We recommended that OIHS require corrective action plans from contractors to address service delivery deficiencies identified in audits... and establish procedures to ensure that the corrective action plans are implemented, and retain documentation.",
+        "agency_agrees": null,
+        "agency_completion_date": "2010-05-01"
+      },
+      {
+        "number": 7,
+        "title": "Methadone Treatment Program",
+        "description": "OIHS established a methadone detoxification program at four facilities in 2008 after receiving federal licenses; treated 1,082 detainees during fiscal year 2009.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 7,
+        "dollar_amounts": [],
+        "recommendation": "We recommended that OIHS ensure the required methadone detoxification program is implemented as soon as possible.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Service Delivery Monitoring - Reports",
+        "description": "OIHS did not always obtain service delivery reports required by the medical service contract; for those received, it did not ensure that the information contained on the reports was reliable.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 8,
+        "dollar_amounts": [],
+        "recommendation": "We recommended that OIHS ensure that contractor service delivery reports contain all required information... periodically review the underlying medical records for contractor reports to ensure reliability... and investigate and resolve any discrepancies.",
+        "agency_agrees": null,
+        "agency_completion_date": "2010-05-01"
+      },
+      {
+        "number": 9,
+        "title": "Independent Death Reviews",
+        "description": "OIHS did not ensure that all inmate deaths were reviewed timely by an independent physician; of 214 deaths, 124 had not been reviewed as of Jan 5, 2010. No time frame specified for reviews in policy.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 9,
+        "dollar_amounts": [],
+        "recommendation": "We recommended that OIHS establish a process to ensure that an independent physician reviews each inmate death in a timely manner to evaluate the adequacy of medical care provided to the inmate.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "Coordination of Services Among Health Contractors",
+        "description": "OIHS did not ensure that the UM contractor performed required peer reviews; had not established a process to verify accuracy of UM contractor statistics regarding emergency room admissions.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 12,
+        "dollar_amounts": [],
+        "recommendation": "We recommended that OIHS ensure that identified deficiencies in coordination among contractors are resolved as soon as possible... require the utilization management contractor to perform the required peer reviews of secondary care providers, and ensure that the medical services contractor submits required documentation.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 12,
+    "prior_findings_repeated": 7,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department agrees with most findings but disagrees in part regarding the necessity or sufficiency of certain monitoring processes, arguing that clinical outcomes and alternative tracking methods demonstrate compliance. They committed to implementing specific corrective actions by May and June 2010 to achieve full compliance.",
+    "total_dollar_impact": null,
+    "extraction_notes": "This is a follow-up review report; findings correspond to prior audit findings from February 2007."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 7, regex counted 0",
+    "repeats_claimed_7_but_no_repeat_language_in_text"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-10T03:03:14.081002",
+  "content_hash": "1f1ee05b9e81e29f2eb049ba8deaaa6bb24dd600",
+  "duplicate_of": null
+}

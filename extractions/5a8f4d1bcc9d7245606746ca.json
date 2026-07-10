@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Stadium Authority",
+    "parent_department": "Maryland Stadium Authority",
+    "report_date": "2017-04-10",
+    "audit_period_start": "2012-10-17",
+    "audit_period_end": "2016-06-30",
+    "findings": [],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a written response as the audit contained no recommendations.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings sections were present in the report. The audit explicitly states 'Our audit did not disclose any findings that warrant mention in this report.' Prior findings from the October 2013 report (count: 2) were addressed satisfactorily."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:31:20.123072",
+  "content_hash": "0a0bd7384ed9a2d0b9dc87cf21a095bcca79008c",
+  "duplicate_of": "5a8f4d1bcc9d7245606746c8"
+}

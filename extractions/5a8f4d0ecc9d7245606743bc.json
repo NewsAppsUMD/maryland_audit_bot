@@ -1,0 +1,69 @@
+{
+  "extraction": {
+    "agency_name": "Department of Disabilities",
+    "parent_department": null,
+    "report_date": "2015-07-01",
+    "audit_period_start": "2012-03-14",
+    "audit_period_end": "2015-01-04",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DOD lacked controls to ensure that Attendant Care Program payments were made only to eligible participants.",
+        "description": "Controls were not in place to verify eligibility for payment requests, specifically lacking a signed eligibility determination checklist. Consequently, improper payments could be made without detection.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000.0,
+            "context": "ACP expenditures during fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that DOD implement controls to ensure ACP payments are made only to eligible participants. Specifically, we recommend that the independent employee who submits payment requests confirm that payments are processed only for eligible participants by sighting a properly prepared and signed eligibility determination checklist.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DOD did not monitor a case management contract to ensure services were provided as required and payments were based on the contract terms.",
+        "description": "DOD failed to obtain supporting documentation from the vendor to verify services or costs, resulting in overpayments of approximately $8,000 due to salary rates exceeding contract limits.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5500000.0,
+            "context": "contract base period"
+          },
+          {
+            "amount": 11600000.0,
+            "context": "renewal options"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "payments on contract as of January 4, 2015"
+          },
+          {
+            "amount": 8000.0,
+            "context": "overpayments"
+          }
+        ],
+        "recommendation": "We recommend that DOD a. obtain and review documentation, on a test basis, to ensure individual services were provided to children as required; b. obtain and review documentation, such as payroll reports, to ensure billed costs are supported and are consistent with the contract terms; and c. review prior billings for potential overpayments and recover all overpayments from the vendor, including those noted above.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-06-30"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MDOD acknowledges the lack of additional checks for eligibility and concurs with recommendations to improve oversight, including training, documentation review, and random file checks effective July 1, 2015. They commit to reviewing prior billings and recovering overpayments by June 30, 2017.",
+    "total_dollar_impact": 8000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:10:05.472132",
+  "content_hash": "7803f2615fb5342d68cf936705c0a3f1cb19b2fb",
+  "duplicate_of": "5a8f4d0ecc9d7245606743ba"
+}

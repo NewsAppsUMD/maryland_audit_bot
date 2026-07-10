@@ -1,0 +1,88 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2014-01-01",
+    "audit_period_start": "2010-03-22",
+    "audit_period_end": "2013-06-09",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls Over Critical Payroll Adjustments Were Not Sufficient",
+        "description": "The Center's procedures for verifying the propriety of payroll adjustments were not sufficient. As a result, there was a lack of assurance that critical adjustments, such as payments to former employees for accumulated leave, were proper.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8000.0,
+            "context": "overpayments totaling $8,000"
+          }
+        ],
+        "recommendation": "We recommend that the Center a. ensure that critical payroll adjustments are verified to supporting documentation, and b. take appropriate action to recover the aforementioned overpayments.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "A Management Employee Improperly Received Accident Leave",
+        "description": "We identified a Center management employee who received improper accident leave payments totaling approximately $13,500 over an extended period. The employee continued to receive accident leave after authorized leave was used, and timesheets were approved without the extended use being questioned.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13500.0,
+            "context": "improper accident leave payments totaling approximately $13,500"
+          }
+        ],
+        "recommendation": "We recommend that the Center a. monitor the use of accident leave to ensure that only authorized leave is taken, and b. ensure timesheet are thoroughly reviewed and approved by only authorized supervisory personnel.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Center Did Not Comply With State Procurement Regulations When Procuring and Awarding Certain Contracts",
+        "description": "The Center did not always comply with State Procurement Regulations when procuring and awarding contracts. Conditions included artificially splitting procurements to avoid approvals, not awarding a contract to the lowest bidder without proper disclosure, and failing to publish awards on eMaryland Marketplace.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 49910.0,
+            "context": "procurement of services totaling $49,910"
+          },
+          {
+            "amount": 179400.0,
+            "context": "three-year contract totaling $179,400"
+          },
+          {
+            "amount": 116220.0,
+            "context": "vendor with the lowest bid ($116,220)"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "four contracts totaling $1.3 million"
+          }
+        ],
+        "recommendation": "We recommend that the Center comply with State Procurement Regulations by a. not artificially splitting procurements to avoid required approvals; b. including the required notice in the IFB for small business reserve procurements, when applicable; c. ensuring that contract award decisions are made in a manner consistent with the IFB requirements; and d. publishing contract awards on eMaryland Marketplace as required.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The response from the Department of Health and Mental Hygiene is included as an appendix to this report.",
+    "total_dollar_impact": 21500.0,
+    "extraction_notes": "Report date derived from title page 'January 2014'. Audit period explicitly stated in Scope section. Criminal referral confirmed for Finding 2 only. Agency response details not included in provided text (appendix missing). Prior findings count and repeat status inferred as null due to lack of explicit numbers."
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:48:10.022019",
+  "content_hash": "27c60b34e41c6f48c3a2310b2c56cc2167a8e197",
+  "duplicate_of": null
+}

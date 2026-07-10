@@ -1,0 +1,413 @@
+{
+  "extraction": {
+    "agency_name": "Baltimore City Public School System",
+    "parent_department": null,
+    "report_date": "2018-10-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "BCPSS did not properly monitor or bill amounts owed by outside organizations for the services of its employees.",
+        "description": "BCPSS did not properly monitor or bill amounts owed by outside organizations for services provided by its employees which are required to be reimbursed. As of February 2017, there were eight employees granted a leave of absence to work for outside organizations and BCPSS had not properly billed $352,500 for two employees.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 352500.0,
+            "context": "not properly billed for two employees"
+          },
+          {
+            "amount": 271562.0,
+            "context": "actual payroll costs totaling for one employee not billed"
+          }
+        ],
+        "recommendation": "BCPSS should include all amounts owed to BCPSS in its centralized accounts receivable records, ensure appropriate and timely collection efforts are made for amounts owed by outside organizations, and maintain documentation supporting the approval of an employee's leave of absences to work for outside organizations.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "BCPSS did not obtain social security numbers for 5,600 students with individual education plans to help identify qualified students for whom Medicaid reimbursements could be obtained for eligible services.",
+        "description": "BCPSS did not obtain social security numbers (SSNs) for all students with individual education plans (IEPs). As of September 2017, BCPSS did not have SSNs for approximately 5,600 of the 12,600 students having an IEP to help identify qualified students for Medicaid reimbursement.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BCPSS should obtain social security numbers for students with individual education plans and bill to obtain Medicaid reimbursements for eligible services provided to qualified students.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "BCPSS did not have a formal process to review denied Medicaid claims in order to determine if the claims could be corrected for resubmission.",
+        "description": "BCPSS did not have a formal process to review denied Medicaid reimbursement claims. During fiscal year 2017, approximately 113,000 claims were denied that totaled $14.6 million, and analysis identified approximately 14,000 claims totaling $522,000 where the denial was most commonly due to easily correctable conditions.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 14600000.0,
+            "context": "denied claims total in fiscal year 2017"
+          },
+          {
+            "amount": 522000.0,
+            "context": "identified denied claims potentially valid and resubmittable"
+          },
+          {
+            "amount": 886.0,
+            "context": "test of five denied claims total"
+          },
+          {
+            "amount": 856.0,
+            "context": "four claims not researched and resubmitted total"
+          }
+        ],
+        "recommendation": "BCPSS should develop a formal process to review denied claims for Medicaid reimbursements to determine if the claims could be corrected and resubmitted.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "BCPSS did not adequately restrict user access capabilities in its automated procurement and accounts payable system.",
+        "description": "Our review of system access as of September 2017 disclosed that 20 employees had been assigned system capabilities that allowed them to perform incompatible critical functions. For example, 6 employees had the ability to enter invoices, approve payments, and override the system matching requirements.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BCPSS should restrict assigned capabilities to eliminate the ability of users to perform incompatible duties.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "BCPSS did not document the appropriateness of using intergovernmental cooperative purchasing agreements as required by State law.",
+        "description": "BCPSS did not document the cost savings and other benefits associated with using ICPAs. During fiscal year 2016, we identified 176 active ICPA contracts including 146 contracts valued at $73.2 million. Our test of three ICPA contracts totaling $4.6 million disclosed that BCPSS had not documented the benefits.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 73200000.0,
+            "context": "ICPA contracts value identified in fiscal year 2016"
+          },
+          {
+            "amount": 4600000.0,
+            "context": "three ICPA contracts tested total"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "billing from each of the three ICPAs reviewed total"
+          },
+          {
+            "amount": 127000.0,
+            "context": "one invoice totaling unable to verify amount paid"
+          }
+        ],
+        "recommendation": "BCPSS should comply with State law and ensure that a written determination of the benefits for the use of an ICPA is prepared, obtain the original ICPA contracts and verify invoices to the terms contained in the ICPA, and obtain evidence to satisfy the requirements of State law that the ICPA contract was properly procured.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "BCPSS did not document the basis for assigning work to pre-qualified vendors for certain services and, in certain cases, higher priced vendors received work prior to lower cost vendors.",
+        "description": "BCPSS did not have a formal documented process for subsequently selecting vendors from the pre-qualified list. Based on budgets for five multiple-award contracts totaling $65.2 million, there may have been opportunities to allocate a greater portion of services under each contract to lower cost vendors.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 65200000.0,
+            "context": "budgets for five multiple-award contracts total"
+          },
+          {
+            "amount": 28500000.0,
+            "context": "contract value for special education aides contract"
+          },
+          {
+            "amount": 9000000.0,
+            "context": "contract value for temporary district office staff contract"
+          }
+        ],
+        "recommendation": "BCPSS should establish a formal methodology for selecting from pre-qualified vendors on multiple-award contracts which documents the basis for selection and appropriately considers vendor costs.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Purchase orders were not always prepared and approved as required prior to obtaining the related goods or services.",
+        "description": "BCPSS policy requires purchase orders be prepared and independently approved prior to making purchases but this was not routinely followed. During fiscal year 2016 there were 2,001 purchase orders totaling $10.4 million that were retroactively processed after receiving an invoice from a vendor.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10400000.0,
+            "context": "retroactively processed purchase orders total in fiscal year 2016"
+          },
+          {
+            "amount": 3600000.0,
+            "context": "purchase orders related to IT Division or Chief Operating Office"
+          }
+        ],
+        "recommendation": "BCPSS should ensure that procurement policies and automated system controls are not bypassed by ensuring purchase orders are prepared and approved prior to obtaining the related goods or services.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "BCPSS did not always adequately monitor contracts to ensure goods and services were properly received or that invoices were proper prior to payment.",
+        "description": "Our test of 20 invoices totaling $5.4 million disclosed that for 4 invoices totaling $1.9 million, BCPSS had recorded the receipt of services before they were provided. For example, on June 24, 2016, BCPSS recorded receipt of all services for a $1.7 million summer school contract resulting in an overpayment of $4,050.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5400000.0,
+            "context": "invoices tested total"
+          },
+          {
+            "amount": 1900000.0,
+            "context": "4 invoices with issues total"
+          },
+          {
+            "amount": 6500000.0,
+            "context": "contracts where services recorded prematurely total"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "summer school contract value"
+          },
+          {
+            "amount": 4050.0,
+            "context": "overpayment resulting from premature recordation"
+          }
+        ],
+        "recommendation": "BCPSS should monitor contracts and related billings to ensure goods and services are provided in accordance with contractual terms prior to payment and that invoices accurately reflect the services rendered.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "BCPSS did not always adequately document the rationale for sole source contract determinations and sole source contract awards were not always published on eMaryland Marketplace as required.",
+        "description": "Our test of five sole source contracts totaling $14.5 million disclosed that sole source determinations for four contracts totaling $10.7 million lacked specificity to justify the selected vendor. None of the five sole source contract awards were published on eMM as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 14500000.0,
+            "context": "test of five sole source contracts total"
+          },
+          {
+            "amount": 10700000.0,
+            "context": "sole source determinations lacked specificity total"
+          }
+        ],
+        "recommendation": "BCPSS should ensure that sole source contract determinations include appropriate information to document the rationale for not performing a competitive procurement, publish sole source contract awards on eMaryland Marketplace, and develop a system report that tracks the procurement method used.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Critical human resources and payroll transactions were not independently reviewed for propriety.",
+        "description": "There was no independent review to ensure employee personnel and payroll transactions recorded in the automated system were correct. BCPSS employees entered 11,174 changes to employee salaries totaling up to $81.5 million during fiscal year 2017. Our test of 22 additional compensation payments totaling $1.5 million disclosed that eight payments totaling $818,450 were not supported by the required form.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 81500000.0,
+            "context": "net annual pay increases from changes to salaries"
+          },
+          {
+            "amount": 45900000.0,
+            "context": "salaries for new employees entries total"
+          },
+          {
+            "amount": 14700000.0,
+            "context": "adjustments processed by one employee total"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "additional compensation payments tested total"
+          },
+          {
+            "amount": 818450.0,
+            "context": "payments not supported by required form total"
+          },
+          {
+            "amount": 36794.0,
+            "context": "payment where approval form was unsigned"
+          }
+        ],
+        "recommendation": "BCPSS should establish adequate internal controls over payroll and human resources system processing to ensure propriety of payments. Specifically, generate output reports of critical changes and independently verify them.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Certain overtime payments could not be substantiated or were improperly calculated.",
+        "description": "Our test of overtime totaling $63,664 paid to 23 employees disclosed that hours were not approved in advance and often not supported by sign-in sheets. BCPSS paid overtime at an earnings rate 9.1 percent higher than provided for under the union agreement; approximately $208,000 was overpaid during calendar years 2015 and 2016.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 63664.0,
+            "context": "overtime tested total"
+          },
+          {
+            "amount": 2821.0,
+            "context": "minimum overtime paid to employees in test"
+          },
+          {
+            "amount": 51849.0,
+            "context": "maximum overtime paid to employees in test"
+          },
+          {
+            "amount": 392813.0,
+            "context": "collective overtime payments for 23 employees total"
+          },
+          {
+            "amount": 2500000.0,
+            "context": "overtime paid to union members during 2015 and 2016"
+          },
+          {
+            "amount": 208000.0,
+            "context": "overpaid due to incorrect overtime rate"
+          }
+        ],
+        "recommendation": "BCPSS should investigate discrepancies, ensure supervisors verify work hours, and correct the overtime payment calculation in its automated system.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "Sensitive personally identifiable information maintained by BCPSS was stored without adequate safeguards.",
+        "description": "One table within BCPSS' ERP database contained 64,564 unique social security numbers stored in clear text. BCPSS had not performed an inventory of its systems to identify all sensitive PII or deleted unnecessary PII.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BCPSS should perform an inventory of its systems to identify all sensitive PII and delete unnecessary PII, and use approved encryption methods or other substantial mitigating controls.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "Proper account and password controls were not established over the ERP system, ERP database logging did not exist for certain critical privileges and security-related changes, and BCPSS could not substantiate that security monitoring was performed.",
+        "description": "Account and password controls over the ERP application were not always in accordance with best practices. 662 ERP application accounts did not have any related password age expiration setting. ERP database logging did not include operations by accounts using several critical privileges.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BCPSS should implement appropriate account and password controls for the ERP system and ensure that the ERP system and BCPSS' firewalls are subject to regular security monitoring.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "Intrusion detection prevention system coverage for the BCPSS network had substantial gaps and malware protection controls were not sufficient to provide adequate assurance that its computers were properly protected.",
+        "description": "IDPS coverage did not exist for substantial amounts of untrusted traffic. BCPSS lacked assurance that 16,592 of its computers had malware protection software operational. Local administrative rights were not properly restricted on workstations.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BCPSS should perform a documented review of network security risks and implement necessary IDPS coverage, ensure all computers run current malware protection software, install critical updates, and restrict administrative rights.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "BCPSS lacked assurance that adequate information technology security and operational controls existed over its student information system hosted by a service provider.",
+        "description": "As of September 2017 BCPSS had not obtained a System and Organization Controls (SOC) report or similar independent security assurances. The SOC review scope was not comprehensive as it did not address encryption of sensitive data at rest, audit logging, or data availability trust criteria.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BCPSS should ensure its service provider agreement requires annual SOC 2 Type 2 reviews covering system security and data availability and annually obtain and review copies of these reports.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "Contract and payment processing issues specific to the prior arrangement with private bus contractors contributed to transportation costs being higher than necessary.",
+        "description": "BCPSS entered into five-year contracts beginning July 1, 2013 with eight bus contractors. BCPSS paid a daily fixed route rate and reimbursed contractors for fuel and additional time and mileage based on records provided by the contractors.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "BCPSS did not maintain critical documentation, including executed contracts, to support certain financial relationships with bus contractors.",
+        "description": "BCPSS did not maintain critical documentation to support certain financial relationships with bus contractors. This finding is part of the Transportation Services section review.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "BCPSS' process for reviewing taxi company invoices did not adequately ensure the billings were proper and payments were consistent with contractual terms resulting in overpayments totaling $1.2 million.",
+        "description": "BCPSS' process for reviewing taxi company invoices did not adequately ensure billings were proper or payments consistent with contractual terms. This resulted in overpayments totaling $1.2 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "overpayments totaling"
+          }
+        ],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 19,
+        "title": "BCPSS did not require charter school management personnel and board members to periodically renew conflict of interest disclosures and did not ensure the disclosures were completed as required.",
+        "description": "BCPSS did not require charter school management personnel and board members to periodically renew conflict of interest disclosures. BCPSS also did not ensure the disclosures were completed as required.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 20,
+        "title": "BCPSS did not properly track and monitor required critical documents to be submitted by each charter school nor did BCPSS perform follow-up actions to obtain required documents from the schools.",
+        "description": "BCPSS did not properly track and monitor required critical documents to be submitted by each charter school. BCPSS also did not perform follow-up actions to obtain required documents from the schools.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 26,
+    "prior_findings_repeated": 6,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The provided text does not contain the Agency Response Appendix content; therefore no agency response summary can be extracted.",
+    "total_dollar_impact": 2286550.0,
+    "extraction_notes": "Report date derived from header 'October 2018'. Audit period dates not explicitly stated in required format. Agency response section referenced in TOC but content not included in provided text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T17:37:20.535030",
+  "content_hash": "2118b1175846787ecf5f6cb029f57f6da674c662",
+  "duplicate_of": null
+}

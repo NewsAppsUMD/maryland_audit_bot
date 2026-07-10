@@ -1,0 +1,85 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Attorney General",
+    "parent_department": "Office of the Attorney General",
+    "report_date": "2023-05-25",
+    "audit_period_start": "2018-05-09",
+    "audit_period_end": "2022-06-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "OAG did not adequately monitor certain critical components of the case management system contract to ensure that all critical deliverables were received. As of September 2022, the system had not been fully implemented, and we noted that certain payments were not made in accordance with the contract.",
+        "description": "OAG did not receive required critical scheduling and planning documents from the contractor. As of September 2022, the system had not been fully implemented, and certain payments were not made in accordance with the contract.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2000000.0,
+            "context": "contract costs for system implementation and periodic charges"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "periodic charges for two 2-year renewal options"
+          },
+          {
+            "amount": 914000.0,
+            "context": "payments to the vendor as of August 2022"
+          },
+          {
+            "amount": 911000.0,
+            "context": "reviewed payments between July 2018 and August 2021"
+          },
+          {
+            "amount": 600000.0,
+            "context": "implementation costs paid in July 2018 before system fully implemented"
+          },
+          {
+            "amount": 311000.0,
+            "context": "user license fees for the case management system invoices"
+          },
+          {
+            "amount": 10000.0,
+            "context": "potential overpayment on one invoice paid in August 2019"
+          },
+          {
+            "amount": 86000.0,
+            "context": "potential underpayment to the contractor on two invoices"
+          }
+        ],
+        "recommendation": "a. ensure that all required scheduling and planning documents are received and use those documents to monitor the receipt of deliverables and contract progress, b. notify the BPW that the system had not been fully implemented prior to the contract renewal, c. ensure that payments are made in accordance with contract terms, and d. review all payments to the contractor and determine the full extent of any overpayments or underpayments and take appropriate action.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-06-30"
+      },
+      {
+        "number": 2,
+        "title": "OAG did not ensure all outstanding payroll errors and discrepancies were resolved, and that adjustments to employee leave balances were subject to independent review and approval.",
+        "description": "OAG did not investigate and resolve all payroll discrepancies identified on error reports. Adjustments to employee leave balances were not adequately reviewed for propriety, including a duplicate adjustment of 326 hours.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6906.0,
+            "context": "pay for 163 unsubmitted hours that had remained unresolved"
+          }
+        ],
+        "recommendation": "a. develop procedures to ensure that all outstanding payroll discrepancies are resolved, including those noted in this finding; and b. review available output reports of leave adjustments processed, at least on a test basis, to ensure that only authorized adjustments have been processed, and correct the duplicate adjustment we noted.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office of the Attorney General agreed with all recommendations. For Finding 1, they assigned a new Project Manager and will notify BPW regarding system implementation status during contract renewal. For Finding 2, they stated they continue to generate and review reports from the Statewide Personnel System and have established procedures for reviewing leave adjustments.",
+    "total_dollar_impact": 16906.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:09:27.626358",
+  "content_hash": "cc5119621a36d56ef7f58b984acbfe09a8ac8c00",
+  "duplicate_of": "5a8f4d0acc9d72456067428e"
+}

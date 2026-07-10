@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Agricultural Land Preservation Foundation",
+    "parent_department": "Maryland Department of Agriculture",
+    "report_date": null,
+    "audit_period_start": "2013-07-01",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MALPF did not have a comprehensive policy for timely investigation of easement violations and did not ensure that all noted easement violations were resolved in a timely manner.",
+        "description": "MALPF lacked a comprehensive policy for the timely investigation of easement violations, including documentation required for follow-up actions and criteria for assessing penalties. Follow-up actions on easement violations were not always documented, certain violations were not resolved in a timely manner, and penalties were not always assessed as applicable.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2500.0,
+            "context": "civil penalties per day per violation"
+          },
+          {
+            "amount": 50000.0,
+            "context": "maximum civil penalty"
+          }
+        ],
+        "recommendation": "a. develop a comprehensive policy that includes the appropriate and timely steps to be taken to address easement violations, the documentation required for follow-up actions, and the criteria for assessing penalties; b. document periodic reviews of the database and related follow-up actions (repeat); c. perform and document appropriate and timely follow-up actions on outstanding easement violations consistent with the policy it develops to ensure corrective actions were taken (repeat); d. determine the status of the aforementioned unresolved violations and impose penalties, if deemed appropriate (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": "2015-05-26"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MALPF acknowledges its existing policy is obsolete and has a draft policy under review for Board approval at their May 26, 2015 meeting. The agency describes actions taken including documenting contacts with landowners, coordinating with the MACS Program regarding cost share eligibility, meeting three times yearly with Assistant Attorneys General on high priority violations, and reducing outstanding SCWQP violations through collaboration.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date not explicitly stated in transmittal letter within text. Prior finding number from preceding report not specified."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:31:25.442497",
+  "content_hash": "9310e23863dfa2b155a7e74d05b8f00284b7ade2",
+  "duplicate_of": null
+}

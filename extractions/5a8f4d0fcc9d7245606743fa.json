@@ -1,0 +1,172 @@
+{
+  "extraction": {
+    "agency_name": "Executive Department",
+    "parent_department": "Executive Department",
+    "report_date": "2007-10-05",
+    "audit_period_start": "2005-01-01",
+    "audit_period_end": "2007-01-16",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Governor\u2019s Office of Crime Control and Prevention (GOCCP) had not implemented procedures to ensure that expenditures for the Victim and Witness Protection Program were proper.",
+        "description": "As of July 31, 2007, GOCCP had not implemented comprehensive procedures to ensure expenditures from the Victim and Witness Protection and Relocation Program had been approved or consistent with program purposes. Although an Attorney General Opinion clarified oversight responsibilities, detailed expenditure reports had not been provided as of the audit date.",
+        "category": "grants_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 600000.0,
+            "context": "grant payments to State\u2019s Attorneys\u2019 Coordinator"
+          }
+        ],
+        "recommendation": "We again recommend that GOCCP implement comprehensive procedures to monitor the use of the funds from this Program. We also recommend that GOCCP obtain detailed information from the Coordinator to facilitate the performance of its responsibilities.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Controls over the records related to federal fund activity at certain units were deficient.",
+        "description": "Controls over federal fund records at GOSV and GOCCP were deficient; GOSV did not reconcile federal fund activity with State accounting records, and time allocation sheets were often missing or unsigned. Fiscal year 2006 federal fund expenditures totaled $3.9 million for GOSV and $18.6 million for GOCCP.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3900000.0,
+            "context": "GOSV federal fund expenditures"
+          },
+          {
+            "amount": 18600000.0,
+            "context": "GOCCP federal fund expenditures"
+          }
+        ],
+        "recommendation": "We recommend that adequate controls be established over federal fund activity. Specifically, we recommend that the Department ensure that monthly reconciliations of federal fund activity are performed and reviewed by supervisory personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Executive Department did not adequately address disaster recovery or backup of critical files.",
+        "description": "The Department lacked a complete information technology disaster recovery plan addressing backup procedures and offsite storage. As of February 26, 2007, the most recent backup tapes for critical servers were two months old, and backups were missing for some servers.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We again recommend that the Department comply with IT Disaster Recovery Guidelines and develop a complete disaster recovery plan. We also recommend that the Department maintain recent backups of all critical servers.",
+        "agency_agrees": true,
+        "agency_completion_date": "2007-12-01"
+      },
+      {
+        "number": 4,
+        "title": "Security over the Department\u2019s computer network needs to be enhanced.",
+        "description": "Publicly accessible servers were located on the internal network, firewall rules allowed unnecessary connections, intrusion detection systems were not enabled, wireless encryption was insecure, and firewall logs were not regularly reviewed.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We again recommend that the Department improve security over its internal network. Specifically, we made detailed recommendations which, if implemented, should provide for adequate security over the internal network.",
+        "agency_agrees": true,
+        "agency_completion_date": "2007-12-01"
+      },
+      {
+        "number": 5,
+        "title": "Proper controls were not established over the Department\u2019s equipment.",
+        "description": "Record keeping and physical inventory procedures were non-compliant with DGS Inventory Control Manual. Unreconciled differences totaling approximately $211,000 remained as of April 2007, and some equipment valued at $67,442 could not be physically located.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4000000.0,
+            "context": "total equipment value for all units"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "Governor\u2019s Office equipment value"
+          },
+          {
+            "amount": 32778.0,
+            "context": "equipment purchases tested"
+          },
+          {
+            "amount": 1254.0,
+            "context": "unrecorded items value"
+          },
+          {
+            "amount": 67442.0,
+            "context": "items not physically located"
+          },
+          {
+            "amount": 211000.0,
+            "context": "unreconciled differences"
+          },
+          {
+            "amount": 353000.0,
+            "context": "equipment valued at units with no annual report submitted"
+          }
+        ],
+        "recommendation": "We recommend that the Department comply with the aforementioned requirements of the Inventory Control Manual.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Collections at two units were not adequately controlled and were not deposited timely.",
+        "description": "Collections received by the State Ethics Commission and Volunteer Maryland were not adequately controlled or deposited in a timely manner. Late fees collected totaled approximately $11,000 during fiscal year 2006 and were sometimes held for several weeks prior to deposit.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 238000.0,
+            "context": "collections deposited by two units for fiscal year 2006"
+          },
+          {
+            "amount": 162600.0,
+            "context": "receipts tested from both offices"
+          },
+          {
+            "amount": 153050.0,
+            "context": "receipts deposited late"
+          },
+          {
+            "amount": 11000.0,
+            "context": "late fees held prior to deposit"
+          }
+        ],
+        "recommendation": "We again recommend that employees without access to the collections verify that all recorded collections were received by the GFO for deposit. We also recommend that an employee without access to collections maintain the related accounts receivable records.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "A contractual employee was improperly paid $7,557 after terminating from State service.",
+        "description": "A contractual employee terminated on May 9, 2005 but continued to receive compensation through June 30, 2005. The supervisor believed unused compensatory leave could be used for payment, which was not allowed under state regulations.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7557.0,
+            "context": "improperly paid after termination"
+          }
+        ],
+        "recommendation": "We recommend that the Department consult with the Office of the Attorney General in this matter and take appropriate action.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 11,
+    "prior_findings_repeated": 5,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency generally agrees with the recommendations but notes context regarding prior administration decisions and learning curves in new systems. They plan to update disaster recovery plans by December 2007 and partially agree on Finding 1 procedures as they were not in effect for the closed fiscal year.",
+    "total_dollar_impact": 170011.0,
+    "extraction_notes": "Total dollar impact calculated from disallowed costs ($95,012), improperly paid funds ($7,557), and missing equipment ($67,442). Report date is October 5, 2007. Audit period January 1, 2005 to January 16, 2007."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:00:04.634845",
+  "content_hash": "adb0b0858faf833717a8a692c485f4b4c27f51df",
+  "duplicate_of": null
+}

@@ -1,0 +1,81 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2015-02-01",
+    "audit_period_start": "2011-05-16",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "One individual had excessive control over the Maryland Trauma Physician Services Fund.",
+        "description": "The Maryland Health Care Commission (MHCC) had not established sufficient controls over the Maryland Trauma Physician Services Fund. One individual had excessive control over the Fund\u2019s recordkeeping, collections, and payments, and checks were not restrictively endorsed immediately upon receipt.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 14200000.0,
+            "context": "reimbursement claim payments"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "checks received to reimburse the Fund"
+          }
+        ],
+        "recommendation": "separate the duties for Fund recordkeeping, collection, and payment; and restrictively endorsed checks immediately upon receipt.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-12-01"
+      },
+      {
+        "number": 2,
+        "title": "Grant agreements were not always executed prior to disbursing funds and certain healthcare grants were not adequately monitored.",
+        "description": "The Maryland Community Health Resources Commission (MCHRC) did not always execute grant agreements prior to disbursing funds and did not adequately monitor certain healthcare grants. MCHRC did not document its review of self-reported grantee performance results and did not always obtain supporting documentation for reported expenditures.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 25400000.0,
+            "context": "grant awards"
+          },
+          {
+            "amount": 13800000.0,
+            "context": "spent during this period"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "not signed by MCHRC prior to approving grant payments"
+          },
+          {
+            "amount": 25000.0,
+            "context": "remaining 2 grant agreements... were not signed"
+          },
+          {
+            "amount": 853600.0,
+            "context": "reported grant expenditures related to 7 of the grants without supporting documentation"
+          },
+          {
+            "amount": 19300.0,
+            "context": "supporting documentation for certain reported grant expenditures was not sufficient"
+          }
+        ],
+        "recommendation": "ensure all grant agreements are properly executed prior to making payments to the grantees; perform a documented review of self-reported grantee performance results and expenditure reports; obtain supporting documentation, at least on a test basis...",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-05-01"
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agencies concurred with all recommendations. MHCC implemented a formal process for separation of duties effective December 1, 2014. MCHRC agreed to execute agreements prior to payment and perform documented reviews immediately, with supporting documentation testing beginning May 1, 2015.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'February 2015'. Audit period explicitly stated in Scope section. Prior findings count based on preceding audit report status discussion."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:56:40.079990",
+  "content_hash": "01993bbf74de9f9618f3b5552298679bedf3cb3c",
+  "duplicate_of": "5a8f4d10cc9d724560674436"
+}

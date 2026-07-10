@@ -1,0 +1,48 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2008-11-06",
+    "audit_period_start": "2005-09-26",
+    "audit_period_end": "2008-04-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "As noted during our two preceding audits, MHCC did not assess fiscal year 2002 user fees in accordance with a new State law, resulting in an improper allocation of fees among regulated industries; MHCC has not resolved this issue.",
+        "description": "The Maryland Health Care Commission (MHCC) did not assess fiscal year 2002 user fees according to a new State law effective July 1, 2001, which required a methodology considering workload attributable to each industry. While the total amount assessed was correct at approximately $8.2 million, the allocation resulted in hospitals being over-assessed $611,000 and nursing homes under-assessed $652,000. As of July 2008, MHCC had contacted the Office of the Attorney General regarding this matter and was awaiting a decision.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8200000.0,
+            "context": "fiscal year 2002 user fees"
+          },
+          {
+            "amount": 611000.0,
+            "context": "hospitals were over-assessed"
+          },
+          {
+            "amount": 652000.0,
+            "context": "nursing homes were under-assessed"
+          }
+        ],
+        "recommendation": "We recommend that, upon receipt of the OAG\u2019s decision, MHCC take the recommended action to resolve this matter.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Commission disagrees with the auditor\u2019s findings, asserting that FY 2002 assessments were properly determined under the law at the time and that recalculation is practically impossible for closed entities. They note they have consulted the Office of the Attorney General but are awaiting a decision, stating that recalculation would not bring additional revenue to the State.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from transmittal letter. Audit period found in transmittal and scope sections. Finding marked as repeated per Status of Findings section. No criminal referral explicitly stated."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:59:29.374766",
+  "content_hash": "04f67eaf709341e69cfae7231b65e94324ab25c8",
+  "duplicate_of": null
+}

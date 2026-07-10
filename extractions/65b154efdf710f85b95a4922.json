@@ -1,0 +1,175 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2024-01-22",
+    "audit_period_start": "2018-09-21",
+    "audit_period_end": "2021-09-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Revenue Administration Division (RAD) did not conduct all required reviews of declaration credits (tax overpayments that taxpayers chose to apply to the next tax year) and the reviews performed were not sufficiently comprehensive.",
+        "description": "Required reviews of declaration credits exceeding a dollar threshold were either not performed or insufficient; $1.2 billion in corporate/fiduciary returns were not reviewed between December 2018 and July 2021, and individual return reviews for tax year 2020 were missing.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000000.0,
+            "context": "tax overpayments not reviewed"
+          },
+          {
+            "amount": 3700000.0,
+            "context": "credits reviewed for individual tax returns"
+          },
+          {
+            "amount": 513200000.0,
+            "context": "total credits that should have been reviewed"
+          }
+        ],
+        "recommendation": "RAD conduct required reviews of declaration credits for individual, corporate, and fiduciary tax returns; ensure that the reviews include a review of critical supporting documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-01-31 (for 1a), 2022-07-31 (for 1b)"
+      },
+      {
+        "number": 2,
+        "title": "RAD did not ensure that refund replacement checks, which totaled $29.5 million during calendar year 2021, were reviewed by supervisory personnel as required.",
+        "description": "Refund replacement checks totaling $29.5 million in calendar year 2021 were not subjected to supervisory review; reviews for 45 weeks were missing and 7 weeks were late, and monthly management reviews were not performed.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 29500000.0,
+            "context": "replacement checks not reviewed"
+          },
+          {
+            "amount": 3300000.0,
+            "context": "checks with late reviews"
+          }
+        ],
+        "recommendation": "RAD ensure that all supervisory and management reviews of replacement refund checks are performed as required.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-06-30"
+      },
+      {
+        "number": 3,
+        "title": "RAD did not ensure that current death records were obtained and loaded into the Comptroller of Maryland's automated State of Maryland Tax (SMART) system.",
+        "description": "Death records were not obtained/uploaded for five months in 2020; supervisory verification was missing, resulting in $18.4 million in refunds being suspended for investigation due to potential improper returns.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18400000.0,
+            "context": "refunds suspended for investigation"
+          }
+        ],
+        "recommendation": "RAD ensure that required supervisory reviews of monthly data uploads are performed and documented; obtain missing death records to identify potentially improper returns.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-05-23 (for 3a), 2024-01-31 (for 3b)"
+      },
+      {
+        "number": 4,
+        "title": "RAD did not determine the cost benefit of expanding the use of its existing individual taxpayer data analytics vendor to help identify corporate and business tax fraud.",
+        "description": "RAD did not analyze cost-benefit of using vendor for corporate/business returns despite $18.1 billion in related revenues; vendor identified $13.2 million in potentially fraudulent refunds for individual returns.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13200000.0,
+            "context": "potentially fraudulent refunds identified"
+          },
+          {
+            "amount": 18100000000.0,
+            "context": "State tax revenues related to other sources"
+          }
+        ],
+        "recommendation": "RAD determine the cost benefit of expanding its current use of data analytics for other types of tax returns.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-06-30"
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Specifics of the finding, analysis, and recommendations have been redacted from this public report in accordance with State law.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Specifics of the finding, analysis, and recommendations have been redacted from this public report in accordance with State law.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "RAD had not established sufficient controls over checks for tax payments received in the mail at its Annapolis location.",
+        "description": "Critical documentation (batch control sheets) was not retained prior to May 2021; adjustments made without explanation; $5.6 billion collected at Annapolis location lacked proper accountability controls.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5600000000.0,
+            "context": "Annapolis mail collections"
+          }
+        ],
+        "recommendation": "RAD retain copies of batch control sheets to provide accountability and control; retain support for any adjustments made to batch control sheets.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-01-01"
+      },
+      {
+        "number": 8,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Specifics of the finding, analysis, and recommendations have been redacted from this public report in accordance with State law.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Specifics of the finding, analysis, and recommendations have been redacted from this public report in accordance with State law.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Comptroller's response noted agreement to all findings and related recommendations. The agency indicated that corrective actions would be implemented within the estimated completion dates provided.",
+    "total_dollar_impact": 31600000.0,
+    "extraction_notes": "Findings 5, 6, 8, and 9 are redacted cybersecurity findings per State law. Finding 4 is a Policy Issue. Dollar amounts converted to integers."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 9, regex counted 8",
+    "dollar_amount_not_in_text: finding 1 amount 3700000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:36:26.928063",
+  "content_hash": "e008c38fc9415922970b3420ebe861d3898b64fd",
+  "duplicate_of": "5a8f4d1acc9d72456067468e"
+}

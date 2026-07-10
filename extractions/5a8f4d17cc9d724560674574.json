@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "agency_name": "Property Tax Assessment Appeals Boards",
+    "parent_department": null,
+    "report_date": "2016-09-01",
+    "audit_period_start": "2012-07-30",
+    "audit_period_end": "2015-11-11",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Boards had a significant backlog of 9,717 appeals cases awaiting hearings as of December 2015.",
+        "description": "The Boards had a backlog of 9,717 property tax assessment appeals cases awaiting hearings as of December 2015, primarily in Baltimore City and Prince George\u2019s County. Board management advised the backlog was the result of a delay in local jurisdictions recommending new appointees to fill vacancies.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Boards develop a strategy for eliminating the backlog of appeals cases awaiting hearings, particularly those in Baltimore City and Prince George\u2019s County.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the Boards' response to the finding and recommendation is included as an appendix; however, the specific content of the response is not provided in this document.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from title page 'September 2016'. Audit period found on Page 4. No dollar amounts explicitly tied to Finding 1 (background expenditure figures excluded). Agency response details not included in provided text snippet."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:13:31.487539",
+  "content_hash": "f61eaf99a8de97921d259faea84349a37b830d4b",
+  "duplicate_of": null
+}

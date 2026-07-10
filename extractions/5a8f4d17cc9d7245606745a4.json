@@ -1,0 +1,178 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2011-04-01",
+    "audit_period_start": "2007-06-14",
+    "audit_period_end": "2010-04-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "An Agreement With a State's Attorney's Office Did Not Include Sufficient Specifications",
+        "description": "DPDS contracted with a State's Attorney's Office for case review services, but the agreement excluded critical elements such as specific deliverables and payment terms. Payments totaling $709,000 were made in fiscal year 2009 without verification of actual costs, and payments for fiscal year 2010 were withheld pending a new agreement which had not been established as of September 2010.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 709000.0,
+            "context": "payments to SAO in fiscal year 2009"
+          },
+          {
+            "amount": 708210.0,
+            "context": "SAO invoices for services received during fiscal year 2010 accrued at fiscal year-end"
+          }
+        ],
+        "recommendation": "DPDS should establish an agreement with the SAO that includes payment terms and deliverables, and ensure future payments are made in accordance with these terms.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-03-03"
+      },
+      {
+        "number": 2,
+        "title": "Leave for Certain Employees Was Improperly Calculated Resulting in Employees Receiving More Leave Than They Were Eligible for and Certain Employees Receiving Overpayments for Leave Payouts",
+        "description": "The automated leave system improperly calculated annual and sick leave for certain employees, resulting in excessive earnings. The contractor advised that miscalculations were due to system errors within the database.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 40000.0,
+            "context": "estimated value of excessive annual leave earnings"
+          },
+          {
+            "amount": 29000.0,
+            "context": "value of excessive leave received by 86 employees who separated"
+          },
+          {
+            "amount": 7367.0,
+            "context": "total overpayment for 10 tested annual leave payouts"
+          },
+          {
+            "amount": 52000.0,
+            "context": "estimated value of excessive sick leave earnings"
+          }
+        ],
+        "recommendation": "DPDS should work with the contractor to resolve system errors, review the propriety of annual and sick leave for all employees, and take appropriate action including recovery of overpayments.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-09"
+      },
+      {
+        "number": 3,
+        "title": "Procedures Were Inadequate to Ensure All Recorded Collections Were Deposited",
+        "description": "The deposit verification process was not timely and duties were not segregated. As of August 4, 2010, no collections received after May 25, 2010 had been verified as deposited.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 486000.0,
+            "context": "collections totaling approximately $486,000 that had not been verified as deposited"
+          }
+        ],
+        "recommendation": "DPDS should ensure an employee independent of the cash receipts process performs deposit verifications and perform them in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-11"
+      },
+      {
+        "number": 4,
+        "title": "Controls Over Contaminated Inmate Funds Were Inadequate Allowing the Misappropriation of Approximately $12,500 by a Management Employee",
+        "description": "Controls over contaminated inmate funds were inadequate, allowing a management employee to misappropriate $12,500 between June 2006 and November 2008. The employee admitted to the misappropriation during an investigation in April 2010.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 12500.0,
+            "context": "funds misappropriated by a management employee"
+          }
+        ],
+        "recommendation": "DPDS should establish proper control over contaminated inmate funds by properly depositing these funds in the bank.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-06-30"
+      },
+      {
+        "number": 5,
+        "title": "FMIS Access Was Not Sufficiently Reviewed and Proper Controls Were Not Established Over Certain Purchases",
+        "description": "DPDS did not periodically review employee access to FMIS for all users, and online approval rules allowed individuals to initiate purchase orders and make changes after independent approvals were obtained.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 39300000.0,
+            "context": "disbursements totaling $39.3 million through FMIS during fiscal year 2010"
+          },
+          {
+            "amount": 4600000.0,
+            "context": "payments related to FMIS purchase orders totaled $4.6 million"
+          }
+        ],
+        "recommendation": "DPDS should perform documented reviews of assigned FMIS access capabilities that include all users and establish approval requirements preventing modifications after approvals.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-03-05"
+      },
+      {
+        "number": 6,
+        "title": "Equipment Records Were Inadequately Maintained",
+        "description": "DPDS detail equipment records were not adequately maintained in compliance with DGS Inventory Control Manual requirements. A control account was also not maintained.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6500000.0,
+            "context": "reported book value of DPDS equipment as of June 30, 2010"
+          },
+          {
+            "amount": 99200.0,
+            "context": "cost of 265 equipment items purchased during fiscal years 2009 and 2010 tested"
+          },
+          {
+            "amount": 63112.0,
+            "context": "items costing $63,112 were not recorded in the detail records"
+          }
+        ],
+        "recommendation": "DPDS should comply with the requirements of the DGS Inventory Control Manual regarding maintenance of detail records and control accounts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "The Inmate Working Fund Balance Contained Funds That Had Not Been Properly Approved",
+        "description": "The DPDS inmate working fund advance totaled $46,000; however, only $21,000 had been authorized by the Comptroller of Maryland. The additional $25,000 advance was from an unknown source and not approved.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 46000.0,
+            "context": "DPDS inmate working fund advance total"
+          },
+          {
+            "amount": 21000.0,
+            "context": "authorized by the Comptroller of Maryland"
+          },
+          {
+            "amount": 25000.0,
+            "context": "advance that had not been approved by the Comptroller of Maryland"
+          }
+        ],
+        "recommendation": "DPDS should transfer the advance to the State General Fund unless the Comptroller of Maryland approves retaining the advance.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 10,
+    "prior_findings_repeated": 1,
+    "criminal_referral": true,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Public Safety and Correctional Services agreed with all findings and outlined corrective actions. These included executing a new agreement with the State's Attorney's Office (Finding 1), updating the leave accounting system (Finding 2), ensuring independent deposit verifications (Finding 3), establishing controls for contaminated funds (Finding 4), and reviewing FMIS access capabilities (Finding 5).",
+    "total_dollar_impact": 129500.0,
+    "extraction_notes": "Total dollar impact calculated as sum of estimated excessive leave ($92,000), misappropriated funds ($12,500), and unapproved advance ($25,000). Criminal referral confirmed for Finding 4."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:54:44.055273",
+  "content_hash": "bb21241fa371f5b41dd43574a3fa8cacd7a611c4",
+  "duplicate_of": null
+}

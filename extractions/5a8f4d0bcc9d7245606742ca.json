@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Chief Medical Examiner",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2014-08-01",
+    "audit_period_start": "2011-05-06",
+    "audit_period_end": "2014-03-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office of the Chief Medical Examiner did not comply with State procurement regulations when purchasing certain medical supplies.",
+        "description": "OCME purchased medical supplies without competitive bids or written contracts as required by regulation. Review of transactions from May 2011 to May 2014 disclosed $496,000 in purchases from three vendors lacking these requirements.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 496000.0,
+            "context": "repeated purchases for medical supplies from three vendors"
+          }
+        ],
+        "recommendation": "We recommend that OCME comply with State procurement regulations by soliciting competitive bids and executing written contracts, where applicable (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-12-31"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency concurs with the finding and explains that the Agency Buyer PIN position was abolished and a new one requested but denied. They plan to submit a reclassification request for an existing vacant position by December 31, 2014, and will audit card expenditures to develop contracts where applicable.",
+    "total_dollar_impact": 496000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T22:01:10.155831",
+  "content_hash": "55f41794a3ffc7aa2ddce6954c72b199199de7d5",
+  "duplicate_of": "5a8f4d0bcc9d7245606742c6"
+}

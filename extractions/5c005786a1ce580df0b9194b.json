@@ -1,0 +1,143 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": "2018-11-01",
+    "audit_period_start": "2014-05-19",
+    "audit_period_end": "2018-03-18",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Division of Labor and Industry (DLI) did not have a process to ensure the consistent issuance of citations to, or assessments of allowed penalties on, entities that failed to obtain and pass the required elevator, boiler, or pressure vessel inspections.",
+        "description": "DLI lacked a process for consistent citation and penalty assessment. As of April 3, 2018, 1,731 boilers/pressure vessels operated over 60 days without valid certificates, and 3,131 elevators were similarly affected (2,124 non-public). No citations issued for elevator inspections between August 2015 and November 2017; $22,500 in penalties was returned by DLI.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 22500.0,
+            "context": "payment of penalties returned by DLI"
+          }
+        ],
+        "recommendation": "We recommend that DLI institute a process to ensure it issues citations and assesses penalties to entities which fail to obtain and pass the required inspections, including those noted above.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DLI lacked assurance that the outsourced management system was protected against operational and security risks.",
+        "description": "The contract did not require the vendor to obtain independent reviews of controls. DLI had not performed security reviews. The vendor obtained a SOC 2 Type 1 report (June 30, 2017), but a Type 2 report provides greater assurance regarding system protection over time.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 880000.0,
+            "context": "contract value for the term beginning January 1, 2013 and ending December 31, 2018"
+          },
+          {
+            "amount": 569000.0,
+            "context": "DLI has paid the vendor under the current contract through April 10, 2018"
+          }
+        ],
+        "recommendation": "We recommend that DLI a. ensure that future contracts include provisions requiring service organizations to annually obtain SOC 2 Type 2 reviews for outsourced systems (repeat), and b. obtain and review these SOC 2 Type 2 reports and take appropriate action to ensure that all critical operational and security-related concerns are properly addressed (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DLI did not perform periodic reviews of user access capabilities for the regulatory management system, resulting in several users with inappropriate access.",
+        "description": "DLI did not review user access; 8 of 152 active users had administrative access not required. The system lacked output reports on changes made by third-party inspectors (e.g., removing boilers). Similar conditions were noted in the preceding audit report.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DLI a. perform a periodic documented review of user access capabilities for the regulatory management system and ensure users are assigned only those capabilities needed to perform job duties (repeat), and b. work with the system vendor to develop appropriate access restrictions and to provide output reports that can be used to ensure boilers and pressure vessels removed from the regulatory management system are proper (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-11-30"
+      },
+      {
+        "number": 4,
+        "title": "DLI was not effectively monitoring and enforcing contractor compliance with the State\u2019s prevailing wage requirements. The automated system was not properly flagging questionable contractor payroll reports, required payroll report reviews were not conducted, and fines were not assessed.",
+        "description": "The automated system flagged only 8 of 99,005 certified payroll reports since August 2017 for review (vs 17,538 in FY2017). Investigators reviewed only 7% of submitted reports. Approximately $7 million in late submission fines were due for fiscal year 2017, but DLI collected only $40,000.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7000000.0,
+            "context": "late submission fines due for fiscal year 2017"
+          },
+          {
+            "amount": 40000.0,
+            "context": "fines collected by DLI"
+          },
+          {
+            "amount": 368000.0,
+            "context": "fines one contractor should have paid but did not"
+          },
+          {
+            "amount": 476000.0,
+            "context": "entities paid to employees for wage underpayments during fiscal year 2017"
+          },
+          {
+            "amount": 21000.0,
+            "context": "related fines for underpayments during fiscal year 2017"
+          }
+        ],
+        "recommendation": "We recommend that DLI ensure a. the automated prevailing wage system is working as intended and is configured to flag all potential violations of prevailing wage laws; b. investigators review the required number of certified payroll reports, including all reports flagged as having potential violations; and c. fines are assessed and collected when companies fail to submit payroll records timely.",
+        "agency_agrees": true,
+        "agency_completion_date": "2019-06-30"
+      },
+      {
+        "number": 5,
+        "title": "DLI had not established adequate accountability and control over certain collections.",
+        "description": "Collections at three units ($320,000) were not recorded immediately. Collections from 8 days ($86,000) were deposited late. Deposit verifications were inadequate at one unit ($685,200). One employee could modify accounts receivable records while processing collections ($212,000).",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1900000.0,
+            "context": "DLI collected during fiscal year 2017"
+          },
+          {
+            "amount": 320000.0,
+            "context": "collections at three units not recorded immediately upon receipt"
+          },
+          {
+            "amount": 213000.0,
+            "context": "collections received at all six units for 10 days during fiscal years 2017 and 2018"
+          },
+          {
+            "amount": 86000.0,
+            "context": "collections deposited from 2 to 14 business days after disposition was determined"
+          },
+          {
+            "amount": 685200.0,
+            "context": "collections received by one unit where deposit verifications were inadequate"
+          },
+          {
+            "amount": 212000.0,
+            "context": "collections at one unit where an employee could modify accounts receivable records"
+          }
+        ],
+        "recommendation": "We recommend that DLI a. immediately record cash receipts upon receipt (repeat), b. deposit all cash receipts in a timely manner (repeat), c. ensure that deposit verifications are performed by employees who are independent from the collection process (repeat), and d. ensure that employees involved with cash receipts functions are independent from the accounts receivable functions (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DLI concurred with all findings and agreed with all recommendations. The agency noted corrective actions taken or planned, including establishing a citations management unit, ongoing SOC 2 certification processes, system improvements for payroll monitoring expected by fiscal year 2019, and implementation of cash receipt controls.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from 'November 2018' header. Prior finding numbers not explicitly stated in text, only count (4) and repeated count (3). Total dollar impact set to null as no explicit total of questioned/unaccounted costs is provided."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:13:35.284125",
+  "content_hash": "4301dca7039190da97f0fc222717ef027ce7676b",
+  "duplicate_of": "5a8f4d12cc9d72456067449d"
+}

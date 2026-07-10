@@ -1,0 +1,57 @@
+{
+  "extraction": {
+    "agency_name": "University of Maryland Biotechnology Institute",
+    "parent_department": "University System of Maryland",
+    "report_date": "2010-01-12",
+    "audit_period_start": "2006-02-03",
+    "audit_period_end": "2009-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "UMBI inaccurately reported to the legislative budget committees that statewide indirect cost recoveries totaling approximately $113,000 were reverted to the State General Fund.",
+        "description": "Indirect cost recoveries included in annual budget requests for fiscal years 2006 through 2008 were not accurate. UMBI reported that approximately $113,000 had been reverted to the State General Fund, but these funds were actually retained. Personnel advised they were unaware of the requirement to revert statewide indirect cost recoveries.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 113000.0,
+            "context": "statewide indirect cost recoveries"
+          }
+        ],
+        "recommendation": "We recommend that UMBI a. revert the previously reported indirect cost recoveries to the State General Fund; and b. in the future, accurately report and revert the statewide indirect cost recoveries to the State General Fund.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-06-30"
+      },
+      {
+        "number": 2,
+        "title": "Employee timesheets were not always approved by supervisors.",
+        "description": "Electronic employee timesheets for two locations during the period July 1, 2006 through June 30, 2009 were not always electronically approved. Review disclosed that 69 timesheets for 20 employees did not contain supervisory approval and were used to prepare payroll.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 27000000.0,
+            "context": "fiscal year 2009 payroll expenditures"
+          }
+        ],
+        "recommendation": "We recommend that UMBI ensure a. that timesheets are approved by supervisors, as required; and b. that prior written approval of overtime is obtained and properly documented.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "UMBI concurs with both recommendations. They will revert the previously reported indirect cost recoveries to the state general fund by June 30, 2010 and ensure accurate reporting in the future. For payroll, they will review procedures to verify timesheet approvals and overtime documentation.",
+    "total_dollar_impact": 113000.0,
+    "extraction_notes": "Report date taken from transmittal letter (January 12, 2010). Prior findings count explicitly stated as five. No criminal referral or fraud hotline origin explicitly stated."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:08:42.298082",
+  "content_hash": "3a02d8d7a8b6ac6d0052a6a2fbfd1e030291692b",
+  "duplicate_of": null
+}

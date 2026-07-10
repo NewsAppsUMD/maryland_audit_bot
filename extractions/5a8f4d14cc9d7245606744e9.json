@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Baltimore City Police Department",
+    "parent_department": "Baltimore City Police Department",
+    "report_date": "2013-04-01",
+    "audit_period_start": "2010-01-27",
+    "audit_period_end": "2013-02-18",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a written response as the report contained no recommendations.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings were present in this audit report. The text explicitly states 'Since there are no recommendations in this report'."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:37:59.156778",
+  "content_hash": "a04814384cd30af187e96196883847ec2492830b",
+  "duplicate_of": null
+}

@@ -1,0 +1,56 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2008-12-17",
+    "audit_period_start": "2005-06-01",
+    "audit_period_end": "2008-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Centers did not always procure goods and services in accordance with State Procurement Regulations.",
+        "description": "Centers did not follow State Procurement Regulations when procuring goods and services. Deficiencies included payments to a dietary contractor exceeding the contract amount by approximately $300,000 without Board of Public Works approval; issuing 25 purchase orders totaling approximately $603,500 for human services that appeared artificially divided to avoid Department of Budget and Management approval (with 23 orders for $24,999 each); and seven payments totaling approximately $108,000 lacking adequate documentation of the procurement process.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 300000.0,
+            "context": "exceeded contract amount without approval"
+          },
+          {
+            "amount": 5000000.0,
+            "context": "payments to dietary service contractor"
+          },
+          {
+            "amount": 603500.0,
+            "context": "purchase orders to temporary employment agencies for human services"
+          },
+          {
+            "amount": 24999.0,
+            "context": "size of 23 purchase orders"
+          },
+          {
+            "amount": 108000.0,
+            "context": "7 payments lacked adequate documentation"
+          }
+        ],
+        "recommendation": "We recommend that the Centers comply with the aforementioned requirements of the State Procurement Regulations. Specifically, we recommend that, in the future, all contracts and contract modifications be submitted for approval, as required, and that the Centers not artificially divide procurements to avoid required approvals. We also recommend that the Centers forward the aforementioned contract modification to the BPW for approval. We further recommend that the Centers procure goods and services utilizing competitive bidding as required, and that documentation of competitive bids and sole source award justifications be maintained.",
+        "agency_agrees": true,
+        "agency_completion_date": "February 2009"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Centers concur with the recommendations and state they will ensure all future contracts are approved according to State Procurement Regulations. They plan to process a dietary contract modification for Board of Public Works approval in February 2009, utilize an emergency contract for psychiatry services through June 30, 2009, and document all competitive bidding and sole source awards immediately.",
+    "total_dollar_impact": 408000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:16:34.981853",
+  "content_hash": "3f63709250f0788cdb3657f33ceb06730b752f00",
+  "duplicate_of": null
+}

@@ -1,0 +1,69 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2015-05-01",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Central Region had not fully reconciled its inmate fund records with the corresponding records maintained by the Comptroller of Maryland.",
+        "description": "The Central Region had not fully reconciled the aggregate balance of its inmate personal fund accounts for BCDC and BCBIC recorded on MOBS with records maintained by the Comptroller. As of January 2015, a reconciliation for June 2014 activity included an unresolved difference where the MOBS balance exceeded the Comptroller balance.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 254578.0,
+            "context": "MOBS balance"
+          },
+          {
+            "amount": 243342.0,
+            "context": "Comptroller balance"
+          },
+          {
+            "amount": 11236.0,
+            "context": "unresolved difference between MOBS and Comptroller balances"
+          },
+          {
+            "amount": 9000.0,
+            "context": "portion of difference caused by a mathematical error"
+          }
+        ],
+        "recommendation": "We recommend that the Region perform the aforementioned reconciliations on a periodic basis, investigate differences noted, and take appropriate corrective action, including working with the DPSCS Office of the Secretary to obtain the needed reports from MOBSII.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Region did not adequately verify that certain cash receipts were deposited.",
+        "description": "The Region lacked adequate procedures to ensure that cash receipts primarily related to inmate funds for BCDC and BCBIC were deposited. Documents on which collections were initially recorded were not forwarded directly to the employee who verified deposits, allowing potential alteration of records. Prior to April 2014, the deposit verification employee also had access to cash receipts.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2700000.0,
+            "context": "total cash receipts for BCDC and BCBIC for calendar year 2013"
+          }
+        ],
+        "recommendation": "We recommend that the employee who prepares the initial record of collections forward this record directly to the independent employee who performs the deposit verifications.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the response from DPSCS is included as an appendix to this report; however, the provided text does not contain the appendix content.",
+    "total_dollar_impact": 11236.0,
+    "extraction_notes": "Report date derived from 'May 2015' header. Audit period derived from 'Audit Scope' section for Central Region. Prior findings count based on preceding report dated April 1, 2011 mentioned in Status of Findings section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:46:07.007047",
+  "content_hash": "61f08c48aa6d620e4be31ca71eb9269e21e8cd2f",
+  "duplicate_of": null
+}

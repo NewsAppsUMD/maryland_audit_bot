@@ -1,0 +1,102 @@
+{
+  "extraction": {
+    "agency_name": "Mental Hygiene Administration",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2014-09-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2013-10-07",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MHA lacked adequate procedures to ensure that required documentation was obtained and verified to support patient eligibility for mental health services paid entirely by the State\u2019s General Fund.",
+        "description": "MHA lacked adequate procedures to ensure that required documentation was obtained by the providers and verified by MHA or the ASO to support patient eligibility for mental health services paid entirely by the State\u2019s General Fund (uninsured coverage). Review of 25 patients with claims totaling approximately $235,000 disclosed that certain required eligibility documentation was not always on file.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 235000.0,
+            "context": "claims paid during the period from January through June 2013 under the uninsured coverage classification"
+          }
+        ],
+        "recommendation": "We recommend that MHA establish procedures to ensure that required documentation supporting eligibility for individuals whose services are funded entirely with general funds is obtained in all cases, and verified, at least on a test basis (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MHA had not received all required contract deliverables from a firm which precluded effective monitoring of certain critical ASO fiscal activities.",
+        "description": "MHA was not receiving required contract deliverables, in a timely manner, from the independent public accounting firm it hired to perform reviews of certain critical ASO financial activities. Reports on claims and bank reconciliation reviews were received 12 to 21 months late. As of March 2014, payments to the contractor totaled approximately $109,000 representing payments for billed services rendered from inception of the contract through November 2012.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 109000.0,
+            "context": "payments to the contractor as of March 2014 representing payments for billed services rendered from inception of the contract through November 2012"
+          }
+        ],
+        "recommendation": "We recommend that MHA ensure that all contract deliverables, such as the aforementioned claims and bank reconciliation reviews and resulting reports, are performed and received within the required time frames.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-12-31"
+      },
+      {
+        "number": 3,
+        "title": "The ASO\u2019s internal network, which hosted MHA information, was not adequately secured.",
+        "description": "Several unnecessary and insecure connections were allowed to portions of the ASO\u2019s internal network. 61 ASO internal network addresses could receive encrypted traffic without Host-based Intrusion Protection System (HIPS) coverage, creating a security risk.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MHA ensures that the ASO restricts access, at the network level, to key administrative resources to only those entities requiring such access; and performs a documented review and assessment of its network security risks, identifies how HIPS coverage should be best applied to its network, and implements such coverage.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-12-31"
+      },
+      {
+        "number": 4,
+        "title": "The ASO stored sensitive personally identifiable information, relating to MHA consumers, in clear text and did not adequately restrict access to sensitive information.",
+        "description": "The ASO stored sensitive personally identifiable information (PII), relating to MHA consumers, in clear text within a master file and 45 separate database tables. Users were granted unnecessary read and modification access to certain critical ASO files containing sensitive PII for Maryland Medicaid enrollees.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MHA request that the ASO encrypt all files and database objects containing MHA consumer PII, mask or truncate social security numbers applicable to MHA consumers from online database and application users that do not need to see the full number, and restrict read and modification access to critical and sensitive Maryland Medicaid enrollees\u2019 information to only those personnel who require such access.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-03-01"
+      },
+      {
+        "number": 5,
+        "title": "Internal controls over cash receipts were not sufficient to ensure all receipts were deposited.",
+        "description": "MHA did not verify that collections received through the mail, which totaled approximately $741,000 during fiscal year 2013, were forwarded to and received by the Department of Health and Mental Hygiene (DHMH) general accounting unit for deposit. Collections received at MHA\u2019s Crownsville Hospital Center were not adequately controlled and verified to deposit, totaling approximately $251,000 during fiscal year 2013.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 741000.0,
+            "context": "collections received through the mail during fiscal year 2013"
+          },
+          {
+            "amount": 251000.0,
+            "context": "collections received at MHA\u2019s Crownsville Hospital Center during fiscal year 2013"
+          }
+        ],
+        "recommendation": "We recommend that MHA designate an employee independent of the cash collection functions to verify recorded collections to the receipt from DHMH or validated bank documentation, as appropriate (repeat); and ensure that employees who receive collections do not also maintain the related accounts receivable records.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MHA concurred with all findings and recommendations. For Finding 1, they established procedures and will disseminate a Provider Alert in October 2014. For Finding 2, they anticipate the contractor will be up to date by December 31, 2014. For Findings 3 and 5, items were resolved during fieldwork or effective immediately with policy updates. For Finding 4, encryption and masking are estimated for completion by March 2015.",
+    "total_dollar_impact": 1227000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:15:33.434063",
+  "content_hash": "a860e2d4179667aa1329f8da20fe755efeec5d52",
+  "duplicate_of": "5a8f4d14cc9d7245606744cf"
+}

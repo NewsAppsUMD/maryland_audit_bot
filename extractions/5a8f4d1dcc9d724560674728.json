@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2015-05-01",
+    "audit_period_start": "2011-12-02",
+    "audit_period_end": "2014-11-11",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Required collection efforts were not performed for outstanding grants receivable.",
+        "description": "Grant amounts owed to UMCES were not always pursued in accordance with State regulations. Review of 10 delinquent grant accounts totaling approximately $280,000 disclosed that UMCES did not timely pursue collection for 8 accounts totaling approximately $253,600.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 253600.0,
+            "context": "accounts not timely pursued"
+          },
+          {
+            "amount": 280000.0,
+            "context": "total delinquent grant accounts reviewed"
+          }
+        ],
+        "recommendation": "We recommend that UMCES issue demands for payment at the intervals required by State regulations.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "UMCES is transitioning to a new billing and receivables system expected by late summer 2015 and has prioritized collection efforts, resulting in the collection of 85% of delinquent accounts.",
+    "total_dollar_impact": 253600.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:01:38.524560",
+  "content_hash": "958405525637ae9dae1a635511c6a7b703c27d38",
+  "duplicate_of": null
+}

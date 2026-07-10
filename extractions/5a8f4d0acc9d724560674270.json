@@ -1,0 +1,94 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Agricultural Land Preservation Foundation",
+    "parent_department": "Maryland Department of Agriculture",
+    "report_date": "2011-05-13",
+    "audit_period_start": "2009-07-01",
+    "audit_period_end": "2010-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain Aspects of MALPF\u2019s Database of Easement Acquisitions Had Not Been Tested for Reliability nor Reconciled With the State\u2019s Records",
+        "description": "MALPF's database of easement acquisitions had not been tested for reliability nor reconciled to the State's accounting records as of February 23, 2011. There is a lack of assurance that all easement costs were properly accounted for and reported. Discrepancies exist between MALPF's Annual Report ($599 million), the database ($565 million), and State records ($548 million).",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 599000000.0,
+            "context": "cumulative cost of easement acquisitions reported in the MALPF Annual Report"
+          },
+          {
+            "amount": 548000000.0,
+            "context": "comparable amount recorded on the State\u2019s accounting records"
+          },
+          {
+            "amount": 51000000.0,
+            "context": "discrepancy between Annual Report and State records"
+          },
+          {
+            "amount": 565000000.0,
+            "context": "cumulative cost of easement acquisitions recorded in the database"
+          },
+          {
+            "amount": 5000000.0,
+            "context": "easements acquired during fiscal year 2010 not included in State Comptroller\u2019s records"
+          }
+        ],
+        "recommendation": "ensure the accuracy of the financial information included in the database of easement acquisitions; ensure that easement information is accurately reported in its annual report and periodically reconciled to the related State accounting records; investigate the aforementioned discrepancies and take appropriate corrective action.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-07-31"
+      },
+      {
+        "number": 2,
+        "title": "MALPF Did Not Ensure That Counties Properly Filed an Annual Report or Remitted Unused Agricultural Land Transfer Tax Funds to the State as Required",
+        "description": "MALPF did not ensure that all counties properly filed annual reports or remitted unused agricultural land transfer taxes. Three of 10 tested counties had not submitted fiscal year 2010 annual reports by January 10, 2011. Approximately $19,000 in unexpended funds from fiscal year 2007 could potentially be due the State.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 19000.0,
+            "context": "unexpended funds from fiscal year 2007 potentially due the State"
+          }
+        ],
+        "recommendation": "establish procedures to obtain and review the required annual reports and monitor the remission of amounts due to the State; maintain accounts receivable records for funds due the State.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-05-15"
+      },
+      {
+        "number": 3,
+        "title": "MALPF Had Not Established Procedures to Ensure Taxes Remitted by the Counties Were Supported by Monthly Reports",
+        "description": "MALPF had not established procedures to ensure that the State\u2019s portion of agricultural land transfer taxes remitted on a monthly basis was supported by the monthly reports. MALPF did not maintain the monthly reports from the counties. Testing disclosed 2 counties submitted insufficient amounts totaling $1,320 for the month reviewed.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 117342.0,
+            "context": "agricultural transfer taxes collected for test of 10 counties"
+          },
+          {
+            "amount": 1320.0,
+            "context": "insufficient amounts submitted by 2 counties"
+          }
+        ],
+        "recommendation": "establish procedures to ensure the agricultural land transfer tax revenue remitted by the counties is supported by the monthly reports; take the appropriate follow-up action to recover the aforementioned underpayments by the counties; retain the related monthly reports for future reference.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency concurred with all three findings. For Finding 1, database testing was anticipated by July 31, 2011. For Finding 2, letters regarding taxes retained were to be sent by May 15, 2011.",
+    "total_dollar_impact": 56020320.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:46:43.023444",
+  "content_hash": "ebd4e1bb69ba887ed07e8305886a3f8a442fa130",
+  "duplicate_of": null
+}

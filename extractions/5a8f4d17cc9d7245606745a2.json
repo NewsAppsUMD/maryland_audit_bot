@@ -1,0 +1,94 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2012-08-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2011-08-21",
+    "findings": [
+      {
+        "number": 1,
+        "title": "CRFO\u2019s Records of Inmate Funds Were Not Reconciled With the Corresponding State Records",
+        "description": "CRFO has been unable to fully reconcile the aggregate balance of inmate accounts recorded on its records (MOBS) with the corresponding records of the Comptroller of Maryland, resulting in a recurring difference totaling approximately $309,000 as of June 30, 2011. This implies that inmate funds on deposit may not be sufficient to cover the aggregate balance of inmate accounts in MOBS.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 309000.0,
+            "context": "aggregate recurring difference between MOBS and Comptroller records as of June 30, 2011"
+          }
+        ],
+        "recommendation": "Reconcile the aggregate balance of individual inmate accounts in MOBS with the corresponding records of the Comptroller of Maryland on a periodic basis, including investigation and resolution of all differences; consult with the Comptroller\u2019s General Accounting Division and the Department of Budget and Management as to the proper disposition of the difference if it cannot be resolved.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-06-30"
+      },
+      {
+        "number": 2,
+        "title": "Procedures Were Not Established to Ensure the Timely Disposition of Former Inmate Accounts",
+        "description": "CRFO had not established procedures to ensure the timely disposition of accounts of former inmates, specifically failing to submit delinquent inmate accounts to CCU for collection or abatement and failing to forward unclaimed account funds to the Comptroller as required. After audit notification, CRFO referred 891 delinquent accounts totaling approximately $87,000 to CCU and transferred unclaimed accounts totaling approximately $223,000 to the Comptroller.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 87000.0,
+            "context": "delinquent accounts referred to CCU for collection"
+          },
+          {
+            "amount": 223000.0,
+            "context": "unclaimed accounts transferred to the Comptroller"
+          }
+        ],
+        "recommendation": "Establish procedures to ensure the timely disposition of accounts of former inmates.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Equipment Records Were Not Adequately Maintained and Certain Access to Automated Equipment Records Was Not Proper",
+        "description": "Equipment records were not adequately maintained, including items on hand not recorded in detail records (4 cameras missing from records) and purchases not posted ($9,282). Additionally, equipment items recorded could not be located (2 camcorders totaling $2,143), and user access to update records was not removed for individuals who no longer needed it.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13900000.0,
+            "context": "aggregate book value of equipment maintained by facilities as of June 30, 2011"
+          },
+          {
+            "amount": 73494.0,
+            "context": "equipment purchases tested"
+          },
+          {
+            "amount": 9282.0,
+            "context": "purchase not posted to detail records"
+          },
+          {
+            "amount": 89618.0,
+            "context": "equipment items recorded in detail records but could not be located (test sample)"
+          },
+          {
+            "amount": 2143.0,
+            "context": "missing equipment items (camcorders)"
+          }
+        ],
+        "recommendation": "Comply with Inventory Control Manual by properly maintaining all equipment records on a current basis; ensure access to equipment records is provided only to employees who require such access for job responsibilities; update equipment records for unrecorded items and investigate disposition of missing equipment items.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 22,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency agreed with all three findings and recommendations. For Finding 1, they committed to monthly reconciliation and consulting on the $309,000 difference by June 30, 2013. For Finding 2, procedures have been established. For Finding 3, they will comply immediately with the Inventory Control Manual regarding record maintenance and access.",
+    "total_dollar_impact": 630425.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:51:04.173500",
+  "content_hash": "2de28e5e087eab5ee7d6b517f553714f468864ec",
+  "duplicate_of": null
+}

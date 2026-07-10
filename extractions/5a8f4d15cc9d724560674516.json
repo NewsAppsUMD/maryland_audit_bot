@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "agency_name": "Potomac River Fisheries Commission",
+    "parent_department": null,
+    "report_date": "2014-05-05",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2013-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Improve Overall Operational Controls",
+        "description": "The audit noted several areas where controls were not functioning properly due to a management transition, including an unsecured debit card despite prior notice, undocumented payroll reviews by the Executive Secretary, and delayed bank reconciliations resulting in recording errors.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Commission should ensure that controls are in place to properly safeguard Commission assets. This includes proper security surrounding the debit card; systematic documented review of all payroll transactions by the Executive Secretary and/or Assistant Executive Secretary; and timely reconciliation of all bank accounts.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "null",
+    "total_dollar_impact": null,
+    "extraction_notes": "Agency Response content was not present in the provided text (Page 8 header exists but no response text follows). No dollar amounts explicitly tied to the finding were found. Parent department is null as no specific oversight department other than the General Assembly (auditor) was stated."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 1, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:46:01.777673",
+  "content_hash": "88de2261311c58539012fc7ad643910f9ce28325",
+  "duplicate_of": null
+}

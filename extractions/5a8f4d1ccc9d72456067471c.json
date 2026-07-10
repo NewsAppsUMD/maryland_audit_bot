@@ -1,0 +1,97 @@
+{
+  "extraction": {
+    "agency_name": "Uninsured Employers' Fund",
+    "parent_department": "Uninsured Employers' Fund",
+    "report_date": "2025-06-06",
+    "audit_period_start": "2020-12-01",
+    "audit_period_end": "2024-10-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Uninsured Employers\u2019 Fund (UEF) did not adequately monitor and pursue collection of all delinquent accounts and did not refer delinquent accounts to the State\u2019s Central Collection Unit (CCU) as required.",
+        "description": "UEF did not adequately monitor and pursue collection of all delinquent accounts and did not refer delinquent accounts to CCU, as required. As of March 2025, UEF's records reflected an accounts receivable balance totaling approximately $117.4 million, with $115.6 million currently outstanding for more than 90 days.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [
+          {
+            "amount": 2000000.0,
+            "context": "delinquent accounts not referred to CCU"
+          },
+          {
+            "amount": 117400000.0,
+            "context": "accounts receivable balance"
+          },
+          {
+            "amount": 115600000.0,
+            "context": "outstanding for more than 90 days"
+          },
+          {
+            "amount": 8000.0,
+            "context": "test of delinquent invoices over 180 days past due"
+          },
+          {
+            "amount": 7800.0,
+            "context": "invoices without required dunning notices"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "20 delinquent accounts delinquent for periods ranging from 243 days to 16 years"
+          },
+          {
+            "amount": 77336.0,
+            "context": "test of licensed employers with accounts delinquent between 181 days to more than 3 years"
+          }
+        ],
+        "recommendation": "We recommend that UEF a. generate dunning notices and produce accurate accounts receivable aging reports to monitor and pursue collection activities, b. refer all delinquent accounts to CCU for collection in accordance with CCU regulations, and c. document attempts to identify and refer delinquent employers to applicable State and local licensing authorities for license or permit suspension.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-10-31"
+      },
+      {
+        "number": 2,
+        "title": "UEF did not obtain and review sufficient documentation to support the administrative fees paid to the TPA for administrative services.",
+        "description": "UEF did not obtain and review sufficient documentation to support the monthly fees paid to the TPA for administrative services. Payments totaled approximately $7.1 million during the period from December 1, 2020 to October 31, 2024. Invoices submitted by the TPA did not identify vendor employees or related hours worked as required.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [
+          {
+            "amount": 7100000.0,
+            "context": "payments to TPA between December 2020 and October 2024"
+          },
+          {
+            "amount": 521083.0,
+            "context": "payments totaling for which the rate paid by UEF was not included in the contract or exceeded rates specified (from preceding audit finding description)"
+          }
+        ],
+        "recommendation": "We recommend that UEF ensure that invoiced amounts are supported and agree to contract approved rates and level of services prior to approving invoices for payment.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-08-31"
+      },
+      {
+        "number": 3,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "The Information Systems Security and Control section, including Finding 3 related to 'cybersecurity,' is subject to redaction from the publicly available audit report in accordance with State Government Article 2-1224(i). The specifics of the finding have been communicated to those parties responsible for acting on recommendations.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Redacted",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency agrees with all findings and is working to comply with recommendations. For Finding 1, they note improvements since prior audits regarding CCU referrals but acknowledge documentation needs improvement. For Finding 2, they agree invoices did not meet contract requirements and have directed staff to enforce compliance.",
+    "total_dollar_impact": 2000000.0,
+    "extraction_notes": "Report date taken from transmittal letter (June 6, 2025). Audit period is December 1, 2020 to October 31, 2024. Finding 3 is redacted per State law."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:49:15.714213",
+  "content_hash": "33e0029673fd876f09afd265134c170249a3db85",
+  "duplicate_of": null
+}

@@ -1,0 +1,59 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2016-01-01",
+    "audit_period_start": "2014-11-01",
+    "audit_period_end": "2015-08-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Personally Identifiable Information Was Not Appropriately Safeguarded",
+        "description": "ITCD inappropriately stored sensitive personally identifiable information (PII) in clear text, including a critical database containing over 2.5 million social security numbers without substantial mitigating controls. The State of Maryland\u2019s Information Security Policy requires protection using encryption or other controls.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITCD a. perform an inventory of its systems and identify all sensitive PII, b. determine if it is necessary to retain this PII and delete all unnecessary PII, c. determine if all necessary PII is properly protected by encryption or other substantial mitigating controls, and d. use approved encryption methods to encrypt all sensitive PII not otherwise properly protected.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-10-01"
+      },
+      {
+        "number": 2,
+        "title": "Procedures for Logging and Monitoring Critical Database and Mainframe Security Events Were Not Sufficient",
+        "description": "Procedures were insufficient; system privileges and direct changes to significant data were not logged, and documented reviews of security reports did not exist. State policy requires audit records and routine review procedures.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITCD a. log the use of all critical database system privileges and all direct modifications to significant data and security tables, and b. document its review of all critical database and mainframe security software security reports and retain this documentation for future reference.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-01"
+      },
+      {
+        "number": 3,
+        "title": "The DPSCS Network Was Not Properly Secured",
+        "description": "Firewalls allowed unnecessary connections and were not configured to adequately secure connections from untrusted sources; IDPS coverage did not exist for encrypted traffic, leaving devices susceptible to attack.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITCD a. configure its firewalls to achieve a \u201cleast privilege\u201d security strategy giving individuals and devices only the access needed to perform necessary tasks (repeat), b. perform a documented review and assessment of its network security risks from encrypted network traffic to its critical devices and identify how such traffic should be subject to IDPS, and c. implement IDPS coverage as necessary, based on this review and assessment.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "ITCD agreed to all recommendations and stated it would aggressively pursue implementation. Most actions were completed or scheduled for completion by October 2018.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'January 2016' as no specific transmittal letter date was found in text. Audit period dates converted to first day of month per rules. Finding 3 marked as repeat due to asterisk and status section confirmation."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:31:31.210096",
+  "content_hash": "e413f8838ab7815a61a8bc3ce9acd13b5ee028db",
+  "duplicate_of": null
+}

@@ -1,0 +1,61 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Clerk of Circuit Court",
+    "parent_department": "Judiciary",
+    "report_date": "2024-09-17",
+    "audit_period_start": "2020-01-08",
+    "audit_period_end": "2024-01-19",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office did not always perform documented independent verifications to ensure collections received were deposited.",
+        "description": "The Office did not always perform documented independent verifications for collections. Testing of 15 daily collections totaling approximately $1.1 million disclosed no documentation for 10 days ($851,353) or verification by employees with access for 4 days ($185,867). Although no discrepancies were found between collected amounts and deposits, there was a lack of assurance that all collections were deposited.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 851353.0,
+            "context": "collections totaling no documentation of a deposit verification"
+          },
+          {
+            "amount": 185867.0,
+            "context": "deposit verifications performed by employees that had access to the related collections"
+          }
+        ],
+        "recommendation": "We recommend that the Office perform an independent and documented verification of collections received to amounts deposited. We advised the Office how to achieve the necessary separation of duties using existing personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-12-01"
+      },
+      {
+        "number": 2,
+        "title": "The Office did not establish adequate controls over disbursements from trust fund bank accounts.",
+        "description": "Three employees authorized to sign checks for disbursements also had unrestricted access to blank checks, and checks only required one signature. This allowed one employee to unilaterally disburse funds without oversight. Testing of ten disbursements totaling $529,696 did not disclose improper disbursements.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 529696.0,
+            "context": "test of ten disbursements made during the period January 2023 through October 2023"
+          }
+        ],
+        "recommendation": "We recommend that the Office ensure employees authorized to sign checks do not have unrestricted access to blank checks and consider implementing a dual signature process for checks.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-07-01"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Judiciary agreed with all findings and recommendations. For Finding 1, they implemented improved documentation of independent verifications in December 2023 ensuring verification by an independent employee. For Finding 2, they secured blank checks in a locked box accessible by two fiscal clerks and will consider implementing dual signatures for checks.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter (September 17, 2024). Audit period explicitly stated as January 8, 2020 to January 19, 2024. No prior findings counts or repeat status information provided in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T22:14:16.761163",
+  "content_hash": "8fac3653fd6b2923b3e0d796283d3ff7a04f8e03",
+  "duplicate_of": "5a8f4d0ccc9d7245606742e0"
+}

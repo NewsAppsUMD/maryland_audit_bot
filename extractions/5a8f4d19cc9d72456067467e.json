@@ -1,0 +1,89 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2011-11-01",
+    "audit_period_start": "2008-02-01",
+    "audit_period_end": "2010-08-02",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain Boards Had Not Established Sufficient Controls Over the Accounting for Professional Licenses and Related Collections",
+        "description": "Adequate accountability and control over professional licenses and related collections had not been established at two of the three boards reviewed. Cash receipts totaled approximately $9 million in fiscal year 2010, but lack of deposit verifications and reconciliations contributed to undetected fraudulent sale of certificates.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9000000.0,
+            "context": "cash receipts for two boards in fiscal year 2010"
+          },
+          {
+            "amount": 6800000.0,
+            "context": "Board of Nursing cash receipts in fiscal year 2010"
+          },
+          {
+            "amount": 11400.0,
+            "context": "employee profited from sale of certificates"
+          }
+        ],
+        "recommendation": "We recommend that the applicable Boards a. establish procedures to ensure that an employee independent of the collections verifies that all amounts received are deposited and recorded in the State\u2019s accounting records; b. verify that all licenses issued were paid for and were proper; and c. periodically account for all licenses as being issued, voided and/or on-hand.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-09-30"
+      },
+      {
+        "number": 2,
+        "title": "The Office of Health Care Quality Had Not Conducted Annual Inspections of Certain Health Care Facilities as Required",
+        "description": "OHCQ had not inspected certain health care facilities as required. For fiscal year 2010, OHCQ had not performed inspections for 725 of the 1,367 licensed assisted living facilities nor inspected 154 of the 201 facilities for the developmentally disabled.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that OHCQ complete inspections of the various health care facilities, as required by law.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "An Information Technology Contract of the Board of Nursing Did Not Contain Specific Provisions Obligating the Vendor to Address Certain Risks",
+        "description": "The contract between the Board and its licensing services vendor did not contain specific provisions obligating the vendor to address certain significant information technology security and operational risks, including risks over sensitive client data.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2337479.0,
+            "context": "contract amount not to exceed"
+          }
+        ],
+        "recommendation": "We recommend that the Board a. obtain assurances from the vendor that it has addressed critical data security and operational risks; b. request that the vendor periodically provide sufficient evidence that controls pertaining to such risks are effective; and c. include in future IT contracts... provisions that require the vendor to address critical security and operational risks...",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "The Board of Nursing Did Not Have a Complete Disaster Recovery Plan and Certain Licensing Database Controls Were Not Sufficient",
+        "description": "The Board did not have a complete information technology disaster recovery plan and controls over its in-house licensing database were not sufficient. Specifically, the DRP lacked alternate site processing arrangements, auditing capabilities were not enabled, password controls were not compliant with DoIT policy, and offsite backup procedures did not exist.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Board a. develop a complete DRP; b. log all significant database security and audit events; c. verify that database password and account controls are in compliance with DoIT Information Security Policy; and d. ensure that the licensing database backups are stored at a secure off-site location.",
+        "agency_agrees": true,
+        "agency_completion_date": "2012-01-01"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 3,
+    "criminal_referral": true,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Health and Mental Hygiene (specifically OHCQ and the Board of Nursing) generally concurs with the findings and recommendations. OHCQ notes staffing challenges affecting inspections but outlines initiatives to improve efficiency. The Board of Nursing has taken corrective actions or plans to complete recommended controls, such as developing a disaster recovery plan and database tracking systems by specified dates.",
+    "total_dollar_impact": 11400.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:17:21.530668",
+  "content_hash": "a107cebe642b904dcc3df4105bc50f7e90d5d1ac",
+  "duplicate_of": null
+}

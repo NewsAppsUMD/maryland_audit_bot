@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2011-02-04",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "Auditees (DHMH and MSDE) generally concur with recommendations to improve data accuracy, third-party independence, and measure definitions. Specific actions include establishing procedures for data verification, ensuring contractor independence, and adopting clear written definitions.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered 'Finding N' sections found in the report; findings are presented as Certification Results tables without explicit numbering. No dollar amounts tied to findings were identified."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-10T00:23:48.400367",
+  "content_hash": "ba58112106120ec2c6bf9ce1ab9bb65c5051d65b",
+  "duplicate_of": null
+}

@@ -1,0 +1,76 @@
+{
+  "extraction": {
+    "agency_name": "Salisbury University",
+    "parent_department": "University System of Maryland",
+    "report_date": "2015-05-01",
+    "audit_period_start": "2011-07-01",
+    "audit_period_end": "2014-09-08",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Employee Access to Critical System Functions Was Not Adequately Restricted",
+        "description": "SU did not adequately restrict employee access capabilities for critical functions on its financial management systems. Our review of system capabilities assigned to active users disclosed that numerous users were assigned unnecessary or inappropriate access capabilities.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that SU restrict user access capabilities for critical functions to those employees who require such capabilities to perform their assigned job duties and in a manner that ensures a proper segregation of duties.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-02-18"
+      },
+      {
+        "number": 2,
+        "title": "SU Stored Sensitive Personally Identifiable Information Within a Database In Clear Text",
+        "description": "SU stored sensitive personally identifiable information (PII) within a database in clear text. Specifically, SU stored PII including social security numbers, full names, and dates of birth in clear text in one of its databases without encryption.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that SU encrypt all database tables containing sensitive PII in accordance with the USM IT Security Standards.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-02-23"
+      },
+      {
+        "number": 3,
+        "title": "SU\u2019s Workstations, Laptops, and Servers Were Not Sufficiently Protected Against Malware",
+        "description": "SU\u2019s workstations, laptops, and servers were not sufficiently protected against malware. SU allowed excessive local administrator rights on workstations, lacked host-based firewalls on laptops used outside the network, and had no anti-malware software installed on servers.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that SU restrict administrative rights on workstations to network administrators, ensure that all laptop computers are protected by a properly configured and enabled host-based firewall, and ensure that anti-malware software is installed on all SU servers.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-08-31"
+      },
+      {
+        "number": 4,
+        "title": "SU Lacked Sufficient Controls to Ensure the Propriety of Certain Non-Cash Credit Adjustments Made to Student Accounts",
+        "description": "SU had not established adequate controls over the processing of non-cash credit adjustments related to student housing. Reviews were not verified to appropriate source documentation, resulting in a lack of assurance that only valid adjustments were processed.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "non-cash credit adjustments processed in fiscal year 2014 relating to housing"
+          }
+        ],
+        "recommendation": "We recommend that SU ensure that non-cash credit adjustments posted to student accounts related to housing charges are verified to appropriate source documents.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-02-09"
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland agreed with all findings and recommendations. The agency provided specific implementation dates for access restrictions (completed by February 2015), database encryption (completed by February 2015), malware protection controls (to be completed by August 2016), and verification procedures (started in February 2015).",
+    "total_dollar_impact": 1000000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:47:21.543440",
+  "content_hash": "bdb6716671e893f8cb0837c49d799b1675cf5084",
+  "duplicate_of": "5a8f4d1acc9d724560674696"
+}

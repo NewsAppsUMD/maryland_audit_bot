@@ -1,0 +1,330 @@
+{
+  "extraction": {
+    "agency_name": "Caroline County Public Schools",
+    "parent_department": "Caroline County Public Schools",
+    "report_date": "2016-11-02",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "CCPS did not monitor and restrict users\u2019 capabilities on its automated procurement and accounts payable system and no compensating electronic or manual controls were established over employees with incompatible capabilities.",
+        "description": "CCPS did not adequately monitor and restrict users' capabilities on its automated procurement and accounts payable system. Additionally, there were no independent approvals of changes to users' capabilities, and adequate compensating controls were not established over employees with incompatible functions that placed them in a position to perpetuate misuse or misappropriation of resources without detection.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should strengthen controls over the automated procurement and accounts payable system by restricting users' capabilities to eliminate incompatible duties, restricting access to individuals whose job duties require such access, establishing independent electronic approval requirements for critical transactions, and establishing independent approvals for all critical documents.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "CCPS\u2019 procurement policy did not require certain non-competitive procurements to be submitted to or approved by the Board.",
+        "description": "CCPS policies did not require Board approval for all purchases above $25,000. Specifically, Board approval was not required for contracts procured without competitive bidding, such as those using intergovernmental cooperative purchasing agreements (ICPA) or sole source awards. Testing of 24 procurements disclosed 8 contracts over $25,000 that were not submitted to the Board.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13100000.0,
+            "context": "fiscal year 2015 disbursements tested"
+          },
+          {
+            "amount": 2400000.0,
+            "context": "disbursements of contracts procured without Board approval"
+          }
+        ],
+        "recommendation": "CCPS should amend procurement policies to require that contract awards resulting from intergovernmental purchasing agreements, sole source, and other non-competitive awards be reported to and approved by the Board when awards exceed $25,000.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "CCPS did not always award contracts through competitive procurements or publish notifications of contract bids and awards in eMaryland Marketplace, as required.",
+        "description": "Contracts were not always awarded through a competitive process or supported by sole source justifications. Additionally, contract bid solicitations and awards were not always published in eMaryland Marketplace as required by State law for procurements greater than $25,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 325700.0,
+            "context": "payments to contractors not competitively bid or supported"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "payments to vendors where bids and awards were not published in eMaryland Marketplace"
+          }
+        ],
+        "recommendation": "CCPS should comply with Board policies when procuring goods and services, including using a competitive procurement process or documenting sole source justifications, submit all contracts to the Board for approval, and publish contract procurement solicitations or awards in eMaryland Marketplace.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Human resources (HR) and payroll system user capabilities were not adequately monitored and restricted. In addition, independent documented reviews of personnel and payroll transactions were not performed.",
+        "description": "Capabilities assigned to users allowed them to perform incompatible functions or had unnecessary access. There was no process in place to verify that critical HR and payroll transactions were properly authorized and correct, as IT personnel reviewed transactions but lacked independence from those who entered the data.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should periodically generate reports of assigned employee access capabilities and perform documented independent review to ensure access is properly granted, limit access to critical functions to those requiring such capabilities, eliminate the capability of individuals to perform incompatible system functions, and perform a periodic documented independent review of critical personnel and payroll transactions.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "CCPS did not require Board approval of certain fiscal year 2013 pay increases totaling $122,000.",
+        "description": "CCPS did not require Board approval for promotions or pay increases of certain non-instructional positions. Specifically, 20 employees who received a promotion or salary increase totaling approximately $122,000 were not approved by the Board as required by State law.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 122000.0,
+            "context": "fiscal year 2013 pay increases not approved by the Board"
+          }
+        ],
+        "recommendation": "CCPS should ensure promotions and increases in pay are approved by the Board as required.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "CCPS had not established adequate recordkeeping practices and controls over its capital and sensitive equipment.",
+        "description": "CCPS has not performed a complete physical inventory of capital equipment since at least 2010. Controls over sensitive equipment records were inadequate with one employee primarily responsible for recording additions, disposals, and adjustments without independent verification. Approximately 2,400 items were listed as disposed of without documentation.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should conduct annual physical inventories of all capital equipment and maintain complete and accurate inventory records for sensitive equipment items by ensuring additions, disposals, and adjustments are independently verified to approved supporting documents.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "The CCPS computer network was not sufficiently secured to assist in the detection/prevention of potential security breaches and attacks, and restrict access to critical servers.",
+        "description": "CCPS did not use centralized network based authentication. Firewall rules allowed unsecured connections to internal devices. Three critical servers were not protected by a firewall or intrusion detection prevention system (IDPS). Wireless connections operated without user authentication, allowing anyone in the vicinity to gain network level access.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should update its network architecture with centralized authentication, configure firewalls for least privilege security, relocate critical servers behind the firewall and IDPS, set IDPS to block malicious traffic, and secure internal network access through wireless connections.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Workstations and servers were not sufficiently protected against malware.",
+        "description": "Users had administrator rights on workstations which allowed them to install software or disable protection. CCPS did not have an enterprise-wide management tool for antimalware software. Three of ten workstations tested did not have malware protection installed, and others had outdated signatures.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should ensure administrative rights on workstations are restricted to network administrators and obtain an enterprise-wide management tool to ensure malware protection software is installed, operating properly, up-to-date, and has current signature files.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Controls over the student information system database were not sufficient as security activity was not logged.",
+        "description": "The student information database was not configured to log any database security activity including privileged operations. Best practices require generating audit records for all security-relevant events and routinely reviewing them.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should set the student information database to log all critical security related events, regularly review these logs, document these reviews and retain this documentation for future reference.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "CCPS did not have a complete information technology Disaster Recovery Plan for recovering computer operations.",
+        "description": "CCPS did not have a complete IT Disaster Recovery Plan (DRP) addressing minimum requirements such as alternate processing site or hardware listings. The DRP had not been updated since September 30, 2011 and had not been tested.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should develop and implement a comprehensive DRP in accordance with IT Disaster Recovery Guidelines and periodically test the DRP, document the testing, and retain documentation.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "CCPS executed a power purchasing agreement with a solar provider without a competitive process or determination that it had received the most favorable terms.",
+        "description": "CCPS executed a 20-year power purchasing agreement estimated at $6.1 million without using a competitive procurement process or formal analysis to ensure favorable terms. State capital project funds totaling $406,000 were used for prepayment inconsistent with State law. Analysis indicated CCPS paid higher rates than other entities.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6100000.0,
+            "context": "estimated cost of power purchasing agreement"
+          },
+          {
+            "amount": 406000.0,
+            "context": "State capital project funds used to prepay electricity usage charges"
+          },
+          {
+            "amount": 28000.0,
+            "context": "additional costs for the first year of contract due to higher base rate"
+          },
+          {
+            "amount": 640800.0,
+            "context": "additional costs over the entire 20-year agreement due to higher base rate"
+          }
+        ],
+        "recommendation": "CCPS should ensure procurement method provides most favorable financial outcome, submit all PPAs to the Board for approval, comply with State law requirements when using intergovernmental agreements, and ensure State CIP funding is only used for purposes provided under the law.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "CCPS did not maintain documentation of preventive maintenance work performed.",
+        "description": "CCPS could not provide documentation that all required preventive maintenance tasks were performed. Testing of 10 scheduled tasks disclosed CCPS could not support that they were performed as required. Staffing issues prevented consistent performance, and the web-based system was not used for these tasks.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should evaluate its preventive maintenance schedule to determine whether changes should be made that considers staffing and risk, and use its existing web-based system for preventive maintenance tasks and document preventive maintenance performed.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "CCPS did not establish comprehensive bus routing procedures and did not periodically perform a system-wide analysis of bus routes and related bus capacities to maximize efficiency.",
+        "description": "Bus routing procedures were not comprehensive. CCPS did not periodically perform a system-wide analysis of bus routes and capacities. 31 percent of all routes had ridership below bus ridership goals, with some operating at less than 50 percent capacity.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should develop formal, comprehensive written procedures that include specific target bus ridership percentages and student ride times, and fully utilize the capabilities of its automated routing software to maximize ridership on its bus routes.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "CCPS payments to bus contractors included elements that did not consider market conditions, actual costs, or available discounts and the bases for payments were not always adequately documented.",
+        "description": "Payment elements did not reflect market conditions. CCPS used a replacement factor and garage fee resulting in ROI of 9% to 9.6%, higher than prime interest rate. PVA payments continued after bus service life was reached. Federal excise taxes were included in fuel payments.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 475000.0,
+            "context": "excessive payments over the life of 13 new buses due to higher ROI rate"
+          },
+          {
+            "amount": 261696.0,
+            "context": "additional PVA payments for fiscal years 2014 and 2015 for buses purchased at least 10 years prior"
+          },
+          {
+            "amount": 142000.0,
+            "context": "estimated overpayments for fuel usage due to inclusion of federal excise taxes"
+          }
+        ],
+        "recommendation": "CCPS should use market investment rates as a basis for establishing contractor rates, pay PVA rates based on periods of service used in calculation, develop supportable cost estimates for maintenance costs, and exclude fuel excise taxes from contractor payments.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "CCPS did not adequately ensure the accuracy of contractor reported manifest mileage, which was used to compute certain payments to bus contractors.",
+        "description": "Mileage reported on monthly manifests was not compared to routing system reports. Testing disclosed reported miles exceeded actual route miles by 634 miles per day for 36 routes, potentially resulting in overpayments of $144,000 in fiscal year 2015.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 144000.0,
+            "context": "estimated overpayments for mileage in fiscal year 2015"
+          }
+        ],
+        "recommendation": "CCPS should independently verify bus contractor's manifests to ensure payments accurately reflect actual services provided, document the verification process, and review past payments to pursue discrepancies.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "Certain bus payment components were not supported or approved by the Board.",
+        "description": "Contractors were paid for mileage in excess of that driven (guaranteed minimum mileage exceeding actual). Bus payments were made for PVA amounts not included in contracts or budget documents. Seven buses had PVA rates that did not agree to maintained lists with no supporting calculation sheets.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 28400.0,
+            "context": "payments for excess mileage in fiscal year 2015"
+          },
+          {
+            "amount": 70000.0,
+            "context": "PVA payments for seven buses where rates did not agree to maintained lists"
+          }
+        ],
+        "recommendation": "CCPS should incorporate all applicable payment arrangements in written bus contractor agreements and obtain Board approval, pay contractors for actual mileage driven and PVA rates included in formal agreements, and maintain proper documentation supporting calculation of PVA amounts.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "Internal controls over payments to employee owner/operators were not adequate, as there was no independent review and approval of payment calculations performed by one individual.",
+        "description": "Payments to employee owner/operators were not reviewed for propriety. A transportation official entered data without independent verification. Payment reports were forwarded to finance without detailed supporting information.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should ensure an employee independent of payment processing verifies the accuracy and propriety of payments by performing a documented comparison of amounts paid to supporting documentation.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "Cash receipt duties were not properly segregated as transactions could be voided by cashiers without independent supervisory review or approval.",
+        "description": "Cashiers could void transactions on the point-of-sale system without independent review. Reports of voided transactions were not generated or analyzed for unusual activity. Over 4,700 voids totaling $55,000 were processed during fiscal year 2015.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 55000.0,
+            "context": "total value of voided transactions during fiscal year 2015"
+          }
+        ],
+        "recommendation": "CCPS should have independent supervisory personnel review voids and document the reviews. CCPS could generate periodic reports of all void transactions to investigate unusual trends.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 19,
+        "title": "CCPS did not ensure the propriety of payments for employee and retiree healthcare costs.",
+        "description": "CCPS did not ensure the accuracy of payments for healthcare claims that totaled $6.6 million in fiscal year 2015. CCPS had not bid out health care services since plan year 2012.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6600000.0,
+            "context": "total healthcare claims in fiscal year 2015 where accuracy was not ensured"
+          }
+        ],
+        "recommendation": "CCPS should ensure the propriety of payments for employee and retiree healthcare costs.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 18,
+    "prior_findings_repeated": 7,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The CCPS response to this audit is included as an Appendix to this report.",
+    "total_dollar_impact": 1883896.0,
+    "extraction_notes": "Audit period dates not explicitly stated in 'for the period beginning/ending' format. Agency agreement status not provided in text (Appendix referenced but not included). Total dollar impact calculated from sum of specific overpayment/loss figures identified in findings analysis ($122k + $640,800 + $475k + $261,696 + $142k + $144k + $28.4k + $70k)."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 3 amount 1700000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T18:05:36.626151",
+  "content_hash": "cbd0d94518f01a021f9276979b11abbfcd012f89",
+  "duplicate_of": null
+}

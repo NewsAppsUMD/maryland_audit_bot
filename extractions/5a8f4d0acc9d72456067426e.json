@@ -1,0 +1,57 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Agricultural Land Preservation Foundation",
+    "parent_department": "Maryland Department of Agriculture",
+    "report_date": null,
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2011-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The database of easement acquisitions developed by the Maryland Agricultural Land Preservation Foundation (MALPF) had not been tested for reliability nor reconciled to the State\u2019s accounting records.",
+        "description": "The database was not tested for reliability or reconciled to State records. As of June 30, 2011, the cumulative cost in the database ($588 million) exceeded State records ($557 million) by $31 million, lacking assurance that costs were properly accounted for.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31000000.0,
+            "context": "cumulative cost of easement acquisitions recorded in the database exceeded corresponding total in State's records"
+          }
+        ],
+        "recommendation": "a. ensure the accuracy of the critical data included in the database of easement acquisitions (repeat), and b. periodically reconcile the database to the related State accounting records (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": "2012-07-31"
+      },
+      {
+        "number": 2,
+        "title": "MALPF did not ensure that all counties properly filed an annual report or remitted unused agricultural land transfer taxes to the State as required.",
+        "description": "MALPF did not ensure counties filed reports or remitted taxes. Three counties had not submitted reports by December 15, 2011, and received reports lacked sufficient data. MALPF lacked procedures for accounts receivable records.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "billed five counties for approximately unexpended funds"
+          }
+        ],
+        "recommendation": "a. ensure that annual reports are submitted on a timely and complete basis and monitor the remission of amounts due to the State (repeat), and b. maintain accounts receivable records for funds due the State (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MALPF states it has tested the database and implemented reconciliation procedures, with testing to be completed by July 31, 2012. Regarding tax reports, MALPF notes one county was late due to system changes but agrees to improve submissions; they have invoiced six counties for $1,217,007 in unspent revenue.",
+    "total_dollar_impact": 32200000.0,
+    "extraction_notes": "Report date not explicitly stated as a transmittal letter date. Audit period start inferred from Exhibit A balance date."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:43:50.059948",
+  "content_hash": "9affd97b3d0e132ded14a9a52cfb9daa5a6b0e48",
+  "duplicate_of": null
+}

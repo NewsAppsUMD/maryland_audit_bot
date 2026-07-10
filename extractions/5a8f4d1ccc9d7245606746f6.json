@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "agency_name": "Department of Transportation",
+    "parent_department": "Department of Transportation",
+    "report_date": "2015-09-01",
+    "audit_period_start": "2015-02-01",
+    "audit_period_end": "2015-06-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MDOT FMIS security reports for modal administrations were not routinely generated and provided to the modals.",
+        "description": "MDOT FMIS security reports for its modal administrations were not generated and made available to the modals unless specifically requested by a modal. Although the MDOT FMIS unit had created numerous security reports regarding user capabilities and critical concerns, these were not routinely generated or provided to the modals as monitoring tools.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the MDOT FMIS unit routinely (at least quarterly) generate the aforementioned security reports and provide these reports to the respective modals. We also recommend that the MDOT FMIS unit provide guidance to the modals on the contents and expected usage of these reports.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-10-15"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MDOT concurs with the recommendations and plans to develop a process by October 15, 2015. They intend to automatically generate and distribute reports quarterly and provide guidance on content and usage.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'September 2015'. Audit period derived from fieldwork dates 'February 2015 to June 2015' per rule for month/year formatting. No dollar amounts tied specifically to the finding's questioned costs."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:07:59.283108",
+  "content_hash": "434251a5711b02a4b828e9256c7d2c0ad8e04c17",
+  "duplicate_of": null
+}

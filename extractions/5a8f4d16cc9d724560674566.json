@@ -1,0 +1,153 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2010-12-17",
+    "audit_period_start": "2009-07-23",
+    "audit_period_end": "2010-01-04",
+    "findings": [
+      {
+        "number": 1,
+        "title": "IDEHA Did Not Ensure That Inspections of Certain Food and Milk Processing Plants and Distribution Centers Were Adequately Performed",
+        "description": "IDEHA did not adequately monitor inspectors to ensure required inspections, sampling, and equipment tests were conducted at required frequencies or that follow-ups on violations were performed. Supervisory reviews were not documented, and testing showed sampling was missed at some plants with no timely follow-up.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that IDEHA a. adequately monitor food and milk processing plants and distribution stations by periodically performing supervisory reviews to ensure that the required sampling, inspections, and follow-up inspections were performed; b. document the aforementioned reviews; and c. accurately record all inspection activity in the applicable database systems.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-03-31"
+      },
+      {
+        "number": 2,
+        "title": "User Access to IDEHA\u2019s Food Protection and Consumer Health Services Licensing and Inspection System Was Not Adequately Restricted",
+        "description": "User access to the licensing system was not adequately restricted; 8 employees had unnecessary capabilities, and some could initiate and approve licenses without independent review. Testing of 20 licenses showed 7 were issued or renewed without supervisory approval.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that IDEHA a. periodically review employee access capabilities for the licensing and inspection system; b. grant user access only to those employees who require such access to perform their assigned job duties; c. ensure that an independent, supervisory review and approval is required for all licenses issued (new and renewal); and d. investigate the aforementioned 12 licenses and permits to ensure that they were properly approved and issued.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "IDEHA Had Not Performed the Required Program Reviews of Local Health Departments",
+        "description": "IDEHA had not conducted required program reviews of local health departments' manuals and procedures since the 1980s due to resource constraints. This failure risks inconsistent application of standards for regulated facilities like restaurants.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that IDEHA conduct formal reviews of each LHD, as required. At a minimum, IDEHA should obtain and review the program manuals, procedures, and inspection files from the LHDs to ensure consistent application of established standards and policies.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-12-31"
+      },
+      {
+        "number": 4,
+        "title": "IDEHA Had Not Established Adequate Procedures to Independently Verify the Propriety of Pharmacy Claims Submitted and Paid",
+        "description": "IDEHA had not established procedures to verify pharmacy claims against physician prescriptions for MADAP, allowing potential unauthorized billing. A similar condition was noted in a preceding audit report.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 29100000.0,
+            "context": "MADAP expenditures totaled during fiscal year 2009"
+          }
+        ],
+        "recommendation": "We recommend that IDEHA a. establish procedures to help ensure that only valid pharmacy claims were submitted and paid, such as by performing periodic audits to ensure that pharmacies have physicians\u2019 prescriptions to support claims paid (repeat); and b. take necessary follow-up actions, in the event the procedures performed disclose instances in which IDEHA had paid inappropriate claims (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Grant Proposals Were Not Reviewed in a Timely Manner and Did Not Always Contain all Required Information",
+        "description": "Grant proposals were not reviewed until months after the fiscal year started, and many lacked required information. Performance measures reported by local health departments were not compared to original proposals.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 28200000.0,
+            "context": "grant proposals tested"
+          },
+          {
+            "amount": 18700000.0,
+            "context": "proposals missing critical required information"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "grant proposal for one program missing required information"
+          }
+        ],
+        "recommendation": "We recommend that IDEHA a. ensure the LHDs are submitting all required information with the grant proposals; b. review the grant proposals in a timely manner; and c. compare the performance measures reported by the LHDs, at least on a test basis, to the original grant proposals, and take appropriate follow-up action.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "IDEHA Did Not Monitor State Funds Held in Bank Accounts Maintained By a Private Contractor to Ensure That the Aggregate Monthly Balance Did Not Exceed the Value of the Fidelity Bond",
+        "description": "IDEHA did not monitor contractor bank balances to ensure they did not exceed the $4 million fidelity bond, and funds exceeding the bond were not returned. Testing showed average monthly balances exceeded the bond by between $600,000 and $1.6 million for three months.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4000000.0,
+            "context": "value of the fidelity bond"
+          },
+          {
+            "amount": 600000.0,
+            "context": "lower bound of excess aggregate monthly balance"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "upper bound of excess aggregate monthly balance"
+          }
+        ],
+        "recommendation": "We recommend that IDEHA periodically monitor the bank balances and ensure that funds in excess of the fidelity bond are returned by the contractor, as required by the contract.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Control Had Not Been Established Over IDEHA\u2019s Collections and Deposits Were Not Made Timely",
+        "description": "Controls over collections (rebates/refunds) were weak with no transfer documentation. Cash receipts were often delayed 2-4 days before deposit, totaling $9.1 million in tested transactions not forwarded timely.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 19600000.0,
+            "context": "drug manufacturer\u2019s rebates and insurance premium refunds total during calendar year 2009"
+          },
+          {
+            "amount": 14800000.0,
+            "context": "cash receipts transactions tested"
+          },
+          {
+            "amount": 9100000.0,
+            "context": "transactions not forwarded for deposit timely"
+          }
+        ],
+        "recommendation": "We recommend that IDEHA a. establish accountability over collections by documenting the transfer of receipts to the courier and to DHMH - General Accounting, and b. timely forward all cash receipts for deposit.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-08-01"
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Administration generally concurs with the findings and recommendations. For Finding 3, they note formal reviews are not mandated by statute but plan to implement a review process by late 2011. For Finding 7, they initiated direct deposit in August 2010 as an alternative approach.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period reflects IDEHA dates (July 23, 2009 to January 4, 2010) as primary subject; preceding audits covered merged entities. Finding 4 is marked repeat but prior finding number not explicitly stated in text."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 7 amount 19600000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:58:30.170089",
+  "content_hash": "2e40932dcd7d3aaeb9f4a23e0253c12ba515cb15",
+  "duplicate_of": null
+}

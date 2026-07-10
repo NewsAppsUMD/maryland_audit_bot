@@ -1,0 +1,52 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Clerk of Circuit Court Prince George\u2019s County",
+    "parent_department": "Judiciary",
+    "report_date": "2017-08-01",
+    "audit_period_start": "2013-10-08",
+    "audit_period_end": "2017-03-06",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office lacked adequate controls over its mail receipts related to land record transactions.",
+        "description": "The Office lacked adequate controls over certain cash receipts received by its land records department, specifically checks not always restrictively endorsed or recorded immediately upon receipt and deposited timely. Checks were retained in a storage cabinet accessible by all employees instead of a safe.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 78570.0,
+            "context": "checks received during the period from March 2, 2017 to March 14, 2017 had not been recorded, endorsed, or deposited as of March 30, 2017"
+          }
+        ],
+        "recommendation": "a. restrictively endorse and record all checks immediately upon receipt, b. ensure that receipts are adequately safeguarded prior to deposit, c. ensure that all cash receipts are deposited timely.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Office did not always refer the dispositions of motor vehicle cases to the State\u2019s Motor Vehicle Administration (MVA) as required by State law. Cases that were referred were often not submitted timely.",
+        "description": "Testing of 20 motor vehicle cases disclosed 8 cases where the Office did not inform the MVA of guilty dispositions, and remaining 12 cases had delays ranging from 2 weeks to 12 months. Similar conditions were commented upon in three preceding audit reports.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. review its records of motor vehicle cases and ensure that all past cases have been transmitted to the MVA (repeat), b. refer the dispositions of motor vehicle cases to the MVA in a timely manner.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the Judiciary's response to findings and recommendations is included as an appendix, but the specific content of the response is not provided in this text.",
+    "total_dollar_impact": 78570.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:02:17.557728",
+  "content_hash": "c6413928640d5c1f3db56e5531d0b3ccebe6404e",
+  "duplicate_of": "5a8f4d0ccc9d724560674344"
+}

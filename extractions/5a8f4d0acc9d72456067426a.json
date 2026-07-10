@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Agricultural Land Preservation Foundation",
+    "parent_department": "Department of Agriculture",
+    "report_date": null,
+    "audit_period_start": null,
+    "audit_period_end": "2012-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Maryland Agricultural Land Preservation Foundation (MALPF) did not ensure that all noted easement violations were resolved in a timely manner.",
+        "description": "MALPF failed to periodically review its database of easement violations to ensure follow-up and corrective actions were taken by landowners. As of January 31, 2013, the database indicated approximately 281 unresolved violations, some remaining for up to 6 years, though management considered only 31 high or medium priority. Consequently, MALPF lacked assurance that noted violations were resolved timely and that landowners complied with easement terms.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2500.0,
+            "context": "civil penalties per day per violation"
+          },
+          {
+            "amount": 50000.0,
+            "context": "maximum civil penalty"
+          }
+        ],
+        "recommendation": "MALPF should perform appropriate and timely follow-up actions on outstanding easement violations to ensure that corrective actions were taken; determine the current status of unresolved violations and impose penalties if deemed appropriate.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MALPF concurs with the finding and acknowledges the need for better communication among staff regarding follow-up and resolution of easement violations. They plan to have the monitoring coordinator review the database three times a year and commit to entering identified violations into the database. Staff work closely with an Assistant Attorney General to notify landowners and negotiate resolutions.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date not explicitly stated in transmittal letter within text. Audit period start date not explicitly stated as 'beginning X'. Prior findings count derived from Status of Findings section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:37:13.729761",
+  "content_hash": "5dfd38d01d8ac176cb38132edbca20943e378a75",
+  "duplicate_of": null
+}

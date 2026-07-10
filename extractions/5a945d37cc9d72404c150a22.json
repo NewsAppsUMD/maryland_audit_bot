@@ -1,0 +1,231 @@
+{
+  "extraction": {
+    "agency_name": "Kent County Public Schools",
+    "parent_department": "Kent County Public Schools",
+    "report_date": "2013-05-01",
+    "audit_period_start": "2011-01-01",
+    "audit_period_end": "2012-04-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Accountability Over School Activity Fund Cash Receipts Was Not Maintained at One School",
+        "description": "Internal controls over school activity fund cash receipts were not adequate, specifically regarding documentation of transfers from event coordinators to administrative employees. Collections were not verified to deposit by an independent employee, and the employee preparing bank reconciliations also received and deposited cash. System modifications lacked supervisory review or approval.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 84000.0,
+            "context": "deposits tested"
+          },
+          {
+            "amount": 29000.0,
+            "context": "discrepancies in system documentation vs deposit slip"
+          },
+          {
+            "amount": 8000.0,
+            "context": "funds recorded exceeded amounts deposited"
+          }
+        ],
+        "recommendation": "Ensure deposits are properly recorded with signatures; independent employee verify collections deposited; independent employee review bank reconciliations; independent employee review modified transactions.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "KCPS Did Not Have an Independent Verification Process to Ensure All Amounts Were Deposited",
+        "description": "KCPS did not have an independent verification process to ensure all amounts recorded as received at the central office were deposited. Cash receipts processed totaled $1.2 million in fiscal year 2012.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "cash receipts processed in fiscal year 2012"
+          }
+        ],
+        "recommendation": "Ensure an employee independent of collection and deposit functions verifies that all recorded collections were deposited.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "User Access to the Financial System Was Not Restricted For Certain Employees and Proper Controls Were Not Established Over Disbursements and Wire Transfers",
+        "description": "Three employees had unrestricted access to critical system functions including preparing purchase orders and approving payments. Controls over wire transfers were inadequate with no call-back confirmation from the bank.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict critical system access capabilities; ensure independent employee review supporting documentation when approving payments; establish proper controls over wire transfers requiring call-back confirmation.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-05-01"
+      },
+      {
+        "number": 4,
+        "title": "KCPS Did Not Analyze the Cost Benefit of Continuing to Outsource Certain Facility Management Services",
+        "description": "KCPS did not analyze the cost benefit of continuing to outsource facility management services. The contract has an annual cost of $443,000 including administrative overhead and profit.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 443000.0,
+            "context": "annual contract cost"
+          },
+          {
+            "amount": 22000.0,
+            "context": "administrative overhead annually"
+          },
+          {
+            "amount": 66000.0,
+            "context": "profit annually"
+          }
+        ],
+        "recommendation": "Formally determine whether the continued use of an outsourced contractor for management of maintenance and custodial operations is cost beneficial.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Certain System Users Had Been Assigned Incompatible Functions and Reports of Payroll Changes Were Not Generated",
+        "description": "Four employees were assigned system capabilities to perform all critical functions including adding/deleting employees and processing payroll adjustments. No reports of changes made to payroll were generated.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Separate incompatible functions; perform independent supervisory reviews of changes processed for bi-weekly payroll.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "KCPS Policies and Physical Inventory Procedures Need Improvement to Safeguard Equipment",
+        "description": "Policies were not comprehensive for recordation of sensitive items costing less than $5,000. Physical inventory counts lacked independent verification and reconciliation due to missing tag numbers.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9400000.0,
+            "context": "undepreciated value of equipment"
+          },
+          {
+            "amount": 5000.0,
+            "context": "capitalization threshold for detail records"
+          }
+        ],
+        "recommendation": "Establish formal policy addressing recordation of sensitive items; perform physical inventories with tag numbers and independent verification.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Proper Monitoring and Authentication Controls Were Not Established Over a Critical Database, Application and Server",
+        "description": "Password controls were not sufficient (length set to one character for admins/teachers). Database security activity was not logged. Server critical events were not logged.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish appropriate account and password controls; log database security events; log financial/payroll system critical security events.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-08-01"
+      },
+      {
+        "number": 8,
+        "title": "The KCPS Network Was Not Properly Secured",
+        "description": "Publicly accessible servers were located on the internal network. Internal network was not adequately secured from improper access by student workstations or laptops.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Segregate publicly accessible servers in a separate protected network zone; implement controls to limit network level student access.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-08-01"
+      },
+      {
+        "number": 9,
+        "title": "Controls Over Disaster Recovery, Backup of Critical Data and Devices, and Anti-Virus Protection Were Not Sufficient",
+        "description": "KCPS did not have a complete IT disaster recovery plan. Backups were stored at an employee's home rather than a secure facility. Anti-virus software was missing or definitions outdated.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop comprehensive DRP; store backups off-site in secure location; maintain current anti-virus definitions and software.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-08-01"
+      },
+      {
+        "number": 10,
+        "title": "KCPS Entered Into a Long-Term Agreement to Purchase Solar Energy But Did Not Establish Sufficient Procedures to Verify the Related Billings",
+        "description": "KCPS did not ensure propriety of billings for solar energy agreement. Meters were not installed to record usage accurately; utility bills reflected regular rate instead of contract rate.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2300000.0,
+            "context": "estimated savings over life of contract"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "energy costs avoided in previous contract period"
+          }
+        ],
+        "recommendation": "Ensure meters are installed to record usage; allocate solar power usage properly; receive appropriate credit from utility.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "KCPS Financial Disclosure Forms Were Not Always On File and Were Not Sufficiently Comprehensive",
+        "description": "Not all supervisory employees and Board members submitted financial disclosure statements. The form did not include required information on interests in business entities or outside employment.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure all applicable school officials file annual financial disclosure statements; revise the form to ensure requested information is consistent with policy.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "KCPS Did Not Ensure that Claims Paid Were Reviewed for Propriety or Verify the Eligibility of Health Care Coverage Participants",
+        "description": "Claims paid by health care provider were not reviewed for propriety. Eligibility of enrolled participants' dependents was not always verified.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3100000.0,
+            "context": "paid to health care provider in fiscal year 2012"
+          },
+          {
+            "amount": 853000.0,
+            "context": "paid to Alliance in fiscal year 2012"
+          },
+          {
+            "amount": 496400.0,
+            "context": "refund received applicable to fiscal year 2011"
+          }
+        ],
+        "recommendation": "Institute processes to verify propriety of claims paid; verify eligibility of enrolled participants and dependents.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 15,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "KCPS generally agrees with the findings and outlines corrective actions in their response appendix. They indicate that security settings have been modified, cost benefit analyses will be conducted, and plans are in place to implement disaster recovery plans and network improvements by summer 2013.",
+    "total_dollar_impact": 8000.0,
+    "extraction_notes": "Report date inferred as May 1, 2013 based on 'May 2013' title. Audit period derived from scope section (Jan 1, 2011 - April 30, 2012). Prior finding numbers not stated in text for repeat findings."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 10 amount 2300000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T19:34:55.920860",
+  "content_hash": "a8364f95ca51525cafcb77f8578ca30aca949f3e",
+  "duplicate_of": null
+}

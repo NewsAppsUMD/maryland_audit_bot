@@ -1,0 +1,156 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Environmental Service",
+    "parent_department": null,
+    "report_date": "2016-04-01",
+    "audit_period_start": "2011-12-09",
+    "audit_period_end": "2015-03-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Documentation Was Not Available to Support the Full Amount Of Certain Project Advances",
+        "description": "MES did not maintain documentation to support certain outstanding project advances, including justification for dollar amounts and duration. Testing of $21.8 million in advances disclosed MES could not substantiate the need for $21.4 million for seven projects.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21800000.0,
+            "context": "test of advances received from State agencies"
+          },
+          {
+            "amount": 21400000.0,
+            "context": "unsubstantiated need for full amount of advances"
+          },
+          {
+            "amount": 20900000.0,
+            "context": "advances for five Maryland Port Administration projects"
+          },
+          {
+            "amount": 196300000.0,
+            "context": "original budgeted costs of MPA projects"
+          },
+          {
+            "amount": 80300000.0,
+            "context": "unexpended as of February 28, 2015"
+          },
+          {
+            "amount": 5500000.0,
+            "context": "received from MPA in May 2013"
+          },
+          {
+            "amount": 16700000.0,
+            "context": "advance amount for one project after receipt of funds"
+          },
+          {
+            "amount": 442000.0,
+            "context": "average monthly billed expenditures for the project"
+          },
+          {
+            "amount": 80000.0,
+            "context": "minimum range of monthly billed expenditures"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "maximum range of monthly billed expenditures"
+          },
+          {
+            "amount": 3600000.0,
+            "context": "advance amount needed during the two-year period"
+          },
+          {
+            "amount": 356000.0,
+            "context": "advances for one MPA project prior to 1993"
+          },
+          {
+            "amount": 98000.0,
+            "context": "advances for another MPA project prior to 1993"
+          }
+        ],
+        "recommendation": "MES should prepare and retain documentation supporting the need for advance amounts and duration; periodically evaluate advances received and return funds in excess of needs established in contracts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "(Policy Issue) A Board of Public Works\u2019 Policy May No Longer Be Appropriate For Establishing the Contractual Relationship Between MES and the Applicable State Agencies",
+        "description": "A 1979 Board of Public Works policy may no longer be appropriate for establishing contractual relationships between MES and State agencies, as current BPW officials are unaware of it and MES is not adhering to certain provisions.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MES should consult with legal counsel regarding the appropriateness of the existing BPW policy statement and reassess existing contractual requirements with State agencies.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 3,
+        "title": "Proper Controls Had Not Been Established Over Collections and Accounts Receivable",
+        "description": "Internal controls over collections were not adequate and cash receipts/accounts receivable duties were not adequately separated. Checks received in February 2015 totaled $3.8 million and outstanding accounts receivable balance was $21.3 million.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3800000.0,
+            "context": "checks received in February 2015"
+          },
+          {
+            "amount": 21300000.0,
+            "context": "outstanding accounts receivable balance as of February 28, 2015"
+          },
+          {
+            "amount": 3400000.0,
+            "context": "non-cash credit transactions in fiscal year 2014"
+          }
+        ],
+        "recommendation": "MES should restrictively endorse and record checks immediately upon receipt, assign unique usernames/passwords to remote deposit system users, ensure proper segregation of duties, destroy checks timely, and ensure adjustments are approved by independent supervisory personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Proper Controls Had Not Been Established Over Payroll and Personnel Transactions",
+        "description": "Human resources and payroll system user capabilities were not adequately restricted. Critical access capabilities allowing changes to salary or direct deposit information were not segregated among employees.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 42000000.0,
+            "context": "payroll expenditures as of June 30, 2014"
+          }
+        ],
+        "recommendation": "MES should establish a proper separation of duties over human resources and payroll duties and perform documented independent supervisory reviews of critical transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MES Had Not Established Adequate Controls to Ensure the Propriety of Access Capabilities Assigned to System Users",
+        "description": "MES had not established adequate controls to ensure the propriety of access capabilities assigned to users of its automated financial management system. MES did not perform periodic reviews of user access capabilities and had unnecessary active administrator profiles.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MES should perform a periodic documented review of user access capabilities for the financial management system and restrict users\u2019 capabilities to eliminate incompatible duties.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MES concurs with all recommendations and has implemented steps to respond accordingly. For Finding 2, MES agreed to consult legal counsel by May 31, 2016 and reassess contractual requirements by June 30, 2016.",
+    "total_dollar_impact": 21400000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 5, regex counted 4"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:51:15.767305",
+  "content_hash": "5e42077da61acc71608c4282a64e36b7e831e442",
+  "duplicate_of": "5a8f4d0fcc9d7245606743ee"
+}

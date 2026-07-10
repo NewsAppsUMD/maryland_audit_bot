@@ -1,0 +1,111 @@
+{
+  "extraction": {
+    "agency_name": "Potomac River Fisheries Commission",
+    "parent_department": null,
+    "report_date": "2017-08-21",
+    "audit_period_start": null,
+    "audit_period_end": "2016-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Develop Strategy to Address Going Concern Issue",
+        "description": "The Commission has a potential going concern issue as it does not have resources to continue operating without using reserve funds. During fiscal year 2016, the Commission used $70,000 in cash restricted for future projects to cover operating expenses and had a deficit of approximately $90,000 for restricted funds at year-end.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 70000.0,
+            "context": "cash restricted for future projects used to cover operating expenses"
+          },
+          {
+            "amount": 90000.0,
+            "context": "deficit for restricted funds at end of fiscal year 2016"
+          },
+          {
+            "amount": 54000.0,
+            "context": "net loss in fiscal year 2014"
+          },
+          {
+            "amount": 59000.0,
+            "context": "net loss in fiscal year 2015"
+          },
+          {
+            "amount": 11000.0,
+            "context": "profit generated in fiscal year 2016"
+          },
+          {
+            "amount": 18000.0,
+            "context": "cost of two heating and air conditioning units"
+          }
+        ],
+        "recommendation": "The Commission needs to research ways to increase revenues and evaluate in detail where they can reduce expenses. The Commission also needs to evaluate new projects in light of their mission and purpose.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Improve Financial Recording",
+        "description": "The Commission does not have accounting personnel with adequate knowledge to properly record transactions. Errors included expensing capital assets instead of capitalizing them and incorrect handling of retiree healthcare liability accounts resulting in an overstatement of $35,060.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18502.0,
+            "context": "cost of two HVAC units expensed rather than capitalized"
+          },
+          {
+            "amount": 35060.0,
+            "context": "overstatement of liability and expense accounts"
+          },
+          {
+            "amount": 24767.0,
+            "context": "portion of overstatement from prior periods"
+          },
+          {
+            "amount": 10293.0,
+            "context": "portion of overstatement relating to fiscal year 2016"
+          },
+          {
+            "amount": 4044.0,
+            "context": "cumulative under-reimbursement of operating funds"
+          },
+          {
+            "amount": 37434.0,
+            "context": "prior period adjustment for Oyster Management Reserve accounting"
+          }
+        ],
+        "recommendation": "The Commission should provide the Administrative Assistant with appropriate training in proper accounting standards and hire a replacement with experience. The Executive Secretary should also ensure adequate knowledge of accounting procedures.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Prepare Bank Reconciliations Timely",
+        "description": "During fiscal year 2016, the Commission did not prepare bank reconciliations timely for all accounts. The Assistant Executive Secretary prepared reconciliations sixty to ninety days after month end for a significant portion of accounts.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Commission should establish guidelines for when reconciliations should be completed and update their policy manual to reflect best practices.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report indicates a Commission Response section exists, but the provided text does not contain specific agency responses to the findings.",
+    "total_dollar_impact": 236538.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 3, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:12:49.033243",
+  "content_hash": "371769842db10e7f7e0ac9b05ef22f21993ba98e",
+  "duplicate_of": null
+}

@@ -1,0 +1,133 @@
+{
+  "extraction": {
+    "agency_name": "Department of Human Resources",
+    "parent_department": "Department of Human Resources",
+    "report_date": "2015-07-01",
+    "audit_period_start": "2011-07-01",
+    "audit_period_end": "2014-12-14",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office of the Inspector General\u2019s audits of the local departments of social services contained a significant number of reportable conditions, including many repeat findings. Department of Human Resources executive management had not established a formal process to provide oversight and monitoring of corrective actions.",
+        "description": "DHR executive management had not established a formal process to oversee LDSS corrective actions despite OIG audits showing significant deficiencies and repeat findings across 24 LDSSs. As of December 2014, the most recent OIG audit reports included 299 findings with 89 deemed as repeat conditions.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHR (that is, the Office of the Secretary and the management of DHR administrations) establish a process to actively monitor corrective actions taken to address OIG audit findings.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The OIG\u2019s corrective action monitoring process for the LDSS audit findings was not effectively followed to help ensure that appropriate corrective actions were taken and that DHR executive management was properly informed of the status of the findings.",
+        "description": "The OIG did not adequately monitor LDSS corrective actions, determined some findings resolved based on insufficient evidence, and failed to perform required site visits for audit reports issued over a year ago. Documentation supporting progress reports provided to DHR executive management could not be produced by the OIG.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHR ensure that the OIG follows up with LDSSs when documentation is not provided, obtains sufficient evidence for findings, performs required site visits, and retains documentation of reports to executive management.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The DHR OIG did not distribute the LDSS audit reports to all appropriate parties.",
+        "description": "The OIG failed to distribute audit reports to local oversight boards and governing authorities as required by State law. Additionally, reports are not readily available to the general public, limiting transparency and accountability.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHR ensure the OIG distributes LDSS audit reports to local boards and governing authorities as required by State law. We also recommend assessing whether issuing public reports might be beneficial.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Controls were insufficient over bank accounts, procurements, and gift cards.",
+        "description": "97 findings from OIG audits related to fiscal areas including untimely bank reconciliations, unauthorized check signers, circumvented procurement processes, and inadequate accountability for prepaid gift cards. These conditions create potential for unauthorized payments and misuse of funds.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHR establish appropriate accountability and control over fiscal operations. Specifically, DHR should ensure LDSSs establish adequate controls over bank accounts, comply with State procurement regulations, and establish proper accountability over prepaid gift cards.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Numerous LDSS deficiencies existed related to critical FIA policies, such as ensuring eligibility for public assistance and food benefits.",
+        "description": "70 findings from OIG audits related to FIA policies including improper segregation of EBT card duties, missing supervisory reviews on case files, and untimely follow-up on potential payment errors. Fiscal year 2014 SNAP disbursements totaled approximately $1.2 billion and TCA disbursements totaled approximately $203 million.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000000.0,
+            "context": "SNAP disbursements"
+          },
+          {
+            "amount": 203000000.0,
+            "context": "TCA disbursements"
+          }
+        ],
+        "recommendation": "We recommend that DHR ensure LDSSs comply with all FIA program requirements. Specifically, DHR should ensure LDSSs establish appropriate controls over EBT card inventories, perform supervisory reviews on case files, and perform timely follow-up on potential payment or eligibility errors.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-01-01"
+      },
+      {
+        "number": 6,
+        "title": "Numerous LDSS deficiencies existed related to critical SSA policies, such as for the out-of-home placement program.",
+        "description": "63 findings from OIG audits related to SSA activities including missing documentation of caseworker contacts, improperly maintained foster care trust accounts, improper adoption expense payments, and untimely adult protective services investigations. Fiscal year 2014 expenditures totaled $303 million.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 303000000.0,
+            "context": "Fiscal year 2014 expenditures"
+          }
+        ],
+        "recommendation": "We recommend that DHR ensure LDSSs comply with all SSA program requirements. Specifically, DHR should ensure LDSSs document monthly contacts, adequately maintain foster care trust accounts, ensure adoption expenses are proper and supported, and perform adult protective services investigations within 30 days.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Users\u2019 access to certain key computer systems was not properly restricted and monitored.",
+        "description": "40 findings from OIG audits related to computer security including inadequate controls over user access granting, missing authorization documents, and failure to delete logonids of former employees. This creates risk of unauthorized changes to critical data.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHR establish appropriate accountability and control over information system access. Specifically, DHR should ensure LDSSs maintain properly completed authorization forms for user accesses and perform formal periodic monitoring of employee system access.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06-01"
+      },
+      {
+        "number": 8,
+        "title": "Medicaid eligibility determinations for long-term care recipients were not always proper.",
+        "description": "OIG review of DHR Bureau of Long-Term Care found certain case records could not be located, eligibility documentation was missing, and real property searches were not conducted. A review of 42 case files disclosed 12 cases with inadequate eligibility determinations or lien documentation.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHR ensure the Bureau of Long-Term Care properly performs Medicaid eligibility determinations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 5,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Human Resources generally agrees with the audit recommendations. For some findings, the agency noted reservations regarding specific procedural aspects or resource constraints but committed to implementing corrective actions such as establishing monitoring teams, enhancing training, and improving documentation processes.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date inferred from 'July 2015' header. Audit period dates extracted from Scope section. Dollar amounts converted from text descriptions in Finding Analysis sections."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:43:23.727495",
+  "content_hash": "7bf0c920c310363f2d7380404b9b81e009efc889",
+  "duplicate_of": "5a8f4d13cc9d7245606744bb"
+}

@@ -1,0 +1,61 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2012-05-01",
+    "audit_period_start": "2008-07-01",
+    "audit_period_end": "2011-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Thomas B. Finan Center lacked documentation, in certain instances, to support its compliance with State Procurement Regulations.",
+        "description": "The Thomas B. Finan Center lacked documentation for 10 payments totaling approximately $96,000. Purchases were primarily awarded as sole source or emergency procurements but the determination and basis were not documented in writing as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 96000.0,
+            "context": "10 payments lacking documentation"
+          },
+          {
+            "amount": 127000.0,
+            "context": "total value of related procurements"
+          }
+        ],
+        "recommendation": "We recommend that the Finan Center comply with the aforementioned requirements of the State Procurement Regulations.",
+        "agency_agrees": true,
+        "agency_completion_date": "2012-06-30"
+      },
+      {
+        "number": 2,
+        "title": "Corporate purchasing cards were not promptly cancelled for terminated employees.",
+        "description": "Corporate purchasing cards were not promptly cancelled for individuals who were no longer employed by the Centers. 20 of the cards tested remained active for at least 9 days and up to 8 months after the employees left.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 238000.0,
+            "context": "related expenditures for both Centers during fiscal year 2011"
+          }
+        ],
+        "recommendation": "We recommend that the Finan Center promptly cancel any corporate purchasing cards issued to individuals no longer employed by the Center.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Health and Mental Hygiene concurred with both findings. For Finding 1, they agreed to maintain proper records by June 30, 2012. For Finding 2, they stated cards were collected and cut up, with no outstanding cards for departed personnel.",
+    "total_dollar_impact": 96000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:13:30.283048",
+  "content_hash": "8de482762fe0037c6317adb5aa7f592561de0308",
+  "duplicate_of": null
+}

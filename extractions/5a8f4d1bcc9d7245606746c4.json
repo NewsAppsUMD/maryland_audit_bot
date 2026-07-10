@@ -1,0 +1,109 @@
+{
+  "extraction": {
+    "agency_name": "St. Mary\u2019s College of Maryland",
+    "parent_department": null,
+    "report_date": "2016-08-16",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2015-08-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Sensitive personally identifiable information applicable to 117,194 unique individuals was not appropriately safeguarded.",
+        "description": "Sensitive PII for 117,194 individuals was stored in clear text without substantial mitigating controls. Best practices require deletion of unneeded info or encryption/secure safeguards.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Perform a complete inventory of systems and identify all sensitive PII; determine if it is necessary to retain this PII and delete all unnecessary PII; determine if this sensitive information is properly protected by encryption or other equally secure safeguards; comply with USM IT Security Standards.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-01-01"
+      },
+      {
+        "number": 2,
+        "title": "The College\u2019s computers were not adequately secured from malware and the College lacked assurance that malware protection software was fully operational.",
+        "description": "Computers were not adequately secured; users had inappropriate admin rights on 36 of 100 workstations tested; some workstations outdated by up to 31 months; malware protection tool reported 314 computers without software (though data unreliable).",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure that administrative rights on workstations are restricted to system and network administrators; promptly install all critical security-related software updates for commonly vulnerable applications; ensure all computers are running current versions of malware protection software.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-11-01"
+      },
+      {
+        "number": 3,
+        "title": "Certain database security events were not monitored, and documentation supporting independent reviews of direct changes to critical tables did not exist.",
+        "description": "Security/audit event reports were not generated for review; independent reviews of changes to 42 critical tables performed but not documented.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Generate reports of security and audit events for the database; perform periodic independent reviews of these reports and direct changes to critical database tables, document these reviews, and retain documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "The College did not ensure the accuracy of amounts invoiced by its food services vendor which totaled $4.2 million during calendar year 2015.",
+        "description": "College paid vendor without ensuring propriety of invoices; did not routinely obtain/review detailed documentation; only verified three invoices totaling $249,000 out of $4.2 million; one invoice review found $15,200 unsupported charges.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4200000.0,
+            "context": "total invoices during calendar year 2015"
+          },
+          {
+            "amount": 249000.0,
+            "context": "invoices verified by College in 2015"
+          },
+          {
+            "amount": 47675.0,
+            "context": "one invoice reviewed"
+          },
+          {
+            "amount": 15200.0,
+            "context": "charges on one invoice with no documentation"
+          }
+        ],
+        "recommendation": "Ensure that charges billed by the food services contractor are adequately supported and verified prior to payment.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-10-01"
+      },
+      {
+        "number": 5,
+        "title": "The College did not independently review accumulated leave payout calculations, resulting in an overpayment of approximately $10,000 for one individual retiring from State service.",
+        "description": "No procedure to require independent review; incorrectly calculated leave payout for one individual; paid $38,118 instead of $28,194 (or $11,497 per policy); overpayment was $9,924. College will not attempt recovery as individual could have taken leave prior to retirement but didn't use it.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10000.0,
+            "context": "approximate overpayment"
+          },
+          {
+            "amount": 9924.0,
+            "context": "exact overpayment amount"
+          }
+        ],
+        "recommendation": "Ensure that calculations of accumulated leave payouts are subject to a documented independent review and approval; ensure future annual leave payouts are calculated in accordance with State law or College policy; take appropriate follow-up actions including pursuing the recovery of the aforementioned overpayment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The College agreed with all findings and recommendations. Completion dates were provided for four of the five findings (January 2017, November 2016, October 2016), while one was noted as already implemented without a specific date.",
+    "total_dollar_impact": 25124.0,
+    "extraction_notes": "Report date derived from signature block. Criminal referral set to false as text states 'discussed' rather than explicitly 'referred'. Parent department null as only Board of Trustees is named."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:29:09.251388",
+  "content_hash": "308e01c6cd03682b83c744845ac0c638ed6fdcbf",
+  "duplicate_of": "5a8f4d1bcc9d7245606746c2"
+}

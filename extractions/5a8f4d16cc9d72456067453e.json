@@ -1,0 +1,118 @@
+{
+  "extraction": {
+    "agency_name": "Department of Budget and Management",
+    "parent_department": "Department of Budget and Management",
+    "report_date": "2015-05-01",
+    "audit_period_start": "2010-11-03",
+    "audit_period_end": "2014-04-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls Over Fee Payments Made to Health Care and Prescription Drug Program Administrators Were Not Adequate",
+        "description": "OPSB lacked adequate internal controls over payment of administrative fees totaling approximately $49.7 million for health care and $7.6 million for prescription drugs in fiscal year 2014, including a lack of separation of duties and verification of invoices.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 49700000.0,
+            "context": "health care program administrative fees in fiscal year 2014"
+          },
+          {
+            "amount": 7600000.0,
+            "context": "prescription drug program administrative fees in fiscal year 2014"
+          }
+        ],
+        "recommendation": "OPSB should ensure that an independent employee verifies the administrative fee calculation, reviews and approves payments entered into FMIS, and releases them for payment; invoices received for prescription drug program administrative fees should be verified to independent supporting documentation prior to payment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Prescription Drug Program Audit Results Were Not Adequately Pursued and Resolved",
+        "description": "OPSB did not adequately pursue results of an independent audit indicating the administrator owed the State approximately $1.5 million due to unmet contractual requirements, with no documentation of pursuit beyond a 2013 letter as of February 2015.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1500000.0,
+            "context": "amount owed to the State by prescription drug program administrator"
+          }
+        ],
+        "recommendation": "OPSB should ensure that audit report findings of the independent firm are pursued and resolved in a timely manner with documentation; resolve fiscal year 2012 prescription drug audit results and pursue collection of any amount due with the Office of the Attorney General.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "OPSB Did Not Have a Formal Policy On the Timeliness of Performing Health Claim Eligibility Reviews",
+        "description": "OPSB lacked a formal policy for timely initiation and completion of eligibility reviews, resulting in delays and improper payments totaling approximately $3.5 million identified during fiscal year 2010 to 2012 claim activity reviews.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3500000.0,
+            "context": "improper payments identified during fiscal year 2010 to 2012 claim activity reviews"
+          },
+          {
+            "amount": 790000.0,
+            "context": "delinquent accounts referred to CCU"
+          },
+          {
+            "amount": 52000.0,
+            "context": "accounts not submitted to CCU until late in test sample"
+          }
+        ],
+        "recommendation": "OPSB should establish a formal policy regarding the timeframe for initiating and completing eligibility claim reviews including documentation requirements; submit delinquent accounts to CCU in accordance with State regulations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Personally Identifiable Information Was Inappropriately Stored in Clear Text",
+        "description": "OPSB stored sensitive personally identifiable information including full social security numbers in unencrypted form in the BAS database and files, exposing over 489,000 unique SSNs and allowing unnecessary read access by 64 active accounts.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "OPSB should encrypt all database tables and files containing sensitive PII; restrict read access to sensitive PII to only personnel who require such access for their job responsibilities.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Internal Controls Were Not Sufficient to Ensure That All Collections Were Deposited",
+        "description": "Controls over cash receipts totaling approximately $53.5 million during fiscal year 2014 were inadequate due to lack of timely verification of deposits and insufficient segregation of duties regarding manual payment entries.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 53500000.0,
+            "context": "cash receipts during fiscal year 2014"
+          }
+        ],
+        "recommendation": "OPSB should use the initial record of checks received for verifying collections to deposit; perform deposit verifications on a more frequent basis; segregate duties of processing cash receipts and maintaining accounts receivable records; establish independent supervisory review and approval of manual payment entries.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Budget and Management/OPSB agreed with all five findings and recommendations, noting that controls have been implemented or enhanced, including independent verification of fees, tracking procedures for audit findings, policy updates for eligibility reviews, encryption migration plans, and segregation of duties improvements.",
+    "total_dollar_impact": 5000000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 7600000.0",
+    "dollar_amount_not_in_text: finding 5 amount 53500000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:16:52.595925",
+  "content_hash": "3b8750c0e10581588074cca9eeca7a3afb87fbf5",
+  "duplicate_of": null
+}

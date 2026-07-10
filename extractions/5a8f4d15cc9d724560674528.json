@@ -1,0 +1,101 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": "2017-11-01",
+    "audit_period_start": "2013-04-03",
+    "audit_period_end": "2017-01-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Division of Occupational and Professional Licensing (DOPL) did not have sufficient procedures to ensure that real estate broker and salesperson licenses, and home improvement contractor licenses were issued only to individuals who had met all required qualifications.",
+        "description": "DOPL contracted with a vendor for licensure requirements but did not verify the vendor's performance. Testing of 20 individuals disclosed 2 licensees without documentation substantiating experience verification.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DOPL establish procedures to ensure applicants met qualifications; inspect vendor records; maintain documentation; follow up on two licensees.",
+        "agency_agrees": true,
+        "agency_completion_date": "early 2018"
+      },
+      {
+        "number": 2,
+        "title": "DOPL did not have adequate processes in place to ensure that certain collections were deposited.",
+        "description": "DOPL failed to verify deposits for three of four units reviewed. Testing of $95,000 in collections disclosed six checks totaling $1,800 not deposited in the State's bank account.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 375000.0,
+            "context": "collections for four units during fiscal year 2016"
+          },
+          {
+            "amount": 95000.0,
+            "context": "test of collections received between July 2015 and January 2017"
+          },
+          {
+            "amount": 1800.0,
+            "context": "checks not deposited in State's bank account"
+          }
+        ],
+        "recommendation": "DOPL ensure initial record of collections used by independent employees for verification to validated bank deposit documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DOPL had not established cash control accounts for the Home Improvement and the Real Estate Guaranty Funds, and did not reconcile cash transactions to the State\u2019s records.",
+        "description": "DOPL lacked cash control accounts preventing reconciliation of fund balances with State records. A net difference of $179,000 existed between State ($620,000) and DOPL ($441,000) records for fiscal year 2016.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 782000.0,
+            "context": "disbursements from Home Improvement Guaranty Fund"
+          },
+          {
+            "amount": 193000.0,
+            "context": "disbursements from Real Estate Guaranty Fund"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "cash balance in Home Improvement Guaranty Fund"
+          },
+          {
+            "amount": 930000.0,
+            "context": "cash balance in Real Estate Guaranty Fund"
+          },
+          {
+            "amount": 620000.0,
+            "context": "total balance of receipts over disbursements per State records"
+          },
+          {
+            "amount": 441000.0,
+            "context": "balance per DOPL records"
+          },
+          {
+            "amount": 179000.0,
+            "context": "net difference in recorded cash activity"
+          }
+        ],
+        "recommendation": "DOPL establish and maintain cash control accounts for the Funds and reconcile balances to State accounting records.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency concurred with all findings. For Finding 1, they plan to implement a new audit system in early 2018. For Findings 2 and 3, corrective controls were implemented during the audit, including logs for transactions and monthly reconciliation reports.",
+    "total_dollar_impact": 180800.0,
+    "extraction_notes": "Report date derived from header 'November 2017' as no specific transmittal day was provided. Prior finding number not explicitly stated in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:06:33.641596",
+  "content_hash": "b646e0643666171a3e20f685bb9e3598625eedef",
+  "duplicate_of": null
+}

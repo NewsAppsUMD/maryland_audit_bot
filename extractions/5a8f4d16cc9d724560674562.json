@@ -1,0 +1,93 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2015-03-01",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2013-10-27",
+    "findings": [
+      {
+        "number": 1,
+        "title": "PHPA Did Not Use Available Resources to Verify Applicant Income and to Identify Possible Third-Party Insurance for Certain Programs",
+        "description": "PHPA did not use available independent resources such as MABS or the National Directory of New Hires to verify applicant income or identify third-party insurance for BCCDTP, MADAP, and MADAP-Plus programs.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that PHPA implement procedures to use available resources, such as MABS and the aforementioned MCPA contract, to help verify applicant income and to identify any third-party insurance.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "PHPA Did Not Always Consider Critical Information When Redetermining Applicant Eligibility For One Program",
+        "description": "PHPA did not always consider critical information such as income and insurance data in BCCDTP renewal applications; testing of 13 applications disclosed issues with spouse income documentation, third-party insurance identification, and SSN recording for 5 applications with paid claims totaling approximately $1.1 million.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1100000.0,
+            "context": "paid claims for related applicants during fiscal years 2011 through 2013"
+          }
+        ],
+        "recommendation": "We recommend that PHPA record all critical information reported by applicants and use the information to evaluate continued applicant eligibility and the existence of third-party insurance; determine whether the aforementioned applicants were eligible and had third-party insurance, and take appropriate action.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Access to Systems Used to Maintain Critical Information and Process Related Claims For Certain Programs Was Not Adequately Restricted",
+        "description": "PHPA did not adequately restrict user access to the MADAP system; employees had capabilities to record eligibility or process claims without independent approval, including some with incompatible duties.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that PHPA ensure a documented review of critical data recorded into the MADAP system is performed by independent supervisory personnel; separate incompatible duties that allowed employees to input individuals as eligible and to manually process related claims; eliminate capabilities to ensure employees can only perform duties required as part of their job responsibilities.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06-30"
+      },
+      {
+        "number": 4,
+        "title": "PHPA Did Not Always Obtain Certain Necessary Documents to Establish Provider Eligibility and Did Not Conduct Periodic Eligibility Reassessments",
+        "description": "PHPA did not always obtain required documentation such as physician licenses or proof of liability insurance; testing disclosed 8 payments totaling $361,646 for services by unverified physicians, and periodic reassessments were not conducted resulting in expired or suspended licenses.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 361646.0,
+            "context": "payments for services performed by physicians whose licenses were never verified"
+          }
+        ],
+        "recommendation": "We recommend that PHPA at the time of application obtain documentation of licensure and insurance for all individual physicians and therapists as required by State regulations; periodically reassess provider eligibility; investigate the aforementioned instances of unverified, expired, or suspended licenses, and ensure that the required documentation is obtained and appropriate actions are taken.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-07-01"
+      },
+      {
+        "number": 5,
+        "title": "PHPA Lacked Adequate Procedures and Controls Over Certain Collections",
+        "description": "PHPA lacked adequate procedures over HIV Client Services and BCCDTP collections; segregation of duties was not maintained for collections and accounts receivable, verifications were not timely or complete, and large rebates were received by check instead of wire transfer.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that PHPA establish adequate controls over HIV Client Services and BCCDTP collections; ensure employees without access to collections maintain the related accounts receivable records; perform timely and complete deposit verifications that ensure all recorded collections were deposited; pursue the feasibility of receiving large collections via wire transfer.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "PHPA generally concurred with the findings and recommendations. The agency noted that some controls were already in place or would be implemented via a new Medicaid Management Information System (MMIS), though implementation was delayed. PHPA indicated it would pursue feasibility of wire transfers for rebates and complete deposit verifications within 30 days.",
+    "total_dollar_impact": 1461646.0,
+    "extraction_notes": "Report date derived from header 'March 2015'. Audit period covers PHPA/HSIA/OPR scope dates. Prior findings count based on combined preceding reports (IDEHA and Family Health). Dollar amounts converted to integers."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:50:50.284156",
+  "content_hash": "3b092765126da3cbfd27d2cbfcfc95d1318274bd",
+  "duplicate_of": null
+}

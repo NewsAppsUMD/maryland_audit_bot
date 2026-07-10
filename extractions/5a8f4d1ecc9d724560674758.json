@@ -1,0 +1,161 @@
+{
+  "extraction": {
+    "agency_name": "Department of Veterans Affairs",
+    "parent_department": "Department of Veterans Affairs",
+    "report_date": "2016-12-01",
+    "audit_period_start": "2012-12-08",
+    "audit_period_end": "2016-03-06",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Department of Veterans Affairs (DVA) did not use certain funds as intended and improperly retained funds totaling $126,000 at the end of fiscal year 2015 that should have been reverted to the State\u2019s General Fund.",
+        "description": "DVA improperly deposited $126,000 in energy credits into a special fund and accumulated $303,000 in recovered funds not used as intended for burial costs. DBM advised DVA may retain these special funds but should only use them for authorized purposes.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 126000.0,
+            "context": "improperly retained funds"
+          },
+          {
+            "amount": 303000.0,
+            "context": "accumulated special fund balance"
+          }
+        ],
+        "recommendation": "We recommend that DVA use the accumulated and future funds recovered from veterans\u2019 families for burial costs as intended, and revert funds improperly retained for energy credits to the State\u2019s General Fund.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Unsupported federal fund revenue transactions totaling $1 million were recorded to offset deficit balances as of June 30, 2015.",
+        "description": "DVA recorded approximately $1 million in unsupported federal fund revenue transactions to offset deficit balances. Management could not provide documentation supporting the revenue, though a deficiency appropriation was obtained during fiscal year 2016.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "unsupported federal fund revenue transactions"
+          }
+        ],
+        "recommendation": "We recommend that DVA ensure that all year-end revenue transactions recorded in the State\u2019s Financial Management Information System are properly supported.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DVA did not request federal fund allowances for veterans\u2019 burials timely, and has experienced significant delays in obtaining these reimbursements from the U.S. Department of Veterans Affairs.",
+        "description": "DVA submitted allowance requests late resulting in lost interest income of approximately $5,000 to $14,000. DVA had not received allowances for burial costs totaling $2.7 million as of May 18, 2016 due to delays.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2700000.0,
+            "context": "delayed reimbursements"
+          },
+          {
+            "amount": 5000.0,
+            "context": "lost interest income"
+          },
+          {
+            "amount": 14000.0,
+            "context": "additional lost interest income"
+          }
+        ],
+        "recommendation": "We recommend that DVA submit allowance requests in a timely manner to the USDVA and continue to work with the USDVA to obtain payment for outstanding allowance requests.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DVA did not always use the appropriate payment method for disbursement transactions and did not always document that goods or services were received prior to payment.",
+        "description": "DVA processed all $66.7 million in disbursements using direct payment rather than matching purchase orders. Testing of 15 transactions totaling $674,000 disclosed no documentation verifying receipt for $52,000 paid to other vendors.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 66700000.0,
+            "context": "disbursement transactions"
+          },
+          {
+            "amount": 56500000.0,
+            "context": "invoice payments to CHVH vendor"
+          },
+          {
+            "amount": 674000.0,
+            "context": "test of transactions"
+          },
+          {
+            "amount": 52000.0,
+            "context": "no documentation of receipt verification"
+          }
+        ],
+        "recommendation": "We recommend that DVA use the appropriate online method to process payment transactions and adequately document that goods and services are received prior to payment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DVA did not reduce payments to the vendor operating the Charlotte Hall Veterans Home, as permitted by the contract, when required staffing was not provided.",
+        "description": "DVA failed to reduce payments for vacant positions, estimating they could have reduced payments by $180,000. The contract allowed reductions after 45 days vacancy but no exceptions were approved.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 180000.0,
+            "context": "could have reduced payments"
+          },
+          {
+            "amount": 18600000.0,
+            "context": "paid to vendor during fiscal year 2015"
+          },
+          {
+            "amount": 13700000.0,
+            "context": "per diem payments"
+          }
+        ],
+        "recommendation": "We recommend that DVA obtain and review required staffing information from the vendor for the entire contract period and recover any amounts due for vacant positions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-03-31"
+      },
+      {
+        "number": 6,
+        "title": "DVA did not record collections upon receipt and independent deposit verifications were either not performed or were performed by individuals who processed or had access to the related collections.",
+        "description": "Collections totaled approximately $1.8 million in fiscal year 2015. DVA did not record burial allowances of $764,000 upon receipt and independent deposit verifications were not performed prior to February 2016.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "collections in fiscal year 2015"
+          },
+          {
+            "amount": 764000.0,
+            "context": "burial allowances not recorded upon receipt"
+          }
+        ],
+        "recommendation": "We recommend that DVA ensure all collections are recorded immediately upon receipt and employees independent from cash receipts functions perform documented verifications.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Veterans Affairs concurs with all recommendations. Several findings are already in compliance or substantially improved, while others have completion dates set for the end of fiscal year 2017 and 2018.",
+    "total_dollar_impact": 358000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:55:36.610101",
+  "content_hash": "e5e44d52560f491a4a1a05beb0ad07b49c2f6840",
+  "duplicate_of": "5a8f4d1ecc9d724560674756"
+}

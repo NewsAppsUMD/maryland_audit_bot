@@ -1,0 +1,56 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2016-07-01",
+    "audit_period_start": "2013-02-25",
+    "audit_period_end": "2015-12-08",
+    "findings": [
+      {
+        "number": 1,
+        "title": "VSA did not have comprehensive procedures for conducting LHD site visits, which were performed to assess procedures and controls over the issuance of birth and death certificates and collection of the related fees.",
+        "description": "VSA lacked written procedures for annual LHD site visits assessing controls over certificate issuance and fee deposits. Site visits used checklists without guidance on evidence or documentation requirements, lacked supervisory review, and did not require LHD responses to corrective actions. Consequently, management lacked assurance that reviews were properly conducted.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3200000.0,
+            "context": "LHD collections for birth and death certificates during fiscal year 2015"
+          },
+          {
+            "amount": 27640.0,
+            "context": "Collections from two LHDs with deficiencies regarding failure to segregate duties and secure paper"
+          }
+        ],
+        "recommendation": "We recommend that VSA prepare comprehensive written procedures for its site reviews of LHD operations relating to the issuance of birth and death certificates. At a minimum, these procedures should address the type of evidence to examine when conducting the reviews, the amount of documentation needed to support the work done and conclusions reached, the need for supervisory review and approval, and a requirement for obtaining responses and corrective action plans from the LHDs.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Logging and reviews of database security and audit events were not properly performed or documented, and VSA did not remove inactive domain accounts on a timely basis.",
+        "description": "Security and audit event monitoring over production EVRS and EDRS databases was inadequate. Logged events were not included in management review reports, documentation for daily reviews did not exist, and 46 active user accounts had been inactive for extended periods (62 to 368 days). This risked undetected unauthorized activities or access to critical resources.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that VSA a. include direct changes to critical EVRS and EDRS database tables on reports of security events for management review; b. document reviews and any subsequent investigations of the EVRS and EDRS database logging reports, with such documentation retained for future reference; and c. disable unused domain accounts after 60 days of inactivity in accordance with the Information Security Policy.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Administration concurred with all recommendations. For Finding 1, they will establish comprehensive written procedures within 60 days. For Finding 2, they have implemented procedures for logging and review documentation, and system administrators are producing monthly Active Directory reports to ensure accounts are disabled after 60 days of inactivity.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'July 2016'. Audit period found in Scope section. Prior findings count based on Status of Findings From Preceding Audit Report section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:00:58.219800",
+  "content_hash": "f0ed2656cee8727cb815fa8c278d94de5c358c37",
+  "duplicate_of": null
+}

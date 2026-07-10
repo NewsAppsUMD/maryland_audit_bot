@@ -1,0 +1,177 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": "2008-11-21",
+    "audit_period_start": "2004-08-01",
+    "audit_period_end": "2007-08-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Security Over the DLLR\u2019s Computer Network Was Not Adequate",
+        "description": "Security over DLLR's internal network was not adequate. Network level access allowed from all addresses to critical servers, insecure connection protocol used for administrative access to routers, and default values used for management service.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict network level access to DLLR's critical servers; use secure communications protocols for remote management services; change default values used by a critical management service to connect to the core router.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Sensitive Information for Initial Unemployment Insurance Claims Was Not Adequately Protected",
+        "description": "Sensitive personal and financial information relating to initial unemployment insurance claims was not adequately protected. Records transmitted in clear text, not encrypted on file transfer server, encryption level inadequate for Internet transfers, access not properly restricted among payroll service providers.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Encrypt unemployment insurance claim records in compliance with the Department of Information Technology's Acceptable Encryption Policy; allow each payroll service provider access to only its own information.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Security Measures Over the Electronic Licensing Application Were Inadequate",
+        "description": "Web server security measures were inadequate. Controls over credit card service provider accounts inadequate (shared account, passwords in plain text), licensee personal information stored in plain text, excessive modification access granted to web server account, no documentation of log reviews.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Improve security over its electronic licensing application (separate accounts for processing and service management, restrict access to DLLR IP addresses, store passwords securely, remove plain text logs, maintain documentation of log reviews).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DLLR Did Not Adequately Log Security Events, Monitor Security Reports, and Document Security Reviews and Investigations",
+        "description": "DLLR did not adequately log security events or monitor reports. Authorization failures and user account changes not logged on licensing server. Key system security events not logged on database server. Documentation for reviews/investigations frequently missing.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Log critical security server and database events; review all relevant security logs; investigate events where necessary; document these reviews and investigations for audit verification.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Access Controls, Segregation of Critical Functions, and Account and Password Controls Were Not Adequate",
+        "description": "Default administrative database account had full access. Security settings gave 52 accounts unrestricted access to program library. Three individuals had conflicting duties/shared userid. Network account/password controls not adequate (no lockout, complexity, aging).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Implement adequate access controls, segregation of critical functions and account and password controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Proper Internal Controls Were Not Established Over the Processing of Purchasing and Disbursement Transactions",
+        "description": "Online approval rules permitted return of documents to initiating employees after approvals obtained. Five employees could modify transactions after approval without detection. $64 million disbursements processed in FY 2007.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 64000000.0,
+            "context": "disbursements processed in fiscal year 2007"
+          }
+        ],
+        "recommendation": "Establish online approval requirements over all critical documents that ensure all critical transactions are subject to adequate supervisory review and approval, including ensuring that these transactions are not modified after approvals are obtained.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DLLR Did Not Have Adequate Procedures to Ensure All Federal Expenditures Were Recovered Timely and Accrued Federal Fund Revenues Totaling Approximately $10.4 Million Could Not Be Substantiated",
+        "description": "DLLR failed to identify approximately $540,000 in FY 2007 federal expenditures for reimbursement, resulting in $18,000 lost investment income. Accrued revenue transactions totaling $10.4 million could not be supported (accrued to eliminate deficits without ensuring amounts due).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 540000.0,
+            "context": "unrecovered federal expenditures"
+          },
+          {
+            "amount": 18000.0,
+            "context": "lost investment income"
+          },
+          {
+            "amount": 10400000.0,
+            "context": "unsupported accrued federal fund revenues"
+          }
+        ],
+        "recommendation": "Establish procedures to ensure that all federal expenditures are properly identified and recovered in a timely manner; ensure that all accrued revenue transactions are adequately supported.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "DLLR Did Not Independently Resolve Certain Deposit Adjustments and Record Collections in the State\u2019s Accounting System Timely",
+        "description": "Employee investigating deposit adjustments involved in processing collections (lack of separation). Collections not always recorded timely (13 of 15 items totaling ~$10.2 million recorded 4-43 days after deposit).",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10200000.0,
+            "context": "collections recorded late"
+          },
+          {
+            "amount": 10100000.0,
+            "context": "one check recorded late"
+          }
+        ],
+        "recommendation": "Independently investigate and resolve all deposit adjustments; ensure all collections are recorded on the State's accounting system in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "DLLR Did Not Adequately Maintain Equipment Records and Comply With Certain Provisions of the Department of General Services\u2019 Inventory Control Manual",
+        "description": "DLLR did not maintain independent control account. Test of acquisitions disclosed items not properly recorded. Missing sensitive equipment totaling $614,538 not located/investigated as of Sept 2007. Similar conditions in preceding reports since 1996.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 227000.0,
+            "context": "acquisitions tested"
+          },
+          {
+            "amount": 60000.0,
+            "context": "items not properly recorded in detail records"
+          },
+          {
+            "amount": 4300000.0,
+            "context": "sensitive equipment value as of June 30, 2007"
+          },
+          {
+            "amount": 614538.0,
+            "context": "missing sensitive items not located"
+          }
+        ],
+        "recommendation": "Comply with the Inventory Control Manual requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 15,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DLLR generally agrees or concurs with all findings. Finding 6 is partly agreed upon due to regulatory constraints regarding approver authorization, but corrective actions were taken in May 2008. DLLR states they have implemented corrective actions for cash receipts and equipment tracking issues.",
+    "total_dollar_impact": 11572538.0,
+    "extraction_notes": "Report date is from transmittal letter (Nov 21, 2008). Audit period stated as Aug 1, 2004 to Aug 31, 2007. Finding 9 marked with asterisk indicating repeat status. Criminal referral and fraud hotline origin not explicitly stated in text."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 9 amount 4300000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:31:57.216991",
+  "content_hash": "47c4e3701ba1d2a349d54e746051b5676bcf9f22",
+  "duplicate_of": null
+}

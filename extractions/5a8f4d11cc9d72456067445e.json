@@ -1,0 +1,114 @@
+{
+  "extraction": {
+    "agency_name": "Department of Housing and Community Development",
+    "parent_department": "Department of Housing and Community Development",
+    "report_date": "2012-04-01",
+    "audit_period_start": "2008-07-01",
+    "audit_period_end": "2011-05-09",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DHCD Lacked Documentation That Collections Were Verified to Deposit",
+        "description": "DHCD lacked documentation that its collections had been verified to deposit; most deposits examined lacked evidence verification procedures were performed. A test of $13.9 million disclosed no documentation for receipts totaling $13.5 million.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13900000.0,
+            "context": "test of collections"
+          },
+          {
+            "amount": 13500000.0,
+            "context": "receipts lacking documentation"
+          },
+          {
+            "amount": 17000000.0,
+            "context": "collections received and deposited during fiscal year 2011"
+          }
+        ],
+        "recommendation": "We recommend that DHCD ensure that verifications of collections to deposit are documented.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Physical Inventory Results Were Not Fully Reconciled With Detail Records and Certain Items Were Not Accounted for",
+        "description": "DHCD's physical inventory procedures were deficient; results were not fully reconciled to detailed equipment records as of September 2011. Equipment totaling approximately $649,000 had not been accounted for during physical inventories for more than three years.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5600000.0,
+            "context": "value of equipment as of June 30, 2011"
+          },
+          {
+            "amount": 649000.0,
+            "context": "equipment not accounted for during physical inventories"
+          },
+          {
+            "amount": 565000.0,
+            "context": "sensitive equipment not accounted for"
+          },
+          {
+            "amount": 167000.0,
+            "context": "computers not accounted for since 2000"
+          }
+        ],
+        "recommendation": "We recommend that DHCD comply with the aforementioned requirements of the DGS Inventory Control Manual by fully reconciling the results of the physical inventories to the related detail records, and by identifying, investigating, and resolving all discrepancies.",
+        "agency_agrees": true,
+        "agency_completion_date": "2012-06-30"
+      },
+      {
+        "number": 3,
+        "title": "DHCD Lacked Evidence of Competition for Purchases Made With Corporate Purchasing Cards",
+        "description": "DHCD lacked documentation that employees solicited bids from more than one vendor when making purchases with a corporate purchasing card. A review of six transactions exceeding $500 disclosed no documentation of bids or offers obtained.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 500.0,
+            "context": "threshold for transactions reviewed"
+          },
+          {
+            "amount": 3000.0,
+            "context": "purchase of six computers"
+          },
+          {
+            "amount": 1500.0,
+            "context": "purchase of three cameras"
+          },
+          {
+            "amount": 760000.0,
+            "context": "CPC transactions total during fiscal year 2011"
+          },
+          {
+            "amount": 478000.0,
+            "context": "spent for purchases exceeding $500"
+          },
+          {
+            "amount": 264000.0,
+            "context": "spent for purchases exceeding $1,000"
+          }
+        ],
+        "recommendation": "We recommend that DHCD a. ensure that employees seek competition to the extent practical for CPC purchases, as required by State Procurement Regulations; and b. document actions taken to ensure competitive procurement.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DHCD concurs with all findings and recommendations. They state verifications were performed but documentation was lacking (Finding 1), missing assets list was submitted previously but delayed by DGS approval (Finding 2), and CPC procedures were updated in November 2011 to require documentation of price research (Finding 3).",
+    "total_dollar_impact": 649000.0,
+    "extraction_notes": "Report date derived from header 'April 2012'. Audit period found in Scope section. Prior findings status found in Status of Findings From Preceding Audit Report section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T02:50:58.055150",
+  "content_hash": "a128a7813dd4d75745e5be6f9e559335ded9a197",
+  "duplicate_of": "5a8f4d11cc9d72456067445a"
+}

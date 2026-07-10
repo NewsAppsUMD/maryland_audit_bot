@@ -1,0 +1,69 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2011-09-01",
+    "audit_period_start": "2008-03-24",
+    "audit_period_end": "2011-02-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Eastern Shore Hospital Center (ESHC) awarded a service contract to a physician it employed full-time, violating DHMH policy, and continued to pay for these services after the contract period ended.",
+        "description": "ESHC awarded a $8,250 service contract to a full-time employee in violation of policy prohibiting such contracts when an employer-employee relationship exists. ESHC paid the physician a total of $20,350 through July 2010 and later allowed the physician to approve their own time records without independent supervision for approximately $15,800 in compensation.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8250.0,
+            "context": "contract valued at"
+          },
+          {
+            "amount": 20350.0,
+            "context": "ESHC paid the physician a total of for these contracted services through July 2010"
+          },
+          {
+            "amount": 15800.0,
+            "context": "physician received compensation totaling approximately for these 351 hours"
+          }
+        ],
+        "recommendation": "We recommend that ESHC a. strictly adhere to the DHMH's Physician's On-Duty/Off Duty Compensation Policy, and b. ensure that independent supervisory personnel approve the after-hours time records.",
+        "agency_agrees": true,
+        "agency_completion_date": "November 2010; July 1, 2010"
+      },
+      {
+        "number": 2,
+        "title": "Patient fund deposit verifications were not performed by an independent employee and access to related records was not properly controlled.",
+        "description": "ESHC patient funds were not adequately controlled as the verification employee had routine access to collections and cash receipts. Accounting system access was not restricted to necessary employees, user IDs/passwords were not required, and three employees had access without need for their job duties.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 41000.0,
+            "context": "patient fund collections totaled approximately"
+          },
+          {
+            "amount": 56000.0,
+            "context": "disbursements totaled approximately"
+          }
+        ],
+        "recommendation": "We recommend that ESHC a. ensure that deposit verifications are performed by an employee independent of the cash receipts functions, b. restrict access to the accounting systems to those employees that require such access to perform their job duties, and c. ensure that all users are assigned unique IDs to access these systems.",
+        "agency_agrees": true,
+        "agency_completion_date": "July 1, 2011"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Health and Mental Hygiene concurred with all findings and recommendations. The Center stated it would comply with the compensation policy in the future, discontinued the practice on July 1, 2010, and instituted independent approval procedures by November 2010 for Finding 1. For Finding 2, the Center implemented an independent cash verification process and restricted system access effective July 1, 2011.",
+    "total_dollar_impact": 36150.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:14:54.488095",
+  "content_hash": "b3dbe71cb753f0a2aeb2df4662bdd5f2b6fa8176",
+  "duplicate_of": null
+}

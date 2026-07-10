@@ -1,0 +1,192 @@
+{
+  "extraction": {
+    "agency_name": "Department of General Services",
+    "parent_department": "Department of General Services",
+    "report_date": "2016-12-07",
+    "audit_period_start": "2012-08-20",
+    "audit_period_end": "2015-10-27",
+    "findings": [
+      {
+        "number": 1,
+        "title": "OPL did not verify the accuracy of periodic fuel usage reconciliations, sufficiently address failed fuel quality tests, and ensure State agencies were reviewing monthly fuel variance reports.",
+        "description": "OPL did not verify the accuracy of quarterly reconciliations of fuel usage performed by the vendor for consigned fuel which were used to adjust vendor billings. OPL was notified that fuel at various State fuel dispensing locations failed 40 of 291 quality control tests but did not ensure additional testing or determine the cause. OPL also did not conduct monthly audits of selected State agency reviews of monthly fuel variance reports as required.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 490000.0,
+            "context": "additional billings"
+          },
+          {
+            "amount": 143000.0,
+            "context": "credits"
+          }
+        ],
+        "recommendation": "Verify the accuracy and validity of periodic fuel reconciliation reports; ensure that the cause of variances noted through the reconciliation process are determined and corrected; ensure that fuel pumps at the State's dispensing locations are properly calibrated; ensure that the vendor takes all necessary corrective action when a State fuel dispensing location fails a fuel quality control test; comply with its written procedures to audit monthly reports for select agencies.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-06-30"
+      },
+      {
+        "number": 2,
+        "title": "OPL did not adequately monitor certain State agency procurements that were specifically subject to its oversight and did not review and update State procurement regulations and the DGS manual for commodity procurements as needed.",
+        "description": "OPL did not conduct audits of State agencies' delegated procurement activity to ensure that procurements were properly bid and awarded. OPL lacked effective means for ensuring that State agencies submitted printing service contracts for its approval as required, and guidance documents had not been reviewed to correct language that was incorrect or out-of-date.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 210000000.0,
+            "context": "commodities procurements"
+          },
+          {
+            "amount": 38000000.0,
+            "context": "maintenance services procurements"
+          },
+          {
+            "amount": 693016.0,
+            "context": "testing purchases of printing services"
+          },
+          {
+            "amount": 246567.0,
+            "context": "unapproved printing service purchases"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "MCE sales of printing services to State agencies"
+          }
+        ],
+        "recommendation": "Supplement audit procedures to include delegated maintenance service procurements and conduct audits; implement procedures to ensure that State agencies submit printing service procurements for approval; take immediate steps to revise State procurement regulations and the DGS Manual.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "OPL did not publish contract awards totaling $5.9 million on eMaryland Marketplace as required.",
+        "description": "OPL did not always publish contract awards on eMaryland Marketplace (eMM) as required by State laws and regulations. Testing of 20 commodity and facilities maintenance contract awards showed that 10 of these contract awards, totaling approximately $5.9 million, had not been published on eMM.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5900000.0,
+            "context": "contract awards not published"
+          },
+          {
+            "amount": 30500000.0,
+            "context": "tested contract awards"
+          },
+          {
+            "amount": 4400000.0,
+            "context": "sole source contracts among unpubished"
+          }
+        ],
+        "recommendation": "Comply with State law and procurement regulations by publishing contract awards on eMM within 30 days of the contract award.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-02-01"
+      },
+      {
+        "number": 4,
+        "title": "OPL did not always provide prices for products available from Intergovernmental Cooperative Purchasing Agreements to State agencies.",
+        "description": "OPL did not always provide State agencies with prices for products that were available to them through Intergovernmental Cooperative Purchasing Agreements (ICPAs). Two ICPA contracts, totaling $7.8 million, did not include contract pricing on the BPOs.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7800000.0,
+            "context": "ICPA contracts without pricing"
+          },
+          {
+            "amount": 6100000.0,
+            "context": "State agency purchases from contractors"
+          }
+        ],
+        "recommendation": "Independently publish contract prices for items available from ICPAs for use by State agencies.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "OPL did not ensure that it received all administrative fees due from vendors providing goods and services to State agencies under Statewide contracts, and our review of selected contracts disclosed uncollected fees of approximately $222,000.",
+        "description": "OPL did not ensure that it received all administrative fees due from vendors. OPL did not always follow up when required fees and reports were not submitted, and did not verify sales data reported by vendors. Review of selected contracts disclosed uncollected fees of approximately $222,000.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 222000.0,
+            "context": "uncollected fees"
+          },
+          {
+            "amount": 219000.0,
+            "context": "one vendor unremitted fees"
+          },
+          {
+            "amount": 2800.0,
+            "context": "fees due for six vendors"
+          }
+        ],
+        "recommendation": "Ensure that all required sales reports and related contract fees due are received; verify reported sales to supporting documentation; pursue for collection the aforementioned unremitted fees.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "OPL did not establish comprehensive procedures for determining the fair market prices of goods and services available from MCE. Furthermore, OPL did not publish fair market prices of items available for purchase from MCE and BISM as required.",
+        "description": "OPL's procedures for determining fair market prices of items available for sale from MCE were not comprehensive, and OPL did not always comply with the procedures it did have in place. OPL did not independently publish the fair market prices of goods and services available from MCE or BISM as required.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 22500000.0,
+            "context": "State agencies spent on purchases from MCE"
+          },
+          {
+            "amount": 4600000.0,
+            "context": "State agencies spent on purchases from BISM"
+          }
+        ],
+        "recommendation": "Establish and adhere to comprehensive procedures to independently determine and publish the fair market prices of all of MCE's goods and services; publish the fair market prices of BISM's goods and services.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-06-30"
+      },
+      {
+        "number": 7,
+        "title": "OPL did not adequately monitor the coordinating entity for EWP to ensure that it met its responsibilities under the law and that fees it collected from EWP preferred providers were reasonable.",
+        "description": "OPL did not monitor the coordinating entity (CE) for the EWP to ensure it was appropriately fulfilling its duties under State law. OPL could not document that the compensation fees collected by the CE from EWP preferred providers were reasonable based on program costs.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1100000.0,
+            "context": "CE collected in EWP fees during calendar year 2014"
+          },
+          {
+            "amount": 34400000.0,
+            "context": "estimated sales under EWP contracts"
+          }
+        ],
+        "recommendation": "Monitor the CE to ensure that it is providing the goods and services required by State law; establish the responsibilities of the CE and specify the compensation fee that may be charged.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 13,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of General Services (DGS) concurs with all findings and recommendations. DGS indicated that it will verify accuracy of reconciliation reports, ensure pumps are calibrated, publish contract awards within 30 days, modify terms for ICPA vendors, revise Standard Operating Procedures to collect fees, develop comprehensive procedures for MCE pricing by June 2017, and monitor the EWP coordinating entity. DGS noted staffing shortages impacting oversight in Finding 2.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter (December 7, 2016). Audit period stated as August 20, 2012 to October 27, 2015. Three findings marked with asterisks (*) in Table of Contents and Status section are repeated. No criminal referral explicitly stated."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 6 amount 4600000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:11:09.949899",
+  "content_hash": "0c6fa0448b7b9a2b9bf2002db1e645cae731e689",
+  "duplicate_of": "5a8f4d16cc9d72456067456e"
+}

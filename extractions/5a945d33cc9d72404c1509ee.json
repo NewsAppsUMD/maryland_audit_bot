@@ -1,0 +1,293 @@
+{
+  "extraction": {
+    "agency_name": "Anne Arundel County Public Schools",
+    "parent_department": "Anne Arundel County Public Schools",
+    "report_date": "2014-06-01",
+    "audit_period_start": "2011-07-01",
+    "audit_period_end": "2012-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "AACPS Did Not Use Available Features of its Automated Accounts Payable and Procurement System to Restrict and Monitor User Capabilities",
+        "description": "AACPS did not use available features of its automated accounts payable and procurement system to restrict and monitor user capabilities. Six employees could process critical transactions without subsequent manual review, ten userids had unnecessary capabilities, and security reports were not generated or reviewed.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 189000000.0,
+            "context": "non-payroll disbursements processed through the system during fiscal year 2013"
+          }
+        ],
+        "recommendation": "Restrict employees' capabilities to only those needed for job duties and eliminate incompatible functions; periodically generate and independently review system reports of user capabilities; ensure changes to vendor information are verified by an independent employee.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "AACPS Did Not Adequately Monitor a Contract to Develop an Automated Human Resources and Payroll System",
+        "description": "AACPS entered into a contract for an automated HR system but did not receive a viable product despite payments totaling $4.8 million. The vendor failed to perform, and AACPS paid for over two years after realizing implementation would be delayed.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4600000.0,
+            "context": "contract amount required during the contract period"
+          },
+          {
+            "amount": 4800000.0,
+            "context": "payments to the contractor from October 2007 through August 2011"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "estimated cost of new contract with another vendor in December 2012"
+          },
+          {
+            "amount": 350000.0,
+            "context": "payments to the new vendor as of October 2013"
+          }
+        ],
+        "recommendation": "Ensure IT contracts specify correlation between payments and deliverables/milestones; ensure payments are made only when vendors fulfill obligations; assess whether legal actions against the vendor should be pursued.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "AACPS Did Not Thoroughly Evaluate Purchasing Card Assignments to Reduce the Number of Unnecessary Cards",
+        "description": "AACPS did not thoroughly evaluate purchasing card assignments. Records showed 125 cards had not been used for periods ranging from 12 to 52 months, and multiple cards were issued to many cardholders.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5800000.0,
+            "context": "CPC expenditures during the period January 2012 through February 2013"
+          }
+        ],
+        "recommendation": "Conduct periodic evaluations of card usage and terminate unnecessary cards; discontinue the practice of issuing multiple cards to individual users.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "AACPS Did Not Ensure the Propriety of Payments for Employee and Retiree Health Care Costs",
+        "description": "AACPS lacked procedures to ensure health care claims paid by its third-party administrator were proper. It made estimated payments without verifying amounts billed or ensuring administrative fees were proper.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 89200000.0,
+            "context": "payments to third-party administrator for claim reimbursements during fiscal year 2013"
+          },
+          {
+            "amount": 5500000.0,
+            "context": "administrative fees paid to the vendor during fiscal year 2013"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "estimated health care costs savings from removing ineligible dependents"
+          },
+          {
+            "amount": 889400.0,
+            "context": "potential penalties per year if performance measures are not met"
+          }
+        ],
+        "recommendation": "Establish procedures to verify amounts paid for health insurance; obtain detail to support administrator's billings; verify propriety of claim payments and administrative fees; review documentation related to contractual performance measures.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Certain Users Were Assigned Unneeded Capabilities in the Automated Human Resources and Payroll System and Reports of Personnel and Payroll Changes Were Not Comprehensive",
+        "description": "AACPS did not establish adequate internal controls over its automated HR/payroll system. Nineteen employees had incompatible capabilities, access reports were not generated/reviewed, and change reports were not comprehensive.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict employees' capabilities to only those needed; periodically generate and ensure independent review of access reports; modify existing change reports to include all changes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "The AACPS Equipment Inventory Policies Lacked Specificity and a Complete Physical Inventory Had Not Been Performed",
+        "description": "AACPS equipment inventory policies did not specify frequency for physical inventories. No complete physical inventory had been conducted since 2004, and test items totaling $11,675 could not be located.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 26546.0,
+            "context": "test of sensitive equipment items recorded on detail records"
+          },
+          {
+            "amount": 11675.0,
+            "context": "items totaling that amount could not be located during test"
+          }
+        ],
+        "recommendation": "Enhance policies by specifying types of equipment and frequency of physical counts; conduct periodic physical inventories and reconcile to detail records.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "The AACPS Detail Equipment Records Were Not Always Accurate and Comprehensive",
+        "description": "Detail equipment records did not contain unique identifiers for all items. Equipment acquired using purchasing cards was not always recorded in the detail records.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 93000.0,
+            "context": "sensitive equipment items bought using one purchasing card not recorded in detail records"
+          },
+          {
+            "amount": 1417.0,
+            "context": "other sensitive equipment items totaling that amount not recorded in detail records"
+          }
+        ],
+        "recommendation": "Ensure detail equipment records include serial numbers or other unique identifiers for all items; ensure equipment items bought via purchasing cards are recorded.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Access and Monitoring Controls Over Critical Databases and Applications Were Not Sufficient to Protect Critical Data",
+        "description": "Access and monitoring controls were not sufficient. A default administrative account had full access, critical security events were not recorded/reviewed, and numerous accounts had unnecessary direct modification access.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Limit access to critical databases/programs; log all critical security events and review audit logs regularly; document reviews.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Administrative Access to the AACPS Network Was Not Adequately Controlled and Audit Policies for Monitoring the Security of Certain Critical Servers Were Not in Effect",
+        "description": "A shared account was used by employees who did not require administrator capabilities. Server audit policies did not propagate to member servers, so significant security activities were not logged or reviewed.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Assign administrator capabilities only to users requiring privileges; limit use of shared accounts; ensure audit policies propagate to member servers.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Malware Protection on AACPS Workstations Was Not Comprehensive",
+        "description": "Antivirus software was not properly configured to limit user capabilities. Local administrator privileges were not restricted; users could disable antivirus software.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Disable settings allowing users to exclude files from scans and override security controls; limit local administrative rights on workstations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "The AACPS Network Was Not Properly Secured",
+        "description": "Ten publicly accessible servers were located on the internal network rather than in a separate protected zone. Internal network was not adequately secured from improper access by high school students.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Segregate publicly accessible servers in a separate protected network zone; implement controls to limit network level student access.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "AACPS Did Not Have Formal Targets and Goals for Revising Bus Routes or Use Automated Routing Software to Improve Route Efficiency",
+        "description": "AACPS did not have formal targets/goals for bus routes nor use automated routing software. Review of time and mileage reports disclosed 336 routes were below 50 percent of occupancy goals.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop formal targets and goals for bus routes; improve efficiency by obtaining and implementing automated routing software.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "Procedures and Controls Were Not Sufficient to Ensure That Contractors Were Paid the Proper Amounts",
+        "description": "Data entered into the bus contractor payment system was not subject to independent review. AACPS did not implement a process to determine if time and mileage reported by contractors were accurate.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure independent employee verifies data entered into contractor payment system; verify time and mileage reports received from contractors; eliminate unnecessary access.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "Payments to Contractors for Bus Transportation Were Not Always Properly Calculated and Were Not Always in Compliance With the Contract Terms",
+        "description": "Mileage recorded was not always accurate. Hourly payment rates were higher than contract terms due to incorrect COLA calculations. AACPS increased base hourly pay rates above contracted amounts.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 98000.0,
+            "context": "payments to contractors for transportation services provided by 10 buses during April 2013"
+          },
+          {
+            "amount": 5300.0,
+            "context": "calculated overpayment for transportation services provided during April 2013"
+          },
+          {
+            "amount": 12000.0,
+            "context": "overpayments for five buses totaling approximately that amount during fiscal year 2013"
+          },
+          {
+            "amount": 277000.0,
+            "context": "estimated cost of increasing base hourly pay rates in fiscal year 2007"
+          }
+        ],
+        "recommendation": "Determine actual mileage required for each route; ensure hourly rates are paid in accordance with contract; discontinue practice of increasing hourly rates above contracted amounts; investigate discrepancies and recover overpayments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "Cash Receipt Duties Were Not Properly Segregated Since Transactions Could Be Voided By Cashiers Without Independent Review or Approval",
+        "description": "Cashiers and managers had the ability to void transactions on the automated point-of-sale system with no independent review. Voids totaling $1.0 million were tested and found appropriate.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1100000.0,
+            "context": "voids totaling that amount processed by cashiers during fiscal year 2013"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "voids totaling that amount tested during review"
+          }
+        ],
+        "recommendation": "Independent supervisory personnel should review and approve voids at least on a test basis.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 29,
+    "prior_findings_repeated": 9,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "AACPS generally agrees with the findings and outlines corrective actions taken or planned. Responses indicate implementation of new procedures, system upgrades (including HRIS), policy amendments, and legal follow-through where applicable. Some responses note operational constraints but commit to compliance measures.",
+    "total_dollar_impact": 4923392.0,
+    "extraction_notes": "Audit period derived from Scope section ('generally for the period from July 1, 2011 through December 31, 2012'). Report date is June 2014. Prior findings repeated count based on text 'The remaining 9 findings are repeated as 8 findings in this report'."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 4 amount 5500000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T17:09:01.760370",
+  "content_hash": "a34cfa6e57871a28d3cbd650ef2a21b64825a950",
+  "duplicate_of": null
+}

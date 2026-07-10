@@ -1,0 +1,281 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2010-10-29",
+    "audit_period_start": "2006-02-01",
+    "audit_period_end": "2009-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Critical Accounting Records Were Not Maintained and Certain Funds Could not be Accounted For",
+        "description": "The Region did not maintain critical accounting records for working funds, including checking account balances on a current basis. Bank reconciliations were unreliable or discontinued, resulting in unaccounted funds totaling approximately $14,400 in the General Working Fund and $15,500 in the Inmate Working Fund.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 23300.0,
+            "context": "significant bank fees incurred for overdrafts and insufficient funds"
+          },
+          {
+            "amount": 14400.0,
+            "context": "unaccounted for funds in General Working Fund"
+          },
+          {
+            "amount": 15500.0,
+            "context": "unaccounted for funds in Inmate Working Fund"
+          }
+        ],
+        "recommendation": "Maintain critical accounting records on a current and complete basis; prepare bank reconciliations and fund compositions monthly with supervisory review; investigate disposition of unaccounted funds.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-06-30"
+      },
+      {
+        "number": 2,
+        "title": "The Region's Records of Inmate Funds Were Not Reconciled With the Corresponding State Records",
+        "description": "The Region had not reconciled inmate account balances with Comptroller records. As of May 31, 2009, the Region's records exceeded the Comptroller's balance by $226,749.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 314132.0,
+            "context": "unresolved difference as of July 31, 2008"
+          },
+          {
+            "amount": 226749.0,
+            "context": "difference between Region and Comptroller records as of May 31, 2009"
+          }
+        ],
+        "recommendation": "Periodically reconcile aggregate balance of inmate accounts with Comptroller records; investigate and resolve all differences.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-06-30"
+      },
+      {
+        "number": 3,
+        "title": "Procedural Controls Necessary for Ensuring the Propriety of Working Fund Transactions and Records Were Not Sufficient",
+        "description": "Inadequate separation of duties existed regarding blank checks and signature plates. Employees had access to both controls, and one employee exercised complete control over cash withdrawals for inmate releases without independent approval.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 44230.0,
+            "context": "checks signed using signature plate of resigned individual"
+          },
+          {
+            "amount": 28235.0,
+            "context": "duplicate transmittals submitted to Comptroller"
+          },
+          {
+            "amount": 70454.0,
+            "context": "transmittal processed without supporting documentation"
+          }
+        ],
+        "recommendation": "Establish appropriate controls and segregation of duties; limit access to blank checks and signature plates; verify propriety of transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-06-30"
+      },
+      {
+        "number": 4,
+        "title": "Funds Transferred Between the General Working Fund and the Inmate Working Fund Impaired Accountability and Circumvented the Comptroller's Approval Process",
+        "description": "The Region transferred funds between GWF and IWF without proper authority, impairing accountability. An emergency advance of $31,500 had not been repaid as of January 2010.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 48829.0,
+            "context": "unauthorized transfers between GWF and IWF"
+          },
+          {
+            "amount": 31500.0,
+            "context": "emergency advance not repaid to Comptroller"
+          },
+          {
+            "amount": 40000.0,
+            "context": "loan from inmate working fund of another region"
+          }
+        ],
+        "recommendation": "Do not transfer funds without authorization; investigate transactions; repay advances and loans.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-06-30"
+      },
+      {
+        "number": 5,
+        "title": "Unsupported and Questionable Check Disbursements and Cash Withdrawals Were Made From the Working Funds",
+        "description": "Documentation was not available to substantiate several disbursements. A check for $2,000 indicated it was for IWF but no evidence of deposit existed.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 19536.0,
+            "context": "GWF checks without documentation"
+          },
+          {
+            "amount": 2000.0,
+            "context": "check for IWF with no deposit evidence"
+          },
+          {
+            "amount": 541.0,
+            "context": "check issued to former employee after resignation"
+          },
+          {
+            "amount": 7600.0,
+            "context": "GWF cash withdrawals without documentation"
+          },
+          {
+            "amount": 6200.0,
+            "context": "cash withdrawal never recorded or included in daily counts"
+          },
+          {
+            "amount": 53000.0,
+            "context": "salary advances issued in fiscal year 2007 without documentation"
+          },
+          {
+            "amount": 4199.0,
+            "context": "inmate funds improperly used to pay salary advances"
+          }
+        ],
+        "recommendation": "Maintain adequate documentation for disbursements; verify propriety of checks and withdrawals lacking documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-06-30"
+      },
+      {
+        "number": 6,
+        "title": "Procedures and Controls Relating to the Accountability and Verification of Cash Receipts Were Not Sufficient",
+        "description": "Missing receipt forms were not investigated. Deposit verification was often not performed timely or lacked documentation.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4100000.0,
+            "context": "cash receipts deposited in fiscal year 2009"
+          },
+          {
+            "amount": 390000.0,
+            "context": "deposits without documentation supporting verification"
+          },
+          {
+            "amount": 77000.0,
+            "context": "deposit verification not performed timely"
+          },
+          {
+            "amount": 174000.0,
+            "context": "chargeback transactions not resolved as of June 30, 2009"
+          }
+        ],
+        "recommendation": "Account for pre-numbered receipt forms; verify receipts timely against bank deposits; resolve chargebacks.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Certain Controls Over Payroll Had Not Been Established",
+        "description": "Payroll adjustments were not subject to independent supervisory review. A duplicate payroll payment of $12,017 was processed for a retired employee.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 12017.0,
+            "context": "duplicate payroll payment to retired employee"
+          }
+        ],
+        "recommendation": "Ensure all payroll adjustments are subject to supervisory review.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Proper Internal Controls Were Not Established Over the Processing of Certain Purchasing Transactions",
+        "description": "Employees could initiate purchase orders and modify them after approval without independent review.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2100000.0,
+            "context": "payments processed against purchase orders in fiscal year 2009"
+          }
+        ],
+        "recommendation": "Establish approval requirements preventing initiators from modifying transactions after approvals.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Equipment Records Were Not Adequately Maintained and Physical Inventories Were Not Completed as Required",
+        "description": "Significant adjustments to equipment control accounts were not supported. Control account balances exceeded detail records by $127,162.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5900000.0,
+            "context": "book value of Region's equipment as of June 30, 2009"
+          },
+          {
+            "amount": 4000000.0,
+            "context": "adjustments to control accounts without support or approval"
+          },
+          {
+            "amount": 127162.0,
+            "context": "difference between control account and detail records as of June 30, 2009"
+          },
+          {
+            "amount": 59294.0,
+            "context": "equipment purchases not posted to detail inventory records"
+          },
+          {
+            "amount": 8091.0,
+            "context": "equipment items recorded but could not be located"
+          }
+        ],
+        "recommendation": "Comply with Inventory Control Manual requirements; investigate propriety of noted $4 million in adjustments.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-12-31"
+      },
+      {
+        "number": 10,
+        "title": "Procedures and Controls Over Materials and Supplies Were Not Adequate",
+        "description": "Requisition forms could be altered after issuance. Differences between perpetual records and physical counts were not always investigated.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 49000.0,
+            "context": "inventory differences not investigated"
+          },
+          {
+            "amount": 2500000.0,
+            "context": "materials and supplies expenditures in fiscal year 2009"
+          },
+          {
+            "amount": 988000.0,
+            "context": "reported materials and supplies inventories on hand as of June 30, 2009"
+          }
+        ],
+        "recommendation": "Comply with Inventory Control Manual requirements regarding requisition forms and inventory investigations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 10,
+    "prior_findings_repeated": 6,
+    "criminal_referral": true,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency agreed to all recommendations and indicated that controls were established or improved. Completion dates for investigations and account closures ranged from December 31, 2010 to June 30, 2011.",
+    "total_dollar_impact": 4938566.0,
+    "extraction_notes": "Criminal referral applies to findings 1-5 regarding working funds. Total dollar impact calculated as sum of quantified questioned/unaccounted amounts across all findings."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:42:27.685296",
+  "content_hash": "404398042bb9a5e83c4a3393b2bb248ba3cf1144",
+  "duplicate_of": null
+}

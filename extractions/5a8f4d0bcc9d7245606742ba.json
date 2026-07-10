@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "agency_name": "Canal Place Preservation and Development Authority",
+    "parent_department": null,
+    "report_date": "2025-05-01",
+    "audit_period_start": "2020-12-01",
+    "audit_period_end": "2024-11-18",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Canal Place Preservation and Development Authority did not obtain required annual audits of its financial statements as required by State law.",
+        "description": "The Authority did not obtain annual audits of its financial statements as required by State law. Our review disclosed that as of January 2025 the Authority had not obtained audits of its financial statements for the fiscal years ending June 30, 2022 and 2023. Although the Authority engaged an accounting firm in February 2024 to conduct these audits, they have not been completed as of January 2025.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Authority ensure that annual audits of its financial statements are conducted as required by State law and that these audits are completed timely.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-06-30"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Authority agrees with the finding and recommendation. They stated that FY22-23 audits are nearing completion and FY24/FY25 audits will be put out to bid soon to complete before the end of FY26.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter. Audit period explicitly stated in opening paragraph. Finding marked as repeat in recommendation and status section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:53:51.002366",
+  "content_hash": "bf6e00f5c8a2650d4b6094cb41e497b0c5a2b8ef",
+  "duplicate_of": null
+}

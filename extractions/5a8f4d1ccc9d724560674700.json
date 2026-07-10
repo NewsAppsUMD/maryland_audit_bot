@@ -1,0 +1,59 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Transportation",
+    "parent_department": "Maryland Department of Transportation",
+    "report_date": "2014-03-01",
+    "audit_period_start": "2012-06-01",
+    "audit_period_end": "2013-08-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Logging and Monitoring of Security-Related Events for Critical Databases Were Not Sufficient",
+        "description": "Logging and monitoring were insufficient to identify unauthorized database modifications. Critical privileges were not logged, activity was not investigated, and documentation was missing. Changes by authorized accounts modifying production tables were not reviewed.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that OTTS a. log the use of all critical system privileges and investigate the use of insert, update, and delete activity for the aforementioned database; b. properly investigate any unusual security events associated with this database, document these investigations, and retain the resultant documentation for future reference; and c. review all direct modifications to the aforementioned TBU critical production database tables.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-06-30"
+      },
+      {
+        "number": 2,
+        "title": "Monitoring and Access Controls Over Critical Firewalls Were Not Sufficient to Ensure the Network Was Properly Secured",
+        "description": "Monitoring and access controls over firewalls were insufficient. Firewall configuration changes and failed login attempts were not monitored for several firewalls. Remote administrative access was not adequately restricted.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that OTTS a. review all configuration changes (including changes to firewall rules) for its critical firewalls, b. monitor failed firewall login attempts for its critical firewalls, and c. limit remote administrative connections to the data center's redundant firewalls to network administrators and network management servers.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Intrusion Detection and Prevention System Was Not Properly Used or Protected",
+        "description": "The intrusion detection and prevention system (IDPS) was not properly used or protected. Coverage did not exist for numerous untrusted third-party connections. Remote access to the IDPS module was not restricted, and password controls were not enforced per policy.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that OTTS a. perform a documented review and assessment of its network security risks, identify how IDPS coverage should be best applied to the MDOT network, and implement such coverage for all critical portions of the MDOT network; b. restrict remote access to the network-based IDPS module to only those users requiring such access; and c. implement password controls over the IDPS module that comply with the aforementioned DoIT's Information Security Policy requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-06-30"
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MDOT concurs with all findings and recommendations. Some were already implemented, while others are in progress or scheduled for initiation by June 30, 2014.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period derived from fieldwork dates (June 2012 to August 2013). Report date based on header 'March 2014'. Prior findings count based on preceding audit report dated April 24, 2009."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:10:27.063392",
+  "content_hash": "23deef9ee5ea97dfa753531172e4ccb9fa2ff0d5",
+  "duplicate_of": "5a8f4d1ccc9d7245606746f8"
+}

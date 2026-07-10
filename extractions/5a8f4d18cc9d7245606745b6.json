@@ -1,0 +1,88 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2009-04-09",
+    "audit_period_start": "2005-11-01",
+    "audit_period_end": "2008-09-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls Over Cash Receipts Were Not Sufficient",
+        "description": "Controls over the Institutions\u2019 cash receipts, which totaled approximately $1.8 million in fiscal year 2008, were not sufficient because cash receipts were not always restrictively endorsed and recorded immediately upon receipt, and deposit verification procedures had not been established to ensure that all collections were subsequently deposited.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "cash receipts in fiscal year 2008"
+          }
+        ],
+        "recommendation": "a. that all cash receipts be restrictively endorsed and recorded upon receipt; and b. that the initial record of all cash receipts be verified to validated bank deposit documentation by an employee independent of the collection and deposit functions, and that this verification be documented.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Adequate Controls Were Not Established Over Corporate Purchasing Cards",
+        "description": "The Institutions lacked adequate controls over its corporate purchasing cards because the employee who ordered new cards also received them from the Department, and finance office personnel did not document reviews of cardholder activity logs as required for 61 of 64 tested transactions totaling approximately $81,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 81000.0,
+            "context": "test of purchasing card transactions"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "purchasing card expenditures in fiscal year 2008"
+          }
+        ],
+        "recommendation": "a. that the employee who requests purchasing cards from the Department not also receive the cards, and b. that the reviews of the cardholder activity logs by the fiscal officer or designee are documented.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Employee time records were not always signed and a duplicate payment was made to a former employee",
+        "description": "Employee time records were frequently not signed by the applicable employee, with 17 of 41 reviewed not signed as required. Additionally, a duplicate payment of $15,855 was made to a retired employee for unused leave during fiscal year 2008 payroll totaling approximately $57 million.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 57000000.0,
+            "context": "payroll during fiscal year 2008"
+          },
+          {
+            "amount": 102400.0,
+            "context": "test of payroll adjustments"
+          },
+          {
+            "amount": 15855.0,
+            "context": "duplicate payment to a retired employee"
+          }
+        ],
+        "recommendation": "a. that all time records be signed by the applicable employee, b. that the existing procedures be reinforced to ensure that future duplicate payments are not made, and c. that the Institutions recover any overpaid amounts regarding the aforementioned retired employee.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the Department of Public Safety and Correctional Services \u2013 Office of the Secretary\u2019s response is included as an appendix to this report, but specific agreement or completion dates are not detailed in the provided text.",
+    "total_dollar_impact": 15855.0,
+    "extraction_notes": "Agency response details (Agree/Disagree/Dates) were not present in the provided text as they are located in an appendix not included in the excerpt."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 1800000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:34:08.219399",
+  "content_hash": "bdbea06f85fb3320821828c1e24bcc96ada545e9",
+  "duplicate_of": null
+}

@@ -1,0 +1,195 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": "2011-10-01",
+    "audit_period_start": "2007-09-01",
+    "audit_period_end": "2010-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Sensitive information relating to unemployment insurance claims was not adequately protected.",
+        "description": "Sensitive personal and financial information for unemployment insurance claims was not adequately protected due to lack of encryption in transit/storage, inadequate access restrictions, and insufficient server protection. Files containing sensitive data were transferred in clear text and stored without encryption. Access controls were improper allowing unnecessary read access between service providers.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Encrypt unemployment insurance claim records in transit and on the DLLR network; allow each payroll service provider access to only its information; restrict access to the file transfer server; locate the server behind the firewall.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-12-01"
+      },
+      {
+        "number": 2,
+        "title": "Proper security measures were not established over the electronic licensing application.",
+        "description": "Security measures for the electronic licensing application were inadequate including poor controls over credit card service provider accounts and storage of credentials in plain text. Credit transactions lacked proper limits and personal information was stored insecurely on log files. Password settings did not comply with security policy requirements.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Use separate credit card service provider accounts; restrict account use to authorized addresses; encrypt or remove credentials from web server; limit credit amounts and require credits less than previous transactions; encrypt or remove log files containing personal information; limit web server account access; ensure password settings comply with policy.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The electronic licensing system was not properly monitored or protected from external threats.",
+        "description": "The electronic licensing system lacked proper monitoring and protection due to infrequent log reviews, absence of web application firewalls, and failure to investigate suspicious traffic. Web application security tools were not used to identify vulnerabilities.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Perform weekly documented reviews of web server logs; pursue unusual events; enhance logging capabilities; assess costs of web application firewall; utilize security tools to identify vulnerabilities; consider forensic expert for past suspicious traffic.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Adequate controls had not been established over a critical server and database.",
+        "description": "Controls over the professional licensing application server and database were insufficient including weak access controls, default passwords, conflicting duties, and unlogged security events. Documentation for reviews of logged events did not exist.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Comply with DoIT's Information Security Policy and establish adequate access, account, password, and monitoring controls over the server and database.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Sufficient controls were not established over certain collections.",
+        "description": "Controls over cash receipts at OBFS and DWDAL were inadequate including lack of restrictive endorsement, delayed recording and deposit, and insufficient deposit verifications. Segregation of duties issues existed regarding fee waivers.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "total collections at OBFS and DWDAL during fiscal year 2010"
+          },
+          {
+            "amount": 761000.0,
+            "context": "OBFS cash receipts"
+          },
+          {
+            "amount": 459000.0,
+            "context": "DWDAL cash receipts"
+          },
+          {
+            "amount": 21000.0,
+            "context": "test of 10 days of collections"
+          },
+          {
+            "amount": 1130.0,
+            "context": "receipts not deposited until five months after being recorded"
+          }
+        ],
+        "recommendation": "Restrictively endorse checks and money orders immediately; record collections immediately and deposit within one working day; perform documented deposit verifications by independent employees; remove waiver capability from cash receipt employees.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Controls over processing cash receipts using remote deposit need improvement.",
+        "description": "Remote deposit controls needed improvement as cash receipts were not safeguarded after scanning and not destroyed. Formal written procedures outlining proper controls were not developed by DLLR.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Comply with State Treasurer's Policy on Remote Deposit Services; establish written procedures consistent with the policy for each division.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Reconciliations of electronic licensing collections with amounts allocated to boards or recorded were not adequate.",
+        "description": "Electronic licensing receipts were not properly reconciled to amounts allocated or recorded. An unexplained difference existed between collected and allocated amounts for DOPL, and DFR revenues were not reconciled to State records.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9000000.0,
+            "context": "DOPL electronic licensing receipts collected during fiscal year 2010"
+          },
+          {
+            "amount": 9200000.0,
+            "context": "allocated to DOPL boards"
+          },
+          {
+            "amount": 14100000.0,
+            "context": "DFR electronic licensing revenue recorded September 2007 to June 2010"
+          }
+        ],
+        "recommendation": "Maintain documentation for DOPL reconciliation; perform monthly reconciliations of DFR revenues; investigate the difference and take corrective action.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Controls over personnel and payroll transactions were not adequate.",
+        "description": "Personnel and payroll controls were inadequate as approvers did not review supporting documentation. DLLR failed to investigate employees appearing on multiple State payrolls and some employees could approve their own timesheets.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 122800000.0,
+            "context": "payroll expenditures during fiscal year 2010"
+          },
+          {
+            "amount": 599000.0,
+            "context": "payments made by DLLR to employees on multiple State payrolls"
+          },
+          {
+            "amount": 545200.0,
+            "context": "payments made by other state agencies to these employees"
+          }
+        ],
+        "recommendation": "Ensure approvers review supporting documentation; investigate all employees on multiple State payrolls; ensure individuals cannot prepare and approve their own timesheets; ensure transactions processed by full access employees are independently reviewed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Proper controls were not established over DLLR's equipment.",
+        "description": "Equipment controls and record keeping were inadequate with no separation of duties between custody and record keeping. Physical inventory procedures did not comply with DGS manual requirements, resulting in potentially missing items.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18300000.0,
+            "context": "book value of DLLR's equipment as of June 30, 2010"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "equipment in four test locations"
+          },
+          {
+            "amount": 174800.0,
+            "context": "equipment items not inventoried in the past year indicating items may be missing"
+          },
+          {
+            "amount": 806300.0,
+            "context": "equipment at one location with no inventory count sheets available"
+          }
+        ],
+        "recommendation": "Establish segregation of duties; establish and maintain an independent control account; reconcile physical inventory counts to detail records; maintain support documentation for inventories; investigate discrepancies and report missing items.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency concurred with all findings and recommendations. Responses indicated that DLLR would implement specific security measures, update procedures to comply with State Treasurer's policy, improve reconciliation processes, and enhance personnel controls.",
+    "total_dollar_impact": 973800.0,
+    "extraction_notes": "Audit period covers two divisions with different start dates; earliest start date used. Total dollar impact includes questioned revenue difference ($200k), potential overpayments on multiple payrolls ($599k), and missing equipment value ($174.8k)."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:25:19.393460",
+  "content_hash": "ee85d2f3e3f080fe739f95b775c54c8e87e9044b",
+  "duplicate_of": null
+}

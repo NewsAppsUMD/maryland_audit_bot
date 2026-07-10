@@ -1,0 +1,286 @@
+{
+  "extraction": {
+    "agency_name": "Somerset County Public Schools",
+    "parent_department": null,
+    "report_date": "2010-03-25",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls Over Cash Receipts Received at the Central Business Office Need to Be Improved",
+        "description": "Receipts received by the central business office totaling $17.8 million during fiscal year 2008 were not properly controlled; collections were not recorded and checks were not restrictively endorsed until up to a day after initial receipt, cash receipts were stored in an unattended room, and verifications that recorded collections were subsequently deposited were not performed.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 17800000.0,
+            "context": "cash receipts received at the central business office during fiscal year 2008"
+          }
+        ],
+        "recommendation": "SCPS should ensure that all receipts are immediately recorded and safeguarded until deposit, and that checks are restrictively endorsed upon receipt. In addition, an employee independent of the cash receipts process should verify that all recorded receipts were deposited.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "SCPS Should Document Its Efforts to Identify All Students Eligible for Medicaid-Subsidized Services",
+        "description": "SCPS has a process in place for identifying students eligible for Medicaid-subsidized services but the related comparisons were not documented. Fiscal year 2008 revenue for Medicaid-subsidized services totaled $333,182.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 333182.0,
+            "context": "fiscal year 2008 revenue for Medicaid-subsidized services"
+          },
+          {
+            "amount": 98564.0,
+            "context": "federal E-Rate funding received for fiscal year 2008"
+          }
+        ],
+        "recommendation": "SCPS should document its efforts to identify all students eligible for Medicaid-subsidized services.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "SCPS Should Improve Its Procurement Policies and Procedures",
+        "description": "SCPS did not have policies governing the procurement of services or sole source procurements, nor Board approval for contracts. Controls over invoice processing were inadequate with incompatible functions granted to employees. Non-payroll disbursements totaled $18 million; 3 disbursements totaling $208,600 were not competitively bid.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18000000.0,
+            "context": "non-payroll disbursements during fiscal year 2008"
+          },
+          {
+            "amount": 208600.0,
+            "context": "disbursements not competitively bid totaling $25,400 heating oil, $19,600 playground equipment, and $163,600 computer equipment"
+          },
+          {
+            "amount": 311000.0,
+            "context": "total paid to fuel vendor during fiscal year 2008 without verifying quantity received"
+          }
+        ],
+        "recommendation": "SCPS should amend its existing policies to require Board approval for all procurements over a specified amount and address all categories of purchases. SCPS should improve controls over invoice processing by segregating incompatible functions. SCPS should obtain goods through a competitive procurement process in accordance with its policies.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Human Resources and Payroll Internal Controls Need to Be Strengthened",
+        "description": "SCPS did not establish adequate internal control over automated payroll systems; one employee had unrestricted access to critical functions. Workforce planning was implemented for instructional positions but excluded non-instructional positions.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 30000000.0,
+            "context": "salary, wage, and benefit costs during fiscal year 2008"
+          }
+        ],
+        "recommendation": "SCPS should ensure that payroll functions are adequately separated and critical system access capabilities granted in accordance with those functions. SCPS should expand its workforce planning to include key non-instructional positions.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Existing Controls and Procedures Over Equipment Should Be Improved",
+        "description": "SCPS policies did not address periodic physical inventories or accountability over sensitive items. Textbook procedures need enhancement; textbook expenditures totaled approximately $689,000 during fiscal year 2008.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5900000.0,
+            "context": "undepreciated cost of capital equipment as of June 30, 2008"
+          },
+          {
+            "amount": 689000.0,
+            "context": "textbook expenditures during fiscal year 2008"
+          }
+        ],
+        "recommendation": "SCPS should develop comprehensive written policies and procedures to govern the recording, accounting, and safeguarding of equipment. SCPS should develop formal policies and procedures for accounting and controlling its textbooks.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "SCPS Should Develop a Comprehensive Disaster Recovery Plan",
+        "description": "SCPS needs to strengthen policies over passwords and data back-up. The server room was controlled by a master key provided to 44 individuals who did not need access; fire prevention devices were missing.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SCPS should implement appropriate security measures to safeguard its applications and data systems. SCPS should develop and implement a comprehensive disaster recovery plan.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Certain Processes Should Be Implemented to Increase the Effectiveness of Maintenance and Custodial Operations",
+        "description": "SCPS had not implemented a performance measurement system for maintenance operations. Bids were not obtained for facility-related purchases totaling $52,168.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 24300000.0,
+            "context": "estimated cost of major renovations over the next six years in fiscal year 2010 CIP"
+          },
+          {
+            "amount": 52168.0,
+            "context": "purchases for which no bids or quotes were received totaling $26,998 bleachers and $25,170 masonry work"
+          }
+        ],
+        "recommendation": "SCPS should develop a performance measurement system that establishes standards and expectations for maintenance. SCPS should develop a formal process to identify, prioritize, plan, and report all deferred maintenance. SCPS should comply with its procurement policy by obtaining bids for facility-related purchases.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Bus Contractor Rates Paid Were Not Based on Documented Criteria",
+        "description": "SCPS did not have a written policy establishing criteria for bus contractor payment rates. The methodology used to reimburse contractors may result in paying $1.4 million more than necessary over the life of buses since 1995.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000.0,
+            "context": "estimated overpayment to bus contractors over the life of new buses since 1995"
+          },
+          {
+            "amount": 34429.0,
+            "context": "total fuel payment overpayments for November 2008 through February 2009"
+          }
+        ],
+        "recommendation": "SCPS should establish a written policy on how components of the bus contractor table of rates are to be determined. SCPS should analyze bus contractors pay to determine whether rates are reasonable and necessary. SCPS should adhere to the Board approved policy for fuel reimbursements.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Internal Controls Over Purchasing of Food Supplies Need to Be Improved",
+        "description": "Supervisory personnel did not grant advance approval for purchases on 32 invoices totaling $23,157. No bids were obtained for purchases from 3 vendors totaling $229,178.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 25716.0,
+            "context": "invoices tested applicable to seven vendors"
+          },
+          {
+            "amount": 23157.0,
+            "context": "invoices without supervisory advance approval"
+          },
+          {
+            "amount": 229178.0,
+            "context": "purchases from three vendors for which no bids were obtained or formal contracts existed during fiscal year 2008"
+          }
+        ],
+        "recommendation": "SCPS should improve controls over the procurement of food supplies and develop performance data. SCPS should account for all costs of operations when determining self sufficiency.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "The Board Should Take Additional Steps to Assist in Governance Of SCPS",
+        "description": "To enhance oversight, the Board should consider establishing an internal audit function and a confidential reporting process. The Board should also adopt comprehensive performance measures.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board should consider establishing an internal audit function and a confidential reporting process. The Board should also adopt comprehensive performance measures in key operational areas.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "SCPS Should Take Steps to Verify the Propriety of Health Care Costs",
+        "description": "SCPS has appropriate practices in place for cash and risk management but should establish sufficient controls to verify the propriety of its health care costs.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SCPS should establish sufficient controls to verify the propriety of its health care costs.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 20,
+        "title": "Food Services Operations",
+        "description": "SCPS calculated meals per labor hour but did not reflect activity associated with a la carte sales. There was no indication that results were used to improve operations, and SCPS lacked comprehensive performance and cost-efficiency measures such as cost per meal.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SCPS should improve controls over its purchase of food supplies by requiring advance approval by independent supervisory personnel for purchases and competitive bids in accordance with SCPS policies, and by entering into formal contracts with food suppliers, when applicable. In addition, duties should be properly segregated over the procurement and custody of food service items.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 21,
+        "title": "Food Services Operations",
+        "description": "SCPS did not have other comprehensive performance and cost-efficiency measures (such as cost per meal and free or reduced price meal participation) in place to provide management with information to evaluate the entire food service program.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SCPS should identify all food service department costs, including utility and custodial costs, to properly reflect the department\u2019s full operating costs. In addition, SCPS should establish a performance measurement system to assist in monitoring the efficiency of food service operations.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 22,
+        "title": "School Board Operations and Oversight",
+        "description": "The Board has adequate policies but should consider establishing an internal audit function and a confidential hotline. Formal performance measures should be implemented to assist the Board in its oversight function. SCPS did not ensure that all persons subject to financial disclosure requirements filed statements; 2 of 12 required for 2008 had not done so.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board should enhance its oversight of SCPS operations by considering the establishment of an internal audit function and a hotline for the confidential reporting of operational issues and suspected fraud, waste, and mismanagement. In addition, the Board should adopt comprehensive performance measures in key operational areas; such data should be periodically reviewed by the Board. Furthermore, the Board should ensure that all required financial disclosure statements are filed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 23,
+        "title": "Other Financial Controls",
+        "description": "SCPS self-insures health benefits through ESMEC Health Alliance. SCPS made payments totaling $4.8 million for fiscal year 2008 and was eligible for a refund of $47,000. However, SCPS did not have a process in place to verify the authenticity of program participants and their listed dependents.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4800000.0,
+            "context": "payments totaling"
+          },
+          {
+            "amount": 47000.0,
+            "context": "refund of"
+          }
+        ],
+        "recommendation": "SCPS should institute processes to verify the authenticity of health care program participants and their listed dependents.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "SCPS\u2019 response to this audit is included as an appendix to this report.",
+    "total_dollar_impact": 1695197.0,
+    "extraction_notes": "Findings extracted based on Chapters corresponding to Executive Summary findings areas. Dollar amounts converted from text (e.g., $1.4 million to 1400000). No explicit 'Finding N' headers found; Chapters used as Finding units."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 15, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T20:55:49.094255",
+  "content_hash": "4d49abe89365e4fa383c7e8600351613b7f1755b",
+  "duplicate_of": null
+}

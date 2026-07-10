@@ -1,0 +1,157 @@
+{
+  "extraction": {
+    "agency_name": "Department of the Environment",
+    "parent_department": "Department of the Environment",
+    "report_date": "2015-01-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2013-07-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Procedures to ensure properties were registered and related fees were paid were not sufficient.",
+        "description": "MDE did not establish formal procedures to identify owners who failed to renew property registrations or pay required fees. Follow-up actions such as sending periodic letters and assessing penalties were insufficient for many outstanding cases.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2800000.0,
+            "context": "registration and renewal fee revenue"
+          },
+          {
+            "amount": 504000.0,
+            "context": "registration fees collected from mass mailing"
+          },
+          {
+            "amount": 143775.0,
+            "context": "estimated civil fees that could have been assessed"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "administrative penalties that could have been assessed"
+          },
+          {
+            "amount": 22000.0,
+            "context": "civil penalties actually assessed in fiscal year 2013"
+          }
+        ],
+        "recommendation": "MDE should formalize procedures to identify and pursue property owners who fail to register affected lead properties and pay the annual registration fee, investigate owners to determine if fees are owed, establish a policy for enforcement referrals and penalties, and track cases referred to enforcement.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MDE did not have a process to ensure that owners with affected properties had a required inspection certificate.",
+        "description": "MDE did not compare registered property records to certification records to identify missing certificates. A comparison disclosed 9,967 owners with registered properties lacking corresponding inspection certificates on file.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MDE should establish procedures to ensure that owners with affected properties have an inspection certificate when required and investigate the 9,967 owners without recorded certificates.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MDE\u2019s guidelines and agreements with local jurisdictions for the Septic System Program did not require critical documentation to be submitted and certain monitoring processes were not sufficient.",
+        "description": "MDE's guidelines did not require submission of inspection reports with reimbursement requests. Additionally, MDE did not always obtain adequate bid documentation from local jurisdictions when competitive procurement was required.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 11400000.0,
+            "context": "payments to local jurisdictions for Septic System Program"
+          },
+          {
+            "amount": 621000.0,
+            "context": "large grants reviewed in fiscal years 2012 and 2013"
+          },
+          {
+            "amount": 300000.0,
+            "context": "awards where inspection reports were not included"
+          },
+          {
+            "amount": 388000.0,
+            "context": "awards requiring competitive procurement"
+          },
+          {
+            "amount": 312400.0,
+            "context": "awards where bids lacked signatures or were incomplete"
+          }
+        ],
+        "recommendation": "MDE should ensure local jurisdictions are administering the program in accordance with requirements by establishing requirements for inspection reports and obtaining bid documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "MDE had not performed documented verifications to ensure that all annual operation and maintenance reports were submitted by service providers.",
+        "description": "The internal tracking database for O&M reports was incomplete, often failing to record receipt of reports. MDE did not always retain related reports or ensure dates were accurately recorded.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 900.0,
+            "context": "O&M fee range for five-year period"
+          },
+          {
+            "amount": 2500.0,
+            "context": "O&M fee range for five-year period"
+          },
+          {
+            "amount": 11400000.0,
+            "context": "funding provided for septic installations in fiscal year 2013"
+          }
+        ],
+        "recommendation": "MDE should ensure the database is accurately maintained by recording all O&M reports and retaining supporting reports, and establish a documented process to follow up with service providers who do not submit required reports.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06-30"
+      },
+      {
+        "number": 5,
+        "title": "Inspections of certain construction sites were not being performed on average of once every two weeks, as required by State regulations.",
+        "description": "MDE did not perform on-site inspections for compliance with erosion and sediment control plans at the required frequency due to insufficient inspectors. MDE prioritizes inspections based on complaints and site size.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 812000.0,
+            "context": "collected from administrative and civil penalties in fiscal year 2013"
+          }
+        ],
+        "recommendation": "MDE should take action to comply with State regulations regarding inspections. If resources are insufficient, MDE should seek additional resources or pursue modifying State regulations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Monitoring, access, and update controls over the TEMPO and PPDW databases were not sufficient.",
+        "description": "There was no documentation supporting weekly reviews of security reports. Databases were running unsupported versions with potential vulnerabilities, default roles had unnecessary access, and an insecure service was enabled.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MDE should document reviews of security reports, ensure databases are supported and current, limit default role access, and delete the insecure service on the TEMPO database.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31"
+      }
+    ],
+    "prior_findings_count": 10,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MDE generally concurs with the recommendations but partially concurs with findings 1 and 2 regarding repeat status and database comparison methodology. Specific completion dates were provided for recommendations in finding 4 (January/June 2015) and finding 6 (2015).",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'January 2015'. Prior findings count based on preceding report containing ten findings. Dollar amounts converted to integers."
+  },
+  "validation_flags": [
+    "repeat_count_mismatch: extracted 2, asterisk markers 1"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:48:29.797782",
+  "content_hash": "2378d260ec7ef75d578791e01d2e2d64feb36fd9",
+  "duplicate_of": "5a8f4d0fcc9d7245606743e8"
+}

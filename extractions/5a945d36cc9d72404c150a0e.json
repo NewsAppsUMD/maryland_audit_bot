@@ -1,0 +1,339 @@
+{
+  "extraction": {
+    "agency_name": "Dorchester County Public Schools",
+    "parent_department": "Dorchester County Public Schools",
+    "report_date": "2017-11-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Adequate accountability and control over cash receipts had not been established. For example, collections were not recorded upon receipt and there was no independent verification that certain collections were deposited.",
+        "description": "DCPS did not establish adequate accountability and control over cash receipts totaling $3.5 million in fiscal year 2016. Employees did not record or restrictively endorse checks immediately upon receipt, and there was no independent verification to ensure all collections received were properly deposited.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3500000.0,
+            "context": "cash receipts in fiscal year 2016"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "billings prepared by one employee in fiscal year 2016"
+          }
+        ],
+        "recommendation": "We recommend that DCPS a. immediately record and restrictively endorse all checks; b. independently verify, through the comparison of initial receipt and validated deposit documents, that all collections were subsequently deposited; and c. ensure that accounts receivable records are maintained by individuals independent of the cash function; and that critical transactions are subject to supervisory review and approval, at least on a test basis.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DCPS did not monitor and restrict users\u2019 capabilities on its automated procurement and accounts payable system and no compensating electronic or manual controls were established over employees with incompatible capabilities.",
+        "description": "DCPS did not adequately restrict users' capabilities on its automated procurement and accounts payable system. Six employees were assigned system capabilities that allowed them to perform unnecessary and incompatible functions, including adding vendors, entering invoices, and printing checks.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS strengthen its control over the automated procurement and accounts payable system and related processes. Specifically, we recommend that DCPS take appropriate action to a. restrict users\u2019 capabilities to eliminate the ability of users to perform incompatible duties (repeat), b. restrict access to the automated procurement and accounts payable system to individuals whose job duties require such access (repeat), c. restrict access to check stock to individuals who are independent of the check processing function (repeat), and d. establish a process to ensure that a proper and independent review of disbursement checks is performed (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DCPS\u2019 procurement policies were not sufficiently comprehensive, as they did not address the competitive solicitation of services, justifications for sole source procurements, or intergovernmental cooperative purchasing agreement contract documentation standards.",
+        "description": "DCPS formal procurement policies lacked requirements for competitive solicitation of services, sole source justifications, and ICPA contract documentation. Testing disclosed 7 contracts totaling $1.4 million lacked written benefit analysis and 2 contracts totaling $616,000 were not competitively bid.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000.0,
+            "context": "contracts procured through ICPAs lacking written benefit analysis"
+          },
+          {
+            "amount": 616000.0,
+            "context": "contracts not competitively bid and lacked sole source justification"
+          }
+        ],
+        "recommendation": "We recommend DCPS enhance its existing procurement policy to a. address all categories of goods and services purchased, including the procurement methods to be used (repeat); b. require documented justifications be prepared for all sole-source awards (repeat); and c. establish standards for the use of ICPAs that mandate the preparation of a benefit analysis, as required by law, and the maintenance of ICPA agreements on file.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DCPS did not always comply with certain State procurement laws, justify the use of sole source procurements, or verify amounts billed with the related contract terms.",
+        "description": "Testing disclosed that DCPS did not publish bids on eMaryland Marketplace for seven procurements totaling $46 million. Additionally, contracts lacked written benefit analysis, vendor billings were not verified, and services were not competitively bid or supported by sole source justification documentation.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 46000000.0,
+            "context": "contract awards not published on eMaryland Marketplace"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "contracts awarded based on ICPAs lacking written documentation of benefits"
+          },
+          {
+            "amount": 616000.0,
+            "context": "services not competitively bid or supported by sole source justification"
+          }
+        ],
+        "recommendation": "We recommend DCPS a. comply with State procurement law by using eMaryland Marketplace for contract procurement solicitations or awards and before deciding to participate in an ICPA, prepare written documentation of the benefits of utilizing the ICPA for Board review; b. maintain contract pricing information on file, including the applicable contracts, and verify the accuracy of prices on vendor billings; c. procure contracts/purchases of over $25,000 through a competitive bidding process, or document the justification of any sole source procurements; and d. execute written contracts for services procured and expected to exceed $25,000 that include sufficient specificity.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Human resources (HR) and payroll system user capabilities were not adequately monitored and restricted. In addition, independent documented reviews of personnel and payroll transactions were not performed.",
+        "description": "User capabilities for HR and payroll functions were not adequately monitored or restricted, with some employees assigned incompatible access. Independent documented reviews of personnel and payroll transactions were not performed, resulting in an overpayment of $8,025 identified during testing.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8025.0,
+            "context": "employee overpayment in September 2012"
+          }
+        ],
+        "recommendation": "We recommend that DCPS a. perform a periodic documented independent review of user capabilities to ensure access is properly granted, b. limit access to critical functions to only those employees who require such capabilities to perform their assigned job duties (repeat), c. eliminate access to and segregate incompatible system functions (repeat), d. perform a periodic documented independent review of personnel and payroll transactions processed using supporting documentation (repeat), and e. take appropriate actions to recover the $8,025 overpayment.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Certain supervisory reviews of recordkeeping transactions were not performed or documented, equipment additions were not always properly recorded, and deletions to the records were not always properly authorized.",
+        "description": "Supervisory review and approval of inventory transactions was not required or infrequently performed. Testing disclosed that 9 items totaling $14,800 lacked proper disposal forms and 12 items totaling $13,296 were not recorded in the records as of January 2017.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 14800.0,
+            "context": "technology items removed without proper disposal forms"
+          },
+          {
+            "amount": 13296.0,
+            "context": "items not recorded in inventory records as of January 2017"
+          }
+        ],
+        "recommendation": "We recommend that DCPS ensure a. postings to the inventory records (such as, disposals and adjustments) are properly supported and approved by independent supervisory personnel, at least on a test basis; b. equipment deletions are accompanied by a properly approved disposal form; and c. inventory records are properly maintained by recording all applicable equipment purchases.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DCPS lacked assurance that adequate information technology security and operational controls existed over its financial system that was hosted, operated, and maintained by a service provider.",
+        "description": "DCPS contract with the service provider did not adequately protect against IT security risks, including lacking liability disclaimers, third-party independent reviews (SOC reports), or data contamination protections. DCPS lacked assurance that adequate security controls existed over its data.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS a. ensure that the service provider contract excludes blanket disclaimers of liability on behalf of the service provider (repeat); b. ensure that the service provider contract includes provisions that address the noted security and operational risks, including requiring the service provider to regularly obtain SOC 2 Type 2 reviews pertaining to the service provider\u2019s information technology security and operational controls (repeat); and c. obtain and review copies of these SOC 2 Type 2 reports from service providers.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "The student information system database was generally not configured to log security activity. In addition, password controls over that database and the student information and finance applications were not adequate.",
+        "description": "Monitoring controls over the student information system database were insufficient as it was not configured to log all critical security events. Password controls did not meet minimum recommended settings for aging, length, and complexity.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS implement best practices prescribed by the State of Maryland Information Security Policy by a. setting the student information database to log all critical security related events, regularly review these logs, document these reviews, and retain this documentation for future reference (repeat); and b. establishing controls related to password aging, length, and complexity.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "DCPS did not have a complete information technology Disaster Recovery Plan for recovering computer operations.",
+        "description": "DCPS lacked a complete IT Disaster Recovery Plan (DRP) that addressed minimum requirements such as alternate processing sites and hardware listings. The DRP had not been tested and was not stored at an off-site location.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS a. develop and implement a comprehensive DRP that is in accordance with the aforementioned Information Technology Disaster Recovery Guidelines (repeat); and b. periodically test the DRP, document the testing, and retain the documentation for future reference.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "The DCPS computer network was not adequately secured to assist in the detection/prevention of potential security breaches and attacks, and restrict access to the entire network.",
+        "description": "The DCPS computer network lacked intrusion detection prevention system coverage. All students had unrestricted wireless network level access to the entire network, and former faculty/staff retained access due to weak authentication methods.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS a. perform a documented review and assessment of its network security risks and identify how network based IDPS and HIPS coverage should be best applied to its network; b. use network based, individual authentication for wireless connections made by its faculty, staff, and students; and c. utilize access control lists on its network devices to limit authenticated wireless users\u2019 access.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "DCPS\u2019 numerous active computers were at risk, as DCPS did not verify that malware protection software was installed and operational and that administrative rights were properly limited.",
+        "description": "Procedures for securing 3,945 active computers were insufficient. DCPS could not verify malware protection on all computers, with only 598 identified as having operational software. Local administrative rights were inappropriately assigned to 9 users.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS a. ensure that all managed computers are running current, operational versions of the malware protection software used by DCPS; and b. limit the assignment of local administrative rights on DCPS workstations to information technology network and system administrators.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "DCPS executed a 20-year power purchasing agreement with a solar provider without a competitive process or a formal analysis to ensure it received the most favorable financial terms.",
+        "description": "DCPS executed a PPA for an estimated cost of $2.4 million without a competitive procurement process. Additional costs equate to approximately $8,300 for the first year and $191,000 over the 20-year agreement due to higher base rates compared to other county governments.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2400000.0,
+            "context": "estimated cost of the 20-year power purchasing agreement"
+          },
+          {
+            "amount": 8300.0,
+            "context": "additional costs to DCPS for the first year due to rate difference"
+          },
+          {
+            "amount": 191000.0,
+            "context": "additional costs over the entire 20-year agreement due to rate difference"
+          }
+        ],
+        "recommendation": "We recommend that DCPS a. ensure that the procurement method (competitive procurement or intergovernmental agreement) chosen for energy contracts provides the most favorable financial outcome for DCPS, and b. appropriately document the use of intergovernmental agreements and comply with all related requirements in State law.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "DCPS did not establish comprehensive bus routing procedures and did not periodically perform a system-wide analysis of bus routes and the related bus capacities to maximize the efficiency of its bus routes.",
+        "description": "Bus routing procedures were not comprehensive, lacking ridership goals or ride time limits. DCPS was unable to use routing software effectively due to technical difficulties, resulting in 55 percent of routes having ridership below 75 percent capacity.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS take steps to determine if buses can be used more efficiently. Specifically, we recommend that DCPS a. develop formal, comprehensive written procedures that include specific bus ridership goals and student ride times (repeat); b. take appropriate action to timely complete the recording of bus route data in its existing routing software; and c. use its automated bus routing software and periodically perform a system-wide analysis.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "DCPS had not established a formal methodology to calculate its per vehicle allotment rate, and payments to bus contractors did not reflect market conditions, use actual costs, or consider available fuel credits, resulting in higher payments than necessary for student transportation services.",
+        "description": "DCPS paid approximately $3.7 million more over the 15-year life of buses due to PVA rates not based on reasonable ROI. Payments were also higher by $255,000 for maintenance costs and $199,000-$182,000 for fuel taxes and MPG rate issues.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3700000.0,
+            "context": "additional PVA payments over the 15-year life of buses"
+          },
+          {
+            "amount": 255000.0,
+            "context": "excess maintenance costs paid in fiscal year 2016"
+          },
+          {
+            "amount": 199000.0,
+            "context": "potential savings if federal fuel excise taxes were excluded (fiscal years 2011-2016)"
+          },
+          {
+            "amount": 182000.0,
+            "context": "potential savings if national average mpg rate had been used (fiscal years 2014-2016)"
+          }
+        ],
+        "recommendation": "We recommend that DCPS a. use documented actual costs and reasonable market investment rates as a basis for establishing contractor rates for the annual PVA (repeat), b. use actual bus operating costs or develop supportable cost estimates as the basis for establishing reasonable contractor rates for per mile maintenance costs (repeat), c. exclude fuel excise taxes from contractor payments, and d. document the basis for the mpg used in reimbursing bus contractors for fuel usage and consider adopting the industry standard (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "DCPS did not adequately ensure the accuracy of contractor reported manifest mileage, which was used to compute certain payments to bus contractors.",
+        "description": "DCPS did not verify the accuracy of contractor reported mileage against mapping software. Testing disclosed that DCPS potentially overpaid for mileage by a total of $2,700 in fiscal year 2016.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2700.0,
+            "context": "potential overpayment for mileage in fiscal year 2016"
+          }
+        ],
+        "recommendation": "We recommend that DCPS a. independently verify bus contractor\u2019s manifests to ensure that the payments to be made to the contractors accurately reflect the actual bus services provided; b. document the verification process; and c. review past payments and pursue discrepancies, including those we identified.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "Internal controls over payments to bus contractors were not adequate, as there was no independent review and approval of payment calculations performed by one individual.",
+        "description": "Payments for transportation services were not independently verified. One employee entered data into a spreadsheet used for monthly payments without independent supervisory verification prior to or after processing.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS ensure that an employee independent of the payment processing verifies the accuracy and propriety of bus contractor payments, by performing a documented comparison of the amounts paid to supporting documentation.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "Required financial disclosure statements were not always filed.",
+        "description": "DCPS did not ensure that financial disclosure statements were filed by Board members and certain employees as required. Testing disclosed that 38 individuals did not file the form as required for calendar year 2015.",
+        "category": "grants_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS actively enforce its ethics policy to ensure that all required disclosure statements are filed as required (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "Dependent eligibility documentation was not always obtained as required by DCPS policy.",
+        "description": "DCPS did not always obtain dependent eligibility documentation for health care program participants. Testing of nine employees disclosed that four had not provided the required supporting documentation for their claimed dependents.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4100.0,
+            "context": "average cost per dependent added to DCPS plan"
+          }
+        ],
+        "recommendation": "We recommend that DCPS ensure the eligibility of enrolled health care program participants and their listed dependents by obtaining all required supporting documentation (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 19,
+        "title": "DCPS did not ensure the propriety of employee and retiree health care claims paid, and did not verify that stop-loss insurance was correctly applied and plan administrative fees were properly charged.",
+        "description": "The analysis section for Finding 19 is not included in the provided text snippet. The finding title indicates issues with health care claims, stop-loss insurance verification, and administrative fee charges.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DCPS ensure the propriety of employee and retiree health care claims paid, verify stop-loss insurance application, and confirm plan administrative fees are properly charged.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 22,
+    "prior_findings_repeated": 10,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The provided text does not contain the Agency Response Appendix content; therefore, no summary can be generated.",
+    "total_dollar_impact": 4537725.0,
+    "extraction_notes": "Report date derived from 'November 2017' header. Audit period dates are null as explicit 'period beginning/ending' language was not found in the text provided. Agency response fields are null as the appendix content is missing from the input."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 2200000.0",
+    "repeat_count_mismatch: extracted 10, asterisk markers 2"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T18:43:00.144191",
+  "content_hash": "632699dbfec5b433166fc4f8de0cade31775f9e0",
+  "duplicate_of": null
+}

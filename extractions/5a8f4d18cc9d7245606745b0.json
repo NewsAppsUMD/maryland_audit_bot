@@ -1,0 +1,111 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2010-07-13",
+    "audit_period_start": "2006-08-21",
+    "audit_period_end": "2009-09-21",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Critical reconciliations were not performed on a timely basis.",
+        "description": "Critical reconciliations were not performed on a timely basis, resulting in a lack of assurance that recorded transactions were authorized and accurately posted. Specifically, the Region had not reconciled inmate account balances with State Comptroller records since February 2009, and checking accounts had not been reconciled with bank records since April 2009.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 140000.0,
+            "context": "difference between Region's balance and State Comptroller's balance"
+          },
+          {
+            "amount": 8240.0,
+            "context": "service charges for nonsufficient fund items"
+          }
+        ],
+        "recommendation": "Complete reconciliations, investigate differences, document supervisory review, perform monthly, and avoid writing checks without funds.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Proper internal controls were not established over the processing of certain purchasing transactions.",
+        "description": "The Region's online approval rules allowed employees to initiate and modify purchase orders after independent approvals, potentially allowing unauthorized changes without further review. During fiscal year 2009, $6.5 million related to purchase orders were processed through this system out of $22 million in disbursements.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6500000.0,
+            "context": "purchase orders processed"
+          },
+          {
+            "amount": 22000000.0,
+            "context": "total disbursements processed"
+          }
+        ],
+        "recommendation": "Establish approval requirements that prevent employees with the capability to initiate purchasing transactions from modifying the transactions after related approvals have been obtained.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Equipment records were not adequately maintained.",
+        "description": "Equipment detail records were not updated for all purchases; a test of 10 purchases totaling $202,000 disclosed that 5 purchases totaling $168,000 had not been recorded. Reconciliations between detail records and control accounts could not be performed as a result.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 168000.0,
+            "context": "unrecorded equipment purchases"
+          },
+          {
+            "amount": 5400000.0,
+            "context": "Region's equipment inventory total as of June 30, 2009"
+          }
+        ],
+        "recommendation": "Maintain equipment detail records and control accounts on a current basis and reconcile control accounts to the aggregate balance of related detail records.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Certain record keeping and procedural deficiencies existed that precluded adequate internal control over materials and supplies.",
+        "description": "Perpetual inventory records were not consistently maintained, with 13 items totaling $49,000 not recorded on perpetual records. Physical counts disclosed differences for all 10 items tested totaling $23,697 (shortages of $13,892 and overages of $9,805). There was also a lack of separation of duties regarding inventory reconciliation.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 49000.0,
+            "context": "items not recorded on perpetual inventory records"
+          },
+          {
+            "amount": 23697.0,
+            "context": "total differences in physical count comparison"
+          },
+          {
+            "amount": 13892.0,
+            "context": "shortages identified in physical count"
+          }
+        ],
+        "recommendation": "Establish proper internal controls over materials and supplies.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Public Safety and Correctional Services' response to this audit is included as an appendix to the report. The provided text does not contain the specific details of the agency's agreement or completion dates.",
+    "total_dollar_impact": 379132.0,
+    "extraction_notes": "Total dollar impact calculated from quantified discrepancies and unrecorded amounts across findings ($140,000 + $8,240 + $168,000 + $49,000 + $13,892). Agency response details are in the appendix not included in this text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:23:24.081475",
+  "content_hash": "da4116d38376d5249fc534e63e4bc9b6730110c0",
+  "duplicate_of": null
+}

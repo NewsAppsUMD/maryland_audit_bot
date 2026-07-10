@@ -1,0 +1,81 @@
+{
+  "extraction": {
+    "agency_name": "Department of Human Resources",
+    "parent_department": "Department of Human Resources",
+    "report_date": "2014-08-01",
+    "audit_period_start": "2010-01-04",
+    "audit_period_end": "2013-01-27",
+    "findings": [
+      {
+        "number": 1,
+        "title": "SSA Did Not Maximize the Recovery of Federal Funds for Children in Certain Out-of-Home Placements",
+        "description": "SSA did not maximize recovery of federal funds for children eligible for both out-of-home placement maintenance funds and Supplemental Security Income. Testing of 10 cases found 3 where children were eligible but maintenance funds totaling $266,000 had not been requested as of December 2013.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 266000.0,
+            "context": "maintenance funds not requested"
+          },
+          {
+            "amount": 41000.0,
+            "context": "unable to recover due to two-year deadline"
+          }
+        ],
+        "recommendation": "SSA should maximize the recovery of maintenance funds for children receiving SSI and review all cases eligible for federal maintenance funds to obtain available federal funds.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "SSA Did Not Effectively Monitor Placements to Prevent Children From Being Placed With Certain Providers",
+        "description": "SSA did not establish procedures to effectively monitor placements to ensure children were not placed with providers where there was credible evidence of child abuse or neglect. Review identified 15 providers who cared for 16 children despite such evidence.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SSA should establish procedures to monitor LDSSs to prevent out-of-home placements with providers in which there is credible evidence of child abuse or neglect.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "SSA Did Not Obtain Sufficient Documentation to Substantiate Billings for Services Rendered By a State University",
+        "description": "SSA did not obtain sufficient documentation for invoices related to three contracts totaling $16.8 million with a State university. Review of three payments totaling $392,000 confirmed invoices and timesheets lacked detail to support amounts paid.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 16800000.0,
+            "context": "total contracts with State university"
+          },
+          {
+            "amount": 4900000.0,
+            "context": "payments related to three contracts as of January 2013"
+          },
+          {
+            "amount": 392000.0,
+            "context": "reviewed payments lacking sufficient detail"
+          }
+        ],
+        "recommendation": "SSA should obtain and review adequate documentation, such as payroll records and invoice details, to support the propriety of amounts billed.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Human Resources respectfully disagrees with the findings' characterizations but agrees to implement procedures. For Finding 1, DHR states there is no requirement to dually claim funds and will perform cost benefit analyses. For Findings 2 and 3, DHR states it will expand procedures to ensure proper documentation and monitoring.",
+    "total_dollar_impact": 307000.0,
+    "extraction_notes": "Report date derived from header 'August 2014' as no specific transmittal letter date was found. Dollar amounts converted per instructions."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:13:41.207042",
+  "content_hash": "b702a8c1a1ab04d52e403beac4e1568978a3afda",
+  "duplicate_of": "5a8f4d1acc9d7245606746aa"
+}

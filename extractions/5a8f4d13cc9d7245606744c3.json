@@ -1,0 +1,97 @@
+{
+  "extraction": {
+    "agency_name": "State Lottery and Gaming Control Agency",
+    "parent_department": "State Lottery and Gaming Control Agency",
+    "report_date": "2015-04-01",
+    "audit_period_start": "2011-03-07",
+    "audit_period_end": "2014-03-19",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The SLGCA Network Was Not Adequately Secured",
+        "description": "The SLGCA network was not adequately secured from untrusted traffic due to firewall rules allowing unnecessary connections, lack of filtering for contractor traffic, insecure protocols for remote administration, and logs stored only in internal memory. A similar condition was commented upon in the preceding audit report.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Configure firewalls to achieve a least privilege security strategy; use only secure protocols and limit remote access; store firewall logs in a secure location and review regularly.",
+        "agency_agrees": true,
+        "agency_completion_date": "July 2015"
+      },
+      {
+        "number": 2,
+        "title": "Network Workstations and Servers Were Not Sufficiently Protected Against Malware",
+        "description": "Approximately 220 workstations and servers were not sufficiently protected against malware due to improper administrator rights, lack of software updates for known vulnerabilities, and failure to verify anti-malware software status via management tools.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict administrator rights on workstations; promptly install all critical security-related software updates; monitor devices to ensure malware protection is operational and up to date.",
+        "agency_agrees": true,
+        "agency_completion_date": "Ongoing"
+      },
+      {
+        "number": 3,
+        "title": "Mainframe Access Controls, Account and Password Controls, and Security Reporting Were Not Sufficient",
+        "description": "Mainframe security reports had not been generated since September 2013; 90 accounts had unnecessary access to bypass menu controls; six users could change security settings; account/password settings did not comply with policy. A similar condition was commented upon in the preceding audit report.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Generate and review mainframe security reports; restrict access to critical commands and settings; ensure account/password settings comply with policy.",
+        "agency_agrees": true,
+        "agency_completion_date": "Implemented"
+      },
+      {
+        "number": 4,
+        "title": "Distributions of Unclaimed Funds Were Not Consistent with State Regulations",
+        "description": "SLGCA distributed unclaimed VLT funds to non-state entities instead of the State as required by regulations. During calendar year 2013, $704,000 went unclaimed for more than 182 days, and $347,000 was distributed to non-state entities rather than the State.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 704000.0,
+            "context": "unclaimed VLT funds"
+          },
+          {
+            "amount": 347000.0,
+            "context": "distributed to non-state entities rather than the State"
+          }
+        ],
+        "recommendation": "Distribute unclaimed VLT funds to the State unless SLGCA receives approval to amend regulations.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 2015"
+      },
+      {
+        "number": 5,
+        "title": "Certain Contract Awards Were Not Published in eMaryland Marketplace",
+        "description": "SLGCA had not published the award of three contracts valued at approximately $106 million on eMaryland Marketplace as required by State law during the period from June 2013 through February 2014. They were published later in May and June 2014.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 106000000.0,
+            "context": "three contracts collectively valued"
+          }
+        ],
+        "recommendation": "Ensure all applicable contract awards are published on eMaryland Marketplace not more than 30 days after execution and approval.",
+        "agency_agrees": true,
+        "agency_completion_date": "May/June 2014"
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "SLGCA agreed with all recommendations. For security findings (1-3), changes were implemented or scheduled for completion by mid-2015. For unclaimed funds (4), regulations were revised and approved in late 2014/early 2015. For procurement (5), awards were posted after the fact, and training was attended to ensure future compliance.",
+    "total_dollar_impact": 347000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:48:45.937699",
+  "content_hash": "7a87e851568aed4073e73b28249b2503e6a45b11",
+  "duplicate_of": null
+}

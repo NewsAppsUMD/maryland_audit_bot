@@ -1,0 +1,349 @@
+{
+  "extraction": {
+    "agency_name": "Somerset County Public Schools",
+    "parent_department": null,
+    "report_date": "2014-09-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2013-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Collections Were Not Always Deposited Timely Nor Adequately Secured Prior to Deposit",
+        "description": "Collections totaling approximately $10 million were not always deposited timely and SCPS had not established adequate controls over collections received at the Central Office. A test of 10 deposits disclosed that collections totaling $452,000 related to 6 deposits were deposited from 3 to 13 working days after receipt.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10000000.0,
+            "context": "collections received at the Central Office"
+          },
+          {
+            "amount": 9100000.0,
+            "context": "funds received by check from Somerset County"
+          },
+          {
+            "amount": 2700000.0,
+            "context": "test of 10 deposits"
+          },
+          {
+            "amount": 452000.0,
+            "context": "collections deposited untimely"
+          }
+        ],
+        "recommendation": "SCPS should deposit all funds in a timely manner, properly safeguard cash receipts prior to deposit, and investigate with the Somerset County government the possibility of receiving funds by electronic transfer rather than check.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "SCPS Lacked Written Policies and Procedures for Controlling Student Activity Funds",
+        "description": "SCPS did not have written policies and procedures for controlling student activity funds. Control deficiencies were noted at two high schools which collected $242,324 or 42 percent of the total student activity funds.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 242324.0,
+            "context": "student activity fund collections at two high schools"
+          }
+        ],
+        "recommendation": "SCPS should develop policies and procedures governing controls and accountability over student activity funds, and ensure that the developed procedures are followed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Users\u2019 Capabilities on the Automated Procurement and Accounts Payable System Were Not Adequately Restricted",
+        "description": "SCPS did not adequately restrict users\u2019 capabilities to prevent unauthorized purchasing and disbursement transactions. Five employees could initiate and approve purchase orders without independent approvals.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SCPS should strengthen its controls over the automated procurement and accounts payable system by restricting users\u2019 capabilities to eliminate incompatible duties and establishing independent electronic approval requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "SCPS\u2019 Procurement Policies Generally Did Not Require Board Approval for Certain Purchases and Did Not Address Contractual Services",
+        "description": "SCPS policies did not require Board approval for the majority of high-value purchases. Disbursements to 10 vendors totaling approximately $1.2 million were not approved by the Board.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "disbursements to 10 vendors not approved by the Board"
+          }
+        ],
+        "recommendation": "SCPS should amend its existing policies for procurement to address all categories of purchases and establish a formal dollar threshold requiring Board approval.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Contracts Were Frequently Not Awarded Through Competitive Procurements and Payment Processing Was Not Always Adequate",
+        "description": "A test of payments to 12 vendors disclosed that 10 contractors with fiscal year 2013 payments totaling $1.2 million were selected without competitive procurements. Overpayments of $68,000 occurred due to miscalculated fuel adjustments.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000.0,
+            "context": "payments to 12 vendors"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "payments to 10 contractors without competitive procurements"
+          },
+          {
+            "amount": 250000.0,
+            "context": "payments to three vendors with insufficient review"
+          },
+          {
+            "amount": 68000.0,
+            "context": "overpayments due to miscalculated fuel adjustments"
+          }
+        ],
+        "recommendation": "SCPS should award contracts through competitive procurement methods or document why they cannot be used, prepare written contracts, use eMaryland Marketplace, and ensure vendor payments are proper.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Independent Reviews of Payroll and Personnel Transactions Processed Were Lacking",
+        "description": "SCPS lacked an independent review to ensure that processed employee personnel and payroll transactions were correct. Two overpayments totaling $2,450 and five underpaid terminated employees totaling $13,395 were noted.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2450.0,
+            "context": "overpayment to one terminated employee"
+          },
+          {
+            "amount": 13395.0,
+            "context": "underpayments to five terminated employees"
+          }
+        ],
+        "recommendation": "SCPS should perform a documented independent review of personnel and payroll transactions, resolve the noted payment errors, limit assignments of critical system functions, and eliminate incompatible functions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Documentation Was Lacking That the Board Possessed All Pertinent Information Prior to Approving an Employee Termination Settlement Agreement",
+        "description": "There was no documentation that the Board possessed pertinent information prior to approving a settlement agreement totaling $168,000 for a former school official.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 168000.0,
+            "context": "employee contract settlement agreement"
+          }
+        ],
+        "recommendation": "SCPS should ensure that all pertinent information is provided to the Board regarding contract interpretations and related fiscal impact for any future contract settlements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Equipment Policies Were Not Comprehensive and Disposals Were Not Approved",
+        "description": "SCPS did not obtain approval from supervisory personnel to dispose of equipment. Review disclosed 100 items marked as disposed with a cost totaling approximately $91,000.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 91000.0,
+            "context": "cost of items marked as disposed without approval"
+          }
+        ],
+        "recommendation": "SCPS should update its existing procedures to include requirements for segregating duties and performing physical inventories, and obtain required approval of all disposals of equipment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "SCPS\u2019 Network Was Not Adequately Secured and Certain User Capabilities Were Not Properly Restricted",
+        "description": "The SCPS network was not properly secured from improper access by students. Local administrator privileges were not properly restricted on workstations.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SCPS should implement controls to limit network level student access, limit local administrative rights on user workstations, and disable settings allowing users to override security controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Monitoring, Account, and Password Controls Over SCPS\u2019 Academic System Were Not Sufficient",
+        "description": "The database supporting the academic information application was not configured to log security activity. Account and password controls were not in accordance with best practice guidelines.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SCPS should enable logging of all critical database security activities and implement recommended account and password settings over the academic information application.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Certain Construction Related Goods and Services Were Procured Without Obtaining Competitive Bids",
+        "description": "SCPS executed a $98,000 change order that materially altered the scope of a project rather than seeking bids. SCPS did not receive competitive bids for a $223,000 contract.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 321000.0,
+            "context": "construction related goods and services procured without competitive bids"
+          },
+          {
+            "amount": 98000.0,
+            "context": "change order amount"
+          },
+          {
+            "amount": 134800.0,
+            "context": "original contract amount"
+          },
+          {
+            "amount": 223000.0,
+            "context": "contract without competitive bids"
+          },
+          {
+            "amount": 47000.0,
+            "context": "travel expenses included in payments to contractor"
+          }
+        ],
+        "recommendation": "SCPS should not use change orders for tasks that materially alter the scope of the original project and obtain goods and services through a documented competitive procurement process.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "Certain Payments to Transportation Contractors Were Not Based on Market Conditions or Actual Costs",
+        "description": "SCPS could not justify the 9.93 percent ROI rate used for bus contractors. Overpayments of $670,000 were estimated over the life of seven buses. SCPS paid $116,000 more than necessary due to federal fuel excise taxes.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 670000.0,
+            "context": "potential cost savings over the life of seven buses"
+          },
+          {
+            "amount": 116000.0,
+            "context": "total fuel payments higher than necessary due to excise taxes"
+          }
+        ],
+        "recommendation": "SCPS should establish payment amounts to transportation contractors in a manner that ensures all costs are reasonable and necessary.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "SCPS Did Not Ensure the Accuracy of Data Used to Compute Certain Payments to Bus Contractors",
+        "description": "SCPS did not ensure the accuracy of time and mileage payments to bus contractors. Hourly payments and base mileage payments totaled approximately $1 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "hourly payments and base mileage payments to contractors"
+          }
+        ],
+        "recommendation": "SCPS should independently verify bus contractor\u2019s manifests, document the verification process, and recover any overpayments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "Invoices Were Not Adequately Verified Prior to Payment",
+        "description": "A test of 10 invoices totaling $168,324 disclosed no evidence of a documented review for propriety prior to payment. Three vendors had purchases of $175,000 without formal contracts.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 168324.0,
+            "context": "test of invoices"
+          },
+          {
+            "amount": 800000.0,
+            "context": "food expenditures for vendors tested"
+          },
+          {
+            "amount": 175000.0,
+            "context": "purchases from three vendors without formal contracts"
+          },
+          {
+            "amount": 625000.0,
+            "context": "purchases from two vendors with contracts not approved by Board"
+          },
+          {
+            "amount": 844000.0,
+            "context": "total food expenditures for fiscal year 2013"
+          }
+        ],
+        "recommendation": "SCPS should ensure that formal contracts are executed with vendors and approved by the Board, and invoice prices are compared to contract prices prior to payment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "Financial Disclosure Statements Were Not Always Filed As Required",
+        "description": "SCPS did not ensure that a financial disclosure statement was filed by all employees required to do so. Three of 11 employees required for calendar year 2012 did not file.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SCPS should actively enforce its ethics policy and ensure that all required disclosure statements are filed and reviewed by the ethics panel.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "SCPS Did Not Ensure the Propriety of Payments for Certain Employee and Retiree Health Care Costs",
+        "description": "SCPS lacked procedures to ensure that amounts paid to the third-party administrator were proper. Stop-loss insurance paid by SCPS totaled approximately $271,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5700000.0,
+            "context": "amounts paid for health care during fiscal year 2013"
+          },
+          {
+            "amount": 250000.0,
+            "context": "administrative fees included in health care payments"
+          },
+          {
+            "amount": 271000.0,
+            "context": "stop-loss insurance paid by SCPS"
+          }
+        ],
+        "recommendation": "SCPS should establish procedures to verify the amounts paid for health insurance.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 35,
+    "prior_findings_repeated": 11,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "SCPS generally agreed with the recommendations (Finding 4 was disagreed with; Findings 9 and 10 were agreed with exceptions). The agency outlined specific implementation steps for each finding in their response appendix.",
+    "total_dollar_impact": 1278845.0,
+    "extraction_notes": "Audit period derived from Scope section. Report date based on cover page header (September 2014). Repeat status determined by asterisk/symbol legend."
+  },
+  "validation_flags": [
+    "repeat_count_mismatch: extracted 9, asterisk markers 5"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T20:44:32.106105",
+  "content_hash": "b84566358a7e1206bd6b8b983e34729c06ce8792",
+  "duplicate_of": null
+}

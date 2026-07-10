@@ -1,0 +1,52 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2008-05-02",
+    "audit_period_start": "2005-02-03",
+    "audit_period_end": "2007-10-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Department of Health and Mental Hygiene\u2019s Audit Division noted a number of procedural and internal control weaknesses during its audits of the local health departments.",
+        "description": "Our review of audit reports issued by the Department's Audit Division during fiscal years 2005, 2006, and 2007 disclosed procedural and internal control weaknesses in local health departments. For example, 13 of 21 reports contained findings related to controls over cash receipts.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that CHA ensure that the local health departments adequately address the recommendations made by the Department\u2019s Audit Division.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "One local health department reviewed did not comply with its established policies, and certain internal control deficiencies were noted.",
+        "description": "Our review of one local health department disclosed noncompliance with established policies and internal control deficiencies regarding collections totaling approximately $443,000 during fiscal year 2007. Employees who received collections also recorded charges and voided transactions without supervisory review, and documentation supporting adjustments was not reviewed by supervisors.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 443000.0,
+            "context": "collections totaled approximately $443,000 during fiscal year 2007"
+          }
+        ],
+        "recommendation": "We recommend that employees who process collections not have the ability to record and adjust charges or void transactions in the automated system. We also recommend that supervisory personnel review documentation supporting adjustments to charges recorded in the system, at least on a test basis. Finally, we recommend that proper documentation of proof of client identity and income be obtained and proper fees be charged based on the proof of income provided.",
+        "agency_agrees": true,
+        "agency_completion_date": "2008-07-01"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Health and Mental Hygiene agrees with all recommendations. For Finding 1, they commit to taking appropriate action effective immediately through follow-up protocols. For Finding 2, they implemented segregation of duties by April 1, 2008, and completed re-instruction on documentation requirements by July 1, 2008.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from transmittal letter. Audit period explicitly stated in transmittal and scope section. Prior findings count/repeated status derived from 'Status of Findings From Preceding Audit Report' section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:01:58.219946",
+  "content_hash": "3886120502ad1f1b94366048342c0af2af23ce44",
+  "duplicate_of": null
+}

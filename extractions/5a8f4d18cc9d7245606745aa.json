@@ -1,0 +1,137 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2008-12-04",
+    "audit_period_start": "2005-10-01",
+    "audit_period_end": "2008-07-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Proper Controls Had Not Been Established Over Certain Disbursement Transactions",
+        "description": "The Region was not using the available security features of the State's Financial Management Information System (FMIS) to restrict user access and prevent unauthorized disbursement transactions. Five employees had the capability to initiate invoices without independent approvals, and these employees could also redirect payments to a vendor other than the one named on the related purchase order.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 16400000.0,
+            "context": "disbursements processed using FMIS"
+          }
+        ],
+        "recommendation": "We recommend that the Region fully use the available FMIS security features by establishing independent online approval requirements for all critical disbursement transactions. In addition, we recommend that the Region remove the ability for an employee to change the vendor named on an invoice.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Reconciliations of Inmate Account Balances with the State Comptroller's Records Were Not Always Prepared",
+        "description": "The total of the individual inmate accounts as maintained by the Region was not always reconciled with the corresponding records of the State Comptroller. Reconciliations were not prepared for the period from November 2006 through March 2008, and a difference of $82,985 in May 2008 was not investigated.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 82985.0,
+            "context": "difference in May 2008 reconciliation"
+          },
+          {
+            "amount": 646624.0,
+            "context": "Comptroller's balance as of June 30, 2008"
+          },
+          {
+            "amount": 527213.0,
+            "context": "total of individual inmate accounts as of June 30, 2008"
+          },
+          {
+            "amount": 119411.0,
+            "context": "excess of Comptroller's balance over Region's balance"
+          }
+        ],
+        "recommendation": "We again recommend that the aggregate balance of the individual inmate accounts be reconciled with the State Comptroller's records on a timely basis, such as monthly, and that all differences be investigated and resolved.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Internal Control and Record Keeping Deficiencies Were Noted",
+        "description": "Internal control and record keeping deficiencies were noted over the Region's food, maintenance, and commissary supplies. Physical inventories were not subject to independent verifications, requisition forms were not compared with copies provided to employees, and investigations of differences between perpetual inventory records and physical counts were not documented.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6100000.0,
+            "context": "expenditures for supplies during fiscal year 2008"
+          },
+          {
+            "amount": 565078.0,
+            "context": "book value of food and maintenance supplies at June 2008"
+          },
+          {
+            "amount": 207981.0,
+            "context": "total dollar variance between perpetual inventory records and physical counts"
+          },
+          {
+            "amount": 103125.0,
+            "context": "shortages in June 2008 count"
+          },
+          {
+            "amount": 104856.0,
+            "context": "overages in June 2008 count"
+          },
+          {
+            "amount": 61000.0,
+            "context": "cost of 60 items from food, maintenance, and commissary inventories tested"
+          },
+          {
+            "amount": 18266.0,
+            "context": "differences disclosed in physical count comparison on May 19, 2008"
+          }
+        ],
+        "recommendation": "We recommend that the Region comply with the requirements of the DGS Inventory Control Manual. Specifically, we again recommend that employees other than those who have custody of the inventories conduct the physical inventories. Additionally, we recommend that the employee who maintains the food perpetual inventory records compare, at least on a test basis, the requisition copies used for inventory postings to the copies retained by the employees receiving the goods. We also again recommend that the Region accurately maintain perpetual inventory records, and that the Region document investigations of variances between the perpetual inventory records and physical inventory counts.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Equipment Acquisitions Were Not Always Properly Recorded in the Detail Records",
+        "description": "Equipment acquisitions were not always properly recorded in the detail records. A test of 190 equipment items disclosed that 53 of these items were not recorded in the detail records as of July 18, 2008.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5000000.0,
+            "context": "book value of equipment as of June 2008"
+          },
+          {
+            "amount": 78921.0,
+            "context": "costing of 190 equipment items purchased during the period from October 2006 through February 2008 tested"
+          },
+          {
+            "amount": 20553.0,
+            "context": "costing of 53 items not recorded in detail records"
+          }
+        ],
+        "recommendation": "We again recommend that the Region comply with the requirements of the Inventory Control Manual.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Public Safety and Correctional Services' response to this audit is included as an appendix to the report.",
+    "total_dollar_impact": 366211.0,
+    "extraction_notes": "Agency agreement/disagreement details not provided in text (appendix missing). Prior finding numbers from preceding report not explicitly stated."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 3 amount 6100000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:11:34.760532",
+  "content_hash": "46399ab3d5b655d1bde73a9c9e7ef93c03e4fc33",
+  "duplicate_of": null
+}

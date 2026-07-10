@@ -1,0 +1,56 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2010-04-12",
+    "audit_period_start": "2006-08-01",
+    "audit_period_end": "2009-09-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Walter P. Carter Community Mental Health Center's (WPCC) accounts receivable procedures for tenants were inadequate.",
+        "description": "WPCC's accounts receivable procedures for its two tenants and five former tenants were inadequate, including lease agreements and accounting records not adequately maintained. During fiscal year 2009, tenant billings totaled $566,743 and collections totaled $320,233. Lease agreements were not modified to reflect increased rent payments, aging reports were not prepared, and signed lease agreements were missing for five of seven tenants. Unpaid accounts were not subject to adequate collection efforts, including no referral to the State's Central Collection Unit (CCU), resulting in $247,000 in outstanding delinquent accounts receivable when WPCC closed with no plan to collect them.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 247000.0,
+            "context": "outstanding delinquent accounts receivable when WPCC closed"
+          },
+          {
+            "amount": 566743.0,
+            "context": "tenant billings during fiscal year 2009"
+          },
+          {
+            "amount": 320233.0,
+            "context": "related collections during fiscal year 2009"
+          },
+          {
+            "amount": 362000.0,
+            "context": "maintenance fees billed to tenants in May 2009"
+          },
+          {
+            "amount": 36000.0,
+            "context": "unpaid May 2009 bill not referred to CCU"
+          }
+        ],
+        "recommendation": "We recommend that DHMH a. consult with the Office of the Attorney General regarding the collectability of the maintenance billings, given the lack of revised leases; and b. take immediate collection action for those accounts deemed to be collectable, including referral of delinquent accounts to CCU, in accordance with State regulations.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-05-31"
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department concurs with both recommendations. They will consult with their Assistant Attorney General regarding legal options for collectability and take immediate collection action including referral to CCU, anticipating completion by May 31, 2010.",
+    "total_dollar_impact": 247000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T06:32:35.016932",
+  "content_hash": "1638af32e92ded71a4353ae0eed2cd93be5e5b48",
+  "duplicate_of": null
+}

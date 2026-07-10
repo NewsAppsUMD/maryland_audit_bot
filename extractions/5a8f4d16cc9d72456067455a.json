@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Health",
+    "parent_department": "Maryland Department of Health",
+    "report_date": "2018-01-01",
+    "audit_period_start": "2013-06-10",
+    "audit_period_end": "2017-05-17",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Center did not have adequate procedures in place to ensure the propriety of time recorded and processed for direct care workers.",
+        "description": "The Center lacked adequate procedures to ensure the propriety of time recorded and processed for its direct care workers, whose payroll expenditures totaled approximately $2.5 million in calendar year 2016. Manual time records were not approved by immediate supervisors, creating a lack of assurance regarding the accuracy of time recorded in the Statewide Personnel System.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2500000.0,
+            "context": "payroll expenditures related to direct care workers in calendar year 2016"
+          }
+        ],
+        "recommendation": "We recommend that the Center a. ensure that direct care workers\u2019 manual time records are approved by their immediate supervisors, and b. ensure that the approved manual time records for the direct care workers are reviewed by the supervisor responsible for approving the time recorded in SPS.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department\u2019s response to the findings and recommendations is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'January 2018'. Prior findings repeated count not explicitly stated in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:43:43.350783",
+  "content_hash": "ec2c14103f0f85d49ad19c5c52ea315277a24d97",
+  "duplicate_of": null
+}

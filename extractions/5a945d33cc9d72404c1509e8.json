@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Department of General Services",
+    "parent_department": "Department of General Services",
+    "report_date": "2007-12-10",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "A senior Department of General Services (DGS) official with Statewide procurement responsibility for OPL also served as President of an association and was involved in activities that potentially violated State Ethics Laws and a Governor\u2019s Executive Order.",
+        "description": "A DGS senior official responsible for oversight of centralized procurement served as President of a nonprofit association that solicited and received monetary sponsorships from current and prospective State vendors for a trade show. The review noted conditions such as the use of state email accounts to solicit sponsorships, contact information listing state addresses on the association's website, and actions giving the appearance of state affiliation. Senior management at the State Ethics Commission advised these conditions could violate State Ethics Laws and Governor\u2019s Executive Order provisions regarding standards of conduct.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 94000.0,
+            "context": "association estimated that it collected sponsorship, registration, and exhibitor fees related to the show totaling approximately"
+          }
+        ],
+        "recommendation": "We recommend that DGS take immediate action to refer the above information to the State Ethics Commission. We also recommend that DGS, in the future, take appropriate action to ensure compliance with the aforementioned Governor\u2019s Executive Order.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "The report states that DGS' response to findings and recommendations is included as an appendix, but the content of the response is not provided in this document excerpt.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from transmittal letter. Audit period start/end set to null as no explicit 'period beginning/ending' language was found for the audit scope. Criminal referral false as matters were recommended to State Ethics Commission, not Office of Attorney General - Criminal Division."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:51:05.211127",
+  "content_hash": "0214e076ecd395a9a08072585f60065ea76fab06",
+  "duplicate_of": null
+}

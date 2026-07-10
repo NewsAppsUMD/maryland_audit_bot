@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Attorney General",
+    "parent_department": null,
+    "report_date": "2015-03-04",
+    "audit_period_start": "2011-03-08",
+    "audit_period_end": "2014-07-17",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls were not established to ensure collections were properly accounted for and deposited.",
+        "description": "Proper controls were not established over cash receipts totaling approximately $21.7 million during fiscal year 2014. The employee verifying deposits was not independent of the cash receipts process, and receipts were not sufficiently safeguarded prior to deposit.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21700000.0,
+            "context": "cash receipts totaling approximately"
+          }
+        ],
+        "recommendation": "We recommend that OAG a. ensure that collections are verified to deposit by an employee independent of the cash receipts functions and that the initial record of collections is used during the deposit verification process, and b. adequately safeguard collections prior to processing and deposit.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The OAG states it will implement the recommendations to have an independent employee verify deposits and use initial records, despite believing current controls are sufficient. They also note they have further secured storage areas for checks.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter (March 4, 2015). Audit period dates extracted from Scope section and transmittal letter. No prior findings status section present in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:11:41.326807",
+  "content_hash": "bff37eedd2d523f96a23c32766abf831af3bc6f0",
+  "duplicate_of": "5a8f4d0acc9d724560674290"
+}

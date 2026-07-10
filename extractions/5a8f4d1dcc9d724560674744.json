@@ -1,0 +1,162 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2016-03-01",
+    "audit_period_start": "2011-07-01",
+    "audit_period_end": "2015-03-18",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls over changes to student residency status were not sufficient.",
+        "description": "UMBC did not establish sufficient controls over changes to student residency status recorded in student accounts. Only changes made by the Registrar's Office were reviewed for propriety, leaving 6,862 changes unverified out of 7,149 total changes during the audit period. Additionally, 44 users had unnecessary access capabilities to record changes to a student's residency status.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5192.0,
+            "context": "undergraduate tuition for Maryland residents"
+          },
+          {
+            "amount": 11341.0,
+            "context": "undergraduate tuition rate for out-of-state students"
+          }
+        ],
+        "recommendation": "We recommend that UMBC review the output reports for student residency changes made by all departments at least on a test basis; document these reviews; and restrict user access capabilities to those employees who require such capabilities to perform their job duties, and remove the aforementioned unnecessary access capabilities.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "UMBC did not ensure that employees on multiple State payrolls were adequately investigated.",
+        "description": "UMBC did not ensure that employees appearing on quarterly reports from the Comptroller of Maryland's Central Payroll Bureau were adequately investigated for dual employment. The Payroll Department did not monitor departments to ensure verification forms were returned, nor included terminated employees in investigations. 85 of 123 identified employees had not been fully investigated as of April 2015.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2900000.0,
+            "context": "payments from UMBC and other State agencies during the same pay periods"
+          },
+          {
+            "amount": 216000000.0,
+            "context": "UMBC's payroll expenditures in fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that UMBC monitor departments to ensure that investigations of employees on multiple payrolls are completed in a timely manner; retain documentation to support these monitoring efforts; and include in the investigations employees who had been terminated.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Human Resource and Payroll Capabilities Assigned to Individuals on the Financial Management Systems Were Not Adequately Restricted",
+        "description": "UMBC did not ensure that capabilities assigned to individuals on financial management systems were adequately restricted. A review of 7 critical functions determined that 19 system users were assigned unnecessary access, including 15 users who could enter leave balance adjustments without job requirement.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMBC restrict user access capabilities for critical functions to those employees who require such capabilities to perform their assigned job duties, and remove the aforementioned unnecessary access capabilities.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "The UMBC Network Was Not Sufficiently Secured",
+        "description": "The UMBC network was not sufficiently secured due to disabled intrusion detection prevention system features for encrypted traffic and lack of host-based intrusion protection systems. Additionally, shared administrator accounts were used for firewalls, password controls were inadequate, and access control rules allowed unnecessary connections.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMBC perform a documented review and assessment of its network security risks from encrypted network traffic; discontinue the use of shared accounts to administer firewalls; implement password control settings for these firewalls; and configure its network control devices to limit access to only required servers over necessary ports.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "UMBC Did Not Ensure the Propriety of Financial Aid Transactions Posted to Student Accounts",
+        "description": "Adequate controls had not been established to ensure the propriety of financial aid transactions. 14 system users were assigned unnecessary or incompatible access to critical functions related to student financial aid, and supervisory reviews for athletic and honors scholarships were not independent.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 93000000.0,
+            "context": "financial aid awarded to students during academic year 2014"
+          },
+          {
+            "amount": 18400000.0,
+            "context": "athletic and honors scholarships"
+          },
+          {
+            "amount": 47700000.0,
+            "context": "federal direct loans"
+          }
+        ],
+        "recommendation": "We recommend that UMBC restrict user access capabilities to perform critical financial aid functions; ensure supervisory personnel independent of the financial aid award process verify the propriety of athletic and honors financial aid awards; document verifications; and ensure the employee responsible for reviewing flags cannot also record or remove them.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "UMBC Did Not Always Comply With Certain Corporate Purchasing Card Requirements and Related Procurement Policies and Procedures",
+        "description": "UMBC repeatedly procured chemicals totaling approximately $520,000 without consolidating bids or contracts as required. Additionally, 4 of 11 reviewed monthly bank statements with purchases totaling approximately $168,000 were not properly signed by both the cardholder and supervisor.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 15800000.0,
+            "context": "corporate purchasing card expenditures during fiscal year 2014"
+          },
+          {
+            "amount": 520000.0,
+            "context": "chemicals procured without consolidating and soliciting competitive bids"
+          },
+          {
+            "amount": 399000.0,
+            "context": "purchases on reviewed monthly bank statements during fiscal year 2015"
+          },
+          {
+            "amount": 168000.0,
+            "context": "bank statements not properly signed by both the cardholder's immediate supervisor and the cardholder"
+          }
+        ],
+        "recommendation": "We recommend that UMBC consolidate procurements of similar goods to maximize buying power when possible; ensure these procurements comply with USM Procurement Policies and Procedures; and ensure that bank statements are reviewed and signed by both the cardholder's immediate supervisor and the cardholder as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Proper Internal Controls Were Not Established Over the Processing of Disbursement Transactions",
+        "description": "UMBC did not adequately restrict user access capabilities or establish safeguards to prevent unauthorized disbursement transactions. Three employees responsible for approving and releasing batches could also add or modify vendors and alter transmittal files prior to release, though testing disclosed no inappropriate transactions.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 94200000.0,
+            "context": "disbursements processed during fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that UMBC ensure that the employees responsible for approving and releasing disbursement transactions for payment be denied the capability to alter those transactions, including modifications to the related vendors.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-09-01"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland generally concurs with the findings and recommendations. For Finding 2, they partially concur citing new USM guidance that excludes faculty and terminated employees from investigation requirements. They indicate actions have been taken or will be completed by the start of the Fall 2016 semester for specific controls.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from title page 'March 2016'. Audit period found in Scope section. No criminal referrals or fraud hotline origins stated. Prior findings count based on Status of Preceding Findings section."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 5 amount 93000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:33:23.539579",
+  "content_hash": "7b6c954fea8af80eb351362d25f8e89ae5df6291",
+  "duplicate_of": "5a8f4d1dcc9d724560674740"
+}

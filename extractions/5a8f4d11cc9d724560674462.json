@@ -1,0 +1,199 @@
+{
+  "extraction": {
+    "agency_name": "Department of Human Resources",
+    "parent_department": "Department of Human Resources",
+    "report_date": "2014-06-01",
+    "audit_period_start": "2009-11-17",
+    "audit_period_end": "2012-08-12",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DHR Recorded Unsupported Special Fund Revenues to Offset Deficit Balances",
+        "description": "DHR recorded unsupported special fund revenue transactions totaling approximately $11.5 million and $15.2 million for fiscal years ending June 30, 2012 and 2013, respectively, to offset deficit balances in the Local Department Operations Assistance Payments program.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 11500000.0,
+            "context": "unsupported special fund accrued revenues recorded at June 30, 2012"
+          },
+          {
+            "amount": 15200000.0,
+            "context": "unsupported special fund accrued revenues recorded at June 30, 2013"
+          }
+        ],
+        "recommendation": "Ensure that all year-end revenue transactions are appropriately recorded in accordance with GAD's closing instructions; implement corrective action to resolve the deficit balance; ensure that expenditures do not exceed the related revenue realized.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DHR Did Not Ensure the Propriety of the Payments to Certain Legal Firms",
+        "description": "DHR did not verify payments were proper for individuals they were responsible for, nor did it perform required site visits for 8 of 12 firms during fiscal years 2011 and 2012. Additionally, annual reports were not obtained from 11 of the 12 firms as of March 2013.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13700000.0,
+            "context": "payments to legal firms during fiscal year 2012"
+          }
+        ],
+        "recommendation": "Verify that payments made to legal firms are only for individuals for whom DHR is responsible; conduct on-site monitoring and maintain documentation; take appropriate follow-up actions to ensure the legal firms submit annual reports.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DHR Lacked Sufficient Procedures and Accountability Over Certain Grants",
+        "description": "DHR did not independently verify grant funds were spent as intended (24 of 27 disbursements lacked documentation) or ensure required reports/site visits were submitted/performed for grants totaling approximately $10.8 million to $10.9 million.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1500000.0,
+            "context": "test of disbursements"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "disbursements lacking sufficient supporting documentation"
+          },
+          {
+            "amount": 11300000.0,
+            "context": "grants tested for activity reports"
+          },
+          {
+            "amount": 10800000.0,
+            "context": "grants missing activity reports"
+          },
+          {
+            "amount": 10900000.0,
+            "context": "grants site visits not performed"
+          }
+        ],
+        "recommendation": "Independently verify that grant funds are spent as intended; ensure that all required reports are submitted; ensure that annual site visits are performed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DHR Had Not Established Sufficient Monitoring Controls Over Certain Users\u2019 Access",
+        "description": "Sixteen employees had unrestricted access to critical CARES files, and FMIS security features were not fully used allowing modification of transactions after approval by 17 employees.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000000.0,
+            "context": "benefits processed via CARES during fiscal year 2012"
+          },
+          {
+            "amount": 96000000.0,
+            "context": "purchase orders processed"
+          }
+        ],
+        "recommendation": "Subject critical actions taken on CARES by users with unrestricted access to independent supervisory review; use available FMIS security features to properly control purchasing transactions.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Assignment of Critical Privileges and Access and Monitoring Controls Over Mainframe Systems Were Not Sufficient",
+        "description": "Users were inappropriately assigned critical database roles (system administrator, operator), allowed direct modification access to production programs/files without logging or review.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Grant critical database roles and restrict access to critical mainframe production programs and files; ensure that direct modifications to critical database tables are included on security reports for subsequent managerial review; perform regular documented reviews of the security reports; grant security software privileges in a manner that ensures all changes are logged; ensure that security software reports include the use of all critical commands.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-07-18"
+      },
+      {
+        "number": 6,
+        "title": "Database Controls Were Not Sufficient to Protect Critical Data",
+        "description": "Direct modifications to CHESSIE database tables were not logged; database level auditing was not enabled for all critical events; users inappropriately assigned critical roles and table privileges.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Log all direct modifications to critical CHESSIE database tables and generate periodic reports; enable database level auditing for all critical security events; grant critical database roles and table privileges only to those individuals who require such capabilities.",
+        "agency_agrees": false,
+        "agency_completion_date": "2013-06-30"
+      },
+      {
+        "number": 7,
+        "title": "Certain DHR Networks Were Not Adequately Secured",
+        "description": "Firewall rules allowed insecure connections; unnecessary VPN connections from untrusted parties existed; vendor network firewall not configured to adequately secure connections into the mainframe hosting critical systems.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Configure its firewalls and virtual private networks to achieve a least privilege security strategy; require the vendor that hosts CARES, CSES, and CHESSIE to configure the firewall to properly protect critical devices.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-07-30"
+      },
+      {
+        "number": 8,
+        "title": "A Vendor Report Did Not Address Several Key Security Controls",
+        "description": "The SOC report on the EBTS vendor did not address key security controls such as vulnerability scanning, patch management, intrusion detection, disaster recovery testing, or privileged user access reporting.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 24600000.0,
+            "context": "contract cost through February 2015"
+          }
+        ],
+        "recommendation": "Obtain and review the vendor's SOC reports for future reviews; determine if related reviews adequately addressed security concerns; ensure that the vendor implements all critical recommendations.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "DHR Did Not Document Its Rationale for Not Assessing Liquidated Damages",
+        "description": "For three notifications regarding computer failures, DHR did not document why liquidated damages totaling $341,000 were not assessed.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 373500.0,
+            "context": "liquidated damages potentially imposed"
+          },
+          {
+            "amount": 341000.0,
+            "context": "liquidated damages not assessed without documentation"
+          },
+          {
+            "amount": 50000.0,
+            "context": "liquidated damages proposed for one instance"
+          },
+          {
+            "amount": 7500.0,
+            "context": "liquidating damages assessed for one instance"
+          }
+        ],
+        "recommendation": "Formally document its reasons when liquidated damages are not assessed against vendors when qualifying conditions occur.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department generally agreed with findings and recommendations regarding grants, legal services, and information systems security controls, noting that many corrective actions were already implemented or completed by mid-2013. However, the Department disagreed with findings related to unsupported special fund revenues (Finding 1), purchasing transaction controls (Finding 4b), CHESSIE database roles (Finding 6c), and the requirement for SOC reports on the EBTS vendor (Findings 8 and 9).",
+    "total_dollar_impact": 28441000.0,
+    "extraction_notes": "Report date derived from 'June 2014' header. Audit period from Scope section. Prior findings status from Page 7. Repeat status based on asterisks and '(repeat)' tags in recommendations."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 8 amount 24600000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:02:01.694738",
+  "content_hash": "098ad30855e1d71eab7008bd73b04fec5ea639c0",
+  "duplicate_of": null
+}

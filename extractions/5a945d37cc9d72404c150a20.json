@@ -1,0 +1,158 @@
+{
+  "extraction": {
+    "agency_name": "Howard County Public School System",
+    "parent_department": null,
+    "report_date": "2023-04-12",
+    "audit_period_start": "2021-01-01",
+    "audit_period_end": "2022-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain requirements of State law and recognized best practices were not incorporated into Howard County Public School System (HCPSS) policies and/or were not consistently used when participating in intergovernmental cooperative purchasing agreements.",
+        "description": "State law requires a written assessment of benefits before using intergovernmental cooperative purchasing agreements (ICPAs), but HCPSS policies lacked this requirement and other best practices. Testing of three ICPAs totaling approximately $8.5 million disclosed that HCPSS did not have a written assessment for two ICPAs totaling $6 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8500000.0,
+            "context": "contract awards tested"
+          },
+          {
+            "amount": 6000000.0,
+            "context": "ICPAs without written assessment"
+          }
+        ],
+        "recommendation": "Incorporate statutory requirement and identified best practices into procurement policies, and ensure performance is documented when evaluating and participating in ICPAs.",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed"
+      },
+      {
+        "number": 2,
+        "title": "Contract bids and awards were not always published on eMaryland Marketplace Advantage as required by HCPSS policy and applicable State law.",
+        "description": "HCPSS procurement procedures and State law require publishing solicitations or notices of award greater than $50,000 on eMaryland Marketplace Advantage. Testing of 10 contracts totaling $35.7 million disclosed that HCPSS did not use the platform for 4 contracts totaling $18.7 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 35700000.0,
+            "context": "contracts tested"
+          },
+          {
+            "amount": 18700000.0,
+            "context": "not published on eMMA"
+          }
+        ],
+        "recommendation": "Comply with procurement procedures and State procurement law by using eMaryland Marketplace Advantage to publish contract bids and awards.",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed"
+      },
+      {
+        "number": 3,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Specifics of this finding have been redacted from the publicly available report in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Specifics of this finding have been redacted from the publicly available report in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Specifics of this finding have been redacted from the publicly available report in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Bus vendor payment information was not independently reviewed prior to payment.",
+        "description": "Bus vendor payment information is manually entered and reviewed by a non-independent supervisor without documentation. Annual payments to bus contractors totaled $26.8 million in fiscal year 2021. This condition was previously noted in audits dating back to October 23, 2009.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": 13,
+        "dollar_amounts": [
+          {
+            "amount": 26800000.0,
+            "context": "payments to bus contractors"
+          }
+        ],
+        "recommendation": "Ensure that an independent documented review of payment information is performed by Transportation Office supervisory personnel before transmission to the Finance Office for processing.",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed"
+      },
+      {
+        "number": 7,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "Specifics of this finding have been redacted from the publicly available report in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "HCPSS did not audit or adequately monitor the performance of its third-party administrators that provide health care claims processing services.",
+        "description": "HCPSS did not verify the propriety of TPA billings for health care claims or prescription drug rebates, nor did it perform audits of TPA performance measures. Annual claims payments are in excess of $150 million. This condition was previously noted in audits dating back to October 23, 2009.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": 15,
+        "dollar_amounts": [
+          {
+            "amount": 150000000.0,
+            "context": "annual claims payments"
+          },
+          {
+            "amount": 169100000.0,
+            "context": "Health and Dental Fund revenues"
+          },
+          {
+            "amount": 160100000.0,
+            "context": "Health and Dental Fund expenditures"
+          }
+        ],
+        "recommendation": "Establish procedures to independently verify TPA billings; conduct pharmacy TPA audits for drug rebates; conduct claims audits for accuracy/validity; establish a process to verify TPAs' compliance with performance measures annually.",
+        "agency_agrees": true,
+        "agency_completion_date": "June 2024"
+      }
+    ],
+    "prior_findings_count": 15,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "HCPSS agrees with the report findings and recommendations. The agency states that systemic improvements have addressed many prior findings and notes they will complete or have completed all actions to implement the recommendations.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Findings 3, 4, 5, and 7 are redacted cybersecurity-related findings. Dollar amounts reflect transaction volumes tested rather than quantified questioned losses."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 8, regex counted 9",
+    "dollar_amount_not_in_text: finding 8 amount 150000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T19:30:00.109881",
+  "content_hash": "a6c0ea0922dca954137f69562dcbf36c8ff0784e",
+  "duplicate_of": "5a945d37cc9d72404c150a1e"
+}

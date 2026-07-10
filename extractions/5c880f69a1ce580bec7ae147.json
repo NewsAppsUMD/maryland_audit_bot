@@ -1,0 +1,302 @@
+{
+  "extraction": {
+    "agency_name": "Prince George\u2019s County Public Schools",
+    "parent_department": null,
+    "report_date": "2025-03-25",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain requirements of State law and recognized best practices were not incorporated into Prince George\u2019s County Public Schools\u2019 (PGCPS) procurement policies and were not consistently used when participating in intergovernmental cooperative purchasing agreements (ICPAs).",
+        "description": "PGCPS did not incorporate statutory requirements or best practices like analyzing competitive solicitation costs or researching other ICPAs into its procurement policies. PGCPS also failed to prepare statutorily required written assessments justifying the use of ICPAs for tested contracts.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 565000000.0,
+            "context": "ICPA procurement awards totaling"
+          },
+          {
+            "amount": 32500000.0,
+            "context": "award amount of nine ICPAs tested"
+          },
+          {
+            "amount": 20300000.0,
+            "context": "payments on these contracts in fiscal year 2023"
+          }
+        ],
+        "recommendation": "PGCPS should incorporate statutory requirements and best practices into procurement policies and ensure performance is documented when evaluating and participating in ICPAs.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "PGCPS did not always prepare written justifications, obtain Board approval, or publish contract awards for sole source procurements on eMaryland Marketplace Advantage as required.",
+        "description": "For tested sole source contracts exceeding $50,000, PGCPS failed to prepare written justifications, submit contracts to the Board for approval, or publish awards on eMMA as required by policy and State law.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 116000000.0,
+            "context": "sole source procurement awards totaling"
+          },
+          {
+            "amount": 9500000.0,
+            "context": "payments for four sole source contracts tested in fiscal year 2023"
+          },
+          {
+            "amount": 3200000.0,
+            "context": "payments totaling where written justifications were not prepared"
+          }
+        ],
+        "recommendation": "PGCPS should ensure sole source contract justifications are prepared as required, obtain Board approval for contracts as required, and publish sole source contract awards on eMMA.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "PGCPS did not execute formal written contracts and did not obtain approval from the Board for special education services.",
+        "description": "PGCPS paid non-public schools $61.6 million for special education services without executing formal written contracts or obtaining required Board approval, despite policy requirements for contracts over $500,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 61600000.0,
+            "context": "payments to two MSDE certified non-public schools for special education services"
+          }
+        ],
+        "recommendation": "PGCPS should modify its Procurement Policy to require formal written contracts for special education services and comply with its Policy by obtaining Board approval.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "PGCPS did not analyze, or otherwise limit, the number of time records supervisors were reviewing and approving. We identified certain supervisors who routinely approved a large number of time records each pay period.",
+        "description": "Analysis disclosed that many supervisors routinely approved excessive numbers of timecards (e.g., 200 to 271), raising questions about the effectiveness of supervisory reviews for accuracy.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "PGCPS should analyze current supervisory responsibilities for approving timecards and reduce the number of timecards individuals are responsible for approving.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Critical human resources and payroll transactions were not subject to a documented independent supervisory review, resulting in one employee being overpaid $7.4 million without detection.",
+        "description": "PGCPS did not require supervisory review of manual payroll adjustments, leading to an overpayment of $7.4 million for a substitute teacher due to data entry error which was detected two months later.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7400000.0,
+            "context": "one employee being overpaid"
+          },
+          {
+            "amount": 27000000.0,
+            "context": "manual payroll adjustments processed in fiscal year 2022"
+          },
+          {
+            "amount": 62000000.0,
+            "context": "salary adjustments in fiscal year 2022"
+          }
+        ],
+        "recommendation": "PGCPS should perform and document independent supervisory reviews of critical human resource and payroll transactions and review previously processed pay adjustments for propriety.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Internal controls and record keeping for bus driver payrolls were not adequate to ensure the propriety of payroll payments.",
+        "description": "PGCPS lacked a standardized process to document actual time worked by drivers, and overtime hours were not always adequately supported or approved in tested samples.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 66000000.0,
+            "context": "bus driver payroll expenditures in fiscal year 2022"
+          },
+          {
+            "amount": 12000000.0,
+            "context": "overtime payments in fiscal year 2022"
+          },
+          {
+            "amount": 59000.0,
+            "context": "payments for overtime hours tested"
+          },
+          {
+            "amount": 53370.0,
+            "context": "overtime payments lacking documented supervisory approval"
+          }
+        ],
+        "recommendation": "PGCPS should implement a standard time reporting process and ensure all overtime is properly supported and approved.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "PGCPS did not always perform a newly required screening for positions involving direct contact with minors.",
+        "description": "PGCPS had not performed the required screening for seven of ten tested employees hired after July 1, 2019 who were employed for periods ranging from 190 to 426 days as of October 19, 2023.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "PGCPS should comply with State law and perform and document the required screening for positions involving direct contact with minors.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "PGCPS did not complete physical inventories of equipment every three years and resolve missing items from technology equipment inventories in a timely manner as required.",
+        "description": "The last complete physical inventory was completed in fiscal year 2019, and PGCPS had not resolved 9,376 missing items valued at approximately $6.3 million identified during a partial inventory.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6300000.0,
+            "context": "value of missing items identified during inventory"
+          }
+        ],
+        "recommendation": "PGCPS should conduct physical inventories every three years and investigate and resolve missing equipment items.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "This finding is redacted from the public report in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "This finding is redacted from the public report in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "This finding is redacted from the public report in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "PGCPS improperly used an intergovernmental cooperative purchasing agreement (ICPA) to procure a school bus camera system contract resulting in a lack of assurance that it obtained the best value.",
+        "description": "PGCPS did not prepare written assessments or research other ICPAs for the bus camera contract, and payment terms differed from the ICPA without support, resulting in potential overpayment on fees.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 400.0,
+            "context": "monthly technology fee per bus"
+          },
+          {
+            "amount": 30000000.0,
+            "context": "citation revenue for the first 27 months of operation"
+          },
+          {
+            "amount": 5200000.0,
+            "context": "amount received by County as of February 1, 2024"
+          }
+        ],
+        "recommendation": "PGCPS should competitively procure transportation contracts or comply with State law when using ICPAs and ensure the basis for revenue sharing and technology fees are documented.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "PGCPS did not use its automated bus routing software to periodically perform a system-wide analysis of routes and related bus capacities to maximize efficiency. In addition, PGCPS had not established comprehensive bus routing procedures.",
+        "description": "PGCPS did not use routing software for system-wide analysis or establish procedures specifying target capacities, resulting in 30 percent of routes designed at less than 75 percent capacity.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "PGCPS should use automated bus routing software to periodically perform a system-wide analysis and establish comprehensive bus routing procedures.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "This finding is redacted from the public report in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "PGCPS did not obtain and review claim data to support amounts invoiced by its third-party administrators (TPA) or audit healthcare claims activity paid by the TPA to ensure they were proper.",
+        "description": "PGCPS approved TPA billings based on high-level summaries without reviewing claim data, and no audits of healthcare claims paid by TPAs were obtained for self-insured plans since fiscal year 2020.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2100000.0,
+            "context": "amount owed to PGCPS for unpaid discount guarantees and prescription rebates"
+          }
+        ],
+        "recommendation": "PGCPS should obtain and review supporting documentation to ensure the propriety of TPA billings and obtain healthcare audits in accordance with its contract.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "PGCPS did not apply for available School Resource Officer grant funding through the Maryland Center for School Safety to offset the cost of school resource officers for fiscal years 2021 through 2024.",
+        "description": "PGCPS failed to apply for available grant funding that could have offset costs for school resource officers during the specified fiscal years.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 13,
+    "prior_findings_repeated": 6,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office of Legislative Audits reviewed the agency's response and concluded that corrective actions identified are sufficient to address all audit issues. Elements related to cybersecurity findings were redacted from the public report.",
+    "total_dollar_impact": 15800000.0,
+    "extraction_notes": "Audit period start/end dates not explicitly stated in 'period beginning/ending' format; used null. Parent department is a county entity (PGCPS) with no state parent department explicitly named."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 16, regex counted 18",
+    "dollar_amount_not_in_text: finding 2 amount 3200000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T20:25:29.156736",
+  "content_hash": "63b91e2a5b194145e61ae79039d2266ff8cfbfa1",
+  "duplicate_of": "5a945d37cc9d72404c150a2c"
+}

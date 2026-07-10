@@ -1,0 +1,64 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2014-05-01",
+    "audit_period_start": "2009-10-15",
+    "audit_period_end": "2013-02-24",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Adequate controls were not established over the issuance of certificates, blank certificate inventories, and EVRS.",
+        "description": "VSA did not document proper identification verification for all tested applications, allowed an employee with routine access to blank certificates and cash receipts to print certificates, and lacked documented reviews or written authorization for user access changes in EVRS.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. document the verification of proper identification prior to issuance of certificates and verify that certificates issued were properly supported by completed applications prior to issuance; b. separate the duties of certificate issuance, access to blank certificates, and access to cash receipts; c. document its periodic review of user access capabilities and ensure that modifications to user access are authorized in writing.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "VSA did not exercise adequate oversight of certificate issuances at LHDs and related cash receipts.",
+        "description": "VSA could not document that review results were communicated to Local Health Departments (LHDs), duties were not properly segregated at reviewed LHDs allowing potential misappropriation, and headquarters relied on manual reports instead of EVRS output for reconciliation.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 490000.0,
+            "context": "related collections of approximately $490,000 at two LHDs reviewed"
+          }
+        ],
+        "recommendation": "a. communicate the results of reviews of operations in writing to the LHDs...; b. use output reports from the EVRS to ensure birth certificates were issued in sequential order and to reconcile certificates issued to related collections.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-06-30"
+      },
+      {
+        "number": 3,
+        "title": "Database and application controls were not sufficient to protect critical data.",
+        "description": "Critical security-related events affecting the EVRS database were not logged or reviewed, and password/account settings did not comply with DoIT Information Security Policy requirements (e.g., periodic changes, account lockout).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. log critical EVRS database security and audit events...; b. ensure that all EVRS application password and account settings are in compliance with the requirements of the DoIT Information Security Policy.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency concurred with all findings and recommendations. For Finding 2, they committed to communicating results by June 30, 2014. They indicated that controls for Findings 1 and 3 are currently being followed or have been implemented.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'May 2014' as no specific transmittal letter date was provided."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:03:35.856782",
+  "content_hash": "4900bf4758bbce39c0f6961ccc9a5e26d57e66f1",
+  "duplicate_of": null
+}

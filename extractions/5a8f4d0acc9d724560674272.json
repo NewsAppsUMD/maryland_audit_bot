@@ -1,0 +1,77 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Agriculture",
+    "parent_department": "Maryland Department of Agriculture",
+    "report_date": "2010-03-31",
+    "audit_period_start": "2008-07-01",
+    "audit_period_end": "2009-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Maryland Agricultural Land Preservation Foundation\u2019s (MALPF) database of easement acquisitions had not been tested for reliability nor reconciled to the State\u2019s accounting records.",
+        "description": "MALPF's database was not tested for accuracy and completeness as of December 31, 2009, nor reconciled to State accounting records. There is a $70 million discrepancy between cumulative costs reported in the Annual Report ($556 million) and State records ($486 million), with the database totaling approximately $533 million.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 70000000.0,
+            "context": "discrepancy between reported cumulative cost and State accounting records"
+          },
+          {
+            "amount": 556000000.0,
+            "context": "total cost of easement acquisitions reported in MALPF Annual Report"
+          },
+          {
+            "amount": 486000000.0,
+            "context": "comparable amount recorded on State's accounting records"
+          }
+        ],
+        "recommendation": "We recommend that MALPF a. ensure the accuracy of the database of easement acquisitions, b. ensure that easement information is accurately reported in its annual report and periodically reconciled to the related State accounting records (repeat), and c. investigate the aforementioned discrepancies and take appropriate corrective action (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Procedures and controls over easement acquisition payments related to installment purchases were inadequate.",
+        "description": "Payments for installment purchases were not always subject to independent review or approval compared to lump sum payments. Approximately $2.3 million in installment payments were issued during fiscal year 2009.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2300000.0,
+            "context": "installment payments issued during fiscal year 2009"
+          }
+        ],
+        "recommendation": "We recommend that MALPF ensure that installment payments be reviewed by an independent employee and that such reviews be documented (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MALPF had not obtained formal legal advice regarding the legality of recovering excessive amounts of agricultural land transfer taxes retained by certain counties during prior fiscal years.",
+        "description": "MALPF had not obtained formal legal advice to determine if excess transfer taxes retained by certain counties should be recovered due to certification status issues. A memo requesting legal advice was being reviewed internally as of January 28, 2010.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MALPF obtain formal legal advice to determine the legality of recovering any excessive amounts retained by the counties in prior years and take any appropriate action based on the advice obtained.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Agriculture responded on behalf of MALPF concurring with all findings. They noted the database is for management rather than financial accounting but will verify records, stated installment payment details will be forwarded to Fiscal Services for review, and confirmed legal advice has been drafted and forwarded.",
+    "total_dollar_impact": 70000000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:49:05.874213",
+  "content_hash": "9986d56d2a1e72a1d0636eb3c0eb8e136e44ffef",
+  "duplicate_of": null
+}

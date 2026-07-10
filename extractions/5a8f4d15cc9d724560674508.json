@@ -1,0 +1,111 @@
+{
+  "extraction": {
+    "agency_name": "Medical Mutual Liability Insurance Society of Maryland",
+    "parent_department": null,
+    "report_date": "2008-02-25",
+    "audit_period_start": "2005-01-01",
+    "audit_period_end": "2006-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain Controls Over Professional Services Were Inadequate",
+        "description": "The Society lacked formal written agreements with many law firms for claims defense and legal services. Bonus payments were made to a partner without agreement basis, and written agreements should identify critical provisions like services and billing.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 170000.0,
+            "context": "general legal services firm paid in 2006"
+          },
+          {
+            "amount": 5700000.0,
+            "context": "seven firms for claims defense payments in 2006"
+          }
+        ],
+        "recommendation": "Enter into formal written agreements with all law firms from which it obtains significant services. Ensure basis for consulting payments correlates with services provided or deliverables received. Require sufficient documentation to support billings.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Certain Law Firms Hired for Claims Defense Services Were Not Used to the Fullest Extent Permitted by Their Contracts",
+        "description": "Four law firms had open caseloads 12-50% below contract averages while fixed fees remained constant. Additional claims were assigned at higher costs to other firms not under similar contracts.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6300000.0,
+            "context": "paid to four firms for claims defense in 2006"
+          },
+          {
+            "amount": 5700000.0,
+            "context": "paid to other firms for claims defense in 2006"
+          }
+        ],
+        "recommendation": "Evaluate contracts with the firms and overall assignment of claims to determine if changes are needed. Use the four law firms under contract to provide claims defense services to the fullest extent permitted.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Society Lacked a Formal Procurement Policy",
+        "description": "The Society did not have a formal written policy for procurement of goods and services. Purchasing discretion was left to department heads without assurance of competition or best value.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8900000.0,
+            "context": "non-claims related disbursements in 2006"
+          }
+        ],
+        "recommendation": "Develop a formal comprehensive procurement policy that establishes standards and minimum requirements for purchasing goods and services.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Internal Control Over Payroll Was Not Sufficient",
+        "description": "Payroll processing was handled entirely by one individual with no supervisory reviews or approvals. Errors or irregularities could occur without detection.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6100000.0,
+            "context": "payroll expenditures in 2006"
+          }
+        ],
+        "recommendation": "Supervisory personnel should approve time reports and review supporting documentation. The individual approving reports should release them to the service center. Employees involved should not have access to payroll checks.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Security Reporting and Backups of Critical Network Servers Were Inadequate",
+        "description": "Security reports for critical applications were not generated. Backup tapes were not taken offsite from January to August 2007, risking data loss in a disaster.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Generate security reports, review them, investigate items as necessary, and document reviews. Backup critical network servers at a secure offsite location.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Society agrees to implement a formal procurement policy and upgrade payroll software for better controls. However, it disagrees with the recommendation to use contract law firms to their fullest extent, citing quality representation needs. No specific completion dates were provided in the response text.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter header (Feb 25, 2008). Audit period confirmed in transmittal and scope sections. Agency is not a state department. No prior findings counts or repeat markers found. Criminal referral status false as none stated."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:04:58.125450",
+  "content_hash": "445c47ff497b2539552e5a6f4c2a17e3537d732e",
+  "duplicate_of": null
+}

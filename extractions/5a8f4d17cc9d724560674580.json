@@ -1,0 +1,200 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Public Broadcasting Commission",
+    "parent_department": null,
+    "report_date": "2016-06-01",
+    "audit_period_start": "2011-12-01",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MPBC's procurement policy did not contain certain provisions required by State law for entities with procurement exemptions, and contracts awarded under its exemption were not always reported to or approved by MPBC's governing commission.",
+        "description": "MPBC's procurement policy lacked critical provisions regarding solicitation requirements and competitive bidding as required by State law for exempt agencies. Additionally, the revised policy was not submitted to the commission for approval, and documentation did not exist to support that contracts valued over $500,000 were approved or those between $50,000 and $500,000 were reported as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 500000.0,
+            "context": "approval threshold for contracts"
+          },
+          {
+            "amount": 8000000.0,
+            "context": "tested contracts total value"
+          },
+          {
+            "amount": 6900000.0,
+            "context": "contracts not obtained approval from commission"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "contract awards not reported to commission"
+          }
+        ],
+        "recommendation": "Revise procurement policy to comply with State law; submit revised policy and future revisions to commission for review and documented approval; ensure all applicable contracts are reviewed or approved by the commission prior to award; submit aforementioned contracts to its commission for review and/or approval.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MPBC did not always comply with State procurement regulations for sole source and competitively bid contracts that were not part of its procurement exemption.",
+        "description": "Tests disclosed deficiencies in sole source procurements including lack of formal justifications, failure to publish awards on eMaryland Marketplace, and failure to obtain Board of Public Works approval. Deficiencies also included insufficient documentation of bid evaluations for competitive procurements and improper negotiations with winning vendors after selection but prior to award.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000.0,
+            "context": "sole source procurements tested"
+          },
+          {
+            "amount": 2700000.0,
+            "context": "competitively bid procurements tested"
+          },
+          {
+            "amount": 928000.0,
+            "context": "sole source contracts for ratings statistics and market research"
+          },
+          {
+            "amount": 715800.0,
+            "context": "sole source contracts to vendors not registered with SDAT"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "competitive procurements with insufficiently documented evaluations"
+          },
+          {
+            "amount": 900000.0,
+            "context": "contract example where evaluation elements were not completed"
+          },
+          {
+            "amount": 1900000.0,
+            "context": "competitive procurements allowing post-selection negotiations"
+          },
+          {
+            "amount": 985200.0,
+            "context": "fundraising management system contract award amount"
+          },
+          {
+            "amount": 142000.0,
+            "context": "increase in vendor's proposed price for additional services"
+          }
+        ],
+        "recommendation": "Comply with State procurement regulations; seek retroactive approval from BPW for sole source awards; ensure contracts are awarded to vendors registered and in good standing with SDAT; sufficiently document evaluation of bids received; discontinue conducting exclusive negotiations with winning vendors after bid evaluation process is completed.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MPBC significantly understated the approximate quantity of mailings in a procurement solicitation for direct marketing and fundraising services which could have affected the bid prices received.",
+        "description": "MPBC entered into an 18-month service contract based on an estimated 150,000 pieces of mail when over one million were anticipated. This error led to a significant increase in the initial contract value from $188,325 to $524,133 after BPW approval.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 476500.0,
+            "context": "total contract amount not to exceed"
+          },
+          {
+            "amount": 188325.0,
+            "context": "initial 18-month period value"
+          },
+          {
+            "amount": 524133.0,
+            "context": "increased contract value after BPW approval"
+          }
+        ],
+        "recommendation": "Ensure procurement solicitations contain realistic approximate quantities of the services needed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "MPBC did not adequately monitor contract terms and payments for three contracts related to fundraising services.",
+        "description": "Payments were inconsistent with contract rates for direct marketing services resulting in overpayments and underpayments. MPBC also failed to obtain detailed call center activity reports to verify performance standards before paying invoices, and did not compare invoiced premium gifts with donor orders.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "payments to vendors total as of September 2015"
+          },
+          {
+            "amount": 142740.0,
+            "context": "task orders for fundraising mailing campaigns tested"
+          },
+          {
+            "amount": 5940.0,
+            "context": "overpaid on one invoice"
+          },
+          {
+            "amount": 6625.0,
+            "context": "combined underpayments on two invoices"
+          },
+          {
+            "amount": 82800.0,
+            "context": "invoices for call center services tested"
+          },
+          {
+            "amount": 736000.0,
+            "context": "payments made on premium gift fulfillment contract through September 30, 2015"
+          }
+        ],
+        "recommendation": "Ensure that contractor services and payments are consistent with contract terms and rates; obtain and review documentation including performance reports to support all invoices and pursue recovery of charges not supported.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MPBC did not have an adequate process to evaluate the reasonableness of the amount it was charged by the Public Broadcasting Service for its annual subscription dues which exceeded $3.0 million.",
+        "description": "MPBC reviewed dues for consistency with prior years but did not document the review or obtain supporting documentation from PBS to thoroughly evaluate reasonableness, although recalculation disclosed no obvious discrepancies.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10000000.0,
+            "context": "subscription dues paid to PBS from July 1, 2012 to June 30, 2015"
+          }
+        ],
+        "recommendation": "Establish a process to evaluate and document the reasonableness of its annual PBS subscription dues prior to payment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "MPBC did not periodically review user access capabilities for critical fundraising systems, and numerous users had unnecessary access to information required to be kept confidential by State law.",
+        "description": "Numerous users had unnecessary access to donor databases and online donation systems. One user had the capability to change bank account information without requiring this capability, creating a risk of misappropriation of credit card donations totaling approximately $1.3 million during fiscal year 2015.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000.0,
+            "context": "credit card collections during fiscal year 2015"
+          }
+        ],
+        "recommendation": "Perform periodic documented reviews of user access capabilities for critical fundraising systems; ensure donor information is kept confidential and users assigned only necessary capabilities; grant access to change bank account information only to applicable management personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MPBC disagrees with Findings 1 and 2 regarding policy interpretation and compliance requirements, agrees with Finding 3, partially agrees with Finding 4 noting some contracts already modified but disputes review frequency for gift fulfillment, agrees to document review for Finding 5, and does not dispute Finding 6 noting no breach occurred.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'June 2016'. Audit period explicitly stated as Dec 1, 2011 to June 30, 2015. Finding 4 marked with asterisk (*) and recommendation notes '(repeat)'. Prior finding number not explicitly stated in text."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 8000000.0",
+    "dollar_amount_not_in_text: finding 5 amount 10000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:24:05.654784",
+  "content_hash": "367bb57755bc9dcb8a8501d123975fa6c43e620c",
+  "duplicate_of": null
+}

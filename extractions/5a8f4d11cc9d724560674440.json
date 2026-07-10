@@ -1,0 +1,228 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2011-08-01",
+    "audit_period_start": "2006-09-01",
+    "audit_period_end": "2009-10-14",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DHMH lacked adequate procedures and controls over vital records and related collections, resulting in a lack of assurance that all vital record information recorded on EVRS was accurate, that certificates were properly issued, and that certificates and related collections were accounted for.",
+        "description": "DHMH lacked adequate procedures and controls over the automated vital records system, blank certificate inventory, distribution, and fee collections. Birth data verification by hospital personnel was not documented or performed since 2008, changes to birth records were not reviewed independently, and there was no reconciliation of certificates issued to fees collected.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4900000.0,
+            "context": "collected by DVR headquarters for issuance of certificates"
+          },
+          {
+            "amount": 2100000.0,
+            "context": "collected by LHDs for issuance of certificates"
+          },
+          {
+            "amount": 43404.0,
+            "context": "collections reported on March 25, 2010"
+          },
+          {
+            "amount": 21552.0,
+            "context": "collections actually deposited for March 25, 2010"
+          }
+        ],
+        "recommendation": "We recommend that DHMH verify birth information entered by hospital staff to the related hospital records at least on a test basis; review reports of birth record changes and birth certificates issued and verify them to appropriate support; separate duties of certificate issuance, access to blank certificates, and access to cash receipts; ensure that an independent employee accounts for all pre-numbered certificate forms as to issued, voided, or on hand (repeat); and reconcile certificates issued to related collections and investigate any discrepancies (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-09-01"
+      },
+      {
+        "number": 2,
+        "title": "DHMH did not properly monitor LHD procedures and controls over the issuance of birth and death certificates, resulting in the failure to identify and correct numerous deficiencies.",
+        "description": "DVR did not perform periodic comprehensive documented reviews of LHD procedures. Critical vital record and cash receipts duties were not segregated at reviewed LHDs, employees had unnecessary system capabilities, and an employee allegedly issued certificates for which collections were not recorded, leading to a referral to the Office of the Attorney General.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 724776.0,
+            "context": "related collections at four LHDs reviewed"
+          }
+        ],
+        "recommendation": "We recommend that DHMH perform periodic comprehensive documented reviews of LHD procedures and controls over the issuance of birth and death certificates (repeat); and take appropriate follow-up action to ensure that the aforementioned deficiencies are corrected.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-09-01"
+      },
+      {
+        "number": 3,
+        "title": "Financial investigations of patients enrolled in State facilities were not always properly and timely conducted and were not subject to independent supervisory review and approval.",
+        "description": "Financial investigations were not completed within the required six-month timeframe for some accounts (14 percent were more than six months old), and 5 of 9 completed investigations reviewed lacked required supervisory review and approval, including missing tax returns or affidavits.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 102600000.0,
+            "context": "cost recoveries for fiscal year 2009"
+          },
+          {
+            "amount": 3500000.0,
+            "context": "collected from patients and private insurance"
+          },
+          {
+            "amount": 234400000.0,
+            "context": "services valued at which costs were not recoverable"
+          }
+        ],
+        "recommendation": "We recommend that DHMH ensure that future financial investigations are properly and timely conducted; and ensure that independent supervisory personnel review and approve the financial investigations, including the investigations for the accounts noted above.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DHMH did not adequately pursue collection of delinquent DCAR accounts receivables.",
+        "description": "Delinquent accounts receivable were not always pursued or transferred to CCU as required. A test of 10 accounts totaling $2.8 million showed 6 were not adequately pursued, including 4 commercial insurance accounts with outstanding balances totaling $1.4 million that remained unpaid for up to four years.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2800000.0,
+            "context": "test of accounts outstanding for more than 120 days"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "outstanding claim balances for commercial insurance accounts"
+          }
+        ],
+        "recommendation": "We recommend that DHMH ensure delinquent accounts receivable are adequately pursued for collection and transferred to CCU as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DHMH did not expand testing of pharmacy claims and/or take sufficient corrective action when significant errors were identified during pharmacy audits.",
+        "description": "OIG-DICS did not expand testing or take sufficient corrective action when significant errors (10-80% unsupported claims) were found in 8 of 161 audits. Recommended recoveries for these audits totaled $18,661, but DHMH only recovered $4,402 from one pharmacy and did not expand testing to identify additional losses.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18661.0,
+            "context": "recommended recoveries for 8 audits"
+          },
+          {
+            "amount": 4402.0,
+            "context": "recovered from one pharmacy audit"
+          },
+          {
+            "amount": 271000000.0,
+            "context": "pharmacy payments during fiscal year 2009"
+          }
+        ],
+        "recommendation": "We recommend that DHMH expand testing when a significant percentage of errors are identified during a pharmacy audit in accordance with OIG-DICS procedures; and take additional action as deemed appropriate, such as requiring corrective action, imposing sanctions, and referring pharmacies with significant errors to the Medical Care Programs Administration (MCPA) and the OAG-MFCU where warranted.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Security reporting and monitoring of the HMIS system and the EVRS database were not adequate.",
+        "description": "Critical security-related reports for HMIS were not reviewed for significant changes like account additions. Critical events affecting the EVRS database (granting privileges, modifying auditing) were not logged or reviewed, potentially allowing undetected security violations.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHMH review on a regular basis all HMIS critical security-related reports for all significant security events (repeat); log and review critical security and audit events applicable to the EVRS database; and document and retain these reviews for audit verification purposes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Network access to critical internal network devices was not properly restricted or monitored.",
+        "description": "Firewall rules allowed unnecessary access to critical devices and contained outdated rules. Internet firewall log messages were not regularly reviewed, and administrators were not alerted to high severity security events, potentially impacting operations without management knowledge.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHMH adequately configure and monitor its firewalls to properly protect critical network devices. We made detailed recommendations to DHMH which if implemented should provide for adequate security over the aforementioned firewalls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Controls over the EVRS virtual server environment were not adequate.",
+        "description": "A physical host server was not properly secured at the host level with inadequate password and logging controls. Network security option settings on the virtual server software were not configured according to vendor recommendations, weakening network-level security.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DHMH properly secure all of the EVRS host servers against attack; and configure the software on its EVRS host servers in accordance with the vendor's recommendations to help ensure adequate security over the resident virtual servers.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "DHMH did not maintain signature cards for authorized approvers of critical personnel and payroll transactions and did not monitor its employees who also worked at other State agencies.",
+        "description": "Signature cards were not maintained for authorized approvers of critical transactions. DHMH could not document investigation of 28 employees working on multiple payrolls or that secondary employment agreements were on file, raising concerns about overlapping hours claims.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 374000000.0,
+            "context": "payroll expenditures for fiscal year 2010"
+          }
+        ],
+        "recommendation": "We recommend that DHMH maintain and use signature cards to verify at least on a test basis that critical personnel and payroll transactions were approved by authorized personnel; review the quarterly CPB reports properly investigate all employees on multiple payrolls and take appropriate corrective action when overlapping hours are identified; and use the CPB reports to ensure that the required secondary employment agreements are completed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Adequate controls were not established over corporate purchasing cards and related transactions were not always properly approved and supported.",
+        "description": "CPC activity logs were not always approved by both fiscal officer and supervisor (9 of 30 tested). Supervisory personnel sometimes approved logs without required documentation (26 purchases totaling $20,334 lacked itemized receipts). Cardholder credit limits were not adequately monitored against actual usage.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13500000.0,
+            "context": "CPC expenditures during fiscal year 2009"
+          },
+          {
+            "amount": 239568.0,
+            "context": "purchases in test of 30 monthly activity logs"
+          },
+          {
+            "amount": 99306.0,
+            "context": "unapproved purchases in tested logs"
+          },
+          {
+            "amount": 59591.0,
+            "context": "transactions tested for supporting documentation"
+          },
+          {
+            "amount": 20334.0,
+            "context": "unsupported purchases lacking itemized receipts"
+          }
+        ],
+        "recommendation": "We recommend that DHMH ensure activity logs are approved by both the fiscal officer and the cardholder's immediate supervisor as required; ensure that all corporate card purchases are supported by appropriate documentation; verify the propriety of the aforementioned purchases and obtain reimbursement for any purchases that cannot be properly supported; and establish cardholder credit limits commensurate with actual card usage and periodically review and adjust credit limits as necessary.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-08-15"
+      }
+    ],
+    "prior_findings_count": 14,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Health and Mental Hygiene generally concurred with all findings and recommendations, committing to implement corrective actions such as policy updates, staff training, and system improvements by specified dates (e.g., September 2011). The agency noted specific exceptions regarding federal program accounts and referral criteria but agreed to pursue collection and monitoring improvements.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from 'August 2011' header. Audit period from Scope section (Sept 1, 2006 - Oct 14, 2009). Prior findings count/repeated from Status of Findings section (13 of 14 reviewed, 3 repeated). Criminal referral confirmed for Finding 2 only."
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T02:31:38.739528",
+  "content_hash": "ad23d685be1cb4478928e06a61c728dbc966b567",
+  "duplicate_of": null
+}

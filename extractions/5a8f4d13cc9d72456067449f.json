@@ -1,0 +1,126 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": "2015-03-01",
+    "audit_period_start": "2011-05-31",
+    "audit_period_end": "2014-05-18",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Proper controls had not been established over collections received at several locations.",
+        "description": "DLI lacked adequate accountability and control over cash receipts at certain units, including failure to record checks immediately, delays in depositing funds up to 13 days, ineffective independent deposit verifications, inadequate separation of duties allowing potential misappropriation, and insufficient controls over remote deposit checks totaling $1.7 million not destroyed or reconciled.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2100000.0,
+            "context": "collections received at certain locations during fiscal year 2014"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "collections for the three units located at DLI headquarters during fiscal year 2014"
+          },
+          {
+            "amount": 5420.0,
+            "context": "checks on hand not recorded as of June 11, 2014"
+          },
+          {
+            "amount": 155706.0,
+            "context": "test of receipts collected on 15 different days during fiscal years 2013 and 2014"
+          },
+          {
+            "amount": 99725.0,
+            "context": "collections not deposited for periods ranging from 2 to 13 business days after dates of receipt"
+          },
+          {
+            "amount": 920867.0,
+            "context": "Collections at the MOSH location during fiscal year 2014 (through May)"
+          },
+          {
+            "amount": 320000.0,
+            "context": "inspection fees collected in safety inspection unit during fiscal year 2014"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "checks processed through remote deposit at the headquarters location not destroyed as of June 30, 2014"
+          }
+        ],
+        "recommendation": "a. immediately record cash receipts upon receipt, b. deposit all cash receipts in a timely manner, c. perform independent deposit verifications from initial recordation to bank records, d. ensure employees involved with cash receipts functions are independent from the billing functions, and e. ensure remotely deposited checks are appropriately secured and destroyed in compliance with the State Treasurer\u2019s Policy on the Use of Remote Deposit Services by Maryland State Agencies.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DLI had not established comprehensive procedures for the review of certified payroll reports received from contractors.",
+        "description": "Formal policies were not established regarding the review of contractor-submitted certified payroll reports; reviews were selected at investigators' discretion without policy guidance, resulting in a lack of assurance on appropriate selection; only 3,494 of 25,780 flagged reports were reviewed as of July 2014; work performed was not documented or subject to supervisory review; system records showed duplicated projects affecting accurate project counts and cost estimates.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 500000.0,
+            "context": "State-funded construction projects threshold for prevailing wage laws"
+          },
+          {
+            "amount": 139000.0,
+            "context": "fines collected in fiscal year 2014"
+          },
+          {
+            "amount": 7900000000.0,
+            "context": "estimated costs of current projects subject to the State\u2019s prevailing wage laws as of June 30, 2014"
+          }
+        ],
+        "recommendation": "a. establish and implement comprehensive policies that define the priorities for the selection and review of certified payroll reports, which consider timeliness, significance and risk, and that identify the documentation and supervisory review requirements; b. adequately document the work performed by investigators, and the approval of supervisory personnel of the review results, including the final disposition of the flagged payroll reports; and c. take the necessary action to ensure the data recorded in the prevailing wage system accurately reflects the number and value of projects being monitored for compliance with the State\u2019s prevailing wage laws.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-04-30"
+      },
+      {
+        "number": 3,
+        "title": "DLI lacked assurance that the outsourced management system was protected against operational and security risks.",
+        "description": "The contract did not require the vendor to obtain an independent review of controls; DLI had not performed security reviews of the service provider's operations; no SOC 2 type 2 report was obtained despite industry guidance, leaving DLI without assurance that adequate security controls were established over system data.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 951550.0,
+            "context": "current contract value"
+          },
+          {
+            "amount": 149044.0,
+            "context": "DLI has paid the vendor through April 2014"
+          }
+        ],
+        "recommendation": "a. seek to amend the existing regulatory management system contract and ensure that future contracts include provisions requiring service organizations to annually obtain SOC 2 type 2 reviews for outsourced systems, and b. obtain and review these SOC 2 type 2 reports and take appropriate action to ensure that all critical operational and security-related concerns are properly addressed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DLI did not perform periodic reviews of user access capabilities for the regulatory management system and numerous users had inappropriate access.",
+        "description": "DLI did not perform periodic reviews of user access; 23 users had administrative access without job requirement, allowing them to modify roles and data; 81 insurance inspectors had access to change demographic information and remove objects from the system beyond what was needed for recording inspection information.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. perform a periodic documented review of user access capabilities for the regulatory management system and ensure users are assigned only those capabilities needed to perform job duties, b. work with the system vendor to develop appropriate access restrictions and provide output reports that can be used to ensure changes made to the regulatory management system are proper, and c. remove the inappropriate access granted to the aforementioned DLI employees and insurance inspectors.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-11-20"
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency concurred with all findings and recommendations. For Finding 1, they stated deficiencies were abated and implemented. For Finding 2, they noted implementation of procedures by April 30, 2015. For Findings 3 and 4, they indicated meetings scheduled for April 26, 2015 to discuss contract modifications and access restrictions with the vendor.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from 'March 2015' header. Audit period explicitly stated in Scope section. Prior findings count based on Status of Findings From Preceding Audit Report stating three findings were addressed."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:16:26.963170",
+  "content_hash": "b042294e28444e7f357075d34c9dcc78dd790e2e",
+  "duplicate_of": null
+}

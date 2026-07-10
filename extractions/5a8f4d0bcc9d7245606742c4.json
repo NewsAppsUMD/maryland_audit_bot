@@ -1,0 +1,47 @@
+{
+  "extraction": {
+    "agency_name": "Central Payroll Bureau",
+    "parent_department": "Comptroller of the Treasury",
+    "report_date": "2009-05-04",
+    "audit_period_start": "2006-01-01",
+    "audit_period_end": "2009-01-13",
+    "findings": [
+      {
+        "number": 1,
+        "title": "A number of CPB employees had access to a critical automated payroll processing function that could allow them to process unauthorized payroll transactions.",
+        "description": "Improper access to a critical automated payroll processing function had been granted to a number of CPB employees that could allow them to initiate and process unauthorized payroll transactions. Specifically, 12 employees had the ability to initiate and approve adjustments to direct deposit payroll data, and three supervisors performed review/approval who could also initiate such adjustments.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. that CPB not grant employees user access privileges that allow them to both initiate and approve adjustments to direct deposit payroll data, and b. that related supervisory review and approval of the adjustments be performed by independent employees.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Adequate access and logging controls were not established.",
+        "description": "Adequate controls were not established over critical production data files. Numerous individuals had unnecessary but logged, direct modification access to critical production payroll data files, and seven individuals had necessary but unlogged, direct modification access to critical payroll data files. Similar conditions were commented upon in the preceding audit report.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. that CPB restrict direct modification access to critical production data files to users who require such access (repeat), and b. that all direct modifications of critical payroll files be logged by the security software and reviewed and approved by management (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office of the Comptroller submitted a response on behalf of CPB regarding the audit findings. This response is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Dollar amounts in background section ($6.4 billion payrolls, $2.3 million expenditures) were not tied to specific findings and thus excluded from finding dollar_amounts fields."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:58:38.309875",
+  "content_hash": "74f8ff6c79e06ecbdb37ac7ed778cf77ef982b1e",
+  "duplicate_of": null
+}

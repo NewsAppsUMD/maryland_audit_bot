@@ -1,0 +1,163 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Insurance Administration",
+    "parent_department": "Maryland Insurance Administration",
+    "report_date": "2025-05-02",
+    "audit_period_start": "2020-01-21",
+    "audit_period_end": "2023-11-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MIA continues to use spreadsheets that did not have adequate controls to track premium tax payments, premium tax audits, and to calculate penalties and interest.",
+        "description": "MIA uses spreadsheets without adequate controls for tracking payments/audits/calculation. 25 employees had access; 23 could modify data without detection. Similar conditions noted in prior audits (May 2018).",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [],
+        "recommendation": "Implement automated premium tax system with sufficient control capabilities or establish adequate controls within existing use of spreadsheets.",
+        "agency_agrees": true,
+        "agency_completion_date": "No later than end of Fiscal Year 2027"
+      },
+      {
+        "number": 2,
+        "title": "MIA did not perform timely reconciliations of its premium tax revenue records to the State\u2019s accounting records and did not correct issues identified in the reconciliations.",
+        "description": "Reconciliations were late (12 of 18 tested) and lacked supervisory review. $11.8 million improperly credited to General Fund instead of HCAA Fund until questioned. Procedures asserted as implemented were not due to staffing.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [
+          {
+            "amount": 11800000.0,
+            "context": "improperly credited funds identified in reconciliations"
+          }
+        ],
+        "recommendation": "Conduct premium tax revenue reconciliations on a timely basis; ensure reconciliations are comprehensive and properly applied to appropriate funds; correct any issues identified.",
+        "agency_agrees": true,
+        "agency_completion_date": "April 2025"
+      },
+      {
+        "number": 3,
+        "title": "MIA did not always conduct comprehensive supervisory reviews of premium tax refunds resulting in the failure to identify improper refunds totaling approximately $800,000.",
+        "description": "Required supervisory reviews not always conducted or included documentation. Test of 11 refunds showed 2 lacked review (duplicated $30,900) and one had error ($768,700 refunded to wrong company). $17,900 unrecovered as of March 2025.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 800000.0,
+            "context": "total improper refunds"
+          },
+          {
+            "amount": 30900.0,
+            "context": "duplicated refunds going undetected"
+          },
+          {
+            "amount": 768700.0,
+            "context": "improper amount refunded to wrong recipient"
+          },
+          {
+            "amount": 17900.0,
+            "context": "unrecovered improper refunds as of March 2025"
+          }
+        ],
+        "recommendation": "Ensure required supervisory reviews are performed with supporting documentation; take appropriate action to recover any improper refunds.",
+        "agency_agrees": true,
+        "agency_completion_date": "February 2024; June 2025"
+      },
+      {
+        "number": 4,
+        "title": "MIA did not timely transfer $657 million in HCAA revenue to other State agencies as required.",
+        "description": "As of Sept 30, 2023, $649M owed to MHBE and $8M to CHRC. Management claimed lack of request, but law requires transfer regardless; requests existed per MHBE audit. Transfers made subsequent to inquiries (Jan 2024).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 657000000.0,
+            "context": "HCAA revenue not timely transferred"
+          },
+          {
+            "amount": 649000000.0,
+            "context": "owed to MHBE as of Sept 30, 2023"
+          },
+          {
+            "amount": 8000000.0,
+            "context": "owed to CHRC as of Sept 30, 2023"
+          }
+        ],
+        "recommendation": "Timely transfer all HCAA revenue in accordance with State law.",
+        "agency_agrees": true,
+        "agency_completion_date": "January 2024"
+      },
+      {
+        "number": 5,
+        "title": "MIA could not document and/or did not establish adequate controls over critical financial transactions such as accounts receivable and cash receipts.",
+        "description": "Could not support propriety of $2.4 million in adjustments (of $11.9M tested). Lacked independent deposit verification for $9.3 million of deposits; one employee verified their own deposit ($1.1M).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2400000.0,
+            "context": "unsupported adjustments to accounts receivable"
+          },
+          {
+            "amount": 929000.0,
+            "context": "reduction in one receivable without support"
+          },
+          {
+            "amount": 17400000.0,
+            "context": "deposits tested for independent verification"
+          },
+          {
+            "amount": 9300000.0,
+            "context": "lacked documentation of independent deposit verification"
+          }
+        ],
+        "recommendation": "Maintain adequate documentation for all financial transactions; conduct independent deposit verifications.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 2025"
+      },
+      {
+        "number": 6,
+        "title": "Corporate purchasing cards were not promptly cancelled for employees who separated from MIA.",
+        "description": "8 of 9 separating cardholders had cards not cancelled timely (73-467 days late or active). 16 charges totaling $4,000 processed after separation; $1,600 unsupported.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 781000.0,
+            "context": "total corporate purchasing card transactions"
+          },
+          {
+            "amount": 4000.0,
+            "context": "charges processed after employee separation"
+          },
+          {
+            "amount": 1600.0,
+            "context": "unsupported charge amount"
+          }
+        ],
+        "recommendation": "Promptly cancel CPCs when employees separate; obtain documentation for unsupported charge and take corrective action.",
+        "agency_agrees": true,
+        "agency_completion_date": "February 2024; April 2025"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "MIA agreed with all findings and recommendations. They provided estimated completion dates for corrective actions, ranging from February 2024 to Fiscal Year 2027. The Legislative Auditor concluded the proposed corrective actions are sufficient to address all audit issues.",
+    "total_dollar_impact": 672001600.0,
+    "extraction_notes": "Report date derived from transmittal letter (May 2, 2025). Prior findings count and repeated status derived from Figure 3. Dollar amounts converted to integers."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 5 amount 9300000.0",
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:45:33.733749",
+  "content_hash": "bdb928f6e38bca8165ad2d8056cecba5329be02f",
+  "duplicate_of": "5a8f4d12cc9d724560674485"
+}

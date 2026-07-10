@@ -1,0 +1,312 @@
+{
+  "extraction": {
+    "agency_name": "Montgomery County Public Schools",
+    "parent_department": "Montgomery County Board of Education",
+    "report_date": "2016-05-01",
+    "audit_period_start": "2013-07-01",
+    "audit_period_end": "2014-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Checks Received at Certain Locations Were Not Recorded Nor Restrictively Endorsed Immediately Upon Receipt, and Accountability Over the Transfer of Collections to the Controller\u2019s Office for Deposit Was Not Established",
+        "description": "Proper controls over collections initially received at various locations other than the Controller's office were not established. Checks received at four departments were not recorded or restrictively endorsed until receipts arrived at the Controller's Office, and accountability over transfer was not established.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 290000.0,
+            "context": "collections totaling $290,000 transferred to the Controller's Office"
+          },
+          {
+            "amount": 41000000.0,
+            "context": "cash receipts totaled approximately $41 million during fiscal year 2014"
+          }
+        ],
+        "recommendation": "Ensure that all collections are immediately recorded and restrictively endorsed upon receipt by the department receiving the payment, and ensure that an independent employee performs a documented verification that all collections recorded by the departments were subsequently transferred to and accepted by the Controller's Office for deposit.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MCPS Had Not Sufficiently Pursued Collection of Delinquent Accounts Receivable and Non-Cash Credits Could Be Processed Without Independent Approval and Adequate Supporting Documentation",
+        "description": "MCPS did not adequately pursue collection of certain accounts receivable and controls were not adequate over non-cash credits processed by the central accounting office. Debt collection procedures were not comprehensive, and improper non-cash credits could be processed without detection.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3500000.0,
+            "context": "$3.5 million that was over 360 days past due"
+          },
+          {
+            "amount": 456560.0,
+            "context": "outstanding accounts totaling $456,560 that were over 360 days past due"
+          },
+          {
+            "amount": 135187.0,
+            "context": "unpaid balances totaling $135,187"
+          },
+          {
+            "amount": 365000.0,
+            "context": "non-cash credits totaled approximately $365,000 during fiscal year 2015"
+          },
+          {
+            "amount": 46683.0,
+            "context": "test of 10 non-cash credits totaling $46,683"
+          },
+          {
+            "amount": 22037.0,
+            "context": "credits totaling $22,037 without supporting documentation"
+          }
+        ],
+        "recommendation": "Develop comprehensive debt collection policies and procedures that address progressive collections steps; ensure independent supervisory personnel use a system output report to review non-cash credit adjustments; enhance its non-cash credit policy by including who can initiate a non-cash credit and what documentation is to be retained.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "A Number of Employees Had Procurement And Disbursement System Capabilities Assigned Which Allowed Them To Perform Incompatible Functions",
+        "description": "MCPS did not establish adequate internal controls over its automated financial management system. Forty-one employees had been assigned system capabilities that allowed them to perform incompatible critical functions without independent review.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Strengthen its controls over the automated financial management system by segregating employee duties and restricting system capabilities; if there are instances where system capabilities cannot be adequately restricted, develop a process to identify and report on critical transactions processed by the aforementioned employees.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "MCPS Awarded a $900,000 Contract Without Using a Competitive Procurement Process or Justifying That Decision and, for Five Other Contracts Tested, MCPS Did Not Assess the Benefits of Intergovernmental Cooperative Purchasing Agreements as Required by State Law",
+        "description": "MCPS awarded a three-year $900,000 contract without using a competitive procurement process. For five contracts based on intergovernmental cooperative purchasing agreements totaling $33.0 million, MCPS did not prepare a written determination of the benefits.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 900000.0,
+            "context": "$900,000 contract awarded without using a competitive procurement process"
+          },
+          {
+            "amount": 300000.0,
+            "context": "payments totaling $300,000 in fiscal year 2014"
+          },
+          {
+            "amount": 61000000.0,
+            "context": "contracts with 12 vendors for goods and services with payments totaling approximately $61 million"
+          },
+          {
+            "amount": 33300000.0,
+            "context": "contracts with 6 vendors totaling approximately $33.3 million"
+          }
+        ],
+        "recommendation": "Procure vendors through a competitive procurement process unless there is a documented justification to use the sole-source procurement method; comply with State law and ensure that a written determination substantiating its use of an intergovernmental cooperative purchasing agreement is prepared.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MCPS\u2019 Monitoring of Certain Contracts Did Not Ensure That the Best Value Was Obtained or that Payments Did Not Exceed the Contract Amounts",
+        "description": "There was a lack of sufficient contract monitoring for contracts with 4 vendors. MCPS did not ensure payment arrangements provided for services to be obtained at the best value and payments did not exceed approved contract amounts.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21100000.0,
+            "context": "contracts with 4 vendors with payments totaling $21.1 million"
+          },
+          {
+            "amount": 226000.0,
+            "context": "legal services with payments totaling $226,000 in fiscal year 2014"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "paid the vendors approximately $1.3 million more than the contract amounts approved by the Board"
+          },
+          {
+            "amount": 10376130.0,
+            "context": "$10,376,130 contract amount for computer hardware and services"
+          }
+        ],
+        "recommendation": "Evaluate vendor payment arrangements to ensure services are obtained at the best value; monitor contract costs to ensure total payments do not exceed the contract values; seek retroactive Board approval for the aforementioned contracts.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Independent Reviews Did Not Provide Sufficient Assurance That Certain Personnel Transactions, Such As Changes To Employee Information And Salary, Were Proper",
+        "description": "Independent reviews of certain personnel changes processed did not provide sufficient assurance that all personnel changes were authorized and supported. The review's purpose was to ensure changes were only made by designated employees rather than verifying propriety.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Verify, at least on a test basis, the propriety of personnel changes recorded in the automated system.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "The MCPS Core Network Firewalls Were Not Configured To Properly Secure The MCPS Network, Allowing Overly Broad Network Level Access With Insufficient Security Event Logging And Monitoring",
+        "description": "Firewall rules allowed overly broad network level access from all locations. Security event logging and monitoring was not sufficient, and administrative connections were not restricted to authorized source addresses.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Configure its firewalls to achieve a least privilege security strategy; configure core firewalls to send email alerts regarding critical firewall security events; regularly review logs and investigate unusual items; restrict administrative access to authorized source addresses.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "The MCPS Network Was Not Sufficiently Secured To Assist In The Detection/Prevention Of Potential Network Security Breaches And Attacks, And Restrict Access To Critical Servers",
+        "description": "The network was not subject to Intrusion Detection Prevention System coverage. Thirty critical non-public servers were improperly placed in a segment with publicly accessible servers.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Perform a documented review and assessment of network security risks; relocate non-public servers to the internal network; restrict network level access for third-party business partners.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 9,
+        "title": "Workstations And Servers Were Not Sufficiently Protected Against Malware, As Administrative Access Was Not Properly Restricted And Systems Were Running Outdated Or Unsupported System Software",
+        "description": "Five of nine workstations tested were improperly configured with users having administrator rights. All computers tested were running outdated operating system software and had not been updated with latest releases.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure that administrator rights on workstations are restricted; promptly install all critical security-related software updates; ensure the management tool used to administer anti-malware software is supported by the vendor.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-08-31"
+      },
+      {
+        "number": 10,
+        "title": "Network, Application, And Database Account And Password Controls Were Not Sufficient To Properly Protect Critical Resources, As They Did Not Meet Minimum Thresholds In Accordance With Recognized Best Practices",
+        "description": "Account and password controls over network authentication and system applications did not meet certain minimum thresholds identified in best practices.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish appropriate network, application, and database account and password controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Controls Over The Critical Student Information And Financial Management System Databases Were Not Sufficient, As Security Activity Was Not Logged, And Various Software In Use Was No Longer Supported By The Respective Developers",
+        "description": "Both databases were not configured to log any database security activity. Database and operating system software versions used were no longer supported by developers.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Set the student information and financial management system databases to log all critical security related events; ensure that all production database and operating system software is supported by the respective developers.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "MCPS Did Not Have A Complete Information Technology Disaster Recovery Plan For Recovering Computer Operations",
+        "description": "MCPS did not have a complete information technology Disaster Recovery Plan. The plan did not address several minimum requirements and documentation did not exist to evidence that the DRP had been tested since May 2011.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop and implement a comprehensive disaster DRP that is in accordance with the IT Disaster Recovery Guidelines; periodically test the DRP, document the testing, and retain the documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-12-31"
+      },
+      {
+        "number": 13,
+        "title": "Maintenance Supervisors Did Not Ensure Work Orders Were Completed Timely And That The Completion Of Work Was Properly Recorded In The Automated System",
+        "description": "Maintenance supervisors did not ensure that maintenance work orders were completed timely and recorded as complete in the automated system. There were 12,725 open work orders as of June 17, 2015.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure maintenance supervisors periodically perform effective reviews of system reports to ensure open work orders are completed timely and recorded as complete in the system.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "MCPS Did Not Use Formal Targets For Revising Bus Routes Or Fully Use Its Automated Routing Software To Improve Route Efficiency And 300 Routes Were Found With Ridership Significantly Below Bus Ridership Goals",
+        "description": "MCPS did not use formal targets and goals to guide decisions regarding bus routes. Approximately 300 routes were below 50 percent of MCPS' bus capacity.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop formal and comprehensive policies and procedures for its bus routes; use automated routing software to help ensure the efficient utilization of buses.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "Bus Maintenance Work Order Records Frequently Did Not Reflect The Current Status Of Assigned Maintenance Work, And Discrepancies In The Maintenance Parts And Supplies Inventory Were Not Timely Investigated And Resolved",
+        "description": "Automated bus maintenance system was not always updated upon completion of work orders. Physical inventories identified shortages totaling $92,000 and overages totaling $49,500.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1700000.0,
+            "context": "bus maintenance parts and supplies inventory consisting of approximately 25,000 different items costing $1.7 million"
+          },
+          {
+            "amount": 92000.0,
+            "context": "shortages totaling $92,000"
+          },
+          {
+            "amount": 49500.0,
+            "context": "overages totaling $49,500"
+          },
+          {
+            "amount": 14000.0,
+            "context": "shortages... totaling $14,000"
+          }
+        ],
+        "recommendation": "Update maintenance records in the automated system to record completion of work orders; timely investigate and determine cause of discrepancies identified during annual physical inventories; ensure an independent employee verifies that inventory items withdrawn by overnight mechanics were appropriate.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "MCPS Did Not Ensure The Propriety Of Certain Employee And Retiree Healthcare Claims Paid By Its Plan Administrators",
+        "description": "MCPS did not verify the propriety of claims and benefits paid by program administrators. Health care claims payments totaled $295 million during fiscal year 2014.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 369000000.0,
+            "context": "healthcare expenditures... totaled approximately $369 million during fiscal year 2014"
+          },
+          {
+            "amount": 295000000.0,
+            "context": "health care claims payments totaled $295 million during fiscal year 2014"
+          }
+        ],
+        "recommendation": "Enhance its procedures to verify healthcare costs by ensuring the propriety of paid claims.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 23,
+    "prior_findings_repeated": 6,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "Montgomery County Public Schools agrees with most findings but disagrees with several (Findings 3, 4, 5, 6, 14, and 16), citing existing controls or legal interpretations. The agency outlines plans to implement recommendations where agreed upon.",
+    "total_dollar_impact": 1392000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 4 amount 33300000.0",
+    "repeat_count_mismatch: extracted 7, asterisk markers 8"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T19:54:31.672059",
+  "content_hash": "c1ab3b75beae5f4463970bca28e25c8fa363f769",
+  "duplicate_of": "5a945d37cc9d72404c150a26"
+}

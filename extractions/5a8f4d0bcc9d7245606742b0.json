@@ -1,0 +1,110 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2017-10-01",
+    "audit_period_start": "2013-07-01",
+    "audit_period_end": "2016-08-28",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Bowie State University (BSU) lacked an independent verification of the propriety of certain financial aid awards and adjustments, resulting in improper awards totaling $54,000 going undetected.",
+        "description": "BSU lacked independent verification for grant awards and manual adjustments to financial aid. Tests disclosed 9 improper awards totaling $54,000 out of a sample of 26 awards worth approximately $381,000. Manual adjustments were not subject to supervisory review.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 54000.0,
+            "context": "improper awards totaling $54,000 going undetected"
+          }
+        ],
+        "recommendation": "We recommend that BSU a. independently verify the propriety of grant awards and manual adjustments to financial aid awards; and b. take appropriate corrective action for any errors identified.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-11-01"
+      },
+      {
+        "number": 2,
+        "title": "BSU paid its building system maintenance and housekeeping services vendors without ensuring that the required level of services were received.",
+        "description": "BSU paid vendors for contracts valued at $3.2 million and $12.9 million totaling approximately $977,000 in payments but did not verify services via monthly reports as required by contract. BSU relied on triannual consultant reviews instead of ongoing monitoring.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3200000.0,
+            "context": "building system maintenance contract was valued at $3.2 million"
+          },
+          {
+            "amount": 12900000.0,
+            "context": "housekeeping services contract was valued at $12.9 million"
+          },
+          {
+            "amount": 977000.0,
+            "context": "Payments to these vendors under the current contracts totaled approximately $977,000"
+          }
+        ],
+        "recommendation": "We recommend that BSU obtain the monthly reports of services performed as required by the respective contracts and compare to vendor invoices prior to payment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "BSU did not verify the propriety of changes to student residency status and did not generate a comprehensive report of such changes to facilitate these verifications.",
+        "description": "BSU did not review student residency changes since August 2015, lacked documentation for prior reviews, and could not determine the extent of changes. Accurate determinations are critical due to significant tuition rate differences between in-state ($5,321) and out-of-state ($15,857).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5321.0,
+            "context": "in-state undergraduate tuition was $5,321"
+          },
+          {
+            "amount": 15857.0,
+            "context": "out-of-state undergraduate tuition rate was $15,857"
+          }
+        ],
+        "recommendation": "We recommend that BSU generate comprehensive output reports of residency changes, review the changes for propriety, and document the review, at least on a test basis.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Sensitive personally identifiable information (PII) maintained by BSU was stored without adequate safeguards.",
+        "description": "BSU stored sensitive PII including 152,806 social security numbers in clear text without encryption or substantial mitigating controls. BSU had not used scanning software to identify all sensitive PII or deleted unnecessary data.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BSU a. use the aforementioned software on its systems and identify all sensitive PII, b. determine if it is necessary to retain this PII and delete all unnecessary PII, c. determine if all necessary PII is properly protected by encryption or other substantial mitigating controls, and d. encrypt all sensitive PII not otherwise properly protected or implement other substantial mitigating controls.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-08-31"
+      },
+      {
+        "number": 5,
+        "title": "Malware protection for BSU computers was not sufficient to provide BSU with adequate assurance that these computers were properly protected.",
+        "description": "BSU did not properly utilize malware protection console reports and dashboard. Logged data did not reflect operational software on many computers, identified outdated versions, and workstations had not been updated with critical security patches for vulnerable applications.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BSU a. continually review the malware protection console reports and dashboard to ensure that all listed active computers have current signature files and operational and up-to-date malware protection software installed, b. document these reviews and any follow-up efforts and retain the documentation for future reference, and c. ensure that all workstations are kept up-to-date for critical security related updates.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-02-15"
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "BSU agrees with all recommendations and outlines implementation plans with specific completion dates ranging from November 2017 to August 2018.",
+    "total_dollar_impact": 54000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:35:41.522882",
+  "content_hash": "bfa9ebe95543b40262317210657d70d96ba8358a",
+  "duplicate_of": "5a8f4d0bcc9d7245606742aa"
+}

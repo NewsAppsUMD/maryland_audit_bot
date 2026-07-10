@@ -1,0 +1,86 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Clerk of Circuit Court",
+    "parent_department": "Judiciary",
+    "report_date": "2014-05-01",
+    "audit_period_start": "2010-09-13",
+    "audit_period_end": "2013-10-09",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Collection efforts for certain accounts, and related recordkeeping, were not sufficient to ensure compliance with State regulations.",
+        "description": "The Office did not issue dunning notices or forward certain accounts to CCU as required; as of December 23, 2013, there were 31,169 accounts totaling approximately $7.8 million due prior to January 2009 that were not subject to collection efforts. Additionally, the Office did not pursue collection of receivables for which a judge ordered deferred due dates; BCSO identified 10,390 open accounts totaling $3.2 million with no due date recorded as of April 2013, and records had not been updated by December 5, 2013.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7800000.0,
+            "context": "accounts totaling approximately $7.8 million due prior to January 2009 not subject to collection efforts"
+          },
+          {
+            "amount": 3200000.0,
+            "context": "open accounts totaling $3.2 million with no due date recorded in the accounts receivable system"
+          }
+        ],
+        "recommendation": "pursue collections via dunning notices and forward delinquent accounts to CCU; maintain accounts receivable records which properly account for deferred court fees",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Adequate accountability and control had not been established over civil court fee collections.",
+        "description": "The Office lacked adequate accountability and control over civil court fee collections totaling $1.2 million during fiscal year 2013, including failing to review employee access capabilities on the automated cash register system where over 800 individuals had access and 7 employees could perform incompatible functions. Additionally, civil court fees received by mail were not restrictively endorsed immediately upon receipt.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "civil court fee collections during fiscal year 2013"
+          }
+        ],
+        "recommendation": "periodically review employee access capabilities for the automated cash register system and ensure duties are properly separated; take immediate action to address specific access deficiencies; restrictively endorse checks immediately upon receipt",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Office\u2019s procedures did not sufficiently ensure the propriety of disbursements to jurors.",
+        "description": "The Office did not sufficiently ensure the propriety of juror disbursements totaling approximately $835,000 during fiscal year 2013; specifically, supervisors used system-generated attendance reports rather than independent records for verification, and duties were not adequately segregated for Grand Jury disbursements.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 835000.0,
+            "context": "juror disbursements during fiscal year 2013"
+          },
+          {
+            "amount": 760000.0,
+            "context": "Petit Jury juror disbursements during fiscal year 2013"
+          },
+          {
+            "amount": 75000.0,
+            "context": "Grand Jury jurors disbursements during fiscal year 2013"
+          }
+        ],
+        "recommendation": "use juror attendance records maintained by the check-in clerk to verify propriety of Petit Jury disbursements; separate responsibilities for collecting Grand Jury attendance data and processing information for payment",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the Judiciary's response to findings and recommendations is included in an appendix, but the content of the response is not provided in this text.",
+    "total_dollar_impact": 11000000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T22:20:23.527969",
+  "content_hash": "9104f50366fe175f5a832701d496951e7bdeaf76",
+  "duplicate_of": "5a8f4d0ccc9d7245606742e8"
+}

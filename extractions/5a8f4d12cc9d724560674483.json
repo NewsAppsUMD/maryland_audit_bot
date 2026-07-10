@@ -1,0 +1,368 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Insurance Administration",
+    "parent_department": "Maryland Insurance Administration",
+    "report_date": "2014-11-01",
+    "audit_period_start": "2010-09-29",
+    "audit_period_end": "2013-08-04",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Procurement of a New Premium Tax System Did Not Comply With State Procurement Regulations and the Project Was Not Adequately Planned",
+        "description": "MIA did not comply with State procurement regulations when hiring IT consultants for the premium tax system replacement and significantly changed the scope without initiating a new competitive process. The project proceeded without a formal plan, specifications, or cost estimates, leading to adverse operational impacts.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 221000.0,
+            "context": "contract value as of April 2014"
+          },
+          {
+            "amount": 210300.0,
+            "context": "related payments totaled"
+          },
+          {
+            "amount": 25000.0,
+            "context": "initial contract amount"
+          }
+        ],
+        "recommendation": "MIA should comply with State procurement regulations, ensure modifications are justified and not split to avoid approvals, and develop a comprehensive plan prior to further system development.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "An MIA Management Employee Exercised Excessive Control Over the Premium Tax System Procurement and Implementation",
+        "description": "A management employee influenced virtually all aspects of the procurement and implementation, creating an appearance of a conflict of interest due to familiarity with the contractor. The employee exercised excessive control over procurement, contract monitoring, and invoice approval functions.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MIA should separate duties over procurement, contract monitoring, and invoice approval functions, and refer the issue to the State Ethics Commission.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Premium Tax System Was Not Properly Secured and a Contractor Had Complete Control Over the System",
+        "description": "The contractor had complete control over the system and unnecessary access to the MIA network, including database administration and security settings. The contractor could make unapproved changes without detection.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MIA should establish review procedures for code, remove security modification access from the contractor, and configure firewalls to limit contractor access.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-05-30"
+      },
+      {
+        "number": 4,
+        "title": "MIA Lacked Assurance That the Premium Tax System Was Properly Secured and Configured to Protect It From External Threats and Unauthorized Changes",
+        "description": "The system was not adequately secured against external threats; vulnerability assessments were not performed, passwords were stored in clear text, and security patches were not applied for over 900 days.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MIA should obtain vulnerability assessments, use a web application firewall, securely configure the system, log security activity, update patches, and implement strong account controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MIA Had Not Established Adequate Controls Over Audits of Premium Tax Filings and a Number of Errors Were Detected",
+        "description": "MIA lacked independent supervisory review of audit results, leading to errors such as duplicate account credits and failure to assess penalties and interest on late payments.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 113800000.0,
+            "context": "premium tax payments related to audits performed by one employee"
+          },
+          {
+            "amount": 50900000.0,
+            "context": "payments totaling inaccuracies or documentation deficiencies"
+          },
+          {
+            "amount": 403000.0,
+            "context": "refund improperly applied to account"
+          },
+          {
+            "amount": 213000.0,
+            "context": "balance refunded to company"
+          },
+          {
+            "amount": 158000.0,
+            "context": "penalties and interest not assessed for late payments"
+          },
+          {
+            "amount": 2800000.0,
+            "context": "payments totaling did not include proper amounts or were paid late"
+          },
+          {
+            "amount": 125000.0,
+            "context": "penalties and interest that should have been assessed"
+          },
+          {
+            "amount": 70200.0,
+            "context": "underpaid taxes based on NAIC database"
+          }
+        ],
+        "recommendation": "MIA should ensure auditors do not record payments, audits are reviewed by independent personnel, penalties and interest are assessed unless waived, and discrepancies with NAIC data are resolved.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-09-15"
+      },
+      {
+        "number": 6,
+        "title": "Procedures Were Not Sufficient to Ensure Certain Premium Tax Payments Were Received Timely",
+        "description": "MIA did not record postmark dates for mailed payments, using system processing dates instead, which prevented accurate determination of timely payment and assessment of penalties.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7400000.0,
+            "context": "payments totaling tested"
+          },
+          {
+            "amount": 4500000.0,
+            "context": "payments appearing to have been received late"
+          },
+          {
+            "amount": 156000.0,
+            "context": "penalties and interest that could have been assessed"
+          }
+        ],
+        "recommendation": "MIA should record postmark dates of payments and assess penalties and interest for late payments as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "MIA Had Not Established Proper Controls Over Premium Tax Refunds",
+        "description": "Refunds were approved by the same supervisory employee who had access to modify system data, and duplicate refunds appeared to be issued without detection.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7800000.0,
+            "context": "refunds totaling tested"
+          },
+          {
+            "amount": 4100000.0,
+            "context": "ten refunds approved by same supervisory employee"
+          },
+          {
+            "amount": 146000.0,
+            "context": "five refunds appearing to be duplicates"
+          },
+          {
+            "amount": 361000.0,
+            "context": "potential duplicate payments identified in expanded review"
+          }
+        ],
+        "recommendation": "MIA should ensure an independent supervisory employee releases refunds and investigate duplicate refunds to recover overpayments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "MIA Did Not Reconcile Its Records of Premium Tax Revenues With the Corresponding State Accounting Records",
+        "description": "MIA did not reconcile premium tax system records with State accounting records, resulting in payments not being recorded in the premium tax system.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 27300000.0,
+            "context": "payments totaling tested"
+          },
+          {
+            "amount": 15700000.0,
+            "context": "payments not recorded in premium tax system"
+          },
+          {
+            "amount": 16400000.0,
+            "context": "chargebacks totaling tested"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "one chargeback not recorded in premium tax system"
+          }
+        ],
+        "recommendation": "MIA should reconcile its premium tax records with State records and investigate differences.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Sufficient Controls Were Not Established Over Financial Examination Services Task Order Awards and Modifications",
+        "description": "The MIA project manager exercised excessive control over task order awards and modifications without effective independent oversight or adequate documentation.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9500000.0,
+            "context": "master contract value"
+          },
+          {
+            "amount": 4700000.0,
+            "context": "related payments totaling as of April 2014"
+          },
+          {
+            "amount": 5300000.0,
+            "context": "task order proposals totaling reviewed"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "evaluations not dated or signed by evaluators"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "task orders increased in cost"
+          }
+        ],
+        "recommendation": "MIA should establish independent oversight of task order awards and modifications, retain documentation of evaluations, and ensure modifications are justified.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "MIA Lacked Accountability and Control Over Certain Cash Receipts",
+        "description": "Checks received in the mail were not recorded immediately upon receipt, some checks were not recorded in the log, and deposit verifications were performed by employees involved in the receipt function.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 154000000.0,
+            "context": "MIA's cash receipts totaled during fiscal year 2013"
+          },
+          {
+            "amount": 52700000.0,
+            "context": "deposits totaling tested"
+          },
+          {
+            "amount": 12500000.0,
+            "context": "checks included in two deposits not recorded"
+          },
+          {
+            "amount": 21000000.0,
+            "context": "individual payments deposited late"
+          }
+        ],
+        "recommendation": "MIA should ensure cash receipts are immediately recorded, collections are deposited timely, and deposit verifications are performed by an independent employee.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Sufficient Controls Were Not Established For the Issuance of Producer Licenses",
+        "description": "Controls were not sufficient for license issuance; one individual reconciled receipts without independence, and five employees could both process and approve flagged applications.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2100000.0,
+            "context": "collections totaling in fiscal year 2013"
+          },
+          {
+            "amount": 247000.0,
+            "context": "vendor compensation for pre-licensing exams in fiscal year 2013"
+          }
+        ],
+        "recommendation": "MIA should ensure reconciliations are performed by an independent employee and separate capabilities to process and approve licenses.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "MIA Lacked Assurance That Producer Licensing and Pre-Licensing Services Systems Were Protected Against Operational and Security Risks",
+        "description": "MIA had not performed security reviews of service providers or obtained independent review reports, leaving MIA data without assurance of adequate controls.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MIA should amend agreements to require service providers to obtain SOC 2 Type 2 reviews and ensure critical security concerns are addressed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "Proper Internal Controls Were Not Established Over Purchases and Disbursement Transactions",
+        "description": "MIA did not establish approval paths for all purchases, allowing one employee to initiate and approve orders without independent approval. Procurement regulations were also not always complied with.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 701000.0,
+            "context": "purchase orders processed without independent approval"
+          },
+          {
+            "amount": 749000.0,
+            "context": "contracts awarded totaling tested"
+          },
+          {
+            "amount": 298000.0,
+            "context": "contract awards not complying with procurement regulations"
+          },
+          {
+            "amount": 161000.0,
+            "context": "IT services contracts awarded without DoIT approval"
+          },
+          {
+            "amount": 131000.0,
+            "context": "sole source award valued at"
+          },
+          {
+            "amount": 390000.0,
+            "context": "temporary personnel services procured without competitive bids"
+          },
+          {
+            "amount": 661000.0,
+            "context": "invoices totaling tested"
+          },
+          {
+            "amount": 397000.0,
+            "context": "invoices lacking support evidencing receipt of goods or services"
+          }
+        ],
+        "recommendation": "MIA should establish independent online approval requirements, ensure supporting documentation is reviewed, and comply with State procurement regulations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "Administrative Access to MIA's Network Was Excessive",
+        "description": "Six accounts assigned to five individuals were improperly classified as domain administrators, giving them control over all MIA domain resources.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MIA should ensure domain administrator privileges are only assigned to users requiring such privileges.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-05-30"
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Maryland Insurance Administration agrees with all findings and recommendations. The agency has implemented organizational changes, hired a new Procurement Officer, established new procedures for procurement and cash receipts, referred the ethics issue to the State Ethics Commission, and is working on security improvements including SOC 2 reviews.",
+    "total_dollar_impact": 31667200.0,
+    "extraction_notes": "Total dollar impact calculated as sum of quantified questioned or unaccounted-for amounts across findings (F5: $70,200 + $158,000 + $125,000; F6: $156,000; F7: $361,000; F8: $15.7M + $2.2M; F10: $12.5M; F13: $397,000). Report date derived from header 'November 2014' using first day of month rule."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 9 amount 4700000.0",
+    "dollar_amount_not_in_text: finding 10 amount 154000000.0",
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:41:06.347728",
+  "content_hash": "956690d88b127671048c56981cd640a2e4839218",
+  "duplicate_of": null
+}

@@ -1,0 +1,328 @@
+{
+  "extraction": {
+    "agency_name": "Caroline County Public Schools",
+    "parent_department": "Caroline County Public Schools",
+    "report_date": "2010-04-27",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Revenue and Billing Cycle Activities Were Generally Adequate Although Internal Controls Over Student Activity Funds Could Be Improved",
+        "description": "The audit relied on the independent CPA firm's review of fiscal year 2009 financial statements. The auditor identified a significant deficiency in internal controls over student activity funds, noting inadequate cash receipt controls and lack of detailed records at the school level to substantiate transactions.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 980000.0,
+            "context": "school activity fund collections for fiscal year 2009"
+          }
+        ],
+        "recommendation": "CCPS should implement internal controls over school activity funds as recommended by its independent certified public accounting firm.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Board Policies for Certain Procurements Should Be Reevaluated and Updated",
+        "description": "CCPS procurement policies were outdated, including procedures last updated in December 1996. Existing policy required bidding for acquisitions over $15,000 despite state law increasing this to $25,000. Policies did not address sole source procurements or require Board review for piggybacked contracts exceeding $25,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "fiscal year 2009 expenditures for test of 10 procurements"
+          },
+          {
+            "amount": 542000.0,
+            "context": "piggybacked contracts not presented to Board for review and approval"
+          },
+          {
+            "amount": 235000.0,
+            "context": "sole source procurement not submitted to Board for review and approval"
+          }
+        ],
+        "recommendation": "CCPS should update its existing procurement policies to reflect actual practices and current State law, as well as sole source procurements. In addition, CCPS should enhance its existing procurement policies to require that contract awards resulting from the use of other agency contracts and sole source awards be reported to and approved by the Board when the awards exceed a predetermined dollar value (such as $25,000).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "CCPS Should Strengthen Internal Controls Over Its Procurements and Disbursements",
+        "description": "Seven employees had unrestricted access to the automated procurement system allowing them to perform incompatible duties. CCPS could not provide documentation for invoices totaling $391,000 related to consortium or piggyback contracts.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 391000.0,
+            "context": "invoices without documentation to support amounts charged"
+          }
+        ],
+        "recommendation": "CCPS should improve its controls over purchasing and the invoice payment process by separating incompatible functions and by restricting access to critical system functions. In addition, CCPS should establish a process to ensure that a proper and independent review of all disbursement checks and bank reconciliations is performed.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Human Resources and Payroll Internal Controls Need to Be Strengthened",
+        "description": "CCPS did not establish adequate internal control over its automated human resource and payroll system. Seven employees had unrestricted access to functions such as adding/deleting employees and processing adjustments without independent approval.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should restrict critical system access capabilities to those employees whose job duties require such access, separate incompatible duties, and ensure that all transactions are subject to independent review and approval.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Policies, Controls, and Record Keeping Over Equipment Need Improvement",
+        "description": "CCPS had not developed written policies governing the accounting and safeguarding of equipment. Testing disclosed equipment at various locations that had not been tagged or recorded in inventory records.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3900000.0,
+            "context": "undepreciated value of capital equipment as of June 30, 2009"
+          },
+          {
+            "amount": 14000.0,
+            "context": "items not properly tagged and recorded in inventory records"
+          }
+        ],
+        "recommendation": "CCPS should adopt formal policies governing all equipment, and should ensure that the related detail equipment records are properly maintained and that all equipment items are properly identified as CCPS property.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Data Processing Operations Should Be Better Secured",
+        "description": "CCPS did not have a comprehensive information security program or formal disaster recovery plan. Backup tapes of critical servers were stored on the same server or in unsecured locations.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should develop appropriate comprehensive plans to address security practices and disaster recovery. CCPS should also properly safeguard its computer operations, by storing critical back-up files at a secure off-site location.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Steps Should Be Taken to Ensure Access to IT Software Applications and Databases Are Appropriate and Controlled",
+        "description": "Access to CCPS computer resources was not adequately controlled. Automatic password expirations were not enabled for certain systems, and the student information database had not been updated with critical security upgrades.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should implement appropriate security measures to safeguard its applications and data systems by improving account and password protection. CCPS should also ensure that databases used are updated with all critical security upgrades in a timely manner.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Certain Processes Should Be Implemented to Increase the Effectiveness of Maintenance and Custodial Operations",
+        "description": "CCPS had not established formal performance measures or benchmarks for maintenance operations. Documentation was not available to indicate that all required preventive maintenance work had been performed.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 181000.0,
+            "context": "energy cost savings for the first 9 months of the program"
+          }
+        ],
+        "recommendation": "CCPS should develop a performance assessment system for maintenance and custodial operations. CCPS should also document that preventive maintenance was performed to ensure appropriate and timely maintenance is provided to all facilities.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Bus Routing Procedures Should Be Enhanced and Routing Software Should Be Fully Used",
+        "description": "CCPS did not fully use its automated bus routing system. Staff must enter student address information manually since mailing addresses are post office boxes which cannot be used by the routing software.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should establish formal, comprehensive bus routing procedures and fully use its existing automated routing software to help plan more efficient services.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Payments to Bus Contractors Should Be Based On Documented Criteria and Controls Over Payments Should Be Enhanced",
+        "description": "CCPS was using a shorter period for the useful life for buses (10 years) compared to payment duration (12 years), resulting in higher payments. CCPS paid maintenance costs for non-county owned buses at a significantly higher rate than its own vehicles.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 549100.0,
+            "context": "estimated additional payments for buses placed in service since 2004 due to PVA calculation"
+          },
+          {
+            "amount": 500000.0,
+            "context": "estimated excess maintenance related payments to contractors each year"
+          }
+        ],
+        "recommendation": "CCPS should reevaluate the appropriateness of PVA and maintenance amounts paid to bus contractors.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Performance Should Be Measured",
+        "description": "CCPS did not have a formal performance measurement system for its transportation services. Performance measures would serve as a tool that management and the Board could use to monitor transportation operations.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should establish a performance measurement system for its transportation services.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "CCPS Needs to Improve Controls Over Purchasing of Food-Related Items",
+        "description": "Our review of purchases from the five largest vendors disclosed a total of $366,000 was purchased without any review or oversight by the central food services office. Invoices were not always reviewed to ensure prices agreed with vendor price lists.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 366000.0,
+            "context": "purchased from four vendors without review or oversight by central food services office"
+          },
+          {
+            "amount": 800.0,
+            "context": "paid more than vendor's price list for goods received at one school"
+          }
+        ],
+        "recommendation": "CCPS should segregate the duties of ordering and receiving food service items. CCPS should also ensure that purchases receive prior approval of independent supervisory personnel.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "Performance Measures Should Be Used to Help Assess the Efficiency of Food Service Operations",
+        "description": "Although CCPS generated certain performance measures, there was no documentation that this information was used in any meaningful way. Only two schools exceeded 17 MPLH (CCPS minimum benchmark).",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should enhance its performance measurement system to assist in monitoring the efficiency of food service operations.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "The Board Should Establish Formal Policies in a Number of Financial Related Areas",
+        "description": "The Board had not provided formal guidance in areas such as procurement, transportation, inventory, and debt management. The Government Finance Officers Association recommends documenting accounting policies and procedures on a periodic basis.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board should adopt policies to govern and monitor financial and support services operations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "The Board Should Consider Additional Steps to Assist It in Governing CCPS",
+        "description": "CCPS does not have an internal auditor and has not established a confidential hotline or whistleblower policy. The Board had not adopted key performance indicators related to financial operations.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board should enhance its oversight of CCPS operations. For example, the Board should consider establishing an internal audit function or expanding the scope of work performed by its independent auditor. The Board should also consider establishing a hotline and whistleblower policy for the confidential reporting of operational issues and suspected fraud, waste, and mismanagement.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "Certain Assets Were At Risk",
+        "description": "Although CCPS had adopted a cash management policy, certain funds were not adequately collateralized. Funds totaling $96,000, $629,000, and $21,069 for fiscal years 2007, 2008, and 2009, respectively, were not fully insured or collateralized at year-end.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 96000.0,
+            "context": "funds not fully insured or collateralized for fiscal year 2007"
+          },
+          {
+            "amount": 629000.0,
+            "context": "funds not fully insured or collateralized for fiscal year 2008"
+          },
+          {
+            "amount": 21069.0,
+            "context": "funds not fully insured or collateralized for fiscal year 2009"
+          }
+        ],
+        "recommendation": "CCPS should work with its financial institution to ensure all funds are properly insured or otherwise secured by adequate collateral.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "CCPS Needs to Develop a Policy on Long-Term Lease Obligations",
+        "description": "CCPS has not adopted a policy to govern its use of long-term lease obligations. The present value of capital lease payments to be made through 2018 was $1.7 million, with approximately $361,000 due within one year.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1700000.0,
+            "context": "present value of capital lease payments to be made through 2018"
+          },
+          {
+            "amount": 361000.0,
+            "context": "capital lease payments due within one year"
+          }
+        ],
+        "recommendation": "CCPS should develop and adopt a formal policy governing long-term obligations.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "CCPS Should Take Steps to Ensure the Propriety of Health Care Costs",
+        "description": "Neither the Trust nor CCPS verified the authenticity of program participants and their listed dependents. For fiscal years 2007 and 2008, CCPS received refunds of $492,000 and $535,000 based on payments to the Trust.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 492000.0,
+            "context": "refunds received for fiscal year 2007"
+          },
+          {
+            "amount": 535000.0,
+            "context": "refunds received for fiscal year 2008"
+          }
+        ],
+        "recommendation": "CCPS should institute processes to verify the authenticity of health care program participants and their listed dependents.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "In response to the audit findings regarding student activity funds, CCPS stated that documentation and internal controls would be strengthened. The report notes that CCPS has taken steps to address workforce planning and implemented best practices in other areas.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Findings extracted based on numbered Recommendations (1-13) as explicit 'Finding N' sections were not present in the provided text. Audit period dates are null as no explicit start/end range was stated."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 18, regex counted 0",
+    "dollar_amount_not_in_text: finding 17 amount 1700000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T18:15:45.439755",
+  "content_hash": "4d39323aa1dfbc6696bd6c3bf238f4dbd43d0190",
+  "duplicate_of": null
+}

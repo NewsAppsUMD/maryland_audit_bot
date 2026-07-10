@@ -1,0 +1,102 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene; Department of Human Resources",
+    "parent_department": "Department of Health and Mental Hygiene; Department of Human Resources",
+    "report_date": "2011-12-01",
+    "audit_period_start": "2008-01-01",
+    "audit_period_end": "2011-08-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Maryland\u2019s Medicaid eligibility file should be periodically matched to a nationwide death database to identify payments made attributable to deceased individuals.",
+        "description": "Review of 20 individuals disclosed improper payments for 10 totaling $426,403. Existing processes are not effective for deaths in other states. Match identified 323 individuals with $2.5 million in payments after reported dates of death requiring investigation.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 426403.0,
+            "context": "improper payments made from dates of death through August 2011"
+          },
+          {
+            "amount": 279405.0,
+            "context": "improper capitation payments for nine individuals"
+          },
+          {
+            "amount": 146998.0,
+            "context": "long-term care payments for one individual"
+          },
+          {
+            "amount": 2500000.0,
+            "context": "payments attributable to 323 individuals after reported dates of death"
+          },
+          {
+            "amount": 115170.0,
+            "context": "overpayments recovered by DHMH through August 31, 2011"
+          }
+        ],
+        "recommendation": "DHMH and DHR cooperatively develop a process for using the Social Security Administration\u2019s DMF to detect deceased individuals improperly identified as eligible. DHMH should recover remaining improper payments from providers for the 10 individuals identified and investigate the remaining 303 cases.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Other cases identified by the match should be investigated to identify any data inaccuracies and overpayments.",
+        "description": "Match results indicate Medicaid eligibility file could contain data inaccuracies. Match based on social security number only disclosed $7.5 million in payments attributable to 532 individuals after reported dates of death. All matched individuals should be investigated for data errors or removal from eligibility file.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7500000.0,
+            "context": "Medicaid payments attributable to 532 individuals from January 1, 2008 to March 10, 2011"
+          }
+        ],
+        "recommendation": "DHMH and DHR investigate instances where recipients\u2019 identifying information recorded in their systems do not agree with the DMF and take appropriate action. Any improper payments detected should be pursued for recovery.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DHR and DHMH should evaluate the factors that contributed to the overpayments detected during our audit and make any necessary system or process changes.",
+        "description": "Review of ten cases identified contributing factors including failure to take action on eligibility events, deleted records, lack of SSI verification, and residency verification issues. Specific conditions highlight problems requiring investigation and system changes.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 205451.0,
+            "context": "payments improperly made due to eligibility not changing"
+          },
+          {
+            "amount": 25651.0,
+            "context": "MCO capitation payments for deceased individual in deleted case"
+          },
+          {
+            "amount": 31946.0,
+            "context": "improper MCO capitation payments due to SSI eligibility issues"
+          },
+          {
+            "amount": 28083.0,
+            "context": "monthly capitation payments for non-resident individual"
+          }
+        ],
+        "recommendation": "DHMH and DHR evaluate factors contributing to overpayments and institute necessary process and system changes. DHR should periodically verify continued eligibility of individuals approved due to SSI benefits.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DHMH and DHR concur with all recommendations. They note existing recovery processes recovered approximately $7 million in FY2010-2011. DHMH states investigating all DMF matches may not be feasible due to error rates but will work cooperatively on a process. Specific recoveries of $163,631 were made for 6 cases as of November 1, 2011.",
+    "total_dollar_impact": 7500000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T23:29:59.593466",
+  "content_hash": "40d512675c274f9dc9303d8e27af0ddd92ad7bc8",
+  "duplicate_of": null
+}

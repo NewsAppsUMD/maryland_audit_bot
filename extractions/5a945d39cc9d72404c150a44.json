@@ -1,0 +1,240 @@
+{
+  "extraction": {
+    "agency_name": "Wicomico County Public Schools",
+    "parent_department": null,
+    "report_date": "2014-03-01",
+    "audit_period_start": "2009-07-01",
+    "audit_period_end": "2012-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "User Access to the Automated Procurement and Accounts Payable System Was Not Adequately Restricted",
+        "description": "WCPS did not adequately restrict user access capabilities on its automated procurement and accounts payable system. Certain employees were assigned capabilities that allowed them to perform incompatible functions, such as initiating and approving purchase requisitions or changing vendors without independent approval.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that WCPS strengthen its controls over the automated procurement and accounts payable system and processes. Specifically, we recommend that WCPS restrict user access capabilities to eliminate the ability of users to perform incompatible duties and establish independent electronic approval requirements for all critical purchasing and accounts payable transactions, as well as changes to user access capabilities.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "WCPS Does Not Have a Formal Policy on Acceptable Uses of Corporate Purchasing Cards",
+        "description": "WCPS procurement guidelines did not specify acceptable uses for corporate purchasing cards. Review disclosed expenditures totaling $162,000 from local fast food merchants and 257 transactions totaling $27,349 appearing to be gift card purchases, which are prohibited by State policy.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 162000.0,
+            "context": "purchasing card expenditures from local fast food or restaurant merchants"
+          },
+          {
+            "amount": 27349.0,
+            "context": "transactions appearing to be gift card purchases"
+          }
+        ],
+        "recommendation": "We recommend WCPS establish formal guidelines, subject to Board approval, on what constitutes acceptable and unacceptable uses for corporate purchasing cards.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "User Access to the Automated Human Resource and Payroll System Was Not Adequately Restricted",
+        "description": "WCPS did not adequately restrict user access capabilities for critical functions such as changing employee salary information. Additionally, WCPS lacked an independent review to ensure that payroll transactions were proper.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that WCPS assign capabilities to perform critical functions on the automated system only to those employees who require it to perform their job responsibilities, and ensure that a documented review of payroll transactions is performed by an independent employee.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Certain WCPS Employees Received Pay Increases Larger Than Provided For in the Labor Agreement",
+        "description": "WCPS increased salaries of certain employees more than specified by the negotiated agreement and did not present increases to the Board for approval. Review disclosed 25 pay grade increases where methodology was not used, resulting in additional annual wages totaling approximately $69,000.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 69000.0,
+            "context": "additional annual wages resulting from pay grade increases"
+          }
+        ],
+        "recommendation": "We recommend that WCPS ensure that salary increases are determined in accordance with the terms of the labor agreement, and ensure all promotions, including those we identified, are approved by the Board as required.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Proper Controls Had Not Been Established Over Equipment",
+        "description": "Internal controls over equipment disposals and records were not adequate. Test of items disclosed that 6 items totaling approximately $29,000 were deleted from records without disposal approval as required.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 29000.0,
+            "context": "items deleted from records without disposal approval"
+          }
+        ],
+        "recommendation": "We recommend that WCPS improve its procedures and controls over equipment. Specifically, we recommend that WCPS verify that all changes to equipment records, including disposals, are properly supported and approved prior to posting adjustments; ensure that appropriate identifying information is maintained in the detail records; and assign capabilities to perform critical functions on the automated inventory record keeping system only to employees who require such capabilities to perform their job duties.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Account, Password, and Monitoring Controls Over Critical Systems Were Not Adequate",
+        "description": "Account and password controls were not sufficient to protect critical resources. Critical security and audit events on student information and finance management databases were not logged.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that WCPS establish account and password controls in accordance with the best practices prescribed by the State of Maryland DoIT Information Security Policy; and log critical security and audit events on the student information and finance management databases, routinely review all security event logs, investigate questionable items, document these reviews and investigations and retain the documentation for audit verification purposes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "WCPS Did Not Have a Disaster Recovery Plan and Backup Procedures For Critical Network Devices Were Not Sufficient",
+        "description": "WCPS did not have an Information Technology Disaster Recovery Plan for recovering computer operations from disaster scenarios. Backup files for critical network devices were not stored in a secure, environmentally-controlled location.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that WCPS develop and implement a comprehensive and consolidated disaster recovery plan that is in accordance with the State of Maryland Information Technology (IT) Disaster Recovery Guidelines; and backup files of critical network device configurations at an offsite, secure, environmentally-controlled location.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "WCPS\u2019 Network Was Not Adequately Secured",
+        "description": "The WCPS computer network was not adequately secured against intrusions. Firewall rules allowed insecure connections, publicly accessible servers were located in the internal network rather than a protected zone, and traffic from the Internet was not subject to Intrusion Prevention System monitoring.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that WCPS properly configure the firewall rules to implement a \u201cleast privilege\u201d security strategy for better protecting its critical network devices; relocate all publicly accessible servers to the external protected zone to limit security exposures to critical systems on the internal network; and assess network security risks, and based on this assessment, implement IPS coverage, where necessary, for Internet traffic entering its network.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Bus Routing Procedures Were Not Comprehensive and WCPS Did Not Fully Utilize Its Automated Routing Software",
+        "description": "WCPS had not formalized policies for planning bus routes. The automated routing software was used primarily to map existing routes rather than evaluate efficiency. Analysis disclosed ridership for many bus runs was significantly less than bus capacities.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that WCPS take steps to determine if buses can be used more efficiently. Specifically, we recommend that WCPS develop formal, comprehensive bus routing policies and procedures that include guidance regarding the impact of bus capacities and student ride times; and utilize its automated routing software to develop more efficient bus routes on a system-wide basis.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Certain Payments to Bus Contractors Were Not Based on Market Conditions or Actual Costs",
+        "description": "WCPS paid contractors an annual Per Vehicle Allotment (PVA) with a return on investment rate higher than the prime interest rate. WCPS also could not support the basis for maintenance rates and did not exclude exempt federal excise taxes from fuel payments.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3200000.0,
+            "context": "potential cost savings over the estimated 15-year life of 35 buses"
+          },
+          {
+            "amount": 276000.0,
+            "context": "excessive fuel payments to contractors for periods in which fuel costs decreased below base rate (fiscal years 2009 and 2011)"
+          },
+          {
+            "amount": 271000.0,
+            "context": "payments to contractors for the exempted tax in fiscal years 2009 through 2012"
+          }
+        ],
+        "recommendation": "We recommend that WCPS reevaluate its method of establishing payment amounts to bus contractors in future contracts. Specifically, we recommend that WCPS use prevailing market rates (when determining investment rates), maintenance costs, and fuel costs (including consideration of the federal diesel fuel excise tax exemption) as the basis for establishing and documenting the annual per vehicle allotment, maintenance rate, and fuel rate.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "WCPS Did Not Ensure the Accuracy of Data Used to Compute Certain Payments to Bus Contractors",
+        "description": "WCPS did not ensure the accuracy of time and mileage payments to bus contractors. WCPS only used GPS data to verify a small portion of contractor reported information. Testing disclosed overpayments for mileage and time.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 23000.0,
+            "context": "WCPS overpaid for mileage and time by a total of $23,000 for the 11 route manifests identified in our test"
+          },
+          {
+            "amount": 19700.0,
+            "context": "total mileage overpayments to one contractor calculated from fiscal year 2012 and 2013 manifests"
+          }
+        ],
+        "recommendation": "We recommend that WCPS independently verify all bus contractor\u2019s manifests to ensure that the payments to the contractors accurately reflect the actual bus services provided; document the verification process; and recover any overpayments to the bus contractors, including amounts identified in our test.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "Invoices Were Not Adequately Verified Prior to Payment",
+        "description": "WCPS should strengthen its internal controls over the purchasing of food supplies. Test of invoices disclosed that for all 10 invoices evidence of a documented review for propriety prior to payment was lacking.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 98218.0,
+            "context": "invoices tested related to food expenditures"
+          }
+        ],
+        "recommendation": "We recommend that WCPS compare invoice prices with contract or agreed-upon prices, and maintain price lists for all contracts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "WCPS Did Not Competitively Bid Certain Health Care Service Contracts",
+        "description": "WCPS obtained certain health care services without using competitive procurements. The contract for third-party administrative services has not been bid since 2001.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that WCPS work with its healthcare consortium members to select healthcare services vendors (third-party administration and stop-loss coverage) through competitive procurement processes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "WCPS Did Not Ensure the Propriety of Payments for Certain Employee and Retiree Health Care Costs",
+        "description": "WCPS lacked procedures to ensure that certain amounts paid to the third-party administrator were proper. WCPS did not audit the propriety of claims paid on its behalf or verify administrative fees.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that WCPS establish procedures to verify the amounts paid for health insurance. Specifically, we recommend that WCPS obtain documentation to support actual claim payments and ensure audits of the claims paid by the administrator are conducted; use detailed claims payment data to ensure that all claims paid above the stop-loss limit are reimbursed by the insurer; and compare its records of enrolled employees, retirees, and dependents to invoices from the administrator and determine the propriety of all administrative fees billed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 21,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Wicomico County Board of Education agreed with most findings but disagreed or objected to Findings 2, 4, 9, and 10. For many findings where agreement was noted, the agency indicated that corrective actions were already implemented during the audit period or are underway.",
+    "total_dollar_impact": 3872349.0,
+    "extraction_notes": "Report date derived from cover page 'March 2014'. Audit period derived from Scope section. Dollar amounts extracted from finding analysis sections where specific questioned costs were quantified."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 10 amount 276000.0",
+    "repeat_count_mismatch: extracted 3, asterisk markers 1"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T21:46:46.951060",
+  "content_hash": "fc929bd48245e058680bf9ed6c8adef504a83179",
+  "duplicate_of": "5a945d39cc9d72404c150a42"
+}

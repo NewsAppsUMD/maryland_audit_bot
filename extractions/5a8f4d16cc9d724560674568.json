@@ -1,0 +1,71 @@
+{
+  "extraction": {
+    "agency_name": "Family Health Administration",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2011-08-11",
+    "audit_period_start": "2007-11-01",
+    "audit_period_end": "2010-08-03",
+    "findings": [
+      {
+        "number": 1,
+        "title": "FHA did not have sufficient procedures in place to ensure that only management authorized changes were made to eCMS production programs and related databases.",
+        "description": "FHA lacked sufficient procedures to ensure only management authorized changes were made to the eCMS production programs and related databases. Documentation of program changes was not always generated or reviewed, and direct access reports were frequently not reviewed by supervisory personnel.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure that documentation of program changes made is generated and subject to supervisory review and approval, and that all requests for eCMS program changes are documented; ensure that all direct access to eCMS-related databases is reported and reviewed by supervisory personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-07-01"
+      },
+      {
+        "number": 2,
+        "title": "FHA did not establish adequate policies regarding the identification and investigation of certain questionable claims.",
+        "description": "FHA had not established the frequency with which certain eCMS reports were generated to identify questionable claims nor had it specified the extent of any follow-up. A report identified 322 questionable claims totaling approximately $88,000 related to 106 providers, but FHA only conducted an on-site review of one provider.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 88000.0,
+            "context": "questionable claims identified"
+          }
+        ],
+        "recommendation": "Establish a policy regarding the identification and investigation of questionable claims; pursue recovery of any improper payments identified.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The financial eligibility criteria for CPESTP participants were not consistent among the local health departments.",
+        "description": "The financial eligibility criteria that FHA used to determine if an individual has the financial means to pay for services provided through CPESTP were not consistent throughout the State. Inconsistencies existed in determining maximum income levels and family unit size for purposes of establishing a client's financial eligibility to receive services.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7000000.0,
+            "context": "CPESTP expenditures"
+          }
+        ],
+        "recommendation": "Establish Statewide eligibility criteria to clarify the determination of household income and the definition of a family unit for CPESTP.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-06-15"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Health and Mental Hygiene concurred with all findings and recommendations. They implemented changes to eCMS documentation and access review effective July 1, 2011, established statewide eligibility criteria for CPESTP effective June 15, 2011, and agreed to pursue recovery of improper payments.",
+    "total_dollar_impact": 88000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 3, regex counted 2"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:54:35.408921",
+  "content_hash": "c0df6de3994fbd85b1e4ea3f924a3555a7aabd5f",
+  "duplicate_of": "5a8f4d16cc9d724560674564"
+}

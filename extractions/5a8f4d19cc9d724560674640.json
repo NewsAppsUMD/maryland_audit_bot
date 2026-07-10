@@ -1,0 +1,48 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2015-10-01",
+    "audit_period_start": "2011-08-18",
+    "audit_period_end": "2015-05-10",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office had not established adequate controls to ensure that inheritance taxes were accurately calculated and paid.",
+        "description": "The Office lacked adequate controls for accurate tax calculation/payment, resulting in errors in 4 of 19 estates reviewed. Testing disclosed 3 estates underpaid inheritance taxes by approximately $46,000 and 1 estate overpaid by approximately $9,000 during the audit period.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000.0,
+            "context": "inheritance taxes collected during audit period"
+          },
+          {
+            "amount": 46000.0,
+            "context": "underpaid inheritance taxes on 3 estates"
+          },
+          {
+            "amount": 9000.0,
+            "context": "overpaid inheritance tax on 1 estate"
+          }
+        ],
+        "recommendation": "We recommend that the Office develop and implement adequate and documented procedures for ensuring that all inheritance taxes due are accurately calculated and paid in accordance with State law.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office's response to findings and recommendations is included as an appendix to this report.",
+    "total_dollar_impact": 55000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:40:36.068438",
+  "content_hash": "16ebd63576deac6eee7c9597422bba74a7b1f12b",
+  "duplicate_of": "5a8f4d19cc9d72456067463e"
+}

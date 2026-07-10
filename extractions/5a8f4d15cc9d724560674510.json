@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Potomac River Fisheries Commission",
+    "parent_department": null,
+    "report_date": "2016-05-27",
+    "audit_period_start": null,
+    "audit_period_end": "2015-06-30",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the Commission has taken adequate corrective action with respect to audit findings reported in the prior year. An exit conference was discussed with management on June 1, 2016.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered 'Finding N' sections were present in the report; only Audit Summary conclusions and Auditor's Report findings (no deficiencies). Therefore, no individual finding objects are generated."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:21:49.724956",
+  "content_hash": "cf4b8a8657bef3889dcdcae669ff8b4b5fadc316",
+  "duplicate_of": null
+}

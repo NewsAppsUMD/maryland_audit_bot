@@ -1,0 +1,83 @@
+{
+  "extraction": {
+    "agency_name": "Judiciary",
+    "parent_department": "Judiciary",
+    "report_date": "2016-08-01",
+    "audit_period_start": "2015-09-01",
+    "audit_period_end": "2016-03-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Judicial Information Systems (JIS) maintained a circuit court database which contained 150,454 unique social security numbers with names and (in some cases) dates of birth without adequate safeguards.",
+        "description": "JIS inappropriately stored sensitive personally identifiable information (PII) in clear text. As of February 5, 2016, a critical circuit court database contained 150,454 unique social security numbers along with names and dates of birth that were not encrypted or protected by other substantial mitigating controls.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that JIS a. perform an inventory of its systems and identify all sensitive PII, b. determine if it is necessary to retain this PII and delete all unnecessary PII, c. determine if all necessary PII is properly protected by encryption or other substantial mitigating controls, and d. use approved encryption methods to encrypt all sensitive PII not otherwise properly protected.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Network devices, used to help protect the JIS network, were not configured to adequately secure connections from untrusted sources and were not properly monitored, and password controls did not properly protect the perimeter firewalls.",
+        "description": "The network devices used to help secure the JIS network were not properly configured, monitored, or protected by adequate password controls. Perimeter firewall rules allowed unnecessary insecure connections, logs were not reviewed, and password requirements (e.g., minimum length of three characters) did not meet State policy best practices.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that JIS a. configure its firewalls and routers to achieve a \u201cleast privilege\u201d security strategy giving individuals, entities, and devices only those network access privileges needed to perform assigned tasks (repeat); b. configure the firewalls to send automatic email alerts to administrators concerning high severity firewall operational events; c. regularly review the firewalls\u2019 logs using automated tools, and investigate unusual and suspicious items... d. enable the firewalls\u2019 available password control settings to meet the requirements of the State\u2019s Information Security Policy.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Intrusion detection prevention system (IDPS) coverage for the network was not effectively deployed. In addition, updates to the IDPS device and backups of the device configuration were not properly performed, and administrative access to the device was not properly restricted.",
+        "description": "The IDPS device was configured only to detect, not block, malicious traffic, and did not analyze encrypted traffic. Updates and backups were not adequately performed (signatures not updated for over 12 months, configs not backed up since Jan 2013), and administrative access was not restricted.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that JIS a. perform a documented review and assessment of its security risks... b. implement IDPS coverage to address all network traffic... c. maintain an active license for its IDPS device and update the signatures... d. regularly backup the configuration files... e. limit remote administrative access...",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "JIS had not installed malware protection software on 151 servers and also lacked assurance that malware protection software was installed on all of its workstations.",
+        "description": "As of November 2, 2015, 151 of 179 JIS servers did not have malware protection software installed. Additionally, 203 of the 5,434 total JIS workstations either lacked the software or it was not operational.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that JIS ensure that all of its computers (both servers and workstations) which should be protected by malware protection software are protected by such software.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Numerous contractors had unnecessary network-level access to critical JIS computers, and 42 publicly accessible servers were located in the internal JIS network thereby exposing other computers in the internal network to increased risk of attack.",
+        "description": "Thirty on-site contractors had unnecessary network-level access to the JIS mainframe and workstations. Additionally, 42 publicly accessible servers were located in the internal network without compensating security controls, potentially exposing the internal network to external attacks.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that JIS a. restrict each contractor\u2019s network-level access to only those servers and workstations that each contractor needs to access, and b. implement compensating security controls to protect the aforementioned 42 servers from attack.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the response from the Judiciary, on behalf of JIS, to the findings and recommendations is included as an appendix to this report, but the specific content of the response is not provided in the text.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from title page 'August 2016' as no transmittal letter with specific day was found. Audit period derived from fieldwork dates 'September 2015 to March 2016'. Agency response details not included in provided text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:51:04.157726",
+  "content_hash": "87cb54128e0464af8f787decbed9b2574093d8f5",
+  "duplicate_of": "5a8f4d12cc9d72456067448b"
+}

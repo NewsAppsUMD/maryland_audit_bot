@@ -1,0 +1,239 @@
+{
+  "extraction": {
+    "agency_name": "Baltimore City Community College",
+    "parent_department": null,
+    "report_date": "2017-11-01",
+    "audit_period_start": "2013-10-24",
+    "audit_period_end": "2016-11-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Baltimore City Community College\u2019s (BCCC) Facilities Planning and Operations Department circumvented State regulations in the procurement of certain goods and services. Based on our review, certain of these procurements and related payments appeared questionable.",
+        "description": "The department artificially divided purchases to circumvent state regulations, totaling approximately $420,000 across 178 payments under $15,000. Additionally, insufficient controls allowed for relationships between competing bidders on procurements totaling $65,000 and questionable payments of $73,900 lacking proper invoices.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2900000.0,
+            "context": "expenditures in this Department totaled"
+          },
+          {
+            "amount": 420000.0,
+            "context": "payments to seven vendors for goods and services totaling approximately"
+          },
+          {
+            "amount": 65000.0,
+            "context": "procurements... identified relationships between competing bidders"
+          },
+          {
+            "amount": 33000.0,
+            "context": "Payments for these 3 procurements totaled"
+          },
+          {
+            "amount": 76000.0,
+            "context": "payments for maintenance services totaling approximately"
+          },
+          {
+            "amount": 73900.0,
+            "context": "14 payments... noted the following conditions applicable to"
+          }
+        ],
+        "recommendation": "Use existing Statewide contracts; discontinue artificially dividing purchases; comply with competitive procurement regulations; ensure vendor invoices contain sufficient details; conduct thorough reviews and recover improperly billed amounts; consult with OAG Criminal Division before actions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Several BCCC employees shared their corporate purchasing cards, precluding effective accountability and control, and did not have required documentation to support certain payments.",
+        "description": "Employees in the Facilities Planning and Operations Department shared corporate purchasing cards (CPCs), violating policy. A review of five maintenance service payments totaling $10,900 disclosed three purchases totaling $6,500 that were not supported by invoices or itemized receipts.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5300000.0,
+            "context": "corporate purchasing card expenditures during fiscal years 2014 through 2016 totaled"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "Department\u2019s CPC activity... totaled"
+          },
+          {
+            "amount": 10900.0,
+            "context": "payments for maintenance services totaling"
+          },
+          {
+            "amount": 6500.0,
+            "context": "three purchases... that were not supported"
+          }
+        ],
+        "recommendation": "Prohibit cardholders from sharing cards; ensure proper documentation such as itemized vendor invoices is obtained to support all CPC transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "BCCC granted salary incentives or increases totaling $129,250 to four senior management positions without adequate justifications, including three increases that were not approved by its Board of Trustees.",
+        "description": "Salary incentives and increases totaling $129,250 were granted without adequate justification. This included a $25,000 bonus paid without documentation of goal fulfillment, and salary increases for two employees ($28,600 and $26,800) and one new hire ($48,850 greater than former employee) lacking Board approval.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 129250.0,
+            "context": "salary incentives or increases totaling"
+          },
+          {
+            "amount": 235000.0,
+            "context": "11 salary increases totaling awarded from June 2015 to April 2017"
+          },
+          {
+            "amount": 25000.0,
+            "context": "paid a senior management employee a... incentive bonus for fiscal year 2015"
+          },
+          {
+            "amount": 28600.0,
+            "context": "salaries for two employees increased by"
+          },
+          {
+            "amount": 26800.0,
+            "context": "and"
+          },
+          {
+            "amount": 48850.0,
+            "context": "hired a senior management employee at an annual salary that was... greater than the salary of the former employee"
+          }
+        ],
+        "recommendation": "Ensure that salary increases and incentives are appropriately justified in accordance with employment contracts and approved by the Board of Trustees.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "BCCC did not maintain a current and comprehensive agreement with its affiliated foundation, as required. In addition, the most recent agreement did not contain any financial or operational goals and outcomes to be achieved by the foundation even though BCCC subsidized a significant percentage of the foundation\u2019s expenses during fiscal years 2015 and 2016.",
+        "description": "BCCC lacked a current written agreement with its affiliated foundation. The most recent agreement expired in June 2016 and contained no operational goals or outcomes despite BCCC subsidizing $524,846 of the foundation's expenses during fiscal years 2015 and 2016.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 637066.0,
+            "context": "foundation\u2019s operating costs totaled"
+          },
+          {
+            "amount": 177694.0,
+            "context": "scholarships and grants awarded totaled"
+          },
+          {
+            "amount": 524846.0,
+            "context": "BCCC paid the salaries and benefits for the foundation\u2019s three employees... totaling"
+          }
+        ],
+        "recommendation": "Establish a comprehensive agreement with its foundation that establishes formal goals and outcomes and identifies related BCCC funding; identify planned steps to enhance fundraising or reduce non-scholarship costs.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Sensitive personally identifiable information maintained by BCCC was stored without adequate safeguards.",
+        "description": "BCCC stored sensitive PII including social security numbers in clear text without encryption or substantial mitigating controls. The databases were not capable of encrypting the information, and no inventory had been performed to identify all sensitive PII for deletion.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Perform a complete inventory of systems and identify all sensitive PII; determine if necessary to retain and delete unnecessary PII; ensure necessary PII is protected by encryption or other controls; update databases with encryption capability.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-06-30"
+      },
+      {
+        "number": 6,
+        "title": "Malware protection for BCCC computers was not sufficient to provide BCCC with adequate assurance that its computers were properly protected.",
+        "description": "BCCC did not ensure malware protection software and signature files were installed on all active workstations. 140 computers had no evidence of installation, 60 ran outdated versions, and 61 used signature files over nine days old. Additionally, users were assigned local administrative rights without documentation.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure all active computers have current signature files and up-to-date malware protection software; limit assignment of administrative rights on workstations; ensure all workstations are kept up-to-date for critical security related updates.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-04-01"
+      },
+      {
+        "number": 7,
+        "title": "BCCC did not immediately restrictively endorse checks and deposit collections timely at its Liberty Campus.",
+        "description": "Checks were routinely placed in a safe for up to two business days prior to endorsement. A test of 20 high dollar amount checks totaling approximately $1.7 million disclosed that 12 checks totaling $1.6 million were deposited between 4 to 7 business days after receipt.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5800000.0,
+            "context": "collections deposited during fiscal year 2016 at the Liberty Campus totaled approximately"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "test of 20 high dollar amount checks received... totaling approximately"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "12 checks totaling were deposited between 4 to 7 business days after receipt"
+          }
+        ],
+        "recommendation": "Restrictively endorse checks immediately upon receipt; ensure that receipts are deposited timely.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "BCCC did not maintain complete and accurate equipment records, could not locate certain equipment, and could not document that it conducted physical inventories of equipment as required. In addition, 40 computers purchased several years ago were never placed into service.",
+        "description": "Equipment inventory valued at $30.7 million lacked complete and accurate records; 10 of 15 tested computers costing $7,000 could not be located. Additionally, 40 desktop computers costing $28,000 purchased between September 2014 and June 2015 were never placed into service.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 30700000.0,
+            "context": "equipment inventory was valued at as of June 30, 2016"
+          },
+          {
+            "amount": 10600.0,
+            "context": "test of the detailed records for 15 computers costing"
+          },
+          {
+            "amount": 8400.0,
+            "context": "for 12 costing... the detailed records did not include the specific locations"
+          },
+          {
+            "amount": 6300.0,
+            "context": "for 9 of the computers costing... the records had incomplete or inaccurate information"
+          },
+          {
+            "amount": 7000.0,
+            "context": "BCCC could not locate 10 of the 15 computers costing that were purchased in August 2015"
+          },
+          {
+            "amount": 28000.0,
+            "context": "40 desktop computers costing... which were not placed in service"
+          }
+        ],
+        "recommendation": "Ensure equipment records are complete and accurate; investigate missing equipment and take corrective action; conduct documented physical inventories as required; refrain from purchasing equipment that is not needed for immediate use.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 4,
+    "criminal_referral": true,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "The agency concurred with most findings (1, 2, 4, 5, 6, 7, 8), noting specific completion dates for security and inventory improvements. The agency disagreed with Finding 3 regarding salary approvals, stating the Board delegated authority to the President.",
+    "total_dollar_impact": 302650.0,
+    "extraction_notes": "Report date derived from header 'November 2017'. Audit period explicitly stated in Scope section. Prior findings count/repeated found in Status of Findings section."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 2 amount 5300000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:24:01.800431",
+  "content_hash": "02d7848c11011c0daeafebcb2fac468d2e07733e",
+  "duplicate_of": "5a8f4d0acc9d72456067429a"
+}

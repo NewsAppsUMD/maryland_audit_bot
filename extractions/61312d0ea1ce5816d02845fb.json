@@ -1,0 +1,211 @@
+{
+  "extraction": {
+    "agency_name": "Department of Juvenile Services",
+    "parent_department": "Department of Juvenile Services",
+    "report_date": "2025-05-01",
+    "audit_period_start": "2020-04-01",
+    "audit_period_end": "2023-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DJS did not have a process to ensure that residential service facilities timely corrected deficiencies identified by its Office of the Inspector General (OIG) resulting in numerous deficiencies going uncorrected.",
+        "description": "DJS relied on OIG audits but did not formally monitor corrective action plans or take additional action, leading to 330 reportable conditions and 83 repeat findings across residential facilities. DJS management concurred that additional oversight was required and advised it was revising monitoring procedures.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DJS establish a process to monitor the implementation of corrective action plans to address deficiencies identified by its OIG and take additional appropriate action when deficiencies are repeated.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DJS did not ensure criminal background checks were properly completed for contractors providing youth care services, resulting in at least one individual with a previous conviction working directly with children.",
+        "description": "DJS failed to verify required background checks for vendor employees and did not require ongoing updates on subsequent criminal activity; an employee convicted of assault was found working directly with children. DJS advised it was unaware of the conviction as of January 3, 2025.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DJS ensure vendors comply with criminal background check requirements for all employees and take appropriate action when disqualifying criminal activity is identified; require vendors to receive alerts of subsequent criminal activity by their employees and timely report such activity to DJS.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DJS could not document critical components of five procurements to support the propriety of the award and did not publish six awards as required.",
+        "description": "DJS could not provide required procurement documentation for contracts totaling $27.6 million, failed to publish three awards totaling $7.7 million on time, and published others late. DJS could not readily determine the propriety of five awards totaling $27.6 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 27600000.0,
+            "context": "contracts totaling procurement documentation"
+          },
+          {
+            "amount": 6300000.0,
+            "context": "proposals submitted by losing bidders for two contracts"
+          },
+          {
+            "amount": 7700000.0,
+            "context": "contract awards not published on eMMA"
+          },
+          {
+            "amount": 9600000.0,
+            "context": "awards published beyond the 30-day requirement"
+          }
+        ],
+        "recommendation": "We recommend that DJS comply with State procurement regulations. Specifically, we recommend that DJS ensure all required procurement documentation is maintained; and publish contract awards on eMMA within 30 days after approval.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DJS paid vendors using a method that was not in accordance with State policies and which circumvented available system controls.",
+        "description": "DJS used direct vouchers for $125.3 million of disbursements, with $75.3 million not in accordance with DoIT policy, often bypassing purchase orders or receiving reports. This practice was noted in the preceding audit report but continued.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [
+          {
+            "amount": 125300000.0,
+            "context": "disbursement transactions processed using direct vouchers"
+          },
+          {
+            "amount": 75300000.0,
+            "context": "direct voucher payments not in accordance with DoIT Manual"
+          },
+          {
+            "amount": 72300000.0,
+            "context": "related to contractual services"
+          }
+        ],
+        "recommendation": "We recommend that DJS restrict the use of direct vouchers to transactions authorized by the DoIT Manual (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DJS could not justify a $1.5 million payment that was originally rejected, and paid certain invoices without verifying that goods or services were received and the related charges were proper.",
+        "description": "DJS authorized a $1.5 million payment for services not yet provided without documented justification, and paid interagency invoices totaling $54,800 without required payroll documentation. DJS could not readily determine that amounts paid were proper.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1500000.0,
+            "context": "payment originally rejected"
+          },
+          {
+            "amount": 10900000.0,
+            "context": "invoices tested during audit period"
+          },
+          {
+            "amount": 426200.0,
+            "context": "payments made to vendors obtained via interagency agreement"
+          },
+          {
+            "amount": 54800.0,
+            "context": "invoices paid without obtaining documentation to support payroll charges"
+          }
+        ],
+        "recommendation": "We recommend that DJS stop overriding contract monitor payment rejections unless there is a documented justification for the payment; and adequately document that goods and services are received prior to payment.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Specifics of the cybersecurity findings have been redacted from this report copy in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Specifics of the cybersecurity findings have been redacted from this report copy in accordance with State Government Article, Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "DJS did not approve employees working double shifts on four or more consecutive days in accordance with its Overtime Policy and did not analyze overtime activity to identify and evaluate the consistently high levels of overtime.",
+        "description": "DJS failed to ensure approval for double shifts on consecutive days and did not analyze overtime, resulting in exceeding budgets and 10 employees receiving overtime exceeding regular earnings. DJS attributed increase to vacancies and turnover.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 12800000.0,
+            "context": "overtime budgeted for fiscal year 2021"
+          },
+          {
+            "amount": 10400000.0,
+            "context": "actual overtime expenditures for fiscal year 2021"
+          },
+          {
+            "amount": 10700000.0,
+            "context": "overtime budgeted for fiscal year 2022"
+          },
+          {
+            "amount": 11500000.0,
+            "context": "actual overtime expenditures for fiscal year 2022"
+          },
+          {
+            "amount": 10200000.0,
+            "context": "overtime budgeted for fiscal year 2023"
+          },
+          {
+            "amount": 14900000.0,
+            "context": "actual overtime expenditures for fiscal year 2023"
+          }
+        ],
+        "recommendation": "We recommend that DJS develop comprehensive procedures to routinely monitor overtime activity; investigate the necessity and propriety of high levels of overtime; and ensure overtime is worked and approved in accordance with the Overtime Policy.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "DJS did not have adequate procedures and controls over its materials and supplies.",
+        "description": "DJS lacked adequate procedures and controls over materials and supplies inventory. This condition was noted in the prior report but not corrected.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": 6,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DJS noted general agreement to our findings and related recommendations; while there are other aspects of DJS\u2019 response which will require further clarification, the auditors do not anticipate that these will require the Joint Audit and Evaluation Committee\u2019s attention to resolve.",
+    "total_dollar_impact": 29154800.0,
+    "extraction_notes": "Report date taken from transmittal letter. Dollar amounts converted to integers. Redacted findings (6 & 7) included with null recommendations. Prior finding numbers derived from Figure 2 mapping."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 3 amount 7700000.0",
+    "dollar_amount_not_in_text: finding 8 amount 12800000.0",
+    "dollar_amount_not_in_text: finding 8 amount 10400000.0",
+    "dollar_amount_not_in_text: finding 8 amount 10700000.0",
+    "dollar_amount_not_in_text: finding 8 amount 11500000.0",
+    "dollar_amount_not_in_text: finding 8 amount 10200000.0",
+    "dollar_amount_not_in_text: finding 8 amount 14900000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:09:53.471159",
+  "content_hash": "aae875e8e300209bf020eeb0d134482bebaa738a",
+  "duplicate_of": "5a8f4d12cc9d724560674497"
+}

@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Port Administration",
+    "parent_department": "Maryland Department of Transportation",
+    "report_date": "2018-01-01",
+    "audit_period_start": "2014-01-13",
+    "audit_period_end": "2017-02-20",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls over cash receipts were not sufficient to ensure all collections were deposited.",
+        "description": "The Maryland Port Administration (MPA) had not established adequate controls over cash receipts, which totaled approximately $15.4 million during fiscal year 2016 and consisted primarily of checks received from shipping companies and other customers for the use of port facilities.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 15400000.0,
+            "context": "cash receipts totaled approximately $15.4 million during fiscal year 2016"
+          }
+        ],
+        "recommendation": "We recommend that MPA ensure that the initial record of checks received, or a copy thereof, is given directly to the independent employee responsible for verifying that all recorded collections were deposited.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Maryland Department of Transportation's response to the finding and recommendation is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from title page 'January 2018' as no specific transmittal letter date was found. Agency agreement status not explicitly stated in text body."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:41:28.005591",
+  "content_hash": "dbefd41655f2e022dfdd1df87eb287144c2a1ca8",
+  "duplicate_of": "5a8f4d16cc9d724560674552"
+}

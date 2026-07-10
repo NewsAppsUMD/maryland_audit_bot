@@ -1,0 +1,61 @@
+{
+  "extraction": {
+    "agency_name": "Military Department",
+    "parent_department": "Military Department",
+    "report_date": "2016-03-01",
+    "audit_period_start": "2012-05-14",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Military Department did not submit requests for reimbursement of federal fund expenditures in a timely manner, resulting in lost interest income to the State.",
+        "description": "The Department did not submit requests for reimbursement of federal fund expenditures related to Maryland Emergency Management Agency (MEMA) and National Guard Bureau (NGB) grants in a timely manner. Tests disclosed that requests were submitted between 71 and 304 days after funds were spent, resulting in lost interest income.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 17000.0,
+            "context": "lost interest income"
+          }
+        ],
+        "recommendation": "We recommend that the Department submit federal fund reimbursement requests in a timely manner, such as monthly.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Adequate controls and records were not maintained for MEMA equipment.",
+        "description": "Adequate controls had not been established over MEMA equipment. Issues included lack of segregation of duties between inventory and recordkeeping functions, failure to reconcile control accounts with detail records, and failure to conduct physical inventories of sensitive equipment as required.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5100000.0,
+            "context": "value of MEMA equipment"
+          },
+          {
+            "amount": 1349947.0,
+            "context": "discrepancy between detail records and control account balance"
+          }
+        ],
+        "recommendation": "We recommend that the Department comply with the requirements of the DGS Inventory Control Manual. Specifically, we recommend that the Department segregate duties, periodically reconcile accounts, and conduct annual physical inventories.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department concurs with the auditor's recommendations for both findings and states that corrective actions have been taken. For Finding 1, reimbursements are now processed within 90 days of expenditure. For Finding 2, new procedures have been implemented to segregate duties, reconcile accounts, and conduct annual inventories.",
+    "total_dollar_impact": 1366947.0,
+    "extraction_notes": "Report date derived from 'March 2016' header. Audit period from Scope section. Prior findings count from Status of Preceding Findings section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:18:29.768342",
+  "content_hash": "8d341651546e8987c55a2f919499ab38280ad9a7",
+  "duplicate_of": "5a8f4d14cc9d7245606744d5"
+}

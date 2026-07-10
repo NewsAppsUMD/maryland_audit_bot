@@ -1,0 +1,47 @@
+{
+  "extraction": {
+    "agency_name": "State Retirement Agency",
+    "parent_department": null,
+    "report_date": "2014-12-01",
+    "audit_period_start": "2011-05-20",
+    "audit_period_end": "2014-04-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Agency\u2019s procedures for reviewing certain critical security events were not sufficient.",
+        "description": "The Agency's procedures for reviewing certain critical security events were not sufficient. Critical database and server security events, audit events, and direct modifications to tables were not reviewed for propriety, and logged events lacked documentation support, potentially allowing unauthorized activities to affect system integrity.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Agency review critical MPAS database and server security events, audit events, and direct modifications to critical tables; document these reviews; and retain the documentation for future reference.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Agency\u2019s intrusion detection prevention system was not properly protecting the network.",
+        "description": "The Agency's intrusion detection prevention system (IDPS) was not properly protecting the network. The IDPS was not used on 11 critical servers processing encrypted traffic due to firewall configuration issues, and unencrypted traffic monitoring was improperly configured, leaving two critical servers without coverage.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Agency perform a documented review and assessment of its network security risks and identify how IDPS coverage should be best applied to its network and inbound encrypted traffic. Based on this review and assessment, we recommend that the Agency implement IDPS coverage as necessary.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The State Retirement Agency agreed with both findings. For Finding 1, they implemented a replacement software product in November 2014 and will document reviews. For Finding 2, they plan to assess network security risks by June 30, 2015, and implement IDPS coverage by December 31, 2015.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'December 2014'. Audit period explicitly stated in Scope section. Prior findings count not explicitly quantified as a number in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:25:52.992309",
+  "content_hash": "20e25b2f784522fc7d431a776a8c4e65c35e4b14",
+  "duplicate_of": null
+}

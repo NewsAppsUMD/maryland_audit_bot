@@ -1,0 +1,211 @@
+{
+  "extraction": {
+    "agency_name": "Baltimore County Public Schools",
+    "parent_department": null,
+    "report_date": "2015-07-01",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2013-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "BCPS Did Not Adequately Separate User Duties on Its Automated School Procurement System",
+        "description": "BCPS allowed employees to initiate and approve requisitions without independent approval; administrator access allowed creation of user accounts without review.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1454411.0,
+            "context": "purchase orders totaling"
+          }
+        ],
+        "recommendation": "We recommend that BCPS strengthen its controls over the automated procurement system used to order supplies for schools. Specifically, we recommend that BCPS restrict user access capabilities to eliminate the ability of users to perform incompatible duties, such as initiating and approving the same procurement transactions, and limit administrator access rights to those employees requiring such access.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "BCPS Did Not Prepare Written Determinations That It Was in BCPS\u2019 Best Interest to Participate in Intergovernmental Cooperative Purchasing Agreements",
+        "description": "BCPS did not prepare written determinations for ICPA use as required by State law; used cooperative for roofing and service contracts without justification.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31400000.0,
+            "context": "paid to one contractor procured through the cooperative"
+          },
+          {
+            "amount": 1250000.0,
+            "context": "two service contracts totaling"
+          }
+        ],
+        "recommendation": "We recommend that BCPS comply with State law and ensure that a written determination substantiating its use of an ICPA is prepared.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "BCPS\u2019 Procurement Policies Did Not Require Competitive Procurements for Service Contracts",
+        "description": "Policy did not require competitive procurement for services valued at $25,000 or more.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 56100000.0,
+            "context": "purchase orders for service contracts totaling"
+          },
+          {
+            "amount": 49800000.0,
+            "context": "related expenditures totaling"
+          }
+        ],
+        "recommendation": "We recommend that BCPS amend its existing policies to require competitive procurement methods to be used for all contracts for services.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Independent Reviews of Certain Payroll and Personnel Transactions Processed Were Lacking",
+        "description": "Lack of independent review for personnel/payroll changes; users had incompatible capabilities.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BCPS perform a documented independent review of personnel and payroll transactions, eliminate the capability of system users to perform incompatible functions, and limit assignments of critical system functions to those employees who require such capabilities to perform their job duties.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Equipment Policies, Controls, and Record Keeping Were Not Adequate",
+        "description": "Policies did not require all sensitive items to be inventoried; disposals not approved.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 358958.0,
+            "context": "disposals with a cost basis of"
+          }
+        ],
+        "recommendation": "We recommend that BCPS ensure that all locations with custody of sensitive equipment properly maintain equipment records and perform annual physical inventories in accordance with written procedures or require that such items be recorded in the centralized equipment records and be counted during physical inventories of capital equipment, establish a policy to verify the accuracy of the completed capital equipment inventory counts, and ensure that equipment disposals are approved by supervisory personnel prior to deleting items from the capital equipment inventory records.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "BCPS\u2019 Network Was Not Adequately Secured",
+        "description": "Firewall rules allowed insecure connections; servers not isolated; no intrusion detection system.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BCPS configure its firewall rules to adequately secure connections from untrusted third parties (including the Internet and Baltimore County Government), relocate all publicly accessible servers to a separate neutral network zone to limit security exposures to the internal network segment, perform a documented review and assessment of its network security risks and identify how IDPS and HIPS coverage should be best applied to its network and implement this coverage, and complete the wireless network conversion project to properly segment all guest wireless users and require authentication and encryption for all wireless users accessing internal resources.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Workstations and Servers Were Not Sufficiently Protected From Malware",
+        "description": "Users had admin rights; software not updated; malware protection could be disabled.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BCPS ensure that administrative privileges on workstations are restricted to network administrators, keep its computers up-to-date for all critical security related updates to potentially vulnerable installed software, configure its malware protection software so that users cannot disable the settings which allow users to override and modify default security controls established by management, and ensure that the current versions of malware protection software and related signatures are installed and running properly on all workstations and servers.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Controls Over BCPS\u2019 Network Domain Accounts, Passwords, and Administrative Access Were Not Sufficient",
+        "description": "Password controls not enforced; excessive administrative access (46 accounts).",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BCPS implement strong controls over domain accounts and passwords in accordance with best practices identified in the aforementioned Information Security Policy, and ensure that membership in powerful domain groups only be assigned to users requiring such privileges.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Controls Over the Student Information and Financial Databases Were Inadequate",
+        "description": "Default admin account had full access; excessive privileges on student database; insufficient security event monitoring.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BCPS limit access to critical databases to personnel whose job duties require such access; limit the assignment of access and privileges to the student information database and server to only those accounts requiring such access and privileges; and log all critical audit events and direct changes to critical tables, review these logs on a regular basis with appropriate investigation of unusual activity, document these reviews, and retain the documentation for subsequent verification.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "BCPS is Paying a Higher Costs per Square Foot for Roof Replacements Compared to Other Local School Systems, and Could Not Adequately Justify the Rationale for Its Practice of Using the Same Roofing Contractor for a Number of Years",
+        "description": "BCPS paid significantly more than other systems due to exclusive use of one contractor; consultant report did not justify practice.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 11000000.0,
+            "context": "estimate that the amount paid was"
+          },
+          {
+            "amount": 31400000.0,
+            "context": "paid to one contractor procured through the cooperative"
+          }
+        ],
+        "recommendation": "We recommend that BCPS obtain a thorough independent evaluation of the of the cost effectiveness of using the purchasing cooperative program\u2019s roofing vendors, and if those vendors continue to be used, select the vendor whose proposal provides the best value; and adopt a policy similar to the cited State law prohibiting those involved with developing project specifications from bidding on those projects.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "BCPS Was Not Using Its Automated Routing Software to Develop More Efficient Routes",
+        "description": "Manual routing process used instead of automated software; buses operated below capacity.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BCPS use its automated routing software to develop more efficient bus routes on a system-wide basis.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "BCPS Did Not Ensure the Reasonableness of Payments for Employee and Retiree Health Care Costs",
+        "description": "BCPS lacked procedures to verify reasonableness of payments to County; no documentation received.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 125000000.0,
+            "context": "healthcare expenditures totaled"
+          }
+        ],
+        "recommendation": "We recommend that BCPS establish procedures to determine the reasonableness of the amounts paid for health insurance. Specifically, we recommend that BCPS work with the County to obtain the documentation to determine the reasonableness of the amount allocated to health insurance costs; and obtain documentation to support actual claim payments, and determine the reasonableness of the claims paid by the County.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 18,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency generally agrees with the findings and recommendations, stating that controls are important and will be improved. They note specific actions taken or planned for most areas (e.g., developing procedures, implementing software, restricting access). However, they disagree with Finding 3 regarding policy requirements, stating compliance with state law is sufficient, and dispute the conclusion in Finding 10 regarding excessive costs while expressing interest in further studies.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from 'July 2015' on cover. Audit period derived from Scope section (July 1, 2012 through December 31, 2013). Prior findings count and repeated status derived from Status of Preceding Findings discussion."
+  },
+  "validation_flags": [
+    "repeat_count_mismatch: extracted 4, asterisk markers 3"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T17:42:04.241268",
+  "content_hash": "aeac9f6740b4c4c12380245dceef55e56d882f78",
+  "duplicate_of": null
+}

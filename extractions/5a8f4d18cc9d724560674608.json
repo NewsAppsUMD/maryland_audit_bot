@@ -1,0 +1,42 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2022-03-23",
+    "audit_period_start": "2018-03-01",
+    "audit_period_end": "2021-12-12",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Deposit verifications were not performed by personnel independent of the collection process, contributing to a lack of accountability over collections.",
+        "description": "Deposit verifications were not performed by personnel independent of the collection process. Specifically, the employee responsible for verifying collections was also responsible for depositing them. State records show the Office processed approximately $1.6 million in collections during fiscal year 2021.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1600000.0,
+            "context": "Office processed collections totaling approximately"
+          }
+        ],
+        "recommendation": "We recommend that an employee independent of the collection process perform the deposit verifications.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency disagrees with the finding due to staffing limitations and safety concerns regarding bank robberies. They state they have moved the key from one employee as a corrective action, though they maintain their process was recommended by a previous auditor.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter. Audit period explicitly stated in transmittal and scope sections. Finding marked as repeat in text and recommendation. No specific questioned dollar amount identified for total impact."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 1600000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:16:27.014651",
+  "content_hash": "e026f93d8fa7d5bc7eb42ad29a6171cfece88d7a",
+  "duplicate_of": null
+}

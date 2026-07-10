@@ -1,0 +1,78 @@
+{
+  "extraction": {
+    "agency_name": "Maryland African American Museum Corporation",
+    "parent_department": null,
+    "report_date": "2017-02-09",
+    "audit_period_start": "2013-03-12",
+    "audit_period_end": "2016-09-05",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Maryland African American Museum Corporation (MAAMC) did not comply with its endowment fund investment policy with respect to oversight of investments and conflict of interest disclosure requirements from its financial manager.",
+        "description": "MAAMC could not provide documentation that the Finance and Audit Committee monitored endowment investments as required, which totaled $7.3 million as of August 2016, and equity holdings exceeded policy limits. Additionally, the organization did not obtain required conflict of interest statements from its financial manager during the audit period.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7300000.0,
+            "context": "endowment fund investments as of August 2016"
+          }
+        ],
+        "recommendation": "Ensure that the FAC properly monitors and directs investments in accordance with its investment policy and retains documentation to support these efforts; obtain the required conflict of interest documentation from financial managers and properly address any conflicts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MAAMC did not always comply with its written procurement policy regarding obtaining written proposals and obtaining management approvals.",
+        "description": "Review of procurements disclosed that MAAMC failed to solicit at least two written proposals for four procurements greater than $10,000 (awards totaling $349,000) and seven procurements exceeding $10,000 lacked required approvals or written contracts.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 349000.0,
+            "context": "contract awards for four procurements where only one proposal was obtained"
+          },
+          {
+            "amount": 146000.0,
+            "context": "payments to three vendors without contracts between fiscal years 2014 and 2016"
+          }
+        ],
+        "recommendation": "Obtain at least two written proposals for all procurements greater than $10,000 as required; ensure that procurements receive the appropriate documented approvals and that written contracts are established in accordance with its policy.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Adequate accountability and controls were not established over MAAMC\u2019s museum collections of art and historical artifacts.",
+        "description": "MAAMC did not maintain an independent control record for its museum collections, with 5,460 items unvalued as of September 2016. Additionally, the employee maintaining records had physical access to the collections, creating a separation of duties deficiency.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1600000.0,
+            "context": "value assigned to remaining items in museum collections as of September 2016"
+          }
+        ],
+        "recommendation": "Maintain a control record of its museum collections that is independent of its detail records; develop a policy to identify items in its collections with potentially significant values and ensure that values are assigned to these items in its records; ensure that employees who maintain the detail records do not have physical access to the collections.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-06-01"
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MAAMC agreed with all recommendations, noting board attrition issues for Finding 1 and outlining specific policy updates and implementation dates (March 2017 and June 2018) for Findings 3.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from transmittal letter. Audit period explicitly stated in scope section. Repeat status determined by asterisks in Table of Contents and recommendation text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:20:03.885234",
+  "content_hash": "0121289f7c06238cb5ce4167e9e32f1f69773251",
+  "duplicate_of": "5a8f4d09cc9d724560674256"
+}

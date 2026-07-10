@@ -1,0 +1,52 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Energy Administration",
+    "parent_department": "Maryland Energy Administration",
+    "report_date": "2017-01-11",
+    "audit_period_start": "2013-05-13",
+    "audit_period_end": "2016-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Maryland Energy Administration (MEA) did not have adequate procedures to ensure that all collections were deposited and that accounts receivable records were proper.",
+        "description": "MEA lacked adequate procedures and controls to ensure that all collections were deposited and that the related accounts receivable records were properly maintained. During fiscal year 2016, MEA\u2019s collections totaled approximately $3.9 million, including a single check of $3.3 million from the Regional Greenhouse Gas Initiative. As of June 30, 2016, accounts receivable totaled $13.9 million.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3900000.0,
+            "context": "collections totaled"
+          },
+          {
+            "amount": 3300000.0,
+            "context": "single check relating to certain proceeds from the Regional Greenhouse Gas Initiative"
+          },
+          {
+            "amount": 600000.0,
+            "context": "remaining collections related primarily to repayments of energy conservation improvement loans"
+          },
+          {
+            "amount": 13900000.0,
+            "context": "accounts receivable totaled"
+          }
+        ],
+        "recommendation": "We recommend that MEA a. restrictively endorse checks immediately upon receipt, b. ensure that an employee independent of the cash receipts function performs documented verifications that collections initially recorded are subsequently deposited, and c. ensure that an independent employee reviews the accounts receivable records to verify that all amounts due were recorded and all collections recorded in the accounts receivable records were deposited.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MEA concurred with the finding and stated it has adapted its internal procedures to meet the audit team\u2019s recommendations.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter signed January 11, 2017. Audit period explicitly stated as May 13, 2013 to June 30, 2016. No prior findings section present in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:42:54.113610",
+  "content_hash": "c450e2c6b9be8a223522f12a7e28835ea54a8583",
+  "duplicate_of": null
+}

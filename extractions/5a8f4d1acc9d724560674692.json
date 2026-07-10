@@ -1,0 +1,61 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2010-07-28",
+    "audit_period_start": "2007-07-01",
+    "audit_period_end": "2009-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls over verifying that alcohol and tobacco tax receipts were deposited were insufficient.",
+        "description": "Controls over verifying the deposit of alcohol and tobacco tax receipts totaling approximately $46.4 million during fiscal year 2009 were not sufficient due to inadequate separation of duties between recordation, deposit preparation, and verification functions. The Comptroller\u2019s Accounting Procedures Manual requires an independent employee to ensure collections are deposited and responsibilities be separated.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 46400000.0,
+            "context": "alcohol and tobacco tax receipts during fiscal year 2009"
+          }
+        ],
+        "recommendation": "a. the employee(s) who prepares the initial recordation documents forward those documents directly to the independent employee who performs the deposit verifications, and that these documents be used in the verification process; and b. employees with access to collections not have access to the related accounts receivable records.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Controls over the destruction and inventory of returned unused tobacco tax stamps were inadequate.",
+        "description": "Controls over destruction and inventory of returned unused tobacco tax stamps were not adequate, including delays in destruction (average one month), lack of re-count prior to destruction, and inaccurate records. An inventory on March 31, 2010 found 34,127 stamps with a face value of $68,254 unrecorded on the log.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 68254.0,
+            "context": "face value of stamps not recorded on inventory log as of March 31, 2010"
+          },
+          {
+            "amount": 667012.0,
+            "context": "face value of returned stamps destroyed in fiscal year 2009 according to MATT records"
+          }
+        ],
+        "recommendation": "a. either perform an immediate destruction of returned tobacco tax stamps once initially verified or re-verify the count prior to subsequent destruction, b. ensure that individuals responsible for witnessing the destructions of stamps are independent of the inventory functions for the stamps, and c. ensure that all returned stamps are inventoried and properly accounted for.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the Comptroller of Maryland\u2019s response to this audit, on behalf of MATT, is included as an appendix to the report. No specific agreement or disagreement details are provided in the text excerpt.",
+    "total_dollar_impact": 68254.0,
+    "extraction_notes": "Dollar amounts converted from text (e.g., $46.4 million -> 46400000). Dates formatted YYYY-MM-DD. Agency response details not present in provided text excerpt."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:43:57.332455",
+  "content_hash": "0f76674410a0a574126e6fffc1b2e37b06e01843",
+  "duplicate_of": null
+}

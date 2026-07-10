@@ -1,0 +1,71 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2009-10-06",
+    "audit_period_start": "2008-05-01",
+    "audit_period_end": "2009-06-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Internal Computer Network Was Not Adequately Protected",
+        "description": "The internal network was not adequately protected from external exposures, including traffic from untrusted third parties and the Internet. Account controls over administrative access to core network devices were inadequate, with unnecessary read access granted to employees. Numerous outdated access rules on firewalls/routers may have allowed unwarranted access.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that adequate controls be established to protect the internal network. We made detailed recommendations to OIT which, if implemented, should provide for adequate security in this area.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-01-31"
+      },
+      {
+        "number": 2,
+        "title": "Monitoring of Critical Network Devices Was Not Adequate",
+        "description": "The firewall protecting the mainframe computer was not configured to log all key user and system activity or alert administrators. Security and event logs for core routers and critical servers were not regularly reviewed, and reviews performed were not documented.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that OIT ensure that all key security events recorded by critical network devices are logged and administrator alerts are enabled; regularly review security and event logs for critical network devices, follow up on questionable items, and document these reviews.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-06-30"
+      },
+      {
+        "number": 3,
+        "title": "Wireless Network Access to Critical Applications Was Not Adequately Secured Through Encryption",
+        "description": "Individuals could establish wireless connections in an unencrypted mode, exposing transmissions to improper disclosure and interception. USM Guidelines require encryption for transmission of sensitive information, but this was not enforced for all critical applications.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We again recommend that UMCP require that all wireless connections to critical UMCP applications use secure (encrypted) methods.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-01-31"
+      },
+      {
+        "number": 4,
+        "title": "Logging and Reporting Over Certain Critical System and Production Data File Modifications Were Not Adequate to Ensure the Propriety of the Modifications",
+        "description": "Modifications to numerous critical system files were not logged by security software. Direct modifications to production data files used by student information and financial aid systems were not logged. The report generated did not include all system files or identify specific changed files.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that modifications to critical system files be logged by security software; direct modifications to production data files used by student information, accounts receivable, and financial aid systems be logged; and the report of logged changes be amended to include all critical files.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-06-30"
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University concurs with all recommendations and agrees to implement corrective actions for each finding. They note an exception regarding Finding 4 being classified as a repeat finding but commit to the required changes.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period derived from fieldwork dates (May 2008 - June 2009). Prior finding numbers not explicitly stated in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:47:58.167016",
+  "content_hash": "f6432d1899e967a72f1f9ef3d3218f140f92762e",
+  "duplicate_of": null
+}

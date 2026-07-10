@@ -1,0 +1,64 @@
+{
+  "extraction": {
+    "agency_name": "State Retirement Agency",
+    "parent_department": "State Retirement Agency",
+    "report_date": "2022-05-20",
+    "audit_period_start": "2017-05-08",
+    "audit_period_end": "2021-04-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Agency discontinued reviewing and approving investment reconciliations received from its custodial bank resulting in the failure to identify missing reconciliations and investigate monthly discrepancies and differences ranging between $315.5 million and $1.1 billion.",
+        "description": "The Agency discontinued reviewing and approving investment reconciliations received from its custodial bank in March 2019, leading to an inability to explain significant discrepancies and material monthly differences ranging between $315.5 million and $1.1 billion for selected months. Additionally, certain reconciliations were missing or incomplete.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 315500000.0,
+            "context": "monthly discrepancies and differences"
+          },
+          {
+            "amount": 1100000000.0,
+            "context": "monthly discrepancies and differences"
+          },
+          {
+            "amount": 68000000.0,
+            "context": "investments controlled by fund managers with missing reconciliations"
+          },
+          {
+            "amount": 126000000.0,
+            "context": "investments controlled by fund managers with missing reconciliations"
+          }
+        ],
+        "recommendation": "We recommend that the Agency comply with its Investment Division Operations Manual, and a. ensure that its custodial bank properly completes and submits all required fund manager reconciliations, including an explanation and resolution of all material differences identified; and b. obtain and review the aforementioned missing and incomplete reconciliations and resolve any differences.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-04-01"
+      },
+      {
+        "number": 2,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The Office of Legislative Audits determined that this finding related to cybersecurity as defined by State law and redacted it from the public report in accordance with State Government Article Section 2-1224(i). The specifics were communicated to the Agency.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Redacted cybersecurity-related finding",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Agency agreed with the recommendations and cited staffing turnover and understaffing as reasons for the issues. They indicated that discrepancies did not lead to a misstatement of total fund valuation and estimated completion by April 2022.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Finding 2 is redacted due to cybersecurity laws. Prior findings count refers to the preceding audit report (June 8, 2018). All prior findings were addressed satisfactorily."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:29:29.893128",
+  "content_hash": "2f08fb18f9571ddbc6fb8ae932e2f8b382f8c8bd",
+  "duplicate_of": null
+}

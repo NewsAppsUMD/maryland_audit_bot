@@ -1,0 +1,69 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Institute for Emergency Medical Services Systems",
+    "parent_department": null,
+    "report_date": "2015-03-01",
+    "audit_period_start": "2011-03-02",
+    "audit_period_end": "2014-09-21",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MIEMSS lacked adequate procedures to account for commercial ambulance license decals and related fees.",
+        "description": "MIEMSS lacked adequate procedures to ensure that all commercial ambulance license decals and related license fees were accounted for. The employee responsible for verifying fees had unrestricted access to the system and physical decals, creating a lack of assurance regarding fee receipt and decal accounting.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 400000.0,
+            "context": "license fees deposited in fiscal year 2014"
+          },
+          {
+            "amount": 50.0,
+            "context": "individual license fee range minimum"
+          },
+          {
+            "amount": 1090.0,
+            "context": "individual license fee range maximum"
+          }
+        ],
+        "recommendation": "We recommend that MIEMSS ensure that a. the employee responsible for verifying that a fee was received and deposited for each decal issued does not have access to modify the decal records or physical access to the decals, and b. an employee who does not have routine access to the decals reconciles the decal records to decals issued, destroyed, or on hand at year end.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Physical inventory results were not fully reconciled to the detail records.",
+        "description": "As of September 2014, MIEMSS had not accounted for the status of 96 sensitive equipment items with an aggregate cost of approximately $508,000, which remained unlocated for periods ranging from 15 months to more than three years. A similar condition has been commented upon in five preceding audit reports dating back to October 1999.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 508000.0,
+            "context": "aggregate cost of unlocated sensitive equipment items"
+          },
+          {
+            "amount": 13600000.0,
+            "context": "book value of MIEMSS' equipment as of June 30, 2014"
+          }
+        ],
+        "recommendation": "We recommend that MIEMSS comply with the requirements of the DGS Inventory Control Manual by ensuring that the results of physical inventories are fully reconciled to the detail records, including the investigation and resolution of unlocated items.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MIEMSS concurs with both recommendations. For Finding 1, the agency states separation of duties has been implemented regarding license decals and fees. For Finding 2, the agency notes that inventories are conducted annually as required, though some items remain difficult to track.",
+    "total_dollar_impact": 508000.0,
+    "extraction_notes": "Report date derived from 'March 2015' header. Audit period explicitly stated in Scope section. Prior findings count and repeated status derived from Status of Findings From Preceding Audit Report section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:40:33.147256",
+  "content_hash": "7f3314aecad9e30f9a06f7410fea930fa9adc89c",
+  "duplicate_of": "5a8f4d0fcc9d7245606743da"
+}

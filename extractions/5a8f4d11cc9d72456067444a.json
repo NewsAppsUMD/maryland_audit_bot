@@ -1,0 +1,96 @@
+{
+  "extraction": {
+    "agency_name": "State Highway Administration",
+    "parent_department": "Maryland Department of Transportation",
+    "report_date": "2016-04-01",
+    "audit_period_start": "2011-07-01",
+    "audit_period_end": "2014-08-06",
+    "findings": [
+      {
+        "number": 1,
+        "title": "SHA Did Not Have Adequate Procedures to Resolve Certain Highway Construction-Related Expenditures That Were Suspended From the Federal Reimbursement Process",
+        "description": "SHA did not have adequate procedures for reviewing highway construction-related expenditures suspended from federal reimbursement process. As of June 2015, expenditures in suspense account totaled approximately $13.3 million and certain expenditures remained unreimbursed for extended periods without documentation of investigation.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13300000.0,
+            "context": "expenditures in suspense account as of June 2015"
+          },
+          {
+            "amount": 564000000.0,
+            "context": "total federal reimbursements in fiscal year 2015"
+          },
+          {
+            "amount": 3200000.0,
+            "context": "test of reimbursable expenditures selected from suspense summary reports"
+          },
+          {
+            "amount": 2500000.0,
+            "context": "expenditures for which SHA obtained reimbursement later"
+          },
+          {
+            "amount": 670000.0,
+            "context": "remaining expenditures not supported by documentation"
+          }
+        ],
+        "recommendation": "establish and implement formal procedures that consider timeliness and significance for reviewing expenditures suspended from federal fund reimbursement process; document the investigation and disposition of suspended expenditures.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-01"
+      },
+      {
+        "number": 2,
+        "title": "SHA Did Not Consistently Comply With Publication Requirements for Maintenance and Construction Contract Awards",
+        "description": "SHA did not consistently comply with publication requirements. Test of six construction contracts totaling $101 million disclosed four contract awards totaling $74 million were not published on eMaryland Marketplace within 30 days as required. Similarly, test of eight maintenance contracts totaling $3.2 million disclosed SHA had not published awards for six contracts totaling $3 million.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 101000000.0,
+            "context": "six construction contracts awarded during fiscal years 2012 through 2014"
+          },
+          {
+            "amount": 74000000.0,
+            "context": "four contract awards not published on eMaryland Marketplace within 30 days"
+          },
+          {
+            "amount": 61000000.0,
+            "context": "three of these contract awards published between 2 and 20 months after award dates"
+          },
+          {
+            "amount": 12700000.0,
+            "context": "fourth contract awarded on April 9, 2012 not published as of January 2016"
+          },
+          {
+            "amount": 3200000.0,
+            "context": "eight maintenance contracts awarded during the same period"
+          },
+          {
+            "amount": 3000000.0,
+            "context": "six contracts not published on eMM as of January 2016"
+          }
+        ],
+        "recommendation": "SHA publish contract awards on eMaryland Marketplace as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 10,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MDOT agreed with both recommendations. For Finding 1, formal written procedures to review and resolve unbilled receivables will be completed by June 2016 including thresholds and criteria. For Finding 2, SHA has implemented changes to the procurement process including verification of eMM advertisement prior to bid opening.",
+    "total_dollar_impact": 670000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 13300000.0",
+    "dollar_amount_not_in_text: finding 2 amount 12700000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T02:39:04.786354",
+  "content_hash": "65bca5940af1829897fddc91b49bda4a878bdb2d",
+  "duplicate_of": null
+}

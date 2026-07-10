@@ -1,0 +1,84 @@
+{
+  "extraction": {
+    "agency_name": "Springfield Hospital Center",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2015-10-01",
+    "audit_period_start": "2011-07-29",
+    "audit_period_end": "2015-01-27",
+    "findings": [
+      {
+        "number": 1,
+        "title": "A management employee exercised virtually complete control over all aspects of the procurement and related invoice approvals for maintenance contracts, resulting in questionable activity with one contractor.",
+        "description": "A Springfield Hospital Center (SHC) management employee controlled virtually all aspects of the procurement and related invoice approvals for maintenance contracts, including solicitation, evaluation, selection, monitoring, and approval. During July 2011 to January 2015, this employee awarded 33 contracts totaling approximately $439,300 to one contractor. The review disclosed failures to comply with procurement regulations, including lack of public advertisement for bids over $15,000, anomalies in bid validity suggesting non-competitive processes, artificial splitting of procurements to avoid approval thresholds, and an unexplained payment difference.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 439300.0,
+            "context": "total awarded to one contractor"
+          },
+          {
+            "amount": 149600.0,
+            "context": "seven contracts not publicly advertised on eMaryland Marketplace"
+          },
+          {
+            "amount": 281430.0,
+            "context": "thirteen contracts valued at amounts greater than $15,000"
+          },
+          {
+            "amount": 92800.0,
+            "context": "six contracts with bid anomalies raising questions about validity"
+          },
+          {
+            "amount": 72500.0,
+            "context": "Three procurements artificially split into six contracts to avoid approval requirements"
+          },
+          {
+            "amount": 96100.0,
+            "context": "Four contracts for street light poles awarded using questionable solicitation process"
+          },
+          {
+            "amount": 19000.0,
+            "context": "approved payments for electrical transformer repair work"
+          },
+          {
+            "amount": 12500.0,
+            "context": "related quote amount for transformer repair work"
+          },
+          {
+            "amount": 6500.0,
+            "context": "difference between approved payment and quote that SHC could not explain"
+          },
+          {
+            "amount": 523300.0,
+            "context": "total paid to the contractor during the period from July 2011 to January 2015"
+          },
+          {
+            "amount": 434750.0,
+            "context": "payments related to contracts totaling this amount"
+          },
+          {
+            "amount": 88550.0,
+            "context": "payments for additional maintenance goods and services using corporate purchasing credit card"
+          }
+        ],
+        "recommendation": "We recommend that SHC a. properly separate the duties over the procurement, contract monitoring, and invoice approval functions for maintenance services; and b. ensure procurements are performed in accordance with State regulations and DHMH requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-09-01"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": 0,
+    "criminal_referral": true,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "SHC concurs with the recommendations and has implemented a new Policy on Procurement of Commodities, Equipment and Services effective September 1, 2015 to separate duties and strengthen internal controls. Education for personnel regarding procurement diligence is scheduled to be in place by October 1, 2015.",
+    "total_dollar_impact": 6500.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:19:33.294539",
+  "content_hash": "e842a31711c1783d0f5fbf4395afc056a671541a",
+  "duplicate_of": null
+}

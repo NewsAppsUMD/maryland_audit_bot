@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Economic Development Corporation",
+    "parent_department": null,
+    "report_date": "2019-12-01",
+    "audit_period_start": "2015-07-01",
+    "audit_period_end": "2019-05-29",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "Agency stated that since there were no recommendations in the report, a written response was not necessary.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings (Finding N) sections present in the text. The 'Findings and Recommendations' section explicitly states there are no deficiencies or noncompliance instances disclosed."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:18:35.725494",
+  "content_hash": "b60c09e4547a983c74aeaca0cc8c827d21bfa15d",
+  "duplicate_of": "5a8f4d0ecc9d7245606743c6"
+}

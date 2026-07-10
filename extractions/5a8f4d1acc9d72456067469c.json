@@ -1,0 +1,81 @@
+{
+  "extraction": {
+    "agency_name": "Board of Public Works",
+    "parent_department": "Board of Public Works",
+    "report_date": "2016-06-01",
+    "audit_period_start": "2012-02-06",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Proper controls were not established to ensure the validity and accuracy of financial data recorded in the accounting system for public school construction projects.",
+        "description": "Proper controls were not established to ensure the validity and accuracy of financial data recorded in the Board of Public Works \u2013 Interagency Committee on School Construction\u2019s (IAC) automated construction project accounting system. Four employees could record critical project information without independent supervisory review, reviews were not independent or included source documentation examination, and reconciliations had not been reviewed by supervisory personnel since December 2013.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 289200000.0,
+            "context": "disbursed approximately $289.2 million in capital funds for public school construction projects"
+          },
+          {
+            "amount": 325300000.0,
+            "context": "Board of Public Works approved 183 projects totaling approximately $325.3 million"
+          }
+        ],
+        "recommendation": "We recommend that IAC a. ensure that an employee without the capability to process transactions in the construction project accounting system verifies the propriety of transactions recorded on system output reports to source documentation, at least on a test basis; b. ensure that reconciliations between the construction project accounting system and the State\u2019s records are reviewed and approved by independent supervisory personnel as they are completed; and c. pursue implementing an on-line approval function for critical transactions processed on the accounting system.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-06-30"
+      },
+      {
+        "number": 2,
+        "title": "As of December 2015, IAC had not finalized or formally issued reports for approximately 72 percent of school maintenance inspections conducted during fiscal years 2013 through 2015.",
+        "description": "IAC had a significant backlog of school maintenance inspection results that had not been finalized and formally issued to Local Education Agencies (LEA). As of December 31, 2015, IAC had not issued inspection reports for 489 of the 679 maintenance inspections performed during fiscal years 2013, 2014, and 2015. Deficiencies affecting health and safety were identified at schools with unissued results.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that IAC a. address the noted backlog of inspection results, ensure that inspection results are finalized and issued in a timely manner, and take appropriate follow-up action to obtain corrective action plans from all applicable LEAs as required (repeat); and b. evaluate the processes and resources it currently uses to finalize inspection results, and determine what enhancements could be made so that inspection reports can be issued to the respective LEAs sooner.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-01-31"
+      },
+      {
+        "number": 3,
+        "title": "IAC had not resolved a matter involving an $890,277 debt that was to be assumed by a local jurisdiction in 2008 for a closed school.",
+        "description": "IAC had not resolved a matter involving an $890,277 debt that was to be assumed by a local jurisdiction in 2008 for a school building no longer used for school purposes. The State continued debt payments and satisfied the debt in 2011, but State law requires reimbursement of outstanding debt service. A local jurisdiction requested a waiver in December 2008 with no formal action taken.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 890277.0,
+            "context": "involving an $890,277 debt that was to be assumed by a local jurisdiction in 2008 for a closed school"
+          },
+          {
+            "amount": 837820.0,
+            "context": "outstanding debt of $837,820"
+          },
+          {
+            "amount": 52457.0,
+            "context": "difference between the prior approved amount of $837,820 and the correct amount of $890,277 or $52,457"
+          }
+        ],
+        "recommendation": "We recommend that IAC take the necessary actions to resolve this matter (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-06-30"
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "IAC generally agrees with the findings and recommendations. For Finding 1, IAC implemented reviewer separation in March 2016 and plans online approval implementation by June 30, 2018. For Finding 2, IAC delivered FY 2013/2014 reports but faces staffing shortages affecting FY 2015/2016 report issuance with a target of January 2017 for the latter. For Finding 3, IAC plans to submit a BPW agenda item in 2016 to recover the $890,277 debt by June 30, 2017.",
+    "total_dollar_impact": 890277.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:50:30.990998",
+  "content_hash": "4a0a6455dec5a79d3590f2ecf176b94a06bb54f3",
+  "duplicate_of": null
+}

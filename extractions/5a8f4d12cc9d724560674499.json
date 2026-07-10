@@ -1,0 +1,358 @@
+{
+  "extraction": {
+    "agency_name": "Department of Juvenile Services",
+    "parent_department": "Department of Juvenile Services",
+    "report_date": "2017-11-01",
+    "audit_period_start": "2012-11-05",
+    "audit_period_end": "2015-12-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain youth care services were procured in a manner that did not provide assurance that these services were obtained at the best value to the State, and DJS did not ensure that the related services were received.",
+        "description": "DJS lacked a formal methodology for determining cost-effectiveness of intergovernmental agreements with non-private entities and did not ensure subcontractors were monitored or services received. Tests of 12 agreements valued at $20.6 million showed issues with competitive procurement and monitoring fees totaling $523,000.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 48700000.0,
+            "context": "contract value of private youth care service providers"
+          },
+          {
+            "amount": 14300000.0,
+            "context": "contract value of non-private youth care service providers"
+          },
+          {
+            "amount": 20600000.0,
+            "context": "value of intergovernmental agreements tested"
+          },
+          {
+            "amount": 7600000.0,
+            "context": "value of agreements where services were subcontracted"
+          },
+          {
+            "amount": 523000.0,
+            "context": "administrative fees to monitor subcontractors"
+          }
+        ],
+        "recommendation": "a. establish a methodology to ensure youth care services are procured in a manner that provides the best value to the State; b. amend the existing intergovernmental agreements to include requirements for competitive procurement of subcontractors and specific subcontractor monitoring efforts to be performed by the CSAs and LMBs, and to require these monitoring efforts be documented and reported to DJS; c. exercise oversight to ensure youth care services are provided as required.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Financial examinations of youth care service providers conducted by DJS were not sufficient to ensure funds were spent on allowable costs and excess payments were recovered.",
+        "description": "DJS allowed four private providers to retain excess payments totaling $380,000 without adequate justification and relied on unaudited financial records for some examinations. Reconciliations with State records showed revenue differences of $240,100 less and $105,700 more than recorded.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 20700000.0,
+            "context": "payments received by providers during fiscal year 2015"
+          },
+          {
+            "amount": 380000.0,
+            "context": "excess payments retained without adequate justification"
+          },
+          {
+            "amount": 8300000.0,
+            "context": "payments to private providers with unaudited supplemental schedules"
+          },
+          {
+            "amount": 240100.0,
+            "context": "total DJS revenue reported by four private providers less than State records"
+          },
+          {
+            "amount": 105700.0,
+            "context": "total revenue reported by remaining four private providers more than State records"
+          },
+          {
+            "amount": 5600000.0,
+            "context": "payments to non-private providers during fiscal year 2015"
+          }
+        ],
+        "recommendation": "a. recover all excess payments identified from its financial examinations... b. ensure that all private providers obtain annual audits... c. conduct financial examinations of private youth care service providers using audited financial schedules... d. obtain and review source documents when conducting examinations of non-private providers.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DJS artificially divided procurements for goods and services, circumventing State procurement regulations. Certain of these procurements appeared questionable.",
+        "description": "DJS made payments to 22 vendors totaling $9 million, with $7.5 million related to procurements of $15,000 or less, circumventing regulations. Some procurements were questioned due to same owners for bidders and lack of local bids. Matter was referred to the Office of the Attorney General \u2013 Criminal Division.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9000000.0,
+            "context": "payments to 22 vendors"
+          },
+          {
+            "amount": 7500000.0,
+            "context": "procurements of $15,000 or less"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "payments to one vendor totaling approximately"
+          },
+          {
+            "amount": 264000.0,
+            "context": "payments for procurements from two companies owned by same individuals"
+          },
+          {
+            "amount": 219000.0,
+            "context": "related payments where these two companies were the only bidders"
+          }
+        ],
+        "recommendation": "a. discontinue the practice of artificially dividing procurements (repeat); b. obtain BPW and/or control agency approval for any future procurements... c. establish procedures to monitor procurements... d. consult with the Office of the Attorney General \u2013 Criminal Division before taking any actions related to the questionable purchases noted.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DJS improperly retained approximately $9.7 million in unspent general fund appropriations at the end of fiscal year 2015.",
+        "description": "DJS recorded encumbrances totaling $13.3 million, but $9.7 million could not be supported by obligations as of June 30, 2015. This violated closing instructions and funds should have reverted to the General Fund.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9700000.0,
+            "context": "unspent general fund appropriations improperly retained"
+          },
+          {
+            "amount": 13300000.0,
+            "context": "encumbrances recorded at end of fiscal year 2015"
+          },
+          {
+            "amount": 10700000.0,
+            "context": "value of encumbrances tested"
+          }
+        ],
+        "recommendation": "We recommend that DJS comply with the aforementioned closing instructions and record encumbrances only when adequately supported by actual commitments for good or services.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DJS did not maximize recoveries of available federal funds, resulting in the use of State funds to cover the cost of services that were eligible for federal reimbursement.",
+        "description": "DJS did not request federal reimbursement under Title IV-E for all eligible expenditures and failed to revise rates as recommended by a federal audit, precluding Medicaid reimbursement. Approximately $38,700 in expenses were no longer available for recovery due to missed deadlines.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3400000.0,
+            "context": "federal fund reimbursements under Title IV-E"
+          },
+          {
+            "amount": 2600000.0,
+            "context": "federal fund reimbursements under Medicaid program"
+          },
+          {
+            "amount": 453000.0,
+            "context": "payments made for juveniles residing in eligible facilities tested"
+          },
+          {
+            "amount": 38700.0,
+            "context": "expenses not requested for federal reimbursement"
+          },
+          {
+            "amount": 24500.0,
+            "context": "expenses no longer available for recovery"
+          }
+        ],
+        "recommendation": "a. submit all eligible Title IV-E claims... b. ensure supervisory reviews are performed... c. as a member of the Rate Setting Reform Stakeholders Workgroup, ensure that a methodology is established... d. determine the feasibility of identifying and recovering allowable Medicaid-eligible services costs...",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "DJS did not protect the personally identifiable information and other confidential information of juveniles under its supervision.",
+        "description": "DJS allowed PII on invoices submitted via unsecured methods and stored PII in clear text within databases without adequate mitigating controls. Approximately 2,100 juveniles received services from private providers in fiscal year 2015.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. instruct youth care providers to refrain from including confidential information on invoices; b. establish procedures for identifying, securing, and storing any confidential juvenile information... c. perform an inventory of its information systems... d. ensure that all necessary PII is properly protected by encryption or other substantial mitigating controls...",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DJS had not established sufficient controls over the restitution process to ensure all transactions were properly recorded, disbursements were properly made, and accounts were properly monitored.",
+        "description": "Restitution Tracking System accuracy was questionable with unmatched collections differences of $70,900. One employee had full access without independent review, and regional offices failed to monitor overdue accounts totaling approximately $200,000.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 528000.0,
+            "context": "restitution collections during fiscal year 2015"
+          },
+          {
+            "amount": 464000.0,
+            "context": "restitution disbursements during fiscal year 2015"
+          },
+          {
+            "amount": 10200000.0,
+            "context": "open restitution accounts as of February 19, 2016"
+          },
+          {
+            "amount": 162400.0,
+            "context": "fund balance of unmatched collections on Comptroller's records"
+          },
+          {
+            "amount": 91500.0,
+            "context": "balance on RTS for unmatched collections"
+          },
+          {
+            "amount": 70900.0,
+            "context": "difference between Comptroller and RTS balances"
+          },
+          {
+            "amount": 11000.0,
+            "context": "restitution orders in new cases tested"
+          },
+          {
+            "amount": 4100.0,
+            "context": "restitution orders not recorded in RTS"
+          },
+          {
+            "amount": 1800.0,
+            "context": "restitution orders recorded more than a year after ordered"
+          },
+          {
+            "amount": 200000.0,
+            "context": "accounts with no payments for at least five months"
+          }
+        ],
+        "recommendation": "a. ensure that RTS reflects the current balance... b. ensure that an independent employee conducts reconciliations... (repeat); c. establish independent supervisory review procedures... (repeat); d. ensure that regional offices monitor overdue accounts...",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "The Automated Statewide System of Information Support Tools database was not properly secured and related logging and monitoring controls were not adequate.",
+        "description": "Default user groups had improper modification access to critical files, and 16 accounts were improperly assigned as local administrators. Critical database privileges were not logged for review.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. restrict access to critical files... (repeat), b. limit administrator access... (repeat), c. enable logging of the use of all critical database privileges and operations (repeat)...",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "The Department of Information Technology maintained appliances that provided firewall and intrusion detection prevention system services for DJS but were not configured to adequately secure the DJS network.",
+        "description": "DoIT did not fully use expanded capabilities of security appliances, and IDPS was not applied to untrusted traffic entering the internal network from various sources.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. fully uses the expanded capabilities of the advanced security appliances... b. applies IDPS coverage to all inbound untrusted traffic, c. configures its IDPS to block high-risk traffic...",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Malware protection was not sufficient to provide DJS with adequate assurance that its computers were properly protected.",
+        "description": "Assurance was lacking on malware software installation and updates, with 229 computers having outdated signatures and over 1,200 workstations running older versions of vulnerable applications.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. ensure the computers are running current versions... b. install malware signatures provided by the malware protection software vendor immediately upon release, c. promptly install all critical security-related software updates...",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "DJS did not maintain complete and accurate detail records and properly account for its equipment.",
+        "description": "Detail records were incomplete with missing purchase prices and duplicate tag numbers. Approximately $607,000 in missing items had unresolved status as of April 2016. Three employees had inappropriate access to the database.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18800000.0,
+            "context": "equipment value as of June 30, 2015"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "surveillance equipment items tested purchased in December 2014"
+          },
+          {
+            "amount": 216000.0,
+            "context": "equipment items included in detail records valued at"
+          },
+          {
+            "amount": 142000.0,
+            "context": "item returned to seller but not removed from records"
+          },
+          {
+            "amount": 607000.0,
+            "context": "missing equipment items with unresolved status"
+          }
+        ],
+        "recommendation": "We recommend that DJS comply with the aforementioned requirements of the DGS Inventory Control Manual.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "Overtime paid to employees was not always preauthorized and approved.",
+        "description": "Tests disclosed overtime payments totaling $43,900 lacked written justification or approval. One employee improperly received $3,200 in overtime compensation after becoming ineligible.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10800000.0,
+            "context": "overtime compensation paid to employees during calendar year 2015"
+          },
+          {
+            "amount": 46500000.0,
+            "context": "total compensation for eligible employees"
+          },
+          {
+            "amount": 157900.0,
+            "context": "biweekly overtime payments tested"
+          },
+          {
+            "amount": 43900.0,
+            "context": "payments made without written justification or approval"
+          },
+          {
+            "amount": 28400.0,
+            "context": "additional payments with some hours lacking written justification"
+          },
+          {
+            "amount": 3200.0,
+            "context": "overtime compensation improperly received by one employee"
+          }
+        ],
+        "recommendation": "a. formalize its policy requiring justification for overtime, b. ensure that the overtime justification is documented on the timesheet and approved by supervisory personnel, c. ensure that overtime compensation is paid only to eligible employees, d. recoup the overtime compensation paid in error...",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 12,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "Not provided in text",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date inferred as November 1, 2017 based on 'November 2017' header. Agency response appendix content not included in provided text."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 20600000.0",
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:58:02.508989",
+  "content_hash": "026854d25b039f80994953cf344ed9a7f2572f14",
+  "duplicate_of": "5a8f4d12cc9d724560674495"
+}

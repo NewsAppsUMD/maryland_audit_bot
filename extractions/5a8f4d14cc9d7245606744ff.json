@@ -1,0 +1,46 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Insurance Administration",
+    "parent_department": "Maryland Insurance Administration",
+    "report_date": "2009-03-06",
+    "audit_period_start": "2008-01-01",
+    "audit_period_end": "2008-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Required audits of applications submitted by insurers for subsidy payments were not completed on a timely basis.",
+        "description": "Required audits of application information submitted by medical professional liability insurers that applied for and received subsidies from the Fund were not completed on a timely basis. As of February 2009, audits for subsidy years 2005 and 2006 were incomplete or delayed.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8800000.0,
+            "context": "subsidy payments for subsidy year 2005"
+          },
+          {
+            "amount": 13300000.0,
+            "context": "subsidy payments for subsidy year 2006"
+          }
+        ],
+        "recommendation": "We again recommend that MIA complete audits of subsidy application information submitted by insurers on a timely basis, and take any appropriate follow-up action deemed necessary.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MIA agrees with the recommendation but states that State law does not specify annual audits or specific timeframes. They argue audits cannot be efficiently conducted until all activity for a subsidy year is complete and intend to continue following their policy.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter. Finding 1 identified as repeated based on 'Status of Findings From Preceding Audit Report' section."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 8800000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T06:49:48.003765",
+  "content_hash": "e289e86bcdee54b1a8cd83323350573c555c0322",
+  "duplicate_of": null
+}

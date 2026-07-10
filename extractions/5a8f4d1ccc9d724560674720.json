@@ -1,0 +1,179 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2018-01-01",
+    "audit_period_start": "2013-07-31",
+    "audit_period_end": "2016-09-12",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The University of Baltimore (UB) did not obtain adequate documentation from its marketing and advertising vendor to support the propriety of vendor payments, and approved an increase in the labor rate without processing a contract modification.",
+        "description": "UB paid a vendor approximately $2 million including $1.4 million for media advertisements and $609,000 in labor charges but did not obtain adequate documentation like time records to support hours billed. Additionally, UB approved an increase in the hourly labor rate from $130 to $135 without processing a formal contract modification, resulting in increased payments of approximately $22,600.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5500000.0,
+            "context": "marketing and advertising contract value"
+          },
+          {
+            "amount": 2000000.0,
+            "context": "paid during first two years of contract"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "media advertisements"
+          },
+          {
+            "amount": 609000.0,
+            "context": "labor charges"
+          },
+          {
+            "amount": 158000.0,
+            "context": "time records tested for five invoices"
+          },
+          {
+            "amount": 22600.0,
+            "context": "increased payments due to hourly rate difference"
+          }
+        ],
+        "recommendation": "We recommend that UB a. obtain employee time records from the vendor to verify the propriety of billed hours; b. ensure that a formal contract modification is prepared as required before changing contract requirements; c. ensure that rates invoiced by the vendor agree with contract rates; d. maintain an independent accounting of fund advances to the vendor and expenditures for media purchases, and use this to evaluate the reasonableness of the advance requests; and e. seek legal advice regarding whether efforts should be made to collect the aforementioned $22,600 from the vendor.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 2018"
+      },
+      {
+        "number": 2,
+        "title": "UB entered into three interagency agreements with the Maryland Department of Health (MDH) to provide staffing, which allowed MDH to avoid using competitive procurement processes or seeking additional budgeted positions.",
+        "description": "UB entered into three interagency agreements valued at $2.9 million to provide staff for services inconsistent with its mission, allowing MDH to avoid competitive procurement. As of December 2016, approximately $1.1 million had been paid including $166,000 in administrative fees.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2900000.0,
+            "context": "interagency agreements total value"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "paid to UB as of December 2016"
+          },
+          {
+            "amount": 166000.0,
+            "context": "administrative fees included in payments"
+          }
+        ],
+        "recommendation": "We recommend that UB discontinue using interagency agreements which permit another agency to avoid using competitive procurement processes or seeking additional budgeted positions as necessary, or to provide staffing services inconsistent with its mission.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 31, 2018"
+      },
+      {
+        "number": 3,
+        "title": "UB did not adequately segregate duties related to processing critical personnel transactions.",
+        "description": "Three employees had system access allowing them to both initiate and approve critical personnel transactions without independent review, despite the automated system requiring two approvals. During fiscal year 2016, payroll totaled approximately $73 million.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 73000000.0,
+            "context": "payroll total during fiscal year 2016"
+          }
+        ],
+        "recommendation": "We recommend that UB ensure that all critical transactions recorded in its personnel records are independently reviewed and approved for propriety by supervisory personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": "October 2017"
+      },
+      {
+        "number": 4,
+        "title": "Controls over collections were not sufficient to ensure all collections received were deposited.",
+        "description": "UB had not established adequate procedures to ensure all collections were initially secured and subsequently deposited, including checks not restrictively endorsed immediately upon receipt. Verification of collections was ineffective as records were stored in unsecured locations accessible to employees with collection access. This issue was commented upon in the preceding audit report.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13700000.0,
+            "context": "collections deposited by Bursar's Office during fiscal year 2016"
+          },
+          {
+            "amount": 4500000.0,
+            "context": "collected at two other campus locations"
+          }
+        ],
+        "recommendation": "We recommend that UB a. restrictively endorse all checks immediately upon receipt, b. ensure that an employee independent of the collection function verifies that all collections received at locations other than the Bursar's Office are submitted to and received by the Bursar's Office for deposit, and c. provide a copy of the initial record of collections received in the Bursar's Office directly to the independent employee responsible for verifying recorded collections to deposit (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "July 1, 2017"
+      },
+      {
+        "number": 5,
+        "title": "Non-cash credit adjustments and students\u2019 residency status were not adequately controlled.",
+        "description": "Procedures to review non-cash credit adjustments totaling approximately $2.1 million during fiscal year 2016 were ineffective due to lack of independent supervisory review. Procedures for reviewing initial residency status determinations were also ineffective because the reviewer was not independent, risking incorrect tuition rates (e.g., $28,134 vs $41,962).",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2100000.0,
+            "context": "non-cash credit adjustments during fiscal year 2016"
+          },
+          {
+            "amount": 28134.0,
+            "context": "in-state tuition rate for law school program"
+          },
+          {
+            "amount": 41962.0,
+            "context": "out-of-state tuition rate for law school program"
+          }
+        ],
+        "recommendation": "We recommend that UB a. ensure that an employee without the access capability to process non-cash credit adjustments use an independently prepared output report of adjustments processed to identify and verify adjustments to supporting documentation, and b. ensure that the employee responsible for reviewing and approving initial residency status determinations for law school students in UB\u2019s records does not have the capability to modify a determination.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "UB lacked evidence of supervisory reviews and system access was not adequately restricted to ensure the propriety of financial aid awarded to students.",
+        "description": "Controls were insufficient due to lack of documented supervisory reviews for financial aid applications and satisfactory academic progress verification. Additionally, 10 employees had inappropriate access to critical financial aid functions, including capability to change award amounts and authorize disbursement. During fiscal year 2016, financial aid awarded totaled $74 million.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 74000000.0,
+            "context": "financial aid awarded during fiscal year 2016"
+          }
+        ],
+        "recommendation": "We recommend that UB a. ensure that verifications of student financial aid application and eligibility data are performed and documented; and b. restrict user access capabilities for critical functions to those employees who require such capabilities for their job duties, including those noted above, in a manner that ensures a proper segregation of duties.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 1, 2018"
+      },
+      {
+        "number": 7,
+        "title": "Sensitive personally identifiable information maintained by UB was stored without adequate safeguards.",
+        "description": "Sensitive PII including 117,793 unique social security numbers were stored in clear text on a critical database as of November 4, 2016, without substantial mitigating controls or encryption.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UB properly protect sensitive PII information by encryption or other substantial mitigating controls.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 24, 2017"
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University of Baltimore agreed with all seven recommendations. Completion dates ranged from October 2017 to March 2018, with some actions already implemented by the time of the report (e.g., encryption in March 2017).",
+    "total_dollar_impact": 22600.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 2000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:53:57.347676",
+  "content_hash": "3a32bba45c7bcaa173c42652de12de64af0a6032",
+  "duplicate_of": null
+}

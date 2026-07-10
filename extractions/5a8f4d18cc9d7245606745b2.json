@@ -1,0 +1,148 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2009-06-08",
+    "audit_period_start": "2005-12-20",
+    "audit_period_end": "2008-12-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls Over Cash Receipts Were Inadequate and Collections Were Not Always Deposited Timely",
+        "description": "MCPRS had not established adequate internal controls over cash receipts, and did not always deposit and record collections timely. Deposit verifications were not performed by independent employees, and some deposits were made or recorded late.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3600000.0,
+            "context": "collections totaled during fiscal year 2008"
+          },
+          {
+            "amount": 1800000.0,
+            "context": "inmate fund collections during fiscal year 2008"
+          },
+          {
+            "amount": 800000.0,
+            "context": "telephone commission collections during fiscal year 2008"
+          },
+          {
+            "amount": 113800.0,
+            "context": "test of deposits made during fiscal years 2008 and 2009"
+          },
+          {
+            "amount": 60400.0,
+            "context": "deposits made four to nine days after collections received"
+          },
+          {
+            "amount": 108600.0,
+            "context": "deposits not recorded in FMIS until three to eight business days after deposits were made"
+          }
+        ],
+        "recommendation": "a. that an employee independent of the cash receipts function verify that all recorded collections were subsequently deposited, and that such verifications be documented; b. that MCPRS deposit and record collections in FMIS timely, as required by the Accounting Procedures Manual.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Supervisory Personnel Who Approved Time Reports Did Not Review All Supporting Documentation",
+        "description": "Proper internal control had not been established over MCPRS payroll adjustments. The supervisory employee who approved the payroll exception time reports did not review documentation supporting adjustments for overtime earnings recorded on the reports.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 44400000.0,
+            "context": "payroll expenditures for regular MCPRS employees during fiscal year 2008"
+          },
+          {
+            "amount": 4000000.0,
+            "context": "employee overtime payments during fiscal year 2008"
+          }
+        ],
+        "recommendation": "that supervisory personnel review, at least on a test basis, documentation supporting adjustments for overtime earnings recorded on the electronic payroll exception time reports, and that such reviews be documented.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Proper Internal Controls Were Not Established Over Purchasing Transactions",
+        "description": "MCPRS did not fully use the available security features of FMIS to establish proper internal control over purchases. Six employees could both initiate and approve certain purchasing transactions without independent review, and two could add vendors.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 14400000.0,
+            "context": "MCPRS used FMIS to process disbursements during fiscal year 2008"
+          }
+        ],
+        "recommendation": "that MCPRS fully use the available FMIS security features by establishing independent on-line approval requirements for all critical purchasing transactions.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "State Procurement Regulations Were Not Always Followed and a Duplicate Vendor Payment Was Made",
+        "description": "MCPRS did not always follow State Procurement Regulations, and a duplicate payment was made. Specifically, sole source procurement of security scanners lacked required approval, and a duplicate payment occurred for housing inmates at a county pre-release center.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 12760.0,
+            "context": "duplicate payment made to a vendor"
+          },
+          {
+            "amount": 80000.0,
+            "context": "sole source procurement of security scanners without approval"
+          },
+          {
+            "amount": 143300.0,
+            "context": "test of disbursements made during fiscal years 2007 to 2009"
+          }
+        ],
+        "recommendation": "a. that, in the future, MCPRS comply with State Procurement Regulations by obtaining the required control agency approvals for sole source procurements of goods and by publishing such awards in the eMaryland Marketplace; b. that MCPRS reinforce its invoice payment procedures to prevent duplicate payments.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Procedures and Controls Over Inventories at Certain Locations Were Inadequate",
+        "description": "MCPRS had not established proper internal controls over materials and supplies at certain locations. Requisition forms could be altered, and physical inventory procedures were inadequate with no documentation to substantiate reconciliations.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4700000.0,
+            "context": "MCPRS expenditures for materials and supplies during fiscal year 2008"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "book value of the materials and supplies as of June 30, 2008"
+          },
+          {
+            "amount": 693000.0,
+            "context": "combined book value of central warehouse and one storeroom at that date"
+          }
+        ],
+        "recommendation": "a. that the inventory clerk compare, at least on a test basis, the requisition copies received for inventory postings to the copies provided to the employees receiving the goods (repeat); b. that physical inventories be performed by employees who are independent of physical custody responsibilities; c. that the reconciliations of the physical inventories to the perpetual inventory records be documented and retained for future reference.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The DPSCS response to this audit, on behalf of MCPRS, is included as an appendix to this report.",
+    "total_dollar_impact": 12760.0,
+    "extraction_notes": "Agency agreement status and completion dates were not present in the provided text (Appendix content was referenced but not included). Total dollar impact reflects the specific duplicate payment amount identified as a financial loss/overpayment."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:27:49.198326",
+  "content_hash": "f8a0343312f234c6293e6442a471c8d46a2fdd41",
+  "duplicate_of": null
+}

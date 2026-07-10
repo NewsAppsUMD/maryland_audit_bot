@@ -1,0 +1,59 @@
+{
+  "extraction": {
+    "agency_name": "University of Maryland University College",
+    "parent_department": "University System of Maryland",
+    "report_date": "2015-06-01",
+    "audit_period_start": "2011-03-21",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Security and access controls over the student information system and a related database were not sufficient.",
+        "description": "Security and access controls over the student information system and a related database were not sufficient. Unencrypted sensitive personal identifiable information (PII) of students, faculty, and staff was stored in the database, including 655,227 unique social security numbers. A vendor account was assigned administrator capabilities without requiring them.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMUC a. encrypt sensitive PII, including social security numbers, stored in the database; and b. restrict assignment of the student information system application\u2019s administrator role to only those individuals who require its use.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-08-31"
+      },
+      {
+        "number": 2,
+        "title": "UMUC workstations and servers were not sufficiently protected against malware.",
+        "description": "Anti-malware software was not installed on numerous UMUC servers (220 identified) or updated properly. Certain workstations had unauthorized administrator rights without written authorization, and some workstations lacked updates for vulnerable software products.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMUC a. ensure that all servers and network workstations are configured with anti-malware software that is operating properly and up-to-date; b. ensure that administrative rights on workstations are restricted to system/network administrators and individuals authorized, in writing, to have such rights; and c. keep its workstations up-to-date for all critical security related updates to potentially vulnerable installed software.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-08-20"
+      },
+      {
+        "number": 3,
+        "title": "The service level agreements and the related independent reports did not address certain security and operational risks.",
+        "description": "Service level agreements lacked provisions to ensure production data were not replicated in non-production environments or required contractors to perform daily audit log reviews. Independent reports did not indicate whether critical security controls like intrusion detection, malware prevention, and antivirus protection had been implemented.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMUC a. attempt to amend the aforementioned existing service level agreements to fully address security and operational risks...; and b. determine if the independent reviews and related reports address all critical security controls by performing documented reviews of the reports...",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "UMUC generally agrees with recommendations, committing to implement encryption and restrict administrator rights. However, regarding service level agreements, the agency states it does not intend to amend existing contracts or perform additional reviews at this time due to pre-existing contract terms and current risk management practices.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'June 2015'. Prior findings repeated count is null as the text states previous findings were addressed satisfactorily but does not explicitly quantify how many are repeated in this report."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:20:39.409457",
+  "content_hash": "054cd1aad02061c4f82dbca244f1565862707c6d",
+  "duplicate_of": "5a8f4d1dcc9d724560674734"
+}

@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Office of Administrative Hearings",
+    "parent_department": null,
+    "report_date": "2014-12-01",
+    "audit_period_start": "2011-06-15",
+    "audit_period_end": "2014-08-03",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office of Administrative Hearings (OAH) did not comply with State procurement regulations when purchasing temporary staffing services.",
+        "description": "OAH purchased temporary staffing services totaling $93,000 from one vendor between March 2012 and December 2013 without competitive bids or written contracts. This non-compliance means there is no assurance the lowest cost was obtained for these services.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 93000.0,
+            "context": "temporary staffing services without obtaining competitive bids and did not enter into written contracts"
+          }
+        ],
+        "recommendation": "We recommend that OAH comply with State procurement regulations by using a formal written procurement process (such as competitive sealed bidding) for purchases that are reasonably expected to exceed $25,000 and ensure that procurements exceeding $5,000 have formal written contracts.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states OAH's response to the finding and recommendation is included as an appendix, but specific agreement status or completion dates are not detailed in this document.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'December 2014'. Audit period explicitly stated. No agency response details provided in text body (referenced as appendix). Prior findings count and repeated status not quantified in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:13:55.575119",
+  "content_hash": "8e13135321a67141069ff6f39b8e6ab28cbc775b",
+  "duplicate_of": null
+}

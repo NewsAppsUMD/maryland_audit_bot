@@ -1,0 +1,90 @@
+{
+  "extraction": {
+    "agency_name": "Department of Housing and Community Development",
+    "parent_department": "Department of Housing and Community Development",
+    "report_date": "2012-07-01",
+    "audit_period_start": "2008-03-01",
+    "audit_period_end": "2011-03-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Escrow Reports Were Not Reconciled On a Timely Basis and Did Not Always Include Adequate Supporting Documentation",
+        "description": "Escrow reports submitted by title insurance companies were not reconciled on a timely basis to interest received quarterly, and several reports lacked required supporting documentation. Unexplained discrepancies where reported interest exceeded interest received totaled approximately $78,000 for 2009.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 78000.0,
+            "context": "unexplained discrepancies in reported interest exceeding interest received"
+          },
+          {
+            "amount": 54000.0,
+            "context": "reported service charges deducted from interest"
+          },
+          {
+            "amount": 32800.0,
+            "context": "reported interest for four accounts where documentation was lacking"
+          },
+          {
+            "amount": 390000.0,
+            "context": "financial institutions claimed in services charges during fiscal year 2009"
+          }
+        ],
+        "recommendation": "DHCD should perform reconciliations of interest earnings as reported in annual escrow reports to funds actually received and report unresolved discrepancies to MIA in a timely manner; obtain adequate supporting documentation for service charges deducted from interest remitted by financial institutions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MAHT Funds Erroneously Deposited With Another State Entity Were Not Recovered Until Our Inquiries",
+        "description": "DHCD did not request the return of approximately $194,000 in funds mistakenly deposited with the Maryland Legal Services Corporation (MLSC), nor was adequate approval obtained to allow MLSC to keep the funds. The error occurred due to similarities in revenue sources and a decision made without Secretary or Board approval.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 194000.0,
+            "context": "MAHT funds mistakenly deposited with MLSC"
+          }
+        ],
+        "recommendation": "DHCD should ensure that similar decisions are presented to the Secretary and Board of Trustees for approval in the future.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Discrepancies in Amounts Due From the Federal Government Were Not Resolved",
+        "description": "Discrepancies in amounts due from HUD for administrative services remained unresolved as of March 2011, totaling approximately $421,000. The condition is primarily the result of differences in critical data such as fair market rents used by HUD and DHCD.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 421000.0,
+            "context": "fees due from HUD but not received as of March 31, 2011"
+          },
+          {
+            "amount": 4600000.0,
+            "context": "fees collected from HUD totaling approximately"
+          }
+        ],
+        "recommendation": "DHCD should continue efforts to resolve the reason for discrepancies between calculated service fees due and fees actually received, and collect any previously uncollected fees due.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DHCD concurred with all findings and recommendations. For Finding 1, they are working to clear a backlog of interest revenue discrepancies with MIA. For Finding 2, funds were recovered in January 2012 ($194,145). For Finding 3, they clarified that much of the $421,000 discrepancy was due to timing differences and an FMR dispute which was resolved by HUD reimbursing $159,710 in May 2012.",
+    "total_dollar_impact": 693000.0,
+    "extraction_notes": "Report date derived from header 'July 2012'. Audit period explicitly stated in Scope section. Prior findings count includes 8 from March 2009 report and 1 from February 2009 report (total 9). Total dollar impact sums questioned amounts: $78,000 (F1 discrepancies) + $194,000 (F2 misdeposited) + $421,000 (F3 uncollected fees)."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T02:48:15.277137",
+  "content_hash": "ad6fca67fb79fb20cde3b1bcc5ab43fa86ad438a",
+  "duplicate_of": "5a8f4d11cc9d724560674458"
+}

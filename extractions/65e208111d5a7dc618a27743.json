@@ -1,0 +1,138 @@
+{
+  "extraction": {
+    "agency_name": "Department of State Police",
+    "parent_department": null,
+    "report_date": "2024-02-28",
+    "audit_period_start": "2018-05-21",
+    "audit_period_end": "2022-05-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Department of State Police (DSP) did not ensure that a sufficient number of quality control reviews of handgun qualification licenses and firearm registrations were conducted, the reviews were independent and timely, and the results were properly tracked.",
+        "description": "DSP did not ensure QC reviews were sufficient or tracked. Reviews often untimely or not independent. Policy reduced HQL review rate to 1%. 3.1% of firearm registration reviews performed vs required 10%.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": 6,
+        "dollar_amounts": [],
+        "recommendation": "Ensure required QC reviews; increase HQL review rate/options and retain docs; complete timely; independent personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-12-01; 2023-05-01"
+      },
+      {
+        "number": 2,
+        "title": "DSP did not have a comprehensive process to ensure the accuracy of all critical firearm registration data and the timely recordation of this data in the Maryland Automated Firearms Services System.",
+        "description": "DSP lacked process for accurate data entry into MAFSS. 600 discrepancies found between Portal and MAFSS. 15,100 registrations not entered as of Sept 2022 due to backlog/staffing.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 6,
+        "dollar_amounts": [],
+        "recommendation": "Establish process for accurate data; ensure timely recordation.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-01-01"
+      },
+      {
+        "number": 3,
+        "title": "DSP firearm dealer audits were not supported.",
+        "description": "Audit files lacked documentation of what was reviewed (e.g., specific firearms/transactions). Unable to determine scope adequacy or supervisor review support.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Maintain adequate supporting documentation for firearm dealer audits.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-02-01"
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "DSP had not established adequate controls over its cash collections and the related accounts receivables.",
+        "description": "DSP lacked controls over collections/receivables. Checks not recorded immediately. Four employees processed adjustments totaling $40,000 without approval. Adjustments totaled $146.2 million including one of $122 million. Collections ~$3.1 million in FY 2022.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [
+          {
+            "amount": 3100000.0,
+            "context": "collections received and deposited by DSP's headquarters in fiscal year 2022"
+          },
+          {
+            "amount": 40000.0,
+            "context": "adjustments processed by four employees without independent approval during audit period"
+          },
+          {
+            "amount": 146200000.0,
+            "context": "total adjustments DSP processed during audit period"
+          },
+          {
+            "amount": 122000000.0,
+            "context": "one adjustment to reclassify a receivable due from the Maryland Department of Health"
+          }
+        ],
+        "recommendation": "Record collections immediately; independent verification of receipts; independent review/approval of adjustments; segregation of duties.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-01-01"
+      }
+    ],
+    "prior_findings_count": 11,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of State Police (DSP) agreed with all findings and recommendations. They outlined corrective actions including staffing plans to eliminate backlogs by end of 2024, procedure amendments for QC reviews, and system upgrades to the Licensing Portal/MAFSS to reduce manual data entry errors.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Cybersecurity findings (4-7) were redacted per State law. Prior finding numbers derived from Figure 2 mapping."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 8 amount 146200000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:31:46.812300",
+  "content_hash": "64b8a3c17b947f11b45a0a68dae775f88c2fb367",
+  "duplicate_of": "5a8f4d16cc9d72456067454c"
+}

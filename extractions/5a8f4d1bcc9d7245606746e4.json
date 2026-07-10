@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2024-03-19",
+    "audit_period_start": "2019-06-25",
+    "audit_period_end": "2023-01-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "The specifics of the finding, including the analysis and recommendations, have been redacted from this report copy in accordance with State Government Article Section 2-1224(i) due to cybersecurity classification. The finding was communicated to parties responsible for acting on recommendations.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The USM Office indicated agreement with the finding and related recommendations. Management provided additional clarification that resolved an outstanding issue, leading auditors to conclude corrective actions are sufficient.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Finding 1 is redacted from this public report per State law regarding cybersecurity findings."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:51:54.981564",
+  "content_hash": "50af93589e3e847a863e0eaaba4b1ea8f48a93be",
+  "duplicate_of": null
+}

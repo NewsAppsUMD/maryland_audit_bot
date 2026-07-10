@@ -1,0 +1,92 @@
+{
+  "extraction": {
+    "agency_name": "Frederick County Public Schools",
+    "parent_department": "Frederick County Public Schools",
+    "report_date": "2025-05-13",
+    "audit_period_start": "2022-07-01",
+    "audit_period_end": "2024-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain requirements of State law and recognized best practices were not incorporated into Frederick County Public Schools\u2019 (FCPS) Purchasing Regulations and were not consistently used when participating in intergovernmental cooperative purchasing agreements.",
+        "description": "State law requirements and critical best practices for intergovernmental cooperative purchasing agreements (ICPAs) were not included in FCPS Purchasing Regulations or consistently used. Testing of four ICPAs revealed non-adherence to statutory requirements and two best practices, involving contract awards totaling $148 million and payments of approximately $11.9 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 148000000.0,
+            "context": "contract award amounts"
+          },
+          {
+            "amount": 11900000.0,
+            "context": "payments on four contracts"
+          }
+        ],
+        "recommendation": "FCPS should incorporate the aforementioned statutory requirement and other identified and acknowledged best practices into its Purchasing Regulations and ensure that the performance of the requirement and best practices are documented when evaluating and participating in ICPAs.",
+        "agency_agrees": false,
+        "agency_completion_date": "2025-07-01"
+      },
+      {
+        "number": 2,
+        "title": "FCPS did not always publish contract awards on eMaryland Marketplace Advantage as required by State procurement law.",
+        "description": "State law requires solicitation and award of contracts of $100,000 or more procured after July 1, 2022 to be published on eMMA. Testing of four contracts totaling $38.1 million disclosed that FCPS did not publish awards for any of the contracts as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 38100000.0,
+            "context": "four contracts procured"
+          }
+        ],
+        "recommendation": "FCPS should publish contract awards on eMMA as required, including those noted above.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-07-01"
+      },
+      {
+        "number": 3,
+        "title": "FCPS did not execute formal written contracts for certain special education services.",
+        "description": "FCPS paid 32 MSDE certified non-public schools a total of $26.6 million for special education services during fiscal years 2022 through 2024 without having formal written contracts with the schools, despite written contracts providing critical terms and conditions.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 26600000.0,
+            "context": "paid to non-public schools for special education services"
+          }
+        ],
+        "recommendation": "FCPS should modify its Purchasing Regulations to require formal written contracts for special education services and comply with the modified Purchasing Regulations for future special education services.",
+        "agency_agrees": false,
+        "agency_completion_date": "2025-07-01"
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "The Information Technology section includes a redacted cybersecurity-related finding. Specifics of the finding, analysis, and recommendations are redacted from this public report in accordance with State law. FCPS responses indicated agreement with the finding and related recommendations.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Redacted",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "FCPS generally agrees with the recommendations but disagrees with Findings 1 and 3. For Finding 1, FCPS argues the analysis misstates the law regarding Local Entities using ICPAs and that best practices are not required by statute; it commits to reviewing its checklist within statutory confines. For Finding 2, FCPS agrees to revise procedures to post contract awards on eMMA starting July 1, 2025. For Finding 3, FCPS disagrees stating contract negotiation is unrealistic for non-public schools due to lack of incentive and administrative burden; it plans to prepare annual Expectations Letters instead.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Finding 4 content redacted per State law. Prior findings status table indicates 3 preceding findings reviewed (1 Redacted, 2 Not Repeated). Audit period derived from Scope section."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 3 amount 26600000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T19:03:09.289681",
+  "content_hash": "55523d87775a58bc62c9df51c0602ed1af51b199",
+  "duplicate_of": null
+}

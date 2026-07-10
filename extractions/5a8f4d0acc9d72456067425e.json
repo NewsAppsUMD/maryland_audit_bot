@@ -1,0 +1,97 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Aging",
+    "parent_department": "Maryland Department of Aging",
+    "report_date": "2017-03-09",
+    "audit_period_start": "2013-05-14",
+    "audit_period_end": "2016-05-24",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MDOA lacked a comprehensive policy and did not adequately document annual financial reviews of AAAs it conducted to ensure the appropriate use of State grant funds.",
+        "description": "Analysis found fiscal year 2015 reviews poorly documented and not approved by supervisory personnel. Tests of five financial reviews relating to approximately $6.3 million in expenditures disclosed insufficient documentation and no evidence of supervisory review or approval.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6300000.0,
+            "context": "Senior Care and SALGHS expenditures totaling approximately $6.3 million during fiscal year 2015"
+          }
+        ],
+        "recommendation": "Develop a comprehensive policy that clearly defines the objectives and scope of its AAA annual financial reviews requiring supervisory review and approval; require that sufficient grant expenditures and source documents are reviewed to provide assurance that grant funds were spent in accordance with grant requirements; adequately document and properly review and approve work performed and conclusions reached.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MDOA did not conduct all required site visits of AAAs to monitor certain senior care program activity, and there was a lack of evidence that deficiencies noted during site visits conducted were communicated to the applicable AAAs for corrective action.",
+        "description": "Analysis found annual site visits not always conducted as required (16 of 68 required visits missing in fiscal years 2014 and 2015). Review of documentation showed deficiencies noted during 18 of 29 visited sites were not formally communicated to AAAs for corrective action.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Conduct all site visit reviews as required and in a timely manner; ensure that the results and conclusions of its site visit reviews are formally documented and communicated to the AAAs, as required, and that appropriate corrective action is taken.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-07-01"
+      },
+      {
+        "number": 3,
+        "title": "MDOA did not ensure that administrative costs incurred by AAAs for the Senior Care grant program were within required spending limits.",
+        "description": "Analysis found no procedure to identify or resolve instances where AAA administrative costs exceeded the allowable 10 percent limit. Test of 10 AAAs with $5.4 million in budgeted expenditures showed some did not report admin expenditures separately, and two reported costs exceeding permitted limits by approximately $13,000 and $12,000.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5400000.0,
+            "context": "budgeted Senior Care grant expenditures totaling $5.4 million for fiscal year 2015"
+          },
+          {
+            "amount": 1562325.0,
+            "context": "budgeted Senior Care grant expenditures of $1,562,325 for fiscal year 2015 (for 3 AAAs)"
+          },
+          {
+            "amount": 173907.0,
+            "context": "grant budget"
+          },
+          {
+            "amount": 30582.0,
+            "context": "administrative costs"
+          },
+          {
+            "amount": 13000.0,
+            "context": "excess of permitted limit"
+          },
+          {
+            "amount": 990139.0,
+            "context": "grant budget"
+          },
+          {
+            "amount": 111261.0,
+            "context": "administrative costs"
+          },
+          {
+            "amount": 12000.0,
+            "context": "excess of permitted limit"
+          }
+        ],
+        "recommendation": "Ensure that AAAs do not expend Senior Care program funds on administrative costs in excess of established limits; require that administrative expenditures be specifically reported in the AAA annual expenditure reports; monitor expenditure data submitted by the AAAs for compliance with its established policy and implement a procedure to identify, investigate, and resolve instances in which administrative costs exceed the established limit.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department concurs with all recommendations and states significant actions were taken after January 2015 to address deficiencies. These actions include hiring a Deputy Director of Operations and Fiscal Services, developing a detailed Financial Review plan, and implementing revised policies for monitoring visits and administrative expenditure reporting by July 1, 2017 or FY 2017 end-of-year reports.",
+    "total_dollar_impact": 25000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:23:18.362059",
+  "content_hash": "4154aad5ea442e5b937213cd141594682da966c8",
+  "duplicate_of": "5a8f4d09cc9d72456067425a"
+}

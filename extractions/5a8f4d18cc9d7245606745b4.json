@@ -1,0 +1,92 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2015-10-01",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2015-03-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Region Had Not Timely Reconciled its Inmate Fund Records With Corresponding Comptroller Records",
+        "description": "The Hagerstown and Cumberland Offices had not timely reconciled the aggregate balances of the inmate personal fund accounts recorded on MOBSII with corresponding records maintained by the Comptroller of Maryland. As of May 2015, the most recent reconciliation was for August 2014 activity.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4700000.0,
+            "context": "Hagerstown inmate fund receipts"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "Cumberland inmate fund receipts"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "Hagerstown disbursements"
+          },
+          {
+            "amount": 834000.0,
+            "context": "Cumberland disbursements"
+          }
+        ],
+        "recommendation": "We recommend that the Region reconcile the aggregate balance of individual inmate accounts in MOBSII with the corresponding records of the Comptroller of Maryland on a timely basis.",
+        "agency_agrees": true,
+        "agency_completion_date": "December 31, 2016 (for reconciliations through October 31, 2016; future reconciliations to be completed on a similar timely basis). December 31, 2015 (for Finding 2c context in text block overlap). December 31, 2015 (for Finding 2a/c context in text block overlap). July 31, 2016 (for Finding 3a context in text block overlap). Note: Text indicates reconciliations through October 31, 2016 will be completed by December 31, 2016 with future reconciliations completed on a similar timely basis. However, the provided response text for Finding 1 specifically states 'reconciliations through October 31, 2016 will be completed by December 31, 2016'. The subsequent dates (Dec 31, 2015) appear in the Finding 2 and 3 sections of the response appendix. For Finding 1 specifically: December 31, 2016."
+      },
+      {
+        "number": 2,
+        "title": "The Region\u2019s Hagerstown Office lacked certain critical controls over inmate fund transactions and records.",
+        "description": "Transactions recorded in the inmate fund accounts were not independently reviewed to ensure postings were correct. User access was not adequately restricted (two employees had unnecessary capabilities). Working fund checking account reconciliations were not timely or completed since January 2015.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "Hagerstown Office working fund disbursements in fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that the Region: a. ensure that transactions posted to individual inmate accounts are independently reviewed for propriety; b. restrict employee user access capabilities on MOBSII and eliminate incompatible duties; c. ensure that monthly bank reconciliations are prepared timely.",
+        "agency_agrees": true,
+        "agency_completion_date": "December 31, 2015 (for a and c); Completed (for b)."
+      },
+      {
+        "number": 3,
+        "title": "The Region Made Repeated Purchases From a Vendor Without Consolidating and Soliciting Bids or Executing Written Contracts",
+        "description": "The Region made frequent purchases of fresh produce without consolidating bids or entering into written contracts. 528 individual payments totaling approximately $2.5 million were made to one vendor. Two procurements exceeding $25,000 used faxed bids instead of competitive sealed bidding.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2500000.0,
+            "context": "Total payments to vendor from fiscal years 2012 through 2015"
+          },
+          {
+            "amount": 54613.0,
+            "context": "Two procurements reviewed where bids were obtained by fax"
+          }
+        ],
+        "recommendation": "We recommend that the Region comply with State procurement regulations when procuring fresh produce. Specifically: a. work to competitively procure fresh produce; b. ensure formal written contracts are executed and DGS approval is obtained.",
+        "agency_agrees": true,
+        "agency_completion_date": "July 31, 2016."
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency agreed with all findings. For Finding 1, they committed to completing reconciliations through October 31, 2016 by December 31, 2016. For Finding 2, they agreed to review transactions and ensure timely bank reconciliations by December 31, 2015, with access restrictions already completed. For Finding 3, they agreed to competitively procure fresh produce by July 31, 2016.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'October 2015'. Audit period based on North Region scope. Prior findings count refers to the Hagerstown Region preceding report which contained four findings."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 2 amount 1800000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:31:26.556761",
+  "content_hash": "7e54fc47b0a0e3a5616ffdcd98341ede42ba3b94",
+  "duplicate_of": null
+}

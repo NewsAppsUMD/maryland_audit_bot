@@ -1,0 +1,158 @@
+{
+  "extraction": {
+    "agency_name": "Revenue Administration Division",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2016-09-01",
+    "audit_period_start": "2012-02-15",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "RAD had not determined the underlying cause(s) for erroneous subdivision codes recorded in SMART for numerous taxpayers in one county, which resulted in $8.7 million in local income taxes being incorrectly distributed.",
+        "description": "A review disclosed incorrect subdivision codes and related special taxing areas were recorded in SMART for certain taxpayers in Montgomery County, resulting in $8.7 million in local income taxes being incorrectly distributed among the special taxing areas within the County and the County at large for tax years 2010 through 2014. RAD had not conducted a detailed analysis to determine the underlying cause(s) of the erroneous subdivision coding which impacts the local income tax distribution, and applicable taxpayer records had not been corrected in SMART.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8700000.0,
+            "context": "local income taxes being incorrectly distributed"
+          },
+          {
+            "amount": 63571.0,
+            "context": "incorrectly distributed in auditor sample of returns"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "local income taxes due for tax year 2014 on unidentified addresses"
+          },
+          {
+            "amount": 685000.0,
+            "context": "estimated interest cost over repayment period"
+          }
+        ],
+        "recommendation": "RAD should analyze the reasons the coding errors occurred and implement process changes; determine whether such coding problems could be affecting distributions in other jurisdictions; and manually review the 1,393 returns to ensure special taxing areas are properly assigned.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-01-31"
+      },
+      {
+        "number": 2,
+        "title": "RAD lacked sufficient policies and procedures to ensure that all subdivision codes assigned to taxpayers in SMART were proper.",
+        "description": "RAD did not have sufficient policies and procedures to ensure that all subdivision codes and related special taxing areas assigned to taxpayers in SMART were proper. Comprehensive written guidance was not provided to employees responsible for identifying the proper special taxing areas, sources of information used by these employees were not always current or complete, and RAD lacked procedures to ensure that subdivision codes recorded in SMART based on prior year returns were accurate.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "RAD should establish comprehensive written policies and procedures for employees; ensure that current and complete address data are obtained on a routine basis from all special taxing areas; take steps to ensure correct subdivision codes have been assigned to all addresses recorded in SMART; and consider revising tax forms.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Required documentation was not always on file to support out-of-state tax credits claimed on paper tax returns filed by individual taxpayers.",
+        "description": "Required documentation was not always on file to support out-of-state tax credits claimed on paper tax returns filed by individual taxpayers. Examination of 20 tax returns submitted in paper format for tax year 2013 that claimed out-of-state tax credits of approximately $35.0 million noted 6 returns for which credits totaling $27.2 million were allowed, even though required supporting documentation was not on file.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 27200000.0,
+            "context": "credits allowed without required supporting documentation"
+          }
+        ],
+        "recommendation": "RAD should ensure that all required documentation is submitted and retained to support out-of-state tax credits claimed; take appropriate action such as disallowing the claimed credit when the required documentation is not submitted; and investigate the six returns and recover any amounts due.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-12-31"
+      },
+      {
+        "number": 4,
+        "title": "Significant financial adjustments to corporate taxpayer accounts were not always independently reviewed as required.",
+        "description": "Significant financial adjustments to corporate taxpayer accounts processed by one RAD unit were not always reviewed by supervisory personnel in accordance with RAD's procedures. Test of 10 financial adjustments disclosed that there was no documented supervisory review for 3 of these adjustments which totaled $23.4 million. Furthermore, the unit did not use automated reports of adjustments processed to identify adjustments for review.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 23400000.0,
+            "context": "adjustments without documented supervisory review"
+          }
+        ],
+        "recommendation": "RAD should ensure that significant financial adjustments to corporate taxpayer accounts are reviewed by supervisory personnel in accordance with its procedures and that these reviews are documented; and use automated reports of adjustments processed to identify adjustments for review.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Controls were not in place to ensure adjustments to critical taxpayer account information were properly reviewed, and supporting documentation was not always on file.",
+        "description": "Adequate controls were not in place over adjustments to critical taxpayer account information on SMART. Supervisory personnel responsible for reviewing adjustments in two of the units used documentation prepared by employees rather than automated output reports. Test of 40 adjustments disclosed that documentation was not on file to support the propriety of 10 of the adjustments.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "RAD should ensure that adjustments to critical taxpayer account information are reviewed by supervisory personnel for propriety; ensure that these reviews are documented; and retain supporting documentation for adjustments processed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Certain critical database security and audit events were either not logged or not reviewed for propriety.",
+        "description": "Critical SMART, Bill Pay, and iFile database security and audit events were either not logged or not reviewed for propriety. Bill Pay and iFile database security and audit events such as adding and configuring roles of system users were not logged even though the capability existed. Detailed change reports supporting items identified on a critical security system software report for the SMART database were not reviewed to ensure that changes were proper.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "RAD should implement appropriate database monitoring controls over the SMART, Bill Pay, and iFile tax systems; log all critical Bill Pay and iFile database security and audit events; ensure that reviews of the propriety of the critical security system software reports for the SMART system include a review of the supporting detail change reports; and review all significant database security reports for propriety on a timely basis.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-12-31"
+      },
+      {
+        "number": 7,
+        "title": "RAD had not established sufficient controls over remotely deposited checks, and employees with access to collections had the capability to adjust taxpayer accounts.",
+        "description": "Controls were not sufficient over checks for payment of income taxes which were received in the mail and processed using the remote deposit system. RAD did not reconcile its record of checks that had been remotely deposited and were subsequently destroyed with its initial record of checks received. Fifteen employees with access to mail collections also had the capability to record critical financial adjustments to taxpayer accounts in SMART, totaling approximately $2.5 million during the audit period.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2500000.0,
+            "context": "adjustments processed by employees with access to collections"
+          }
+        ],
+        "recommendation": "RAD should reconcile records of remotely deposited checks that have been destroyed with the record of checks received; ensure that employees who have access to collections do not have the capability to record critical adjustments to taxpayer accounts in SMART; ensure that all adjustments recorded in SMART to reduce check payments to zero are subject to the required supervisory review; and conduct a review of adjustments to check payments during weeks that the review was not performed.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-12-31"
+      },
+      {
+        "number": 8,
+        "title": "RAD lacked documentation that replacement refund checks were independently reviewed as required.",
+        "description": "RAD lacked documentation that replacement refund checks, which totaled approximately $125 million during the audit period, were reviewed for propriety in accordance with RAD's policy. Output reports used by supervisory personnel to select replacement checks for review were not complete, and three of the weekly reports did not include a total of 750 checks in the aggregate amount of $721,044.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 721044.0,
+            "context": "replacement checks not included in output reports"
+          }
+        ],
+        "recommendation": "RAD should ensure that output reports used to select replacement checks for review include all replacement checks generated; ensure that replacement checks on output reports are reviewed according to its policy; and review for propriety, at least on a test basis, the 750 checks not included in output reports.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-12-31"
+      }
+    ],
+    "prior_findings_count": 10,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Comptroller of Maryland (RAD) generally concurs with the recommendations. RAD notes that some actions have already been completed or are ongoing, including internal reviews and third-party audits to confirm root causes and improve accuracy. Specific completion dates were provided for several findings (December 31, 2016; January 2017). RAD states there was no evidence of loss of revenue in several findings.",
+    "total_dollar_impact": 60021044.0,
+    "extraction_notes": "Report date derived from header 'September 2016'. Audit period found in 'Audit Scope' section. Prior findings count/repeated found in 'Status of Findings From Preceding Audit Report'. Repeat status determined by asterisk (*) and explicit text."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 4 amount 23400000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:41:19.729999",
+  "content_hash": "a2db3fc4399b7b1861bf63716f7ff80c4ab41451",
+  "duplicate_of": null
+}

@@ -1,0 +1,281 @@
+{
+  "extraction": {
+    "agency_name": "Garrett County Public Schools",
+    "parent_department": "Garrett County Public Schools",
+    "report_date": "2016-11-18",
+    "audit_period_start": "2014-01-01",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Checks received at GCPS headquarters were not recorded or restrictively endorsed immediately upon receipt, and independent verifications that recorded collections were deposited were not performed.",
+        "description": "Proper controls over miscellaneous collections were not established; receipts handled by others before recording/endorsement and verification employee was not independent. Cash receipts processed in fiscal year 2015 totaled approximately $29.3 million, creating a risk of misappropriation without detection.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 29300000.0,
+            "context": "cash receipts processed by the central administrative office in fiscal year 2015"
+          }
+        ],
+        "recommendation": "Ensure all collections are immediately recorded and restrictively endorsed upon receipt; ensure an independent employee performs a documented verification that all recorded collections were deposited; investigate possibility of receiving funds by electronic transfer.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "GCPS did not adequately advertise certain contract procurements, use a competitive procurement process when appropriate, or present contracts to the Board for its consideration.",
+        "description": "GCPS did not advertise procurements as required by State law, did not solicit competitive bids without justification, and failed to present certain contract awards to the Board. Review of 10 procurements totaling approximately $1.2 million disclosed these conditions.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 416000.0,
+            "context": "three procurements not publicly advertised"
+          },
+          {
+            "amount": 264000.0,
+            "context": "two procurements where only one bid was solicited without sole source justification"
+          },
+          {
+            "amount": 341000.0,
+            "context": "three procurements with no evidence presented to the Board for consideration"
+          }
+        ],
+        "recommendation": "Publicly advertise procurements exceeding $25,000 in compliance with State Law; competitively bid unless sole source justification is documented; present contract procurements to the Board.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Access to critical functions in the automated human resources and payroll system were not properly restricted and certain duties were not properly segregated.",
+        "description": "Eight employees had incompatible capabilities including creating/deleting employees and preparing checks; three had unnecessary access. Review of payroll changes was conducted by two of these employees, lacking independence.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Segregate incompatible functions and assign critical system functions only to those who need them; ensure human resources and payroll transaction processing and review responsibilities are properly segregated.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "GCPS lacked a written policy to control equipment items and did not periodically conduct equipment inventories.",
+        "description": "GCPS lacked procedures for tagging equipment, reporting lost/stolen items, and separating custody duties. No evidence of periodic physical inventories existed for at least the last three years.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3300000.0,
+            "context": "undepreciated value of capital equipment as of June 30, 2015"
+          }
+        ],
+        "recommendation": "Establish formal comprehensive policies and procedures to ensure accountability and control over equipment, including a requirement for periodic physical inventories.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Numerous employees were improperly defined as local administrators on many GCPS workstations.",
+        "description": "33 of 35 active workstations tested had numerous employees improperly defined as local administrators. Over 1,900 workstations are in use for faculty, staff, and students.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Limit administrative privileges on its workstations only to those individuals required to have such capabilities.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "The GCPS network was not sufficiently secured to assist in the detection/prevention of potential network security breaches and attacks, and restrict access to critical servers.",
+        "description": "Wireless connections allowed untrusted parties access; high school labs had unnecessary network level access. Intrusion Detection Prevention System (IDPS) provided limited protection and was not configured properly.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Limit wireless user and high school computer lab access to required devices; use IDPS to decrypt encrypted traffic and block suspicious traffic.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Certain computers were not sufficiently protected against malware, as malware protection software was not installed on numerous computers and computers were running outdated or unsupported system software.",
+        "description": "663 of 1,956 active computers lacked operational malware protection. Some computers ran older versions of software with known vulnerabilities without patches.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure all managed computers are running current versions of malware protection software; promptly install critical security related software updates.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "GCPS Disaster Recovery Plan for recovering computer operations from disaster scenarios was incomplete and had not been tested.",
+        "description": "DRP did not address minimum requirements such as complete hardware/software listings or network connectivity restoration. It had not been tested, risking significant delays in recovery.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop and implement a comprehensive DRP in accordance with IT Disaster Recovery Guidelines; periodically test the DRP.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Network, application, database, and server password controls were not sufficient and security activity on a critical database and server was not logged.",
+        "description": "Password controls did not meet minimum settings (aging/complexity). Student information database and financial application server were not configured to log security activity including privileged operations.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish passwords that comply with State of Maryland Information Security Policy; set databases and servers to log all critical security related events.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "GCPS had not developed a process to independently verify the reported savings from of its two energy performance contracts.",
+        "description": "No independent verification of cost savings calculations was performed. GCPS lacked assurance that guaranteed cost savings were realized despite entering into contracts with $4.9 million upfront costs and $6.7 million guaranteed savings over 15 years.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4900000.0,
+            "context": "upfront costs paid by GCPS for energy performance contracts"
+          },
+          {
+            "amount": 6700000.0,
+            "context": "total guaranteed savings over 15 years"
+          },
+          {
+            "amount": 419496.0,
+            "context": "actual cost savings for contract year 2014"
+          }
+        ],
+        "recommendation": "Independently verify contractor reported data to ensure propriety of critical calculations; retain documentation of all verifications performed.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "GCPS did not have formal targets and goals for establishing and revising bus routes, use automated routing software to improve route efficiency, or verify the propriety of contractor payments to reimburse for time and mileage of bus routes.",
+        "description": "No formal policies defined factors for determining bus routes; no automated routing software used. 63% of buses traveled more than 30 deadhead miles per day. GCPS did not ensure route times/mileages reported by contractors were accurate.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 570000.0,
+            "context": "estimated expenditures to reimburse bus contractors for deadhead miles traveled during fiscal year 2016"
+          },
+          {
+            "amount": 4967.0,
+            "context": "estimated savings on deadhead miles for five buses with highest number of deadhead miles"
+          }
+        ],
+        "recommendation": "Develop formal policies and procedures for bus routes; use automated routing software; ensure propriety of bus route time and mileage data used to calculate payments.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "GCPS could not substantiate the basis of certain amounts paid to bus contractors and those payments were higher than necessary.",
+        "description": "PVA rates increased without analysis; ROI component considerably higher than prime interest rate. GCPS did not exclude federal fuel excise tax from payments. Over 12-year life of 35 new buses, GCPS will pay out approximately $1.3 million more.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000.0,
+            "context": "estimated additional payments over 12-year life of 35 new buses due to ROI rate"
+          },
+          {
+            "amount": 36100.0,
+            "context": "fuel payments higher than necessary for fiscal year 2015"
+          }
+        ],
+        "recommendation": "Use market investment rates as basis for PVA; use actual bus operating costs for maintenance rates; exclude federal fuel excise taxes from contractor payments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "GCPS has experienced persistent deficits in its food service operations, but has not developed certain benchmarks to gauge performance and identify areas for improvement.",
+        "description": "Expenditures exceeded revenues from fiscal year 2011 through 2015 by $1.5 million. Cost per meal significantly exceeds comparable districts; kitchens did not meet MPLH goal in April 2015.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 359666.0,
+            "context": "deficit in food service operations for fiscal year 2015"
+          },
+          {
+            "amount": 1535868.0,
+            "context": "total deficit from fiscal years 2011 to 2015"
+          }
+        ],
+        "recommendation": "Develop performance measures for meal costs using industry standards; monitor actual performance against benchmarks.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "GCPS financial disclosure statements were not always filed as required.",
+        "description": "GCPS did not verify that employees required to file annual financial disclosure statements had done so. Review of 36 employees disclosed 8 did not file for calendar year 2014.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Actively enforce ethics policy and ensure that all required disclosure statements are filed and reviewed by the ethics panel.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "GCPS did not ensure the propriety of certain payments for employee and retiree healthcare costs and did not always verify the authenticity of employees listed dependents.",
+        "description": "No audit of claims paid by administrator; no detailed claims info provided. Did not verify all claims exceeding stop-loss limit were reimbursed. Could not provide required documentation for 6 of 10 tested employees enrolling new dependents.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10400000.0,
+            "context": "claims paid during fiscal year 2015"
+          },
+          {
+            "amount": 765000.0,
+            "context": "stop-loss coverage paid by GCPS in plan year 2015"
+          },
+          {
+            "amount": 11034.0,
+            "context": "reimbursement received related to claims exceeding stop-loss limit in plan year 2015"
+          }
+        ],
+        "recommendation": "Obtain documentation to support actual claim payments and ensure audits of claims paid; use detailed claims payment data for stop-loss reimbursement; ensure all required documentation is received prior to enrolling new dependents.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 28,
+    "prior_findings_repeated": 7,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "GCPS responded to Findings 1-3 and 12-15, agreeing to develop procedures, revise policies, and enforce ethics requirements. Responses for Findings 4-11 were not explicitly included in the provided appendix text.",
+    "total_dollar_impact": 1336100.0,
+    "extraction_notes": "Report date extracted from transmittal letter (November 18, 2016). Audit period extracted from Scope section (January 1, 2014 through June 30, 2015). Prior findings count based on Status of Preceding Findings discussion. Dollar amounts converted to integers."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 4 amount 3300000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T19:09:21.605347",
+  "content_hash": "8fff2048167edda57c2e252e7a2e37f380208bf9",
+  "duplicate_of": null
+}

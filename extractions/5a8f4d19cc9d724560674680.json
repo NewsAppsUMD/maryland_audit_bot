@@ -1,0 +1,135 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2009-01-21",
+    "audit_period_start": "2005-06-01",
+    "audit_period_end": "2008-01-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain Boards Had Not Established Adequate Controls Over Collections and Professional Licenses",
+        "description": "Adequate control and accountability had not been established over collections and professional licenses at the State Boards of Nursing, Pharmacy, and Physicians. Procedures did not always require immediate recordation of collections, independent deposit verifications were not performed, and reconciliations of licenses issued with cash receipts were missing or incorrect.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10700000.0,
+            "context": "cash receipts for three boards in calendar year 2007"
+          },
+          {
+            "amount": 4500000.0,
+            "context": "renewal license collections processed online by contractor in calendar year 2007"
+          }
+        ],
+        "recommendation": "Establish procedures to ensure all amounts received are deposited into the State Treasury and credited to the respective unit, that all licenses issued were paid for and proper, and adequately restrict access to automated licensing systems.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "(Policy Issue) DHMH Had Not Consolidated Certain Fiscal and License Recordkeeping Functions of the Various Units",
+        "description": "DHMH had not consolidated certain fiscal and license recordkeeping functions of the boards and commission. The Department had not developed a work plan to consolidate fiscal functions or develop uniform guidelines, and statutory changes were needed but not made as of August 26, 2008.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop a work plan to consolidate fiscal functions including collection of funds and control over licensing transactions, address statutory changes needed, develop uniform guidelines and policies, and develop an ongoing oversight function.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Board Did Not Have Sufficient Procedures to Verify That Physicians Had Obtained the Required Continuing Medical Education and Taken Actions Accordingly",
+        "description": "The State Board of Physicians did not have adequate procedures to verify continuing medical education (CME) completion. Reviews were incomplete or untimely, and licenses were renewed for physicians who failed to meet CME requirements without withholding renewal or taking administrative action.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 100.0,
+            "context": "civil penalty per CME credit for failure to obtain necessary CME"
+          }
+        ],
+        "recommendation": "Ensure physicians have completed required CME and take appropriate action (imposing civil penalties, suspending license) when they fail. Request documentation of CME and review it in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Controls Over the Licensing Database Were Not Adequate",
+        "description": "Controls over the State Board of Physicians licensing database were not adequate. Users had unnecessary modification access to critical tables, database auditing was not logged for critical privileges, password controls did not comply with standards, and administrators used unencrypted protocols.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish adequate controls over the licensing database including restricting access to critical tables and enabling auditing capabilities.",
+        "agency_agrees": true,
+        "agency_completion_date": "2009-06-30"
+      },
+      {
+        "number": 5,
+        "title": "The Board Had Not Established Adequate Procedures to Ensure the Accuracy of License Status in the Licensing Database",
+        "description": "The State Board of Nursing had not established adequate procedures to ensure license status accuracy. As of March 2008, the license status of 470 nurses who did not renew was still recorded as active in the online licensing system.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to ensure license status of nurses who do not renew is changed from active to non-renewed and take immediate action to correct the status of the 470 nurses.",
+        "agency_agrees": true,
+        "agency_completion_date": "2008-05"
+      },
+      {
+        "number": 6,
+        "title": "Access Controls Over the Licensing Database and Monitoring of Critical Database Activity Were Not Adequate",
+        "description": "The State Board of Nursing had inadequate access controls over its licensing database. A default group had unnecessary read access to all tables using default passwords, auditing capabilities were not enabled for critical activities, and unauthorized changes could occur undetected.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Properly restrict access to the licensing database, enable auditing capabilities, generate security reports for unauthorized activities, and document/retain reviews.",
+        "agency_agrees": true,
+        "agency_completion_date": "2008-07-01"
+      },
+      {
+        "number": 7,
+        "title": "The Board Had Not Obtained an Annual Independent Audit of the Online License Renewal System Maintained by an Independent Contractor",
+        "description": "The State Board of Nursing had not obtained or required an annual independent audit of its online license renewal system maintained by a contractor. The Board did not verify the accuracy of the contractor's security responses or inquire about data safeguarding steps.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Obtain an annual independent audit of the controls over the online license renewal system to determine if controls are suitably designed and operating.",
+        "agency_agrees": false,
+        "agency_completion_date": "2009-03"
+      },
+      {
+        "number": 8,
+        "title": "The Board Did Not Register and Approve Pharmacy Technicians as Required by State Law",
+        "description": "The State Board of Pharmacy did not register and approve pharmacy technicians within the timeframe specified by State law. Registration was delayed due to delays in adopting regulations caused by stakeholder involvement, with only two technicians registered as of January 2008.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Take immediate action to register and approve pharmacy technicians as required by State law and implement actions within specified timeframes in the future.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 12,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Health and Mental Hygiene disagreed that Finding 2 was a repeat finding due to the need for legislative action. The State Board of Physicians did not concur with parts of Finding 1 regarding reconciliation but concurred with Findings 3 and 4. The State Board of Nursing concurred with Findings 5 and 6 but did not concur with Finding 7 citing cost prohibitive nature, instead auditing the vendor. The State Board of Pharmacy partially concurred with Finding 1 and concurred with Finding 8.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from transmittal letter (January 21, 2009). Audit period explicitly stated as June 1, 2005 to January 31, 2008. Prior findings count and repeated status found in 'Status of Findings From Preceding Audit Report' section."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 8, regex counted 7"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:21:39.418209",
+  "content_hash": "78a9f992905e1ad807733a7d8f21577e80110fd9",
+  "duplicate_of": null
+}

@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Comptroller / Bureau of Revenue Estimates",
+    "parent_department": null,
+    "report_date": "2015-08-01",
+    "audit_period_start": "2011-10-06",
+    "audit_period_end": "2015-03-03",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency stated that since there are no recommendations in the report, a written response was not necessary.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings were present in the report. Dollar amounts mentioned ($10.6 million and $37.6 million) appear in background information regarding expenditures but are not tied to specific findings or questioned/unaccounted-for amounts."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:43:15.402833",
+  "content_hash": "080e6eeb664f869b011ced3a03ccf939d075f288",
+  "duplicate_of": null
+}

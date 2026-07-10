@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "State Archives",
+    "parent_department": "State Archives",
+    "report_date": "2016-04-08",
+    "audit_period_start": "2012-10-23",
+    "audit_period_end": "2015-11-08",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The State Archives did not separate the duties of custody and record keeping for its artistic property.",
+        "description": "The State Archives had not established adequate internal control over the State\u2019s artistic property, which includes thousands of items with an insured value totaling approximately $31.4 million. Two employees responsible for recording transactions also had physical access to the property, creating a risk that items could be misappropriated without detection.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31400000.0,
+            "context": "insured value of art collections"
+          }
+        ],
+        "recommendation": "We recommend that the State Archives ensure that employees responsible for recording artistic property transactions in the detail records not have access to the property.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The State Archives concurs with the recommendation and states that staff no longer have add, delete or edit privileges to inventory databases, retaining only read-only access. Responsibility for recording transactions has been transferred to a position within the Administration Department.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from transmittal letter in Appendix. Audit period found in 'Audit Scope, Objectives, and Methodology' section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:00:30.688819",
+  "content_hash": "7933c9a057e5181750d6ae8a5bbdf9511c703245",
+  "duplicate_of": "5a8f4d0acc9d724560674280"
+}

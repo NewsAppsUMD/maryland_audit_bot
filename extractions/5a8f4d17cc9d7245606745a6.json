@@ -1,0 +1,315 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2008-04-10",
+    "audit_period_start": "2004-06-03",
+    "audit_period_end": "2007-06-13",
+    "findings": [
+      {
+        "number": 1,
+        "title": "An Agreement with a State\u2019s Attorney Office Did Not Include Sufficient Specifications",
+        "description": "DPDS agreement excluded critical elements like specific deliverables and payment terms; payments totaled $794,100 in FY2007 without verification of actual costs.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 794100.0,
+            "context": "FY 2007 payments to State's Attorney Office"
+          },
+          {
+            "amount": 786145.0,
+            "context": "FY 2006 payments to State's Attorney Office"
+          },
+          {
+            "amount": 708512.0,
+            "context": "annual appropriation approved for payments"
+          }
+        ],
+        "recommendation": "Modify SAO agreement to include payment terms and deliverables; ensure payments consistent with revised agreement.",
+        "agency_agrees": true,
+        "agency_completion_date": "Agreement by 1 July 2008, verification process by 1 September 2008 or first payment under new agreement."
+      },
+      {
+        "number": 2,
+        "title": "Service Agreements Were Not Adequately Monitored to Ensure Payments Were Made in Accordance with Related Terms and That All Requirements Were Met",
+        "description": "DPDS did not adequately monitor service agreements; oversight of off-site housing payments insufficient, contractor maintenance costs not verified, temporary employee contract management inadequate (higher cost vendors used).",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4000000.0,
+            "context": "off-site housing contract total"
+          },
+          {
+            "amount": 3500000.0,
+            "context": "base payments in off-site housing contract"
+          },
+          {
+            "amount": 500000.0,
+            "context": "per diem payments in off-site housing contract"
+          },
+          {
+            "amount": 121600.0,
+            "context": "test of three invoices for per diem housing charges"
+          },
+          {
+            "amount": 24662.0,
+            "context": "two invoices for per diem housing charges lacking signatures"
+          },
+          {
+            "amount": 800000.0,
+            "context": "contractor annual maintenance costs required to provide"
+          },
+          {
+            "amount": 765030.0,
+            "context": "DPDS paid maintenance costs over contractor amount in FY2007"
+          },
+          {
+            "amount": 496475.0,
+            "context": "contractor's payments to outside vendor for maintenance function"
+          },
+          {
+            "amount": 888116.0,
+            "context": "FY 2006 temporary personnel expenditures"
+          },
+          {
+            "amount": 893305.0,
+            "context": "FY 2007 temporary personnel expenditures"
+          }
+        ],
+        "recommendation": "Adequately monitor service agreements; ensure requirements met and invoices approved by supervisory personnel; improve management of temporary employee contract to use lower cost vendors.",
+        "agency_agrees": true,
+        "agency_completion_date": "Payment approval process modified since 1 April 2008; temporary employee placement form process implemented."
+      },
+      {
+        "number": 3,
+        "title": "Proper Internal Control Was Not Established Over the Processing of Certain Disbursement Transactions",
+        "description": "DPDS did not fully use FMIS security features allowing unauthorized transactions; five employees could initiate and approve without independent review ($10 million); payments made without verifying receipt of goods/services.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 29400000.0,
+            "context": "disbursements processed via FMIS in FY2007"
+          },
+          {
+            "amount": 10000000.0,
+            "context": "disbursement transactions initiated and approved by same employee in FY2007"
+          },
+          {
+            "amount": 145000.0,
+            "context": "test of seven payments made during FYs 2005-2007"
+          },
+          {
+            "amount": 97000.0,
+            "context": "five payments lacking documentation to support receipt of goods/services"
+          },
+          {
+            "amount": 18000.0,
+            "context": "ammunition paid without receiving report"
+          }
+        ],
+        "recommendation": "Fully use FMIS security features; establish independent online approval requirements; ensure documentation supporting receipt is received prior to processing invoices.",
+        "agency_agrees": true,
+        "agency_completion_date": "FMIS security authorizations corrected on 19 July 2007; formal accountability established for documentation."
+      },
+      {
+        "number": 4,
+        "title": "Adequate Control Over Certain Corporate Purchasing Card Transactions Had Not Been Established",
+        "description": "Inadequate control over CPC transactions; equipment purchased could not be located ($3,883); purchases split to circumvent limits ($10,082); documentation inadequate for 24 charges.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 69000.0,
+            "context": "items purchased with corporate purchasing cards tested"
+          },
+          {
+            "amount": 15073.0,
+            "context": "value of 50 items tested"
+          },
+          {
+            "amount": 3883.0,
+            "context": "items valued at that amount could not be located on premises"
+          },
+          {
+            "amount": 10082.0,
+            "context": "CPC purchases split into smaller purchases to circumvent limits"
+          },
+          {
+            "amount": 16875.0,
+            "context": "transactions where invoices did not provide sufficient detail or costs not detailed"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "fiscal year 2007 CPC activity total"
+          }
+        ],
+        "recommendation": "Comply with Comptroller's Manual; record and account for equipment items; do not split transactions; maintain documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": "CPC authorization process changed to ensure Property Officer receives requisition form; monthly statements reviewed; formal accountability established."
+      },
+      {
+        "number": 5,
+        "title": "Supervisory Review of Supporting Documentation for Payroll Adjustments Was Not Documented",
+        "description": "Supervisory employees did not document review of payroll adjustment documentation (time sheets, overtime forms); errors/unauthorized adjustments could be processed without detection.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 72800000.0,
+            "context": "DPDS payroll expenditures in FY2007"
+          },
+          {
+            "amount": 8800000.0,
+            "context": "employee overtime in FY2007"
+          }
+        ],
+        "recommendation": "Supervisory personnel document verification of payroll adjustments to source documents.",
+        "agency_agrees": true,
+        "agency_completion_date": "Procedures changed in July 2007; additional steps taken for management verification."
+      },
+      {
+        "number": 6,
+        "title": "Adequate Documentation of Year End Entries Was Not Maintained and Certain Entries Effectively Allowed Funds Provided by Fiscal Year 2006 Accruals to be Used to Fund Fiscal Year 2007 Expenditures",
+        "description": "DPDS did not maintain proper documentation for FY2006 accrued expenditures ($2.9 million); journal entries allowed use of prior year accruals for current year; $126,390 improper accrual (invoice previously paid).",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2900000.0,
+            "context": "FY 2006 general fund accrued expenditures"
+          },
+          {
+            "amount": 652500.0,
+            "context": "test of six FY 2006 accrued expenditures"
+          },
+          {
+            "amount": 295000.0,
+            "context": "accruals with inadequate support or improper documentation"
+          },
+          {
+            "amount": 126390.0,
+            "context": "improper accrual related to unpaid invoice previously paid"
+          }
+        ],
+        "recommendation": "Comply with Accounting Procedures Manual; maintain proper documentation; discontinue practice of using prior year accruals for current expenditures; revert unliquidated accruals and $126,390 to General Fund.",
+        "agency_agrees": true,
+        "agency_completion_date": "Will comply with Manual and maintain documentation; will submit listing of accrued expenditures; agrees to revert $126,390 during FY 2008 closing."
+      },
+      {
+        "number": 7,
+        "title": "Property Records Were Not Adequately Maintained, and DPDS Did Not Reconcile Its Physical Inventory with Its Related Detail Records",
+        "description": "Property records not maintained per DGS requirements; physical inventory not reconciled with detail records (e.g., washers/dryers discrepancy); control account not maintained.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5000000.0,
+            "context": "reported book value of DPDS equipment as of June 30, 2007"
+          },
+          {
+            "amount": 9200.0,
+            "context": "cost of 32 equipment items purchased during FYs 2006-2007 tested"
+          }
+        ],
+        "recommendation": "Comply with DGS Inventory Control Manual requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": "Physical inventory reconciled; control accounts confirmed; detail records maintained in new databases; annual physical inventory by 30 June 2008."
+      },
+      {
+        "number": 8,
+        "title": "Procedures and Controls Over the Materials and Supplies Inventory Were Inadequate",
+        "description": "Procedures inadequate for materials/supplies inventory; differences between perpetual records and physical inventories not investigated ($28,000 difference in uniforms); value not reported to DGS.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3100000.0,
+            "context": "DPDS spent for materials and supplies during FY 2006"
+          },
+          {
+            "amount": 666359.0,
+            "context": "value of materials and supplies at central storeroom as of June 30, 2007"
+          },
+          {
+            "amount": 219000.0,
+            "context": "total value of uniforms according to inventory records"
+          },
+          {
+            "amount": 191000.0,
+            "context": "value according to physical inventory counts for uniforms"
+          },
+          {
+            "amount": 28000.0,
+            "context": "difference between uniform record and physical inventory values"
+          }
+        ],
+        "recommendation": "Comply with DGS Inventory Control Manual; investigate differences; review adjustments by supervisory personnel; report balances to DGS.",
+        "agency_agrees": true,
+        "agency_completion_date": "Differences investigated/resolved; adjustments reviewed/approved; records converted to electronic spreadsheets; additional records established by 30 May 2008."
+      },
+      {
+        "number": 9,
+        "title": "DPDS Had Not Executed a Lease with an Entity That Had Been Using DPDS Facilities, and Certain Rent Payments Had Not Been Requested",
+        "description": "No new lease executed with nonprofit entity occupying space; no rent requests since Dec 2005; outstanding receivable balance $27,606.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 27606.0,
+            "context": "outstanding receivable balance related to billings from April-Dec 2005"
+          },
+          {
+            "amount": 3744.0,
+            "context": "monthly rent amount entity previously paid"
+          }
+        ],
+        "recommendation": "Determine lease amounts owed and follow-up to collect; ensure future uses supported by BPW approved lease.",
+        "agency_agrees": true,
+        "agency_completion_date": "Working with Assistant Attorney General to determine amounts owed; review completed by 15 May 2008."
+      },
+      {
+        "number": 10,
+        "title": "Certain Fraudulent Acts Discovered by DPDS Were Not Immediately Reported to Authorities",
+        "description": "Lack of documentation that fraudulent acts were immediately reported to Attorney General - Criminal Division; three employees presented fraudulent medical docs, one failed to report time worked; referrals received in Oct 2007 (late).",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18000.0,
+            "context": "monetary loss to the State for two of these cases"
+          }
+        ],
+        "recommendation": "Promptly inform appropriate authorities of instances of possible criminal or unethical conduct.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 10,
+    "prior_findings_repeated": 5,
+    "criminal_referral": true,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DPDS agreed with most recommendations and noted steps taken prior to report issuance. They disagreed in part with Finding 6 regarding the consistency of their accrual adjustment practices but agreed to revert specific funds ($126,390).",
+    "total_dollar_impact": 172390.0,
+    "extraction_notes": "Finding 10 response not included in provided text snippet. Criminal referral confirmed for Finding 10 based on 'referral letters were received' statement."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 8 amount 3100000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:02:03.321210",
+  "content_hash": "b0ae23ad9cf880a67e2af267e4e1fa46d9cb9a53",
+  "duplicate_of": null
+}

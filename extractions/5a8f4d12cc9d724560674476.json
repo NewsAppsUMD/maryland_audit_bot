@@ -1,0 +1,293 @@
+{
+  "extraction": {
+    "agency_name": "Department of Information Technology",
+    "parent_department": "Department of Information Technology",
+    "report_date": "2024-03-29",
+    "audit_period_start": "2018-05-07",
+    "audit_period_end": "2022-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Department of Information Technology (DoIT) should assume greater oversight responsibility to ensure that MITDPs were completed on time and on budget.",
+        "description": "DoIT delegated significant MITDP responsibilities to State agencies without ensuring the agencies had sufficient resources, qualified personnel, or oversight. DoIT did not assist with selection of project managers/contractors, review contract modifications, or review contractor invoices for compliance.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DoIT should take necessary steps to establish adequate safeguards when delegating key aspects of MITDP oversight. This includes verifying State agencies have qualified personnel, assisting with contract procurements/modifications, and periodically reviewing expenditures for compliance.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DoIT did not effectively monitor MITDPs to ensure they were on budget and on schedule and that changes to the scope and cost of the project were appropriate.",
+        "description": "DoIT did not document review/approval of annual agency project status reports (ITPRs), did not review methodology for estimates, or obtain explanations for significant cost increases. DoIT also failed to ensure OPMs verified accuracy in monthly health assessments and did not always formally review/approve changes in scope, cost, and schedule.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1470000000.0,
+            "context": "estimated cost to complete of three MITDPs tested"
+          }
+        ],
+        "recommendation": "Ensure annual ITPRs are submitted and reviewed/approved prior to submission; review methodology/basis for estimated costs; obtain explanations for significant changes; require OPMs to ensure health assessments are verified with justifications; review and approve changes in scope, cost, and schedule.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DoIT did not have an effective process to evaluate oversight project managers (OPMs) hired through vendors to oversee MITDPs.",
+        "description": "Performance evaluation process for OPMs did not clearly demonstrate satisfactory performance or meet expectations. Evaluations lacked defined criteria and rating categories were not thorough; DoIT did not critically review self-assessments, often indicating 'satisfactory' without specific justification.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure performance evaluations adequately demonstrate OPMs were satisfactorily performing job duties with justifications; develop written definitions and criteria for performance areas/rating categories; retain evaluations and take corrective action when performance is unsatisfactory.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DoIT could not support cost data and conclusions included in its annual report submitted to the Governor, DBM, and General Assembly; and did not always include changes in schedule, cost, and other identified problems with MITDPs, as required by State law.",
+        "description": "DoIT could not provide documentation to support cost-to-date/estimated cost-to-complete figures in the annual report. DoIT also failed to accurately report known or anticipated changes in schedule/cost/scope and did not summarize problems from external reviews (e.g., stated no risks for MD THINK despite known issues).",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure annual reports include accurate estimated costs to complete and retain documentation; accurately report known or anticipated changes in schedule, cost, scope, and provide summary of problems identified by external review.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DoIT could not adequately explain or justify the increase in MD THINK costs from the initial $166.4 million to $588.8 million and delays in the system implementation.",
+        "description": "DoIT referred inquiries regarding cost/time extensions (17 modifications) to DHS/Executive Committee. Estimated costs totaled $588.8 million as of June 30, 2022, representing an increase of $422.4 million from original contract amounts. Issues identified included eligibility/enrollment component problems and federal requirements.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 422400000.0,
+            "context": "increase in MD THINK costs from initial $166.4 million to $588.8 million"
+          }
+        ],
+        "recommendation": "Monitor the project to ensure that costs, functionality, and delivery dates are consistent with contract terms or adequately justified; ensure the project is fully implemented or take immediate corrective actions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "DoIT did not ensure that Independent Verification and Validation assessments findings were resolved timely by DHS and the MD THINK Executive Committee.",
+        "description": "Review of IV&V reports (Jan 2020-May 2022) identified 251 issues; as of May 2022, 33 were open including 15 high-risk. Fourteen of the 15 high-risk issues remained open for 3 to 27 months despite requiring immediate action.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure critical findings from IV&V project assessment reports for MD THINK are resolved timely.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DoIT did not provide effective oversight during the development and implementation of eMMA resulting in significant delays and changes to the cost and scope of the project.",
+        "description": "eMMA lacked an integrated schedule or standard tracking method; steering committee created almost a year after contract award. IV&V report disclosed issues with project management/governance. Project estimated completion moved to fiscal year 2026 with total cost $70.9 million, an increase of $32.7 million over original.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 32700000.0,
+            "context": "increase over original contract cost for eMMA"
+          }
+        ],
+        "recommendation": "Provide significant oversight and direction; ensure eMMA completed per schedule/budget; resolve issues identified by health assessments/IV&Vs including developing project schedule; proactively identify actions to encourage vendor resolution.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "DoIT used the networkMaryland contract to award significant work unrelated to networkMaryland without considering a competitive procurement process.",
+        "description": "DoIT used the contract for staff augmentation ($16.8 million) and cybersecurity remediation services ($25 million) without formal consideration of competitive procurement. DoIT bypassed BPW approval requirements and did not use emergency procurement method despite urgent needs.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 16800000.0,
+            "context": "staff augmentation work orders awarded without competitive procurement"
+          },
+          {
+            "amount": 25000000.0,
+            "context": "cybersecurity remediation work orders awarded without competitive procurement"
+          }
+        ],
+        "recommendation": "Modify the networkMaryland contract to clearly define scope and extent of services; obtain retroactive approval from BPW for current work orders; solicit secondary competition amongst approved CATS+ contractors for staff augmentation and cybersecurity remediation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "DoIT did not adequately monitor work orders for agency staff augmentation services under the networkMaryland contract and documentation of certain work orders could not be provided.",
+        "description": "DoIT failed to verify amounts paid from three work orders totaling $9.1 million for staff augmentation at MDH, including a payment with unauthorized charges. They also maintained inaccurate records for six work orders totaling $25.5 million and lacked documentation for four work orders totaling $3 million under the prior contract. Additionally, DoIT did not have records of all subcontractors as required and approved certain work orders after work had begun.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 35900000.0,
+            "context": "total work orders reviewed"
+          },
+          {
+            "amount": 9100000.0,
+            "context": "unverified payments at MDH"
+          },
+          {
+            "amount": 467000.0,
+            "context": "unauthorized training charges"
+          },
+          {
+            "amount": 25500000.0,
+            "context": "work orders under new contract tested"
+          },
+          {
+            "amount": 21100000.0,
+            "context": "inaccurate amounts or expenditure information"
+          },
+          {
+            "amount": 3000000.0,
+            "context": "no documentation for prior contract work orders"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "subcontractor work order"
+          },
+          {
+            "amount": 2700000.0,
+            "context": "work orders not approved timely"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "paid prior to approval"
+          }
+        ],
+        "recommendation": "We recommend that DoIT ensure labor hours billed for staff augmentation work orders for other State agencies are accurate prior to approving invoices for payment, ensure approved work order documentation is maintained, and ensure subcontractors are approved and qualified.",
+        "agency_agrees": true,
+        "agency_completion_date": "03/31/2024 (for recommendations 9b and 9c; recommendation 9a marked Complete), 06/30/2024 (for other findings in report context but specific to Finding 9: 03/31/2024 for b/c, Complete for a). Note: Appendix Response shows 9a Complete, 9b and 9c 03/31/2024. I will use the specific dates found in the response form for this finding."
+      },
+      {
+        "number": 10,
+        "title": "DoIT issued work orders to the networkMaryland vendor for cybersecurity remediation services totaling approximately $25 million that were not sufficiently detailed and did not adequately ensure that all $11.5 million invoiced by the vendor was related to work performed on behalf of DoIT work orders.",
+        "description": "DoIT issued 11 work orders totaling $25 million for cybersecurity remediation, with payments totaling approximately $11.5 million as of May 2023. Work orders lacked detailed deliverables and cost correlations, preventing effective oversight. DoIT could not support labor hours billed for approximately $2 million over six months, including $100,000 in unspecified work entries.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 25000000.0,
+            "context": "cybersecurity remediation services total"
+          },
+          {
+            "amount": 11500000.0,
+            "context": "payments as of May 2023"
+          },
+          {
+            "amount": 4300000.0,
+            "context": "initial work order amount"
+          },
+          {
+            "amount": 12700000.0,
+            "context": "increased cost after scope changes"
+          },
+          {
+            "amount": 8400000.0,
+            "context": "cost increase without clear definition"
+          },
+          {
+            "amount": 2000000.0,
+            "context": "labor hours billed reviewed over six months"
+          },
+          {
+            "amount": 100000.0,
+            "context": "unspecified work entries billed"
+          }
+        ],
+        "recommendation": "We recommend that DoIT ensure all future cybersecurity remediation work orders and deliverables are clearly defined and estimated costs correlate to deliverables; ensure labor hours billed are accurate for work completed and properly supported; and in conjunction with legal counsel, consider the recovery of funds previously paid for inadequate work product.",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed (10a), Complete (10b, 10c)"
+      },
+      {
+        "number": 15,
+        "title": "DoIT did not have formal written agreements with 57 of the 130 State and local entities receiving ETSS and did not recover $4.8 million from nine entities with agreements for services provided.",
+        "description": "As of July 2022, 57 entities had not signed an MOU despite receiving services totaling $30.6 million in fiscal year 2022. DoIT also did not recover $4.8 million from nine entities for purchases made on their behalf, outstanding for periods ranging from six to 18 months.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 30600000.0,
+            "context": "services total fiscal year 2022"
+          },
+          {
+            "amount": 4800000.0,
+            "context": "not recovered from nine entities"
+          },
+          {
+            "amount": 61400000.0,
+            "context": "software upgrades and equipment purchased on behalf of entities"
+          }
+        ],
+        "recommendation": "We recommend that DoIT enter into formal MOUs with all agencies for which it provides ETSS to clarify responsibilities and cost mechanisms; ensure amounts due from agencies are timely recovered.",
+        "agency_agrees": true,
+        "agency_completion_date": "09/30/2024 (15a), 07/31/2024 (15b)"
+      },
+      {
+        "number": 16,
+        "title": "DoIT did not adequately control its equipment inventory and did not maintain accurate detail records.",
+        "description": "DoIT reported equipment valued at $60.6 million to DGS as of June 30, 2021, but did not conduct required annual physical inventories. They also inaccurately reported additions and disposal activity, showing a difference of $2.8 million between financial records and the DGS report.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 60600000.0,
+            "context": "equipment value reported to DGS"
+          },
+          {
+            "amount": 3400000.0,
+            "context": "reported equipment additions"
+          },
+          {
+            "amount": 6200000.0,
+            "context": "financial record purchases"
+          },
+          {
+            "amount": 2800000.0,
+            "context": "difference between records and report"
+          }
+        ],
+        "recommendation": "We recommend that DoIT comply with the requirements of the DGS Inventory Control Manual by conducting annual independent physical inventories; ensuring property is properly reported to DGS on the annual report of fixed assets and investigating the aforementioned difference.",
+        "agency_agrees": true,
+        "agency_completion_date": "06/30/2024"
+      }
+    ],
+    "prior_findings_count": 10,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "DoIT agrees with most recommendations but disagrees on statutory authority for oversight and implementation of certain recommendations. DoIT management advised it will seek necessary legislation to enhance formal authority. OLA reaffirmed validity of findings despite disagreement.",
+    "total_dollar_impact": 464200000.0,
+    "extraction_notes": "Findings 9-16 are listed in Table of Contents but body text (Analysis/Recommendation) was not included in the provided report excerpt. Dollar amounts for Findings 5 and 8 represent questioned/unjustified costs or non-compliant spending."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 12, regex counted 14",
+    "dollar_amount_not_in_text: finding 9 amount 21100000.0",
+    "dollar_amount_not_in_text: finding 10 amount 12700000.0",
+    "dollar_amount_not_in_text: finding 15 amount 61400000.0",
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:30:40.996271",
+  "content_hash": "e3a495e14ad818b8aad29b60f07b9df53421b896",
+  "duplicate_of": null
+}

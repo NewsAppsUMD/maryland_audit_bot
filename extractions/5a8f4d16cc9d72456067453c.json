@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2015-09-01",
+    "audit_period_start": "2012-02-17",
+    "audit_period_end": "2015-04-28",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Internal controls were not sufficient to ensure that all collections were deposited.",
+        "description": "The Center had not established adequate controls to ensure all collections were deposited. Collections totaled approximately $403,000 during the period from July 1, 2014 through May 8, 2015. The employee responsible for verifying deposits had access to collections prior to deposit and was not independent, and prenumbered receipt forms were not adequately accounted for.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 403000.0,
+            "context": "Center's collections totaled approximately $403,000 during the period from July 1, 2014 through May 8, 2015"
+          }
+        ],
+        "recommendation": "We recommend that the Center ensure that a. the employee who performs the deposit verification does not have access to collections prior to deposit (repeat); b. the original records of collections are given directly to the employee responsible for performing the deposit verifications; and c. prenumbered receipt forms are periodically accounted for as to issued, voided, or on hand, by an employee who does not handle cash receipts.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-10-01"
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Administration concurred with the recommendations. Implementation of separation of duties and scanning procedures will be effective October 1, 2015, with receipt form verification beginning the month ending October 31, 2015.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'September 2015'. Prior finding number not explicitly stated in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:12:22.814535",
+  "content_hash": "3761c71a2f4a8c69729de655a712a9b22dd16622",
+  "duplicate_of": "5a8f4d16cc9d724560674538"
+}

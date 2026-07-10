@@ -1,0 +1,263 @@
+{
+  "extraction": {
+    "agency_name": "Cecil County Public Schools",
+    "parent_department": null,
+    "report_date": "2017-07-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "There was no independent verification that all recorded collections were subsequently deposited.",
+        "description": "CCPS did not perform independent verifications that recorded collections per the daily receipts log were subsequently deposited. Collections totaled $13.1 million during fiscal year 2016 and consisted primarily of checks received through the mail.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13100000.0,
+            "context": "collections totaled during fiscal year 2016"
+          },
+          {
+            "amount": 3900000.0,
+            "context": "test of collections received during fiscal year 2016"
+          }
+        ],
+        "recommendation": "We recommend that CCPS a. independently verify that all receipts per the daily receipts log were subsequently deposited (repeat), and b. document that the verifications are completed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "CCPS had not established adequate internal controls over its automated accounts payable functions.",
+        "description": "CCPS had not established adequate internal controls over its automated purchasing and accounts payable system by restricting users' capabilities to prevent unnecessary or incompatible capabilities. Additionally, the system does not provide a transaction history file that would identify transactions initiated and processed by users with those capabilities.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that CCPS strengthen its controls over the automated procurement and accounts payable system and processes by a. restricting users' capabilities to those needed to perform their job duties, and eliminating the ability of users to perform incompatible duties (repeat); b. removing users' access to automated systems immediately upon separation from service; c. performing a periodic documented independent review of purchasing and accounts payable user capabilities to ensure access is properly granted; and d. performing independent verifications of payable transactions to supporting documentation prior to making payments (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-01"
+      },
+      {
+        "number": 3,
+        "title": "CCPS did not use the methodology described in the request for proposal when evaluating the bids for certain professional services.",
+        "description": "CCPS did not use the weighting criteria stated in the request for proposals (RFP) when evaluating bids for speech-language, occupational, and physical therapy services contracts. This resulted in 10 vendors who were awarded contracts valued at approximately $1.1 million annually by virtue of having received the highest point total based on the equal weighting of the criterion.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1100000.0,
+            "context": "contracts awarded annually"
+          }
+        ],
+        "recommendation": "We recommend that CCPS adhere to the award criteria specified in the request for proposals.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "CCPS did not assess the benefits of using intergovernmental cooperative purchasing agreements (ICPA) as required by State law, nor in most cases did it establish that the ICPA's were awarded through a competitive procurement process.",
+        "description": "CCPS advised that it does not document the benefits of using ICPAs, as required by State law. Based upon a review of Board records, we identified at least 28 contracts presented to and approved by the Board during fiscal year 2016 as being based on ICPAs, with estimated values totaling $6.5 million for which a written determination of the benefits should have been prepared.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6500000.0,
+            "context": "estimated values of ICPA contracts"
+          },
+          {
+            "amount": 1359000.0,
+            "context": "payments made for leasing contract where underlying contract expired"
+          }
+        ],
+        "recommendation": "We recommend that CCPS a. comply with State law and ensure that a written determination of the benefits of using ICPA for services is prepared, b. obtain evidence that the ICPA contract for goods and commodities was competitively procured by the originating entity, c. ensure that the underlying contract used for an ICPA is current before entering into the agreement and presenting it to the Board, and d. ensure that copies of all contract documents are retained.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Human resources and payroll system user capabilities were not adequately monitored and restricted. In addition, independent reviews of personnel and payroll transactions were not performed.",
+        "description": "Capabilities assigned to users that allowed them to perform critical HR and payroll system functions were not adequately monitored and restricted. We identified eight user accounts that had been assigned incompatible HR and payroll system access capabilities or were assigned capabilities that were not needed to perform their job duties.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5400000.0,
+            "context": "additional pay and leave payouts during fiscal year 2015"
+          },
+          {
+            "amount": 93000.0,
+            "context": "overtime during fiscal year 2015"
+          }
+        ],
+        "recommendation": "We recommend that CCPS a. perform a periodic documented independent review of HR and payroll user capabilities to ensure access to critical functions is appropriate and limited to those employees who require such capabilities to perform their assigned job duties (repeat), b. eliminate the aforementioned unnecessary access and incompatible HR and payroll system functions, and c. perform documented independent reviews of critical personnel and payroll transactions processed to supporting documentation (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "CCPS had not established adequate controls over its automated equipment inventory records as system entries were not independently verified and access to the records was not adequately restricted.",
+        "description": "CCPS had not established adequate controls over its equipment automated inventory records as system entries were not independently verified and access to the records was not adequately restricted. One employee was primarily responsible for recording additions, disposals, and adjustments for both capital and sensitive equipment on the database system, and the entries were not independently verified to supporting documents by supervisory personnel.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 22000000.0,
+            "context": "undepreciated value of capital equipment inventory as of June 30, 2016"
+          }
+        ],
+        "recommendation": "We recommend that CCPS establish adequate controls over its equipment records, and that such controls require a. that inventory transactions recorded on the system, such as adjustments, be verified to supporting approved transaction forms by an independent employee, at least on a test basis; and b. that critical system access capabilities be periodically assessed for appropriateness and limited to those employees who require such capabilities to perform their assigned job duties (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Database and server controls were not sufficient, as security activity was not logged.",
+        "description": "Database and server controls were not sufficient, as security activity was not logged. Specifically, the student information database software did not permit the logging of any database security activity including privileged operations and the server hosting the financial application was not configured to log security events or changes to critical files.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that CCPS a. take appropriate action to ensure that the student information database logs all critical security related events, b. set the server hosting the financial application to log all critical security related events and changes to critical files (repeat), and c. regularly review these logs and retain review documentation for future reference.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "CCPS did not have a Disaster Recovery Plan for recovering computer operations.",
+        "description": "CCPS did not have an information technology (IT) Disaster Recovery Plan (DRP) for recovering computer operations from disaster scenarios. Without a complete and tested DRP, a disaster could cause significant delays in restoring information systems operations above and beyond the expected delays that would exist in a planned recovery scenario.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that CCPS develop and implement a comprehensive DRP that is in accordance with the aforementioned IT Disaster Recovery Guidelines and periodically test the DRP, document the testing, and retain the documentation for future reference (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "The CCPS computer network was not adequately secured, as the internal network could be exposed to attack from external sources and reports of attacks from the CCPS intrusion detection prevention system were either not generated or when generated not reviewed.",
+        "description": "The CCPS computer network was not sufficiently secured. Eight publicly accessible servers were located in the CCPS internal network segment rather than isolating those servers in a separate protected network zone. The CCPS' intrusion detection prevention system (IDPS) was not configured to properly protect the CCPS network.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that CCPS a. relocate all publicly accessible servers to a separate neutral network zone, b. reconfigure the IDPS coverage to properly secure its network, and c. secure its internal network by authenticating users of the wireless network and properly restricting access to authorized users to only those devices related to their respective needs and responsibilities.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-12"
+      },
+      {
+        "number": 10,
+        "title": "Workstations and servers were not sufficiently protected against malware.",
+        "description": "CCPS workstations and servers were not sufficiently protected against malware. Numerous workstations were configured with users having administrative rights. CCPS did not have enterprise-wide management tools to monitor and ensure that the malware protection software installed on its 5,273 workstations and servers was operational, up-to-date, and using the most current malware prevention signature files.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that CCPS a. ensure that administrative rights on workstations are restricted to network administrators and other select users requiring such rights; and b. obtain and use enterprise-wide management tools to ensure that all workstations and servers are configured with malware protection software that is operating properly, up-to-date, and has current signature files.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "CCPS executed three 20-year power-purchasing agreements with a solar provider without a competitive process or a formal financial analysis, and without evidence it had fully resolved the risk concerns of its legal counsel.",
+        "description": "CCPS executed three power-purchasing agreements (PPA) with a solar provider that included 20-year escalating rate schedules with a combined estimated total cost of $14.1 million without using a competitive process. In addition, CCPS did not prepare a formal analysis to ensure that it had received the most favorable financial terms nor adequately resolve a number of concerns expressed by its legal counsel regarding the contracts' terms and conditions.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 14100000.0,
+            "context": "combined estimated total cost of PPAs"
+          },
+          {
+            "amount": 5700000.0,
+            "context": "estimated cost for one PPA over its 20-year life"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "portion of total estimated cost accounted for by rate escalation factor"
+          }
+        ],
+        "recommendation": "We recommend that CCPS a. ensure that a competitive procurement is used for all future PPAs and that the award is given to the bid resulting in the best financial terms for CCPS, and b. ensure that the proper consideration be given to risks identified and the resolution of those risks be documented.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "CCPS did not establish comprehensive bus routing procedures and did not periodically perform a system-wide analysis of bus routes and related bus capacities to maximize the efficiency of its bus routes and address bus routes operating below ridership capacity goals.",
+        "description": "CCPS bus routing procedures were not comprehensive, as they did not address the planning, reviewing, and changing of existing routes and they did not specify ridership goals and student ride time limits. In addition, CCPS did not periodically perform a system-wide analysis, with the assistance of its automated bus routing software, of bus routes and related bus ridership to maximize efficiency.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9500000.0,
+            "context": "transportation costs during fiscal year 2015"
+          },
+          {
+            "amount": 8100000.0,
+            "context": "payments for contracted bus services in fiscal year 2015"
+          }
+        ],
+        "recommendation": "We recommend that CCPS take steps to increase bus utilization efficiency. Specifically, we recommend that CCPS a. develop formal, comprehensive written procedures that include specific target bus ridership percentages and student ride times; and b. fully utilize the capabilities of its automated routing software (such as performing a periodic system-wide bus route analysis) to maximize the ridership on its bus routes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "Certain elements used to determine payments to bus contractors did not reflect market conditions, use actual costs, or consider available fuel credits, resulting in higher payments than necessary for student transportation services.",
+        "description": "Certain elements used to determine payment amounts to bus contractors did not reflect market conditions, use actual costs, or consider available fuel credits. Our analysis showed that CCPS' annual PVA payments per bus were $2,244 to $7,516 higher than the payments would have been had a 12-year useful life been used for all service years and the prevailing prime rate been used in the calculation.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7800000.0,
+            "context": "additional amount CCPS would pay out over the 12-year life of buses due to improper PVA calculations"
+          },
+          {
+            "amount": 1800000.0,
+            "context": "payments for maintenance costs during fiscal year 2016"
+          },
+          {
+            "amount": 379000.0,
+            "context": "potential lower payments if federal fuel excise taxes were excluded (fiscal years 2011 through 2015)"
+          }
+        ],
+        "recommendation": "We recommend that CCPS a. calculate the annual PVA amount based on the average of the bus cost quotes received from bus manufacturers, b. use market investment rates as a basis for establishing contractor rates for the annual PVA (repeat), c. use actual bus operating costs as a basis for establishing contractor rates for per mile maintenance costs or otherwise develop supportable cost estimates as the basis for per mile maintenance costs, and d. exclude fuel excise taxes from contractor payments.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "There was no documented independent review and approval of the monthly payments for contractor bus operating costs, and user access to the automated system used to calculate bus payments was not adequately restricted.",
+        "description": "Monthly calculations of bus contractor payments for operating costs were not subject to documented independent review and approval within the Transportation Department prior to submission to the CCPS Finance Office for payment processing. Furthermore, user access to the Department's automated payment system used to calculate bus payments was not adequately restricted.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that CCPS establish adequate controls over payments to bus contractors. Specifically, we recommend that a. Department supervisors perform documented reviews of bus payment reports immediately prior to submission to the Finance Office based on a review of related supporting documentation including system generated transaction reports; b. critical system access capabilities be periodically assessed for appropriateness and limited to those employees who require such capabilities to perform their assigned job duties; and c. supervisors responsible for reviewing payments be given read only access, thereby eliminating their ability to make changes in the automated system (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 26,
+    "prior_findings_repeated": 8,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "CCPS generally agreed with all findings and recommendations, though they disagreed with specific elements of Recommendation 13 regarding ROI rates, maintenance cost basis, and fuel tax exclusion. They noted staffing limitations for DRP implementation and ongoing system upgrades to address control deficiencies.",
+    "total_dollar_impact": 9538000.0,
+    "extraction_notes": "Audit period dates extracted from Scope section explicitly stating 'period from July 1, 2010 through June 30, 2015'. Total dollar impact sums quantified questioned amounts from Findings 4 ($1,359,000), 13 ($7,800,000 overpayment + $379,000 fuel tax)."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T18:26:22.827133",
+  "content_hash": "bacc7bc29eb5c40da3559d3af3bd2598c70a453b",
+  "duplicate_of": "5a945d35cc9d72404c150a06"
+}

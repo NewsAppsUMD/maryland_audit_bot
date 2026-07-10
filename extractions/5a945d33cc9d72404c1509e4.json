@@ -1,0 +1,99 @@
+{
+  "extraction": {
+    "agency_name": "Spring Grove Hospital Center",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2008-11-10",
+    "audit_period_start": "2008-04-01",
+    "audit_period_end": "2008-07-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Questionable Transactions with One Contractor Totaled $167,106",
+        "description": "Numerous questionable transactions totaling $167,106 were noted related to one contractor. The bidding process appeared significantly compromised, including bids faxed by the winning bidder and tampered bid documents. SGHC was unable to substantiate receipt of specific equipment items purchased from this contractor.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 167106.0,
+            "context": "Questionable transactions related to one contractor"
+          },
+          {
+            "amount": 26777.0,
+            "context": "Premium overpayments requested for reimbursement"
+          }
+        ],
+        "recommendation": "SGHC should comply with State Procurement Regulations in the bidding and awarding of all contracts, obtain written bids, limit sole source procurements, not artificially divide procurements, obtain reimbursement for $26,777 in premium overpayments, verify equipment items purchased, and consult with the Office of the Attorney General \u2013 Criminal Division.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Projects Totaling $232,000 Were Directed to Three Contractors That Employed a Certain Individual",
+        "description": "Projects totaling $232,000 were frequently directed by the Maintenance Department to three contractors that employed a specific individual. Work was generally awarded without any competitive process being considered and involved questionable practices such as late RFPs and sole source procurements without written justification.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 232000.0,
+            "context": "Projects directed to contractors employing a specific individual"
+          }
+        ],
+        "recommendation": "The Department should strictly comply with State Procurement Regulations. SGHC should consult with the Office of the Attorney General \u2013 Criminal Division regarding any further action.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Projects Were Awarded to Contractors That Had Personal Relationships with Certain SGHC Employees",
+        "description": "SGHC awarded projects to several contractors that had personal relationships with certain employees. The awarding of these projects created an appearance of conflicts of interest that may have violated State Ethics Law and a related Governor\u2019s Executive Order.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 25000.0,
+            "context": "Projects awarded to contractor with supervisory employee"
+          },
+          {
+            "amount": 40000.0,
+            "context": "Total payments to heating and plumbing contractor during fiscal year 2008"
+          }
+        ],
+        "recommendation": "SGHC should take appropriate action to ensure compliance with the State Ethics Law and the Governor\u2019s Executive Order. SGHC should refer information to the State Ethics Commission and consult with the Office of the Attorney General \u2013 Criminal Division.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "SGHC Submitted a Questionable Insurance Claim to the State Treasurer\u2019s Office Totaling $35,022",
+        "description": "SGHC submitted and was reimbursed for a questionable insurance claim totaling $35,022. The chiller unit reportedly damaged continued to operate for 16 months after the reported loss date before being replaced.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 35022.0,
+            "context": "Questionable insurance claim submitted to State Treasurer's Office"
+          }
+        ],
+        "recommendation": "SGHC should only submit insurance claims to the State Treasurer\u2019s Office for losses that are actually incurred.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": true,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "The Department agrees with recommendations regarding compliance with State Procurement Regulations and Ethics Law but disputes some specific allegations (e.g., intent to divide projects, overpayment refund). They state corrective actions have been taken or are underway, including establishing a bid committee, implementing standing contracts for HVAC work, and improving procurement oversight effective September 2008.",
+    "total_dollar_impact": 434128.0,
+    "extraction_notes": "Audit period derived from review dates April-July 2008. Criminal referral confirmed in findings analysis sections."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:45:45.995721",
+  "content_hash": "888a011348255db368b9764477473ae863e53f0f",
+  "duplicate_of": null
+}

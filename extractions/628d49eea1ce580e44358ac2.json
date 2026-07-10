@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Clerk of Circuit Court",
+    "parent_department": null,
+    "report_date": "2022-05-24",
+    "audit_period_start": "2017-08-10",
+    "audit_period_end": "2021-11-15",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a written response as there were no recommendations in the report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings sections present. No dollar amounts tied to specific findings."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T22:22:18.019434",
+  "content_hash": "9db207410f28092014af4691c291751c685a85da",
+  "duplicate_of": "5a8f4d0ccc9d7245606742ee"
+}

@@ -1,0 +1,73 @@
+{
+  "extraction": {
+    "agency_name": "Spring Grove Hospital Center",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2015-10-01",
+    "audit_period_start": "2012-01-18",
+    "audit_period_end": "2015-02-16",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls were not established to ensure collections were properly accounted for and deposited.",
+        "description": "Proper controls were not established over cash receipts, including lack of deposit verifications since December 2014 due to retirement, improper verification methods prior to that, separate cash drawers/userids not used by cafeteria cashiers, voided transactions lacking supervisory review, and no accountability over cafeteria coupons.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 860000.0,
+            "context": "collections totaled"
+          },
+          {
+            "amount": 244000.0,
+            "context": "cafeteria sales"
+          },
+          {
+            "amount": 136500.0,
+            "context": "voided transactions processed"
+          },
+          {
+            "amount": 51500.0,
+            "context": "Cafeteria sales resulting from coupons"
+          }
+        ],
+        "recommendation": "Ensure that deposit verifications are performed by an employee independent of the cash receipts functions using all initial receipt records; implement separate cash drawers and userids for the cashiers; establish supervisory review and approval of all voided transactions; use prenumbered cafeteria coupons and account for them.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31"
+      },
+      {
+        "number": 2,
+        "title": "SGHC recordkeeping procedures for equipment were not in compliance with certain requirements.",
+        "description": "Equipment control account was not reconciled with detail records resulting in a $117,000 discrepancy; adjustments lacked supervisory review; reported equipment value exceeded recorded value by approximately $2.4 million which SGHC could not fully explain.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 117000.0,
+            "context": "exceeded the related detail records by approximately"
+          },
+          {
+            "amount": 2400000.0,
+            "context": "value of equipment reported exceeded the amount recorded in the detail records by approximately"
+          }
+        ],
+        "recommendation": "Comply with the requirements of the DGS Inventory Control Manual.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-10-31"
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency concurred with most recommendations, noting resource limitations for some cash receipt controls but implementing new processes by April and December 2015. For equipment recordkeeping, the agency agreed to reconcile accounts quarterly starting October 31, 2015, and complete a full inventory by that date.",
+    "total_dollar_impact": 2517000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:16:43.561757",
+  "content_hash": "591f1c3adc5516085f3d25cbfd2cd609d1d5a7f5",
+  "duplicate_of": null
+}

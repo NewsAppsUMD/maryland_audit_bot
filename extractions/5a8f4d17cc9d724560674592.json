@@ -1,0 +1,65 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2012-12-01",
+    "audit_period_start": "2009-12-14",
+    "audit_period_end": "2012-03-14",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Division of Parole and Probation (DPP) did not adequately reconcile its cash balance of fines, costs, fees, and restitution funds collected and disbursed with the corresponding balance on the State\u2019s accounting records.",
+        "description": "DPP did not adequately reconcile its OBSCIS II cash balance with the State Comptroller's records as differences could not be supported or explained. A review found $750,000 in invalid reconciling items and $105,000 in items at least six months old.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5900000.0,
+            "context": "12 significant reconciling items totaling approximately"
+          },
+          {
+            "amount": 750000.0,
+            "context": "6 items totaling that did not appear to be valid reconciling items"
+          },
+          {
+            "amount": 105000.0,
+            "context": "338 reconciling items totaling approximately were at least six months old"
+          }
+        ],
+        "recommendation": "We recommend that DPSCS adequately reconcile the OBSCIS II cash balance with the balance on the State Comptroller\u2019s records. Specifically, we recommend that DPSCS a. ensure that a comprehensive supervisory review of the cash balance reconciliation is adequately performed (repeat), b. ensure that all reconciling items are valid and adequately supported (repeat), and c. investigate and resolve differences identified during the reconciliation process in a timely manner (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DPP did not ensure that it received all deliverables required by its agreement with a local health department for substance abuse treatment services and the agreement did not specify the basis for payment by DPP.",
+        "description": "DPP did not receive all MOU deliverables and the agreement lacked a specified basis for payment. Payments totaled approximately $900,000 during February 2010 to October 2011 without assurance that services were commensurate with amounts paid.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 900000.0,
+            "context": "Payments to the health department under the MOU totaled approximately"
+          }
+        ],
+        "recommendation": "We recommend that DPSCS a. ensure that all required MOU deliverables are received; and b. clearly state in future MOUs the basis for amounts due, and ensure that billings reflect this basis and are verified to supporting documentation.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that DPSCS's response to findings and recommendations is included as an appendix, but the specific agreement status or completion dates are not detailed in this text.",
+    "total_dollar_impact": 855000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:36:10.671068",
+  "content_hash": "15b12f405b69d8f5d069a335d0c832776fbc1f87",
+  "duplicate_of": null
+}

@@ -1,0 +1,79 @@
+{
+  "extraction": {
+    "agency_name": "Regional Institute for Children and Adolescents \u2013 Baltimore",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2014-06-01",
+    "audit_period_start": "2011-03-22",
+    "audit_period_end": "2014-03-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Cash receipts were not always deposited timely.",
+        "description": "RICA did not deposit cash receipts totaling approximately $1.8 million during fiscal year 2013 in a timely manner. Testing of 44 checks totaling approximately $912,000 revealed 30 checks totaling approximately $484,000 were deposited two to ten business days after receipt, violating Comptroller requirements for one-day deposit.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "total cash receipts during fiscal year 2013"
+          },
+          {
+            "amount": 912000.0,
+            "context": "test of checks received"
+          },
+          {
+            "amount": 484000.0,
+            "context": "checks deposited late"
+          }
+        ],
+        "recommendation": "We recommend that RICA a. ensure that all cash receipts are deposited in a timely manner, as required; and b. pursue the use of electronic funds transfer for payments from local jurisdictions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "RICA did not comply with State procurement regulations when purchasing dietary items.",
+        "description": "RICA purchased dietary items directly from one vendor without considering availability and pricing from Department of General Services\u2019 approved statewide contracts as required. Testing of 12 disbursements totaling approximately $150,000 disclosed two disbursements for dietary items to the same vendor totaling $27,370 for which RICA did not have a contract.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 150000.0,
+            "context": "disbursements tested"
+          },
+          {
+            "amount": 27370.0,
+            "context": "uncontracted disbursements"
+          },
+          {
+            "amount": 596.0,
+            "context": "items reviewed for savings comparison"
+          },
+          {
+            "amount": 211000.0,
+            "context": "total payments to vendor during period"
+          }
+        ],
+        "recommendation": "We recommend that RICA comply with State procurement regulations with respect to using statewide contracts and, in the absence of a statewide contract, ensuring procurements are properly solicited and documented.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 1,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency concurred with both findings and recommendations. For cash receipts, they agreed to deposit after the day of receipt no later than the first working day or weekly for $500+. For procurement, they agreed to ensure regulations are documented/solicited, use statewide contracts when applicable, post solicitations to eMaryland Marketplace, and award contracts over $25,000 via competitive sealed bidding.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'June 2014'. Prior findings count based on singular reference 'the finding' in preceding report status section. No criminal referral or hotline origin stated."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 1800000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:57:42.612857",
+  "content_hash": "a9f0d7149917a4849a8cbf09c15bff0efe82a12e",
+  "duplicate_of": null
+}

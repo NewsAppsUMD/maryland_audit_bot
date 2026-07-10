@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2024-02-21",
+    "audit_period_start": "2020-01-21",
+    "audit_period_end": "2023-08-31",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a written response because the audit disclosed no findings and contained no recommendations.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No findings were disclosed in this report. Therefore, finding-specific fields (description, recommendation, dollar_amounts) are empty or null."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:46:09.963859",
+  "content_hash": "22e7ae1e67d418660284702162328f4f57178e2d",
+  "duplicate_of": "5a8f4d19cc9d724560674650"
+}

@@ -1,0 +1,132 @@
+{
+  "extraction": {
+    "agency_name": "State Board of Elections",
+    "parent_department": "State Board of Elections",
+    "report_date": "2023-10-31",
+    "audit_period_start": "2018-12-03",
+    "audit_period_end": "2022-07-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The State Board of Elections (SBE) could enhance its procedures to fully identify deceased or duplicate voters in the Statewide voter registration system (MDVOTERS). Additionally, SBE did not ensure local boards of election corrected errors in voter data identified during periodic reviews.",
+        "description": "SBE's match of voter records to State death records were not as comprehensive as necessary. SBE could investigate broader matching parameters including fuzzy matching. Analysis identified 2,426 potentially deceased individuals with active registration and 327 potential duplicate registrations. SBE did not ensure local boards corrected errors in voter data identified during periodic reviews.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 2,
+        "dollar_amounts": [],
+        "recommendation": "SBE should enhance procedures to fully identify deceased and duplicate voters recorded in MDVOTERS; ensure that LBEs have taken appropriate corrective actions to update voter registration records for results of various reviews performed by the LBEs and SBE.",
+        "agency_agrees": true,
+        "agency_completion_date": "ongoing"
+      },
+      {
+        "number": 2,
+        "title": "Although testing did not identify material discrepancies in voting results, we identified opportunities to enhance the integrity of the automated vote tabulation process.",
+        "description": "One employee was responsible for programming and distributing electronic ballot databases without independent review. Discrepancies between printed ballots and electronic database could result in wrong votes being counted. Post-election manual audit found no significant differences.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SBE should establish an independent supervisory review of its programming and distribution of the electronic ballot database.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-02-01"
+      },
+      {
+        "number": 3,
+        "title": "SBE did not always timely refer potentially improper voter activity to the Office of the State Prosecutor for investigation.",
+        "description": "SBE identified voters who voted or attempted to vote multiple times but did not refer them to OSP until April 2022 (16 months after election results certified). More timely reporting would provide OSP sufficient time to investigate and pursue action.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SBE should establish guidance for timely referral to the OSP of potentially improper voter activity in conjunction with the OSP.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-12-31"
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "SBE had not established adequate controls to ensure the propriety of payroll transactions, including adjustments to employee leave balances.",
+        "description": "SBE did not ensure all employees recorded time or supervisors approved it. Leave balance adjustments were not properly verified. Two adjustments included 107 hours of parental leave valued at $1,660 that exceeded State law limits.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21100000.0,
+            "context": "payroll expenditures totaled approximately"
+          },
+          {
+            "amount": 15900000.0,
+            "context": "payroll expenditures for the 20 LBEs whose payrolls are processed by SBE"
+          },
+          {
+            "amount": 1660.0,
+            "context": "parental leave awarded to 2 employees valued at that exceeded allowed State law"
+          }
+        ],
+        "recommendation": "SBE should ensure all employee time is properly recorded and approved; independently verify leave balance adjustments; reconcile total payroll with SPS payroll summary reports.",
+        "agency_agrees": true,
+        "agency_completion_date": "complete"
+      },
+      {
+        "number": 8,
+        "title": "SBE did not always post Board meeting agendas on its website at least 48 hours in advance of the scheduled meeting start time as required by the State\u2019s Open Meetings Act.",
+        "description": "Our Fraud Investigation Unit received a referral to our fraud, waste, and abuse hotline regarding concerns with untimely public posting. Test disclosed three meetings where SBE posted agendas less than 48 hours in advance (1.5 hours, 26.5 hours, 45.57 hours).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SBE should comply with the Open Meetings Act and publicly post all meeting agendas on its website at least 48 hours in advance.",
+        "agency_agrees": true,
+        "agency_completion_date": "monthly"
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "SBE generally agrees with the recommendations but disagrees with factual accuracy of several findings regarding deceased/duplicate voter counts and improper referral numbers. SBE states they will implement corrective actions to address audit issues.",
+    "total_dollar_impact": 1660.0,
+    "extraction_notes": "Findings 4-6 are redacted cybersecurity-related findings per State law."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:33:57.910493",
+  "content_hash": "aab0f9d6c93770b87f687a58234e33ab68ff6bbd",
+  "duplicate_of": "5a8f4d0ecc9d7245606743d4"
+}

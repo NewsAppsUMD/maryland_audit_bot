@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Deer's Head Hospital Center",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2014-04-01",
+    "audit_period_start": "2010-12-20",
+    "audit_period_end": "2014-01-05",
+    "findings": [],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency noted that since there were no recommendations in the report, a written response was not necessary.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings sections (Finding N) present in the provided text. Status of preceding audit findings indicates two findings from May 26, 2011 were addressed satisfactorily."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:02:17.914265",
+  "content_hash": "c7b91d24c2f7e9d29aa5de964ff067adc126e6aa",
+  "duplicate_of": "5a8f4d0ecc9d7245606743ae"
+}

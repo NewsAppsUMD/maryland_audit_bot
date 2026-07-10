@@ -1,0 +1,279 @@
+{
+  "extraction": {
+    "agency_name": "Charles County Public Schools",
+    "parent_department": "Charles County Public Schools",
+    "report_date": "2017-02-13",
+    "audit_period_start": "2014-01-01",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "CCPS did not adequately restrict user access capabilities on its automated procurement and accounts payable system.",
+        "description": "Twelve employees were assigned access to critical functions not required for their job duties, including adding vendors and processing purchase orders. Eight employees had incompatible function capabilities, such as creating invoices and marking goods received.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict assigned capabilities to eliminate the ability of users to perform incompatible duties and access unnecessary critical screens.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-06-30"
+      },
+      {
+        "number": 2,
+        "title": "CCPS did not assess the benefits of using intergovernmental cooperative purchasing agreements (ICPA) as required by State law, nor in most cases did it establish that the ICPA contracts were awarded through a competitive procurement process.",
+        "description": "For 16 contracts totaling $31 million, CCPS did not prepare written determinations of benefits. For 12 contracts totaling $23.5 million, evidence of competitive procurement was missing. Pricing verification failed for approximately $1.1 million in invoices tested.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31000000.0,
+            "context": "payments totaling in fiscal year 2015 for contracts based on ICPAs"
+          },
+          {
+            "amount": 23500000.0,
+            "context": "fiscal year 2015 expenditures for 12 of these contracts"
+          },
+          {
+            "amount": 391000.0,
+            "context": "fiscal year 2015 expenditures for three contracts that negotiated unique terms"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "payments totaling approximately where CCPS did not verify proper pricing was received"
+          }
+        ],
+        "recommendation": "Comply with State law to ensure written determination of benefit is prepared; obtain evidence that ICPA contract was competitively procured; verify proper prices on vendor invoices and establish maximum expenditure amounts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Certain contracts were awarded as sole source procurements without appropriate justification, were not properly approved, or were not published in eMaryland Marketplace, as required.",
+        "description": "CCPS did not always justify sole-source procurements, obtain Superintendent approval for purchases over $25,000, or post solicitations on eMaryland Marketplace. Therapy services totaling $496,000 lacked adequate justification.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 496000.0,
+            "context": "payments for therapy services procured via sole-source method"
+          },
+          {
+            "amount": 24200000.0,
+            "context": "expenditures totaling during fiscal year 2015 for 13 contracts without Superintendent approval"
+          },
+          {
+            "amount": 4500000.0,
+            "context": "payments related to the 5 procurements where CCPS did not use eMaryland Marketplace"
+          }
+        ],
+        "recommendation": "Limit sole-source procurement method to instances with documented justification; obtain Superintendent's approval for procurements over $25,000; publish contract bids and awards in eMaryland Marketplace.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "CCPS allowed certain corporate purchasing cards (CPC) to be used by multiple employees and CPCs were used to purchase gift cards.",
+        "description": "Controls over CPCs were not adequate. 105 site cards totaling $780,000 in expenditures were used by multiple employees. Gift cards prohibited per policy were purchased totaling at least $1,455.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2100000.0,
+            "context": "expenditures totaling approximately during calendar year 2015 on corporate purchasing cards"
+          },
+          {
+            "amount": 780000.0,
+            "context": "site cards expenditures totaling during fiscal year 2015"
+          },
+          {
+            "amount": 1455.0,
+            "context": "gift cards purchased between March 29, 2014 and December 21, 2015"
+          }
+        ],
+        "recommendation": "Establish individual accountability for transactions; strictly enforce restrictions prohibiting purchase of gift cards; ensure expenditure transactions are subjected to appropriate review; investigate disposition of gift cards.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Human resources and payroll system user access capabilities were not adequately restricted. In addition, independent documented reviews of personnel and payroll transactions were not performed.",
+        "description": "36 of 45 users assigned critical access capabilities did not need them for job duties. 11 users could perform incompatible functions. No independent reviews ensured processed transactions were correct.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Limit assignment of critical system functions to employees requiring access; eliminate ability of users to perform incompatible system functions; perform periodic documented independent review of transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "CCPS did not perform a complete annual physical inventory of computers as required and access to the automated inventory records was not adequately restricted.",
+        "description": "Physical inventories were performed on only approximately 15 percent of items rather than a complete inventory. 50 users had edit capabilities, allowing them to mark items as disposed.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Complete full physical inventory annually; ensure an employee independent of record keeping completes the inventory; restrict ability to mark items as disposed only to authorized employees.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-06-30"
+      },
+      {
+        "number": 7,
+        "title": "Numerous users had unnecessary modification access to critical files and programs.",
+        "description": "896 active accounts had unnecessary modification access to numerous critical system, application, and data files via software utility or default server role inheritance.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Limit access capabilities to modify critical files and programs to only those employees who require such access for their job duties.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Numerous third parties and students had unnecessary network level access to the entire CCPS internal network.",
+        "description": "27 third parties had improper network level access to the entire internal network including servers holding payroll and student information. All student accounts also had unnecessary network level access.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Properly secure network resources from third parties and students by removing unnecessary network level access capability.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Publicly accessible servers were improperly located on the internal network and intrusion detection prevention system coverage for encrypted traffic did not exist.",
+        "description": "Eleven publicly accessible servers were located on the internal network segment rather than a separate protected zone. Intrusion Detection Prevention System (IDPS) coverage did not exist for encrypted traffic.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Relocate publicly accessible servers to a separate protected network zone; perform documented review and assessment of network security risks.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "CCPS lacked documentation it advised the Board that the price paid for land purchased for a new school was significantly higher than the land's appraised value.",
+        "description": "CCPS could not provide evidence the Board was notified that $1,101,030 paid for two parcels was significantly higher than the appraised value of $695,000 at the time of purchase.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1101030.0,
+            "context": "amount paid for two parcels of land purchased"
+          },
+          {
+            "amount": 695000.0,
+            "context": "appraised value of the land at the time of purchase"
+          }
+        ],
+        "recommendation": "Retroactively report the appraisal amount to the Board; provide the Board with documentation of appraised amounts for all real estate purchases.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-03-01"
+      },
+      {
+        "number": 11,
+        "title": "CCPS did not base certain elements used to determine the PVA on market conditions or actual costs.",
+        "description": "CCPS overpaid bus contractors for bus cost and ROI rate. Overpayments were estimated at approximately $9.8 million more over the 15-year life of 106 new buses, with potential overpayments of approximately $5 million for 168 existing buses.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9800000.0,
+            "context": "estimated additional amount CCPS would pay out over the 15-year life of 106 new buses"
+          },
+          {
+            "amount": 5000000.0,
+            "context": "potential overpayments for 168 buses from prior audit period"
+          }
+        ],
+        "recommendation": "Ensure bus purchase reimbursement PVA component is consistent with anticipated useful life; use a prevailing market rate in the PVA that yield a reasonable ROI.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "CCPS could not substantiate the basis for certain amounts paid to bus contractors and those payments were higher than necessary.",
+        "description": "Payments included federal fuel excise taxes totaling $196,500 that should have been excluded. One contractor was overpaid $129,000 for unemployment insurance taxes compared to actual taxes incurred of $9,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 196500.0,
+            "context": "federal excise taxes totaling during one recent school year"
+          },
+          {
+            "amount": 138000.0,
+            "context": "payment to one contractor for unemployment insurance tax in fiscal years 2015 and 2016"
+          },
+          {
+            "amount": 9000.0,
+            "context": "actual unemployment insurance tax incurred by the contractor"
+          }
+        ],
+        "recommendation": "Ensure all contractor payments have a documented and justified basis; use actual bus operating and payroll costs as a basis for establishing rates; exclude federal fuel excise taxes from contractor payments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "CCPS did not ensure the accuracy of data used to compute certain payments to the bus contractors and lacked sufficient internal controls over the automated payment system.",
+        "description": "Mileage variances were found between manifests and routing software estimates. All 10 employees had full edit access, with no independent verification of source documents against system data.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Thoroughly review and verify bus data on manifests; recover any overpayments; restrict edit access to automated system; independently verify accuracy of critical data.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "Stop-loss coverage for employee and retiree healthcare was not competitively procured.",
+        "description": "CCPS negotiated with the prior vendor without a competitive procurement process. Premiums increased by 26 percent between 2013 and 2015.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Use a competitive procurement process to procure stop-loss coverage.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "CCPS did not ensure the propriety of certain claim payments for employee and retiree healthcare costs.",
+        "description": "CCPS lacked procedures to audit the propriety of claims paid by the administrator. A similar condition was commented on in the preceding audit report.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to verify the propriety of healthcare claim amounts paid.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 25,
+    "prior_findings_repeated": 6,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Board of Education generally agreed with the recommendations. Responses indicated immediate actions for some findings and future plans (e.g., FY18) for others, though several completion dates were listed as TBD.",
+    "total_dollar_impact": 15125500.0,
+    "extraction_notes": "Total dollar impact calculated from quantified overpayment estimates in Findings 11 and 12 ($9.8 million + $5 million + $129,000 + $196,500). Report date is February 13, 2017."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 2 amount 31000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T18:32:44.420773",
+  "content_hash": "e82102bd798454895c2d98075f30d3612f38097e",
+  "duplicate_of": null
+}

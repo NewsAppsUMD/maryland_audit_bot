@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2014-07-01",
+    "audit_period_start": "2011-02-17",
+    "audit_period_end": "2014-03-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office lacked adequate controls over user access to its automated financial system.",
+        "description": "Controls over user access to the Office\u2019s automated financial system were not adequate. Specifically, the Office maintained a listing of all employees\u2019 assigned system user IDs and passwords in a central location that was accessible to all employees.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Office maintain adequate control over user access to its automated financial system by properly securing all employee user IDs and passwords.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office\u2019s response to our finding and recommendation is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from title page 'July 2014'. Agency response details not present in provided text (referenced as appendix). No dollar amounts tied to Finding 1."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:55:16.620854",
+  "content_hash": "1629741cee5fb1e5dd685a8835a43713144834b1",
+  "duplicate_of": null
+}

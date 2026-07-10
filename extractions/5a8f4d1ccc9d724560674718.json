@@ -1,0 +1,312 @@
+{
+  "extraction": {
+    "agency_name": "Uninsured Employers' Fund",
+    "parent_department": "Uninsured Employers' Fund",
+    "report_date": "2018-01-01",
+    "audit_period_start": "2013-11-14",
+    "audit_period_end": "2016-11-27",
+    "findings": [
+      {
+        "number": 1,
+        "title": "UEF did not conduct independent reviews of accounts receivable transactions.",
+        "description": "UEF failed to perform independent supervisory reviews or verifications for WCC awards entered in its automated system, leading to calculation errors totaling $54,800 on approximately $17.7 million in tested awards. Additionally, employees could process adjustments without independent review, with total adjustments reaching $2.4 million during the audit period.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 54800.0,
+            "context": "over-billings and under-billings"
+          },
+          {
+            "amount": 17700000.0,
+            "context": "awards tested"
+          },
+          {
+            "amount": 14200000.0,
+            "context": "assessments improperly calculated"
+          },
+          {
+            "amount": 10700000.0,
+            "context": "one award"
+          },
+          {
+            "amount": 20000.0,
+            "context": "under-billing example"
+          },
+          {
+            "amount": 2400000.0,
+            "context": "adjustments to accounts receivable"
+          }
+        ],
+        "recommendation": "We recommend that UEF establish a process to ensure the propriety of transactions recorded in its accounts receivable records. Specifically, we recommend that UEF perform independent reviews to ensure that all WCC awards and properly authorized adjustments are accurately entered into its accounts receivable records (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "UEF did not adequately monitor and pursue collection of delinquent accounts. As of January 5, 2017, there were 3,980 delinquent accounts totaling $5.2 million that should have been referred to CCU.",
+        "description": "UEF failed to generate required dunning notices or refer delinquent accounts to the Central Collection Unit (CCU) as required by regulations. Additionally, account aging reports contained discrepancies of $47.8 million between summary and detailed records, and no process existed for referring employers for license suspension.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5200000.0,
+            "context": "delinquent accounts not referred to CCU"
+          },
+          {
+            "amount": 67800000.0,
+            "context": "accounts referred to CCU per records"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "31 delinquent accounts >$30k"
+          },
+          {
+            "amount": 35300.0,
+            "context": "one account delinquent >25 years"
+          },
+          {
+            "amount": 47800000.0,
+            "context": "discrepancy in aging reports"
+          },
+          {
+            "amount": 26100000.0,
+            "context": "increase in accounts receivable"
+          },
+          {
+            "amount": 51600000.0,
+            "context": "accounts receivable balance start of period"
+          },
+          {
+            "amount": 77700000.0,
+            "context": "accounts receivable balance end of period"
+          }
+        ],
+        "recommendation": "We recommend that UEF investigate and take corrective actions to resolve deficiencies (generate dunning notices and produce accurate accounts receivable aging reports), refer delinquent accounts to CCU for collection as required, and establish a process to identify and refer delinquent employers for license or permit suspension.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "UEF did not adequately review indemnity and medical claim payments for propriety.",
+        "description": "UEF lacked independent supervisory reviews of indemnity payments, allowing an employee to modify records and approve payments without detection. Medical claims were paid based on vendor summary reports without supporting documentation, raising questions about the verification process and independence of preferred providers.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 12100000.0,
+            "context": "indemnity payments"
+          },
+          {
+            "amount": 13500000.0,
+            "context": "medical claim payments"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "one provider under preferred network"
+          }
+        ],
+        "recommendation": "We recommend that UEF conduct independent supervisory reviews of indemnity payments and establish a documented procedure to verify medical claim payments based on supporting documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "UEF violated State procurement regulations to obtain claims processing and related services from 11 vendors, did not have written agreements with the vendors, and did not adequately monitor the vendors' services and verify their billings. During the period from January 2014 to April 2017, UEF paid these vendors approximately $3.5 million.",
+        "description": "UEF procured services from 11 vendors without competitive bidding or written agreements, violating State procurement regulations. The agency also failed to verify the propriety of amounts billed by vendors, including paying for individuals not in agreements and administrative fees that were not negotiated.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3500000.0,
+            "context": "paid to 11 vendors"
+          },
+          {
+            "amount": 1319653.0,
+            "context": "claims processing services vendor"
+          },
+          {
+            "amount": 796275.0,
+            "context": "nurse case management"
+          },
+          {
+            "amount": 667859.0,
+            "context": "medical bill verification"
+          },
+          {
+            "amount": 365397.0,
+            "context": "independent medical assessments"
+          },
+          {
+            "amount": 290266.0,
+            "context": "claimant medical transportation"
+          },
+          {
+            "amount": 27659.0,
+            "context": "claims investigations"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "paid to claims processing vendor (Jan 2014-April 2017)"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "paid to other 10 vendors"
+          },
+          {
+            "amount": 57066.0,
+            "context": "test of five vendor payments"
+          },
+          {
+            "amount": 34095.0,
+            "context": "invoices without detail"
+          },
+          {
+            "amount": 26419.0,
+            "context": "payment for verification example"
+          },
+          {
+            "amount": 668000.0,
+            "context": "medical bill verification vendor total"
+          },
+          {
+            "amount": 28930.0,
+            "context": "payments reviewed for independent medical assessments"
+          },
+          {
+            "amount": 7630.0,
+            "context": "administrative fees assessed"
+          },
+          {
+            "amount": 800.0,
+            "context": "invoiced for one assessment"
+          },
+          {
+            "amount": 300.0,
+            "context": "administrative fees in one assessment"
+          },
+          {
+            "amount": 137000.0,
+            "context": "payments to claims processing vendor for independent medical assessments"
+          },
+          {
+            "amount": 994500.0,
+            "context": "emergency contract estimated cost"
+          },
+          {
+            "amount": 40000.0,
+            "context": "payment to transfer data to new vendor"
+          },
+          {
+            "amount": 521545.0,
+            "context": "damages claim from former vendor"
+          },
+          {
+            "amount": 178265.0,
+            "context": "outstanding past due invoices in damages claim"
+          },
+          {
+            "amount": 343280.0,
+            "context": "administrative expenses in damages claim"
+          },
+          {
+            "amount": 240000.0,
+            "context": "settlement payment to former vendor"
+          }
+        ],
+        "recommendation": "We recommend that UEF comply with procurement regulations by soliciting competitive bids and executing written contracts, ensure invoiced amounts are supported, establish a process for monitoring vendor performance, and re-submit the emergency contract award to the BPW.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "UEF did not have adequate procedures and controls to ensure that all collections were deposited.",
+        "description": "UEF lacked controls over collections, including undeposited funds totaling $2,655 that were not detected during verifications. Additionally, a contractual employee took collections home overnight in violation of policy, resulting in delayed deposits for 42 deposits totaling $1.4 million.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9500000.0,
+            "context": "collections total FY 2016"
+          },
+          {
+            "amount": 2655.0,
+            "context": "undeposited checks"
+          },
+          {
+            "amount": 2100000.0,
+            "context": "deposits taken home by employee"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "appear to have been taken home"
+          },
+          {
+            "amount": 250975.0,
+            "context": "may have been kept over weekend"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "deposits made late"
+          }
+        ],
+        "recommendation": "We recommend that UEF ensure initial records are forwarded to independent employees for verification, all deposits are made intact, collections are safeguarded and deposited timely, duties are separated, and consider a bank lockbox.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Sensitive personally identifiable information maintained by UEF was stored without adequate safeguards.",
+        "description": "UEF stored sensitive PII including social security numbers in clear text on a server hosting accounts receivable functions. This storage method lacked encryption or other substantial mitigating controls required by State Information Security Policy, creating identity theft risks.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UEF properly protect sensitive PII information by encryption or other substantial mitigating controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Security event monitoring, access controls, and user access monitoring were not sufficient.",
+        "description": "Security auditing was not enabled for certain files on the dedicated server hosting critical applications, and reports of security events were not generated for review. Additionally, numerous users had unnecessary modification access to files, and one employee used another's userid to process transactions.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UEF enable security auditing, generate and review reports of critical security events weekly, limit modification access, periodically generate system security reports, and prohibit the sharing of userids.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "UEF did not have an information systems disaster recovery plan.",
+        "description": "UEF lacked a disaster recovery plan (DRP) for recovering from disaster scenarios such as fire. Without a complete DRP addressing notification, activation, and testing procedures, significant delays in restoring operations could occur beyond expected planned recovery times.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UEF develop and implement a comprehensive disaster recovery plan, in accordance with the Information Technology (IT) Disaster Recovery Guidelines.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 7,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "UEF concurs with all recommendations and indicates ongoing implementation efforts, including hiring additional attorney staff and developing new protocols for collections and vendor management.",
+    "total_dollar_impact": 57957455.0,
+    "extraction_notes": "Report date derived from title page (January 2018). Audit period from Scope section. Prior findings count/repeated from Status of Findings section. Finding 6 marked as not repeated based on TOC asterisk absence and recommendation text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:44:39.191857",
+  "content_hash": "f094d0afef242299d97fa167ab70e9e83a20a67b",
+  "duplicate_of": null
+}

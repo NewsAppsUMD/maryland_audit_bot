@@ -1,0 +1,69 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Health Insurance Plan",
+    "parent_department": null,
+    "report_date": "2016-02-10",
+    "audit_period_start": "2011-06-06",
+    "audit_period_end": "2015-01-12",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Although MHIP attempted to obtain an independent review of the ASO\u2019s claims management system to ensure that the related internal controls were designed and operating effectively, it was unable to obtain the cooperation of the ASO.",
+        "description": "MHIP attempted to obtain an independent review of the automated claims management system at its own cost but could not obtain cooperation from the Administrative Service Organization (ASO). The ASO processes sensitive personal health information, and without a service organization controls report, operational integrity cannot be ensured. Although the contract requires return or destruction of confidential information within 60 days, MHIP lacks an estimate on when this will occur as claims processing continues.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 66700000.0,
+            "context": "ASO paid medical claims totaling approximately"
+          }
+        ],
+        "recommendation": "We recommend that MHIP identify the remaining risks pertaining to the ASO\u2019s claims management system and take the necessary action to address those risks, including ensuring the security of sensitive personal information maintained by the ASO.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MHIP did not ensure that all bank withdrawals made by the ASO for claims paid were valid.",
+        "description": "MHIP failed to reconcile bank withdrawals made by the ASO with claims payment documentation. As of September 30, 2015, the joint account balance was approximately $224,000. For fiscal year 2015, claims paid totaled $66,718,026 while withdrawals totaled $68,980,031, a difference of $2,262,005 that MHIP could not support as timing differences due to lack of documentation.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 224000.0,
+            "context": "balance of the account was approximately"
+          },
+          {
+            "amount": 66718026.0,
+            "context": "claims paid during the year totaled"
+          },
+          {
+            "amount": 68980031.0,
+            "context": "withdrawals made by the ASO for the same period totaled"
+          },
+          {
+            "amount": 2262005.0,
+            "context": "difference of"
+          }
+        ],
+        "recommendation": "We recommend that MHIP ensure the propriety of bank withdrawals made by the ASO by reconciling all withdrawals made by the ASO with claims paid, and investigate and resolve any differences noted.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MHIP concurs with Finding 1's recommendation but notes extensive effort was made to obtain an SOC audit which the ASO refused after initial agreement; they are researching data deletion policies. For Finding 2, MHIP states they added monthly reconciliations and completed a historical spreadsheet since contract inception showing balances match, complying with the recommendation.",
+    "total_dollar_impact": 2262005.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T06:56:25.052967",
+  "content_hash": "0d6b538999a993909bf92d659c7961bc033b8ddb",
+  "duplicate_of": null
+}

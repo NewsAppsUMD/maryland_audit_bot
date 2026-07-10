@@ -1,0 +1,198 @@
+{
+  "extraction": {
+    "agency_name": "State Board of Elections",
+    "parent_department": null,
+    "report_date": "2017-04-24",
+    "audit_period_start": "2012-08-23",
+    "audit_period_end": "2015-10-22",
+    "findings": [
+      {
+        "number": 1,
+        "title": "SBE did not ensure the accuracy of the data recorded in MDVOTERS or whether related user access was appropriate.",
+        "description": "SBE lacked a comprehensive oversight process for data accuracy and user access, relying on local boards without verification. Numerous users had unnecessary access to the system, including 22 with PVE access not required for job duties and 619 inactive usernames.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure LBEs investigate registered voters on ERIC reports; establish a periodic process to monitor and review PVE and MDVOTERS access for appropriateness.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-01"
+      },
+      {
+        "number": 2,
+        "title": "SBE did not ensure that personally identifiable information from the MDVOTERS database provided to an external third party was properly safeguarded.",
+        "description": "SBE did not require independent reviews (SOC 2) of ERIC or its contractor security. Although a SOC 1 report existed, SBE had not obtained it to assess adequacy, and SOC 1 is less suitable than SOC 2 for this purpose.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Require periodic SOC 2 Type 2 reviews for ERIC and contractors; perform timely reviews of reports to ensure necessary controls are addressed.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "SBE unnecessarily retained personally identifiable information within the MDVOTERS database.",
+        "description": "The database contained full nine-digit social security numbers for 592,236 voters despite only the last four digits being required for registration purposes.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Amend MDVOTERS SSN field to limit input length to four characters; remove all full SSNs currently recorded.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-01"
+      },
+      {
+        "number": 4,
+        "title": "SBE did not adequately authenticate certain voters who requested absentee ballots.",
+        "description": "Certain voters were authenticated only using publicly available information (name, DOB, address), lacking assurance that the requester was the registered voter and creating fraud risk.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Strengthen authentication by requiring additional non-public information such as the last four digits of the voter's social security number.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "A critical voting system was not backed up offsite and was not properly addressed in the SBE Disaster Recovery Plan.",
+        "description": "The EPIC system was not backed up offsite during use, and the DRP lacked procedures to recreate communication links between the production server and early voting sites in a disaster.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Backup EPIC database daily to an offsite location during use; update DRP with detailed procedures for communication link recreation.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018"
+      },
+      {
+        "number": 6,
+        "title": "Controls were not in place over the receipt and opening of certain bids, and SBE could not support that two single source contract awards were in the State\u2019s best interest. Additionally, SBE did not publish certain contract awards in eMaryland Marketplace.",
+        "description": "Bids received via email lacked password protection; no documentation existed for two employees present at bid openings; $18.8 million in single source contracts lacked formal analysis support; $34.9 million in awards were not published on eMM as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18800000.0,
+            "context": "two single source contract awards"
+          },
+          {
+            "amount": 75300000.0,
+            "context": "total value of eight contracts tested"
+          },
+          {
+            "amount": 40400000.0,
+            "context": "bids received via email without password protection"
+          },
+          {
+            "amount": 73300000.0,
+            "context": "competitively procured contracts tested for bid opening documentation"
+          },
+          {
+            "amount": 34900000.0,
+            "context": "contract awards not published on eMM"
+          }
+        ],
+        "recommendation": "Ensure electronically received bids are properly secured; document bid openings with at least two employees; support justifications for single source awards; publish contract awards on eMM.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-02"
+      },
+      {
+        "number": 7,
+        "title": "SBE did not have a comprehensive process in place to ensure that certain billed work was in accordance with approved contract terms or was adequately documented.",
+        "description": "SBE paid $47,380 for additional hosting without contract modification; overpayments of $52,600 occurred on a staffing services contract due to lack of verification; SBE paid incorrect rates and overtime charges resulting in excess payments.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 47380.0,
+            "context": "fee paid for additional hosting services without modification"
+          },
+          {
+            "amount": 6600000.0,
+            "context": "total value of hosting services contract"
+          },
+          {
+            "amount": 52600.0,
+            "context": "overpayments under staffing services contract"
+          },
+          {
+            "amount": 119000.0,
+            "context": "total value of four invoices tested"
+          },
+          {
+            "amount": 78000.0,
+            "context": "labor paid for labor supplied under a specific category"
+          },
+          {
+            "amount": 25000.0,
+            "context": "overpayments due to use of incorrect rate"
+          },
+          {
+            "amount": 82870.0,
+            "context": "hours of overtime paid for which contract prohibited charges"
+          },
+          {
+            "amount": 27600.0,
+            "context": "excess payments versus regular contractual rates"
+          }
+        ],
+        "recommendation": "Execute required contract modifications; submit modifications for approval; establish procedures to document services prior to payment; ensure payments comply with terms; pursue recovery of $52,600.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "At the 2015 fiscal year-end, SBE had an unexplained deficit fund balance and had recorded certain unsupported revenues to eliminate deficits.",
+        "description": "SBE had a $3.4 million unexplained combined deficit fund balance at June 30, 2015, and recorded $746,000 federal and $569,000 special fund revenue without regard for collectability to eliminate deficits.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3400000.0,
+            "context": "unexplained combined deficit fund balance"
+          },
+          {
+            "amount": 7500000.0,
+            "context": "special fund deficit amount"
+          },
+          {
+            "amount": 4100000.0,
+            "context": "non-budgeted fund surplus amount"
+          },
+          {
+            "amount": 746000.0,
+            "context": "unsupported federal fund revenue recorded"
+          },
+          {
+            "amount": 569000.0,
+            "context": "unsupported special fund revenue recorded"
+          },
+          {
+            "amount": 523000.0,
+            "context": "federal fund revenue recorded in FY 2016 closeout report"
+          }
+        ],
+        "recommendation": "Ensure all financial transactions are properly recorded and supported; investigate causes of the deficit balance and take corrective action.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-09"
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "SBE states it has addressed all audit recommendations. For some findings (e.g., Finding 2 and 4), SBE indicates limitations on authority or seeks legal advice from the Attorney General before full implementation. Specific actions include implementing access reviews, removing full SSNs, updating backup procedures, securing bids, separating contract management duties, and reconciling fund balances by fiscal year 2017.",
+    "total_dollar_impact": 22280200.0,
+    "extraction_notes": "Total dollar impact calculated as sum of quantified questioned/unaccounted amounts: $18.8M (single source support), $52,600 + $27,600 (overpayments), and $3.4M (unexplained deficit)."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:37:31.078807",
+  "content_hash": "34daa3153efc816a470f70aeecf19bc4442a7548",
+  "duplicate_of": null
+}

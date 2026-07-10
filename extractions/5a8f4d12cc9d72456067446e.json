@@ -1,0 +1,65 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2022-02-02",
+    "audit_period_start": "2017-05-31",
+    "audit_period_end": "2021-05-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Contractual Senior Executive Employee",
+        "description": "ITD hired a contractual employee as a long-term senior executive rather than using an existing vacant State position. Amounts paid to the employee exceeded annual maximums stipulated in the contract, which were not properly monitored.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 955953.0,
+            "context": "total payments to contractual employee during fiscal years 2018 through 2021"
+          },
+          {
+            "amount": 232068.0,
+            "context": "salary payments exceeding contractually set maximum amounts"
+          }
+        ],
+        "recommendation": "Evaluate if the senior executive position should continue to be contractual or a regular budgetary position be established; work with DBM to create an appropriate permanent regular budgetary position; ensure that contract maximum compensation amounts include anticipated or permissible overtime payments; implement procedures to monitor hours worked in excess of a standard weekly schedule.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-04-01 (Rec 1a, 1c), TBD (Rec 1b)"
+      },
+      {
+        "number": 2,
+        "title": "Equipment",
+        "description": "Procedures and controls over equipment were not adequate. ITD was not in compliance with DGS Inventory Control Manual requirements regarding segregation of duties, control accounts, and physical inventories for sensitive equipment.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 462000.0,
+            "context": "recorded cost of sensitive equipment not inventoried within one year"
+          },
+          {
+            "amount": 14200000.0,
+            "context": "total value of ITD's equipment as of June 30, 2021"
+          }
+        ],
+        "recommendation": "Segregate the duties of performing physical inventories and maintaining the equipment detail records; establish an independent equipment control account and periodically reconcile the balance with related detail records; conduct annual physical inventories of sensitive equipment as required.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-09-22 (Rec 2a, 2c), 2022-04-05 (Rec 2b)"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Comptroller of Maryland agreed to all recommendations and outlined corrective actions, including completing evaluations by April 1, 2022, amending contract terms to eliminate overtime pay, and updating inventory processes.",
+    "total_dollar_impact": 694068.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:09:58.276131",
+  "content_hash": "b82ff43152b4bf05992f0f85d5fdb3fe071ea990",
+  "duplicate_of": null
+}

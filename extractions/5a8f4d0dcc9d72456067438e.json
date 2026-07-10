@@ -1,0 +1,52 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of the Treasury",
+    "parent_department": "Comptroller of the Treasury",
+    "report_date": "2009-08-11",
+    "audit_period_start": "2006-03-01",
+    "audit_period_end": "2009-03-08",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Procedures and controls over the disbursement of capital grants need improvement.",
+        "description": "OOC\u2019s procedures and controls over capital grant disbursements need improvement. Specifically, one individual was generally responsible for maintaining grant records, ensuring grantees met statutory requirements, receiving and reviewing grantee invoices and supporting documentation, and initiating the grant disbursements. Although a supervisor approved the grant disbursements, the approvals generally relied on the documentation submitted by the aforementioned employee and the grant accounting records maintained by this employee and did not include a review of the related expenditure documentation submitted by the grantees.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 99000000.0,
+            "context": "OOC disbursed capital grants totaling approximately $99 million to State, local, and private entities for various capital projects during fiscal year 2008"
+          }
+        ],
+        "recommendation": "We recommend that OOC improve procedures and controls over grant disbursements by ensuring that a review of the expenditure documentation submitted by the grantees is an integral part of the supervisory approval process.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Bureau of Revenue Estimates (BRE) did not prepare and submit certain reports to the Governor and General Assembly as required.",
+        "description": "BRE did not prepare and submit certain reports as required. Chapter 2 of the Laws of Maryland, 2007 Special Session effective January 1, 2008, provided for BRE to prepare and submit a tax incidence study. Specifically, on or before December 2008, BRE was to report to the Governor, the President of the Senate and the Speaker of the House on the burden of all major taxes imposed by the State and how that burden is shared among tax payers of different income levels. Nevertheless, as of June 19, 2009, BRE had not prepared or submitted a tax burden report.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BRE prepare and submit the aforementioned tax burden report and, in the future, ensure all reports are prepared and submitted within the required time frames.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency states that a Capital Grant & Loan Supervisory Review form has been created to address Finding 1. For Finding 2, they cite insufficient staff and resources due to new legislation enacted in 2007 without additional funding, noting the tax incidence study was low priority as the tax structure no longer existed. They confirm statistics of income reports were met prior to exit conference and plan to produce the incidence study with a contractor before the next legislative session.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Agency response text found in document appendix section following Audit Scope."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:45:56.640572",
+  "content_hash": "3369ba031f543178a93ab48d7f9077b5d8939d3a",
+  "duplicate_of": null
+}

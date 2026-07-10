@@ -1,0 +1,109 @@
+{
+  "extraction": {
+    "agency_name": "Department of Natural Resources; Maryland Department of the Environment; Maryland Department of Agriculture",
+    "parent_department": null,
+    "report_date": "2011-07-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Acres of submerged aquatic vegetation",
+        "description": "The Department of Natural Resources (DNR) did not perform any evaluation or verification of third-party data used to calculate the performance measure. The result reported for calendar year 2008 was actually for calendar year 2007, and DNR did not have copies of initial source documents available for review.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to ensure that all relevant data are included in the measure calculation and that the data, including data obtained from third parties, are reasonably accurate and complete. Retain documentation supporting the reported measure results. Accurately submit reported results that are prepared in a manner that is consistent with clearly written performance measure definitions.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Dredge survey index of stock size (crabs) \u2013 actual count of crabs per dredge tow",
+        "description": "The Fisheries Service did not evaluate or verify data received from a third party in Virginia. Internal controls and documentation were insufficient to establish that the scientific process was carried out as intended, including no documented process for field notebook accuracy. The measure was calculated incorrectly (per 1,000 square meters instead of per dredge tow).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to ensure that all relevant data are included in the measure calculation and that the data, including data obtained from third parties, are reasonably accurate and complete. Retain documentation supporting the reported measure results. Accurately submit reported results that are prepared in a manner that is consistent with clearly written performance measure definitions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Oyster biomass index (1994 base=1)",
+        "description": "The Fisheries Service did not have a documented process to ensure oyster biomass data results on source documents were accurate and performed no independent verification of database entries. Measure results were reported inconsistently (0.9 at department level vs 0.8 at program level).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to ensure that all relevant data are included in the measure calculation and that the data, including data obtained from third parties, are reasonably accurate and complete. Retain documentation supporting the reported measure results. Accurately submit reported results that are prepared in a manner that is consistent with clearly written performance measure definitions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Estimated nitrogen load to the Chesapeake Bay from Maryland",
+        "description": "Independent verifications were not performed for data entered into databases maintained by DNR, MDE, and MDA. However, auditors determined that the reported result was reasonably accurate.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to ensure that all relevant data are included in the measure calculation and that the data, including data obtained from third parties, are reasonably accurate and complete. Retain documentation supporting the reported measure results. Accurately submit reported results that are prepared in a manner that is consistent with clearly written performance measure definitions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Waters impaired by nutrients per the 303 (d) listing cycle",
+        "description": "MDE did not independently verify data received from DNR used to calculate the performance measure. DNR did not perform independent verifications of changes to their computer system database used to compile data given to MDE.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to ensure that all relevant data are included in the measure calculation and that the data, including data obtained from third parties, are reasonably accurate and complete. Retain documentation supporting the reported measure results. Accurately submit reported results that are prepared in a manner that is consistent with clearly written performance measure definitions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Percent of Marylanders served by public water systems in significant compliance with rules adopted as of 2009",
+        "description": "MDE did not maintain the data that were used to calculate the measure. Consequently, auditors could not determine if the measure was calculated accurately.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to ensure that all relevant data are included in the measure calculation and that the data, including data obtained from third parties, are reasonably accurate and complete. Retain documentation supporting the reported measure results. Accurately submit reported results that are prepared in a manner that is consistent with clearly written performance measure definitions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Three-year average of days the eight-hour ozone standard was exceeded",
+        "description": "MDE did not perform independent verifications of decisions to exclude certain ozone concentration readings. MDE also did not perform independent reconciliations to ensure accuracy of data transferred to the national air quality database.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish procedures to ensure that all relevant data are included in the measure calculation and that the data, including data obtained from third parties, are reasonably accurate and complete. Retain documentation supporting the reported measure results. Accurately submit reported results that are prepared in a manner that is consistent with clearly written performance measure definitions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DNR respectfully disagrees regarding the verification of SAV data but agrees to document processes and correct reporting errors for other measures. MDE concurs with certification levels and promises to strengthen controls to ensure independent verification and documentation of data.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Findings extracted from Certification Results tables under the Findings section as no explicit 'Finding N' headings were present."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 7, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T23:34:16.023244",
+  "content_hash": "6704dcfb42395fbed588e79e919c773107a3e7d8",
+  "duplicate_of": null
+}

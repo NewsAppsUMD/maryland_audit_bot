@@ -1,0 +1,125 @@
+{
+  "extraction": {
+    "agency_name": "Department of Business and Economic Development",
+    "parent_department": "Department of Business and Economic Development",
+    "report_date": "2012-02-01",
+    "audit_period_start": "2007-10-01",
+    "audit_period_end": "2010-11-02",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DBED Did Not Require One Maryland Tax Credit Applicants to Submit Documentation to Support All Project and Start-up Costs",
+        "description": "DBED did not require applicants for the One Maryland Tax Credit to document all related project costs which serve as the basis for tax credit amounts. Testing of 10 applicants revealed that 8 did not provide documentation for $34 million in credits.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 42000000.0,
+            "context": "tax credits totaling"
+          },
+          {
+            "amount": 34000000.0,
+            "context": "project and start-up tax credits"
+          },
+          {
+            "amount": 11700000.0,
+            "context": "One Maryland Tax Credits taken from calendar years 2006 to 2009"
+          },
+          {
+            "amount": 5000000.0,
+            "context": "maximum amount of credits for project costs"
+          },
+          {
+            "amount": 500000.0,
+            "context": "start-up costs"
+          },
+          {
+            "amount": 65800000.0,
+            "context": "certified costs totaling approximately"
+          }
+        ],
+        "recommendation": "We recommend that DBED obtain adequate supporting documentation for project and start-up costs prior to certifying applicants for the One Maryland Tax Credit.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DBED Did Not Take Action to Recover a $250,000 Investment in an International Company After the Company Moved Out of Maryland",
+        "description": "DBED did not take action to recover its investment in one company that moved its principal place of business out of Maryland. The investment agreement contained a mandatory repurchase provision allowing recovery within five years.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 250000.0,
+            "context": "$250,000 investment"
+          },
+          {
+            "amount": 450000.0,
+            "context": "Maryland Venture Fund investments made during fiscal years 2008 through 2010"
+          },
+          {
+            "amount": 325000.0,
+            "context": "estimated to total (original investment plus interest)"
+          }
+        ],
+        "recommendation": "We recommend that DBED continue its efforts to recover its investment with the aforementioned company, and in the future, take timely action to recover its investments when companies fail to comply with requirements of the investment agreements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Capabilities of System Users on DBED\u2019s Financing Programs Monitoring System Were Not Adequately Restricted",
+        "description": "User capabilities were not adequately restricted, and access was not timely removed when no longer needed. Review of 41 active users found some had unnecessary capabilities or access that should have been disabled due to transfer/termination.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 686300000.0,
+            "context": "active financial instruments... being tracked"
+          }
+        ],
+        "recommendation": "We recommend that DBED comply with the requirements specified in the DoIT Information Security Policy to ensure financing programs monitoring system access is adequately restricted and timely removed when no longer needed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Required Expenditure and Performance Reports Were Not Received From Certain Grantees",
+        "description": "DBED did not ensure required reports were received from certain grantees. Testing of grants totaling $17.1 million and one $300,000 grant disclosed DBED did not obtain required quarterly reports or performance reports.",
+        "category": "grants_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 17100000.0,
+            "context": "three grants to one entity... totaling"
+          },
+          {
+            "amount": 300000.0,
+            "context": "$300,000 grant from the Office of Tourism Development"
+          }
+        ],
+        "recommendation": "We recommend that DBED ensure that all grant reporting requirements are met by grant recipients (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 11,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DBED agreed with all four findings and recommendations. The agency plans to amend tax credit applications, pursue recovery of the international company's investment via demand letter, coordinate quarterly with ITM on user permissions, and ensure grant reporting requirements are met by sending letters to recipients.",
+    "total_dollar_impact": 250000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 34000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:33:08.345092",
+  "content_hash": "971058f115e79b981b81833f0fe3fc4555cf1dfd",
+  "duplicate_of": null
+}

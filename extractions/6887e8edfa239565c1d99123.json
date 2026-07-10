@@ -1,0 +1,181 @@
+{
+  "extraction": {
+    "agency_name": "Department of General Services",
+    "parent_department": "Department of General Services",
+    "report_date": "2017-08-01",
+    "audit_period_start": "2013-07-01",
+    "audit_period_end": "2016-05-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls over cash receipts and non-cash credits were not sufficient.",
+        "description": "DGS had not established adequate controls over checks received in the mail totaling approximately $23.6 million during fiscal year 2016, as well as over non-cash credits posted to accounts receivable. Checks were not always accounted for and safeguarded through immediate recordation, secure storage, and timely deposit, and non-cash credits were not subject to independent on-line approval.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 23600000.0,
+            "context": "checks received in the mail during fiscal year 2016"
+          },
+          {
+            "amount": 13500000.0,
+            "context": "checks collected on 20 days during fiscal years 2015 and 2016 reviewed"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "checks recorded 1 to 6 business days after receipt"
+          },
+          {
+            "amount": 8300000.0,
+            "context": "checks deposited 2 to 14 business days after receipt"
+          },
+          {
+            "amount": 126000.0,
+            "context": "checks received in April 2016 not deposited for 14 days"
+          },
+          {
+            "amount": 800000.0,
+            "context": "non-cash credits posted to accounts receivable during fiscal year 2016"
+          }
+        ],
+        "recommendation": "DGS should adequately account for and safeguard checks by recording, securing, and depositing them in accordance with Manual requirements; ensure that non-cash credits to accounts receivable are subject to independent supervisory review and approval; ensure that the initial record of checks received is given directly to the independent employee responsible for verifying that all recorded collections were deposited; and independently reconcile checks to be destroyed to the initial record of checks received.",
+        "agency_agrees": true,
+        "agency_completion_date": "Action b before December 2017; Actions a, c, d completed."
+      },
+      {
+        "number": 2,
+        "title": "DGS improperly recorded special fund revenues totaling $968,000 and failed to revert these funds to the General Fund as required. Accrued expenditures totaling $425,000 were also improperly recorded to retain general funds at the close of fiscal year 2014.",
+        "description": "DGS improperly recorded deferred revenue totaling $968,000 in excess special fund fees received from vendors for DGS-controlled electronic procurement transactions during its fiscal year 2016 closeout process. Additionally, accrued general fund expenditures totaling $425,000 were improperly recorded at the end of fiscal year 2014 to carry forward funds for maintenance projects.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 968000.0,
+            "context": "special fund revenues improperly recorded at close of fiscal year 2016"
+          },
+          {
+            "amount": 425000.0,
+            "context": "accrued expenditures improperly recorded to retain general funds at close of fiscal year 2014"
+          }
+        ],
+        "recommendation": "DGS should record fiscal year-end transactions, including deferred revenue and accrued expenditures, only in accordance with instructions and policy; and revert funds improperly retained to the General Fund.",
+        "agency_agrees": true,
+        "agency_completion_date": "Action b completed (reverted $968,000 to the General Fund in Fiscal Year 2017)."
+      },
+      {
+        "number": 3,
+        "title": "DGS lacked sufficient controls to ensure that all disbursement transactions were independently approved and that all commodities purchased were received.",
+        "description": "Five employees had system access capabilities allowing them to process certain disbursement transactions with no further independent on-line approval required. DGS frequently did not use the appropriate payment method for commodity disbursement transactions, resulting in a lack of assurance that purchased commodities were received prior to payment.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 50300000.0,
+            "context": "disbursements processed by five employees with no independent approval"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "expenditures reviewed during audit period"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "disbursements for commodity procurements using method allowing payment without matching receiving reports"
+          },
+          {
+            "amount": 918000.0,
+            "context": "test of eight disbursements for commodities"
+          },
+          {
+            "amount": 886000.0,
+            "context": "disbursements where required receiving documentation was not on file"
+          }
+        ],
+        "recommendation": "DGS should establish independent online approval requirements for all critical disbursement transactions or comply with applicable Manual requirements; use the appropriate FMIS payment method to ensure invoices are matched to corresponding receiving reports prior to payment; and investigate to ensure that commodities relating to disbursements of $886,000 were received.",
+        "agency_agrees": true,
+        "agency_completion_date": "All actions completed."
+      },
+      {
+        "number": 4,
+        "title": "DGS awarded multiple contracts for roof repair and replacement services to a roofing contractor without soliciting bids, as required.",
+        "description": "During the period from July 2013 through September 2014, DGS awarded 27 contracts to one vendor totaling approximately $1 million. Testing of 14 contracts disclosed that DGS did not solicit bids from multiple vendors as required for any of them and contacted the vendor directly rather than soliciting bids on eMaryland Marketplace.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "total value of 27 contracts awarded to one vendor"
+          },
+          {
+            "amount": 629000.0,
+            "context": "value of 14 contracts tested for bid solicitation compliance"
+          }
+        ],
+        "recommendation": "DGS should comply with State procurement regulations to help ensure DGS receives the best value for the goods or services.",
+        "agency_agrees": true,
+        "agency_completion_date": "Issue corrected; new internal procedures implemented in January 2015."
+      },
+      {
+        "number": 5,
+        "title": "DGS lacked independent records and monitoring procedures to ensure that all commission rebates due for certain real estate transactions were received.",
+        "description": "DGS did not maintain an independent record of all approved leases or actively monitor the leases for commissions and rebates due from a vendor contracted to provide real estate brokerage services. DGS relied on the contractor to calculate and submit required rebate payments, resulting in a lack of assurance that all rebates due were received.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 430000.0,
+            "context": "rebates not paid as of December 2015"
+          },
+          {
+            "amount": 606730.0,
+            "context": "rebate payments submitted by vendor in January 2016"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "commission rebates received during fiscal years 2014 through 2016"
+          }
+        ],
+        "recommendation": "DGS should maintain an independent record of all leases established under the contract and establish monitoring procedures to ensure that all rebates due are received in a timely manner; and verify that all rebates due since July 1, 2013 have been received.",
+        "agency_agrees": true,
+        "agency_completion_date": "Rebate tracking system implemented; consulting with AG's Office on restitution for unpaid fees."
+      },
+      {
+        "number": 6,
+        "title": "Adjustments to employee pay and leave balances were not subject to independent supervisory review and approval.",
+        "description": "Adjustments to employee pay and leave balances were not reviewed for propriety by independent supervisory personnel. One employee was responsible for submitting a manual list of payroll adjustments without documentation of supervisory review, and DGS did not have a procedure in place to verify the propriety of leave balance adjustments processed.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 128000.0,
+            "context": "increase in employee pay from payroll and leave adjustments processed"
+          },
+          {
+            "amount": 42800000.0,
+            "context": "DGS' payroll expenditures during fiscal year 2016"
+          }
+        ],
+        "recommendation": "DGS should ensure that manual listings of payroll adjustments submitted to DBM for processing are first approved by independent supervisory personnel and documented; and independently verify output reports of payroll and leave adjustments processed to initial supporting documentation, at least on a test basis.",
+        "agency_agrees": true,
+        "agency_completion_date": "All actions completed."
+      }
+    ],
+    "prior_findings_count": 1,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DGS concurs with all findings and recommendations. Corrective actions have been completed for most items, including implementing new procedures, tracking systems, and reverting improperly retained funds to the General Fund in Fiscal Year 2017.",
+    "total_dollar_impact": 2709000.0,
+    "extraction_notes": "Report date derived from header 'August 2017'. Audit period explicitly stated in Scope section. Prior findings count inferred as 1 based on singular reference to preceding report finding."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:43:50.640086",
+  "content_hash": "86a1406eb0c232bfb44a18cd38cdb4a2ff62ae87",
+  "duplicate_of": "5a8f4d10cc9d72456067442c"
+}

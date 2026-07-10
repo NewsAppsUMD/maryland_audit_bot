@@ -1,0 +1,240 @@
+{
+  "extraction": {
+    "agency_name": "Harford County Public Schools",
+    "parent_department": "Harford County Public Schools",
+    "report_date": "2021-03-24",
+    "audit_period_start": "2019-09-05",
+    "audit_period_end": "2020-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "HCPS procurement policies did not incorporate certain recognized best practices or requirements of State law when evaluating the merits of participation in intergovernmental cooperative purchasing agreements (ICPA).",
+        "description": "HCPS procurement policies lacked statutory requirements and best practices for ICPAs, such as written assessments of benefits and cost analysis. Testing of four ICPAs totaling $4.7 million disclosed non-compliance with these requirements.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4700000.0,
+            "context": "contract awards for four ICPAs tested"
+          }
+        ],
+        "recommendation": "HCPS establish and adhere to the aforementioned statutory requirement and other identified and acknowledged best practices when using ICPAs.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-06-30"
+      },
+      {
+        "number": 2,
+        "title": "Certain transactions processed on its automated system were not subject to independent review and approval and verified to appropriate supporting documentation after being entered into the system.",
+        "description": "Vendor changes lacked supervisory oversight; disbursements without purchase orders lacked documented comparison to supporting documentation. Special education service invoices were not verified against independent documentation.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 218100000.0,
+            "context": "payments for invoices without an associated purchase order"
+          },
+          {
+            "amount": 136800000.0,
+            "context": "health care, retirement, and workers compensation payments"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "payments to six special education service providers"
+          }
+        ],
+        "recommendation": "Ensure vendor information changes are verified by independent employee; conduct documented comparison of disbursement transactions; obtain independent supporting documentation for special education services invoices.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-01-31; Complete"
+      },
+      {
+        "number": 3,
+        "title": "HCPS did not ensure critical human resources and payroll transactions were independently reviewed for propriety.",
+        "description": "Processing of new hires, earnings transactions, and rate increases were not subject to independent review and comparison to supporting documentation. System reports were not retained.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 230000.0,
+            "context": "salary increases tested"
+          }
+        ],
+        "recommendation": "Perform documented independent supervisory review of HR and payroll transactions; retain system reports of transactions entered.",
+        "agency_agrees": true,
+        "agency_completion_date": "Ongoing; 2020-03-31"
+      },
+      {
+        "number": 4,
+        "title": "HCPS\u2019 equipment policies were not comprehensive, detail records were incomplete, and physical inventories were not conducted.",
+        "description": "Policies lacked standards for tagging or inventories; sensitive non-capitalized assets were not recorded with cost/purchase date. Physical inventories were not performed to account for items or investigate missing ones.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 48800000.0,
+            "context": "undepreciated value of capital equipment inventory"
+          },
+          {
+            "amount": 5000.0,
+            "context": "capitalization threshold for automated records"
+          }
+        ],
+        "recommendation": "Establish policies for uniform accountability and control; record sensitive items with purchase date and cost; conduct periodic physical inventories.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-06-30; Complete; Annually"
+      },
+      {
+        "number": 5,
+        "title": "HCPS did not ensure employee access to its automated financial management system applications was properly restricted resulting in numerous employees with improper and unnecessary access.",
+        "description": "User access granted via email without retention of messages; many users had incompatible or unnecessary access capabilities for critical functions like accounts payable and payroll.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Retain documentation for user access; perform periodic independent reviews; restrict critical functions to necessary employees; generate transaction reports.",
+        "agency_agrees": true,
+        "agency_completion_date": "Complete; 2021-04-30; Complete; Ongoing"
+      },
+      {
+        "number": 6,
+        "title": "HCPS maintained sensitive electronic personally identifiable information in a manner that did not provide adequate safeguards.",
+        "description": "A critical system database contained approximately 102,500 records of sensitive PII vulnerable to improper disclosure. HCPS had not performed an inventory of systems to identify and delete unnecessary PII.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Implement appropriate information security safeguards; perform annual inventory of application systems to identify and delete unnecessary PII.",
+        "agency_agrees": true,
+        "agency_completion_date": "Ongoing"
+      },
+      {
+        "number": 7,
+        "title": "HCPS lacked assurance that an online data backup service managed by a third-party provider was properly secured against operational and security risks.",
+        "description": "Contract with third-party provider lacked key security control provisions. SOC report did not address all necessary security controls for the data backup service.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Include contract provisions addressing security and operational risks; request independent security reviews address all necessary controls.",
+        "agency_agrees": true,
+        "agency_completion_date": "12 months"
+      },
+      {
+        "number": 8,
+        "title": "Certain servers were improperly located within the internal network, and intrusion detection prevention system coverage did not exist for untrusted encrypted traffic.",
+        "description": "Servers created improper security risk by being in the internal network rather than a protected zone. Intrusion detection prevention system (IDPS) coverage was missing for untrusted encrypted traffic.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Relocate servers to separate protected network zone; assess and apply IDPS coverage for all untrusted traffic.",
+        "agency_agrees": true,
+        "agency_completion_date": "12 months"
+      },
+      {
+        "number": 9,
+        "title": "HCPS did not perform preventive maintenance in accordance with its Comprehensive Maintenance Plan.",
+        "description": "Review of work orders disclosed many were performed late or overdue. Failing to perform required PM could cause system failures and additional expenditures.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Complete all preventive maintenance required by its comprehensive maintenance plan in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-03-31"
+      },
+      {
+        "number": 10,
+        "title": "Certain components of the payments to bus contractors could not be supported and included costs that should not have been reimbursed, resulting in higher payments than necessary for student transportation services.",
+        "description": "Operations payment formula was undocumented. HCPS could not support $4.1 million paid for bus maintenance costs. Contracts lacked Board approval or audit rights.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 25000000.0,
+            "context": "payments for contracted bus services"
+          },
+          {
+            "amount": 4100000.0,
+            "context": "bus maintenance costs paid without support"
+          },
+          {
+            "amount": 3800000.0,
+            "context": "operations payments for buses placed into service"
+          },
+          {
+            "amount": 15600000.0,
+            "context": "projected additional operations payments over remaining life of buses"
+          },
+          {
+            "amount": 19400000.0,
+            "context": "total projected operations payments including PVA"
+          }
+        ],
+        "recommendation": "Document basis for operations payment; use actual documented costs for maintenance rates; present contracts to Board for approval; include audit provisions in future contracts.",
+        "agency_agrees": true,
+        "agency_completion_date": "Complete; Complete; Ongoing; 2023"
+      },
+      {
+        "number": 11,
+        "title": "HCPS did not independently verify manifest data entered into the transportation payments system and did not maintain support for payments made prior to fiscal year 2020.",
+        "description": "Manifest information was not independently reviewed. The automated system prior to FY2020 did not maintain historical data supporting payment calculations.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Independently verify manifest data; ensure system payment documentation and support is maintained for future reference.",
+        "agency_agrees": true,
+        "agency_completion_date": "Complete"
+      },
+      {
+        "number": 12,
+        "title": "HCPS did not audit or adequately verify the propriety of health care claims, insurance premiums and administrative fees paid to the TPA, and the eligibility of enrolled dependents.",
+        "description": "Claims were not audited for propriety; verification of premiums/fees was undocumented. HCPS did not ensure all enrolled dependents were eligible or received all drug rebates.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 97200000.0,
+            "context": "health care payments"
+          },
+          {
+            "amount": 2900000.0,
+            "context": "administrative fees"
+          },
+          {
+            "amount": 3300000.0,
+            "context": "stop-loss insurance"
+          },
+          {
+            "amount": 6200000.0,
+            "context": "prescription drug rebates reported by TPA"
+          }
+        ],
+        "recommendation": "Audit claims and obtain documentation; document comparisons for premiums/fees; obtain rebate documentation; audit enrolled dependents.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-03-31; Ongoing; 2021-07-01; 2021; 2021/2022"
+      }
+    ],
+    "prior_findings_count": 15,
+    "prior_findings_repeated": 8,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "HCPS agreed to all findings and recommendations. The agency provided corrective action plans with completion dates ranging from immediate/complete to Spring 2021 and 2023. For Finding 7a, the agency noted they could only request modifications as an alternative is being explored.",
+    "total_dollar_impact": 4100000.0,
+    "extraction_notes": "Audit fieldwork dates used for audit period. Dollar amounts converted to integers. Repeat status determined by asterisk in TOC and headers."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 12, regex counted 13",
+    "dollar_amount_not_in_text: finding 10 amount 25000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T19:25:48.451762",
+  "content_hash": "48088fd40146e915f86ed8832b73af865748a3d6",
+  "duplicate_of": "5a945d36cc9d72404c150a1a"
+}

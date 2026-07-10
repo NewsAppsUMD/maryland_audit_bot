@@ -1,0 +1,134 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2015-11-30",
+    "audit_period_start": "2012-03-15",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DPP lacked policies to guide the offender intake process at field office locations.",
+        "description": "DPP's Operations Manual was not revised after OCMS implementation in December 2012, and adequate training was not provided. A formal policy addressing DDMP fee reductions for case abatements was lacking, leading to inconsistent treatment among field offices where some reduced fees while others did not.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8910.0,
+            "context": "DDMP fee reductions for abated cases"
+          },
+          {
+            "amount": 12540.0,
+            "context": "fees originally assessed in abated cases"
+          }
+        ],
+        "recommendation": "Establish comprehensive intake guidance that addresses all critical processes; institute additional training for field office staff; establish a formal policy on the handling of DDMP fees when a case is abated.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-01-31 (guidance/policy), 2016-06-30 (training)"
+      },
+      {
+        "number": 2,
+        "title": "DPP had not established adequate procedures and controls to ensure that all fees and restitution were properly assessed to offenders.",
+        "description": "Procedures at four field offices were insufficient; initial accountability over probation orders was not established, no documented supervisory review existed for intake process or transferred cases, and payment instruction forms (COL-1) were not timely issued. Errors included unassessed DDMP fees ($2,970), over-assessed supervision fees ($650), over-assessed DDMP fees ($2,035), and over-assessed restitution ($1,367).",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 14575.0,
+            "context": "DDMP fees assessed in OBSCIS II for 20 test cases"
+          },
+          {
+            "amount": 12950.0,
+            "context": "supervision fees assessed in OBSCIS II for 20 test cases"
+          },
+          {
+            "amount": 56403.0,
+            "context": "restitution assessed in OBSCIS II for 20 test cases"
+          },
+          {
+            "amount": 990.0,
+            "context": "DDMP fees not assessed in 1 case"
+          },
+          {
+            "amount": 1980.0,
+            "context": "DDMP fees not assessed until follow-up project in 2 cases"
+          },
+          {
+            "amount": 650.0,
+            "context": "supervision fees over-assessed in 2 cases"
+          },
+          {
+            "amount": 2035.0,
+            "context": "DDMP fees over-assessed in 3 cases"
+          },
+          {
+            "amount": 1367.0,
+            "context": "restitution over-assessed in 2 cases"
+          }
+        ],
+        "recommendation": "Establish initial accountability for all probation orders; establish an independent documented supervisory review of the intake process; take immediate action to correct errors in OBSCIS II; ensure payment instructions forms (COL-1) are issued timely; determine feasibility of developing electronic data transfer process.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31 (correct errors), 2016-01-31 (supervisory review/COL-1), 2016-03-31 (accountability), 2016-12-31 (data transfer)"
+      },
+      {
+        "number": 3,
+        "title": "Procedures and controls over OCMS user access were not sufficient and many users had excessive access. Defined system roles were not appropriately restricted, and data input validation controls were not comprehensive.",
+        "description": "User access procedures were insufficient; no documentation supported role grants for selected users; periodic reviews of access were not performed. 11 of 14 tested users had improper or unnecessary access (e.g., former employees, read-only roles granted edit access). Critical data changes were not reviewed for propriety. Input validation controls did not require completion of critical fields like probation period ending date.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish a formal, documented process for granting and modifying OCMS user access; perform periodic documented reviews of user access; take corrective action to restrict improper access; redefine system roles; identify and produce OCMS reports of critical data changes; enhance OCMS input validation controls.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31 (restrict access), 2016-12-31 (process/docs/reports/roles)"
+      },
+      {
+        "number": 4,
+        "title": "DDMP and supervision fees were not properly assessed in OBSCIS II for 32 of the 45 cases judgmentally selected for review.",
+        "description": "Review of 45 cases disclosed errors in 32 cases where fees were not properly assessed or recorded. Issues included unassessed fees ($38,360), misclassified DDMP fees as other fees ($10,230), incorrectly waived fees ($1,980), and under-assessed fees ($3,355). Processes to identify errors at case closure were ineffective.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 27060.0,
+            "context": "DDMP fees not assessed in 21 cases"
+          },
+          {
+            "amount": 11300.0,
+            "context": "supervision fees not assessed in 21 cases"
+          },
+          {
+            "amount": 10230.0,
+            "context": "DDMP fees incorrectly recorded as other fees in 7 cases"
+          },
+          {
+            "amount": 1980.0,
+            "context": "DDMP fees mistakenly waived rather than supervision fees in 1 case"
+          },
+          {
+            "amount": 3355.0,
+            "context": "actual DDMP fees under-assessed in 3 cases"
+          }
+        ],
+        "recommendation": "Take immediate corrective action on cases for which fees were not properly assessed; investigate remaining cases disclosed from data matching; ensure adequate efforts are made when cases are closed to verify that all fees have been properly assessed; determine feasibility of enhancing controls by periodically performing data matches.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31 (corrective action), 2016-12-31 (investigate/feasibility)"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "The agency agreed with all recommendations. They plan to publish an OCMS Intake Users' guide and update policies, institute additional training, establish supervisory reviews, correct errors in OBSCIS II, ensure timely COL-1 issuance, and study the feasibility of electronic data transfer. Completion dates range from December 2015 to June 2016.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period derived from Agency Response section stating 'period beginning March 15, 2012 through June 30, 2015'. Report date is November 30, 2015 from transmittal letter. Finding 4 contains conflicting totals for unassessed fees ($38,360 vs $42,625), so total_dollar_impact set to null."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:22:35.435007",
+  "content_hash": "6a515be45b283b98d2aa42d4c768edee4e15e6c1",
+  "duplicate_of": null
+}

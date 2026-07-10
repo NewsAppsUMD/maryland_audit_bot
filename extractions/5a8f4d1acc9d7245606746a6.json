@@ -1,0 +1,82 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Secretary of State",
+    "parent_department": "Office of the Secretary of State",
+    "report_date": "2022-06-01",
+    "audit_period_start": "2017-12-05",
+    "audit_period_end": "2021-11-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office of the Secretary of State did not conduct independent reviews since August 2020 to ensure that critical data obtained from charitable organizations was accurately recorded, and that these organizations submitted the proper amount of fees.",
+        "description": "The Office's Charities and Legal Services Division did not conduct independent reviews to ensure that critical information received from charitable organizations was accurately recorded in the database and that proper registration fees were paid. As of March 2022, no reviews had been conducted since August 2020.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [
+          {
+            "amount": 2500000.0,
+            "context": "Office recorded revenue from registration fees, renewal fees, and fines totaling approximately $2.5 million during fiscal year 2021"
+          }
+        ],
+        "recommendation": "We recommend that the Office perform independent verifications, at least on a test basis, to ensure that information reported by charitable organizations is accurately recorded in the Office's database and that the proper fees are collected from each organization (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "Spring 2022"
+      },
+      {
+        "number": 2,
+        "title": "The Office did not investigate charitable organizations that failed to comply with the annual registration requirements of State law. In addition, the Office did not monitor related fees incurred by delinquent organizations and refer accounts to the State's Central Collection Unit.",
+        "description": "The Division did not investigate delinquent charitable organizations or monitor late registration fees as required. As of January 18, 2022, 5,755 organizations were delinquent with estimated outstanding fees totaling $1.8 million.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "estimated outstanding fees owed by the aforementioned 5,755 delinquent organizations could total up to $1.8 million"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "$1 million owed by 524 organizations that had been delinquent for between 5 to 21 years"
+          }
+        ],
+        "recommendation": "We recommend that the Office a. investigate charitable organizations that fail to comply with the annual registration requirements of State law to determine whether the organizations are still operating and whether to refer the organizations for additional enforcement action as permitted by law; b. generate periodic aging reports to assist in monitoring the late registration fees owed by charitable organizations; and c. refer delinquent accounts to CCU for collection assistance, as required by State regulations.",
+        "agency_agrees": false,
+        "agency_completion_date": "May 2022"
+      },
+      {
+        "number": 3,
+        "title": "Adequate controls were not established over cash receipts.",
+        "description": "The Office had not established adequate controls over its cash receipts. One employee had excessive control over collections and voids, and discrepancies totaling $410 were found in credit card deposits compared to bank account credits.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 2,
+        "dollar_amounts": [
+          {
+            "amount": 980.0,
+            "context": "3 voids totaling $980 were not adequately supported"
+          },
+          {
+            "amount": 410.0,
+            "context": "discrepancies between the collections processed by the credit card vendor and the amounts deposited in the State's bank account for 3 days totaling $410"
+          }
+        ],
+        "recommendation": "We recommend that the Office a. ensure that an employee independent of the cash receipts process verifies that all collections, including credit card transactions, are subsequently deposited and credited to the State's bank account (repeat); b. establish an independent supervisory review and approval of voids to verify that voided transactions are proper (repeat) and adequately supported; and c. take investigative action to resolve any instances of recorded collections not deposited to the State's bank account.",
+        "agency_agrees": true,
+        "agency_completion_date": "4/15/2022"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office generally agrees with the recommendations but disagrees with Recommendation 2c regarding referring delinquent accounts to CCU due to legal obligations and definitions of delinquent accounts. They cite pandemic-related delays and backlog issues as reasons for some discrepancies in findings.",
+    "total_dollar_impact": 1801390.0,
+    "extraction_notes": "Finding 2 agency_agrees set to false because the Office explicitly disagreed with Recommendation 2c. Finding 3 prior_finding_number is 2 based on Figure 1 mapping Preceding Finding 2 to Current Finding 3."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:57:37.184375",
+  "content_hash": "5fb9a7a9bff8b18fba817cb7fec1cec928567eda",
+  "duplicate_of": null
+}

@@ -1,0 +1,314 @@
+{
+  "extraction": {
+    "agency_name": "Washington County Public Schools",
+    "parent_department": "Washington County Public Schools",
+    "report_date": "2013-06-01",
+    "audit_period_start": "2009-07-01",
+    "audit_period_end": "2011-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Internal Controls Over Cash Receipts Received and Recorded at the Central Business Office Were Not Adequate",
+        "description": "Internal controls over cash receipts received at various departments and forwarded to the Central Business Office were not adequate. Specifically, cash receipts were not recorded immediately upon receipt, duties were not properly segregated, and access to the safe was not adequately limited.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7200000.0,
+            "context": "cash receipts processed by the CBO during fiscal year 2011"
+          }
+        ],
+        "recommendation": "Record collections immediately upon receipt; restrictively endorse all checks immediately upon receipt; document chain of custody; ensure proper segregation of duties; and ensure all collections are adequately secured.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "WCPS Procurement Policies Did Not Require Competitive Procurements For Purchases Less Than $20,000",
+        "description": "WCPS policies did not require competitive procurement methods for purchases less than $20,000. While formal bidding may not be appropriate for smaller procurements, competitive methods should generally be required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Amend existing policies by lowering the monetary threshold for which competitive procurement methods must be used.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Adequate Procedures and Controls Had Not Been Established For Blanket Purchase Orders and Board Approval Was Not Always Obtained",
+        "description": "WCPS established blanket purchase orders without competitive bidding and certain BPOs were not submitted to the Board for approval as required. None of the tested BPOs were competitively procured or approved by the Board when purchases exceeded thresholds.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 402000.0,
+            "context": "total fiscal year 2011 expenditures for tested vendor BPOs"
+          }
+        ],
+        "recommendation": "Comply with existing policies regarding competitive procurements and prepare retain sufficient contract documentation.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "WCPS Did Not Properly Secure Vendor Bids and Certain Bid Opening Controls Were Lacking",
+        "description": "WCPS did not adequately secure vendor bids prior to bid opening. Additionally, bid opening documentation was lacking in some cases and only one employee was present for bid openings.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13900000.0,
+            "context": "contractual services expenditures for fiscal year 2011"
+          }
+        ],
+        "recommendation": "Adequately secure all vendor bids prior to opening and enhance policy for bid openings.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "WCPS Lacked Procedures and Controls to Ensure the Propriety of Employee and Retiree Health Care Costs",
+        "description": "WCPS lacked procedures to ensure amounts paid to the third-party health care administrator were proper. WCPS did not conduct comprehensive claim reviews or verify administrative fees.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 23100000.0,
+            "context": "amounts paid for health care in fiscal year 2011"
+          },
+          {
+            "amount": 2600000.0,
+            "context": "administrative fees included in health care payments"
+          }
+        ],
+        "recommendation": "Establish a process to verify the propriety of claims and administrative fees paid to the health care administrator.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "WCPS Did Not Always Use a Competitive Process to Procure Stop-Loss Insurance Coverage For Its Health Care Claims",
+        "description": "WCPS did not use a competitive procurement process for stop-loss insurance coverage for fiscal years 2010 and 2011. Premiums increased while coverage decreased compared to the initial contract.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1900000.0,
+            "context": "payments to the insurer for stop-loss coverage during fiscal years 2010 and 2011"
+          }
+        ],
+        "recommendation": "Competitively procure its stop-loss insurance for employee health care coverage.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Access to the Automated Human Resource and Payroll System Was Not Adequately Restricted",
+        "description": "WCPS did not establish adequate internal controls over its automated human resources and payroll system. Four employees could change pay rates without supervisory review, and WCPS did not periodically review system access.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Generate output reports identifying pay rate changes; perform independent supervisory reviews; and only assign critical functions to employees who need them.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "WCPS Practice of Certifying Unused Sick Leave to the Maryland State Retirement and Pension System Was Questionable",
+        "description": "WCPS certified unused sick leave to MSRPS resulting in increased retirement benefits while also paying employees for that leave. This practice appears common among school systems but may not comply with legal interpretation.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 458000.0,
+            "context": "sick leave payouts in fiscal year 2011"
+          },
+          {
+            "amount": 708000.0,
+            "context": "sick leave payouts in fiscal year 2012"
+          }
+        ],
+        "recommendation": "Reevaluate accumulated sick leave payment practices and consider discontinuing the practice of certifying unused sick leave while making a payment.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Proper Accountability Had Not Been Established Over Capital Equipment",
+        "description": "WCPS lacked sufficient policies to safeguard sensitive equipment and did not establish proper accountability over capitalized equipment. Physical inventory counts were not subject to independent verification.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 40600000.0,
+            "context": "undepreciated value of capital equipment inventory as of June 30, 2011"
+          }
+        ],
+        "recommendation": "Establish policies requiring sensitive items to be recorded and tagged; implement process to independently verify physical inventories.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Certain System Access, Monitoring, and Authentication Controls Were Not Adequate",
+        "description": "Controls were not adequate over network authentication. Password controls were insufficient, direct changes to critical files were not logged, and reviews were not independent.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish appropriate network and server access, monitoring and authentication controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "WCPS Network Was Not Properly Secured",
+        "description": "The WCPS network was not properly secured. An intrusion detection prevention system was not used, publicly accessible servers were on the internal network, and insecure connection protocols were enabled.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Implement IDPS coverage; segregate publicly accessible servers; limit network level student access; and restrict remote firewall administrative access.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "WCPS Did Not Have a Complete Disaster Recovery Plan and Backups of Critical Network Devices Were Not Current",
+        "description": "WCPS did not have a comprehensive disaster recovery plan. Configurations of several critical network devices were not backed up or not backed up on a consistent basis.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop and implement a comprehensive disaster recovery plan; perform regular backups for all critical network devices.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "WCPS Energy Management Program Was Not Sufficiently Comprehensive",
+        "description": "WCPS did not have a documented comprehensive energy management program. Specific goals were not developed and site visits were not documented.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6000000.0,
+            "context": "energy costs during fiscal year 2011"
+          }
+        ],
+        "recommendation": "Develop a comprehensive energy management program; maintain documentation of site visits.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-12-31"
+      },
+      {
+        "number": 14,
+        "title": "Certain Payments to Bus Contractors Were Not Based on Market Conditions or Actual Costs",
+        "description": "Elements used to determine contractual rates were negotiated without considering market conditions. WCPS paid out approximately $1.1 million more than if the prime rate was used for ROI over 12 years.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1100000.0,
+            "context": "potential additional payments over 12-year life of buses due to ROI rate"
+          },
+          {
+            "amount": 80000.0,
+            "context": "potential savings if federal fuel excise taxes were excluded during school years 2010 and 2011"
+          }
+        ],
+        "recommendation": "Establish payment amounts to ensure all costs are reasonable; use market investment rates for PVA; use actual operating costs for maintenance.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "WCPS Did Not Verify Certain Payment Information Provided by Bus Contractors",
+        "description": "WCPS did not ensure accuracy of self-reported contractor information used to formulate payments. Route mileage billed appeared overstated for tested buses.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 250000.0,
+            "context": "annual payments for maintenance and operational costs tested"
+          },
+          {
+            "amount": 14500.0,
+            "context": "potential overpayment to seven bus contractors in fiscal year 2011"
+          }
+        ],
+        "recommendation": "Independently verify bus contractors manifests; document verification process and recover overpayments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "WCPS Did Not Fully Utilize Its Automated Routing Software Capabilities",
+        "description": "WCPS did not fully use automated routing software to develop more efficient routes. Formal bus occupancy or student ride time goals were not established.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Fully utilize automated routing software; develop formal policies documenting goals for bus occupancy and student ride time.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "Current Bus Service Operations Have Not Been Established As Cost Beneficial",
+        "description": "WCPS has not prepared a current cost-benefit study to determine the cost efficiency of contracting versus directly owning transportation services system-wide.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Periodically prepare a documented system-wide analysis to determine the most beneficial mix of outside bus contractors and directly owned buses.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "Fuel Purchases Were Not Always Properly Supported or Verified Prior to Payment",
+        "description": "WCPS could not provide documentation to support amounts charged for fuel purchases. WCPS overpaid a vendor approximately $600 due to taxes being included twice.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 213000.0,
+            "context": "fuel purchases tested during fiscal year 2011"
+          },
+          {
+            "amount": 600.0,
+            "context": "overpayment to vendor due to taxes included twice"
+          }
+        ],
+        "recommendation": "Obtain and retain pricing information; take appropriate action to recover overpayments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 26,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "WCPS generally agrees with the audit recommendations and outlines corrective actions such as implementing new software, updating policies, installing GPS units, and recovering overpayments. However, WCPS notes constraints like small staff size for segregation of duties and argues that certain existing practices comply with Maryland law or are negotiated benefits.",
+    "total_dollar_impact": 1195100.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T21:40:53.841896",
+  "content_hash": "03190e5d7afd5177c090aa54bb5bd969af0d742a",
+  "duplicate_of": null
+}

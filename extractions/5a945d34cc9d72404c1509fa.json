@@ -1,0 +1,231 @@
+{
+  "extraction": {
+    "agency_name": "Calvert County Public Schools",
+    "parent_department": null,
+    "report_date": "2016-07-19",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2014-09-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Adequate accountability and control had not been established, as collections were not recorded and checks restrictively endorsed immediately upon receipt, collections were not properly secured, and certain collections were not subject to independent deposit verification.",
+        "description": "CCPS lacked adequate controls over cash receipts totaling $16.3 million in fiscal year 2015, including delays in recording and endorsing checks and unsecured storage of collections prior to deposit. Additionally, accounts receivable records were maintained by individuals involved in the cash receipts function without independent verification of deposits.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 16300000.0,
+            "context": "collections in fiscal year 2015"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "vendor billings during fiscal year 2015"
+          }
+        ],
+        "recommendation": "Record collections and restrictively endorse all checks immediately upon receipt; properly secure collections prior to deposit; ensure accounts receivable records are maintained by individuals independent of the cash receipts function; independently verify that all collections were subsequently deposited.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "CCPS had not established a process to periodically assess the propriety of the capabilities assigned to users on its automated procurement and accounts payable system; consequently, several employees had incompatible or unnecessary system capabilities.",
+        "description": "CCPS lacked controls over user access in its automated procurement system, with nine employees having incompatible or unnecessary capabilities such as modifying purchase orders after approval. Compensating procedures were insufficient due to lack of independent review and supervisory oversight.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Periodically generate reports of assigned user capabilities from the automated financial system to evaluate propriety; restrict users' capabilities to those needed for job duties and eliminate incompatible duties; establish a process for independent verification of disbursements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Human resources and payroll system user access capabilities were not monitored, and payroll transaction review procedures were inadequate, as certain necessary automated or manual controls to ensure the propriety of transactions processed were not in place.",
+        "description": "HR and payroll system user access was not monitored with periodic reviews, and five users had unrestricted access to critical functions allowing unilateral changes without independent approval. Review procedures lacked independence as employees responsible for processing also performed the reviews.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Perform a periodic documented review of users' accesses and capabilities; ensure HR and payroll transaction processing and review responsibilities are properly segregated; establish online approval requirements for HR and payroll transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Personal service contracts that provided unique employment benefits to five executive employees valued at $500,000 were executed without Board approval as required by State law.",
+        "description": "Five executive personal service contracts providing unique benefits totaling $500,000 between fiscal years 2009 and 2013 were approved by the Superintendent without Board approval. Legal proceedings regarding these contracts remained unresolved as of February 2016.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 500000.0,
+            "context": "value of employee benefit packages"
+          }
+        ],
+        "recommendation": "Institute a process that ensures Board approval is obtained for all employee compensation (salaries and benefits), as required by law.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "CCPS equipment policies were not comprehensive because they did not address requirements for tagging equipment, specify the frequency of physical inventories, and account for all non-capitalized sensitive equipment.",
+        "description": "CCPS lacked comprehensive policies for equipment accountability, including tagging standards and inventory frequencies. The most recent physical inventory was conducted in 2010 without documentation, and records for non-capitalized sensitive items were incomplete.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Establish policies addressing tagging of capitalized equipment; frequency and documentation of periodic physical inventories; investigation and reporting of missing items; and physical inventory and record keeping requirements for sensitive items.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "CCPS network domain account and password controls did not meet certain best practice standards and certain accounts unnecessarily had full access to the student information database. Security event monitoring over the database was insufficient.",
+        "description": "Domain password controls did not meet State Information Security Policy standards, and 10 accounts had unnecessary full administrative access to the student information database. Security event monitoring was insufficient with infrequent log reviews that were not documented.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Implement strong controls over domain passwords and accounts; limit access to critical databases to personnel whose job duties require such access; log all critical security and audit events and review regularly.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "The CCPS intrusion detection prevention system was not used to scan all appropriate network traffic and publically accessible servers were improperly located in the internal network.",
+        "description": "The IDPS did not scan Internet or encrypted network traffic, creating security risks. Additionally, 20 publicly accessible servers were located in the internal network rather than a separate protected zone.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Perform a documented review of network security risks and implement IDPS coverage as necessary; relocate all publicly accessible servers to a separate neutral network zone.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Workstations and servers were not sufficiently protected against malware.",
+        "description": "Approximately 1,500 computers lacked malware protection software due to a technical issue. Six workstations tested had improper administrator rights, increasing the risk of compromise and allowing users to disable security software.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure current versions of malware protection software are installed and running properly on all workstations and servers; ensure administrative privileges on workstations are properly restricted.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Certain elements used to determine payments to bus contractors did not consider market conditions, actual costs, or available discounts, resulting in higher payments than necessary for student transportation services.",
+        "description": "Bus contractor payment calculations did not reflect market conditions, using a borrowing rate instead of an investment rate which resulted in overpayments. Additionally, operational cost estimates lacked documentation and federal fuel excise taxes were not excluded from payments.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 622.0,
+            "context": "lower bound of higher annual PVA payments per bus"
+          },
+          {
+            "amount": 6380.0,
+            "context": "upper bound of higher annual PVA payments per bus"
+          },
+          {
+            "amount": 5000000.0,
+            "context": "total overpayment over 12-year life of buses"
+          },
+          {
+            "amount": 2800000.0,
+            "context": "overpayment already paid"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "overpayment to be paid over remaining life"
+          },
+          {
+            "amount": 5100.0,
+            "context": "operations cost element added per bus per year for 24 buses"
+          },
+          {
+            "amount": 178500.0,
+            "context": "payments for operation costs for 24 buses in fiscal years 2014 and 2015"
+          },
+          {
+            "amount": 247500.0,
+            "context": "fuel payments higher than necessary for fiscal years 2013 and 2014"
+          }
+        ],
+        "recommendation": "Use market investment rates as a basis for establishing contractor rates; develop supportable cost estimates for operation costs and maintenance costs; exclude federal fuel excise taxes from contractor payments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Cashiers in school cafeterias could void transactions on their automated cash register systems without independent review and approval.",
+        "description": "CCPS lacked controls over voided cafeteria transactions as cashiers could void sales without independent review. Although a protocol was prepared, it was never formally adopted or implemented despite 38,000 voids in fiscal year 2015.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop formal procedures that ensure that voided transactions are reviewed and approved by supervisors for propriety.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "CCPS lacked documentation to substantiate that the cash register closeout process was subject to supervisory review.",
+        "description": "Cash register closing sheets were only signed by cashiers, lacking manager signatures to document joint participation and approval of cash counts. This occurred despite approximately $3.2 million in food service revenue generated from charges for services in fiscal year 2015.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Require both the cafeteria cashier and manager to sign the closing sheet for each cash register to document their verification and agreement of the cash receipts counted and related sales.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "CCPS did not ensure the propriety of employee and retiree health care claims paid, nor verify that stop-loss insurance was correctly applied and plan administrative fees were properly charged.",
+        "description": "CCPS lacked procedures to audit medical claim propriety or verify stop-loss coverage application. The TPA reported $88,000 in claims exceeding the stop-loss limit reimbursed for 2015, but CCPS lacked detailed documentation to verify these amounts against its own records.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31000000.0,
+            "context": "total healthcare expenditures including administrative fees"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "administrative fees"
+          },
+          {
+            "amount": 911000.0,
+            "context": "stop-loss insurance premiums paid"
+          },
+          {
+            "amount": 88000.0,
+            "context": "claims exceeding stop loss limit reimbursed for plan year 2015"
+          }
+        ],
+        "recommendation": "Obtain documentation to support actual claim payments and ensure audits of claims paid; use detailed claims payment data to ensure claims above stop-loss limit are reimbursed; compare records of enrolled employees to invoices from TPA; retain copies of all health care contracts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 19,
+    "prior_findings_repeated": 5,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "CCPS management concurred with all recommendations, noting specific implementation steps such as installing safes for collections, forming interdepartmental committees for equipment policies, and adjusting software configurations to meet control requirements.",
+    "total_dollar_impact": 5747500.0,
+    "extraction_notes": "Audit period dates derived from Scope section (July 1, 2012 through September 30, 2014). Report date from transmittal letter (July 19, 2016). Prior findings count and repeated status from Status of Findings From Preceding Audit Report section. Dollar amounts converted to integers."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T17:51:54.110936",
+  "content_hash": "912d840f3e1e52ef36e5ba23a2409f92fa0606fb",
+  "duplicate_of": null
+}

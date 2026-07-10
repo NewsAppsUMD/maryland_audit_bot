@@ -1,0 +1,252 @@
+{
+  "extraction": {
+    "agency_name": "Maryland State Department of Education",
+    "parent_department": "Maryland State Department of Education",
+    "report_date": "2016-06-01",
+    "audit_period_start": "2011-07-01",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Statewide Indirect Cost Recoveries Totaling $12.3 Million Were Not Reverted to the General Fund as Required by State Law",
+        "description": "MSDE did not revert statewide indirect cost recoveries for fiscal years 2012 through 2014, totaling approximately $12.3 million, to the State's General Fund as required.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 12300000.0,
+            "context": "statewide indirect cost recoveries totaling"
+          }
+        ],
+        "recommendation": "We recommend that MSDE revert the aforementioned and future statewide indirect cost recoveries to the State's General Fund, as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MSDE Did Not Recover Federal Expenditures in a Timely Manner, Resulting in Lost Interest Income of $140,000",
+        "description": "MSDE did not recover, in a timely manner, $10.4 million in federal funds for expenditures associated with a federal grant under the Library Services Technology Act, resulting in lost interest income totaling $140,000.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 140000.0,
+            "context": "lost interest income of"
+          },
+          {
+            "amount": 10400000.0,
+            "context": "$10.4 million in federal funds for expenditures associated with a federal grant"
+          }
+        ],
+        "recommendation": "We recommend that MSDE ensure that federal funds are recovered in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-12-31"
+      },
+      {
+        "number": 3,
+        "title": "MSDE Improperly Used Interagency Agreements with a State University to Staff Its Chief Information Officer Position, and the Agreements Lacked Details to Facilitate Effective Monitoring",
+        "description": "MSDE improperly used interagency agreements with Towson University to staff its Chief Information Officer (CIO) position. In addition, the related agreements lacked sufficient details to facilitate effective MSDE monitoring of deliverables.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 771000.0,
+            "context": "costs incurred by MSDE for the agreements totaled approximately"
+          },
+          {
+            "amount": 164000.0,
+            "context": "administrative fees of"
+          }
+        ],
+        "recommendation": "We recommend that MSDE a. discontinue its practice of using interagency agreements to hire individuals in lieu of using budgeted positions; b. ensure that agreements contain sufficient details to enable effective monitoring, including assurance that all deliverables are received; and c. ensure that amounts paid under future interagency agreements are reasonable and supported.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "State Regulations for Procuring Services Were Not Always Adhered to and the Procedures for Monitoring Contractor Performance Were Not Sufficient",
+        "description": "MSDE did not always adhere to State regulations when undertaking procurements and its monitoring procedures over contractor performance were not always sufficient.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 277000000.0,
+            "context": "payments... totaling"
+          },
+          {
+            "amount": 20300000.0,
+            "context": "nine service contracts procured by MSDE during the period from July 2011 through May 2014 totaling"
+          },
+          {
+            "amount": 18100000.0,
+            "context": "three contracts totaling approximately"
+          },
+          {
+            "amount": 17200000.0,
+            "context": "two contracts, totaling approximately"
+          },
+          {
+            "amount": 900000.0,
+            "context": "third contract, totaling approximately"
+          },
+          {
+            "amount": 4800000.0,
+            "context": "one of these contracts totaling"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "One of the nine contracts, valued at"
+          },
+          {
+            "amount": 222500.0,
+            "context": "six invoices totaling"
+          },
+          {
+            "amount": 10000.0,
+            "context": "vendor charged approximately"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "four contracts, totaling approximately"
+          },
+          {
+            "amount": 2000000.0,
+            "context": "two contracts tested totaling"
+          }
+        ],
+        "recommendation": "We recommend that MSDE a. maintain adequate procurement documentation, including all bidder proposals and support for all critical considerations and decisions made by evaluation committees; b. ensure that all contracts provide sufficient details as to deliverables to enable effective monitoring of performance; c. ensure that invoices are appropriately verified to supporting documentation and tasks performed; d. review all invoices submitted by the aforementioned IT vendor and take appropriate action, such as recovering overpayments made, including those we identified; and e. ensure compliance with State Procurement Regulations.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-09-30"
+      },
+      {
+        "number": 5,
+        "title": "Certain Collections Were Not Promptly Endorsed and Recorded, and Prenumbered Receipt Forms Were Not Accounted for",
+        "description": "MSDE did not adequately control funds received in its business office. Checks related to grant reimbursements were not recorded and restrictively endorsed immediately upon receipt.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 47400000.0,
+            "context": "funds received in its business office... totaled approximately"
+          },
+          {
+            "amount": 13500000.0,
+            "context": "Checks related to grant reimbursements... totaled approximately"
+          },
+          {
+            "amount": 33900000.0,
+            "context": "local education agencies submitted 128 checks totaling approximately"
+          }
+        ],
+        "recommendation": "We recommend that MSDE a. ensure that collections are restrictively endorsed and recorded immediately upon receipt (repeat); b. maintain complete and accurate records of all prenumbered receipt forms and account for the forms as to issued, voided, or on hand (repeat); and c. pursue requiring large collections to be remitted electronically to enhance accountability and control over the funds.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-11-30"
+      },
+      {
+        "number": 6,
+        "title": "MSDE Did Not Ensure Criminal Background Checks Were Obtained for All Child Care Facility Employees and the Results of Such Checks Indicating Necessary Follow-up Were Not Always Pursued",
+        "description": "MSDE did not adequately ensure that criminal background checks were obtained for all individuals employed at child care facilities and that the results of the initial background checks and any subsequent alerts were adequately pursued.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MSDE a. enhance procedures, as part of its annual inspections, to ensure that all individuals associated with child care facilities are properly recorded in CCATS (repeat); b. ensure that criminal background check results are obtained and reviewed for all individuals working at child care facilities, including those noted above, and that such reviews are documented; and c. ensure that criminal background check alerts are thoroughly reviewed and pursued, including those noted above, and that such reviews and related follow-up actions are documented (repeat).",
+        "agency_agrees": false,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 7,
+        "title": "User Access to the Child Care Administration Tracking System Was Not Adequately Restricted to Only Those Individuals Requiring Access to Perform Their Jobs and to Prevent the Recording of Improper Transactions",
+        "description": "MSDE did not ensure that user access capabilities related to the Child Care Subsidy Program assigned to individuals on CCATS were adequately restricted to prevent improper transactions.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MSDE a. periodically generate and review reports of users' assigned access capabilities, b. restrict user access capabilities for critical functions to those employees who require such capabilities for their job duties and ensure proper segregation of duties and independent review and approval of critical transactions, and c. immediately remove the unnecessary user access capabilities assigned to the aforementioned individuals.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31"
+      },
+      {
+        "number": 8,
+        "title": "Contractors Had Unnecessary Network Level Access to Numerous Critical MSDE Servers and Workstations Unrelated to the Projects They Were Assigned",
+        "description": "Contractors had unnecessary network level access to the MSDE network. These contractors worked both on-site at the MSDE headquarters location and remotely via a virtual private network connection to the MSDE network.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MSDE restrict each contractor's network level access to only those servers and workstations that each contractor needs to access.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 9,
+        "title": "MSDE Did Not Properly Safeguard Sensitive Personally Identifiable Information and Malware Protection Over MSDE Workstations Could Be Inappropriately Disabled",
+        "description": "Controls over sensitive information and malware protection were not sufficient. MSDE inappropriately stored sensitive personally identifiable information (PII) in clear text.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MSDE a. perform an inventory of its systems and identify all sensitive PII, b. determine if it is necessary to retain sensitive PII and delete all unnecessary PII, c. for all retained PII use approved methods to encrypt all sensitive PII not otherwise properly protected, and d. properly configure its anti-malware management console so that users cannot disable their locally installed anti-malware software.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-12-31"
+      },
+      {
+        "number": 10,
+        "title": "Disaster Recovery Plans for Two Locations Were Not Comprehensive and Backups of Certain Critical Databases Were Not Stored Offsite",
+        "description": "MSDE did not have adequate IT plans for recovering from disaster scenarios. Daily backups of two critical databases were not stored offsite.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 17000000.0,
+            "context": "disbursements associated with the rehabilitation of people with disabilities... totaled in excess of"
+          }
+        ],
+        "recommendation": "We recommend that MSDE comply with the IT Disaster Recovery Guidelines by a. developing and implementing comprehensive information systems disaster recovery plans (repeat); and b. storing all backups of critical data at an off-site secure, environmentally controlled location.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-30"
+      },
+      {
+        "number": 11,
+        "title": "MSDE Did Not Make Timely Disclosure to the Appropriate Legal Authorities of Certain Questionable Payroll and Personnel Activity Related to Five Employees",
+        "description": "MSDE did not notify the Governor's Chief Legal Counsel of certain possible criminal or unethical conduct by five employees. MSDE received five allegations of questionable payroll and personnel issues involving five employees.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3592.0,
+            "context": "employee was overpaid"
+          },
+          {
+            "amount": 699.0,
+            "context": "one employee was required to repay"
+          }
+        ],
+        "recommendation": "We recommend that MSDE a. notify the Office of the Attorney General's Criminal Division and the Governor's Chief Legal Counsel of the aforementioned questionable activity and, in the future, notify the appropriate entities in accordance with the aforementioned Executive Order and OAG policy; and b. adhere to guidance from those offices when conducting investigations and imposing disciplinary action.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-03"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MSDE generally agrees with the findings and recommendations. However, it disagrees with Recommendation 5c regarding electronic payments for large collections, disagrees with the Finding and Recommendation 6c regarding criminal background check alerts, and disagrees with the Finding in a post-August 31, 2015 environment for Finding 7. Completion dates for corrective actions range from June 2016 to December 2017.",
+    "total_dollar_impact": 12454291.0,
+    "extraction_notes": "Report date derived from 'June 2016' header. Audit period from Scope section. Dollar amounts converted to integers. Criminal referral status is false as the report states MSDE failed to notify OAG, not that OLA made a referral."
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:30:38.532981",
+  "content_hash": "3804abe00a9b3c165debc6a306b5fa56e2bb3551",
+  "duplicate_of": null
+}

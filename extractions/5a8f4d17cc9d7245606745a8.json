@@ -1,0 +1,86 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2012-07-09",
+    "audit_period_start": "2008-07-16",
+    "audit_period_end": "2011-10-02",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Region Did Not Always Follow Procurement Regulations and Policies",
+        "description": "The Region did not always follow procurement regulations and policies. Specifically, in some cases, the Region did not obtain competitive bids for certain goods, exceeded its procurement authority, and did not adequately verify that purchased goods were actually received.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 125000.0,
+            "context": "commissary purchases not competitively bid"
+          },
+          {
+            "amount": 38000.0,
+            "context": "purchases exceeding procurement authority"
+          },
+          {
+            "amount": 19318.0,
+            "context": "purchase without written solicitations"
+          }
+        ],
+        "recommendation": "a. comply with DPSCS\u2019 Financial Operations Manual by obtaining competitive bids for commissary purchases; b. comply with the procurement delegation authority established by the DPSCS Office of the Secretary; c. comply with the State Procurement Regulations by obtaining written solicitations and posting these solicitations on eMaryland Marketplace, as required; d. verify that the quantity of goods paid for were actually received.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Reconciliations of Inmate Account Balances With the State Comptroller\u2019s Records Were Not Always Prepared Timely",
+        "description": "The total of the individual inmate accounts as maintained by the Region was not reconciled with the corresponding records of the State Comptroller in a timely manner. Reconciliations were performed 53 to 320 days after month-end, and differences were not investigated.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 74000.0,
+            "context": "difference between State Comptroller's balance and Region's balance uninvestigated"
+          }
+        ],
+        "recommendation": "complete the aforementioned reconciliations in a timely manner, investigate differences noted, and take appropriate corrective action",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Procedures and controls over the Region\u2019s commissary materials and supplies inventories were not adequate.",
+        "description": "Procedures and controls over the Region\u2019s commissary supplies were not adequate. Differences between inventory records and physical counts were not properly investigated or resolved.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5834.0,
+            "context": "variance between perpetual inventory records and physical count"
+          },
+          {
+            "amount": 1947.0,
+            "context": "discrepancies in commissary items compared to records"
+          }
+        ],
+        "recommendation": "comply with the requirements of the DGS Inventory Control Manual. Specifically, document investigations of variances between perpetual inventory records and physical counts, and accurately maintain perpetual inventory records.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency disagreed with the recommendation to obtain competitive bids for commissary purchases, citing policy exemptions and privatization plans. They agreed to comply with delegation authority, solicitations, and verification requirements. For Finding 2, they agreed to complete reconciliations monthly and investigate differences.",
+    "total_dollar_impact": 81781.0,
+    "extraction_notes": "Report date derived from signature block (7/9/12). Prior findings count/repeated derived from Status of Findings section. Finding 3 agency response not explicitly stated in provided text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:07:22.442227",
+  "content_hash": "19921bcc44ed51b7e68c750c6abe700165c0d374",
+  "duplicate_of": null
+}

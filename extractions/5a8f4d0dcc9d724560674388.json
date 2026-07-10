@@ -1,0 +1,139 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of the Treasury",
+    "parent_department": "Comptroller of the Treasury",
+    "report_date": "2008-04-25",
+    "audit_period_start": "2003-07-01",
+    "audit_period_end": "2006-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Procedures Used to Detect Individuals Who Failed to File Required Income Tax Returns Could Be Improved",
+        "description": "The Division did not follow up on many potential non-filers identified by match results, and matching was discontinued for tax year 2003. Match procedures used in 2004 excluded many potential non-filers, including 11 individuals with wages totaling approximately $21 million.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21000000.0,
+            "context": "wages of 11 non-filers not detected"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "tax withholdings for the 11 individuals"
+          }
+        ],
+        "recommendation": "Improve procedures to identify and follow up on individuals who fail to file required income tax returns. Include non-filers without current employers in follow-up, perform matches for each tax year, and investigate non-filers for tax years 2003 and 2004.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Procedures Were Lacking for Identifying Taxpayers Who Improperly Itemized Deductions or Claimed the Earned Income Credit",
+        "description": "The Division had no procedures to identify taxpayers who itemized deductions or claimed earned income credit without filing a corresponding federal return. Investigation of 169 cases found approximately 70 occurrences where no federal return was filed, making taxpayers ineligible for credits/deductions.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop procedures to identify and investigate taxpayers who itemized deductions or claimed earned income credit without filing federal returns. Investigate noted taxpayers and take follow-up action such as denial of credits/deductions and recovery of refunds/taxes due.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Potential Benefit of Using Certain Automated Matching Procedures to Help Identify Businesses that Failed to File Required Tax Returns Was Not Adequately Assessed",
+        "description": "The Division did not generate or investigate automated reports identifying employers who reported wages but failed to file withholding returns, nor adequately investigate businesses receiving significant State payments. Follow-up efforts for 10 businesses were insufficient in 8 cases.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Perform automated techniques on a pilot basis to identify businesses that fail to file required returns. Evaluate costs and benefits based on results and maintain documentation of evaluations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Certain Local Subdivisions Did Not Withhold Liquor Licenses From Businesses with Delinquent Tax Liabilities In Apparent Violation of State Law",
+        "description": "The Division has been unable to resolve the failure of two local subdivisions to withhold liquor licenses from businesses with delinquent tax liabilities. As of November 2006, 198 licensees in these subdivisions owed approximately $4 million in unpaid State taxes.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4000000.0,
+            "context": "unpaid State taxes owed by licensees"
+          },
+          {
+            "amount": 4900000.0,
+            "context": "collected under the Project during Jan-June 2006"
+          }
+        ],
+        "recommendation": "Take necessary action to resolve this matter in conjunction with the Office of the Comptroller and the Office of the Attorney General.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Controls Over Certain Cash Receipts Were Not Sufficient",
+        "description": "Controls over receipts collected by accounting and unclaimed property units were not sufficient. Independent verifications of collections totaling approximately $773,000 were not performed for certain days. Deposit verifications were not adequately documented or timely.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 85000000.0,
+            "context": "collections submitted to RAD in FY2006"
+          },
+          {
+            "amount": 108000000.0,
+            "context": "collections received directly by unclaimed property unit in FY2006"
+          },
+          {
+            "amount": 773000.0,
+            "context": "receipts for which verifications were not performed"
+          }
+        ],
+        "recommendation": "Perform verifications of recorded collections to deposit consistently and timely by an independent employee. Document verifications adequately. Have two employees open unclaimed property collections together.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "System Access to Make Critical Adjustments to Taxpayer Accounts Was Not Always Adequately Controlled and Monitored",
+        "description": "Certain employees had system access to make critical adjustments without supervisory review. Some employees had unnecessary access. Supervisory reviews of adjustments totaling approximately $210,000 were not always timely or performed (2 totaling $13,500 not reviewed at all).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 210000.0,
+            "context": "adjustments processed to abate penalties and interest"
+          },
+          {
+            "amount": 184000.0,
+            "context": "adjustments not reviewed until three to eight months after recording"
+          },
+          {
+            "amount": 13500.0,
+            "context": "adjustments not reviewed at all"
+          }
+        ],
+        "recommendation": "Ensure all critical adjustments are subject to supervisory review and approval. Restrict system access to employees who need it for job duties. Review all adjustments recorded to abate penalties and interest in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Division generally agrees with the findings and recommendations but cites resource constraints as a factor in implementation timelines. They note that new positions and technology resources have been requested or approved to address compliance programs. For the liquor license issue, they state the matter was referred to the Attorney General and are pursuing alternative collection methods.",
+    "total_dollar_impact": 4983000.0,
+    "extraction_notes": "Report date taken from transmittal letter (April 25, 2008). Audit period from scope section. Prior findings count based on preceding Compliance Division audit (7 findings). Criminal referral set to false as Attorney General referral did not specify Criminal Division."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:41:28.515803",
+  "content_hash": "7b03d431aa3f1d1701830dea26b559bd4abef454",
+  "duplicate_of": null
+}

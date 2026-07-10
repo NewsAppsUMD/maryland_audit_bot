@@ -1,0 +1,205 @@
+{
+  "extraction": {
+    "agency_name": "Morgan State University",
+    "parent_department": null,
+    "report_date": "2022-09-22",
+    "audit_period_start": "2017-01-04",
+    "audit_period_end": "2021-04-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Morgan State University (MSU) did not adequately monitor the vendor responsible for disbursing student refunds to ensure the refunds were properly issued and unissued refunds were returned.",
+        "description": "MSU did not independently verify that refunds were properly disbursed or that undeliverable refunds were returned to MSU, resulting in incorrect postings of $6,800 found during testing. Student refunds totaled approximately $60.5 million during 2019 and 2020.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 6,
+        "dollar_amounts": [
+          {
+            "amount": 60500000.0,
+            "context": "student refunds during calendar years 2019 and 2020"
+          },
+          {
+            "amount": 4100000.0,
+            "context": "refunds returned to MSU as undeliverable between January 1, 2019 and August 30, 2021"
+          },
+          {
+            "amount": 6800.0,
+            "context": "returned refunds posted to wrong student accounts in testing"
+          }
+        ],
+        "recommendation": "MSU should perform independent reviews to ensure the vendor properly issued refunds and returned amounts not disbursed, establish an independent review process for returned refunds credited to student accounts, and correct recording discrepancies.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-12-31"
+      },
+      {
+        "number": 2,
+        "title": "MSU did not independently verify the propriety of adjustments to student room and board charges, certain of which were not processed in accordance with MSU policy.",
+        "description": "Adjustments reducing room and board charges by approximately $16.9 million lacked independent verification as the reviewing employee could also process adjustments. Testing found three adjustments totaling $13,150 were not processed per policy due to timing or missing forms.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 5,
+        "dollar_amounts": [
+          {
+            "amount": 16900000.0,
+            "context": "adjustments reducing room and board charges between January 2019 and April 2021"
+          },
+          {
+            "amount": 46470.0,
+            "context": "significant account adjustments collectively reducing charges in testing"
+          },
+          {
+            "amount": 13150.0,
+            "context": "adjustments not processed in accordance with MSU policy in testing"
+          }
+        ],
+        "recommendation": "MSU should ensure adjustments are properly supported and subject to independent supervisory review, document justification for policy deviations, and take appropriate action on identified adjustments.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-09-30"
+      },
+      {
+        "number": 3,
+        "title": "Reviews of changes to student residency status were either not documented or not independent; and certain changes were not subject to review because system output reports used for this purpose were incomplete.",
+        "description": "Supervisory reviews of residency status changes were not documented or independent, and system reports did not include all change transactions. Accurate residency determination is critical due to significant tuition rate differences between residents and non-residents.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 7,
+        "dollar_amounts": [],
+        "recommendation": "MSU should ensure independent documented supervisory reviews of student residency changes are performed using output reports that include all changes made.",
+        "agency_agrees": false,
+        "agency_completion_date": "2022-12-31"
+      },
+      {
+        "number": 4,
+        "title": "MSU did not adequately review deferred payment plan agreements to ensure they were proper.",
+        "description": "Testing of 12 large agreements totaling $53,900 found that 11 agreements reviewed by a non-independent employee. MSU also failed to use system reports for all agreements or establish a maximum rollover amount consistent with state law ($250).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 39600000.0,
+            "context": "deferred by students through payment plans between February 7, 2017 and July 1, 2021"
+          },
+          {
+            "amount": 53900.0,
+            "context": "large agreements tested in fiscal years 2019 to 2021"
+          }
+        ],
+        "recommendation": "MSU should perform documented independent supervisory reviews of all deferred payment plan agreements and establish the maximum amount allowed to be rolled into a subsequent semester consistent with state law.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-12-31"
+      },
+      {
+        "number": 5,
+        "title": "MSU did not periodically ensure that all eligible delinquent accounts were referred to CCU within the required time period.",
+        "description": "Testing disclosed numerous accounts referred as much as 10 months late. As of April 2021, there were 974 student accounts with unpaid balances totaling approximately $2 million from Summer 2020 and earlier.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2000000.0,
+            "context": "unpaid balances from Summer 2020 and earlier as of April 2021"
+          },
+          {
+            "amount": 774000.0,
+            "context": "unpaid balances from Fall 2019 semester"
+          },
+          {
+            "amount": 476000.0,
+            "context": "unpaid balances from Spring 2019 semester"
+          },
+          {
+            "amount": 129700.0,
+            "context": "test of accounts not referred to CCU within period established by regulations"
+          }
+        ],
+        "recommendation": "MSU should establish procedures to periodically review student accounts to ensure all eligible delinquent accounts are referred to CCU in accordance with regulations.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-12-31"
+      },
+      {
+        "number": 6,
+        "title": "MSU did not conduct comprehensive reviews of honors scholarship awards to ensure the awards were proper, and did not take required action when students did not maintain their eligibility. As a result, certain awards were overstated or issued to ineligible students.",
+        "description": "Honors scholarships awarded totaled approximately $21.3 million from 2017 through 2021. Testing found one award exceeded the maximum limit by $17,900 and two awards totaling $55,400 were made to ineligible students who received $106,800 while ineligible.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21300000.0,
+            "context": "honors scholarships awarded during Fall and Spring semesters from 2017 through 2021"
+          },
+          {
+            "amount": 81800.0,
+            "context": "honors scholarships tested in fiscal years 2019 or 2021"
+          },
+          {
+            "amount": 27900.0,
+            "context": "award exceeding the $10,000 maximum annual award limit"
+          },
+          {
+            "amount": 55400.0,
+            "context": "awards made to students who were not eligible"
+          }
+        ],
+        "recommendation": "MSU should conduct comprehensive reviews of supporting documentation for initial honors scholarship awards and take required action when a student is no longer eligible.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-08-31"
+      },
+      {
+        "number": 7,
+        "title": "MSU did not procure certain goods and services in accordance with its policies and procedures, and did not ensure related goods and services were received and amounts invoiced were proper.",
+        "description": "MSU failed to competitively procure or obtain BPW approval for security guard services totaling $7.8 million, procured computer hardware without soliciting pre-qualified vendors, paid beyond contract stipulations by $294,300, and incurred $890,000 in liquidated damages due to lack of documentation.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 10,
+        "dollar_amounts": [
+          {
+            "amount": 217500000.0,
+            "context": "purchase orders issued during audit period"
+          },
+          {
+            "amount": 99738883.0,
+            "context": "value of seven contracts collectively reviewed"
+          },
+          {
+            "amount": 7847348.0,
+            "context": "security guard services payments as of April 2021"
+          },
+          {
+            "amount": 6500000.0,
+            "context": "individual purchase orders for security guard services"
+          },
+          {
+            "amount": 294300.0,
+            "context": "payments to vendor exceeding contract value"
+          },
+          {
+            "amount": 890000.0,
+            "context": "liquidated damages paid for emergency procurement of student housing"
+          }
+        ],
+        "recommendation": "MSU should competitively procure and execute contracts in accordance with policies, obtain BPW approval as required, verify goods and services received, document emergency procurements, and recover improperly paid amounts.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-12-31"
+      }
+    ],
+    "prior_findings_count": 17,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MSU generally agreed with the recommendations but disagreed on specific cybersecurity and procurement recovery items. The agency cited pandemic staffing shortages and policy interpretations as reasons for disagreement or delays in implementation.",
+    "total_dollar_impact": 1312550.0,
+    "extraction_notes": "Findings 8-10 were redacted due to cybersecurity status and excluded from structured extraction."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 7, regex counted 11",
+    "dollar_amount_not_in_text: finding 2 amount 16900000.0",
+    "repeat_count_mismatch: extracted 4, asterisk markers 3"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:23:56.858644",
+  "content_hash": "e7ccce2ca43626704e566b0ef0d40fb66501f695",
+  "duplicate_of": null
+}

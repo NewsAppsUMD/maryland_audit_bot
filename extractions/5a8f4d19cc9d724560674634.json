@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2015-06-01",
+    "audit_period_start": "2011-08-31",
+    "audit_period_end": "2015-01-04",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Adequate controls were not established over disbursements.",
+        "description": "The Office had not established adequate controls over disbursements as two employees had the capability to process disbursements in the Office\u2019s automated records without independent approval and were authorized check signers. As a result, these individuals could potentially process an unauthorized disbursement without detection.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2400000.0,
+            "context": "disbursements processed during fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that the Office segregate duties so that the employees responsible for processing disbursements are no longer authorized to sign checks.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office\u2019s response to our findings and recommendations is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'June 2015' as no specific transmittal letter date was provided in the text. Agency response summary reflects statement that response is in an appendix not included in the provided text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:31:50.814772",
+  "content_hash": "e16434bc23df9614451e808d428fa4ad2781d814",
+  "duplicate_of": "5a8f4d19cc9d724560674630"
+}

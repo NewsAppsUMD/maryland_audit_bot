@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "agency_name": "Potomac River Fisheries Commission",
+    "parent_department": null,
+    "report_date": "2008-07-29",
+    "audit_period_start": "2006-07-01",
+    "audit_period_end": "2007-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Improve Continuity and Disaster Recovery Plans",
+        "description": "The Potomac River Fisheries Commission does not have an adequate business impact analysis, risk assessment, continuity of operations plan or disaster recovery plan for its sensitive and mission critical applications. Inadequate documentation places the confidentiality, integrity, and availability of information at risk.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Commission should apply the industry best practices consistently to all applications housing sensitive and mission critical information. The Commission should start this process by dedicating the necessary resources to review and remediate the risks to their sensitive and mission critical applications.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "Management agreed to implement the recommendation but did not provide a written response in the report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from Maryland OLA transmittal letter (July 29, 2008). Audit period inferred from 'Year Ended June 30, 2007'. No parent department explicitly stated. No dollar amounts tied to the finding."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 1, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:03:04.561214",
+  "content_hash": "bd5ffa2d76248d31bcf4864e44ae6e3b97d089d0",
+  "duplicate_of": null
+}

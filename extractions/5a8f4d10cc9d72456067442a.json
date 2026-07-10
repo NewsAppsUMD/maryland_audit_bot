@@ -1,0 +1,48 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2016-07-01",
+    "audit_period_start": "2011-10-12",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "GAD did not effectively account for and monitor agency cash advances and related working fund bank accounts.",
+        "description": "As of August 31, 2015, GAD's oversight efforts were ineffective. The master list was incomplete (missing 24 accounts), required reports were not received or followed up on, and discrepancies between agency records and FMIS totaling $966,800 were not fully addressed.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 11800000.0,
+            "context": "GAD had issued 171 advances totaling approximately $11.8 million"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "related cash advances totaled $1.3 million for these 24 bank accounts not in master list"
+          },
+          {
+            "amount": 966800.0,
+            "context": "differences between cash advances agencies had accounted for and FMIS... in the aggregate, totaled $966,800"
+          }
+        ],
+        "recommendation": "a. maintain a complete master list of State agency working fund bank accounts and cash advances; b. ensure agencies submit annual reports as required; c. thoroughly review all agency reports, take appropriate action for differences identified, and require supporting documentation for significant reconciling items.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "GAD accepts the recommendations and notes that management was already aware of issues prior to OLA's arrival. They implemented changes including a formal accounting review process and detailed worksheets in fall 2014/early 2016. GAD asserts discrepancies were immaterial or reconciled via FMIS records.",
+    "total_dollar_impact": 966800.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:39:47.071931",
+  "content_hash": "e60d0cd5500c658cd086198232fa3f082ea2b8f6",
+  "duplicate_of": null
+}

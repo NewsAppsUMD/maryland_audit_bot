@@ -1,0 +1,60 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": null,
+    "audit_period_start": "2012-08-02",
+    "audit_period_end": "2015-07-19",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office of the Commissioner of Financial Regulation (OCFR) did not adequately document its determination of the amounts of financial penalties assessed to mortgage licensees.",
+        "description": "OCFR failed to adequately document how it determined penalty amounts for mortgage licensees following examinations. State law allows up to $5,000 per violation with specific criteria including seriousness and previous violations, but OCFR did not routinely document consideration of these criteria or negotiation effects. Testing of 10 penalties showed 8 were reduced by a total of $232,200 (from an aggregate of $300,000 to $67,800), yet OCFR lacked documentation on how criteria factored into the determination.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 232200.0,
+            "context": "total reduction from initial recommendations"
+          },
+          {
+            "amount": 105000.0,
+            "context": "one penalty reduced from this amount"
+          },
+          {
+            "amount": 25000.0,
+            "context": "one penalty reduced to this amount"
+          },
+          {
+            "amount": 300000.0,
+            "context": "aggregate initial recommendations"
+          },
+          {
+            "amount": 67800.0,
+            "context": "aggregate final assessed penalties"
+          },
+          {
+            "amount": 169000.0,
+            "context": "penalty payments received in fiscal year 2015"
+          }
+        ],
+        "recommendation": "We recommend that OCFR document its determination of penalty amounts assessed against mortgage licensees, including how criteria established in the law were used to determine the penalty amounts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "OCFR agrees with Finding 1 and the recommendation, stating they have corrected the issue by adopting a new policy in April 2015 and a Sample Memorandum in October 2015. These documents ensure that six specific factors (seriousness of violation, good faith, history, public effect, assets, other relevant) are considered and documented when determining monetary penalties for consensual resolutions.",
+    "total_dollar_impact": 232200.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:20:12.952801",
+  "content_hash": "80c4090c526eb8c7cb3b06c8eb969a02e9205253",
+  "duplicate_of": "5a8f4d10cc9d724560674410"
+}

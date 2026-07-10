@@ -1,0 +1,274 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Transportation - Motor Vehicle Administration",
+    "parent_department": "Maryland Department of Transportation",
+    "report_date": "2017-11-01",
+    "audit_period_start": "2012-07-25",
+    "audit_period_end": "2015-12-14",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Although an internal investigation revealed that the Motor Vehicle Administration (MVA) issued 270 fraudulent federally non-compliant driver\u2019s licenses and identification cards, the scope was limited and we found many additional products that may have been issued improperly. MVA also did not alter its procedures to correct the related control deficiencies.",
+        "description": "An internal investigation identified 270 improperly issued federally non-compliant licenses based on counterfeit documents, but MVA did not expand the scope or address control deficiencies regarding automated verification for walk-in applicants. OLA's expanded analysis identified additional instances of potentially fraudulent documentation and improper use of Comptroller letter control numbers.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop procedures for automated verification of federally non-compliant applicants; identify improperly used control numbers and investigate; expand address reviews; investigate OLA's analysis results and cancel cards; consult with the Office of the Attorney General \u2013 Criminal Division.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Adequate controls were not established over MVA\u2019s inventory stock of blank driver\u2019s license and identification cards.",
+        "description": "One employee had unilateral control over blank card inventory, including ordering, receiving, and recording without independent review. A purchase of 328,200 cards showed a difference of 7,500 cards not recorded in the system for testing purposes with no documentation of disposition.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Separate duties relating to procurement, receipt, and recording; develop independent supervisory review for all cards received; determine and document disposition of the 7,500 unrecorded cards.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MVA did not ensure that all driving records were reviewed for possible administrative action, and our tests disclosed several records for which required administrative action was not taken.",
+        "description": "Certain driving records with accumulated points were erroneously excluded from review procedures. Testing of excluded records showed that required administrative actions such as license suspension were not taken against drivers who should have been subject to them.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure all driving records with 8 and 12 accumulated points are reflected on reports for review; investigate the 8 identified records; identify and investigate other unreviewed records.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "MVA did not ensure that required supervisory reviews of critical transactions recorded on driving records were adequately performed and documented.",
+        "description": "Required supervisory reviews of five percent of critical transactions were not always performed or documented. Testing showed some employees had no reviewed transactions, and some reviews were falsely indicated for transactions that had not been scanned into the system.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Conduct supervisory reviews of critical transactions in accordance with policy; ensure all such reviews are adequately and accurately documented.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MVA did not ensure that labor rates included in a $21.4 million information technology (IT) contract were the most favorable available, and MVA\u2019s procedures for monitoring IT contracts and billings did not ensure hours billed were reasonable, receipt of deliverables, and compliance with contract terms.",
+        "description": "MVA procured an IT contract at higher labor rates than available through a State master contract. Procedures lacked comprehensive task orders, evidence of deliverable completion, review of contractor employee qualifications, and adequate invoice review leading to overpayments.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21400000.0,
+            "context": "IT contract value"
+          },
+          {
+            "amount": 57200000.0,
+            "context": "collective value of four IT contracts examined"
+          },
+          {
+            "amount": 40200000.0,
+            "context": "related payments as of May 11, 2017"
+          },
+          {
+            "amount": 272000.0,
+            "context": "potential additional cost due to higher rates"
+          },
+          {
+            "amount": 7609.0,
+            "context": "overpayment on invoices tested compared to CATS rates"
+          },
+          {
+            "amount": 97279.0,
+            "context": "overpayment due to excluded work in task order proposals"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "invoices for software modifications reviewed"
+          },
+          {
+            "amount": 27992.0,
+            "context": "accrued hours owed to contractor not monitored"
+          },
+          {
+            "amount": 6552.0,
+            "context": "overpayments due to higher hourly rates charged"
+          }
+        ],
+        "recommendation": "Obtain lowest labor rates available; establish task orders with estimated hours and costs; review task order proposals; monitor contracts for deliverables and employee qualifications; ensure billings reflect approved rates; perform documented invoice reviews to identify overpayments.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "MVA did not adequately control electronically submitted vendor bids.",
+        "description": "Electronic bids were not password protected, opened publicly, or documented. Review of five procurements totaling $3.8 million showed MVA did not properly secure electronic bids or hold bid openings in public.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3800000.0,
+            "context": "value of five procurements with electronic bids reviewed"
+          }
+        ],
+        "recommendation": "Establish procedures to secure electronically submitted bids; ensure all competitively sealed bids are opened publicly; maintain documentation of bid openings.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "MVA did not have adequate procedures to ensure that differences between recorded collections and amounts deposited by branch offices were adequately investigated and resolved.",
+        "description": "Discrepancies between recorded fee collections and bank deposits were not always adequately investigated or documented. Investigations of chargeback transactions were insufficient, often relying solely on MVA records without examining source documents.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 184000.0,
+            "context": "total of 13 branch deposits tested"
+          },
+          {
+            "amount": 94900.0,
+            "context": "discrepancies totaling in the 13 deposits tested"
+          },
+          {
+            "amount": 18300.0,
+            "context": "discrepancies considered resolved without investigation"
+          },
+          {
+            "amount": 5000.0,
+            "context": "bank erroneously credited to resolve a deposit difference"
+          },
+          {
+            "amount": 23600000.0,
+            "context": "total of discrepancies identified from July 1, 2014 through March 7, 2016"
+          },
+          {
+            "amount": 14000000.0,
+            "context": "adjusting entries to clear the chargeback clearing account for audit period"
+          }
+        ],
+        "recommendation": "Ensure differences are adequately investigated with supporting documentation; maintain adequate documentation of investigations; provide for supervisory review and approval.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Collections received at MVA headquarters for vehicle registration renewals processed at county offices were not adequately controlled.",
+        "description": "Checks from county offices were not always recorded and endorsed immediately upon receipt. Duties were not segregated as the same employee received checks and performed reconciliations. Monitoring of timely receipt of funds and documentation was lacking.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3700000.0,
+            "context": "amounts remitted to MVA by 12 counties during fiscal year 2015"
+          },
+          {
+            "amount": 99700.0,
+            "context": "total of 10 checks tested"
+          },
+          {
+            "amount": 45600.0,
+            "context": "checks dated from 10 to 29 business days after renewal date"
+          },
+          {
+            "amount": 37300.0,
+            "context": "total of checks where required supporting documentation was not submitted"
+          }
+        ],
+        "recommendation": "Secure checks prior to deposit and ensure they are recorded and endorsed immediately; segregate cash collection, account monitoring, and deposit verification functions; monitor county transactions to ensure collections and documentation are received weekly.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Controls over the virtual server environment did not properly protect critical virtual servers.",
+        "description": "Twenty-four user accounts were improperly granted administrator role over the central management console, allowing unauthorized changes to virtual servers supporting critical systems like eStore.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict administrative access to the virtual server environment to individuals whose job duties require such access.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Procedures for securing MVA\u2019s numerous computers were not sufficient.",
+        "description": "Testing determined that 607 of approximately 3,900 workstations and servers did not have malware protection. There was no documentation substantiating periodic comparisons of computer counts from malware consoles to directory services.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure all managed computers are running current malware protection software by performing periodic comparisons; document these comparisons and retain documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Employees responsible for reviewing and approving changes to critical data relating to the Ignition Interlock Program also had access capability allowing them to change these data, compromising effective internal control over the Program.",
+        "description": "Seven employees with approval authority also had access to adjust critical data and could delete transaction records after making changes, potentially allowing improper transactions to be recorded without detection.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure all changes to critical IIP information are subject to independent supervisory review; remove the IIP transaction deletion capability from all users.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "MVA did not adequately monitor corporate purchasing card purchases and did not always comply with related State policies and procedures.",
+        "description": "Testing disclosed purchases split into smaller transactions to circumvent limits. Supervisory personnel did not perform documented reviews of Level-3 data. MVA did not maintain a list of disputed transactions or follow up timely on reported fraudulent transactions.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1900000.0,
+            "context": "total expenditures during fiscal year 2016"
+          },
+          {
+            "amount": 53000.0,
+            "context": "value of 25 purchasing card transactions tested"
+          },
+          {
+            "amount": 35640.0,
+            "context": "purchases appearing to have been split into smaller transactions"
+          },
+          {
+            "amount": 2500.0,
+            "context": "cardholder single transaction spending limit"
+          },
+          {
+            "amount": 1071.0,
+            "context": "total of six fraudulent transactions reported to the bank where credit had not been received"
+          }
+        ],
+        "recommendation": "Ensure CPC transactions are not split; incorporate and document use of Level-3 purchasing card data in supervisory reviews; establish procedures to follow up on potentially fraudulent transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Maryland Department of Transportation (on behalf of MVA) generally concurred with all findings and recommendations, noting that procedures had been implemented or were in progress to address control deficiencies. Specific completion dates ranged from late 2016 to mid-2018 for various programming and procedural changes.",
+    "total_dollar_impact": 23795411.0,
+    "extraction_notes": "Report date inferred as November 2017 (first day of month). Dollar amounts converted from text. Criminal referral set to false as MVA referred their own investigation results, not OLA making a new referral in this report."
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:35:29.240861",
+  "content_hash": "37f8e7c89a5df21a7f76ca775451c2f87d53ad73",
+  "duplicate_of": "5a8f4d14cc9d7245606744e1"
+}

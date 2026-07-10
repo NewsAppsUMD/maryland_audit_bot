@@ -1,0 +1,88 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Lottery and Gaming Control Commission",
+    "parent_department": "Maryland Lottery and Gaming Control Commission",
+    "report_date": "2016-04-01",
+    "audit_period_start": "2013-01-01",
+    "audit_period_end": "2013-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain Amended Minority Participation Goals Were Not Established by MLGCC for Four Licensees",
+        "description": "As of February 4, 2016, the Maryland Lottery and Gaming Control Commission (MLGCC) had not established certain amended minority participation goals for four of the six video lottery terminal licensees. Without properly established goals, MLGCC will be unable to encourage and assess licensee achievement of those goals or take appropriate action against non-compliant licensees.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MLGCC establish amended minority participation goals for all categories in which VLT licensees have expenditures.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "GOMA Did Not Have a Comprehensive Process to Verify that Expenditure Data Reported by Licensees Was Accurate and Complete and Did Not Take Follow-up Action to Obtain the Required Information Not Reported by Certain Licensees",
+        "description": "GOMA did not have a comprehensive process in place to verify expenditure data accuracy, completeness, or format for calendar year 2013. This resulted in inaccurate and incomplete data being included in MLGCC's report. Specific errors included misclassified costs totaling $17.8 million, duplicate listings of $6.7 million, improperly excluded costs of $900,000, and omitted expenditure data for two licensees ($14.4 million and $13.2 million).",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 17800000.0,
+            "context": "misclassified architectural and engineering costs as construction costs"
+          },
+          {
+            "amount": 6700000.0,
+            "context": "listed the same payment twice in its construction costs"
+          },
+          {
+            "amount": 900000.0,
+            "context": "improperly excluded non-employee insurance costs from operations costs"
+          },
+          {
+            "amount": 14424376.0,
+            "context": "operations expenditures not reported due to inability to segregate casino activity"
+          },
+          {
+            "amount": 13200000.0,
+            "context": "expenditure data provided by a second licensee totaling $13.2 million was not reported because it was not complete and had not yet been verified"
+          }
+        ],
+        "recommendation": "We recommend that GOMA establish a formal process to verify the accuracy and completeness of expenditure data reported by the licensees; require licensees to submit all required expenditure data in the proper format; and report to MLGCC the complete licensee minority participation information, including notification of non-compliance.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MLGCC Did Not Review the Reported VLT Licensee Information Received from GOMA to Ensure It Was Complete and Accurate",
+        "description": "MLGCC did not review reported licensee information received from GOMA to ensure completeness and accuracy. A miscalculation by GOMA of approximately $1.3 million in construction expenditures was undetected by MLGCC, resulting in errors included in the 2013 annual report to the Governor and General Assembly.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000.0,
+            "context": "undetected miscalculation by GOMA resulting in an omission of approximately $1.3 million in Horseshoe Casino Baltimore's construction expenditures"
+          }
+        ],
+        "recommendation": "We recommend that MLGCC ensure the minority participation results it receives from GOMA are reasonably complete and accurate; or as an alternative, consider requiring licensees to provide audited information in a format that presents the minority participation levels achieved for construction and operational procurements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MLGCC agreed with the recommendations to establish amended Minority Business Enterprise participation goals for all categories in which VLT Licensees have current expenditures and to ensure minority participation results received from GOMA are reasonably complete and accurate. MLGCC stated they plan to issue MBE goals for ongoing operations expenditures in the near future and have developed a certification form with GOMA implemented in January 2016 to improve verification processes.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'April 2016'. Audit period based on 'calendar year 2013 information'. Prior findings count and repeated status derived from 'Status of Findings From Preceding Audit Report' section. Dollar amounts extracted from Conclusions and Finding Analysis sections."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 2 amount 6700000.0",
+    "repeat_count_mismatch: extracted 3, asterisk markers 1"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T22:47:11.219695",
+  "content_hash": "da3724bebb7b242da9f4ee12066934599c74c3a2",
+  "duplicate_of": "5a945d3acc9d72404c150a52"
+}

@@ -1,0 +1,133 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Agricultural Land Preservation Foundation",
+    "parent_department": "Maryland Department of Agriculture",
+    "report_date": "2008-09-04",
+    "audit_period_start": "2006-07-01",
+    "audit_period_end": "2007-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "A Comprehensive Listing of All Easement Acquisitions Was Not Maintained",
+        "description": "MALPF did not maintain a comprehensive listing or database of all easements purchased, resulting in discrepancies between the cost reported to the General Assembly ($490 million) and State accounting records ($337 million), with $62 million unexplained.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 490000000.0,
+            "context": "total cost of easement acquisitions since inception"
+          },
+          {
+            "amount": 337000000.0,
+            "context": "amount recorded on State's accounting records"
+          },
+          {
+            "amount": 153000000.0,
+            "context": "difference between reported and State accounting records"
+          },
+          {
+            "amount": 91000000.0,
+            "context": "attributable to outstanding offers not capitalized"
+          },
+          {
+            "amount": 62000000.0,
+            "context": "difference that could not be readily explained"
+          }
+        ],
+        "recommendation": "MALPF should maintain a comprehensive database of all easement acquisitions and accurately report this information in Annual Reports reconciled to State accounting records. MALPF should also investigate the discrepancy and take appropriate corrective action.",
+        "agency_agrees": true,
+        "agency_completion_date": "2008-12-31"
+      },
+      {
+        "number": 2,
+        "title": "Controls Over Easement Acquisitions and County Billings for Easement Costs Were Inadequate",
+        "description": "MALPF lacked adequate procedures for independent review documentation of critical calculations and billing counties for their share of easement costs, resulting in one county not being invoiced $390,000.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 35000000.0,
+            "context": "total easement acquisitions during fiscal year 2007"
+          },
+          {
+            "amount": 13100000.0,
+            "context": "county funds used for easement acquisitions during fiscal year 2007"
+          },
+          {
+            "amount": 390000.0,
+            "context": "share of an easement acquisition not invoiced to a county"
+          }
+        ],
+        "recommendation": "Critical calculations should be reviewed by an independent employee and documented. MALPF should establish procedures to ensure all amounts due from counties for easements are properly invoiced.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "County Programs Were Not Properly Certified, Resulting in Certain Counties Improperly Retaining Transfer Taxes",
+        "description": "Certification processes for county programs were inadequate, with six counties retaining transfer taxes at a higher rate than allowed due to expired certifications.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 750000.0,
+            "context": "transfer tax revenue remitted to the State by six non-certified counties"
+          },
+          {
+            "amount": 2000000.0,
+            "context": "amount these counties would have remitted if properly certified"
+          }
+        ],
+        "recommendation": "MALPF should establish a process to timely monitor certification status and ensure taxes remitted are consistent. MALPF should determine the legality of recovering any transfer taxes retained by counties with expired certifications.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "MALPF Did Not Ensure that Counties Properly Used Their Share of Transfer Taxes or Remitted Unused Funds to the State as Required",
+        "description": "MALPF lacked a process to monitor county use of transfer taxes or ensure remittance of unused funds; annual reports were missing from 9 counties and others were non-compliant.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4500000.0,
+            "context": "agricultural land transfer taxes remitted to the State during fiscal year 2007"
+          }
+        ],
+        "recommendation": "MALPF should establish a procedure to obtain and review required annual reports and audited financial statements. MALPF should also review prior years' usage of agricultural transfer tax and recoup any taxes due or improperly used.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Easement Inspections Were Not Performed as Required",
+        "description": "MALPF lacked procedures to ensure required annual inspections of easement properties were performed by counties; 97 of 173 required reports for calendar year 2006 were missing.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MALPF should take appropriate action to ensure easement inspections are performed as required, including establishing a process for all annual inspections and follow-up actions when counties fail to provide them.",
+        "agency_agrees": true,
+        "agency_completion_date": "2008-12-31"
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Maryland Department of Agriculture and MALPF concur with all findings and recommendations. They noted ongoing efforts to create a comprehensive database for easement acquisitions, update regulations regarding certification programs, and establish new procedures for inspections and financial monitoring.",
+    "total_dollar_impact": 63640000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 153000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:56:34.470928",
+  "content_hash": "564024df46d18784afb1f62ced9eb57fa24866a9",
+  "duplicate_of": null
+}

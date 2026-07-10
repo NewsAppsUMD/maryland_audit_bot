@@ -1,0 +1,85 @@
+{
+  "extraction": {
+    "agency_name": "Department of Agriculture",
+    "parent_department": "Department of Agriculture",
+    "report_date": "2016-05-01",
+    "audit_period_start": "2012-07-16",
+    "audit_period_end": "2015-08-20",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Adequate controls were not established over cash receipts and the related registrations issued in one unit.",
+        "description": "The Maryland Department of Agriculture (MDA) had not established adequate controls over certain cash receipts and the related registrations issued in one MDA unit. The unit's collections totaled approximately $2.8 million during fiscal year 2015, including amounts collected through a lockbox account and by the unit itself. An employee received cash receipts and recorded data without independent supervisory review, and no independent reconciliation of registration value with revenue deposited was performed.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2800000.0,
+            "context": "unit's collections totaled"
+          },
+          {
+            "amount": 2500000.0,
+            "context": "collected through the MDA lockbox account"
+          },
+          {
+            "amount": 300000.0,
+            "context": "collected by the MDA unit"
+          }
+        ],
+        "recommendation": "Establish a process for supervisory review and approval of registrations issued independent of registration and cash receipts processes; independently reconcile total value of registrations issued and fees collected with related revenues deposited.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Control deficiencies exist over equipment records and physical inventories.",
+        "description": "MDA's physical inventory and equipment recordkeeping procedures were inadequate and not in accordance with the Department of General Services Inventory Control Manual. Equipment inventory totaled approximately $8.3 million as of November 17, 2015. Control accounts were not properly maintained, sensitive items were not inventoried annually (including 1,452 items valued at $1.4 million), and some equipment purchases were not recorded in detail records.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8300000.0,
+            "context": "equipment inventory as of November 17, 2015 totaled"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "recorded cost of sensitive items not inventoried within one year"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "not been inventoried within the last three years"
+          },
+          {
+            "amount": 354000.0,
+            "context": "test of equipment purchases totaling"
+          },
+          {
+            "amount": 179000.0,
+            "context": "purchases not recorded in detail records"
+          },
+          {
+            "amount": 540763.0,
+            "context": "items incorrectly classified as non-sensitive"
+          }
+        ],
+        "recommendation": "Comply with the Inventory Control Manual requirements.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that MDA's response to findings and recommendations is included as an appendix, but the content of the response is not provided in this text.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'May 2016'. Agency agreement status and completion dates are null as the specific response text was noted to be in an appendix but not included in the provided document."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:26:11.287616",
+  "content_hash": "c660c15e3ea0fad416aed69ae023ddad207c4636",
+  "duplicate_of": null
+}

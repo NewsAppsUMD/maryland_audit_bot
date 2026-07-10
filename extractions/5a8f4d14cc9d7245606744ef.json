@@ -1,0 +1,102 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2009-12-22",
+    "audit_period_start": "2008-05-12",
+    "audit_period_end": "2009-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain recordkeeping and inventory deficiencies hindered adequate control over the equipment liquidation process.",
+        "description": "Recordkeeping and inventory deficiencies hindered control over equipment during liquidation. Approximately 2,994 items with a book value of $1.9 million remained at the Center as of June 30, 2009. Physical inventories were not conducted prior to liquidation, and four items totaling $18,301 could not be located.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1900000.0,
+            "context": "inventory book value of remaining items"
+          },
+          {
+            "amount": 37533.0,
+            "context": "value of tested equipment items recorded on detailed records"
+          },
+          {
+            "amount": 18301.0,
+            "context": "value of missing equipment items that could not be located"
+          }
+        ],
+        "recommendation": "DHMH should ensure adequate accountability for all equipment to facilitate the liquidation process, ensure facilities perform physical inventories as required, and investigate missing items.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-05-31"
+      },
+      {
+        "number": 2,
+        "title": "The Center lacked sufficient documentation to support the disposition of donated funds.",
+        "description": "The Center lacked sufficient documentation to support that donated funds were used as intended. As of June 30, 2008, donated funds totaled $580,102. Approximately $143,000 was spent on client medical equipment and $6,000 directly to a private facility without adequate documentation.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 580102.0,
+            "context": "value of donated funds as of June 30, 2008"
+          },
+          {
+            "amount": 143000.0,
+            "context": "amount spent on client medical equipment"
+          },
+          {
+            "amount": 6000.0,
+            "context": "amount disbursed directly to a private facility"
+          },
+          {
+            "amount": 28740.0,
+            "context": "bequest not expended on Rosewood consumers reverted to State general fund"
+          }
+        ],
+        "recommendation": "DHMH should determine the disposition of all items purchased with donated funds.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The Center could not document the disposition of certain bank accounts and the propriety of certain corporate purchasing card transactions.",
+        "description": "The Center lacked documentation to support the disposition of certain bank accounts and the propriety of certain corporate purchasing card transactions. The Center retained a client working fund advance of $13,000 and client funds of approximately $56,000 without proper reconciliation. Additionally, $6,350 was spent on gift cards in circumvention of limits.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13000.0,
+            "context": "client working fund advance retained as of July 30, 2009"
+          },
+          {
+            "amount": 56000.0,
+            "context": "client funds retained as of July 30, 2009"
+          },
+          {
+            "amount": 6350.0,
+            "context": "total spent for gift cards on two separate occasions"
+          }
+        ],
+        "recommendation": "DHMH should ensure the proper disposition of bank accounts to ensure funds were used properly and remaining funds accounted for, and determine the propriety of gift card purchases.",
+        "agency_agrees": true,
+        "agency_completion_date": "2010-04-30"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Administration concurs with all recommendations and provided completion dates for specific actions regarding inventory reconciliation and bank account disposition. They confirmed that items purchased with donated funds were determined to be used by consumers.",
+    "total_dollar_impact": 24651.0,
+    "extraction_notes": "Total dollar impact calculated as sum of unaccounted equipment ($18,301) and questioned gift card spending ($6,350). Prior findings status not found in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T06:26:41.835858",
+  "content_hash": "3c64323582e6f9ca11fbf0c71862fbf9d17c6da4",
+  "duplicate_of": null
+}

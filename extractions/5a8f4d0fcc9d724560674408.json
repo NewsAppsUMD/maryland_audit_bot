@@ -1,0 +1,48 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of the Treasury",
+    "parent_department": "Comptroller of the Treasury",
+    "report_date": "2008-07-02",
+    "audit_period_start": "2003-12-08",
+    "audit_period_end": "2007-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Field Enforcement Division (FED) did not perform physical inventories of confiscated property and update the related inventory records as required. In addition, controls over cash received from sales of confiscated property were inadequate.",
+        "description": "Physical inventories of confiscated property were not performed as required and the related inventory records were not updated timely. Controls over cash received from sales of confiscated property were inadequate. Specifically, FED had not conducted a physical inventory since May 2005 (required every six months) and had not updated detail inventory records to reflect sales/destructions since January 2007. Cash receipts were received by employees responsible for sales without documentation alerting the Accounting Department, creating potential misappropriation risk.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 185000.0,
+            "context": "bulk sales of confiscated items totaling approximately"
+          },
+          {
+            "amount": 207000.0,
+            "context": "confiscated property valued at approximately cigarettes"
+          },
+          {
+            "amount": 175000.0,
+            "context": "confiscated property valued at approximately alcohol"
+          }
+        ],
+        "recommendation": "FED maintain the inventory records of confiscated property on a current basis and conduct physical inventories of confiscated property every six months as required. FED require that individuals and entities that purchase confiscated property remit related payments directly to the Accounting Department.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office of the Comptroller's response is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period covers three divisions with different start/end dates; earliest and latest used for report scope. Agency agreement status not explicitly stated in provided text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:08:36.577914",
+  "content_hash": "e470d2819bfae9109efc5c015195a8da9150ed06",
+  "duplicate_of": null
+}

@@ -1,0 +1,186 @@
+{
+  "extraction": {
+    "agency_name": "Maryland State Department of Education",
+    "parent_department": "Maryland State Department of Education",
+    "report_date": "2023-01-31",
+    "audit_period_start": "2018-01-01",
+    "audit_period_end": "2021-05-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Maryland State Department of Education (MSDE) did not ensure LEAs used Blueprint for Maryland\u2019s Future funds in accordance with the purposes established by State law.",
+        "description": "MSDE did not obtain and compare actual LEA expenditures to the LEA's application to ensure funds were used according to related applications. A limited test of 12 teachers' salaries totaling approximately $800,000 agreed to grant applications without exception.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 800000.0,
+            "context": "salaries totaling approximately"
+          },
+          {
+            "amount": 393600000.0,
+            "context": "Blueprint grant expenditures totaled during fiscal year 2021"
+          },
+          {
+            "amount": 75000000.0,
+            "context": "Teacher Salary Incentive program"
+          }
+        ],
+        "recommendation": "MSDE should obtain adequate documentation from the LEAs to verify the propriety of Blueprint related expenditures for fiscal years 2020 and 2021 and pursue recovery of any amounts that were not supported and consistent with the application; develop a policy to ensure future Blueprint funds are expended for the purposes established by State law.",
+        "agency_agrees": true,
+        "agency_completion_date": "December 2023"
+      },
+      {
+        "number": 2,
+        "title": "MSDE should consider establishing a monitoring process to ensure LEAs implemented appropriate corrective actions to address findings from our Office\u2019s financial management practices audit reports.",
+        "description": "MSDE did not require LEAs to periodically report on the status of corrective actions. Consequently, MSDE lacked assurance that audit findings were appropriately addressed to ensure policies and controls were effective in accounting for and safeguarding assets.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MSDE should establish a monitoring process which requires periodic reports of corrective actions taken by the LEAs for findings noted in OLA financial management practices audit reports; consider implementing a limited verification of the corrective actions reported by the LEAs; and document its review of the corrective actions and follow-up process.",
+        "agency_agrees": true,
+        "agency_completion_date": "May 31, 2023"
+      },
+      {
+        "number": 3,
+        "title": "MSDE\u2019s enrollment audits did not incorporate certain procedures to ensure LEAs properly recorded and reported student attendance used to calculate State funding.",
+        "description": "MSDE did not use a risk-based approach to determine which enrollment records to test, did not review controls over the LEA's processes to record student attendance, and did not conduct a comprehensive review to determine if errors noted were the result of potential systemic issues. MSDE recovered $15,151 from the Foundation grant program for unsupported students and an additional $91,022 from 13 LEAs for other programs.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 15151.0,
+            "context": "recovered from the Foundation grant program for those students"
+          },
+          {
+            "amount": 91022.0,
+            "context": "recovered as a result of these audits from 13 LEAs for other programs"
+          }
+        ],
+        "recommendation": "MSDE should use available WDCS reports for enrollment audits to determine if schools have an increased risk of improper student enrollment reporting; determine the need for an independent review of the automated attendance systems used by each LEA; and determine if errors noted during enrollment audits are the result of potential systemic issues.",
+        "agency_agrees": true,
+        "agency_completion_date": "September 2022"
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "MSDE did not always verify the accuracy of expenditure and performance data reported by grantees, and did not always conduct site visits of grantees.",
+        "description": "MSDE did not obtain documentation to verify the performance data or accuracy of grant expenditures for tested grants. MSDE did not perform site visits for seven of the nine grants tested with awards totaling $13.3 million. Similar conditions were commented upon in the preceding audit report.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [
+          {
+            "amount": 14400000.0,
+            "context": "grants tested"
+          },
+          {
+            "amount": 13000000.0,
+            "context": "fiscal year 2021 expenditures for grants associated with 3 grant programs"
+          },
+          {
+            "amount": 13300000.0,
+            "context": "seven of the nine grants tested with awards totaling"
+          }
+        ],
+        "recommendation": "MSDE should verify the accuracy of the grantee\u2019s self-reported expenditure and performance data; develop a policy for performing comprehensive documented site visits for all State-fund grant programs; and perform documented site visits in accordance with the policy.",
+        "agency_agrees": true,
+        "agency_completion_date": "September 1, 2022"
+      },
+      {
+        "number": 9,
+        "title": "MSDE did not always comply with State procurement regulations including documenting bid openings, retaining proposals, and publishing contract awards on eMaryland Marketplace Advantage.",
+        "description": "MSDE could not document that at least two State employees were present for proposal openings for three of the five contracts tested totaling $89.1 million. MSDE did not publish four contract awards totaling $43.6 million on eMMA as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 90300000.0,
+            "context": "contracts procured between January 2018 and May 2021 totaling approximately"
+          },
+          {
+            "amount": 89100000.0,
+            "context": "three of the five contracts procurements tested"
+          },
+          {
+            "amount": 43600000.0,
+            "context": "four contract awards not published on eMM/eMMA as required"
+          },
+          {
+            "amount": 46600000.0,
+            "context": "one contract award where MSDE was not able to provide the losing bidder's technical proposal or price proposals"
+          }
+        ],
+        "recommendation": "MSDE should document bid openings by at least two employees; retain all required procurement documentation including technical and price proposals and bid evaluations; and publish contract awards on eMMA as required.",
+        "agency_agrees": true,
+        "agency_completion_date": "August 1, 2022"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MSDE generally agrees with the recommendations in this report. For Finding 2, MSDE notes State law does not require monitoring of LEA corrective actions but agrees to consider establishing a process pending legal consultation. Corrective actions are planned for completion by specified dates ranging from August 2022 to December 2023.",
+    "total_dollar_impact": 106173.0,
+    "extraction_notes": "Findings 4 through 7 were redacted in the public report due to cybersecurity definitions. Prior findings count and repeated status derived from Figure 2 Status of Preceding Findings."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 9, regex counted 7",
+    "dollar_amount_not_in_text: finding 8 amount 13000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:24:45.713898",
+  "content_hash": "8b25eb51987a30f22866a8932d18fa6aa8eaa4fc",
+  "duplicate_of": "5a8f4d0ecc9d7245606743ce"
+}

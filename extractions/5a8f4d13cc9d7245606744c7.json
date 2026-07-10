@@ -1,0 +1,100 @@
+{
+  "extraction": {
+    "agency_name": "State Lottery Agency",
+    "parent_department": "State Lottery Agency",
+    "report_date": "2012-05-01",
+    "audit_period_start": "2008-03-17",
+    "audit_period_end": "2011-03-06",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The SLA network was not adequately secured from untrusted traffic and the network was not adequately protected by the intrusion detection and prevention system.",
+        "description": "The SLA network allowed unnecessary connections to internal devices, lacked filtering for contractor traffic to backup centers, and the IDPS device was unsupported since December 2009, leaving critical devices susceptible to attacks. The firewalls were not configured to adequately secure connections from untrusted sources as required by DoIT policy.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Configure firewalls for least privilege security strategy, filter network traffic between contractor and backup centers, implement IDPS coverage for critical portions of the network, and ensure intrusion detection devices are supported by vendors.",
+        "agency_agrees": true,
+        "agency_completion_date": "2012-04-01"
+      },
+      {
+        "number": 2,
+        "title": "Mainframe security reporting and review procedures were not adequate.",
+        "description": "The mainframe security report omitted significant events such as user capability changes, the administrator was solely responsible for reviews without independent oversight, and reviews were not documented. These conditions could result in unauthorized activities affecting data integrity going undetected.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Redesign the security report to include all critical security related events and perform independent reviews of this report, documenting them for future reference.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-11-01"
+      },
+      {
+        "number": 3,
+        "title": "The service level agreements and the related independent reports did not address certain security and operational risks.",
+        "description": "Agreements lacked provisions for daily documented reviews of audit logs required by DoIT, and independent reports failed to indicate whether intrusion detection or antivirus protection had been implemented. The auditors provided lists of provisions that should be included in agreements and those not addressed by independent reviews.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Amend service level agreements to add language for provisions presented, require contractors to obtain and review independent reports on contractual provisions, and ensure future contracts address significant security risks.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Supervisory review and approval of the resolution of incidents and instances of non-compliance at the casinos was not documented.",
+        "description": "SLA employees completed compliance control reports documenting incidents and resolutions, but there was no documented supervisory review or approval to ensure proper disposition. Although reviews were advised during site visits, no documentation existed for these reviews.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Supervisory personnel should document their review and approval of compliance control reports to ensure proper disposition.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "SLA did not adequately monitor the VLT operations for periods of VLT inoperability.",
+        "description": "SLA lacked procedures to monitor VLT inoperability to ensure contractual requirements were fulfilled and revenue maximized. Reports identifying inoperable VLTs existed from February 2011 but had not been obtained or reviewed by SLA management as of August 2011, resulting in potential unassessed liquidated damages.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 60000.0,
+            "context": "liquidated damages totaling could have been assessed for machines down more than 90 minutes"
+          }
+        ],
+        "recommendation": "Regularly obtain and review reports identifying VLT inoperability times, assess liquidated damages as permitted by contract when appropriate, and formally document reasons when damages are not assessed.",
+        "agency_agrees": true,
+        "agency_completion_date": "2012-04-30"
+      },
+      {
+        "number": 6,
+        "title": "Adequate procedures and controls were not established over the issuance of licenses and registrations and the related fees.",
+        "description": "SLA lacked independent supervisory review documentation for issued licenses, had no procedure to ensure badge return upon termination, did not verify fee collection before background checks, and failed to ensure all vendors were properly registered. An internal audit identified 23 unregistered vendors doing business with a casino in 2011.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure independent supervisory review of licenses is documented, establish procedures for badge return upon termination, ensure fees are collected before background checks, and establish procedures to ensure all vendors are properly registered.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "SLA agreed with all recommendations and stated that full compliance was achieved for Findings 1 and 2 by April 2012 and November 2011 respectively. Procedures were implemented for Finding 5 resulting in $22,200 collected in liquidated damages, and new procedures established for Findings 4 and 6 to ensure proper documentation and fee collection.",
+    "total_dollar_impact": 60000.0,
+    "extraction_notes": "Report date derived from 'May 2012' header. Audit period found in Scope section. Prior findings count based on preceding report status section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:51:38.565250",
+  "content_hash": "e53efa713a349e3f394bf85ade1628eaab6b01e8",
+  "duplicate_of": "5a8f4d13cc9d7245606744c5"
+}

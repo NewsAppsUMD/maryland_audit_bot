@@ -1,0 +1,57 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2015-01-01",
+    "audit_period_start": "2011-12-28",
+    "audit_period_end": "2014-08-14",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office overpaid two part-time housekeepers approximately $8,300 over a one-year period.",
+        "description": "The Office overpaid two employees approximately $8,300 during the period from July 10, 2013 through July 22, 2014. The employees were frequently paid for working an eight-hour shift even though their timesheets reflected they had only worked three-hour shifts.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8300.0,
+            "context": "overpaid two part-time housekeepers"
+          }
+        ],
+        "recommendation": "ensure that employees are paid only for hours worked; maintain timesheets for all employees as required; investigate the aforementioned missing timesheets and determine total overpayments to these two employees; consult with legal counsel to determine the extent to which overpayments can be recovered.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Controls over collections were not sufficient to ensure all receipts were deposited.",
+        "description": "The Office had not established adequate controls over collections to ensure all receipts were deposited. The Office did not restrictively endorse and record checks received through the mail immediately upon receipt, and lacked an independent verification of the initial record of cash receipts to validated bank documentation.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4600000.0,
+            "context": "collections totaled approximately"
+          }
+        ],
+        "recommendation": "restrictively endorse and record all checks immediately upon receipt; ensure that an employee who does not have access to collections verifies the initial record of collections received to validated bank documentation.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report notes that the Office's response to findings and recommendations is included as an appendix; however, the specific details of the agency's agreement or completion dates are not contained within this document excerpt.",
+    "total_dollar_impact": 8300.0,
+    "extraction_notes": "Report date derived from header 'January 2015'. Audit period explicitly stated in Scope section. Finding 1 marked as repeat in recommendations and status section. Prior finding number not specified for the repeated finding."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:08:32.765982",
+  "content_hash": "5416280dc434d1d07f9a447e18e87f48708ff8f1",
+  "duplicate_of": null
+}

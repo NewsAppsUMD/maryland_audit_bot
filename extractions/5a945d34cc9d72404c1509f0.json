@@ -1,0 +1,148 @@
+{
+  "extraction": {
+    "agency_name": "Anne Arundel County Public Schools",
+    "parent_department": "Anne Arundel County Public Schools",
+    "report_date": "2025-05-02",
+    "audit_period_start": "2021-07-01",
+    "audit_period_end": "2023-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain requirements of State law and recognized best practices were not incorporated into the Anne Arundel County Public Schools\u2019 (AACPS) procurement policies and were not consistently used when participating in intergovernmental cooperative purchasing agreements.",
+        "description": "State law requires determining cost benefits before using intergovernmental cooperative purchasing agreements (ICPAs), but AACPS policies lacked requirements to analyze costs, research ICPAs, verify clauses, or obtain price lists. Testing of five ICPAs totaling $21.2 million disclosed non-adherence to best practices such as analyzing competitive solicitation costs.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21200000.0,
+            "context": "contract awards tested"
+          }
+        ],
+        "recommendation": "AACPS should incorporate statutory requirements and best practices into procurement policies and ensure performance is documented when evaluating and participating in ICPAs.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-07-01"
+      },
+      {
+        "number": 2,
+        "title": "AACPS did not always publish contract solicitations or awards on eMaryland Marketplace Advantage as required by State procurement law.",
+        "description": "State law requires publication of contracts $100,000 or more (pre-Oct 2023 was $50,000) on eMMA. Testing disclosed 257 contracts totaling $166.9 million were not published, and awards for 3 contracts totaling $13.1 million were published two to five months late.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 166900000.0,
+            "context": "contracts not published on eMMA"
+          },
+          {
+            "amount": 13100000.0,
+            "context": "awards published late"
+          }
+        ],
+        "recommendation": "AACPS should publish contract solicitations and awards on eMMA as required.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-05-01"
+      },
+      {
+        "number": 3,
+        "title": "AACPS did not execute formal written contracts or obtain approval from the Board for special education services.",
+        "description": "AACPS paid two non-public schools $58.4 million during fiscal years 2020 through 2023 without executing formal written contracts or obtaining Board approval as required by policy for contracts over $100,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 58400000.0,
+            "context": "paid without contracts or Board approval"
+          }
+        ],
+        "recommendation": "AACPS should modify its Procurement Policy to require formal written contracts for special education services and comply with its Policy by obtaining Board approval.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-07-01"
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Analysis and recommendation details are redacted from this public report per State Government Article Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Redacted",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Analysis and recommendation details are redacted from this public report per State Government Article Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Redacted",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Analysis and recommendation details are redacted from this public report per State Government Article Section 2-1224(i).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Redacted",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "AACPS did not competitively bid its third-party administrator (TPA) services since at least 2004.",
+        "description": "AACPS had not competitively bid TPA services for healthcare plans in 20 years. A similar condition was noted in the preceding audit; AACPS extended the contract without bidding despite stating it would decide to bid or exercise an option year.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": 8,
+        "dollar_amounts": [
+          {
+            "amount": 8000000.0,
+            "context": "administrative fees paid to TPA in FY2023"
+          }
+        ],
+        "recommendation": "AACPS should periodically competitively bid for TPA services or document justification for not obtaining such bids.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "AACPS did not adequately monitor the performance of its TPA that provided health care claims processing services.",
+        "description": "AACPS did not review detailed claims data or verify self-reported performance measures and penalties ($59,000). Similar conditions were noted in reports dating to 2014; AACPS had not implemented recommendations as stated.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": 10,
+        "dollar_amounts": [
+          {
+            "amount": 59000.0,
+            "context": "self-assessed penalties reported by TPA"
+          }
+        ],
+        "recommendation": "AACPS should establish procedures to independently verify the propriety of TPA billings and a process to independently verify compliance with performance measures.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-06-01"
+      }
+    ],
+    "prior_findings_count": 11,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "AACPS agreed with all findings and recommendations. The agency indicated it will incorporate best practices into policies, modify purchasing policies for special education contracts, issue a competitive request for proposals for TPA services by January 2027, and implement automated audits to verify TPA billings and performance measures.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period derived from 'Audit Scope, Objectives, and Methodology' section. Report date is transmittal letter date. Findings 4-6 are redacted per State law. Prior finding numbers mapped from Status of Preceding Findings table."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T17:13:33.577888",
+  "content_hash": "dcf3988ad988eb8092848e8071448496e57b66bb",
+  "duplicate_of": null
+}

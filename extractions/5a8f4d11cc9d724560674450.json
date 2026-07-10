@@ -1,0 +1,61 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2015-03-01",
+    "audit_period_start": "2011-05-05",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Center paid pharmaceutical invoices without verification of the items received and the costs charged.",
+        "description": "Billings from the Center's pharmaceutical contractor were not verified prior to payment. The Center did not verify the items billed against documentation of type/quantity received nor obtain documentation from vendor to substantiate unit costs charged, as permitted by contract.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 540000.0,
+            "context": "current contract value"
+          },
+          {
+            "amount": 39000.0,
+            "context": "paid to vendor during fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that the Center verify that pharmaceutical items billed were actually received; and obtain documentation, such as copies of invoices paid by the vendor, to verify the accuracy of invoiced costs, at least on a test basis.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-02-01"
+      },
+      {
+        "number": 2,
+        "title": "Physical inventories of equipment were not documented by the Center and reconciliations of equipment records were not performed in a timely manner.",
+        "description": "Physical inventory and record keeping procedures were not in compliance with DGS Inventory Control Manual requirements. The Center lacked documentation that complete physical inventories were conducted, and reconciliations of the equipment control account with detail records were not performed in a timely manner (not since October 2013).",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2200000.0,
+            "context": "equipment balance reported to DGS as of June 30, 2014"
+          }
+        ],
+        "recommendation": "We recommend that the Center comply with the aforementioned requirements of the DGS Inventory Control Manual.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-03-09"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The administration concurred with all findings and recommendations. They implemented nurse verification and monthly monitoring for pharmacy costs by February 1, 2015, and formalized equipment inventory documentation and reconciliations by March 9, 2015.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'March 2015'. Audit period explicitly stated in Scope section. Prior findings count/repeated status derived from Status of Findings From Preceding Audit Report section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T02:41:25.627617",
+  "content_hash": "90bbf4b3da8c10588be9bc898b39f7c5e74bf04b",
+  "duplicate_of": null
+}

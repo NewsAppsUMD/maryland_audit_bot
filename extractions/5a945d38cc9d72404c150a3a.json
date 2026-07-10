@@ -1,0 +1,266 @@
+{
+  "extraction": {
+    "agency_name": "Talbot County Public Schools",
+    "parent_department": "Talbot County Public Schools",
+    "report_date": "2013-07-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2011-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Internal Control Deficiencies Could Allow Improper Payments",
+        "description": "One finance office supervisory employee was provided system capabilities in excess of job duties, allowing them to independently record and process critical accounting transactions without independent review.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Implement effective internal control over accounts payable and procurement system. Restrict employees' capabilities to only those needed for job duties and eliminate incompatible functions. Ensure verification of disbursement transactions by an employee not having the capability to process related transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-01-22"
+      },
+      {
+        "number": 2,
+        "title": "TCPS Did Not Always Ensure That Procurements Were Competitively Procured as Required or Justified as Sole Source Procurements",
+        "description": "Test of 55 disbursements totaling $1.96 million disclosed 11 disbursements where only a single quote was received without explanation, and one vendor payments totaled $72,000 were not competitively bid.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 132000.0,
+            "context": "total amount paid to vendors for which competitive quotes were not obtained"
+          },
+          {
+            "amount": 72000.0,
+            "context": "total paid to one vendor that was not competitively bid as required"
+          }
+        ],
+        "recommendation": "Ensure all procurements are performed in accordance with TCPS policies. Adhere to competitive procurement policies and procedures. Adequately document justification for sole source procurements.",
+        "agency_agrees": false,
+        "agency_completion_date": "2013-01-22"
+      },
+      {
+        "number": 3,
+        "title": "Certain Users Had Unneeded System Capabilities and Personnel and Payroll Changes Were Not Adequately Reviewed for Propriety",
+        "description": "Five employees had system capabilities allowing incompatible functions. TCPS lacked independent review to ensure critical personnel data and payroll payments were proper.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure adequate internal controls over human resources and payroll system. Restrict employees' capabilities to only those needed for job duties. Periodically generate a report of changes and perform independent supervisory review.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-01-22"
+      },
+      {
+        "number": 4,
+        "title": "TCPS' Policies and Physical Inventory Procedures Need Improvement to Safeguard Equipment",
+        "description": "Procedures were not adequate for equipment accountability. No complete physical inventory performed in over five years except laptops. Items removed from records without supervisory approval.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 194000.0,
+            "context": "cost of equipment items removed from records without supervisory approval"
+          },
+          {
+            "amount": 18600000.0,
+            "context": "total cost of non-computer equipment in inventory records"
+          }
+        ],
+        "recommendation": "Develop and implement policies to ensure accountability over all equipment. Update policies for segregation of duties and physical inventories. Ensure disposals are approved by supervisory personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-03-20"
+      },
+      {
+        "number": 5,
+        "title": "Administrative Access to the TCPS Network Was Excessive and Database Monitoring and Password and Account Controls Over Critical Systems Were Not Sufficient",
+        "description": "Seven accounts were improperly classified as domain administrators. Student information system database was not configured to log sensitive activity. Password controls did not meet best practices.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Limit domain administrator group to employees requiring capabilities. Implement proper database logging and monitoring. Implement appropriate password controls and ensure account lockout is enforced.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-09-30"
+      },
+      {
+        "number": 6,
+        "title": "TCPS Did Not Have an Information Technology Disaster Recovery Plan and Anti-Virus Protection Was Frequently Not Installed or Up-to-Date",
+        "description": "TCPS did not have a disaster recovery plan. Tests of nine computers disclosed six had no anti-virus software installed.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Develop and implement a comprehensive disaster recovery plan. Install effective anti-virus program on every computer with automated updates.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-09-30"
+      },
+      {
+        "number": 7,
+        "title": "TCPS' Network Was Not Properly Secured",
+        "description": "Firewall rules allowed insecure connections. Publicly accessible servers were on internal network. Internal network not adequately secured from improper access.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Configure firewalls to achieve least privilege security strategy. Segregate publicly accessible servers in separate protected network zone. Implement controls to limit network level student access.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-12-31"
+      },
+      {
+        "number": 8,
+        "title": "TCPS' Routing Procedures Were Not Comprehensive and Its Routing Software Capabilities Were Not Fully Utilized",
+        "description": "Bus routing process did not consider all relevant factors. Automated routing software capabilities were not fully used to develop efficient routes.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2300000.0,
+            "context": "fiscal year 2011 transportation costs"
+          },
+          {
+            "amount": 88770.0,
+            "context": "average purchase price for smaller buses by other systems"
+          },
+          {
+            "amount": 109278.0,
+            "context": "average purchase price for larger buses purchased by TCPS"
+          }
+        ],
+        "recommendation": "Take action to increase cost-effectiveness of bus operations. Establish policies delineating ridership targets and travel times. Fully use automated routing software.",
+        "agency_agrees": false,
+        "agency_completion_date": "2012-07-01"
+      },
+      {
+        "number": 9,
+        "title": "TCPS Did Not Follow Proper Procurement Procedures for Bus Maintenance and Contractor Services",
+        "description": "Bids were not solicited for bus maintenance or contractor services. TCPS did not enter into contracts for these services.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 197000.0,
+            "context": "expenditures for bus maintenance in fiscal year 2011"
+          },
+          {
+            "amount": 174000.0,
+            "context": "paid to two vendors for bus maintenance"
+          },
+          {
+            "amount": 112000.0,
+            "context": "payments to bus contractors for extracurricular services in fiscal year 2011"
+          }
+        ],
+        "recommendation": "Adhere to competitive procurement policies. Ensure formal contracts are executed for significant purchases. Verify propriety of bus contractor charges.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-07-01"
+      },
+      {
+        "number": 10,
+        "title": "Internal Controls Over the Purchasing of Food Supplies Should be Strengthened",
+        "description": "Formal contract not executed with one vendor. No evidence that invoiced prices were agreed to contracted prices prior to payment.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 954000.0,
+            "context": "food expenditures for fiscal year 2011"
+          },
+          {
+            "amount": 888500.0,
+            "context": "expenditures from 5 vendors tested"
+          },
+          {
+            "amount": 184875.0,
+            "context": "purchases made without formal contract during fiscal year 2011"
+          }
+        ],
+        "recommendation": "Ensure formal contracts are executed for significant purchases. Ensure invoiced prices are compared to contract prices prior to payment.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-02-14"
+      },
+      {
+        "number": 11,
+        "title": "TCPS Had Not Properly Collateralized Certain Cash Deposits",
+        "description": "$3,942,662 of bank balance was exposed to custodial credit risk because collateral was not held in the Board's name.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3942662.0,
+            "context": "bank balance exposed to custodial credit risk"
+          }
+        ],
+        "recommendation": "Ensure all deposits are properly secured with collateral held in the Board's name.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-01-28"
+      },
+      {
+        "number": 12,
+        "title": "TCPS Had Not Established a Debt Management Policy",
+        "description": "TCPS had not adopted formal policies governing use of debt. Notes and capital lease payables totaled $499,195.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 499195.0,
+            "context": "notes and capital lease payables at June 30, 2011"
+          },
+          {
+            "amount": 488127.0,
+            "context": "outstanding debt to State Retirement and Pension System"
+          },
+          {
+            "amount": 1399845.0,
+            "context": "total cost including interest for unfunded pension liability from 2012 to 2036"
+          }
+        ],
+        "recommendation": "Adopt a formal policy governing management of long-term debt in accordance with best practices recommended by GFOA.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-08-21"
+      },
+      {
+        "number": 13,
+        "title": "TCPS Had Not Implemented Procedures to Ensure the Propriety of Health Care Costs",
+        "description": "TCPS did not verify eligibility of dependents or ensure claims paid were reviewed for propriety. TCPS paid health care provider $5.7 million.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5700000.0,
+            "context": "paid to health care provider in fiscal year 2011"
+          },
+          {
+            "amount": 803722.0,
+            "context": "refund received from Alliance applicable to fiscal year 2011"
+          }
+        ],
+        "recommendation": "Institute processes to verify eligibility of dependents and verify propriety of claims paid by third-party administrator.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-06-30"
+      }
+    ],
+    "prior_findings_count": 24,
+    "prior_findings_repeated": 11,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Board of Education generally agreed with the recommendations, providing action plans and completion dates ranging from January to December 2013. Two specific recommendation parts (Finding 2a and Finding 8a) were marked as 'No' by the agency.",
+    "total_dollar_impact": 398000.0,
+    "extraction_notes": "Report date derived from July 2013 header. Audit period derived from Scope section. Prior findings repeated count based on Status of Preceding Findings text."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 4 amount 18600000.0",
+    "repeat_count_mismatch: extracted 9, asterisk markers 2"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T21:13:53.176664",
+  "content_hash": "25a5c363360f8535336658c9707a9f4347b15c9e",
+  "duplicate_of": null
+}

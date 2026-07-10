@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Multiple Agencies (DLLR, MDOT, DBM, DOA, DOP)",
+    "parent_department": null,
+    "report_date": "2011-04-18",
+    "audit_period_start": "2010-06-01",
+    "audit_period_end": "2010-12-01",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MDOT/MAA agrees with the intent of recommendations but defends current practices as providing assurance; MTA agrees with findings and recommendations regarding ridership data collection improvements; DOA concurs noting program changes and database completion by June 30, 2011.",
+    "total_dollar_impact": 2600000.0,
+    "extraction_notes": "No numbered 'Finding N' sections found in the text; findings extracted as empty list per strict rule. Dollar amount $2.6 million identified from ridership analysis."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T23:40:45.176525",
+  "content_hash": "9a4a22b1865a44a6c78437f588d58a4b00e1912d",
+  "duplicate_of": null
+}

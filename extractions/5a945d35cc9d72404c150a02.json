@@ -1,0 +1,285 @@
+{
+  "extraction": {
+    "agency_name": "Carroll County Public Schools",
+    "parent_department": "Carroll County Public Schools",
+    "report_date": "2012-03-01",
+    "audit_period_start": "2009-07-01",
+    "audit_period_end": "2010-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Schools Did Not Always Comply With Established Procedures Governing School Activity Funds or Ensure Account Activity Was Reviewed in a Timely Manner",
+        "description": "Review of school activity fund transactions disclosed that certain transactions were not processed as required by the Procedures Manual for School Funds and account activity was not always reviewed in a timely manner. Specific conditions included improper receipt documentation, untimely deposits, and lack of independent verification.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 29980.0,
+            "context": "receipts not properly documented"
+          },
+          {
+            "amount": 536439.0,
+            "context": "school activity fund receipts at one school in fiscal year 2010"
+          },
+          {
+            "amount": 27175.0,
+            "context": "receipts not deposited timely at another school"
+          }
+        ],
+        "recommendation": "CCPS should ensure that schools properly administer student activity funds by controlling cash receipts, depositing funds timely, independently verifying collections, and reviewing all accounts in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "CCPS Did Not Ensure That All Costs Associated With Medicaid-Subsidized Services Were Recovered",
+        "description": "CCPS did not ensure that medical assistance billing staff received documentation for all services performed each month from individual schools. Records identified students who received eligible services for which no subsequent billing was processed, resulting in unrecovered costs.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 275000.0,
+            "context": "estimated potential recovery for period from August 2010 to February 2011"
+          },
+          {
+            "amount": 875000.0,
+            "context": "reimbursement for Medicaid-subsidized services in fiscal year 2010"
+          }
+        ],
+        "recommendation": "CCPS should ensure that all eligible costs for Medicaid-subsidized services are properly documented and fully recovered.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-06-30"
+      },
+      {
+        "number": 3,
+        "title": "Internal Controls Over Procurements and Disbursements Were Not Adequate",
+        "description": "Testing disclosed instances where employee capabilities allowed unrestricted access to critical system functions including incompatible functions. Additionally, the review of checks for propriety was not effective due to lack of reviewer independence from transaction processing.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should improve internal controls over procurements and disbursements by restricting critical system access capabilities to separate incompatible functions and ensuring comparisons of transactions are performed by persons independent of transaction processing.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Certain Purchasing Card Transactions Did Not Appear to be in Compliance with CCPS Policy and Were Not Always Properly Supported",
+        "description": "Testing of corporate purchasing card transactions disclosed lack of documentation for gift card purchases and use of school activity funds to purchase items benefiting employees, which appears to violate policy.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4800.0,
+            "context": "transactions for purchase of gift cards lacking documentation"
+          },
+          {
+            "amount": 2000.0,
+            "context": "transactions used to purchase items benefiting employees"
+          }
+        ],
+        "recommendation": "CCPS should improve controls over its credit card program by reviewing propriety of CPC transactions for gift cards and ensuring appropriate supporting documentation is maintained.",
+        "agency_agrees": true,
+        "agency_completion_date": "2011-09-01"
+      },
+      {
+        "number": 5,
+        "title": "Internal Controls and Record Keeping Over Equipment Were Not Adequate",
+        "description": "Audit disclosed inadequate controls to ensure accountability over equipment including lack of documentation for physical inventories, no process to verify accuracy of records, incomplete inventory records, and unrecorded equipment.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 34800.0,
+            "context": "capital/sensitive equipment items tested"
+          },
+          {
+            "amount": 17300.0,
+            "context": "items not recorded in CCPS' equipment inventory records"
+          }
+        ],
+        "recommendation": "CCPS should ensure physical inventories are conducted and reconciled, implement independent verification of results, update procedures for lost items, ensure records include identification information, and accurately record all owned equipment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Administrative Access to the CCPS Network Was Not Adequately Restricted and Network Password Controls Were Not Adequate",
+        "description": "Eleven accounts were improperly placed in domain administrators group and twelve development staff accounts had improper access on critical servers. Network password controls regarding length, complexity, age, and history were not adequate.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should remove unnecessary accounts from administrator groups and implement stronger password controls with respect to length, complexity, age, and history.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Student Management System Database Controls Were Not Sufficient and Certain Program Change Controls Were Inadequate",
+        "description": "Critical security and audit events were not logged on the student management system database. Seventeen accounts had improper modification access to the database. Program change controls did not provide for comparison reports or technical review of changes.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should log critical security events, remove unnecessary access to the database, and establish controls over program changes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "CCPS Network Was Not Properly Secured",
+        "description": "CCPS did not effectively employ the intrusion prevention system to monitor network traffic. Firewall rules allowed insecure connections and vendors had unrestricted network level access.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CCPS should employ the IPS to effectively monitor network traffic, configure firewalls to adequately secure connections, and restrict network level access.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "CCPS Had Not Implemented a Process to Independently Verify Reported Project Benefits of its Energy Conservation Contract",
+        "description": "CCPS had not implemented a process to independently ensure that the calculation and reported amount of cost savings was accurate. As a result, CCPS lacked assurance that guaranteed cost savings were realized.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 19500000.0,
+            "context": "total cost of the energy conservation contract including financing costs"
+          },
+          {
+            "amount": 10800000.0,
+            "context": "guaranteed cost savings over the life of the contract"
+          },
+          {
+            "amount": 4200000.0,
+            "context": "owed for remainder of services portion as of June 1, 2011"
+          }
+        ],
+        "recommendation": "CCPS should independently verify contractor reported data to ensure propriety of critical calculations and retain documentation of verifications.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "CCPS Did Not Base Certain Elements Used to Determine Payment Amounts to Bus Contractors on Market Conditions or Actual Costs",
+        "description": "The Per Vehicle Allotment (PVA) formula used a 10-year depreciation factor for buses with a 12-year life, resulting in overpayment. Additionally, CCPS uses an assumed miles per gallon rate below industry standards.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2300000.0,
+            "context": "estimated additional payment over the 12-year life of buses"
+          },
+          {
+            "amount": 300000.0,
+            "context": "potential reduction in fuel payments if calculated using industry standard mpg"
+          }
+        ],
+        "recommendation": "CCPS should reevaluate elements used to determine payment amounts to bus contractors and document the rationale for various payment components.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "CCPS Has Experienced Persistent Deficits in its Food Service Operations",
+        "description": "Food service operation expenditures have consistently exceeded revenues from fiscal year 2007 to 2010. CCPS cost per meal and salary costs were higher than comparably-sized school systems.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1020661.0,
+            "context": "total deficits from fiscal year 2007 to 2010"
+          },
+          {
+            "amount": 319000.0,
+            "context": "deficit for fiscal year 2010 prior to transfer of general funds"
+          }
+        ],
+        "recommendation": "CCPS should establish performance benchmarks using industry standards and monitor actual performance against these benchmarks.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "Internal Controls Over Cash Receipts at Certain School Cafeterias Were Not Adequate and CCPS' Manual System to Track Student Meal Purchases May Be Inefficient",
+        "description": "Cashiers did not always close cash drawers or record transactions immediately. The manual system for tracking advance meal purchases is inefficient compared to automated systems.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 475000.0,
+            "context": "revenues at two schools reviewed in fiscal year 2010"
+          }
+        ],
+        "recommendation": "CCPS should ensure adequate internal controls over cash receipts and investigate the feasibility of installing a new cash register system.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "CCPS Had Not Implemented a Formal Investment Policy and Current Investment Practices Should be Reevaluated",
+        "description": "CCPS had not adopted a formal investment policy. CCPS received earnings credits in lieu of interest earnings on general checking account which may not represent the best investment choice given average daily balances.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 100000.0,
+            "context": "earnings credits received for period from February 2010 through May 2011"
+          },
+          {
+            "amount": 74000.0,
+            "context": "actual service fees incurred during the same period"
+          }
+        ],
+        "recommendation": "CCPS should develop a formal investment policy and regularly monitor cash flow to consider investing in other options.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "CCPS Had Not Implemented Procedures to Ensure the Propriety of Health Care Costs",
+        "description": "CCPS did not ensure that claims paid by the third-party health care administrator were reviewed for propriety. CCPS also had no process to periodically verify the authenticity of covered program participants.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 41100000.0,
+            "context": "amounts paid for health care in fiscal year 2010"
+          },
+          {
+            "amount": 1900000.0,
+            "context": "administrative fees included in health care costs"
+          }
+        ],
+        "recommendation": "CCPS should institute processes to verify the propriety of claims paid and verify eligibility of enrolled participants.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-06-30"
+      }
+    ],
+    "prior_findings_count": 30,
+    "prior_findings_repeated": 6,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "CCPS generally agrees with the recommendations but notes resource constraints or ongoing implementation timelines for certain systems. The agency states it has addressed specific issues noted in the analysis and plans to refine procedures, implement new systems (e.g., electronic billing, logging solutions), and review investment arrangements.",
+    "total_dollar_impact": 3619761.0,
+    "extraction_notes": "Total dollar impact calculated as sum of quantified questioned/unaccounted amounts across findings ($275,000 + $6,800 + $17,300 + $2,300,000 + $1,020,661). Report date derived from header 'March 2012' as no specific transmittal letter date was found."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T18:20:56.708579",
+  "content_hash": "4a1959afdb3924d128ff8fe4138dc393dbb475ed",
+  "duplicate_of": null
+}

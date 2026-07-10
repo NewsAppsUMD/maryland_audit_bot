@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Clerk of Circuit Court",
+    "parent_department": "Judiciary",
+    "report_date": "2016-01-01",
+    "audit_period_start": "2012-05-31",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office did not properly perform bank reconciliations for its trust fund checking account and unexplained differences were not researched.",
+        "description": "The Office did not reconcile trust fund checking and individual escrow accounts with corresponding bank records. Reconciliations contained unexplained differences, including $386,000 in the registry checking account as of June 2015. As of July 2015, reconciliations for 154 registry escrow accounts had not been prepared since June 2014.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 386000.0,
+            "context": "unexplained difference in registry checking account"
+          },
+          {
+            "amount": 37000.0,
+            "context": "difference in aggregate total of all accounts"
+          }
+        ],
+        "recommendation": "a. perform complete monthly reconciliations of the registry checking and escrow accounts and ensure the reconciliations are adequately reviewed and approved, and b. investigate and resolve the aforementioned differences noted in the registry checking and escrow reconciliations.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Judiciary\u2019s response on behalf of the Office is included in an appendix to this report.",
+    "total_dollar_impact": 423000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T22:59:37.966092",
+  "content_hash": "efb97bf4f146458b4a209b39b82e0ec5edab06a3",
+  "duplicate_of": null
+}

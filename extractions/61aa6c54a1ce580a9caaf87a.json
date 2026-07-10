@@ -1,0 +1,167 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2021-12-03",
+    "audit_period_start": "2016-09-13",
+    "audit_period_end": "2020-11-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The University of Baltimore (UBalt) did not require or obtain a sufficient independent review of the automated system used by its vendor responsible for collecting student online payments, to ensure that sensitive information residing on the system was properly safeguarded.",
+        "description": "UBalt did not require or obtain a sufficient independent review of the automated system used by its vendor responsible for collecting student online payments. These reviews are required by University System of Maryland (USM) policies and State law. UBalt's contract did not require the vendor to obtain a control assessment report as required by USM IT Security Standards.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 11800000.0,
+            "context": "student online payments processed by the vendor during fiscal year 2020"
+          }
+        ],
+        "recommendation": "We recommend that UBalt comply with State law and USM IT Security Standards by requiring and obtaining from the aforementioned vendor a control assessment report, such as a SOC 2 Type 2 report, to ensure sensitive student information provided to the vendor is properly safeguarded.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-05-01"
+      },
+      {
+        "number": 2,
+        "title": "UBalt did not adequately verify student financial aid application data and adjustments made to student cost of attendance budgets.",
+        "description": "UBalt did not adequately verify student financial aid application data and adjustments made to student COA budgets. UBalt could not document that it ensured its third-party vendor adequately verified student financial aid application data, nor independently review student COA budget adjustments for propriety. For academic year 2020, UBalt performed 621 adjustments related to COA budgets totaling $1.5 million.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 65600000.0,
+            "context": "financial aid awarded to students during fiscal year 2020"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "adjustments related to COA budgets for academic year 2020"
+          }
+        ],
+        "recommendation": "We recommend that UBalt document its review of the third-party vendor's verification of student financial aid application data, and ensure that the vendor or UBalt made any needed corrections and properly reported any corrections to the applicable federal granting agency; and ensure that manual adjustments to COA budgets are subject to a documented independent supervisory review, at least on a test basis.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-11-01"
+      },
+      {
+        "number": 3,
+        "title": "UBalt did not adequately monitor changes to unpaid student accounts to allow, deny, or defer critical activity, such as registering for classes, receiving transcripts, or submitting unpaid accounts to the State's Central Collection unit.",
+        "description": "UBalt did not adequately monitor the placement and removal of certain designations on unpaid student accounts. UBalt had no procedure to periodically review pending payment designations added to student accounts. As of November 2020, there were 220 accounts with unpaid balances totaling $745,227 that had pending payment designations. Our test disclosed that for five accounts, the respective student was allowed to register for additional semesters even though a total of $26,570 from the original amounts due remained unpaid.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 745227.0,
+            "context": "unpaid balances with pending payment designations as of November 2020"
+          },
+          {
+            "amount": 331730.0,
+            "context": "pending payment designations outstanding for over a year"
+          },
+          {
+            "amount": 40620.0,
+            "context": "test of eight accounts with pending payment designations that were outstanding for extended periods"
+          },
+          {
+            "amount": 26570.0,
+            "context": "unpaid remaining on five test accounts where students registered despite owing money"
+          }
+        ],
+        "recommendation": "We recommend that UBalt establish procedures to regularly review the propriety of pending payment designations placed on student accounts, remove designations that can no longer be justified, and take appropriate and timely collection action for unpaid balances; and ensure that all holds removed from student accounts are subject to independent supervisory review and approval.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-11-01"
+      },
+      {
+        "number": 4,
+        "title": "UBalt did not have procedures for ensuring that access to perform certain critical functions on its financial management systems was adequately restricted and controlled.",
+        "description": "UBalt did not have procedures in place for ensuring that access to perform certain critical functions (such as modifying employee pay or student financial aid data) was adequately restricted and controlled. Nineteen users had access to critical screens even though they did not require the access, and 16 users had access to process transactions without independent review and approval.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UBalt establish formal procedures for ensuring that access to perform critical functions within its financial management systems is adequately restricted and controlled. Specifically, we recommend that UBalt periodically provide appropriate department personnel with available security reports to perform reviews of user access; ensure through those reviews that user access is both required for the user's job duties and adequately controlled; and eliminate the unnecessary user access noted in our finding.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-12-01"
+      },
+      {
+        "number": 5,
+        "title": "Remote access to the internal UBalt network by employees and authorized contractors used a single authentication measure rather than the more secure multi-factor authentication.",
+        "description": "Employees' and authorized contractors' remote access to UBalt's internal network required a stronger security authentication measure than was in place. 325 user accounts were granted VPN-based remote network access which did not require multi-factor authentication (MFA). Best practices require Maryland agencies to ensure that MFA mechanisms are employed for all remote access to networks.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UBalt implement multi-factor authentication for remote connections into the UBalt network by employees and authorized contractors.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-08-01"
+      },
+      {
+        "number": 6,
+        "title": "UBalt obtained travel-related services totaling $59,767 from a company operated by a UBalt employee when these services were available from existing vendors. In addition, UBalt did not have a detailed written contract for certain of the services, and did not obtain support for all amounts paid to the company, certain of which appeared questionable.",
+        "description": "State ethics laws were potentially violated when travel-related services totaling $59,767 were obtained from a company operated by a UBalt employee. UBalt did not notify the Governor's Chief Legal Counsel and the Office of the Attorney General (OAG) \u2013 Criminal Division of the potential unethical conduct as required. In addition, UBalt paid the company $29,474 for travel services without a written detailed contract and did not have support for travel-related services related to four trips totaling $45,567.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 59767.0,
+            "context": "travel-related services obtained from a company operated by a UBalt employee"
+          },
+          {
+            "amount": 29474.0,
+            "context": "paid for travel services without a written detailed contract"
+          },
+          {
+            "amount": 10644.0,
+            "context": "other services paid without a formal detailed contract"
+          },
+          {
+            "amount": 45567.0,
+            "context": "travel-related services related to four trips for which UBalt did not have support"
+          },
+          {
+            "amount": 10114.0,
+            "context": "other services provided by the company for which UBalt did not have support"
+          }
+        ],
+        "recommendation": "We recommend that UBalt take the action necessary to comply with any decision which the State Ethics Commission provides regarding this matter; notify the OAG's Criminal Division and the Governor's Chief Legal Counsel of the aforementioned matter; ensure that travel services are obtained from vendors identified by a documented independent procurement process and that detailed contracts are entered into for these services; and review all payments made to this company and pursue and obtain reimbursement for any unsupported or inappropriate costs.",
+        "agency_agrees": false,
+        "agency_completion_date": "2022-01-01"
+      },
+      {
+        "number": 7,
+        "title": "Supervisory reviews of adjustments to leave balances were not performed.",
+        "description": "Adjustments to employee leave balances were not reviewed for propriety by supervisory personnel. During the audit period, UBalt processed 228 leave adjustments that increased employee leave balances by 12,052 hours. We reviewed five leave adjustments valued at approximately $49,000 and found no documented supervisory review of the adjustments.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 49000.0,
+            "context": "value of five leave adjustments reviewed"
+          }
+        ],
+        "recommendation": "We recommend that UBalt ensure that leave adjustments processed are reviewed for propriety by independent supervisory personnel and that this review be documented.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-12-01"
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "UBalt generally agrees with the recommendations in this report. However, UBalt disagreed with Recommendation 6b regarding notification to the OAG's Criminal Division and Governor's Chief Legal Counsel, stating they acted fully upon guidance by OAG counsel. The auditor added a comment reiterating that notification should have occurred.",
+    "total_dollar_impact": 135337.0,
+    "extraction_notes": "Report date taken from transmittal letter (December 3, 2021). Audit period extracted from scope section. Prior findings count based on preceding audit report status section."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 2 amount 1500000.0",
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:58:48.772830",
+  "content_hash": "fe24270f8aa341f3f6dbc8794a1afe794b01a3fc",
+  "duplicate_of": "5a8f4d1ccc9d724560674722"
+}

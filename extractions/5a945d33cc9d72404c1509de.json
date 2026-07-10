@@ -1,0 +1,111 @@
+{
+  "extraction": {
+    "agency_name": "State Highway Administration",
+    "parent_department": "Department of Transportation",
+    "report_date": "2011-11-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "SHA and 10 Architectural and Engineering Firms Arranged to Use Unexpended Balances of Contracts, Totaling $11.3 Million, to Pay for Work That Was Outside the Contract Scope Without Obtaining Board of Public Works Approval",
+        "description": "SHA and firms arranged to use unexpended contract balances totaling $11.3 million to pay for work outside the scope without BPW approval. Testing disclosed that 25 percent of invoiced funds on these contracts were used for unrelated projects or to conceal overspending.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 11300000.0,
+            "context": "unexpended balances of contracts used for work outside scope"
+          },
+          {
+            "amount": 70000000.0,
+            "context": "invoices tested from 16 contracts"
+          }
+        ],
+        "recommendation": "Develop procedures and controls to ensure contract funds are only used as authorized; obtain BPW approval for significant contract modifications including the $11.3 million improperly used; evaluate procurement activities.",
+        "agency_agrees": true,
+        "agency_completion_date": "December 31, 2011; June 2012; March 31, 2012"
+      },
+      {
+        "number": 2,
+        "title": "SHA Did Not Issue Task Orders to Formally Assign Work and to Manage Construction Inspection Services Contracts",
+        "description": "SHA did not issue written task orders, considering contracts as task orders instead. This prevented effective monitoring of services provided by firms and related charges billed.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure task orders are issued for all construction inspection services before work is initiated; use task orders to monitor work and related invoices.",
+        "agency_agrees": true,
+        "agency_completion_date": "December 31, 2011"
+      },
+      {
+        "number": 3,
+        "title": "SHA Extended Contract Expiration Dates Without BPW Approval",
+        "description": "SHA extended contract terms without BPW approval during September 2008 through August 2009 to retain authority over unspent funds. This resulted in the accumulation of approximately $26 million in unspent contract funds.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 26000000.0,
+            "context": "unspent contract funds accumulated due to improper extensions"
+          }
+        ],
+        "recommendation": "Submit improperly extended contracts to BPW for approval; refrain from using contract funds unless BPW approval is obtained; ensure future BPW approval for significant modifications.",
+        "agency_agrees": true,
+        "agency_completion_date": "December 31, 2011"
+      },
+      {
+        "number": 4,
+        "title": "SHA Could Not Adequately Document the Basis for the Maximum Value of Construction Inspection Contracts Submitted to the BPW for Approval",
+        "description": "Testing of four contract awards totaling $34 million disclosed SHA could not adequately support the requested amounts. Documentation provided was inconsistent or lacked a discernible basis.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 34000000.0,
+            "context": "contract awards tested for funding basis"
+          }
+        ],
+        "recommendation": "Establish a documented process justifying contract values; review funding for aforementioned contracts and submit change orders to BPW.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "SHA Procured New Construction Inspection Contracts Even Though Unspent Funds Remained on Existing Contracts",
+        "description": "SHA procured new contracts despite millions remaining on existing contracts without justifying the need or disclosing balances to BPW. For example, $16 million was approved when $15.4 million remained.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 16000000.0,
+            "context": "new contract approved when $15.4 million remained"
+          },
+          {
+            "amount": 30000000.0,
+            "context": "available funds remaining in district at time of another request"
+          }
+        ],
+        "recommendation": "Discontinue requesting new contracts when existing funds are available or fully disclose existing contract balances to BPW.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 2012"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Administration concurs with all recommendations. Actions include developing procedures and task order processes by December 31, 2011; training by June 2012; procurement review team completion by March 31, 2012; and implementing written procedures for contract requests by March 2012.",
+    "total_dollar_impact": 37300000.0,
+    "extraction_notes": "Report date derived from 'November 2011' header. Audit period dates not explicitly stated in standard format. Dollar amounts converted to integers."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:29:52.861683",
+  "content_hash": "468e05dbae1636ec991271f0046de562775a7e9e",
+  "duplicate_of": null
+}

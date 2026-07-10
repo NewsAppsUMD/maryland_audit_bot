@@ -1,0 +1,60 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Food Center Authority",
+    "parent_department": null,
+    "report_date": "2017-10-01",
+    "audit_period_start": "2013-08-07",
+    "audit_period_end": "2017-01-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MFCA did not ensure it obtained monthly payment requests from the site development contractor as required, and payments totaling $217,671 were made without receiving certification from MFCA\u2019s independent engineer of the work performed. Additionally, MFCA overpaid certain fees.",
+        "description": "MFCA did not ensure that it obtained monthly payment requests for work performed and charges incurred, as required under the agreement, and two requests were paid even though MFCA\u2019s independent engineer had not approved them for payment. Furthermore, MFCA overpaid certain fees by approximately $60,000.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 217671.0,
+            "context": "payments made without receiving certification"
+          },
+          {
+            "amount": 3600000.0,
+            "context": "payment requests received by April 2017"
+          },
+          {
+            "amount": 1900000.0,
+            "context": "first payment request received in April 2015"
+          },
+          {
+            "amount": 150097.0,
+            "context": "unapproved payment request dated January 12, 2016"
+          },
+          {
+            "amount": 67574.0,
+            "context": "unapproved payment request dated June 8, 2016"
+          },
+          {
+            "amount": 60000.0,
+            "context": "overpaid fees due to rate discrepancy"
+          }
+        ],
+        "recommendation": "We recommend that MFCA a. obtain payment requests when required by current and future construction contracts to monitor and evaluate work performed and charges incurred on a timely basis, b. make contractual payments only after established review and approval procedures have been completed, c. obtain review comments from its engineer for the two aforementioned payment requests and take appropriate action based on those comments, and d. recover all overcharges resulting from the noted rate discrepancy.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states the response is included in an appendix which was not provided in the text.",
+    "total_dollar_impact": 277671.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:26:00.399365",
+  "content_hash": "4a22e999c32c85e453f14bef7431bb9a4a355f24",
+  "duplicate_of": "5a8f4d10cc9d72456067441a"
+}

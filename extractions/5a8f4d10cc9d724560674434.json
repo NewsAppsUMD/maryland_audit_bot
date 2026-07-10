@@ -1,0 +1,196 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Health Benefit Exchange",
+    "parent_department": null,
+    "report_date": "2015-10-01",
+    "audit_period_start": "2011-06-01",
+    "audit_period_end": "2014-07-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MHBE Procurement Policy Was Not Followed for Certain Contracts and MHBE Did Not Always Retain Relevant Procurement Documentation",
+        "description": "The Maryland Health Benefits Exchange (MHBE) procurement policy was not followed for certain contracts awarded under the emergency and sole source procurement methods. In addition, MHBE did not always retain relevant procurement documentation to substantiate compliance with policies.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 96500000.0,
+            "context": "five contracts procured under the emergency and sole source methods"
+          },
+          {
+            "amount": 90600000.0,
+            "context": "emergency procurements"
+          },
+          {
+            "amount": 5900000.0,
+            "context": "sole source procurements"
+          }
+        ],
+        "recommendation": "We recommend that MHBE comply with its procurement policy when awarding contracts. Specifically, we recommend that MHBE a. solicit competitive bids when possible and practical for emergency procurements, and ensure that emergency procurement contracts are not issued on a long-term basis; b. ensure that the proper method is used when making procurements; c. retain relevant procurement and contract documentation, such as records of negotiations and contract exhibits in a permanent procurement file; and d. maintain complete records of Board minutes pertaining to contract approvals.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Certain Payments for Contractual Services Were Made Without Sufficient Support or Documented Review",
+        "description": "MHBE did not routinely obtain certain documentation to substantiate vendors' billed hours. Furthermore, evidence was lacking to substantiate that MHBE had reviewed the billing documentation submitted by vendors prior to payment.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8200000.0,
+            "context": "payments made to three vendors without adequate documentation"
+          },
+          {
+            "amount": 3200000.0,
+            "context": "additional payments with no evidence MHBE had reviewed vendor billing documentation prior to making the payments"
+          }
+        ],
+        "recommendation": "We recommend that MHBE obtain from contractors adequate documentation, such as employee time and payroll records, to support all billed charges, and perform a documented review of the documentation to ensure that such charges are supported and in accordance with the related contract terms prior to making payment.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06"
+      },
+      {
+        "number": 3,
+        "title": "Grant Expenditures for the Connector Program Were Not Verified for Propriety",
+        "description": "MHBE had not verified the propriety of grant expenditures for the Connector Program. Detailed support for expenditures was not obtained and reviewed.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 23400000.0,
+            "context": "grant expenditures for the Connector Program in fiscal year 2014"
+          },
+          {
+            "amount": 9000000.0,
+            "context": "general funds portion of grant expenditures"
+          },
+          {
+            "amount": 14400000.0,
+            "context": "federal funds portion of grant expenditures"
+          }
+        ],
+        "recommendation": "We recommend that MHBE establish procedures to verify the propriety of expenditures charged to Connector Program grants, including fiscal year 2014 activity and subsequent grant years.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Federal Fund Reimbursement Requests Were Not Timely",
+        "description": "Federal fund reimbursement requests were submitted from 1 to 32 months after the claims could have been submitted, resulting in lost interest income.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 199000.0,
+            "context": "loss of interest income"
+          },
+          {
+            "amount": 73900000.0,
+            "context": "federal fund reimbursement requests submitted during the period"
+          }
+        ],
+        "recommendation": "We recommend that MHBE ensure that future requests for federal fund reimbursements are made in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MHBE Did Not Accurately Maintain Control and Detail Records, or Properly Account for All of Its Equipment",
+        "description": "MHBE did not maintain adequate equipment inventory records, nor properly account for its entire equipment inventory at the time of our review.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 48400000.0,
+            "context": "value of equipment purchased under four major contracts"
+          },
+          {
+            "amount": 33000000.0,
+            "context": "equipment purchased from April 2012 to December 2013"
+          }
+        ],
+        "recommendation": "We recommend that MHBE comply with its Policy and a. establish an independent control account and periodically reconcile the control account to the detail records; b. establish complete detail records reflecting all of MHBE's equipment, including individual item description, acquisition cost and date, and other unique identifying information; and c. ensure that all purchased equipment items are received prior to payment and properly recorded in MHBE's inventory records.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 6,
+        "title": "The Board of Trustees of the Exchange Violated the Open Meetings Act",
+        "description": "The MHBE Board was found to have violated the Open Meetings Act by the State Open Meetings Law Compliance Board.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the MHBE Board implement the recommendations of the Compliance Board to ensure future compliance with the Opening Meetings Act.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-04"
+      },
+      {
+        "number": 7,
+        "title": "Personally Identifiable Information Was Not Appropriately Safeguarded",
+        "description": "MHBE inappropriately stored sensitive personally identifiable information (PII) and federal tax information (FTI) in clear text.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MHBE a. perform an inventory of its systems and identify all sensitive PII and FTI, b. determine if this sensitive information is properly protected by encryption or other substantial mitigating controls, and c. use approved encryption methods to protect all sensitive PII and FTI that are not otherwise properly protected.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-09-21"
+      },
+      {
+        "number": 8,
+        "title": "Administrative Access to the MHBE Network Was Excessive and Not Properly Restricted",
+        "description": "Administrative access to the MHBE network was excessive and access to critical replacement Exchange System files was not properly restricted.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that a. domain administrator and local server administrator privileges only be assigned to users requiring such privileges, b. modification access to critical application and web server files and directories be limited to only those users who require such access, and c. access to enrollment and report files be restricted to only those users who require such access.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-09-01"
+      },
+      {
+        "number": 9,
+        "title": "MHBE Lacked Assurance That Critical Data on Contractor Servers Were Properly Secured",
+        "description": "MHBE lacked assurance as to the security over critical data on servers hosted by contractors for both the original and replacement Exchange Systems.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MHBE a. obtain SOC reports for periods during which MHBE enrollment data are hosted by the parent company of the primary contractor responsible for the original Exchange System, b. review all SOC reports and take appropriate action to ensure that any critical operational and security-related concerns are properly addressed, and c. attempt to amend the existing contract between MHBE and the primary hosting contractor for the replacement Exchange System to mandate that comprehensive SOC 2 Type 2 reviews be performed at least annually for MHBE's hosted operations and when material services are provided by subcontractors.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-11-01"
+      },
+      {
+        "number": 10,
+        "title": "MHBE Network Was Not Properly Secured",
+        "description": "The MHBE network was not properly secured at the hosting datacenter for the replacement Exchange System.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MHBE a. identify how IDPS coverage should be best applied to encrypted network traffic to these datacenter servers and subsequently implement such coverage; and b. restrict, to the extent possible, network-level access by DHR and DHMH personnel to the worker portal to only those individuals requiring such access.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-03-01"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MHBE generally concurs with the recommendations but disputes some findings' characterizations regarding policy violations and security necessity. The agency cites corrective actions taken or planned, including hiring consultants, implementing new systems, and establishing procedures to address OLA's concerns.",
+    "total_dollar_impact": 34999000.0,
+    "extraction_notes": "Report date derived from 'October 2015' header. Audit period from Scope section. Dollar amounts extracted from finding analysis sections only."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:53:40.574242",
+  "content_hash": "300063f8a039bbbce99c4ac449f7119d59d246d2",
+  "duplicate_of": null
+}

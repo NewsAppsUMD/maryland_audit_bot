@@ -1,0 +1,52 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2017-11-01",
+    "audit_period_start": "2014-03-24",
+    "audit_period_end": "2017-05-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Procedures and controls over equipment were not adequate.",
+        "description": "The Information Technology Division (ITD) had not established adequate procedures and controls over equipment, failing to comply with Department of General Services Inventory Control Manual requirements regarding segregation of duties and inventory time frames. As of June 30, 2017, $630,695 in sensitive equipment was not inventoried within the required one-year period.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 58900000.0,
+            "context": "ITD's equipment was valued at approximately"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "sensitive equipment portion of ITD's equipment value"
+          },
+          {
+            "amount": 57700000.0,
+            "context": "non-sensitive equipment portion of ITD's equipment value"
+          },
+          {
+            "amount": 630695.0,
+            "context": "recorded cost of sensitive items not inventoried within one year"
+          }
+        ],
+        "recommendation": "We recommend that ITD comply with the requirements of the Inventory Control Manual. Specifically, we recommend that ITD a. segregate the duties of performing physical inventories and maintaining equipment records, and b. conduct equipment inventories within the required time frames.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Information Technology Division concurs with the recommendations and going forward, will comply with the requirements regarding segregation of duties and routine equipment inventories as outlined in the DGS Inventory Control Manual.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'November 2017'. Audit period found in Scope section. No prior findings status section present."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:04:08.812260",
+  "content_hash": "2c2c9fba21e394313c10727b32e6db47f946de3e",
+  "duplicate_of": "5a8f4d11cc9d724560674468"
+}

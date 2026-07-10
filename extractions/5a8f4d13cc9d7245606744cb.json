@@ -1,0 +1,183 @@
+{
+  "extraction": {
+    "agency_name": "Department of Health and Mental Hygiene",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2014-04-01",
+    "audit_period_start": "2009-07-01",
+    "audit_period_end": "2012-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MCPA Did Not Ensure that Audits of Hospital Bills Were Conducted for Claims Processed After 2007 and Did Not Adequately Monitor the Vendor Conducting Hospital Utilization Reviews",
+        "description": "MCPA did not ensure vendors conducted audits of hospital claims as required, with no audits conducted for claims processed after calendar year 2007. There was also minimal monitoring of a vendor conducting hospital utilization reviews due to staffing shortages.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10700000.0,
+            "context": "overpayments identified by vendor for claims paid during calendar years 2005 and 2006"
+          },
+          {
+            "amount": 1800000.0,
+            "context": "paid to vendor for hospital utilization reviews in fiscal year 2013"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "overpayments to the previous vendor due to lack of monitoring"
+          }
+        ],
+        "recommendation": "MCPA should ensure that audits to verify that billed hospital services were provided are conducted in a timely manner and monitor vendors responsible for conducting hospital utilization reviews.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MCPA Did Not Conduct Patient Credit Balance Audits at Long-Term Care Facilities or Ensure Cost Settlement Reviews Were Completed Timely",
+        "description": "MCPA did not conduct patient credit balance audits for an extended period and did not review cost settlements in a timely manner. Additionally, MCPA paid invoices lacking adequate documentation for support services charges.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 151000.0,
+            "context": "vendor fees for credit balance audits since 2012"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "recovered from credit balance audits of LTC facilities as of August 2013"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "support services charges lacking adequate documentation"
+          }
+        ],
+        "recommendation": "MCPA should ensure credit balance audits are performed for all LTC facilities and costs recovered, cost settlement reviews completed timely, and support service charges properly supported.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MCPA Did Not Ensure the Vendor Responsible for Enrolling New Applicants in Managed Care Organizations (MCOs) Met Certain Contractual Performance Requirements",
+        "description": "MCPA did not independently verify enrollment results reported by a vendor, which overstated performance and failed to meet contractual requirements. MCPA recovered damages after analysis.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9000000.0,
+            "context": "paid to vendor for enrollment broker services during fiscal year 2012"
+          },
+          {
+            "amount": 900000.0,
+            "context": "recovered as a result of damages assessed for not reaching enrollment requirements"
+          }
+        ],
+        "recommendation": "MCPA should verify the performance of its enrollment vendor and take corrective action, including assessing damages, when the broker does not achieve required performance.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "MCPA Did Not Ensure that Referrals of Potential Third-Party Health Insurance Information for Medicaid Recipients Were Properly and Timely Investigated",
+        "description": "MCPA did not ensure potential third-party health insurance information was investigated properly or in a timely manner. There were no supervisory reviews or initial accountability established over referrals.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MCPA should ensure initial accountability and control is established over all potential third-party insurance referrals and perform supervisory reviews to ensure timely investigations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MCPA Did Not Have Sufficient Procedures to Maximize the Recovery of Medicare Funding for Medicaid Recipients",
+        "description": "MCPA lacked procedures to ensure recipients age 65 or older applied for Medicare and did not have adequate controls to ensure correct payment amounts for dual-eligible individuals, leading to potential overpayments.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 29000000.0,
+            "context": "inpatient hospitalization claims paid for recipients not enrolled in Medicare"
+          },
+          {
+            "amount": 6300000.0,
+            "context": "claims potentially eligible for Medicare based on age and coverage group"
+          },
+          {
+            "amount": 1800000.0,
+            "context": "claims not eligible for Medicare due to citizenship status"
+          },
+          {
+            "amount": 35004.0,
+            "context": "overpaid claims in test sample of dual-eligible individuals"
+          }
+        ],
+        "recommendation": "MCPA should establish procedures to ensure eligible recipients apply for Medicare and comprehensive procedures for identifying improperly billed claims.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "MCPA Needs to Continue Efforts to Address Longstanding Deficiencies With the Recipient Enrollment Process",
+        "description": "MCPA needs to continue addressing deficiencies in the recipient enrollment process due to outdated MOU with DHR and delays in reviewing enrollees requiring investigation.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MCPA should continue to monitor the eligibility process and work with DHR to ensure actions are implemented to correct deficiencies.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DHMH Firewall Rules Allowed Unnecessary and Insecure Connections to Certain Servers",
+        "description": "Firewall rules applicable to EDITPS servers were not properly configured, allowing unnecessary and insecure connections from other network servers.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MCPA should request DHMH to configure its firewall to achieve a least privilege security strategy.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "MCPA Lacked Assurance that the Outsourced eMedicaid System Was Properly Secured",
+        "description": "MCPA lacked assurance on security of outsourced eMedicaid system as no independent SOC reports or audits were obtained from the service provider.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MCPA should ensure the service provider obtains SOC 2 type 2 reports or use DHMH audit resources for periodic security reviews.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Monitoring Controls Over Critical Mainframe Production Files Were Not Sufficient",
+        "description": "Monitoring controls over MMIS II production files were insufficient with no documentation supporting reviews of logged modifications or investigations of questionable items.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MCPA should perform timely, documented reviews and investigations of reports of logged modifications to critical files.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 14,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Administration generally concurs with all findings and recommendations. Responses indicate corrective actions such as contract terminations, new procurement efforts, implementation of monitoring units, and recovery of overpayments have been or are being taken to address the identified deficiencies.",
+    "total_dollar_impact": 9235004.0,
+    "extraction_notes": "Report date derived from 'April 2014' header. Audit period from Scope section. Dollar amounts converted to integers. Repeat status based on asterisks in TOC and '(repeat)' notation in recommendations."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:10:20.877515",
+  "content_hash": "1ddbf400dad7cd04a6dceeaf523e5d1c50af0ea6",
+  "duplicate_of": null
+}

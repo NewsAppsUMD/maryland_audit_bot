@@ -1,0 +1,71 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2020-07-27",
+    "audit_period_start": "2019-03-01",
+    "audit_period_end": "2019-07-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Information Technology Division (ITD) maintained sensitive personally identifiable information in a manner that did not provide adequate safeguards.",
+        "description": "ITD maintained sensitive PII without adequate safeguards, involving approximately 12,496,000 records. ITD personnel advised mitigating controls existed but were not comprehensive.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITD implement appropriate information security safeguards for sensitive PII it maintains.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Controls involving access and monitoring over mainframe security software as well as database software reporting controls were not adequate.",
+        "description": "Controls involving access and monitoring over mainframe security software and database management software reporting/monitoring were inadequate. Groups of accounts had unnecessary direct access to critical files, log reviews lacked needed controls, and activity reporting for changes to catalog tables was not generated.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITD a. restrict access to critical operating and system software files to only those individuals requiring such access and log all such accesses; b. ensure that the review of security software violation logs includes activity for all time periods and for all users; and c. implement activity reporting for changes made to critical database management software catalog tables, review such reports for propriety, document these reviews, and retain the reviews for future reference.",
+        "agency_agrees": true,
+        "agency_completion_date": "3Q 2020"
+      },
+      {
+        "number": 3,
+        "title": "Network-based intrusion detection and prevention system (IDPS) coverage did not exist for traffic flowing into the ITD network from certain origin points, and the Comptroller of Maryland\u2019s mobile computers did not utilize a host-based firewall.",
+        "description": "Network-based IDPS inspection coverage did not exist for untrusted traffic entering the ITD data center network. Additionally, laptop computers did not have host-based firewalls enabled, making them susceptible to attack if used outside Comptroller locations.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITD a. ensure that IDPS protection exists for all traffic from untrusted sources entering the ITD network flowing to critical servers and network segments within the data center; and b. work in conjunction with the Comptroller of Maryland\u2019s various divisions and units to ensure that all Comptroller laptop computers are protected by an enabled and properly configured host-based firewall.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Security risks existed from information technology (IT) contractors having unnecessary network-level access to the Comptroller\u2019s network.",
+        "description": "57 IT contractors had unnecessary network level access to almost all of the Comptroller's network rather than only devices and ports required for their duties. Remote and onsite traffic was not subject to filtering.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 2,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITD restrict IT contractors\u2019 network-level access within the Comptroller network to only those servers and workstations necessary for them to perform their duties.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency agrees with most recommendations but disagrees with Finding 4, citing that the recommendation exceeds current State DoIT security policy and Federal requirements. They note implementation challenges for Finding 1 regarding funding and operational impact.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period derived from fieldwork dates (March 2019 to July 2019). Prior finding numbers mapped from Status of Preceding Findings table. Dollar amounts tied to findings are not present in the text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:06:51.900002",
+  "content_hash": "ce2e76ec3bd75e586f9756ffdb58d1427b95f1cd",
+  "duplicate_of": "5a8f4d11cc9d72456067446a"
+}

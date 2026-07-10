@@ -1,0 +1,108 @@
+{
+  "extraction": {
+    "agency_name": "Department of Agriculture",
+    "parent_department": "Department of Agriculture",
+    "report_date": "2020-12-14",
+    "audit_period_start": "2015-08-21",
+    "audit_period_end": "2019-12-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Maryland Department of Agriculture (MDA) had not established comprehensive procedures for Soil Conservation Districts to perform inspections of farms in the Cover Crop Program, did not adequately monitor the inspections, and did not take required action when inspections identified grantees that were noncompliant with the related grant agreement.",
+        "description": "MDA lacked written procedures for SCD inspections and failed to monitor them adequately, resulting in inconsistent inspection methods and failure to cancel grants for noncompliance. Inspections by some districts appeared questionable due to volume reported versus time available.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 26600000.0,
+            "context": "paid to grantees for cover crops"
+          },
+          {
+            "amount": 125000.0,
+            "context": "potential payments for noncompliant grantees"
+          },
+          {
+            "amount": 93000.0,
+            "context": "ultimately paid to noncompliant grantees"
+          }
+        ],
+        "recommendation": "a. establish comprehensive written procedures governing SCDs\u2019 performance and reporting of Cover Crop Program inspections... b. ensure that its grant agreements with farmers are consistent with the inspection requirements included in its agreement with DNR for Program funding; c. adequately monitor inspections conducted by SCDs... d. cancel grant agreements, as required, when inspections identify noncompliance with critical grant provisions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-05-01"
+      },
+      {
+        "number": 2,
+        "title": "MDA did not segregate duties for collections, and did not ensure that certain product registrations were proper and the related fees were collected and deposited.",
+        "description": "MDA lacked adequate controls over cash receipts and product registrations, including a lack of segregation of duties where one employee could receive collections and issue registrations without independent reconciliation or supervisory review.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [
+          {
+            "amount": 3100000.0,
+            "context": "collections received directly by MDA during fiscal year 2019"
+          },
+          {
+            "amount": 270000.0,
+            "context": "collections processed by one unit during fiscal year 2019"
+          }
+        ],
+        "recommendation": "a. establish a process for independent supervisory review and approval of registrations issued... b. independently reconcile the total value of registrations issued and fees collected... c. ensure that an employee independent of the collection process performs the verification of collections to deposit.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-06-30"
+      },
+      {
+        "number": 3,
+        "title": "MDA\u2019s physical inventory and equipment recordkeeping procedures were inadequate and were not in accordance with State policy.",
+        "description": "MDA's physical inventory and equipment recordkeeping procedures were inadequate and did not comply with State policy, resulting in significant amounts of sensitive and non-sensitive equipment not being inventoried within required timeframes and purchases not recorded in detail records.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 2,
+        "dollar_amounts": [
+          {
+            "amount": 9300000.0,
+            "context": "equipment inventory as of June 30, 2019"
+          },
+          {
+            "amount": 4600000.0,
+            "context": "recorded cost of sensitive items not inventoried within one year"
+          },
+          {
+            "amount": 2800000.0,
+            "context": "recorded cost of items not inventoried within three years"
+          },
+          {
+            "amount": 4400000.0,
+            "context": "recorded cost of non-sensitive items not inventoried within three years"
+          },
+          {
+            "amount": 393000.0,
+            "context": "equipment purchases not recorded in detail records"
+          },
+          {
+            "amount": 56000.0,
+            "context": "items incorrectly classified as non-sensitive"
+          }
+        ],
+        "recommendation": "We recommend that MDA comply with the Inventory Control Manual requirements (repeat), and if necessary seek specific assistance from DGS for establishing, monitoring, and maintaining compliance with those requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-06-30"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "MDA concurs with all findings and recommendations, noting that while environmental conditions present challenges for the Cover Crop Program, they agree to implement corrective actions including new procedures and system updates. The department states that corrective actions have been taken or started, with completion dates set for May 2021 and June 30, 2021.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date extracted from transmittal letter. Audit period extracted from scope section. Prior finding numbers mapped from Status of Preceding Findings table on page 5."
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:40:43.355172",
+  "content_hash": "ebdbe75e188389d4d04203aa1601de4da99053c3",
+  "duplicate_of": "5a8f4d0acc9d72456067426c"
+}

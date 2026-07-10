@@ -1,0 +1,346 @@
+{
+  "extraction": {
+    "agency_name": "Allegany County Public Schools",
+    "parent_department": null,
+    "report_date": "2013-01-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "ACPS Did Not Process Medicaid-Subsidized Reimbursement Claims Timely and Risked Missing Claim Filing Deadlines",
+        "description": "ACPS had not processed documentation timely to ensure receipt of Medical Assistance reimbursements, resulting in a backlog of approximately 11 months as of January 2012. State regulations specify that Medicaid may not reimburse claims received more than 12 months after the date of service.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 945000.0,
+            "context": "Federal reimbursement for Medicaid-subsidized services totaled"
+          }
+        ],
+        "recommendation": "ACPS should process Medicaid reimbursement claims in a timely manner to ensure that all eligible costs for Medicaid-subsidized services are fully recovered.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Duties for Purchasing and Payment Processing Were Not Properly Separated and Certain Transactions Were Not Independently Reviewed",
+        "description": "Internal controls over procurements and disbursements were not adequate due to lack of independent approval for purchase orders, inadequate vendor data change controls, and incompatible user duties on the automated system.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should establish appropriate procedures and controls over procurements and disbursements to ensure independent verification of purchase orders, vendor changes, and transaction reviews.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "ACPS Has Not Established Comprehensive Written Procurement Policies and Procedures",
+        "description": "The Board adopted a procurement policy that was not comprehensive as it did not address procurements under $25,000, sole-source procurements, or services. Additionally, there were no written policies for corporate purchasing cards.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 460000.0,
+            "context": "Expenditures using corporate purchasing cards totaled"
+          }
+        ],
+        "recommendation": "ACPS should establish comprehensive policies to ensure the propriety of procurements and develop written policies for credit card issuance and use.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "ACPS Did Not Competitively Bid Certain Service Contracts",
+        "description": "ACPS did not competitively bid certain contracts for services including health care administrative services, stop-loss insurance, architectural/engineering services, and therapy services without documentation of sole-source justification.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "Paid the administrative service organization in administrative fees"
+          },
+          {
+            "amount": 414000.0,
+            "context": "Payments to the insurer for stop-loss employee medical insurance"
+          },
+          {
+            "amount": 130000.0,
+            "context": "Contracts for architectural and engineering services"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "Payments to contractor for occupational/physical therapy services"
+          }
+        ],
+        "recommendation": "ACPS should obtain competitive bids for service contracts and maintain documentation justifying the decision for sole-source procurements.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "ACPS Did Not Ensure the Propriety of Payments to the Third-Party Administrator for Employee and Retiree Health Care Costs",
+        "description": "ACPS lacked procedures to verify amounts paid to the third-party administrator were proper, including verification of claim payments, administrative fees, contractual performance measures, stop-loss reimbursements, and disease management services.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 275000.0,
+            "context": "Stop-loss limit for health care costs"
+          },
+          {
+            "amount": 16400000.0,
+            "context": "Amounts paid for health care totaled including administrative fees"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "Administrative fees included in total payments"
+          },
+          {
+            "amount": 117000.0,
+            "context": "Amounts received related to claims exceeding the stop-loss limit"
+          },
+          {
+            "amount": 96000.0,
+            "context": "Potential penalties for contractual performance measures"
+          },
+          {
+            "amount": 1875.0,
+            "context": "Penalties assessed as result of administrator's self-reporting"
+          }
+        ],
+        "recommendation": "ACPS should implement controls to verify the amounts paid for health insurance including documentation support, fee differences, performance measures, stop-loss reimbursements, and required services.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "ACPS Did Not Adequately Monitor Payments Made to a Contractor for Special Education Services",
+        "description": "ACPS did not ensure amounts paid for therapy services were proper or that the contractor provided required service hours due to lack of detailed documentation and monitoring.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000.0,
+            "context": "Payments for physical and occupational therapy services"
+          },
+          {
+            "amount": 8000.0,
+            "context": "Administrative costs paid to contractor"
+          }
+        ],
+        "recommendation": "ACPS should obtain documentation supporting all contractor billings, ensure services were provided per IEP, specify payment terms for administrative time, and monitor indirect service hours.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "User Access to the Automated System Was Not Properly Restricted and Documentation of Reviews of Certain Payroll Transactions Was Lacking",
+        "description": "Internal controls over payroll were not adequate as individuals had unnecessary access to modify data and reviews of changes were not documented or retained.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should limit access allowing modification of critical personnel and payroll data to those employees who require it and ensure reviews are documented.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "ACPS Did Not Always Obtain Independent Approval Before Updating Records for Missing Equipment",
+        "description": "Write-offs of equipment inventory were not always independently approved, with missing equipment write-offs totaling $102,000 at three schools lacking independent approval.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 102000.0,
+            "context": "Missing equipment write-offs at three schools"
+          }
+        ],
+        "recommendation": "ACPS should ensure that independent supervisory approval is obtained for equipment write-offs before the property records are updated.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Security Events Were Not Properly Monitored for a Critical Server and Database",
+        "description": "Security event monitoring was not adequate as log analyzer reports stopped generating after an upgrade, critical events were not logged on the student management system database, and failed login attempts were not reviewed regularly.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should generate security event reports for critical servers, review them regularly, log critical events on the student management system database, and review failed login attempts.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Application, Network, and Server Account and Password Controls Were Not Sufficient to Properly Protect Critical Resources",
+        "description": "Password controls were not in accordance with best practices regarding length, complexity, history, and maximum age for the student management application, ACPS network, and server hosting financial applications.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should establish appropriate application, network and server account, and password controls.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "ACPS\u2019 Disaster Recovery Plan and Program Change Controls Were Not Adequate",
+        "description": "The disaster recovery plan was incomplete regarding hardware/software components and network connectivity restoration. Program change controls lacked comparison reports or technical reviews of changes.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should develop a complete disaster recovery plan and implement controls over program changes to ensure proper review and approval.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "The ACPS Network Was Not Properly Secured",
+        "description": "Firewall rules allowed unsecure connections to critical devices, publicly accessible servers had network level access to critical servers, and untrusted customers had unnecessary access.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should adequately secure its network by implementing detailed recommendations provided to ACPS.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "ACPS Energy Management Program Was Not Sufficiently Comprehensive",
+        "description": "ACPS did not have a documented comprehensive energy management program with specific goals or strategies. Electricity was not always obtained at the best available rates resulting in excess expenditures.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 53000.0,
+            "context": "Excess expenditures during the period December 2010 through August 2011"
+          },
+          {
+            "amount": 937000.0,
+            "context": "Savings for the period May 2007 through November 2010"
+          }
+        ],
+        "recommendation": "ACPS should develop a comprehensive energy management program, maintain documentation of site visits, and periodically reassess its electricity supplier.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "ACPS Does Not Maintain Documentation of All Preventive Maintenance Work Performed",
+        "description": "ACPS does not adequately document the performance of preventive maintenance to ensure all tasks noted on the comprehensive maintenance plan were properly completed.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should document that preventive maintenance was performed in accordance with the requirements of the comprehensive maintenance plan.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "Certain Bus Contractor Payments Rates Were Either Not Verified or Not Supported",
+        "description": "The basis of rates paid for operating costs was not supported and contractor billing information was not verified by ACPS.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 498000.0,
+            "context": "Estimated cost differential for fiscal year 2011"
+          },
+          {
+            "amount": 390000.0,
+            "context": "Estimated cost differential for fiscal year 2010"
+          }
+        ],
+        "recommendation": "ACPS should ensure that all rates and data used to determine payments to bus contractors are supported, documented, and verified.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "ACPS Did Not Use Automated Routing to Develop More Efficient Routes",
+        "description": "ACPS did not use automated bus routing software capabilities and had not developed comprehensive policies for determining appropriate bus routes.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should use automated routing software to develop more efficient bus routes and develop formal policies regarding bus capacities and student ride times.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "ACPS Has Experienced Persistent Deficits in its Food Service Operations",
+        "description": "Food service expenditures have regularly exceeded revenues for fiscal years 2008 to 2011 by almost $4 million due to personnel costs and low productivity.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 687000.0,
+            "context": "Food service operations expenditures exceeded revenues for fiscal year 2011"
+          },
+          {
+            "amount": 4000000.0,
+            "context": "Total deficits in the aggregate for fiscal years 2008 to 2011"
+          }
+        ],
+        "recommendation": "ACPS should analyze its food service operations data to identify inefficiencies and develop performance measures with benchmarks.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "Proper Internal Controls Were Not Established Over Food Services Inventory",
+        "description": "Internal controls over food services inventory were not adequate as cafeteria managers had complete control without independent oversight and there was no mechanism to reconcile sales to production logs.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should segregate duties of ordering and receiving food items, independently verify inventory results, reconcile sales with production reports, and adjust recipes to reflect actual products used.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 19,
+        "title": "The Disclosure Form Used to Identify Potential Conflicts of Interest Could be Improved",
+        "description": "ACPS adopted an ethics policy that met requirements but the disclosure form used to identify potential conflicts of interest could be improved.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "ACPS should improve the disclosure form used to identify potential conflicts of interest.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 27,
+    "prior_findings_repeated": 11,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The provided text does not contain the agency's formal response content (Appendix A), only references to it in the table of contents.",
+    "total_dollar_impact": 1047365.0,
+    "extraction_notes": "Report date derived from 'January 2013' header. Audit period dates not explicitly stated as a range. Dollar amounts converted to integers. Repeat status determined by asterisk or '(repeat)' marker in recommendation text."
+  },
+  "validation_flags": [
+    "repeat_count_mismatch: extracted 11, asterisk markers 10"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T17:03:10.050157",
+  "content_hash": "8d05ecb7de4aa34ff5a38e1bd3a8e1dd8a8fb712",
+  "duplicate_of": null
+}

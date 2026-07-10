@@ -1,0 +1,87 @@
+{
+  "extraction": {
+    "agency_name": "St. Mary\u2019s County Public Schools",
+    "parent_department": null,
+    "report_date": "2021-05-17",
+    "audit_period_start": "2020-04-20",
+    "audit_period_end": "2020-12-28",
+    "findings": [
+      {
+        "number": 1,
+        "title": "SMCPS procurement policies did not incorporate certain requirements of State law and recognized best practices when participating in intergovernmental cooperative purchasing agreements.",
+        "description": "SMCPS procurement policies lacked requirements of State law and best practices regarding intergovernmental cooperative purchasing agreements (ICPAs). Testing of nine ICPAs totaling $5.6 million showed missing written assessments, cost analyses, and verification steps required by law or best practice.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5600000.0,
+            "context": "contract awards totaling approximately $5.6 million"
+          }
+        ],
+        "recommendation": "We recommend that SMCPS incorporate the aforementioned statutory requirement and other identified and acknowledged best practices into its procurement policies, and ensure that the performance of the requirement and best practices is documented when evaluating the participation in ICPAs.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-06-30"
+      },
+      {
+        "number": 2,
+        "title": "Sensitive personally identifiable information was maintained without adequate safeguards and being identified.",
+        "description": "Sensitive personally identifiable information was maintained without adequate safeguards or identification on a computer system containing significant records. Personnel had access to this data, but an inventory of systems storing PII had not been performed to identify necessary retention or deletion.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that SMCPS a. implement appropriate information security safeguards for its stored sensitive PII; and b. perform an annual inventory of all of its systems, identify all sensitive PII, and delete all unnecessary PII.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-06-30"
+      },
+      {
+        "number": 3,
+        "title": "Certain servers were improperly located within the internal network, and security settings for SMCPS\u2019 password controls for network authentication were not adequate.",
+        "description": "Certain servers were located in the internal network rather than a protected zone, creating security risks. Additionally, password control settings for network authentication did not meet best practice requirements regarding length, history, and expiration for approximately 3,800 accounts.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that SMCPS a. relocate servers, as appropriate, to a separate protected network zone to limit security exposures to the internal network segment; and b. establish appropriate password controls over user network authentication.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-06-30"
+      },
+      {
+        "number": 4,
+        "title": "Certain elements of the payments to bus contractors did not reflect actual costs or could not be supported resulting in potentially higher payments than necessary for student transportation services.",
+        "description": "SMCPS could not support $3.2 million paid for per-mile maintenance costs or document the reasonableness of $919,000 in administrative costs paid to bus contractors. Standard contract language also lacked a right-to-audit provision allowing verification of actual contractor costs.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": 9,
+        "dollar_amounts": [
+          {
+            "amount": 3200000.0,
+            "context": "estimated $3.2 million it paid to bus contractors for per-mile bus maintenance costs"
+          },
+          {
+            "amount": 919000.0,
+            "context": "administrative costs of $4,835 per bus... estimated totaled $919,000 for all contractors"
+          }
+        ],
+        "recommendation": "We recommend that SMCPS a. use actual documented maintenance costs, cost studies, or independently derived estimates for establishing contractor rates for per-mile maintenance costs (repeat); b. document the reasonableness of the annual administrative costs paid to contractors (repeat); and c. include provisions to audit the bus contractors in future contracts and use it to determine the actual cost of operating contractor buses.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-06-30"
+      }
+    ],
+    "prior_findings_count": 14,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "SMCPS generally agreed with all findings and recommendations, providing specific corrective action plans and completion dates for each recommendation.",
+    "total_dollar_impact": 4119000.0,
+    "extraction_notes": "Audit period derived from fieldwork dates explicitly stated in the report. Prior finding number extracted from Status of Preceding Findings table linking Finding 9 to Current Finding 4."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 4, regex counted 6"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T21:00:27.866590",
+  "content_hash": "cbb2e38724d9d5c07424db1b07503ad2100dca70",
+  "duplicate_of": null
+}

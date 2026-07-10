@@ -1,0 +1,35 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Lottery and Gaming Control Commission",
+    "parent_department": null,
+    "report_date": "2016-10-01",
+    "audit_period_start": "2014-01-01",
+    "audit_period_end": "2014-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain amended minority participation goals for five of the video lottery terminal licensees with related calendar year expenditures were not yet established.",
+        "description": "Certain amended calendar year 2014 minority participation goals had not been established for five video lottery terminal (VLT) licensees; including four goals for which there were calendar year 2014 expenditures. Each of the six licensees should have three goals established \u2013 one each related to architectural/engineering, construction, and operational procurement activities, resulting in a total of 18 goals. As of June 30, 2016, 10 goals had been established, 5 goals were in process, and 3 goals (for which there was no calendar year 2014 financial activity) had not been established.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that MLGCC establish amended minority participation goals for all categories in which VLT licensees have expenditures.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MLGCC's responses to findings and recommendations appear as an appendix to this report; specific agreement or completion dates are not stated in the provided text.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'October 2016'. Audit period derived from scope 'calendar year 2014'. Finding marked with asterisk and recommendation marked '(repeat)'. Prior findings status found in 'Status of Findings From Preceding Audit Report' section. Agency response content not included in provided text snippet."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T22:14:01.738185",
+  "content_hash": "f0af07626835cc2ab109e3ba10acef765337bd72",
+  "duplicate_of": null
+}

@@ -1,0 +1,244 @@
+{
+  "extraction": {
+    "agency_name": "Worcester County Public Schools",
+    "parent_department": "Worcester County Public Schools",
+    "report_date": "2010-11-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Revenue and Billing Cycle",
+        "description": "Controls over cash receipts received at the central business office need to be improved. Collections were not recorded and checks were not restrictively endorsed upon receipt. Verifications that recorded collections were subsequently deposited were not performed.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21000000.0,
+            "context": "Cash receipts received at the central business office"
+          }
+        ],
+        "recommendation": "WCPS should ensure that all receipts are immediately recorded and that checks are restrictively endorsed upon receipt. In addition, an employee independent of the cash receipts process should verify that all recorded receipts were deposited.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Procurement and Disbursement Cycle",
+        "description": "WCPS did not have Board approved policies governing procurements. Internal controls over invoice processing were inadequate due to incompatible functions assigned to employees. WCPS did not always competitively bid procurements or provide justification for sole source procurements.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 54000000.0,
+            "context": "Non-payroll disbursements during fiscal year 2009"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "Test of disbursements disclosed issues"
+          },
+          {
+            "amount": 115000.0,
+            "context": "Purchases not competitively bid or supported by sole-source justifications"
+          },
+          {
+            "amount": 221800.0,
+            "context": "Computer items purchased without documented discounts from list price"
+          },
+          {
+            "amount": 80040.0,
+            "context": "Amount paid to waste management vendor in fiscal year 2009"
+          },
+          {
+            "amount": 85500.0,
+            "context": "Law firm paid during fiscal year 2009"
+          }
+        ],
+        "recommendation": "WCPS should develop procurement policies that address all categories of goods and services purchases. WCPS should improve controls over its invoice processing system by segregating incompatible functions. WCPS should obtain goods and services through a properly documented competitive procurement process.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Human Resources and Payroll",
+        "description": "WCPS did not adequately separate duties to establish effective internal control over its automated payroll systems. One employee had incompatible functions including creating manual checks and deleting employees. Final payouts for terminated employees were not subject to independent review.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 75000000.0,
+            "context": "Salary, wage, and benefit costs during fiscal year 2009"
+          },
+          {
+            "amount": 138000.0,
+            "context": "Final payouts for unused annual and sick leave for terminated employees not subject to independent review"
+          }
+        ],
+        "recommendation": "WCPS should improve controls over the payroll system by segregating incompatible functions and ensuring that payroll transactions are reviewed. WCPS should expand its workforce planning to include key non-instructional positions.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Inventory Control and Accountability",
+        "description": "WCPS policies did not address segregation of recordkeeping or tracking of sensitive items. There was an inadequate separation of duties between custody and physical inventory responsibilities. Deletions of non-IT items from the inventory were not approved.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3200000.0,
+            "context": "Undepreciated cost of capital equipment as of June 30, 2009"
+          },
+          {
+            "amount": 41505.0,
+            "context": "Test of items values disclosed issues"
+          },
+          {
+            "amount": 6294.0,
+            "context": "Items not properly tagged"
+          },
+          {
+            "amount": 122000.0,
+            "context": "Non-IT items deleted from inventory without approval in fiscal year 2009"
+          }
+        ],
+        "recommendation": "WCPS should improve the accountability for its equipment by developing and enforcing comprehensive written policies and procedures to govern the accounting and safeguarding of equipment.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Information Technology Services",
+        "description": "WCPS needs to strengthen password policies, enable logging and reporting of security events, properly document sanitation of disposed computer equipment, and improve its disaster recovery plan. Physical controls over data processing functions need improvement.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "WCPS should implement appropriate security measures to safeguard its applications and data systems. WCPS should develop and implement a comprehensive disaster recovery plan.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Facilities Construction, Renovation, and Maintenance",
+        "description": "WCPS had not developed formal policies to establish internal control over critical construction procedures. There was no written policy to govern the bidding and awarding of construction contracts. WCPS had not established formal performance measures for maintenance operations.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1691500.0,
+            "context": "Contract amount for construction management project in 2006"
+          },
+          {
+            "amount": 2213384.0,
+            "context": "Contract amount for construction management project in 2007"
+          }
+        ],
+        "recommendation": "WCPS should develop formal policies governing construction contract procurements. WCPS should develop a performance measurement system that establishes standards and expectations for maintenance and custodial operations.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Transportation Services",
+        "description": "WCPS did not establish comprehensive bus routing procedures nor use automated routing software. WCPS did not have a written policy establishing the criteria for determining bus contractor payment rates. The methodology used may result in paying $3.9 million more than necessary.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5300000.0,
+            "context": "Fiscal year 2009 transportation costs"
+          },
+          {
+            "amount": 3900000.0,
+            "context": "Estimated overpayment over the life of new buses put into service since 1996"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "Amount already paid out through fiscal year 2010"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "Remaining amount to be paid during fiscal years 2011 to 2024"
+          }
+        ],
+        "recommendation": "WCPS should better document the procedures used to determine bus routes. WCPS should establish a written policy on how components of the bus contractor payment rates are to be determined. WCPS should analyze bus contractors pay to determine whether the rates are reasonable.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Food Services Operations",
+        "description": "WCPS should improve internal controls over the procurement of food supplies. WCPS did not include indirect costs in the annual budget prepared for food service operations. WCPS had not assessed the meals per labor hour efficiency.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 23481.0,
+            "context": "Food service expenditures exceeded revenues for fiscal year 2009"
+          },
+          {
+            "amount": 340000.0,
+            "context": "Estimated indirect costs totaled for the food service department for fiscal year 2007"
+          },
+          {
+            "amount": 373000.0,
+            "context": "Potential deficit if indirect costs had been included in fiscal year 2007"
+          },
+          {
+            "amount": 176454.0,
+            "context": "Potential savings based on meals per labor hour efficiency improvement"
+          }
+        ],
+        "recommendation": "WCPS should improve controls over its purchase of food supplies. WCPS should identify all food service department costs to properly reflect the department's full operating costs.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 19,
+        "title": "The Board Should Obtain Required Approval for Its Ethics Policy and Ensure Compliance With the Policy",
+        "description": "The Board needs to have its ethics policy approved by the State as required; however, changes made to the policy in August 1990, February 2003, October 2005, and May 2010 were not approved by the State Ethics Commission. The May 2010 policy eliminated certain conflict of interest provisions included in the October 2005 policy. Additionally, arrangements existed during the audit period that appeared in opposition to the WCPS ethics policy, such as a Board member being a paid bus contractor without filing a required disclosure statement and another Board member receiving payments for services without competitive procurement or disclosure.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board should obtain approval from the State Ethics Commission for all changes to its ethics policy to ensure consistency with State law requirements. WCPS should ensure that persons subject to the policy comply with the requirements and that any potential conflicts are formally addressed by the Ethics Panel.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 20,
+        "title": "The Board Should Take Additional Steps to Improve Its Oversight Functions",
+        "description": "WCPS had not adopted any key performance measures for financial operations to assist the Board in overseeing and evaluating progress. WCPS does not have an internal auditor, which is a recommended best practice of the Government Finance Officers Association. A confidential hotline has not been implemented to enable employees and others to report suspected fraud, waste, or mismanagement.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board should adopt comprehensive performance measures in key operational areas, such as transportation, food service, and facilities management, to assist in its oversight duties; such data should be periodically reviewed by the Board. In addition, the Board should also enhance its oversight of WCPS operations by considering the establishment of an internal audit function and a hotline for the confidential reporting of operational issues and suspected fraud, waste, and mismanagement.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "WCPS' response to this audit is included as an appendix to this report.",
+    "total_dollar_impact": 4191454.0,
+    "extraction_notes": "Findings extracted based on Chapters containing recommendations. Audit period dates not explicitly stated in 'beginning/ending' format."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 10, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T22:06:52.617172",
+  "content_hash": "9dc571308bef28a88967ad46b86a9ddee669d9e8",
+  "duplicate_of": null
+}

@@ -1,0 +1,106 @@
+{
+  "extraction": {
+    "agency_name": "Department of Transportation",
+    "parent_department": "Department of Transportation",
+    "report_date": "2016-02-01",
+    "audit_period_start": "2011-07-05",
+    "audit_period_end": "2015-01-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MDOT did not establish an adequate process to verify that WMATA operating and capital grant award amounts were properly calculated, and had not audited the grants provided beyond fiscal year 2009.",
+        "description": "MDOT lacked a documented review process for WMATA grant calculations and had not conducted audits since FY 2009, leaving assurance on subsidy accuracy lacking despite complex formulas. MDOT could not obtain documentation to support ridership figures, subsidy adjustments, or capital improvement plan budgets totaling hundreds of millions.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 409600000.0,
+            "context": "total operating and capital grant awards"
+          },
+          {
+            "amount": 106600000.0,
+            "context": "Metrobus component of the operating subsidy"
+          },
+          {
+            "amount": 63700000.0,
+            "context": "MetroAccess component of the operating subsidy"
+          },
+          {
+            "amount": 11600000.0,
+            "context": "adjustment to operating subsidy calculations"
+          },
+          {
+            "amount": 69500000.0,
+            "context": "capital improvement plan budget component"
+          }
+        ],
+        "recommendation": "MDOT should establish a comprehensive process to verify WMATA's annual grant subsidies are properly calculated, obtain supporting documentation, perform documented reviews, and conduct annual audits.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MDOT did not always comply with State procurement regulations with respect to bidding requirements and publishing contract awards. MDOT also awarded contracts in amounts substantially higher than could be supported by the related bids.",
+        "description": "MDOT failed to properly secure vendor bids for IT contracts, record bid receipt/opening dates, publish awards on eMM, and awarded two contracts for amounts unsupported by bid documentation. Confidential bid information could be accessed without detection due to improper email security.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31300000.0,
+            "context": "IT related contract awards not properly secured"
+          },
+          {
+            "amount": 20900000.0,
+            "context": "contract where bid receipt documentation was missing"
+          },
+          {
+            "amount": 8600000.0,
+            "context": "additional contract solicitations not published on eMM"
+          },
+          {
+            "amount": 4400000.0,
+            "context": "option years values that could not be supported"
+          }
+        ],
+        "recommendation": "MDOT should comply with State procurement regulations by restricting access to bids, recording bid dates and witnesses, publishing awards on eMM, and ensuring award amounts are supported.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-10-01"
+      },
+      {
+        "number": 3,
+        "title": "MDOT did not monitor employment agreements with two individuals. As a result, payments to one individual exceeded the contract amount by $142,000. Payments totaling $249,000 were made for services provided by the other individual after the agreement had expired.",
+        "description": "MDOT failed to monitor temporary employment agreements, resulting in overpayments of $142,000 on one contract and payments of $249,000 for services rendered after an interagency agreement expired. MDOT paid significantly more than the maximum annual compensation allowed for one individual.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 142000.0,
+            "context": "payments exceeding contract amount"
+          },
+          {
+            "amount": 249000.0,
+            "context": "payments for services after agreement expired"
+          }
+        ],
+        "recommendation": "MDOT should monitor temporary employment agreements to ensure payments do not exceed maximum allowable amounts and ensure executed agreements are established for the duration of performance.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MDOT concurred with all recommendations and outlined steps to implement procedures such as documenting grant subsidy analysis, password-protecting bid responses, monitoring contract expenditures, and ensuring executed agreements for future projects.",
+    "total_dollar_impact": 4791000.0,
+    "extraction_notes": "Report date derived from 'February 2016' header. Audit period from Scope section. Dollar amounts converted to integers. Fiscal year dates treated as null due to lack of specific day/month mapping."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:05:33.371173",
+  "content_hash": "542aa93510112e5490e2f4e2e5a7695f9f106f2d",
+  "duplicate_of": null
+}

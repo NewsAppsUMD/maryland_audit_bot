@@ -1,0 +1,72 @@
+{
+  "extraction": {
+    "agency_name": "Bowie State University",
+    "parent_department": "University System of Maryland",
+    "report_date": "2025-04-17",
+    "audit_period_start": "2020-05-01",
+    "audit_period_end": "2024-02-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Bowie State University (BSU) did not ensure that adjustments to student accounts were proper and did not refer delinquent accounts to the State\u2019s Central Collection Unit as required.",
+        "description": "BSU failed to timely review $7.5 million in adjustments to student accounts made during calendar year 2023 until February 2024. Additionally, BSU had not referred delinquent accounts to the Central Collection Unit (CCU) as of September 2024, with 2,860 accounts totaling $13.4 million outstanding more than 265 days.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7500000.0,
+            "context": "adjustments to student accounts made during calendar year 2023"
+          },
+          {
+            "amount": 13400000.0,
+            "context": "student accounts with balances of at least $1,000 totaling outstanding more than 265 days"
+          },
+          {
+            "amount": 159000.0,
+            "context": "test of 10 material adjustments made in calendar year 2023"
+          }
+        ],
+        "recommendation": "a. perform timely and comprehensive reviews of adjustments to student accounts, at least on a test basis; and b. refer delinquent student accounts to CCU in accordance with its agreement with CCU.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 2025, July 2025"
+      },
+      {
+        "number": 2,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "The analysis section for this finding has been redacted from this public report in accordance with State law.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "The analysis section for this finding has been redacted from this public report in accordance with State law.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland agreed to all recommendations for Finding 1 with completion dates in March and July 2025. Responses for Findings 2 and 3 were redacted but indicated agreement with the findings.",
+    "total_dollar_impact": 20900000.0,
+    "extraction_notes": "Dollar amounts converted from text ($7.5 million = 7500000). Report date taken from transmittal letter (April 17, 2025). Audit period from audit scope section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:39:48.007958",
+  "content_hash": "cd4c6b3ba00333495c3ad96843b2b71c391955ce",
+  "duplicate_of": "5a8f4d0bcc9d7245606742ae"
+}

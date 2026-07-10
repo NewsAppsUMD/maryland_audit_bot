@@ -1,0 +1,47 @@
+{
+  "extraction": {
+    "agency_name": "Judiciary",
+    "parent_department": "Judiciary",
+    "report_date": "2012-02-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2011-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Time Taken by the District Courts to Record Civil Complaints into the Case Management System Varied Among the Districts",
+        "description": "Our analysis disclosed that the time taken by the district courts to initially record civil complaints into the case management system varied among the districts. The districts attributed delays in recording complaints to temporary staffing shortages.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Judiciary a. investigate the reasons for delays in initially recording civil case filings into the case management system, and b. ensure that appropriate measures are taken to address such delays.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Judiciary Had Not Established Processing Time Standards for Recording District Court Civil Complaints into the Case Management System Nor Monitored the Courts\u2019 Processing Performance",
+        "description": "Our audit disclosed that the Judiciary had not established time standards specifying how soon after the receipt of a civil case filing the courts should be recording the information into the case management system. Also, the Judiciary did not monitor the length of time taken by the courts to record the information into the system.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Judiciary a. establish time standards for district courts to record civil case filings into the case management system, and b. monitor the district courts\u2019 performance against the established standards.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Judiciary\u2019s response to our findings and recommendations is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'February 2012'. Audit period derived from methodology section. Agency response content not present in provided text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T23:26:43.045921",
+  "content_hash": "e9e4771c2a3a614aebc760abbd4545e9be4e5e4a",
+  "duplicate_of": null
+}

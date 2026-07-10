@@ -1,0 +1,59 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland Office",
+    "parent_department": null,
+    "report_date": "2015-05-01",
+    "audit_period_start": "2011-03-31",
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Network Workstations and Servers Were Not Sufficiently Protected Against Malware",
+        "description": "The Office's network workstations and servers were not sufficiently protected against malware due to a lack of enterprise-wide management tools for anti-malware software on 237 workstations and 49 servers. Records indicated 43 servers lacked anti-malware software, tested workstations had outdated signatures, and 48 employees improperly held administrator rights.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Office a. use an enterprise-wide management tool to ensure that anti-malware software is installed on the Office's workstations and servers; b. regularly confirm that all workstations and servers are configured with anti-malware software that is operating properly, up to date and has current anti-malware signatures, document these efforts and retain this documentation for future reference; c. ensure that administrator rights on workstations are restricted to network administrators; and d. promptly install all critical security-related software updates.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Office's Network Was Not Adequately Secured",
+        "description": "The Office's network was not adequately secured from untrusted traffic as two critical firewalls allowed access to internal devices and a trusted neutral zone. Untrusted guest wireless users had unnecessary network-level access to servers, and 10 outdated firewall rules were identified.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Office improve its network security by updating the aforementioned firewalls' rules to implement a 'least privilege' security strategy to better protect critical network devices, including those devices and servers in the neutral network zone.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-01-01"
+      },
+      {
+        "number": 3,
+        "title": "The Office Did Not Ensure Compliance With Certain Reporting Requirements to Monitor Affiliated Foundations",
+        "description": "The Office did not ensure compliance with reporting requirements intended to monitor affiliated foundations as procedures were ineffective. The audit disclosed that required reports for fiscal years 2012 and 2013 were not obtained from foundations, reports were not submitted to the Legislative Reference Office as required, and no annual report was issued to the Joint Audit Committee.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Office a. obtain all required reports from affiliated foundations, including those from fiscal years 2012 and 2013, and verify and document any reports that are not submitted because the reports are not applicable to the foundation; b. submit foundation reports to the Legislative Reference Office within 180 days of USM's fiscal year end; c. formalize and document its review of the foundation reports and any related follow-up action, and d. annually issue the required report of the operations of affiliated foundations to the General Assembly's Joint Audit Committee.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System Office agreed with all findings and recommendations. For Finding 1, they are implementing centralized management for anti-virus/malware updates and removing administrative rights. For Finding 2, firewall rules were adjusted or removed by December 2014 and access levels reduced in January 2015. For Finding 3, the Office agreed with the finding (noting no indication of issues in materials prior to October 2014), is conducting a second review for missing reports, will submit reports to the Legislative Reference Office, formalize document reviews, and issue annual reports.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'May 2015'. Audit period explicitly stated in Scope section. Prior findings count (7) found in Status of Findings section; none repeated as they were addressed/closed."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:51:02.418362",
+  "content_hash": "f72ac17d35d5570c03758fc14245380e32acb752",
+  "duplicate_of": null
+}

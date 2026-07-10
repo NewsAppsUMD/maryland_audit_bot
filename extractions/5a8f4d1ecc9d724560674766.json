@@ -1,0 +1,73 @@
+{
+  "extraction": {
+    "agency_name": "Western Maryland Hospital Center",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2015-10-01",
+    "audit_period_start": "2012-05-07",
+    "audit_period_end": "2015-03-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Western Maryland Hospital Center (WMHC) did not perform a sufficient verification of pharmaceutical contractor invoices prior to payment.",
+        "description": "Billings from WMHC\u2019s pharmaceutical contractor were not adequately verified prior to payment, including failure to verify costs covered by insurance and lack of wholesaler invoice verification. A test noted one overbilling case resulting in $4,245 excess billing, leading to a total credit of $25,639 for identified overbillings upon review.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4245.0,
+            "context": "overbilling"
+          },
+          {
+            "amount": 25639.0,
+            "context": "credit for identified overbillings"
+          }
+        ],
+        "recommendation": "We recommend that WMHC ensure that invoiced pharmaceuticals costs are only for those costs not covered by the patients\u2019 insurance (or for patients without insurance) as specified by the contract; delivered and invoiced pharmaceuticals agree to appropriate documentation; pharmaceutical costs are billed at the wholesale cost paid by the contractor; and applicable invoice credits are identified and received for all pharmaceuticals returned to the contractor, including the $25,639 credit for the identified overbilling.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "WMHC did not adequately review and approve labor hours billed by a contractor providing professional management personnel.",
+        "description": "WMHC did not adequately review and approve labor hours billed by a contractor, as timesheets were not approved or obtained to support the hours worked for two individuals in tested invoices totaling approximately $218,800. One individual had no timesheets for $12,000 invoiced, while another's timesheets only supported $16,800 of $20,160 invoiced.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 218800.0,
+            "context": "test of two invoices"
+          },
+          {
+            "amount": 12000.0,
+            "context": "unsupported billings for one individual"
+          },
+          {
+            "amount": 20160.0,
+            "context": "invoiced amount for second individual"
+          },
+          {
+            "amount": 16800.0,
+            "context": "supported hours for second individual"
+          }
+        ],
+        "recommendation": "We recommend that WMHC ensure that invoiced services agree to contract terms and supporting documentation, as applicable, prior to payment; and perform a review of all previously paid invoices to determine if hours billed by the contractor were supported by the hours worked and take corrective action (such as requesting approved timesheets or a refund for any unsupported billings), as necessary.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Administration concurs with the findings and recommendations. For Finding 1, they will ensure invoiced costs match contract terms, documentation agrees to records, costs are billed at wholesale, and credits are received. For Finding 2, they will ensure services agree to contracts prior to payment and review previously paid invoices for supported hours.",
+    "total_dollar_impact": 40999.0,
+    "extraction_notes": "Report date derived from 'October 2015' header. Audit period from Scope section. Dollar amounts converted to integers. Prior findings status not explicitly stated in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:06:31.628868",
+  "content_hash": "135b20cd6b6e2fb331186bb05cc53236ab506684",
+  "duplicate_of": "5a8f4d1ecc9d724560674762"
+}

@@ -1,0 +1,224 @@
+{
+  "extraction": {
+    "agency_name": "Department of Assessments and Taxation",
+    "parent_department": "Department of Assessments and Taxation",
+    "report_date": "2013-02-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "DAT Had Not Developed a Comprehensive Compliance Program to Help Ensure That HTCs Are Only Granted for Eligible Properties",
+        "description": "DAT had not developed a documented comprehensive compliance program establishing responsibilities and processes for headquarters and local offices, nor written procedures for initial processing or ongoing eligibility monitoring. DAT also had not performed a resource analysis to determine if additional resources were needed.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8903.0,
+            "context": "County HTCs improperly received for 6 properties"
+          },
+          {
+            "amount": 142.0,
+            "context": "State HTCs improperly received for 6 properties"
+          },
+          {
+            "amount": 87000000.0,
+            "context": "Total HTCs for tax year beginning July 1, 2013"
+          }
+        ],
+        "recommendation": "DAT should develop and document a comprehensive compliance program, provide for periodic monitoring by headquarters of HTC compliance activities at local offices, and perform an analysis of personnel and resource funding requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-06-30"
+      },
+      {
+        "number": 2,
+        "title": "Procedures Over the HTC Application Processing Need Improvement",
+        "description": "DAT has not routinely compared property owner names on applications to real property records. Independent supervisory review of suspended application approvals was lacking due to supervisors also approving applications. There was a backlog of unprocessed applications.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8200000.0,
+            "context": "County property tax revenue reduction for FY 2013 based on name mismatches"
+          },
+          {
+            "amount": 146000.0,
+            "context": "State property tax revenue reduction for FY 2013 based on name mismatches"
+          }
+        ],
+        "recommendation": "DAT should compare names on applications to listed owners and investigate discrepancies, ensure independent supervisory personnel verify propriety of suspended applications, and process the backlog as soon as possible.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-03-31"
+      },
+      {
+        "number": 3,
+        "title": "DAT Did Not Establish Adequate Controls Over Its Automated Records to Prevent or Detect Unauthorized Changes to HTC Eligibility Determinations",
+        "description": "System access was not adequately restricted and edits to critical data fields were not subject to independent supervisory review. Discrepancies existed between AAVS system data and the Homestead Application System regarding eligibility.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DAT should establish procedures to ensure edits are independently reviewed, evaluate and restrict employee access capabilities for critical data fields, and identify all discrepancies between systems.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-12-31"
+      },
+      {
+        "number": 4,
+        "title": "Certain Policies and Requirements Could be Established to Improve DAT Oversight of the HTC Program",
+        "description": "DAT did not develop a policy regarding recovery of all improperly granted HTCs as allowable under law. There is no legal requirement for homeowners to notify DAT of changes in property status affecting eligibility.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 52516.0,
+            "context": "County taxes improperly reduced for 30 properties during fiscal years 2006 through 2012"
+          },
+          {
+            "amount": 6435.0,
+            "context": "State taxes improperly reduced for 30 properties during fiscal years 2006 through 2012"
+          }
+        ],
+        "recommendation": "DAT should develop a policy regarding recovery of HTCs granted for ineligible properties to the fullest extent allowable under law and consider proposing legislation requiring homeowners to notify DAT regarding changes in property status.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DAT Does Not Plan to Investigate the Propriety of HTCs Received in Prior Years on Properties Removed From Eligibility After the Application Filing Period",
+        "description": "DAT does not have a plan to evaluate the propriety of HTCs received in prior years on properties removed from eligibility after the December 31, 2012 deadline. DAT officials advised they do not have resources to pursue such cases.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 86900000.0,
+            "context": "FY 2014 County property tax bills reduction for properties designated for HTCs"
+          },
+          {
+            "amount": 409000.0,
+            "context": "FY 2014 State property tax bills reduction for properties designated for HTCs"
+          }
+        ],
+        "recommendation": "DAT should develop a plan to investigate property owners who have previously received HTCs for which applications had not been submitted or approved and request local taxing authorities to recover taxes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "DAT\u2019s Real Property Records Were Not Formatted in a Manner to Facilitate Computer Matches",
+        "description": "Owner names were not consistently recorded in the same data fields and all owners were not always specifically listed. This makes it impractical for the HTC application system to automatically compare applicant names to property owner names.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DAT should determine the feasibility of establishing a protocol for recording owner names uniformly and adding all owners to current real property records.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Additional Automated Procedures Are Available to Help Ensure Properties Remain Eligible for the HTC on an Ongoing Basis",
+        "description": "DAT has not established a comprehensive compliance program to verify ongoing eligibility. Various automated matching processes (MVA match, Income Tax Records Match, etc.) could enhance DAT's ability to identify properties no longer eligible.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7200000.0,
+            "context": "FY 2013 county property taxes reduced for properties with surrendered driver's licenses"
+          },
+          {
+            "amount": 32000.0,
+            "context": "FY 2013 state property taxes reduced for properties with surrendered driver's licenses"
+          },
+          {
+            "amount": 178000.0,
+            "context": "County taxes improperly reduced during fiscal years 2010 through 2013 based on MVA match test"
+          },
+          {
+            "amount": 9000.0,
+            "context": "State taxes improperly reduced during fiscal years 2010 through 2013 based on MVA match test"
+          },
+          {
+            "amount": 2800000.0,
+            "context": "FY 2013 county property taxes reduced for properties with out-of-state tax return addresses"
+          },
+          {
+            "amount": 25000.0,
+            "context": "FY 2013 state property taxes reduced for properties with out-of-state tax return addresses"
+          },
+          {
+            "amount": 48200000.0,
+            "context": "FY 2013 county property taxes reduced for properties with different Maryland address on tax returns"
+          },
+          {
+            "amount": 493000.0,
+            "context": "FY 2013 state property taxes reduced for properties with different Maryland address on tax returns"
+          },
+          {
+            "amount": 248133.0,
+            "context": "County taxes improperly reduced during fiscal years 2007 through 2013 based on Income Tax Records test"
+          },
+          {
+            "amount": 22111.0,
+            "context": "State taxes improperly reduced during fiscal years 2007 through 2013 based on Income Tax Records test"
+          },
+          {
+            "amount": 5400000.0,
+            "context": "FY 2013 county property taxes reduced for properties with same mailing address as another property"
+          },
+          {
+            "amount": 148000.0,
+            "context": "FY 2013 state property taxes reduced for properties with same mailing address as another property"
+          },
+          {
+            "amount": 95500.0,
+            "context": "County taxes improperly reduced during fiscal years 2007 through 2013 based on Multiple Properties Analysis test"
+          },
+          {
+            "amount": 5600.0,
+            "context": "State taxes improperly reduced during fiscal years 2007 through 2013 based on Multiple Properties Analysis test"
+          },
+          {
+            "amount": 3300000.0,
+            "context": "FY 2013 county property taxes reduced for properties identified as rental properties"
+          },
+          {
+            "amount": 53000.0,
+            "context": "FY 2013 state property taxes reduced for properties identified as rental properties"
+          },
+          {
+            "amount": 54000.0,
+            "context": "County taxes improperly reduced during fiscal years 2007 through 2013 based on Rental Properties Match test"
+          },
+          {
+            "amount": 2600.0,
+            "context": "State taxes improperly reduced during fiscal years 2007 through 2013 based on Rental Properties Match test"
+          },
+          {
+            "amount": 15300.0,
+            "context": "County taxes improperly reduced during fiscal years 2007 through 2013 based on Foreclosure review test"
+          }
+        ],
+        "recommendation": "DAT should develop automated procedures to detect properties that are ineligible for the HTC on an ongoing basis, such as data matches against other state and local agencies' records.",
+        "agency_agrees": true,
+        "agency_completion_date": "2013-12-31"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department concurs with the Auditors' findings and recommendations, agreeing to develop a comprehensive compliance manual by fiscal 2014, implement automated matching procedures by late 2013, and request additional funding for staff in the Fiscal 2015 budget. They note that some legal interpretations regarding recapture periods differ but will introduce legislation at the 2014 session.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period dates not explicitly stated as 'for the period beginning/ending'. Criminal referral refers to DAT investigation, not AG Criminal Division. Dollar amounts converted from text descriptions."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T23:18:53.385236",
+  "content_hash": "2cf45eab06abb7c2d2236835c7cc35ca1ac24a7e",
+  "duplicate_of": null
+}

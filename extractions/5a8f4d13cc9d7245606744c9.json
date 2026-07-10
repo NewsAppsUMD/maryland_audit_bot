@@ -1,0 +1,339 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Health",
+    "parent_department": "Maryland Department of Health",
+    "report_date": "2017-08-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Medical Care Programs Administration (MCPA) did not assign a temporary enrollment status to 11,153 new enrollees, resulting in delays in placing individuals in Managed Care Organizations (MCOs).",
+        "description": "MCPA identified 11,153 new recipients whose enrollment in an MCO was delayed due to lack of temporary enrollment status caused by computer compatibility issues between MMIS II and HBX. This resulted in claims being paid on a fee-for-service basis rather than by an MCO.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13300000.0,
+            "context": "fee-for-service claims identified for recipients not assigned temporary enrollment status"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "total of 10 highest fee-for-service claims tested related to the issue"
+          },
+          {
+            "amount": 826000.0,
+            "context": "claims paid as fee-for-service for recipients who should have been enrolled in an MCO"
+          }
+        ],
+        "recommendation": "MCPA should take appropriate action to ensure compatibility of MMIS II and HBX software; implement monitoring procedures to ensure all eligible HealthChoice enrollees are placed in an MCO within 28 days.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The current memoranda of understanding (MOUs) with DHS and MHBE are not sufficient to ensure that eligibility determinations are timely and proper.",
+        "description": "Current MOUs do not require quality control procedures, address longstanding deficiencies, specify actions for fraud/abuse identification, or provide clear expectations for corrective action when deficiencies are identified.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MCPA should modify the MOUs with DHS and MHBE to require quality control procedures, address longstanding deficiencies, take specific steps when fraud or abuse is identified, and ensure corrective action is taken.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MCPA did not take timely follow-up action on questionable enrollee eligibility information it identified and did not ensure that critical eligibility information was properly recorded on MMIS II.",
+        "description": "MCPA failed to follow up on alerts regarding potentially ineligible recipients, missing SSNs, and data discrepancies. Errors in data entry resulted in overpayments of $2.4 million for 7 claims tested.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6000000.0,
+            "context": "total of 22 fee-for-service claims tested for improper payments"
+          },
+          {
+            "amount": 2400000.0,
+            "context": "improperly paid by MCPA as fee-for-service rather than by MCOs due to data entry errors"
+          }
+        ],
+        "recommendation": "MCPA should conduct timely follow-up of potentially ineligible recipients, generate reports on discrepancies, resolve discrepancies and document actions, establish supervisory review for changes, monitor timeliness of eligibility changes, recover overpayments, and monitor age-specific coverage groups.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "MCPA did not take timely action to ensure recipients age 65 or older had applied for Medicare as required by State regulations.",
+        "description": "MCPA paid $85.4 million in claims for 4,133 recipients age 65+ not enrolled in Medicare despite eligibility. Outreach notices were sent but not timely, and no monitoring process ensured DHS terminated benefits.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 85400000.0,
+            "context": "claims paid for recipients age 65 or older not enrolled in Medicare"
+          },
+          {
+            "amount": 103000.0,
+            "context": "Medicaid claims payments processed for 10 of 11 recipients during fiscal year 2015"
+          }
+        ],
+        "recommendation": "MCPA should establish a process to ensure recipients age 65 or older have applied for Medicare on a timely basis and ensure DHS terminates eligibility of recipients who do not reply.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MCPA did not ensure that all reports of potential third-party health insurance for Medicaid recipients were received and properly investigated in a timely manner.",
+        "description": "MHBE was not required to submit reports; MCPA lacked documentation to support investigations were completed. Testing showed no evidence supervisory review occurred for referrals.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 33000000.0,
+            "context": "recoveries from third-party insurers for the period between July 1, 2014 and April 30, 2015"
+          }
+        ],
+        "recommendation": "MCPA should require MHBE to submit reports of possible third-party insurance monthly, establish accountability over all referrals, conduct documented supervisory reviews, and ensure proper recording in MMIS II.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "MCPA did not always assess damages against its MCO enrollment broker which continuously failed to meet minimum enrollment levels required by the contract.",
+        "description": "Broker consistently failed to meet Voluntary Enrollment Rate (VER). MCPA could have assessed $227,000 in damages for FY2015 shortfalls but waived them without sufficient justification.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 84500000.0,
+            "context": "total contract cost for enrollment broker"
+          },
+          {
+            "amount": 7300000.0,
+            "context": "paid to the broker during fiscal year 2015"
+          },
+          {
+            "amount": 227000.0,
+            "context": "damages MCPA could have assessed on the broker for FY2015 VER shortfalls"
+          }
+        ],
+        "recommendation": "MCPA should assess damages when the enrollment broker does not achieve the contractually required level of performance.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "MCPA has not conducted required audits of hospital claims processed since calendar year 2007.",
+        "description": "MCPA failed to conduct recovery audits as required by federal regulations. OIG audited only 4 hospitals during the exemption period, identifying $234,000 in overpayments.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 900000000.0,
+            "context": "hospital claims payments during fiscal year 2015"
+          },
+          {
+            "amount": 10700000.0,
+            "context": "overpayments identified by vendor for claims paid during calendar years 2005 and 2006"
+          },
+          {
+            "amount": 234000.0,
+            "context": "overpayments identified in OIG audits of hospitals during the period between contracts"
+          }
+        ],
+        "recommendation": "MCPA should ensure hospital claims are audited in a timely manner and notify hospitals to retain claims data until audited.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "MCPA did not adequately monitor the vendors responsible for conducting credit balance audits and utilization reviews of long-term care facilities and/or hospitals.",
+        "description": "MCPA lacked a comprehensive list to monitor audits; audits were not timely (gaps up to 516 days). Verification of UCA reviews was discontinued due to staffing shortages.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 900000000.0,
+            "context": "claims processed by hospitals during fiscal year 2015"
+          },
+          {
+            "amount": 1200000000.0,
+            "context": "claims processed by LTC facilities during fiscal year 2015"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "paid to vendor conducting credit balance audits during fiscal year 2015"
+          },
+          {
+            "amount": 4200000.0,
+            "context": "recoveries from hospital credit balance audits initiated September 2010 through November 2014"
+          }
+        ],
+        "recommendation": "MCPA should ensure credit balance audits are performed for all facilities and sufficiently comprehensive; ensure UCA conducts proper continued stay and medical eligibility reviews.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "MCPA did not monitor the ASO to ensure that deficiencies noted during provider audits conducted by the ASO were corrected and related overpayments were recovered.",
+        "description": "MCPA did not maintain records of deficiencies/overpayments from ASO audits. Testing showed no follow-up for $21,000 in improper claims identified in 2 audits.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21000.0,
+            "context": "improper claims identified in provider audits where MCPA did not conduct follow-up"
+          }
+        ],
+        "recommendation": "MCPA should maintain a record of deficiencies and overpayments noted during provider audits and ensure corrective action is taken and documented.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "MCPA did not ensure the ASO resolved rejected behavioral health claims timely, resulting in the payment of potentially improper claims and lost federal fund reimbursements.",
+        "description": "Rejected claims totaling $1.5 million exceeded the two-year recovery period, resulting in $768,000 lost federal reimbursement. No attempts made to recover funds from ASO.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1500000.0,
+            "context": "claims paid during the period from September 24, 2009 to March 11, 2014 that were rejected for federal reimbursement"
+          },
+          {
+            "amount": 768000.0,
+            "context": "lost federal reimbursements due to claims exceeding two-year recovery period"
+          }
+        ],
+        "recommendation": "MCPA should enhance processes to ensure rejected claims are investigated and resolved timely; ensure ASO recovers amounts due from providers; determine feasibility of recovering lost funds.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Access controls over the ASO\u2019s servers hosting the portal and the web-server software were inadequate, intrusion detection prevention system coverage did not exist for encrypted traffic, and sensitive PII was stored without adequate safeguards.",
+        "description": "Default user account had unnecessary modification access; IDPS coverage missing for encrypted traffic; Sensitive PII stored in clear text.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MCPA should request ASO restrict default user account file modification access; implement IDPS coverage for encrypted traffic; require ASO encrypt files and database objects containing PII.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "MCPA did not ensure that the former DBA was properly administering the dental benefits program and was conducting required provider audits, and did not ensure bank accounts were reconciled, and sensitive data were secured.",
+        "description": "No independent annual audit of DBA conducted; only 32 of 1,354 providers audited in FY2015. $800,000 in denied claims awaiting resolution; $196,500 federal reimbursement lost on claims >2 years old.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 162500000.0,
+            "context": "DBA paid providers for services during fiscal year 2015"
+          },
+          {
+            "amount": 3400000.0,
+            "context": "MCPA paid DBA in administrative fees during fiscal year 2015"
+          },
+          {
+            "amount": 800000.0,
+            "context": "denied claims awaiting DBA resolution as of June 30, 2015"
+          },
+          {
+            "amount": 196500.0,
+            "context": "federal reimbursement lost on denied claims more than two years old"
+          }
+        ],
+        "recommendation": "MCPA should conduct annual audit of DBA; ensure DBA resolves rejected federal fund reimbursement claims; ensure required provider audits are conducted and sufficient; ensure bank reconciliations are dated, signed, and supported; require SOC 2 Type 2 review.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "Sensitive PII within the EDITPS database was stored and transmitted without adequate safeguards, and MCPA did not remediate 20 of the 21 reported security vulnerabilities identified in a consultant\u2019s report on EDITPS.",
+        "description": "Sensitive PII (SSNs) stored/transmitted in clear text; only 1 of 21 vulnerabilities remediated six months after report. Vulnerabilities included outdated database software.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MCPA should perform inventory of systems to identify sensitive PII; determine if necessary PII is properly protected; use encryption for sensitive PII in transit and at rest; ensure vulnerabilities are addressed.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "MCPA did not obtain documentation to support labor and overhead charges invoiced by UMBC, representing 72 percent of amounts billed under the agreement for MCO capitation rate-setting services.",
+        "description": "MCPA did not verify propriety of $6.2 million in UMBC charges (FY2015) as invoices lacked supporting documentation for labor/overhead costs.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6200000.0,
+            "context": "total UMBC charges for fiscal year 2015 under the agreement"
+          },
+          {
+            "amount": 4464000.0,
+            "context": "labor and overhead costs representing 72 percent of total charges without documentation support"
+          }
+        ],
+        "recommendation": "MCPA should obtain adequate documentation of labor and overhead charges invoiced (such as timesheets) and use that documentation to verify accuracy prior to payment.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "MCPA did not authorize UMBC to transmit sensitive Medicaid protected health information to a third-party vendor for data storage and did not ensure UMBC executed a data-sharing agreement with this vendor as required by federal regulation.",
+        "description": "MCPA failed to authorize transmission of sensitive PHI to a third-party vendor and did not ensure a Business Associate Agreement (BAA) was executed. MCPA could be liable for HIPAA penalties ranging from $100 to $50,000 per incident with a maximum of $1.5 million.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 100.0,
+            "context": "potential HIPAA penalty per incident"
+          },
+          {
+            "amount": 50000.0,
+            "context": "potential HIPAA penalty per incident"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "calendar year maximum for a single incident category"
+          }
+        ],
+        "recommendation": "We recommend that MCPA document its written approval for all data sharing arrangements between UMBC and applicable third parties; and ensure UMBC has entered into BAAs with all applicable third parties.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-10-14"
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 5,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The provided text does not include the content of the Agency Response Appendix.",
+    "total_dollar_impact": 106755500.0,
+    "extraction_notes": "Report date derived from 'August 2017' header. Audit period dates not explicitly stated as a range. Finding 15 listed in TOC but no body text provided in document snippet."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 2200000.0",
+    "dollar_amount_not_in_text: finding 6 amount 7300000.0",
+    "dollar_amount_not_in_text: finding 14 amount 4464000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:04:44.666388",
+  "content_hash": "eb315fb3c4b3606c4e3258cdd67431f3413db238",
+  "duplicate_of": null
+}

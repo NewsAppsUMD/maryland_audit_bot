@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2014-01-01",
+    "audit_period_start": "2010-12-20",
+    "audit_period_end": "2013-10-06",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a written response as there were no recommendations in the report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings (Finding N) sections present in the text. No dollar amounts tied to specific findings."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:51:31.118790",
+  "content_hash": "2ea5509d4dfddd109131cceca18ca6983e7562ab",
+  "duplicate_of": "5a8f4d19cc9d724560674656"
+}

@@ -1,0 +1,71 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Automobile Insurance Fund",
+    "parent_department": null,
+    "report_date": "2012-09-01",
+    "audit_period_start": "2009-03-04",
+    "audit_period_end": "2012-02-29",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MAIF did not verify that invoice billing rates for certain contractual services agreed to contract terms.",
+        "description": "MAIF did not verify billing rates from information system contractual services invoices to related contract terms. Review of five contracts totaling approximately $3 million disclosed billings related to one $1.5 million contract were not verified. MAIF made various overpayments and underpayments for these services, collectively totaling approximately $133,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3000000.0,
+            "context": "five contracts"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "$1.5 million contract for information retrieval services"
+          },
+          {
+            "amount": 890000.0,
+            "context": "approved billings"
+          },
+          {
+            "amount": 133000.0,
+            "context": "overpayments and underpayments"
+          }
+        ],
+        "recommendation": "verify all billing rates to contract terms, and review all past invoices from the aforementioned vendor and take appropriate action for any payment discrepancies noted.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "There was no documented verification that all recorded collections were subsequently deposited.",
+        "description": "MAIF did not have a documented deposit verification process. Collections received in the form of checks were independently verified but the verification was not documented. MAIF\u2019s check collections totaled approximately $24.1 million in calendar year 2011.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 24100000.0,
+            "context": "MAIF\u2019s check collections"
+          }
+        ],
+        "recommendation": "document the independent verification of collections received to deposit.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that MAIF\u2019s response to findings and recommendations is included as an appendix.",
+    "total_dollar_impact": 133000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 1500000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T06:34:55.834702",
+  "content_hash": "ecebf6b693ab53ba41e2fab52e405d79c1948e31",
+  "duplicate_of": null
+}

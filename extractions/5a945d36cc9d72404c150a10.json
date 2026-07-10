@@ -1,0 +1,107 @@
+{
+  "extraction": {
+    "agency_name": "Dorchester County Public Schools",
+    "parent_department": null,
+    "report_date": "2011-01-10",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 14,
+        "title": "The Board should adopt policies to govern and monitor critical financial and support services operations",
+        "description": "The Board had not adopted any key performance indicators related to the financial operations of DCPS, with the exception of actual expenditure data. Without this information, it is difficult for the Board to evaluate the progress of its budget and Master Plan.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board should adopt policies to govern and monitor critical financial and support services operations and ensure that appropriate administrative procedures are developed to support these policies.",
+        "agency_agrees": true,
+        "agency_completion_date": "Fiscal Year 2011"
+      },
+      {
+        "number": 15,
+        "title": "The Board should enhance its oversight of DCPS operations",
+        "description": "While DCPS may determine it is unable to afford the additional costs for a full-time internal audit position based on its size, it should consider sharing such a position or expanding the scope of work performed by its independent auditor. The Board had no process, such as a confidential hotline, to enable employees and others to confidentially report operational concerns and suspected fraud, waste, and mismanagement.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board should enhance its oversight of DCPS operations. For example, the Board should consider establishing an internal audit function or expanding the scope of work performed by its independent auditor. The Board should also consider establishing a hotline for the confidential reporting of operational issues and suspected fraud, waste, and mismanagement.",
+        "agency_agrees": true,
+        "agency_completion_date": "FY 2011"
+      },
+      {
+        "number": 16,
+        "title": "The Board Needs to Update and Enforce Its Ethics Policy",
+        "description": "The Ethics Panel had not had any members since February 2008. Financial disclosure forms were generally not filed timely (33 of 39 submitted after May 11, 2010). Revisions to the DCPS ethics policy since 1984 had not been approved by the State Ethics Commission as required by law.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Board needs to re-establish its ethics panel and monitor the panel\u2019s activities to ensure that the provisions of its ethics policy, including the financial disclosure requirements, are being complied with. The Board also needs to ensure that its ethics policy includes all provisions required by State law.",
+        "agency_agrees": true,
+        "agency_completion_date": "FY 2011"
+      },
+      {
+        "number": 17,
+        "title": "DCPS Should Develop Formal Cash and Debt Management Policies",
+        "description": "DCPS had not adopted policies governing cash or debt management as recommended by the Government Finance Officers Association. Cash and investments totaled $5.2 million as of June 30, 2009. During fiscal year 2009, lease payments totaled approximately $500,000.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5200000.0,
+            "context": "cash and investments totaled"
+          },
+          {
+            "amount": 500000.0,
+            "context": "lease payments totaled approximately"
+          }
+        ],
+        "recommendation": "DCPS should develop and adopt formal policies governing cash management and long-term obligations.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "DCPS Should Take Steps to Ensure the Propriety of Health Care Costs",
+        "description": "For fiscal years 2008 and 2009, DCPS paid the health care provider $5.4 million for each year and was owed refunds of $1.2 million and $651,000 respectively. Neither the Alliance nor DCPS verified the authenticity of program participants and their listed dependents as of August 4, 2010.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5400000.0,
+            "context": "paid the health care provider"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "owed refunds of"
+          },
+          {
+            "amount": 651000.0,
+            "context": "owed refunds of"
+          }
+        ],
+        "recommendation": "DCPS should institute processes to verify the authenticity of health care program participants and their listed dependents.",
+        "agency_agrees": true,
+        "agency_completion_date": "FY 2011"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The DCPS response to this audit is included as an appendix to this report (not provided in text).",
+    "total_dollar_impact": null,
+    "extraction_notes": "No sections explicitly labeled 'Finding N' were found in the provided text; Chapters and Recommendations are present but do not match the specific 'Finding N' header requirement for extraction."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 5, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T18:53:11.107390",
+  "content_hash": "98f4d9336d35a5740c2c79a84c207a2cc530984c",
+  "duplicate_of": null
+}

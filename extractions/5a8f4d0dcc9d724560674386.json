@@ -1,0 +1,125 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2017-04-10",
+    "audit_period_start": "2013-01-09",
+    "audit_period_end": "2016-03-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Division did not consistently perform one of its compliance programs to identify and pursue certain individuals who failed to file required income tax returns.",
+        "description": "The Division did not consistently perform an annual tax compliance program targeting non-filers for tax years 2008, 2009, and 2011 due to resource allocation decisions without documented justification or management approval. Consequently, there was a lack of assurance that targeted individuals complied with filing requirements and paid liabilities.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 75000000.0,
+            "context": "assessments for tax years 2012 and 2013"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "collections associated with the program during fiscal years 2013, 2014, and 2015"
+          }
+        ],
+        "recommendation": "We recommend that the Division conduct this non-filer program each year or prepare and maintain adequate documentation containing the Division\u2019s analysis and reasoning, and management approval, when an established compliance program is not completed for a particular tax year.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Division did not ensure that tax assessments for businesses that failed to file required tax returns were prepared and recorded timely in accordance with its procedures.",
+        "description": "Assessments against businesses who failed to file required returns were not always prepared, recorded in SMART, or billed on a timely basis; 12 of 16 tested assessments totaling $5.1 million were prepared 2-16 months late, and 7 totaling $1.6 million were posted 47-141 days after calculation.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6000000.0,
+            "context": "assessments against businesses who failed to file required returns for sales and use taxes and withholding taxes during fiscal year 2015"
+          },
+          {
+            "amount": 6400000.0,
+            "context": "test of large dollar assessments prepared during fiscal years 2014 through 2016"
+          },
+          {
+            "amount": 5100000.0,
+            "context": "assessments prepared late (2 to 16 months after notice)"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "assessments not posted to SMART until 47 to 141 days after calculation"
+          }
+        ],
+        "recommendation": "We recommend that the Division adequately monitor to ensure that business tax assessments are prepared and recorded on a timely basis.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Controls in the cash office were not sufficient to ensure collections were properly accounted for and deposited.",
+        "description": "Controls over collections received in the Baltimore cash office were insufficient, including an employee with capability to record payments also recording them on the check log without independent verification of forwarded checks or deposited cash against documentation.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 107000000.0,
+            "context": "collections received in the Baltimore cash office during calendar 2015"
+          },
+          {
+            "amount": 104000000.0,
+            "context": "received in the form of checks"
+          }
+        ],
+        "recommendation": "a. ensure that employees who have access to collections in the Baltimore cash office do not have the capability to post payments to taxpayer accounts; and b. ensure that an independent employee verifies, through an examination of appropriate documentation, that all collections recorded in the cash office were received by RAD\u2019s Annapolis office for deposit.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Critical adjustments to taxpayer accounts were not always reviewed and documented in accordance with the Division\u2019s procedures.",
+        "description": "Critical adjustments affecting collections and tax liabilities totaling $5.7 million were not subject to supervisory review, and adequate supporting documentation was missing for 124 of 940 tested adjustments (13 percent).",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2300000.0,
+            "context": "adjustments resulting in increases to taxpayer liabilities not subject to review"
+          },
+          {
+            "amount": 3400000.0,
+            "context": "adjustments resulting in decreases to taxpayer liabilities not subject to review"
+          },
+          {
+            "amount": 760872.0,
+            "context": "increase tax liabilities for adjustments lacking documentation"
+          },
+          {
+            "amount": 1531340.0,
+            "context": "decrease tax liabilities for adjustments lacking documentation"
+          }
+        ],
+        "recommendation": "We recommend that the Division ensure that all adjustments processed by the aforementioned unit are reviewed and approved in accordance with its procedures, and that adequate documentation supporting the adjustments and their review and approval is maintained.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Comptroller's office reviewed the findings and believes responses fully address recommendations, noting cooperation and professionalism of auditors. Specific responses indicate agreement with all recommendations and implementation of corrective actions (e.g., remote deposits, procedure revisions).",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter signed April 10, 2017. Audit period explicitly stated as January 9, 2013 to March 15, 2016. Findings 2 and 3 marked with asterisks indicating repetition. No criminal referrals or hotline origins stated."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 3 amount 104000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:36:27.839948",
+  "content_hash": "ede3cfceab9f286fb581ef1724c5be89d666b4ed",
+  "duplicate_of": "5a8f4d0dcc9d724560674382"
+}

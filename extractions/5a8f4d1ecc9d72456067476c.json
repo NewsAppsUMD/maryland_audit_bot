@@ -1,0 +1,65 @@
+{
+  "extraction": {
+    "agency_name": "Workers\u2019 Compensation Commission",
+    "parent_department": null,
+    "report_date": "2015-06-01",
+    "audit_period_start": "2011-05-09",
+    "audit_period_end": "2014-11-04",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Workers\u2019 Compensation Commission (WCC) did not ensure all collections were deposited.",
+        "description": "WCC lacked an adequate procedure to ensure all collections were deposited as it did not use the initial record of receipts for deposit verification. Collections totaled $26.1 million during fiscal year 2014, but only compared to State accounting records rather than bank deposits.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 26100000.0,
+            "context": "collections totaled"
+          }
+        ],
+        "recommendation": "We recommend that WCC perform deposit verifications of collections from the initial record of receipt to deposit in the bank.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "WCC paid invoices to reimburse the Department of Labor, Licensing, and Regulation (DLLR) for the costs of certain programs without verifying the costs to supporting documentation.",
+        "description": "WCC paid DLLR invoices totaling $12.2 million in fiscal year 2014 without verifying program costs to supporting documentation. A review disclosed potential overbilling of approximately $471,700 based on budget information, and a similar issue was noted for the fiscal year 2015 invoice.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 12200000.0,
+            "context": "DLLR\u2019s fiscal year 2014 invoice"
+          },
+          {
+            "amount": 471700.0,
+            "context": "potential overbilling"
+          },
+          {
+            "amount": 11300000.0,
+            "context": "fiscal year 2015 invoice"
+          }
+        ],
+        "recommendation": "We recommend that WCC a. work with DLLR to establish a process for verifying the invoiced program costs to supporting documentation; and b. determine the propriety of the DLLR invoiced costs for fiscal years 2014 and 2015 and take corrective actions.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 3,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "WCC acknowledged the control weakness in Finding 1 and agreed to implement reconciliation procedures. For Finding 2, WCC disagreed with the statutory authority required for verification but agreed to continue requesting supporting documentation from DLLR within its limits.",
+    "total_dollar_impact": 471700.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:08:59.362868",
+  "content_hash": "b1a2136d8c8443a1f4e22626ee768e05ce1f114b",
+  "duplicate_of": "5a8f4d1ecc9d724560674768"
+}

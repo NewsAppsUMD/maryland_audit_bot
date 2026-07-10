@@ -1,0 +1,90 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Clerk of Circuit Court",
+    "parent_department": "Judiciary",
+    "report_date": "2015-09-01",
+    "audit_period_start": "2012-03-28",
+    "audit_period_end": "2015-04-26",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office lacked accountability and control over its cash receipts.",
+        "description": "The Office lacked sufficient accountability and control over cash receipts totaling approximately $1.5 million during fiscal year 2014, creating a risk of misappropriation without detection due to excessive cashier control over voids and deposits, lack of independent review for voids, accessible keys for bank bags, and non-independent verification of deposits.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1500000.0,
+            "context": "cash receipts total"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "collections by land transaction cashiers"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "land transactions"
+          },
+          {
+            "amount": 100000.0,
+            "context": "other transactions such as marriage licenses"
+          },
+          {
+            "amount": 370000.0,
+            "context": "test of collections for 15 days"
+          }
+        ],
+        "recommendation": "We recommend that the Office a. remove the land transaction cashiers\u2019 ability to void transactions and perform independent documented reviews of all voids (repeat), b. ensure assigned cashiers are denied the capability to close out the cash register (repeat), c. safeguard collections by restricting access to the bank bag and cabinet keys to only those employees who require access (repeat), and d. ensure that an employee independent of the collection and deposit functions verifies that all recorded collections were deposited and that these reviews are documented (repeat). We advised the Office on accomplishing the necessary separation of duties using existing personnel.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Land transfer transactions were not subject to independent review.",
+        "description": "The Office lacked adequate procedures to verify land transfer transactions were properly processed or that proper taxes and fees were collected because land record clerks had sole responsibility for processing, determining taxes/fees, and collections, including reviewing documentation for tax exemptions or reductions.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "land transfer collections"
+          }
+        ],
+        "recommendation": "We recommend that the Office perform an independent documented review, at least on a test basis, of land transfer transactions to ensure the transactions were processed correctly and that the proper amounts of taxes and fees were collected (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Internal controls over trust fund disbursements were not sufficient.",
+        "description": "Internal controls over disbursements from the trust fund account were not sufficient as authorized check signers could record disbursements and access check stock without restriction, and monthly bank reconciliations were not reviewed by independent supervisory personnel, creating a risk of undetected errors or improprieties.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 256000.0,
+            "context": "disbursements from the trust fund account"
+          }
+        ],
+        "recommendation": "We recommend that a. authorized check signers not have access to the related check stock and not have the capability to record disbursements in the automated system, and b. the monthly bank reconciliations are reviewed and approved by independent supervisory personnel. We advised the Office on accomplishing the necessary separation of duties using existing personnel.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Judiciary\u2019s response to our findings and recommendations is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'September 2015'. Agency response details not available in provided text (referenced as appendix). Prior finding numbers not explicitly stated."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T22:32:56.844742",
+  "content_hash": "1c23cf9a8ddd079e7e5c76fbd1bfb26dd3bb9eb9",
+  "duplicate_of": "5a8f4d0ccc9d7245606742fc"
+}

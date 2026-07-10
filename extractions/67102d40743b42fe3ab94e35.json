@@ -1,0 +1,56 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2024-10-11",
+    "audit_period_start": "2018-10-31",
+    "audit_period_end": "2023-07-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "The Office of Legislative Audits determined this finding related to 'cybersecurity' and redacted the specifics from the public report in accordance with State law. The analysis, recommendations, and agency responses were not included in this version.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "UMBC did not ensure that employee work time was recorded and approved in a timely manner.",
+        "description": "UMBC used an electronic timesheet system for payroll data. A review of FY23 payroll activity totaling approximately $244.2 million disclosed that timesheets were not submitted or approved timely for certain employees, including 71 timesheets with payments totaling $354,000 submitted/approved over 3 months late and 35 timesheets pending up to one year. One faculty member did not submit any timesheets between May 2015 and December 2021 but was paid approximately $328,000 during this period.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 354000.0,
+            "context": "related payroll payments submitted and/or approved more than 3 months after the applicable pay period had ended"
+          },
+          {
+            "amount": 328000.0,
+            "context": "paid during the period where no timesheets were submitted for over six years"
+          }
+        ],
+        "recommendation": "We recommend that UMBC a. develop procedures to ensure that all employee time is submitted and approved in accordance with its policy, and b. take appropriate corrective action for employees and departments that continually fail to comply with its policy for the timely submission and approval of employee time.",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-06-01"
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "USM indicated agreement with the findings and recommendations. For Finding 2, they agreed to develop procedures for timely submission/approval and take corrective action, with an estimated completion date of June 2025. Corrective actions include strengthening timesheet language in the employee handbook for FY25, providing training on timesheet management, partnering with IT to create a summary page for status tracking, building reports/queries for late submissions, and supporting employees and leaders in best practices.",
+    "total_dollar_impact": 682000.0,
+    "extraction_notes": "Finding 1 is redacted per State law. Prior findings from the preceding audit report (4 total) were addressed satisfactorily."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:36:46.027604",
+  "content_hash": "7f55de4f27e3bcbdad2750b18c46a5c759ceef43",
+  "duplicate_of": "5a8f4d1dcc9d724560674742"
+}

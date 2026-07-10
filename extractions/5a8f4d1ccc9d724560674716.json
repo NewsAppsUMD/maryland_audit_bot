@@ -1,0 +1,114 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": "2015-02-01",
+    "audit_period_start": "2011-02-01",
+    "audit_period_end": "2014-02-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DUI did not appropriately perform and fully investigate the results of certain targeted benefit payment matches in a timely manner.",
+        "description": "DUI did not appropriately perform automated targeted matches or investigate results in an adequate and timely manner. Tests showed incomplete reviews for quarterly matches and failure to use national wage data from NDNH. Periodic matches for incarceration and employee addresses were not routinely performed or fully investigated.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 17700.0,
+            "context": "benefits totaling"
+          },
+          {
+            "amount": 10400.0,
+            "context": "overpayments made"
+          }
+        ],
+        "recommendation": "We recommend that DUI a. fully and timely investigate the results of all matches performed, including the aforementioned results, and take appropriate action, such as the recovery of benefit overpayments (repeat); b. request OCSE to incorporate national wage information into its NDNH matching procedures (repeat); c. perform the targeted matches within the established time frames, such as quarterly; and d. include all DLLR employees in the aforementioned quarterly payroll match.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-01-31"
+      },
+      {
+        "number": 2,
+        "title": "DUI did not always refer certain delinquent benefit overpayment accounts to the State\u2019s Central Collection Unit.",
+        "description": "DUI did not always refer certain delinquent overpayment accounts to the State's Central Collection Unit. A test of 10 delinquent accounts totaling approximately $249,000 disclosed that 7 accounts totaling approximately $196,000 were not referred to CCU despite qualifying for referral.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 249000.0,
+            "context": "delinquent overpayment accounts test total"
+          },
+          {
+            "amount": 196000.0,
+            "context": "not referred to CCU"
+          }
+        ],
+        "recommendation": "We recommend that DUI refer applicable delinquent benefit overpayment accounts to CCU.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-05-01"
+      },
+      {
+        "number": 3,
+        "title": "DUI stored sensitive personally identifiable information within a database in clear text.",
+        "description": "DUI stored PII including full names and social security numbers in clear text in a database used to assist staff. As of September 10, 2014, the database contained 646,577 unique social security numbers of unemployment insurance claimants in clear text.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DUI encrypt all database tables containing sensitive PII.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-10-31"
+      },
+      {
+        "number": 4,
+        "title": "Access, account, and password controls over a database were not sufficient to protect sensitive data.",
+        "description": "Access, account, and password controls over a database containing sensitive PII were not sufficient. A default administrative account had full access, passwords for 16 accounts were stored in clear text, and password requirements were not enforced.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DUI a. limit access to all critical databases to personnel whose job duties require such access, and b. ensure that all databases and host servers comply with the DoIT Information Security Policy account and password requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-10-31"
+      },
+      {
+        "number": 5,
+        "title": "DUI did not always ensure reimbursable employers provided sufficient collateral and did not perform timely collection efforts to obtain reimbursements for benefits paid.",
+        "description": "DUI did not exercise sufficient control over reimbursable employer accounts. Additional collateral totaling $2.8 million was needed for 88 employer accounts. A test of eight delinquent accounts disclosed that six with balances totaling $470,600 did not have additional actions taken after unsuccessful collection attempts.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2800000.0,
+            "context": "additional collateral needed"
+          },
+          {
+            "amount": 504300.0,
+            "context": "delinquent balances test total"
+          },
+          {
+            "amount": 470600.0,
+            "context": "balances not pursued further"
+          }
+        ],
+        "recommendation": "We recommend that DUI a. ensure reimbursable accounts are fully collateralized, and b. timely pursue delinquent reimbursable accounts (including the aforementioned accounts) by offsetting delinquent balances with available collateral and terminating the reimbursable status on accounts after unsuccessful attempts to satisfy the debts.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-01-31"
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Labor, Licensing and Regulation agrees with all findings and recommendations. They report that corrective actions have been taken or are planned for completion between January 2015 and October 2015, including software upgrades, policy modifications, and process changes to improve match investigations and collateralization.",
+    "total_dollar_impact": 710700.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:28:15.890037",
+  "content_hash": "2cebdf2720179f6d1ab04874c183890fb3bc5d03",
+  "duplicate_of": "5a8f4d1ccc9d724560674712"
+}

@@ -1,0 +1,95 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2008-10-16",
+    "audit_period_start": "2005-09-06",
+    "audit_period_end": "2008-04-13",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Cash Receipts Were Not Adequately Controlled",
+        "description": "The Region lacked adequate controls over cash receipts. Specifically, while collections were recorded on pre-numbered cash receipt forms, the Region did not periodically account for these forms as to issued, voided, and on hand.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2200000.0,
+            "context": "Region\u2019s cash receipts totaled approximately $2.2 million during fiscal year 2007"
+          }
+        ],
+        "recommendation": "We recommend that the Region periodically account for all pre-numbered cash receipts forms as to issued, voided, and on-hand.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Region Lacked Sufficient Controls Over Materials and Supplies",
+        "description": "Controls over the Region\u2019s materials and supplies were inadequate. Copies of completed requisition forms were not provided to employees who received inmate and officer clothing items, and the Region had not compared copies of completed requisition forms used to post perpetual inventory records with those retained by employees since September 2007.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3800000.0,
+            "context": "Region\u2019s expenditures for materials and supplies totaled approximately $3.8 million"
+          },
+          {
+            "amount": 400000.0,
+            "context": "including $400,000 for inmate and officer clothing"
+          }
+        ],
+        "recommendation": "We recommend that the Region comply with the applicable requirements of the Department of General Services\u2019 Inventory Control Manual.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Vendor Invoices Were Not Properly Reviewed Prior to Payment",
+        "description": "The Region did not adequately control disbursements made via the State\u2019s Financial Management Information System (FMIS). The employee who approved vendor invoices and released related disbursement transactions did not ensure that any of the related goods or services were received by reviewing supporting documentation.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7500000.0,
+            "context": "Region used FMIS to process disbursements totaling approximately $7.5 million"
+          }
+        ],
+        "recommendation": "We recommend that the disbursement approval process include a review of supporting documentation, at least on a test basis.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "The Region Lacked Adequate Procedures for the Issuance of Corporate Purchasing Cards",
+        "description": "The Region lacked adequate procedures for the issuance of its corporate purchasing cards. The employee who requested purchasing cards from the Department also received the cards and distributed them to applicable employees.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "made related purchases totaling approximately $1 million"
+          }
+        ],
+        "recommendation": "We recommend that the Region employee who requests purchasing cards from the Department not also receive and distribute the cards. We advised the Region on accomplishing the necessary separation of duties using existing personnel.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 1,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Public Safety and Correctional Services\u2019 response to this audit, on behalf of the Region, is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No findings marked with asterisk or noted as repeat. No criminal referrals stated. Agency agreement/disagreement details not provided in text (only reference to appendix)."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:44:55.312354",
+  "content_hash": "10cad11b0d9178da3595bb543fc47301bc51ed8e",
+  "duplicate_of": null
+}

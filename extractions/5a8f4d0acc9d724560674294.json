@@ -1,0 +1,127 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Aviation Administration",
+    "parent_department": "Department of Transportation",
+    "report_date": "2016-10-01",
+    "audit_period_start": "2011-08-01",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Maryland Aviation Administration (MAA) did not comply with requirements of a federal noise compatibility program and, as a result, $4.6 million in related expenditures were not reimbursed with federal funds.",
+        "description": "MAA failed to comply with federal noise compatibility program requirements, resulting in $4.6 million in eligible expenditures not being reimbursed from federal funds set aside for this purpose. Although an escrow account held $12.4 million as of September 30, 2015, no costs had been reimbursed from it because MAA suspended the program in 2012 due to compliance difficulties with FAA requirements.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4600000.0,
+            "context": "related expenditures were not reimbursed"
+          },
+          {
+            "amount": 5700000.0,
+            "context": "spent for sound insulation projects during the period between 2003 and 2012"
+          },
+          {
+            "amount": 2700000.0,
+            "context": "would not qualify for reimbursement"
+          },
+          {
+            "amount": 1900000.0,
+            "context": "remaining amount requested for reimbursement"
+          },
+          {
+            "amount": 12400000.0,
+            "context": "in an escrow account established for the noise compatibility program"
+          }
+        ],
+        "recommendation": "We recommend that MAA establish and implement formal procedures to ensure compliance with applicable program requirements and request reimbursement for all eligible expenditures from the federal funds available for this purpose.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MAA did not have adequate procedures to ensure that all collections, which totaled $141 million during fiscal year 2015, were deposited and that deposits were made timely.",
+        "description": "MAA lacked adequate procedures to ensure all collections totaling approximately $141 million in fiscal year 2015 were deposited and deposited timely. Testing of 10 daily deposits totaling approximately $44 million showed delays of two or three days after receipt, contrary to Comptroller requirements for deposit no later than one business day after receipt.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 141000000.0,
+            "context": "collections processed during fiscal year 2015"
+          },
+          {
+            "amount": 44000000.0,
+            "context": "daily deposits tested"
+          }
+        ],
+        "recommendation": "We recommend that MAA a. ensure deposit verifications are performed using all initial receipt records, and b. pursue other arrangements to enhance the accountability and timeliness of deposits such as requesting that collections be remitted electronically.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Proper internal controls were not established to ensure independent approvals for purchasing and disbursement transactions.",
+        "description": "MAA did not fully use available FMIS security features, leaving 9 of its 143 departments without adequate electronic approval paths for critical transactions. Consequently, 14 employees could process critical transactions without independent approval, including 10 who could initiate and approve purchase orders and four who could do the same for disbursements.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 230000000.0,
+            "context": "disbursements processed through FMIS during fiscal year 2015"
+          }
+        ],
+        "recommendation": "We recommend that MAA fully use available FMIS security controls by establishing independent electronic approval requirements for all critical purchasing and disbursement transactions (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-01"
+      },
+      {
+        "number": 4,
+        "title": "MAA did not competitively procure certain vehicle and equipment maintenance services or use Statewide contracts when available.",
+        "description": "MAA failed to consistently comply with State procurement regulations regarding competitive procurements and Statewide contracts for vehicle and equipment maintenance services. Testing of 24 transactions totaling $49,000 revealed purchases from two vendors without consolidation or bids, and some services potentially available under a Statewide contract were not used. Additionally, 13 transactions totaling approximately $31,000 lacked documentation identifying the specific vehicle or equipment serviced.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 49000.0,
+            "context": "corporate purchasing card transactions tested"
+          },
+          {
+            "amount": 277000.0,
+            "context": "purchases from the vehicle maintenance vendor during fiscal years 2013 through 2015"
+          },
+          {
+            "amount": 138000.0,
+            "context": "purchases from the equipment maintenance vendor during fiscal years 2013 through 2015"
+          },
+          {
+            "amount": 24000.0,
+            "context": "vehicle maintenance services procured that may have been available under a Statewide contract"
+          },
+          {
+            "amount": 31000.0,
+            "context": "transactions not supported by documentation"
+          }
+        ],
+        "recommendation": "We recommend that MAA a. comply with State procurement regulations by using a formal written procurement process for purchases that are reasonably expected to exceed $25,000, ensuring procurements exceeding $5,000 have written contracts, and using existing Statewide contracts for all applicable services; and b. ensure documentation supporting corporate purchasing card transactions contains information that clearly identifies that the services provided were applicable to MAA.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-12-01"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Maryland Aviation Administration concurred with all four recommendations made by the auditors. They indicated that corrections to internal controls were applied in December 2015, procurement contracts are estimated to be in place by December 2016, and they plan to begin new noise program programs once FAA guidance is available using funds from an escrow account.",
+    "total_dollar_impact": 4600000.0,
+    "extraction_notes": "Report date derived from header 'October 2016'. Audit period found in 'Audit Scope' section. Finding 3 marked as repeat via asterisk and text '(repeat)'. Prior findings count/repeated found in 'Status of Findings From Preceding Audit Reports' section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:15:47.015472",
+  "content_hash": "fd3707944ee9393801e91ced7d3bcb20ef309925",
+  "duplicate_of": null
+}

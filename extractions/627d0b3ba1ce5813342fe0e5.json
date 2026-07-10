@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2014-07-01",
+    "audit_period_start": "2011-03-28",
+    "audit_period_end": "2014-03-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office had not established adequate controls over its collections and disbursements.",
+        "description": "Adequate controls had not been established over collections and disbursements. Assurance was lacking that all collections and disbursements were properly processed and accounted for due to control deficiencies, including employees recording adjustments, check signers having access to blank checks, and all employees accessing the safe.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "processed collections totaling approximately"
+          }
+        ],
+        "recommendation": "a. employees with access to collections be denied the capability to record adjustments in the Office\u2019s automated accounting system, b. the employees who sign checks and prepare or approve the bank reconciliations be denied access to the blank check stock, and c. access to the safe be restricted to those who need access based on job responsibilities.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office\u2019s response to our finding and recommendation is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from title page (July 2014). Agency response details not provided in text (referenced as appendix)."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T12:01:59.546524",
+  "content_hash": "ad553adcde7bc3c84a50257f11c2387ddbc3f740",
+  "duplicate_of": "5a8f4d19cc9d72456067466a"
+}

@@ -1,0 +1,52 @@
+{
+  "extraction": {
+    "agency_name": "College Savings Plans of Maryland",
+    "parent_department": null,
+    "report_date": "2015-06-01",
+    "audit_period_start": "2011-08-03",
+    "audit_period_end": "2014-11-17",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Abandoned Funds",
+        "description": "CSPM did not determine the disposition of uncashed checks nor did it take action to transfer funds determined to be abandoned to the Comptroller of Maryland as required. As of August 2014, there were 448 uncashed checks totaling approximately $1.7 million that were more than three years old.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1700000.0,
+            "context": "uncashed checks totaling approximately $1.7 million that were more than three years old"
+          }
+        ],
+        "recommendation": "CSPM should determine the disposition of uncashed checks and ensure funds determined to be abandoned are transferred to the Comptroller of Maryland in accordance with State law unless formal legal advice is obtained to otherwise authorize CSPM to retain the funds.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "System Security",
+        "description": "CSPM lacked assurance that sensitive account holder data maintained by the third-party service provider used to administer the MCIP was properly processed and secured. The SOC 1 Type 2 review obtained did not provide assurance regarding system security, availability, processing integrity, data confidentiality, and privacy.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "CSPM should seek to amend the existing contract and ensure that future agreements with contractors processing MCIP data include provisions requiring the contractor to regularly obtain a SOC 2 Type 2 review pertaining to system operations, and obtain copies and review these reports.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that CSPM's response to findings and recommendations is included as an appendix to the report.",
+    "total_dollar_impact": 1700000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:19:38.955075",
+  "content_hash": "808242b54a44dffa47b2285b1677be79643b3860",
+  "duplicate_of": "5a8f4d0dcc9d724560674376"
+}

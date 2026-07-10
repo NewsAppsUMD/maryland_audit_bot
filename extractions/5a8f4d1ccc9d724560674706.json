@@ -1,0 +1,105 @@
+{
+  "extraction": {
+    "agency_name": "Office of the State Treasurer",
+    "parent_department": "Office of the State Treasurer",
+    "report_date": "2016-09-08",
+    "audit_period_start": "2012-08-30",
+    "audit_period_end": "2015-08-24",
+    "findings": [
+      {
+        "number": 1,
+        "title": "STO has still not resolved longstanding contract issues involving oversight of claims processing services for workers\u2019 compensation claims provided by IWIF. For example, STO had not implemented certain recommendations made by the Maryland Insurance Administration that were intended to safeguard the State\u2019s financial interests.",
+        "description": "In our three preceding audit reports, we commented that STO did not ensure the propriety of amounts paid to IWIF and had never competitively bid the contract for more than 25 years. As of March 2016, STO had not implemented certain recommendations made by MIA in January 2011 intended to safeguard State interest related to IWIF activity. Additionally, STO had not further analyzed its existing contract with IWIF and benefits to the State per guidance from Presiding Officers in July 2014.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1500000.0,
+            "context": "reduced IWIF administrative fees by approximately $1.5 million each of these three years"
+          },
+          {
+            "amount": 100000.0,
+            "context": "STO\u2019s fiscal year 2016 budget appropriation was reduced by $100,000"
+          }
+        ],
+        "recommendation": "a. implement MIA\u2019s recommendations to safeguard the State\u2019s interest with respect to the workers\u2019 compensation claims processing services provided by IWIF, including reviewing payments to IWIF for propriety, at least on a test basis; b. take the necessary actions to ensure that workers\u2019 compensation claims processing services are obtained in a manner most beneficial to the State; and c. take any other necessary actions in accordance with the guidance provided by the Presiding Officers of the Maryland General Assembly.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "STO did not transfer excess funds totaling $3.9 million from the State\u2019s Unpresented Check Fund to the General Fund at the end of fiscal year 2015, as required by State law.",
+        "description": "STO did not transfer excess funds totaling $3.9 million from the State\u2019s Unpresented Check Fund (UCF) to the General Fund at the end of fiscal year 2015, as required by State law. At the end of fiscal year 2015, STO transferred $6 million to the General Fund, leaving a UCF balance of $4.9 million\u2014an amount which was excessive according to its policy. STO\u2019s policy was to retain the greater of $1 million or three times the amount by which total disbursements exceeded deposits into the UCF during the year.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3900000.0,
+            "context": "excess funds totaling $3.9 million from the State\u2019s Unpresented Check Fund to the General Fund"
+          },
+          {
+            "amount": 6000000.0,
+            "context": "STO transferred $6 million to the General Fund"
+          },
+          {
+            "amount": 4900000.0,
+            "context": "leaving a UCF balance of $4.9 million"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "STO should have retained a balance of $1 million in the UCF"
+          },
+          {
+            "amount": 580000.0,
+            "context": "disbursements from the UCF totaled $580,000"
+          },
+          {
+            "amount": 6800000.0,
+            "context": "deposits into the UCF totaled $6.8 million"
+          }
+        ],
+        "recommendation": "We recommend that, in the future, STO comply with State law and its policy regarding the transfer of excess funds.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Sensitive personally identifiable information was not properly protected by STO.",
+        "description": "Specifically, we identified two files residing on a critical server which contained 148,113 and 114,533 unique social security numbers in clear text, with related full names. In addition, we determined that this sensitive PII was not protected by other substantial mitigating controls. The State of Maryland\u2019s Information Security Policy states that agencies should protect confidential data using encryption technologies and/or other substantial mitigating controls.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that STO properly protect the aforementioned personally identifiable information by the use of encryption or other substantial mitigating controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "STO did not have a comprehensive information technology disaster recovery plan for recovering its computer operations from disaster scenarios.",
+        "description": "We noted that the DRP used by STO only addressed an alternate recovery site. The State of Maryland Information Technology (IT) Disaster Recovery Guidelines provide information on the minimum required elements needed for a complete information systems\u2019 DRP. STO\u2019s DRP did not address most of these minimum requirements. For example, the DRP did not address restoration of network connectivity or contain listings of hardware and software components and had not been tested.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that STO create a comprehensive DRP that covers all of its information technology operations and is in compliance with the requirements of the State\u2019s IT Disaster Recovery Guidelines.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Office of the State Treasurer concurred with all findings and recommendations. Regarding Finding 1, they noted budget reductions prevented filling new positions until Fiscal Year 2017 but plan to renegotiate the contract and analyze alternative coverage methods. For Finding 2, they explained the retention of funds was due to an expected check reissue which later proved unlikely, noting excess funds were transferred in July 2016. For Findings 3 and 4, they detailed ongoing processes for encryption implementation and DR plan development with anticipated completion prior to the end of Fiscal Year 2017.",
+    "total_dollar_impact": 3900000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:19:13.194449",
+  "content_hash": "74c5e65053663762f2015e5efbcb2ad4cdef7adb",
+  "duplicate_of": null
+}

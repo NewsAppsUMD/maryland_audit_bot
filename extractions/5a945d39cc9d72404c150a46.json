@@ -1,0 +1,395 @@
+{
+  "extraction": {
+    "agency_name": "Worcester County Public Schools",
+    "parent_department": null,
+    "report_date": "2017-06-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Adequate accountability and control over cash receipts had not been established.",
+        "description": "WCPS did not establish adequate accountability for $1.3 million in cash receipts from July 2015 through February 2016, as checks were not recorded upon receipt or restrictively endorsed immediately, and independent verification of deposits was lacking.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1300000.0,
+            "context": "collections totaled from July 2015 through February 2016"
+          }
+        ],
+        "recommendation": "WCPS should immediately record and restrictively endorse all checks, adequately secure checks prior to deposit, and independently verify that all collections were subsequently deposited.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "WCPS did not restrict users\u2019 capabilities on its automated procurement and accounts payable system to prevent unnecessary or incompatible capabilities.",
+        "description": "Seven employees were assigned system capabilities allowing them to perform unnecessary and/or incompatible functions, including entering purchase orders, adding vendors, and printing checks without independent approval of changes to user capabilities.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "WCPS should restrict users\u2019 capabilities to eliminate incompatible duties, restrict access to individuals whose job duties require such access, establish independent approval requirements for critical transactions and changes to user capabilities, and ensure independent supervisory review includes supporting documents.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "WCPS\u2019 procurement policy did not require certain non-competitive procurements to be submitted to or approved by the Board.",
+        "description": "Board approval was not required for certain contracts procured without competitive bidding (e.g., intergovernmental cooperative agreements, sole-source awards), and there was no requirement for documented sole-source justification or formal written documents for contracts over $25,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 38600000.0,
+            "context": "disbursements for 27 procurements tested"
+          },
+          {
+            "amount": 2700000.0,
+            "context": "cumulative fiscal year 2015 disbursements of 14 contracts not competitively bid or submitted to Board"
+          }
+        ],
+        "recommendation": "WCPS should amend procurement policies to require Board approval for non-competitive awards exceeding $25,000, prepare documented justifications for sole-source awards, and execute formal written documents for contracts over a stated monetary value.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "WCPS did not always publish required notifications of contract bids and awards on eMaryland Marketplace or comply with State procurement laws.",
+        "description": "Contract bid solicitations and awards were not always published on eMaryland Marketplace as required, including for procurements resulting in Board approved contract awards greater than $25,000 totaling $36 million. Additionally, WCPS procured a construction management contract without considering price as required by State law.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 36000000.0,
+            "context": "awards/payments to vendors in fiscal year 2015 for 13 procurements not published on eMaryland Marketplace"
+          },
+          {
+            "amount": 3300000.0,
+            "context": "contract for construction management services awarded without considering price"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "six contracts based on intergovernmental cooperative purchasing agreements lacking written documentation of benefits"
+          },
+          {
+            "amount": 663950.0,
+            "context": "payments to four vendors for services not competitively bid or supported by sole source justification"
+          }
+        ],
+        "recommendation": "WCPS should use eMaryland Marketplace as required, revise procurement process for construction management to require lowest responsible bidder, prepare written documentation of benefits before participating in ICPA, procure contracts over $25,000 through competitive bidding or document sole source justification, and execute written contracts for services expected to exceed $25,000.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "WCPS had not established formal comprehensive corporate purchasing card policies and procedures and internal controls were inadequate.",
+        "description": "A comprehensive CPC manual was not developed, there was a lack of separation of duties over critical CPC functions (one employee processed applications, received cards, reviewed statements, and cancelled cards), and monitoring procedures did not include Level-3 purchasing data review.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2200000.0,
+            "context": "related expenditures during fiscal year 2015"
+          }
+        ],
+        "recommendation": "WCPS should develop a comprehensive CPC manual subject to Board approval including acceptable uses, properly segregate CPC functions of issuance, holding, review, and cancellation, and incorporate the use of Level-3 data as part of monthly supervisor reviews.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Human resources and payroll system user capabilities were not adequately monitored and restricted. In addition, independent documented reviews of personnel and payroll transactions were not performed including certain payments of $4.6 million for fiscal year 2015.",
+        "description": "WCPS had no formal process for granting/modifying payroll access or generating periodic reports for supervisory review; five users had incompatible functions or unnecessary access, and critical HR/payroll transactions totaling $4.6 million were not subject to independent review.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4600000.0,
+            "context": "payments for other earnings in fiscal year 2015 not independently reviewed"
+          }
+        ],
+        "recommendation": "WCPS should perform periodic documented independent review of user capabilities, limit access to critical functions to employees requiring such capabilities, eliminate and segregate incompatible system functions, and perform a documented independent review of critical personnel and payroll transactions.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "WCPS had not established comprehensive equipment policies, and appropriate controls and recordkeeping requirements.",
+        "description": "Equipment policies lacked requirements for tagging, reporting lost items, or approving disposals; entries to inventory records were not independently approved; physical inventory counts were not reconciled with records (e.g., 73 items totaling $62,266 missing in June 2015); and inventory records contained errors such as duplicate serial numbers.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 37204.0,
+            "context": "items without required disposal form"
+          },
+          {
+            "amount": 20940.0,
+            "context": "missing items in June 2014 physical inventory"
+          },
+          {
+            "amount": 62266.0,
+            "context": "items not found nor investigated in June 2015 physical inventory"
+          },
+          {
+            "amount": 7100000.0,
+            "context": "technology classification items with missing information or duplicate serial numbers"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "items without a tag number"
+          }
+        ],
+        "recommendation": "WCPS should establish comprehensive written policies for equipment accounting and safeguarding, investigate differences found when reconciling physical inventory counts with records, ensure postings are properly supported and approved, and ensure inventory records are properly maintained.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Controls over disaster recovery, backup of critical data, and monitoring the security of a critical database were not sufficient.",
+        "description": "WCPS did not have a complete Disaster Recovery Plan (DRP) addressing minimum requirements or evidence of testing; backups were stored onsite rather than offsite; and the student information system database was not configured to log security activity.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "WCPS should update its DRP in accordance with State guidelines, periodically test and document the DRP, store backup copies off-site, and set the student information database to log critical security events.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Firewall rules allowed unnecessary connections to numerous WCPS network devices and nine publicly accessible servers were improperly located in the internal network.",
+        "description": "Firewall rules allowed insecure and unnecessary Internet access to internal devices; nine publicly accessible servers were on the internal network rather than a separate zone, exposing the network to attack.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "WCPS should configure firewalls to adequately secure connections from untrusted third parties and relocate the nine servers to a separate network zone behind the firewall.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "The WCPS network was not secured against improper access from un-trusted parties using its wireless connections.",
+        "description": "Guests and students could access all network devices over several ports; at one location guests had no authentication; former faculty/staff had network level access due to weak authentication methods.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "WCPS should use network based individual authentication for wireless connections, limit authenticated user access to critical devices, and send guest traffic directly to the Internet.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Monitoring and controls over WCPS computers were not sufficient to ensure that these computers were properly protected from malware.",
+        "description": "Users of 9 workstations had unnecessary administrator rights; WCPS lacked enterprise-wide management tools to monitor malware protection software status on 5,260 workstations/servers, with some having outdated versions.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "WCPS should restrict administrative rights on workstations to network administrators and obtain enterprise-wide management tools to ensure malware protection software is operational and up-to-date.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "WCPS did not establish comprehensive bus routing procedures and did not periodically perform a system-wide analysis of bus routes to maximize efficiency.",
+        "description": "Bus routing procedures were not comprehensive; WCPS had not adopted formal individual bus capacities or ridership goals; automated routing software was not fully implemented or used for analysis; 29 routes (34 percent) were below 75 percent capacity.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "WCPS should develop formal written bus routing procedures including target capacities and ridership goals, and fully utilize automated routing software to periodically perform system-wide analysis.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "WCPS had not established a formal methodology to calculate its PVA rate, and payments to bus contractors included elements that did not consider market conditions, actual costs, or available discounts.",
+        "description": "WCPS used previous year's PVA or increases without documented basis; ROI rates paid (9.17% to 11.73%) were higher than prime interest rate; WCPS overpaid approximately $6.9 million more than if actual costs and reasonable ROI had been used.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6900000.0,
+            "context": "overpayment over the 15-year life of 69 buses"
+          },
+          {
+            "amount": 2700000.0,
+            "context": "portion of overpayment already paid"
+          },
+          {
+            "amount": 4200000.0,
+            "context": "portion of overpayment to be paid over remaining useful lives"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "maintenance costs paid in fiscal year 2015 without determining appropriateness"
+          },
+          {
+            "amount": 245000.0,
+            "context": "administrative costs paid to contractors in fiscal year 2015"
+          },
+          {
+            "amount": 380000.0,
+            "context": "fuel payments higher than necessary for fiscal years 2011 through 2015 due to excise taxes"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "estimated savings if industry standard mpg rate used during fiscal years 2011 through 2015"
+          }
+        ],
+        "recommendation": "WCPS should use actual costs and market investment rates for PVA, develop supportable cost estimates for maintenance and administrative costs, exclude fuel excise taxes from payments, and document the basis for mpg used.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "WCPS did not ensure the accuracy of contractor reported manifest mileage, which was used to compute certain payments to bus contractors.",
+        "description": "Mileage reported on manifests was not compared to mapping software; test of September 2015 manifests disclosed overpayment for 6 routes by a total of $13,300 in fiscal year 2016.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13300.0,
+            "context": "potentially overpaid for mileage in fiscal year 2016"
+          }
+        ],
+        "recommendation": "WCPS should independently verify bus contractor manifests to ensure payments reflect actual services, document the verification process, and review past payments to pursue discrepancies.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "Internal controls over payments to bus contractors were not adequate, as there was no independent review and approval of payment calculations.",
+        "description": "A transportation official entered data for monthly payments totaling $5.6 million in fiscal year 2015 without verification by independent supervisory personnel.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5600000.0,
+            "context": "bus contractor payments during fiscal year 2015"
+          }
+        ],
+        "recommendation": "WCPS should require an employee independent of payment processing to verify the accuracy and propriety of contractor payments by performing a documented comparison to supporting documentation.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "WCPS had not established adequate accountability and control over school cafeteria cash receipts.",
+        "description": "Cashiers used group login accounts without individual passwords; register closeout amounts were not sufficiently documented or reviewed by managers; voided transactions lacked independent supervisory review; and deposit verifications were not documented.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 77167.0,
+            "context": "net loss in fiscal year 2015"
+          },
+          {
+            "amount": 10261.0,
+            "context": "average net loss over the 5-year period"
+          },
+          {
+            "amount": 607000.0,
+            "context": "food service revenues from sale of meals in fiscal year 2015"
+          },
+          {
+            "amount": 28000.0,
+            "context": "voids processed during fiscal year 2015"
+          }
+        ],
+        "recommendation": "WCPS should assign cash register access using individual logon IDs, require both cashier and manager to sign closing sheets, ensure independent supervisory review of voided transactions, and document independent deposit verifications.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "Financial disclosure statements were not always filed or filed timely, as required.",
+        "description": "Two employees did not file required statements for calendar year 2014; the remaining 13 employees filed their statements 7.5 months late in December 2015.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "WCPS should enforce its ethics policy to ensure that all required disclosure statements are filed as required.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "WCPS had not pursued the competitive procurement of its healthcare contracts for administrative services and stop-loss coverage since 1967 and did not receive copies or obtain Board approval of the annual agreements.",
+        "description": "TPA and stop-loss insurance contracts were annually renewed without competitive procurement since 1967; WCPS had not requested copies of annual agreements for fiscal years 2012 through 2016; administrative fees were significantly higher than neighboring school systems paid.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 16000000.0,
+            "context": "healthcare expenditures in fiscal year 2015"
+          },
+          {
+            "amount": 802000.0,
+            "context": "administrative fees included in healthcare expenditures"
+          },
+          {
+            "amount": 667000.0,
+            "context": "stop loss insurance premiums included in healthcare expenditures"
+          }
+        ],
+        "recommendation": "WCPS should work with WCG to competitively procure healthcare services or consider independent solicitation, execute a memorandum of understanding with WCG establishing responsibilities and authority, and ensure all healthcare contracts are approved by the Board and retained.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 19,
+        "title": "WCPS did not ensure the propriety of employee and retiree health care claims paid, and did not verify that stop-loss insurance was correctly applied and plan administrative fees were properly charged.",
+        "description": "WCPS lacked procedures and controls to ensure amounts paid to the TPA were proper. The review disclosed that WCPS did not audit medical claim propriety, verify stop-loss reimbursement for claims exceeding limits, or compare participant bills against payroll records for fee verification.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 667000.0,
+            "context": "WCPS paid for stop-loss coverage"
+          },
+          {
+            "amount": 112000.0,
+            "context": "all agencies received for plan year 2015 claims that exceeded the stop loss limit"
+          }
+        ],
+        "recommendation": "We recommend that WCPS establish procedures to verify the amounts paid for health insurance and TPA service fees. Specifically, we recommend WCPS a. obtain documentation to support actual claim payments, and ensure audits of the claims paid by the TPA are conducted; b. use detailed claims payment data to ensure that claims paid above the stop-loss limit are reimbursed by the insurer (in this case the TPA); and c. compare its records of enrolled employees, retirees, and dependents to invoices from the TPA and determine the propriety of all fees and premiums billed.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 28,
+    "prior_findings_repeated": 11,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The provided text does not include the Agency Response Appendix content.",
+    "total_dollar_impact": 6996506.0,
+    "extraction_notes": "Audit period dates were not explicitly stated in the report text. Finding 19 was listed in the Table of Contents but no body text or recommendations were provided for it in the input."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 4 amount 36000000.0",
+    "dollar_amount_not_in_text: finding 7 amount 7100000.0",
+    "dollar_amount_not_in_text: finding 18 amount 16000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T21:57:53.873454",
+  "content_hash": "f44c406e61e9ac177594655c907c927794dc8a44",
+  "duplicate_of": null
+}

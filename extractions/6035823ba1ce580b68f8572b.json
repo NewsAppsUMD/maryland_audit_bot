@@ -1,0 +1,60 @@
+{
+  "extraction": {
+    "agency_name": "Historic St. Mary\u2019s City Commission",
+    "parent_department": null,
+    "report_date": "2025-04-18",
+    "audit_period_start": "2020-07-01",
+    "audit_period_end": "2024-08-16",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Historic St. Mary\u2019s City Commission\u2019s (Commission) memorandum of agreement (MOA) with its affiliated foundation was not comprehensive, as it did not address policies and procedures for key areas such as purchases, ethics, and investments.",
+        "description": "The Commission's MOA with the affiliated foundation lacks comprehensive policies for purchases, ethics, and investments. Foundation revenues were approximately $276,000 and expenditures approximately $291,000 in FY 2023, with assets totaling approximately $508,000 as of June 30, 2023. Similar conditions were noted in a preceding audit report where the Commission promised revisions by December 2021 but had not implemented them at the time of this audit.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 276000.0,
+            "context": "foundation revenues FY 2023"
+          },
+          {
+            "amount": 291000.0,
+            "context": "foundation expenditures FY 2023"
+          },
+          {
+            "amount": 508000.0,
+            "context": "foundation assets June 30, 2023"
+          },
+          {
+            "amount": 343000.0,
+            "context": "investments within foundation assets"
+          },
+          {
+            "amount": 158000.0,
+            "context": "cash within foundation assets"
+          },
+          {
+            "amount": 155000.0,
+            "context": "unrestricted funds held by foundation June 30, 2023"
+          }
+        ],
+        "recommendation": "We recommend that the Commission revise its MOA with its affiliated foundation to, at the least, a. ensure goods and services purchased on behalf of the Commission by the foundation are procured in a manner consistent with the College\u2019s procurement policies and procedures (repeat), b. establish an ethics policy approved by the SEC and require periodic monitoring of foundation board members\u2019 compliance with the policy and reporting to the Commission (repeat), and c. establish an investment policy that ensures funds collected by the foundation are properly collateralized and safeguarded and that addresses when unrestricted funds should be transferred to the Commission (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2025-07-30"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Commission does not dispute the finding and states it is revising its MOU with the Historic St. Mary\u2019s City Foundation to comply with recommendations, aiming for completion by July 30, 2025.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date taken from transmittal letter (April 18, 2025). Audit period explicitly stated in transmittal and scope sections. Finding marked as repeat based on Status of Findings section and recommendation annotations."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:24:54.115576",
+  "content_hash": "5de7116cf78108ad01a3a690e29b3f93c918cf85",
+  "duplicate_of": "5a8f4d1bcc9d7245606746c0"
+}

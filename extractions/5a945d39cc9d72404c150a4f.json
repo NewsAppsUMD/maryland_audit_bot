@@ -1,0 +1,561 @@
+{
+  "extraction": {
+    "agency_name": "Board of Liquor License Commissioners for Baltimore City",
+    "parent_department": null,
+    "report_date": "2016-07-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "BLLC Lacked Formal Written Policies to Guide and Control the Licensing Process",
+        "description": "BLLC lacked formal written policies and procedures to direct staff in processing license applications, renewals, and transfers. Controls were not in place to ensure licensees provided appropriate documentation or paid fees before issuance. Guidance was lacking on employee duties, supervisory review, late fee assessment, and documentation retention.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend BLLC develop and implement formal written policies to ensure the licensing process is carried out consistently in accordance with State law and BLLC requirements; establish effective controls, including a documented supervisory review process, to help ensure licensees submit all required documentation and pay all related fees.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "BLLC Renewed Certain Licenses Without Ensuring Licensees Paid the Proper Amounts",
+        "description": "Testing of license renewals revealed fee issues in multiple instances. Eight licensees were assessed fees $2,420 less than the required amount totaling $68,405. Additional testing found under-assessed late fees totaling potential amounts of $650 and $2,500 on tested applications.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 68405.0,
+            "context": "fees that should have been assessed"
+          },
+          {
+            "amount": 2420.0,
+            "context": "less than the amount assessed to licensees"
+          },
+          {
+            "amount": 4200.0,
+            "context": "under-assessed fees for entities in a particular license class"
+          },
+          {
+            "amount": 650.0,
+            "context": "potential late fees failure to assess"
+          },
+          {
+            "amount": 5800.0,
+            "context": "late fees assessed on tested applications"
+          },
+          {
+            "amount": 2500.0,
+            "context": "could have been assessed under State law provisions"
+          }
+        ],
+        "recommendation": "We recommend BLLC issue renewal licenses only after the assessment and payment of all appropriate fees; assess late fees for applications submitted after March 31 of each year as allowed by law; ensure that applicants provide evidence of seating capacity with the renewal license application, as applicable.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "BLLC Did Not Assess the Proper License Fee for the Casino Nor Ensure Casino Concessionaires Were Licensed",
+        "description": "The casino was assessed an annual license fee of $12,000 instead of the required $15,000. Seven establishments within the casino operated as independent concessionaires without liquor licenses and fees totaling up to $76,000 were not received for the 2014 and 2015 license years.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 76000.0,
+            "context": "licensing revenues not received from the casino and concessionaires"
+          }
+        ],
+        "recommendation": "We recommend BLLC license all establishments within the casino in accordance with State law; collect past licensing fees due from the casino and concessionaires.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "BLLC Did Not Always Ensure License Transfers Were Completed Within 180 Days of Receiving Board Approval",
+        "description": "Testing identified two transfers finalized 370 and 389 days after Board approval instead of the required 180 days. BLLC management stated it has no intention of following the Attorney General's Opinion reaffirming the mandatory requirement.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend BLLC process license transfers consistent with the Attorney General's Opinion.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "BLLC Did Not Establish a Process to Receive Updates to Licensee Criminal Records as Required by Law",
+        "description": "BLLC did not receive updates on licensee criminal records from the CJIS after initial background checks. The agency relied on licensee reporting for renewals without assurance of accuracy regarding criminal convictions.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend BLLC establish a process to obtain, and timely review, updates to licensee criminal records from CJIS and take appropriate licensing actions based on the updates received.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Procedures and Recordkeeping Practices Over Cash Receipts and Accounts Receivable Did Not Provide Sufficient Control",
+        "description": "Controls over cash receipts were insufficient; checks were not secured or endorsed immediately. One employee had complete control over cash receipts and accounts receivable functions. Reconciliations were not completed, resulting in $1,066,550 posted to a holding account instead of revenue accounts from 2013-2015.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 13000.0,
+            "context": "checks unable to provide documentation of deposit"
+          },
+          {
+            "amount": 1066550.0,
+            "context": "posted to the BLLC holding account rather than appropriate City revenue account"
+          },
+          {
+            "amount": 44000.0,
+            "context": "outstanding accounts receivable as of March 2015"
+          },
+          {
+            "amount": 8500.0,
+            "context": "unpaid fines and fees allowing licensees to renew licenses"
+          }
+        ],
+        "recommendation": "We recommend that BLLC institute proper internal controls over cash receipts; separate duties so employees with access to collections cannot issue licenses or adjust accounts receivable records; ensure timely preparation of reconciliations; investigate and update accounts receivable records for fines and fees from years prior to fiscal year 2015; not allow licenses to be renewed until all outstanding amounts due have been paid.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "BLLC Lacked Comprehensive Written Policies and Procedures Over the Inspection Process",
+        "description": "Inspectors were provided minimal guidance on how to conduct routine inspections or identify violations. Existing guidelines did not define satisfactory compliance levels, timelines for follow-up actions, or methods for verifying alcohol purchases from licensed wholesalers.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC develop and implement comprehensive written procedures over the inspection process which includes guidance addressing the aforementioned areas.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "BLLC Lacked an Effective Tracking System to Monitor Inspection Activities",
+        "description": "BLLC was unable to determine if inspectors met inspection goals. Statistical analysis indicated the number of inspections conducted fell short of the goal of 5,200 by at least 1,600 for the year ended April 30, 2015.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC establish an effective system for tracking inspections; ensure the inspection database includes all relevant information; develop reports from the inspection database to allow BLLC management to monitor licensee inspection results; and monitor inspections to ensure established goals are met.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "The Chief Inspector Did Not Document Duties Performed",
+        "description": "There was no documentation of the performance of supervisory duties by the Chief Inspector. Testing found no evidence that the Chief Inspector reviewed or accounted for inspections performed.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC ensure that the duties performed by the Chief Inspector, including supervision of inspection staff and review of inspection results, are documented.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "BLLC Lacked Comprehensive Written Procedures Over Complaints and Many Complaints Were Closed Without Adequate Documentation of Investigation Results",
+        "description": "Procedures for handling 311 complaints were not comprehensive. Many complaints were closed without evidence of investigation or within the 72-hour goal. Testing found most complaints lacked adequate detail to indicate an investigation had been completed.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC develop and implement comprehensive written procedures over the complaint investigation process; use the 311 System's report capabilities to monitor complaint investigations and resolutions.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "BLLC Did Not Use Sound Meters to Investigate Noise-Related Complaints",
+        "description": "Inspectors had not been trained to use sound meters which were not calibrated until September 2015. Meters were inaccessible after hours when most noise complaints occurred.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC use the available sound meters to investigate noise-related complaints and document the findings as part of the investigative process.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "BLLC Lacked Written Policies and Procedures for Certain Aspects of the Disciplinary Process",
+        "description": "There were no guidelines for determining which violations go to the Board or the timing of referrals. Testing found delays in holding hearings, with some violations heard 181 to 783 days after occurrence.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Board and BLLC develop and implement written procedures to govern the disciplinary process; provide guidance on when violations should be brought to the Board; and establish an appropriate standard for the timeliness of conducting hearings.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "BLLC Did Not Monitor Closed Establishments to Ensure the Alcoholic Beverage Licenses Expired in Accordance With State Law",
+        "description": "BLLC did not maintain a formal system to track closed establishments. Testing found two licenses should have been terminated prior to transfer approval due to closure exceeding 180 days, and hardship extensions were granted beyond legal limits.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC formally track licensed establishments which closed; notify the Board of licensed establishments closed for more than 180 days; and the Board discontinue granting additional hardship extensions beyond the time period permitted by law.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "BLLC Had Not Implemented Management Practices to Effectively Oversee and Manage the Agency\u2019s Functions",
+        "description": "Many preceding recommendations were not addressed. BLLC did not routinely generate reports from automated systems or post advertisements of proposed Board action in newspapers as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC develop policies and procedures governing BLLC operations; ensure accurate and reliable data are recorded in its systems and reports are generated to enable management oversight.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "Financial Disclosure Forms Were Not Filed As Required",
+        "description": "Eight of 16 individuals required to file financial disclosure forms had not submitted them for calendar year 2014 as of July 13, 2015. Management did not review disclosures for conflicts of interest.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC ensure Board members and employees file annual financial disclosure forms as required; management review disclosure forms for conflicts of interest and establish a process to identify potential conflicts regarding interests in the alcohol beverage industry.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "BLLC Did Not Formally Evaluate Employee Performance on a Routine Basis as Required",
+        "description": "Eleven of 16 BLLC employees had not received performance evaluations during their tenure. Baltimore City policy requires formal written performance evaluations every six months or on anniversary dates.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that management adhere to Baltimore City policy and provide formal written evaluations for each employee in accordance with policy.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "Proper Internal Controls Were Not Established Over Payroll Processing and Payroll Testing Disclosed Various Problems",
+        "description": "Internal controls over payroll were inadequate. Time records were unreliable due to missing signatures or discrepancies between logs and timesheets. Overtime lacked documented approval, and user access to the timekeeping system was not adequately segregated.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "payroll in fiscal year 2014"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "payroll in fiscal year 2015"
+          },
+          {
+            "amount": 51000.0,
+            "context": "overtime earned by employees between January and June 2015"
+          },
+          {
+            "amount": 9400.0,
+            "context": "overtime paid to one inspector in the same period"
+          }
+        ],
+        "recommendation": "We recommend that BLLC ensure employees record time in accordance with the LOU; institute written policies and procedures over the processing of payroll to ensure proper internal controls; modify users' system access capabilities to provide appropriate separation of payroll processing duties.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "BLLC did not digitize its records by July 1, 2015 as required by State law.",
+        "description": "As of February 16, 2016, BLLC had not digitized licensee records and made them available on its website. Furthermore, BLLC had not adopted regulations regarding digitizing its records, including ensuring the safety of personally identifiable information (PII).",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC work with the City of Baltimore to a. digitize and post all licensee records online as required by law, and b. prepare the required regulations over the digitizing process, including regulations to protect PII.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 19,
+        "title": "Lack of Formal Written Policies",
+        "description": "BLLC lacked formal written policies to guide and control the licensing process. BLLC staff began writing Standard Operating Procedures (SOPs) after a 2013 Audit.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-01"
+      },
+      {
+        "number": 20,
+        "title": "Improper Issuance",
+        "description": "BLLC issued licenses without obtaining all required information and payments. BLLC created protocols to ensure documentation and proper payment are submitted prior to issuance.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 250000.0,
+            "context": "increased revenues from licensees during the 2016-2017 license renewal year"
+          },
+          {
+            "amount": 50.0,
+            "context": "late charge for each day application is filed late"
+          },
+          {
+            "amount": 1500.0,
+            "context": "not to exceed late charge amount"
+          }
+        ],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-01"
+      },
+      {
+        "number": 21,
+        "title": "Horseshoe Casino",
+        "description": "The Horseshoe Casino and concessionaires within the Casino were not properly licensed nor charged the correct license fees. BLLC conceded annual license fee was not correct due to system limitations.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 15000.0,
+            "context": "annual fee for a Class BWL-VLF license"
+          },
+          {
+            "amount": 12000.0,
+            "context": "cost of Arena License issued to Casino in August 2014"
+          },
+          {
+            "amount": 3000.0,
+            "context": "owed for license year 2014-2015"
+          },
+          {
+            "amount": 6000.0,
+            "context": "additional amount provided for back fees owed for license years 2014-2015 and 2015-2016"
+          }
+        ],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-04-01"
+      },
+      {
+        "number": 22,
+        "title": "180-Day Transfer Rule",
+        "description": "BLLC did not always ensure license transfers were completed within 180 days of receiving Board approval. Agency drafted a new SOP to reflect the position of the Board.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 23,
+        "title": "Criminal Background Alerts",
+        "description": "BLLC did not receive updates to licensee criminal records as required by State law. BLLC drafted and implemented SOP 2.02(4) requiring inquisition to CJIS.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-01-01"
+      },
+      {
+        "number": 24,
+        "title": "Procedures and Record-Keeping Practices and Accounts Receivable Reforms",
+        "description": "BLLC lacked procedures and record keeping practices for cash receipts, and accounts receivable did not provide sufficient controls. BLLC drafted policies to remedy findings.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 100.0,
+            "context": "hearing fee collected at time application is made"
+          },
+          {
+            "amount": 1000.0,
+            "context": "accounts totaling over this amount owed to the agency will be forwarded to Law Department for collections"
+          }
+        ],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-01"
+      },
+      {
+        "number": 25,
+        "title": "Lack of Comprehensive Polices and Guidance for Inspectors",
+        "description": "BLLC lacks comprehensive written policies to guide the inspection and investigation processes. BLLC drafted Inspection SOPs and guidelines throughout 2015 and 2016.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-01"
+      },
+      {
+        "number": 26,
+        "title": "Lack of Effective Tracking System for Monitoring Inspection Activities, Duties, and Outcomes",
+        "description": "BLLC lacked an effective tracking system for monitoring inspection activities. BLLC worked with MOIT to create a database tracking system.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-03-01"
+      },
+      {
+        "number": 27,
+        "title": "Chief Inspector Did Not Document Duties Performed",
+        "description": "The Chief Inspector did not document duties performed. BLLC disagrees with OLA finding that there was a lack of documentation concerning the Chief Inspector's work product.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": false,
+        "agency_completion_date": "2016-05-01"
+      },
+      {
+        "number": 28,
+        "title": "Lack of Comprehensive Procedures for Processing 311 Complaints and Lack of Adequate Documentation in Closure of Complaints",
+        "description": "BLLC did not properly document the handling and resolution of 311 complaint referrals. BLLC introduced a 311 software application in October 2015.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-01"
+      },
+      {
+        "number": 29,
+        "title": "Use of Sound Meters",
+        "description": "BLLC did not use sound meters during the investigation of noise complaints. BLLC will discontinue use as primary means but utilize as investigative tool.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 30,
+        "title": "Lack of Guidance",
+        "description": "BLLC lacks written policies and procedures for certain aspects of the disciplinary process. BLLC implemented SOP 3.05 \u2013 Violation Review and Charging Process.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-01"
+      },
+      {
+        "number": 31,
+        "title": "Lack of Formal Process to Effectively Monitor Closed Establishments to Ensure Compliance with State Law",
+        "description": "BLLC did not establish a formal process to effectively monitor closed establishments. BLLC has in place SOP 3.08 \u2013 Non-Operating Locations.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 32,
+        "title": "Lack of Management Practices to Oversee and Manage Agency",
+        "description": "BLLC had not implemented management practices to effectively oversee and manage the agency's functions. BLLC has in place Rules and Regulations and an agency Manual.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-01"
+      },
+      {
+        "number": 33,
+        "title": "Financial Disclosure Forms and Financial Interest Inquiries Not Filed as Required",
+        "description": "Financial Disclosure forms were not filed as required. BLLC drafted SOP 1.06 \u2013 Financial Disclosure and Ethics Questions.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-01"
+      },
+      {
+        "number": 34,
+        "title": "Untimely Evaluations of Employee Performance",
+        "description": "BLLC did not formally evaluate employee performance on a routine basis. BLLC drafted SOP 1.07 \u2013 Positions/Chain of Hierarchy/Evaluations.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-01"
+      },
+      {
+        "number": 35,
+        "title": "Lack of Proper Internal Controls over Payroll Processing",
+        "description": "Proper Internal Controls were not established over payroll processing. BLLC created SOP 1.08 \u2013 E-time Processing and Approval.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-01-01"
+      },
+      {
+        "number": 36,
+        "title": "Lack of Record Digitization",
+        "description": "BLLC did not digitize its records by July 1, 2015 as required by State law. BLLC agrees with OLA that records were not digitized and posted online.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": "2016-03-01"
+      }
+    ],
+    "prior_findings_count": 24,
+    "prior_findings_repeated": 15,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "BLLC's response to findings and recommendations is included as an appendix to the audit report.",
+    "total_dollar_impact": 1157670.0,
+    "extraction_notes": "Audit period dates not explicitly stated in 'period beginning/ending' format; used null. Finding 18 listed in TOC but no detailed section content provided in text."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 36, regex counted 18",
+    "repeat_count_mismatch: extracted 16, asterisk markers 15"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T22:43:24.462341",
+  "content_hash": "cfef6613377120026466721ed0fadeb1b178e7ac",
+  "duplicate_of": null
+}

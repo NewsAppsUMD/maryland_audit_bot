@@ -1,0 +1,215 @@
+{
+  "extraction": {
+    "agency_name": "Baltimore City Community College",
+    "parent_department": null,
+    "report_date": "2022-02-09",
+    "audit_period_start": "2016-11-30",
+    "audit_period_end": "2020-11-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Baltimore City Community College (BCCC) did not require or obtain a review of the automated system used by its vendor responsible for processing student refunds, to ensure that sensitive information residing on the system was properly safeguarded.",
+        "description": "BCCC did not require or obtain an independent review of the automated system used by its vendor responsible for processing student refunds. Student refunds issued during fiscal year 2020 totaled approximately $4.9 million. The contract with the vendor did not require the vendor to obtain and formally report results of any such review.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4900000.0,
+            "context": "student refunds issued during fiscal year 2020"
+          }
+        ],
+        "recommendation": "BCCC comply with State law by requiring the vendor to obtain a formal control assessment report, such as a SOC 2 Type 2 report, and implement a process to obtain and review the results to ensure sensitive student information provided to the vendor is properly safeguarded.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-01-31"
+      },
+      {
+        "number": 2,
+        "title": "BCCC had not established sufficient controls over significant aspects of the financial aid award and record keeping processes within the financial aid office.",
+        "description": "BCCC did not conduct independent supervisory reviews of manual adjustments to financial aid awards or verifications of financial aid application data. Financial aid awards during academic year 2019-2020 totaled approximately $11.6 million, with $1.0 million manually input without review.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 11600000.0,
+            "context": "financial aid awards during academic year 2019-2020"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "awards manually input into the financial aid system not subject to independent supervisory review"
+          }
+        ],
+        "recommendation": "BCCC ensure that manual adjustments to financial aid awards, as well as required verifications of financial aid application data and satisfactory academic progress by financial aid recipients are subject to independent supervisory review and approval.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "BCCC was unable to provide adequate documentation to support a payroll adjustment increasing a senior BCCC management employee\u2019s compensation by $72,700. In addition, BCCC overpaid another employee $8,900 due to an undetected adjustment miscalculation.",
+        "description": "BCCC could not provide documentation supporting a $72,700 payroll adjustment for a senior management employee or justification for the payment. Additionally, an $8,900 overpayment was discovered during testing of payroll adjustments totaling approximately $3.0 million during the audit period.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 72700.0,
+            "context": "unsupported payroll adjustment increasing senior management employee compensation"
+          },
+          {
+            "amount": 8900.0,
+            "context": "overpayment due to undetected adjustment miscalculation"
+          },
+          {
+            "amount": 327500.0,
+            "context": "total of ten payroll adjustments selected for testing"
+          },
+          {
+            "amount": 3000000.0,
+            "context": "payroll adjustments increasing employee salary compensation during audit period"
+          }
+        ],
+        "recommendation": "BCCC develop formal policies and procedures governing criteria, documentation, and approvals for adjustments; ensure all payroll adjustments are supported with adequate documentation and properly calculated; determine the propriety of unsupported payroll adjustments and take appropriate action to recover any amounts that cannot be supported.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "BCCC did not always adhere to State procurement regulations regarding conducting competitive solicitations, obtaining Board of Public Works approval of contracts, and the publication of bid solicitations and awards. In addition, contract invoices were not always adequately verified prior to payment.",
+        "description": "BCCC lacked documentation for five procurements totaling $167,000 and could not provide written contracts for two others valued at $24,000 and $75,000. BCCC also failed to publish solicitations for three contracts totaling $173,700 and paid a vendor $721,000 without soliciting bids or obtaining BPW approval.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 167000.0,
+            "context": "procurements without documentation to support competitive procurement process"
+          },
+          {
+            "amount": 24000.0,
+            "context": "procurement without written contract or purchase order"
+          },
+          {
+            "amount": 75000.0,
+            "context": "procurement without written contract or purchase order"
+          },
+          {
+            "amount": 173700.0,
+            "context": "contracts not published on eMaryland Marketplace as required"
+          },
+          {
+            "amount": 721000.0,
+            "context": "payments to IT services vendor without soliciting bids and obtaining BPW approval"
+          },
+          {
+            "amount": 86000.0,
+            "context": "invoices from IT vendor tested where BCCC could not document verified invoiced rates"
+          },
+          {
+            "amount": 37965.0,
+            "context": "procurement of catering services from one vendor over six months"
+          }
+        ],
+        "recommendation": "BCCC ensure contracts are awarded through a competitive procurement process with documentation maintained; adhere to bid solicitation and award publishing requirements; receive proper independent approval as applicable; verify invoice charges to contractual billing rates; and consolidate purchases to maximize purchasing power.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "During our audit period, BCCC did not comply with State law and Department of Information Technology policies for the procurement and monitoring of its two resource sharing agreements.",
+        "description": "BCCC continued to use one RSA valued at $473,000 after it expired in 2008 without renegotiation. A new $1.7 million RSA agreement was not advertised on eMM or submitted for approval as required. Agreements lacked critical provisions for compensation and liability protection.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 473000.0,
+            "context": "value of one RSA continued after expiration"
+          },
+          {
+            "amount": 97000.0,
+            "context": "additional revenue that could have been earned using suggested rates"
+          },
+          {
+            "amount": 112000.0,
+            "context": "paid by the telecommunication company during period May 2017 to April 2021"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "value of new RSA agreement entered into in October 2020"
+          }
+        ],
+        "recommendation": "BCCC establish new agreements for expired RSAs considering higher rates; consider widely advertising solicitations for RSAs and submit to appropriate authorities; include all significant provisions in future RSAs and modify existing agreements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Sensitive personally identifiable information was maintained without adequate safeguards and identification.",
+        "description": "Numerous applications' databases included sensitive information records maintained in a manner vulnerable to improper disclosure. BCCC had not manually inventoried its applications nor used scan results to identify all stored sensitive PII or delete unnecessary data.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 5,
+        "dollar_amounts": [],
+        "recommendation": "BCCC perform an inventory of all servers, identify all sensitive PII, and delete unnecessary sensitive PII; implement appropriate information security safeguards for the sensitive PII it maintains.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-12-31"
+      },
+      {
+        "number": 7,
+        "title": "Malware protection controls for BCCC computers were not sufficient to provide adequate assurance that computers were properly protected from security risks.",
+        "description": "Documented reviews of malware protection software consoles had not been performed since September 2020. As of May 25, 2021, 62 of 569 active computers did not have malware protection software installed.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "BCCC ensure that malware protection software is installed and maintained on all computers by regularly monitoring related software management consoles to verify status, document reviews, and retain documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-04-30"
+      },
+      {
+        "number": 8,
+        "title": "BCCC did not conduct physical inventories of equipment and did not maintain complete equipment records as required.",
+        "description": "Physical inventories were not conducted since 2014. Detailed equipment records were incomplete; testing of 76 items disclosed 14 items totaling $15,000 had not been recorded and 58 items totaling $37,000 lacked specific location information.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": 8,
+        "dollar_amounts": [
+          {
+            "amount": 32800000.0,
+            "context": "value of equipment inventory as of June 30, 2020"
+          },
+          {
+            "amount": 54000.0,
+            "context": "total value of 76 equipment items in test of purchases"
+          },
+          {
+            "amount": 15000.0,
+            "context": "value of equipment items not recorded in detail records"
+          },
+          {
+            "amount": 37000.0,
+            "context": "value of items recorded without specific location information"
+          }
+        ],
+        "recommendation": "BCCC conduct timely periodic documented physical inventories and reconcile results to detail inventory record; ensure equipment records are maintained in a complete and accurate manner.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-11-30"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "BCCC generally agrees with the audit recommendations but disagrees on recovering unsupported payroll adjustments and advertising solicitations for resource sharing agreements due to tower usage constraints. The agency states it will implement corrective actions including hiring third-party reviews, updating procurement policies, and conducting inventories.",
+    "total_dollar_impact": 81600.0,
+    "extraction_notes": "Report date taken from transmittal letter (February 9, 2022). Audit period explicitly stated as November 30, 2016 to November 30, 2020. Findings 6 and 8 marked with asterisks in Table of Contents and identified as repeated in Status of Preceding Findings section (Figure 1). Criminal referral explicitly noted as not warranted. Fraud hotline triggered specific review within scope but audit did not originate from it."
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:28:24.314521",
+  "content_hash": "a66d6cbad022a1277976d54ee572e11f791febc2",
+  "duplicate_of": "5a8f4d0bcc9d72456067429e"
+}

@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Agricultural Land Preservation Foundation",
+    "parent_department": "Department of Agriculture",
+    "report_date": null,
+    "audit_period_start": null,
+    "audit_period_end": "2013-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Maryland Agricultural Land Preservation Foundation (MALPF) did not ensure that all easement violations were resolved in a timely manner.",
+        "description": "MALPF did not ensure that all easement violation were resolved in a timely manner. As of June 30, 2013, there were 348 unresolved violations, including 49 high-priority ones remaining for up to seven years. Reviews and follow-up actions are not documented despite policy requirements.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2500.0,
+            "context": "civil penalties per day"
+          },
+          {
+            "amount": 50000.0,
+            "context": "maximum civil penalty"
+          }
+        ],
+        "recommendation": "We recommend that MALPF a. perform appropriate and timely follow-up actions on outstanding easement violations to ensure corrective actions were taken (repeat); b. document periodic reviews of the database and related follow-up actions; and c. determine the status of the aforementioned unresolved violations and impose penalties, if deemed appropriate (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MALPF concurs with the findings regarding follow-up actions on easement violations and documentation. The agency notes that civil penalties are a last resort and outlines steps taken, including requiring documentation of all contacts and holding bi-annual meetings with Assistant Attorneys General.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date is null as no transmittal letter date was explicitly stated in the text. Audit period start is null as explicit 'beginning' language was not found."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T20:34:37.631774",
+  "content_hash": "68bce94a48cb06a3eb994aee98d7025cc57b0875",
+  "duplicate_of": null
+}

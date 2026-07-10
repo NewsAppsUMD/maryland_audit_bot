@@ -1,0 +1,140 @@
+{
+  "extraction": {
+    "agency_name": "Subsequent Injury Fund",
+    "parent_department": null,
+    "report_date": "2017-09-01",
+    "audit_period_start": "2013-10-29",
+    "audit_period_end": "2016-11-13",
+    "findings": [
+      {
+        "number": 1,
+        "title": "SIF did not ensure claim payments agreed with amounts awarded by WCC, resulting in overpayments going undetected.",
+        "description": "SIF lacked procedures to verify that claim payments matched Workers' Compensation Commission awards, allowing unauthorized or erroneous payments to go undetected due to insufficient supervisory review. Testing of recurring biweekly payments disclosed overpayments totaling approximately $9,800 for two claimants.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 215.0,
+            "context": "payments overstated"
+          },
+          {
+            "amount": 9800.0,
+            "context": "overpayments to two claimants"
+          },
+          {
+            "amount": 8897.0,
+            "context": "excess received by one claimant"
+          }
+        ],
+        "recommendation": "Establish a supervisory review procedure that ensures new and adjusted claim payments are in accordance with WCC awards; initiate a review of all current recurring claim payments to determine accuracy and consider recovering overpayments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "SIF did not always pursue recovery of claim payments improperly disbursed to deceased individuals.",
+        "description": "SIF failed to consistently pursue recovery of payments made after beneficiaries' death dates were identified through Social Security Administration matches. Testing showed that for six cases involving $12,709 in improper payments, SIF could not document any attempts to recover the funds.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 18937.0,
+            "context": "payments made after reported dates of death"
+          },
+          {
+            "amount": 12709.0,
+            "context": "improper payments not documented for recovery"
+          }
+        ],
+        "recommendation": "Investigate the results of monthly death matches and actively pursue recovery of funds in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "SIF did not ensure that all assessments were recorded in its accounts receivable system and did not conduct independent reviews of adjustments to these accounts. Additionally, SIF did not properly separate certain accounts receivable and cash receipts functions.",
+        "description": "SIF lacked processes to ensure all WCC award assessments were entered into the accounts receivable system or independently reviewed for propriety before recordation. Two employees processing adjustments had access to related cash receipts prior to deposit, creating a risk of undetected misappropriation.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 28100000.0,
+            "context": "accounts receivable recorded for WCC award assessments"
+          },
+          {
+            "amount": 533000.0,
+            "context": "net adjustments reducing accounts receivable"
+          }
+        ],
+        "recommendation": "Establish an independent procedure to ensure all WCC awards are recorded; establish independent review and approval for adjustments; ensure assessment collection and accounts receivable functions are properly separated.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "SIF did not document its efforts to collect delinquent assessment accounts and did not refer all delinquent accounts to the State\u2019s Central Collection Unit.",
+        "description": "SIF failed to maintain documentation of dunning notices for delinquent accounts and had not referred any delinquent assessment accounts to the Central Collection Unit since October 2015. Outstanding assessment accounts increased significantly from the preceding audit period, with $6.5 million outstanding as of January 2017.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6500000.0,
+            "context": "outstanding assessment accounts as of January 2017"
+          },
+          {
+            "amount": 3400000.0,
+            "context": "accounts older than 90 days"
+          },
+          {
+            "amount": 3100000.0,
+            "context": "outstanding assessment accounts as of December 2013"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "accounts older than 90 days as of December 2013"
+          },
+          {
+            "amount": 594000.0,
+            "context": "test sample of delinquent accounts not referred to CCU"
+          }
+        ],
+        "recommendation": "Document efforts to send written demands for payment at 30-day intervals; refer all delinquent accounts to the Central Collection Unit for collection assistance as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "SIF did not have adequate procedures and controls over collections processed by remote deposit.",
+        "description": "SIF failed to ensure checks were restrictively endorsed prior to scanning or reconciled deposited checks with receipt logs within required timeframes. Checks were retained for approximately three months before destruction instead of the required 30 days, violating State Treasurer's Policy.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 25600000.0,
+            "context": "collections processed by remote deposit during fiscal year 2016"
+          }
+        ],
+        "recommendation": "Comply with the Policy on the Use of Remote Deposit Services by Maryland State Agencies by restrictively endorsing checks immediately, independently reconciling deposits and destructions, and destroying checks within 30 days.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Subsequent Injury Fund (SIF) concurred with all five recommendations. SIF indicated it has initiated reviews of claim payments and assessment awards, plans to modify applications for automated adjustment processes and collection tracking, and will transfer collections to a bank lockbox to improve controls.",
+    "total_dollar_impact": 22509.0,
+    "extraction_notes": "Report date derived from 'September 2017' header. Audit period extracted from Scope section. Parent department not explicitly stated in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:35:35.940690",
+  "content_hash": "9906ddee7c474d04a87f45d6b2dbc87c387864cf",
+  "duplicate_of": "5a8f4d1bcc9d7245606746ce"
+}

@@ -1,0 +1,101 @@
+{
+  "extraction": {
+    "agency_name": "AIDS Administration",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2007-10-24",
+    "audit_period_start": "2004-04-14",
+    "audit_period_end": "2007-03-20",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls Were Not in Effect to Prevent Payments of Pharmacy Claims for Clients with Third-Party Insurance Coverage",
+        "description": "Adequate controls were not in place to ensure that the Administration did not pay pharmacy claims for clients with third-party health insurance. The Administration paid claims totaling approximately $1.4 million applicable to clients insured through MHIP without determining if MHIP should have paid some of the claims, and lacked documentation supporting why it paid instead of insurers.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1600000.0,
+            "context": "insurance premiums paid by Administration for clients insured through MHIP during calendar year 2006"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "pharmacy claims paid by Administration applicable to clients insured through MHIP"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "MHIP pharmacy claims paid for those clients"
+          },
+          {
+            "amount": 290432.0,
+            "context": "pharmacy claims tested applicable to 10 clients with active third-party health insurance coverage"
+          },
+          {
+            "amount": 55000.0,
+            "context": "estimated payments made by Administration that should have been paid by MHIP after adjusting for deductibles and co-payments"
+          },
+          {
+            "amount": 105000.0,
+            "context": "additional claims paid by Administration on behalf of clients with third-party insurance that may have been payable by the third-party insurer"
+          }
+        ],
+        "recommendation": "We recommend that the Administration implement controls to ensure that it does not pay pharmacy claims applicable to clients with third-party health insurance coverage unless each such claim is accompanied by documentation substantiating the reason for non-payment by the client's insurance provider. We also recommend that the Administration recover all pharmacy claim payments, including those payments identified by our audit, which should have been paid by third-party insurance carriers including the MHIP.",
+        "agency_agrees": true,
+        "agency_completion_date": "2007-11-01"
+      },
+      {
+        "number": 2,
+        "title": "Verifications Were Not Performed to Ensure Pharmacy Claims Paid Were Properly Supported and Related Prescriptions Were Provided to Clients",
+        "description": "The Administration had not established adequate procedures to independently verify the propriety of pharmacy claims submitted and paid. Specifically, the Administration did not verify that claims were supported by valid physician prescriptions or that claims paid had not also been paid by third-party insurers.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Administration establish procedures to help ensure that only valid pharmacy claims were paid. For example, the Administration could perform periodic audits to ensure that pharmacies have documentation (that is, physicians' prescriptions) to support claims paid. We also recommend that such procedures be designed to determine whether any pharmacy claims paid by the Administration were also paid by third-party insurers.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "User Access to the Pharmacy and Insurance Carrier Claims Payment Database Was Not Adequately Restricted",
+        "description": "User access to the Administration's database used for processing payments was not adequately restricted. Three employees who could enter prescription authorizations could also add pharmacies and clients, and nine employees who could enter insurance premium invoices could also add insurance carriers and clients.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We again recommend that the Administration segregate incompatible payment processing capabilities. Specifically, we again recommend that employees with the ability to add a pharmacy to the system be denied the ability to enter a prescription authorization, and that employees with the ability to add an insurance carrier in the system be denied the ability to enter an invoice.",
+        "agency_agrees": true,
+        "agency_completion_date": "2007-09-01"
+      },
+      {
+        "number": 4,
+        "title": "The Administration Did Not Ensure That State Funds Held in Bank Accounts Maintained by a Private Contractor Were Adequately Collateralized",
+        "description": "State funds held in bank accounts maintained by a private contractor were not adequately protected against risk of loss. The primary bank account used by the contractor was not collateralized, and during the audit period had an average month-end balance of approximately $1.8 million.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1800000.0,
+            "context": "average month-end balance of the primary bank account during the six-month period from July 2006 through December 2006"
+          }
+        ],
+        "recommendation": "We recommend that the Administration, in conjunction with the State Treasurer, ensure that all related bank accounts used by the contractor are adequately and properly collateralized as required by law and the contract.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department concurs with most findings and outlines corrective actions including implementing automated denial processes for third-party claims by November 2007, developing RFPs for pharmacy audits, initiating recovery requests to insurers by November 2007, and working with the bank and State Treasurer regarding collateralization.",
+    "total_dollar_impact": 160000.0,
+    "extraction_notes": "Finding 3 is marked as a repeat finding in the Table of Contents. Prior findings count derived from 'Current Status of Findings From Preceding Audit Report' section stating four findings were contained in the preceding report dated November 4, 2004."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:05:22.025676",
+  "content_hash": "81bc80dd7994d4723812598f87df22130cda1c30",
+  "duplicate_of": null
+}

@@ -1,0 +1,69 @@
+{
+  "extraction": {
+    "agency_name": "Maryland School for the Deaf",
+    "parent_department": null,
+    "report_date": "2015-12-01",
+    "audit_period_start": "2011-08-09",
+    "audit_period_end": "2015-03-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Corporate purchasing card transactions were not always reviewed and approved by appropriate supervisory personnel and documentation was lacking for a certain aspect of the new card issuance process.",
+        "description": "MSD lacked adequate controls over its corporate purchasing cards (CPC). During fiscal year 2014, expenditures charged to 10 CPCs totaled $270,716. Review of activity logs disclosed that required review and approval by supervisory officials was not properly documented for charges totaling approximately $76,000.",
+        "category": "corporate_purchasing_cards",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 270716.0,
+            "context": "expenditures charged to 10 corporate purchasing cards"
+          },
+          {
+            "amount": 76000.0,
+            "context": "charges totaling approximately"
+          }
+        ],
+        "recommendation": "We recommend that MSD comply with the requirements of the Corporate Purchasing Card Program Policy and Procedures Manual by ensuring a. the appropriate supervisory review and approval of purchasing card activity logs and the related monthly cardholder statements be documented; b. that CPC Program Authorized Reviewer Agreements be kept current; and c. that the employee who receives the new cards from the bank be independent of the requestor, and that this receipt process be documented.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MSD did not accurately maintain detail records and properly account for all of its equipment.",
+        "description": "MSD did not adequately control its equipment or maintain records per DGS Inventory Control Manual. Equipment inventory totaled approximately $6.7 million as of June 30, 2014. Physical inventories were not completed annually since 2012 for sensitive equipment valued at approximately $2.3 million.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6700000.0,
+            "context": "equipment inventory as of June 30, 2014"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "detailed records valued sensitive equipment"
+          },
+          {
+            "amount": 21000.0,
+            "context": "23 items were valued at"
+          }
+        ],
+        "recommendation": "We recommend MSD comply with the applicable requirements of DGS\u2019 Inventory Control Manual. We advised MSD on accomplishing the necessary separation of duties using existing personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MSD concurs with all findings. For Finding 1, they state all issues have been addressed and implemented, including verifying signatures and updating forms. For Finding 2, they plan to complete physical inventories during summer break and reconcile quarterly moving forward.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'December 2015' as no specific transmittal letter date was provided in the text. Parent department not explicitly stated in document."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:59:31.508233",
+  "content_hash": "540fa002fed8653fd1f44d0966d546adec6f5f1c",
+  "duplicate_of": "5a8f4d0ecc9d7245606743a8"
+}

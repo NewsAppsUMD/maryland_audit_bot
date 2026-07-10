@@ -1,0 +1,194 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Transit Administration",
+    "parent_department": "Department of Transportation",
+    "report_date": "2015-02-01",
+    "audit_period_start": "2011-01-01",
+    "audit_period_end": "2013-12-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "MTA Did Not Verify the Accuracy of Billed Direct Labor Rates for the Red and Purple Lines' Architectural and Engineering Contracts",
+        "description": "MTA did not verify the accuracy of contractor-billed direct labor rates for four A&E contracts by periodically reviewing contractor records. The related contracts were cost-plus-fixed fee, where overhead and profit are calculated based on total billed direct labor costs.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 232800000.0,
+            "context": "total potential costs impacted by direct labor charges"
+          }
+        ],
+        "recommendation": "MTA should perform verifications of contractor labor rates to ensure billed rates reflect actual rates paid and agree billed labor rates on invoices to MTA pre-approved rates.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-01"
+      },
+      {
+        "number": 2,
+        "title": "MTA Incorrectly Calculated Billing Rates Resulting in a $10 Million Overpayment to MPP Vendors for Fuel Costs",
+        "description": "An error in calculating service hour billing rates resulted in vendor overpayments for fuel costs. MTA included estimated fuel costs in the billing rates despite reimbursing actual fuel costs separately, leading to an overpayment of approximately $10 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10000000.0,
+            "context": "overpayment for fuel costs"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "retroactive adjustments addressed"
+          },
+          {
+            "amount": 8800000.0,
+            "context": "remaining overpayment to recover"
+          }
+        ],
+        "recommendation": "MTA should ensure service hour billing rates are properly calculated in the future and work with legal counsel to determine action to recover overpayments.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31"
+      },
+      {
+        "number": 3,
+        "title": "The MPP Eligibility Process Was Not Sufficiently Controlled",
+        "description": "MTA lacked adequate procedures and controls over the MPP eligibility process. Independent reviews of ID cards were not documented, and monthly reviews used physical files instead of the eligibility database for selection.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MTA should document independent verifications for ID cards and use the eligibility database as the source for selecting eligibility determinations to review.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "MTA Paid State Excise Taxes for Fuel Used in MPP Service Vehicles Although It May Be Exempt",
+        "description": "MTA continued to pay State excise taxes for fuel used in MPP service vehicles despite appearing exempt under the Transportation Article. During fiscal year 2012, MTA reimbursed vendors approximately $498,300 for these taxes.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 498300.0,
+            "context": "State excise taxes paid in fiscal year 2012"
+          }
+        ],
+        "recommendation": "MTA should obtain a formal legal opinion from the Office of Attorney General to determine if it is exempt and seek recovery of taxes paid.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "MTA Did Not Ensure Costs Associated With a $24 Million Change Order on a Commuter Rail Services Contract Were Reasonable and Certain Billed Costs Were Not Adequately Verified",
+        "description": "MTA did not prepare an independent cost analysis for a $24 million change order and accepted the contractor's price quote. Additionally, MTA paid approximately $362,400 in mobilization costs not included in the approved change order.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 24000000.0,
+            "context": "change order value"
+          },
+          {
+            "amount": 6000000.0,
+            "context": "billed costs during fiscal year 2014 not adequately verified"
+          },
+          {
+            "amount": 362400.0,
+            "context": "mobilization costs paid without approval"
+          }
+        ],
+        "recommendation": "MTA should ensure independent cost estimates are prepared for change orders, pay only supported costs, amend the change order for mobilization costs, and perform documented reviews of variable costs.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-03-16"
+      },
+      {
+        "number": 6,
+        "title": "MTA Did Not Always Comply With State Procurement Regulations for Sole Source Contracts and Contract Awards",
+        "description": "MTA did not always comply with regulations regarding sole source justifications, recording bid document receipt dates, or publishing contract awards on eMaryland Marketplace.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2400000.0,
+            "context": "sole source procurements without adequate justification"
+          },
+          {
+            "amount": 681200000.0,
+            "context": "contracts tested for bid document recording"
+          }
+        ],
+        "recommendation": "MTA should comply with State procurement regulations regarding sole source justifications, recording bids, and publishing awards.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-02-28"
+      },
+      {
+        "number": 7,
+        "title": "Proper Internal Controls Were Not Established Over the Processing of Purchasing and Disbursement Transactions",
+        "description": "MTA had not established adequate electronic approval paths over critical purchasing and disbursement transactions for 17 of its 27 departments, allowing some employees to initiate and approve transactions without independent approval.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "MTA should fully use available FMIS security controls by establishing independent electronic approval requirements for all critical transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-02-09"
+      },
+      {
+        "number": 8,
+        "title": "MTA Did Not Have Adequate Procedures to Ensure All Fare Collections Were Properly Secured and Deposited",
+        "description": "Collections were not adequately verified to bank deposit and security over collections needs improvement. MTA did not use all available reports to verify collections or periodically assess credit card data protection.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 623933.0,
+            "context": "cash and coin fares collected but not placed in a safe for transfer"
+          },
+          {
+            "amount": 47600000.0,
+            "context": "collections deposited during fiscal year 2013"
+          }
+        ],
+        "recommendation": "MTA should use available reports to verify collections, review access reports, remove improper key access, and perform periodic vulnerability scans.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06-30"
+      },
+      {
+        "number": 9,
+        "title": "MTA Did Not Accurately Maintain Detail Records and Properly Account for Its Equipment",
+        "description": "MTA did not conduct a physical inventory of sensitive equipment during the audit period. Certain equipment recorded in property records could not be located, totaling $16.8 million.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000000.0,
+            "context": "equipment inventory total as of June 30, 2013"
+          },
+          {
+            "amount": 16800000.0,
+            "context": "equipment items could not be located"
+          }
+        ],
+        "recommendation": "MTA should ensure equipment is properly accounted for and controlled, conduct sensitive inventory counts annually, investigate missing equipment, and ensure all equipment is recorded.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-04-30"
+      }
+    ],
+    "prior_findings_count": 11,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Maryland Transit Administration concurred with all recommendations and outlined corrective actions including updating procedures, recovering overpayments, obtaining legal opinions, conducting inventory counts, and implementing security controls.",
+    "total_dollar_impact": 291084633.0,
+    "extraction_notes": "Report date derived from header 'February 2015'. Audit period from page 23. Prior findings count/repeated from page 8. Dollar amounts converted to integers."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:58:23.887135",
+  "content_hash": "7c4887a73383f6be632c7adbfb8e74c9154d92d3",
+  "duplicate_of": null
+}

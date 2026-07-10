@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "agency_name": "Eastern Shore Hospital Center",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2014-07-01",
+    "audit_period_start": "2011-02-24",
+    "audit_period_end": "2014-03-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "ESHC had not established adequate controls over patient funds.",
+        "description": "ESHC patient funds were not adequately controlled. Specifically, we noted that the employee who reconciled ESHC\u2019s patient fund records with the corresponding State records on a monthly basis also processed patient fund collections. Furthermore, there was no independent supervisory review and approval of reconciliations performed.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 114000.0,
+            "context": "patient fund collections"
+          },
+          {
+            "amount": 134000.0,
+            "context": "disbursements"
+          }
+        ],
+        "recommendation": "We recommend that independent supervisory personnel review and approve the monthly patient fund reconciliations, including verification of critical amounts to supporting documentation. We advised ESHC on accomplishing the necessary separation of duties using existing personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-08-01"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Center concurs with the findings regarding monthly patient fund reconciliation and agrees with the recommendation. The CFO will approve reconciliations starting in August 2014.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'July 2014' as no specific transmittal letter day was provided."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:12:09.435256",
+  "content_hash": "4b4b22c863455d4149b5982c42578c1c0cdbd631",
+  "duplicate_of": null
+}

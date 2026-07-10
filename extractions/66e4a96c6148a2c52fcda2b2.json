@@ -1,0 +1,76 @@
+{
+  "extraction": {
+    "agency_name": "Board of Liquor License Commissioners for Baltimore City",
+    "parent_department": "Board of Liquor License Commissioners for Baltimore City",
+    "report_date": "2024-09-13",
+    "audit_period_start": "2022-05-01",
+    "audit_period_end": "2023-04-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "BLLC did not always follow its standard operating procedures for processing and controlling collections.",
+        "description": "BLLC did not adequately separate duties over license collections and deposit verification, and a documented independent review of these deposit verifications was not performed as required by its SOPs. Consequently, assurance was lacking that all collections were accounted for.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [
+          {
+            "amount": 2700000.0,
+            "context": "BLLC\u2019s fiscal year 2022 revenues totaled approximately"
+          }
+        ],
+        "recommendation": "We recommend that BLLC follow its SOPs for processing and controlling cash receipts. Specifically, BLLC should ensure deposit reconciliations are performed and voided transactions are reviewed by an employee without access to collections using original source documentation (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-07-01"
+      },
+      {
+        "number": 2,
+        "title": "BLLC did not ensure information in the inspection database was entered accurately and did not always retain inspection reports to support the information recorded.",
+        "description": "There was no documentation of reviews since December 2020. BLLC could not provide original inspection reports for 2 of the 30 inspections tested to support the accuracy of the information recorded in the database.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC comply with its established policies by a. ensuring that a documented review of inspection information recorded for accuracy and consistency is performed as required (repeat), and b. retaining inspection reports to support the information recorded in the inspection database (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-05-01; 2024-07-01"
+      },
+      {
+        "number": 3,
+        "title": "BLLC did not conduct at least one annual routine inspection of each licensee.",
+        "description": "Analysis determined that 270 establishments did not have a routine inspection recorded in the database for license year 2023. Routine inspections are more comprehensive than other inspections and would include review to ensure proper purchasing, cleanliness, and working facilities.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC ensure that all licensed establishments are subject to an annual routine inspection.",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-06-01"
+      },
+      {
+        "number": 4,
+        "title": "BLLC did not obtain annual conflict of interest questionnaires from its employees and commissioners as required by its policy.",
+        "description": "As of November 7, 2023, all 20 BLLC employees and 3 commissioners had not filed a conflict of interest questionnaire for calendar years 2020, 2021, and 2022. The Policy requires completion between April and May each year.",
+        "category": "grants_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": 8,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that BLLC ensure that each employee and commissioner annually complete the required conflict of interest questionnaire to identify and report potential conflicts in the alcohol beverage industry specific to BLLC\u2019s law (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2024-05-01"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Board of Liquor License Commissioners for Baltimore City agrees with the audit findings and notes continual improvement in results since the prior report. The agency cites obstacles from a Ransomware attack and COVID-19 pandemic but states it has restructured personnel and instituted management practices to address repeated findings through SOPs and staff realignment.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period based on license year 2023 dates. Prior finding numbers derived from Figure 1 mapping preceding audit findings to current findings."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T23:12:12.112038",
+  "content_hash": "cf88f6ff2ceea4182d4632cd620301a1f997b7a5",
+  "duplicate_of": "5a945d3acc9d72404c150a6a"
+}

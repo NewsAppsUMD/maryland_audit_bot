@@ -1,0 +1,44 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": "2018-01-01",
+    "audit_period_start": "2014-04-24",
+    "audit_period_end": "2017-06-13",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Division of Racing (DOR) did not establish adequate procedures to ensure that hours worked by its employees were properly recorded in the Statewide Personnel System (SPS) to support payroll expenditures.",
+        "description": "DOR failed to establish adequate procedures for recording employee work hours in SPS to support payroll expenditures. Headquarters staff recorded hours on behalf of track employees without the approver reviewing supporting paper timesheets.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000.0,
+            "context": "payroll expenditures"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "expenditures for employees preparing paper timesheets"
+          }
+        ],
+        "recommendation": "We recommend that DOR implement procedures requiring the employee who approves employee work hours recorded in SPS to review supporting timesheets as part of the approval process.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states the agency's response is included in an appendix.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'January 2018'. Agency response content not present in text (referenced as appendix). Prior findings section not present."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:49:54.004677",
+  "content_hash": "fbc529f711b41ed73f0ede5404855782fa782891",
+  "duplicate_of": "5a8f4d18cc9d7245606745c6"
+}

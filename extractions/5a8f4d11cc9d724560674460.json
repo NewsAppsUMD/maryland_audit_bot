@@ -1,0 +1,226 @@
+{
+  "extraction": {
+    "agency_name": "Department of Human Services",
+    "parent_department": "Department of Human Services",
+    "report_date": "2017-09-01",
+    "audit_period_start": "2012-08-13",
+    "audit_period_end": "2015-08-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Department of Human Services (DHS) did not effectively administer contract terms and task order activity to ensure the reasonableness of vendor proposed services and costs.",
+        "description": "DHS did not have formal procedures to verify the reasonableness of employee hours and related costs proposed by the vendor for task orders. Additionally, DHS issued approximately $8.4 million in task orders beyond the authorized amount for fiscal year 2015 without a contract modification, creating unfunded liabilities.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8400000.0,
+            "context": "task orders issued in excess of authorized amount"
+          },
+          {
+            "amount": 4500000.0,
+            "context": "unfunded liabilities at year-end"
+          }
+        ],
+        "recommendation": "DHS should establish procedures to ensure hours and rates are reasonable, obtain documentation of actual hours worked, ensure payments are made on a deliverable basis, monitor task orders authorized amounts, seek retroactive approval from BPW for contract modification, and report unfunded year-end liabilities to GAD.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DHS cancelled an information system modernization project after paying approximately $10.1 million, including approximately $4.8 million that was paid unnecessarily.",
+        "description": "DHS paid approximately $10.1 million towards a project that was subsequently cancelled, with no evidence of future benefits to the State. This included approximately $4 million in payments in excess of work performed due to payment method and approximately $781,000 that could have been avoided if cancellation had been timely.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10100000.0,
+            "context": "paid towards cancelled project"
+          },
+          {
+            "amount": 4800000.0,
+            "context": "paid unnecessarily"
+          }
+        ],
+        "recommendation": "DHS should enhance its planning prior to the issuance of task orders and take timely action to cancel tasks to avoid unnecessary costs.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "DHS guaranteed a minimum compensation to two of the eight legal firms awarded emergency contracts, resulting in payments of approximately $616,000 more than if the firms were paid a per-case fee.",
+        "description": "DHS guaranteed minimum compensation to two legal firms but did not maximize cases assigned to them. As a result, DHS paid these firms approximately $616,000 more than if they had been reimbursed on a per-case fee like the other six firms.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 616000.0,
+            "context": "excess payments due to guaranteed minimum"
+          }
+        ],
+        "recommendation": "DHS should eliminate guaranteed minimums from its legal services contracts in the future.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DHS did not have adequate procedures to ensure that payments to legal services firms were proper, and did not follow up on deficiencies with the services provided that were noted during annual site visits.",
+        "description": "DHS lacked procedures to verify it was legally responsible for individuals invoiced by legal firms. Additionally, DHS did not follow up on deficiencies noted during site visits where firms failed to provide requested information or documentation.",
+        "category": "grants_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 329000.0,
+            "context": "invoices where verifications were not signed and dated"
+          }
+        ],
+        "recommendation": "DHS should ensure payments are only for individuals DHS is responsible to provide services for, and follow up with legal firms when deficiencies are identified during site visits.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DHS lacked sufficient procedures and accountability over certain grants.",
+        "description": "DHS did not verify that grant funds were spent as intended for tested disbursements totaling approximately $4.4 million. Additionally, DHS had not recovered unsupported grant funds totaling $28,900 identified in a review of MEFP grantees.",
+        "category": "grants_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 28900.0,
+            "context": "unsupported grant funds identified in review"
+          },
+          {
+            "amount": 31400.0,
+            "context": "grant funds for which DHS could not provide support in other grants tested"
+          }
+        ],
+        "recommendation": "DHS should independently verify that grant funds are spent as intended and recover grant funds when grantees do not provide documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "DHS did not adequately monitor Department-wide user access to critical functions on the State\u2019s Financial Management Information System and did not establish adequate online controls over purchase orders.",
+        "description": "The FMIS Support Unit did not follow up with DHS units that did not respond to monthly confirmations of user access. Additionally, four employees could initiate and approve purchase orders without independent approvals.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DHS should follow up with units that do not respond to monthly employee access reports and use FMIS security features to establish independent online approval requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "DHS paid $300,000 to a State university for services that were not provided.",
+        "description": "DHS paid the full invoice of $300,000 to a State university in August 2015, but as of March 2017, the power system upgrades specified in the agreement had not been performed.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 300000.0,
+            "context": "paid for services not provided"
+          }
+        ],
+        "recommendation": "DHS should ensure the University provides the upgrades or recovers funds paid, and obtain documentation to ensure services are performed prior to payment in the future.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "DHS did not modify its payment rates for residential rehabilitation services, resulting in the use of State funds to cover the cost of services that are potentially eligible for federal reimbursement.",
+        "description": "DHS did not revise payment rates as recommended by a federal audit, precluding federal reimbursement under Medicaid. Costs associated with these services eligible for Medicaid reimbursement are now being funded solely by the State\u2019s General Fund.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DHS should ensure a methodology is established for per diem rates that includes only non-Medicaid services and pursue retroactive federal reimbursement.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Sensitive personally identifiable information was not properly protected by DHS.",
+        "description": "Sensitive PII for over 1.6 million individuals was stored in clear text without substantial mitigating controls. DHS had generated an inventory of its PII but had not reviewed it to identify and remove unnecessary records.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DHS should review its inventory of PII to determine if it is necessary to retain and delete unnecessary records, and properly protect remaining PII by encryption or other controls.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Monitoring controls over critical databases were not sufficient to properly protect these databases.",
+        "description": "Direct modifications to numerous tables in CARES and CSES databases were not included in a critical security report. Additionally, logging for the CHESSIE database was not initiated until September 2015 and did not include certain events generated by administrators.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DHS should include all direct modifications to CARES and CSES database tables in the critical security report used to review such modifications.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Malware protection for DHS computers and Intrusion Detection Prevention System coverage for the DHS network was not sufficient to properly protect DHS computers and network.",
+        "description": "DHS did not ensure malware protection software was installed on all computers. Additionally, numerous workstations had users with administrative rights without justification, and IDPS devices were set to detect rather than block malicious traffic.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DHS should ensure malware protection is operational on all computers, restrict administrative rights, configure IDPS devices to prevent high-risk traffic, and regularly generate detailed reports of logged events.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "DHS lacked assurance that the Electronic Benefit Transfer System service provider was properly secured against operational and security risks.",
+        "description": "The only independent review obtained subsequent to the prior audit did not address key security controls. The service provider had not obtained the contractually required SOC 2 Type 2 review as of December 13, 2016.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DHS should ensure the service provider complies with the contract and obtains all required independent reviews, including a SOC 2 Type 2 review.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "DHS did not adequately investigate payments to employees on multiple State payrolls.",
+        "description": "DHS did not review quarterly reports of employees on multiple State payrolls as directed by the Comptroller. An employee was found to have falsely recorded overlapping hours while teaching at a university, receiving between $2,000 and $2,600 in pay from DHS during fiscal year 2013.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2600.0,
+            "context": "falsely recorded pay from DHS while teaching at university"
+          }
+        ],
+        "recommendation": "DHS should use quarterly reports provided by CPB to investigate all employees on multiple payrolls and retain documentation to support these investigative efforts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 4,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DHS generally concurs with the recommendations but disagrees with findings in Findings 3, 7, and 8. DHS states that new contracts do not include guaranteed minimums (Finding 3), disputes the classification of a payment to a university as a vendor payment (Finding 7), and asserts that rates are set by an Interagency Rates Committee rather than DHS alone (Finding 8).",
+    "total_dollar_impact": 10278900.0,
+    "extraction_notes": "Report date derived from header 'September 2017'. Audit period found in Scope section. Dollar amounts converted to integers. Prior findings count and repeated status extracted from Status of Findings From Preceding Audit Report section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T02:56:37.670411",
+  "content_hash": "8db824a2bf093cc341a19dfbbb5275562b384c69",
+  "duplicate_of": null
+}

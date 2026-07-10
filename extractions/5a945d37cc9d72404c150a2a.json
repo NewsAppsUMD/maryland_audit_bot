@@ -1,0 +1,437 @@
+{
+  "extraction": {
+    "agency_name": "Prince George\u2019s County Public Schools",
+    "parent_department": "Prince George\u2019s County Public Schools",
+    "report_date": "2014-02-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Segregation of Duties Over the Enrollment, Collection, and Deposit Functions in the Before and After Care Program Were Inadequate",
+        "description": "Program coordinators had complete control over cash receipts since they enrolled students, collected tuition payments, maintained records, and reported deposit summaries. Controls were not adequate to ensure all collections for program services were received and deposited.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7500000.0,
+            "context": "program revenue for fiscal year 2012"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS ensure a proper segregation of duties is established over the enrollment, collection, and deposit functions of the Before and After School Care Program.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "PGCPS Did Not Ensure the Propriety of Certain Disbursements",
+        "description": "PGCPS did not adequately monitor utility usage or ensure amounts billed were accurate. Testing of transportation maintenance disbursements disclosed that PGCPS could not support amounts billed for 10 invoices totaling $813,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 33500000.0,
+            "context": "spent on utilities during fiscal year 2012"
+          },
+          {
+            "amount": 6000000.0,
+            "context": "transportation maintenance disbursements tested"
+          },
+          {
+            "amount": 813000.0,
+            "context": "invoices without contract documentation support"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS ensure the accuracy and propriety of all amounts invoiced including verification to supporting documentation, and segregate duties to ensure independent approval exists for the issuance of wireless phones and the payment of the related invoices.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "PGCPS Did Not Maintain Required Documentation Justifying the Use of Sole Source Procurements",
+        "description": "PGCPS did not document the rationale for sole source procurements for six consulting contracts totaling $1 million. There is no assurance that services procured were best value or could not be competitively bid.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1000000.0,
+            "context": "consulting contracts selected for testing"
+          },
+          {
+            "amount": 22000000.0,
+            "context": "value of contracts not bid during fiscal year 2011 and 2012"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS maintain adequate documentation supporting sole source procurements, including the Director of Purchasing\u2019s approval of all bid exemption letters prior to the related procurement.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Internal Controls Over Payroll and Personnel Transactions Were Not Adequate in the Central Office and at Various Departments",
+        "description": "Critical human resources transactions were not subject to documented independent supervisory review. Testing of employee separation payouts disclosed duplicate payments totaling $25,111.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 777433.0,
+            "context": "payouts for employee separation tested"
+          },
+          {
+            "amount": 25111.0,
+            "context": "overpaid employees as a result of duplicate payments"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS perform and document evidence of supervisory reviews of critical human resources and payroll transactions, recover the identified duplicate payments, separate functions of recording and approving timecards, and review current supervisory responsibilities.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "PGCPS Did Not Implement Adequate Processes to Prevent or Timely Detect Overpayments to Employees",
+        "description": "A lack of adequate processes contributed to overpayments under various circumstances including failure to notify Payroll Department of separations. Outstanding overpayments totaled $1 million as of October 2012.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 210000.0,
+            "context": "overpayments identified by PGCPS"
+          },
+          {
+            "amount": 95000.0,
+            "context": "due to failure to timely notify Payroll Department of employee separations"
+          },
+          {
+            "amount": 1000000.0,
+            "context": "outstanding overpayments to employees as of October 2012"
+          },
+          {
+            "amount": 780000.0,
+            "context": "submitted to an outside collection agency for recovery"
+          },
+          {
+            "amount": 1400000.0,
+            "context": "approved write-offs of uncollectible accounts during fiscal years 2008 to 2012"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS develop appropriate processes to prevent overpayments.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "PGCPS Did Not Have a Policy to Support the Method Used to Calculate Leave Payouts Upon Employee Separation",
+        "description": "PGCPS did not have a Board approved policy supporting leave payout calculations. Manual calculations used a higher daily pay rate than the automated system, resulting in higher payments.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 596000.0,
+            "context": "employee payouts tested"
+          },
+          {
+            "amount": 39000.0,
+            "context": "additional payout received by employees compared to automated system calculation"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS establish a formal Board approved policy specifying the appropriate daily pay rate basis for calculating leave payouts.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "PGCPS Paid for the Use of Donated Sick Leave Totaling $2.4 Million in Excess of Contributions to the Sick Leave Banks",
+        "description": "PGCPS paid for sick leave usage in excess of donations due to lack of policy reviewing and granting union employees' sick leave bank requests.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2400000.0,
+            "context": "unearned benefit provided to PGCPS union employees"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS establish a policy over sick leave bank grants regarding the permissibility for granting requests in excess of the available balance.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Internal Controls and Record Keeping for Certain Transportation Department Employees Were Not Adequate",
+        "description": "Documentation maintained by supervisors was informal or incomplete. Changes to routes increasing hours worked were not independently verified.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 21895.0,
+            "context": "overtime payments made to 10 employees tested"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "estimated increase in employee payroll from route modifications"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS ensure a standard time reporting process is implemented, supervisors review source documentation, and an independent employee verifies changes to permanent route assignments.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "PGCPS Equipment Inventory Records Were Not Comprehensive or Complete",
+        "description": "Items were not posted to detail equipment records and did not include all required information such as serial numbers. PGCPS does not always affix inventory tags.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 422000.0,
+            "context": "purchases tested"
+          },
+          {
+            "amount": 217000.0,
+            "context": "items not posted to detail equipment records"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS ensure detailed equipment records are maintained for all appropriate assets and include all applicable information.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Physical Inventories of Equipment Were Not Conducted Regularly and Policies Were Not Established for Performing Inventories",
+        "description": "PGCPS did not conduct periodic physical inventories. Property Audit Office reports identified missing items with a value of $750,000 in 2011 and $980,000 in 2010.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 750000.0,
+            "context": "value of missing items identified in fiscal year 2011"
+          },
+          {
+            "amount": 980000.0,
+            "context": "value of missing items identified in fiscal year 2010"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS amend the Property Control Manual to specify frequency for conducting physical inventories and ensure all locations are inventoried on a regular basis.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "PGCPS Did Not Ensure that Employee Access to Its Automated Financial System Was Appropriate",
+        "description": "PGCPS did not require standardized user access profiles. Testing disclosed that 38 of 46 individuals assigned critical capabilities had inadequate separation of duties.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that PGCPS ensure appropriate internal controls exist for granting and periodically reviewing assigned access capabilities on the automated financial system.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "Inadequate Controls Over Databases Resulted in Security Vulnerabilities",
+        "description": "Security controls over student management system and ERP databases were not adequate. Database logs were not configured to log direct changes or use of critical privileges.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that PGCPS log direct changes to critical tables and the use of critical database privileges for the student management system and ERP databases.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "PGCPS Did Not Have a Disaster Recovery Plan",
+        "description": "The PGCPS did not have an Information Technology Disaster Recovery Plan for recovering computer operations from disaster scenarios.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that PGCPS develop and implement a comprehensive information systems disaster recovery plan.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "The PGCPS Network Was Not Properly Secured",
+        "description": "PGCPS did not use intrusion detection and prevention coverage on its network. Thirty-two publicly accessible servers were located on the internal network.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that PGCPS adequately secure its network from potential attack by implementing IDP coverage and placing publicly accessible servers in a separate protected network zone.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "PGCPS Did Not Adequately Document Preventive Maintenance Work Performed",
+        "description": "PGCPS did not always have documentation on file to substantiate that maintenance was performed. Logs were not retained for all required tasks.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that PGCPS complete and document all preventive maintenance performed in compliance with the requirements of the comprehensive maintenance plan.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "Energy Performance Contracts Lacked Necessary Specificity to Ensure Timely Completion and Realization of Expected Savings",
+        "description": "ESCO contracts did not include schedules of project completion or penalty provisions. Guaranteed savings over the 15 year period were to total $184.8 million.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 184800000.0,
+            "context": "guaranteed savings over the 15 year savings period"
+          },
+          {
+            "amount": 25000000.0,
+            "context": "debt service payments through fiscal year 2012"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS develop an approach to ensure that projects are completed on time and determine that guaranteed saving are achieved.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "PGCPS Did Not Always Obtain Adequate Assurance That Payments Were For Proper Amounts or For Services Provided In Accordance With The Approved Energy Performance Contract",
+        "description": "PGCPS paid for services without sufficient evidence that they were received. Two invoices totaling $6.5 million were paid even though the third-party contract monitor did not approve them.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9700000.0,
+            "context": "invoices tested"
+          },
+          {
+            "amount": 6500000.0,
+            "context": "paid to the ESCOs even though the PGCPS third-party contract monitor did not approve them"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS ensure that all goods and services invoiced by the ESCOs are provided prior to payment of the related invoices.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "PGCPS Paid Higher Prices For Certain Projects Than Specified In The Energy Performance Contracts",
+        "description": "The ESCOs increased the price of certain projects contained in the original proposals. Increases totaling $230,000 were paid without formal contract modification or Board approval.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3300000.0,
+            "context": "original proposed costs for projects at three schools"
+          },
+          {
+            "amount": 230000.0,
+            "context": "increases in pricing for certain projects"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS thoroughly investigate any increases in costs for energy conservation measures and take action to recover any payments for unjustified increases.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 19,
+        "title": "PGCPS Did Not Implement Certain Practices To Promote More Efficient Use Of Its Bus Fleet",
+        "description": "PGCPS did not use its automated routing software to promote efficiency. Routing system data appeared unreliable with routes showing zero travel time or exceeding capacity.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 96000000.0,
+            "context": "transportation costs in fiscal year 2011"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS take steps to use buses more efficiently by utilizing an automated routing system and developing detailed policies.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 20,
+        "title": "PGCPS Did Not Adequately Control Access To The Automated Fuel Dispensing System",
+        "description": "PGCPS did not require employees to sign a user agreement or deactivate access upon termination. There were 72 employees with assigned access who had not used the access since it was assigned.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10200000.0,
+            "context": "fuel purchases in fiscal year 2012"
+          }
+        ],
+        "recommendation": "We recommend that PGCPS ensure access to the automated fuel dispensing system is adequately controlled.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 21,
+        "title": "PGCPS Has Not Determined If Various Cost Saving Measures Have Had The Expected Results",
+        "description": "No specific analysis provided in the text snippet regarding this finding's details.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Not explicitly stated in the provided text.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 22,
+        "title": "PGCPS Did Not Implement Risk Management Strategies To Identify, Monitor, Mitigate, Or Prevent Risk Factors",
+        "description": "No specific analysis provided in the text snippet regarding this finding's details.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Not explicitly stated in the provided text.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 23,
+        "title": "PGCPS Did Not Take Sufficient Actions To Control Health Care Costs",
+        "description": "No specific analysis provided in the text snippet regarding this finding's details.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Not explicitly stated in the provided text.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 66,
+    "prior_findings_repeated": 16,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The provided text does not contain the Agency Response Appendix content.",
+    "total_dollar_impact": 13222669.0,
+    "extraction_notes": "Audit period start/end dates were not explicitly stated in the text. Agency response details (agrees/completion date) are null as the appendix was not included in the provided text."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 2 amount 33500000.0",
+    "repeat_count_mismatch: extracted 13, asterisk markers 12"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T20:13:18.155431",
+  "content_hash": "b4025875246170af8f0602be52d7f14b25860a10",
+  "duplicate_of": null
+}

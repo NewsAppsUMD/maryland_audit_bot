@@ -1,0 +1,47 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Health",
+    "parent_department": "Maryland Department of Health",
+    "report_date": "2018-02-01",
+    "audit_period_start": "2013-10-08",
+    "audit_period_end": "2017-05-14",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Institute did not always maintain sufficient documentation to support decisions made during its student prescreening process or maintain a tracking system to ensure such decisions were made within a reasonable period.",
+        "description": "During fiscal years 2016 and 2017, the Institute received 135 referrals for admission to its residential treatment program, of which 106 were rejected. Review of 10 rejected referrals disclosed that for 6 referrals, Admissions Team members did not document their collective decision or provide specific justification. The Institute also lacked a tracking system to monitor referral dates and decision timelines, with some decisions taking 19 to 38 business days despite State regulations requiring admission decisions within 10 business days of application completion.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "a. ensure that prescreening decisions are made by the Admissions Team and are adequately documented, and b. establish a tracking system to document all aspects of the prescreening process to ensure that decisions are made within a reasonable period.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "The Institute admitted 47 children directly to its short-term Evaluation Unit without any formal application process established by policy or regulation.",
+        "description": "During the audit period, the Institute admitted 47 children directly to its 8-bed short-term Evaluation Unit without a formal application process. While State regulations permit separate units for juvenile court referrals, they do not address use of this unit for other agencies. Of 100 admissions during the audit period, 53 were referred by juvenile court and 47 by other agencies.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "establish a formal process to admit children referred by State agencies to the short-term Evaluation Unit preferably through regulation.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Institute disagreed with the recommendation to require Admissions Team involvement during prescreening, stating it exceeds legal requirements and is handled by the Clinical Director. However, they concurred with establishing a tracking system for prescreening decisions and agreed to revise internal policies to establish a formal application process for the short-term Evaluation Unit admissions.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'February 2018'. Audit period explicitly stated in Scope section. No dollar amounts tied specifically to findings as questioned costs found."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:59:50.679337",
+  "content_hash": "981fdce67c4a26a43a583a047869d6664205c734",
+  "duplicate_of": null
+}

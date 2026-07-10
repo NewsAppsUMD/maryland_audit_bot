@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Historic St. Mary\u2019s City Commission",
+    "parent_department": null,
+    "report_date": "2016-04-01",
+    "audit_period_start": "2012-07-01",
+    "audit_period_end": "2015-08-23",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Verifications that all collections were forwarded for deposit were performed by an employee who also processed the related collections.",
+        "description": "Independent verifications were not performed to help ensure that all collections were deposited. The Commission\u2019s collections totaled approximately $474,000 during fiscal year 2015 and were forwarded to St. Mary\u2019s College of Maryland for deposit. The individual who performed the verifications also processed the related collections and did not document them.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 474000.0,
+            "context": "Commission\u2019s collections"
+          }
+        ],
+        "recommendation": "We recommend that the Commission ensure that an employee, independent of the collection function, verifies that all recorded collections were submitted for deposit with St. Mary\u2019s College of Maryland and that such verifications are documented (repeat).",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Commission\u2019s response to our finding and recommendation is included as an appendix to this report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'April 2016' as no separate transmittal letter text was provided. Agency parent department not explicitly stated in text."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:21:43.550664",
+  "content_hash": "d875dc2d97def42e8f7a41c77f472943f9abc297",
+  "duplicate_of": null
+}

@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Department of Public Safety and Correctional Services",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2010-01-06",
+    "audit_period_start": "2006-06-01",
+    "audit_period_end": "2009-06-30",
+    "findings": [],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a formal response as the audit contained no findings or recommendations requiring one.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered 'Finding N' sections were present in this report. The report explicitly states that no findings warranted mention and no recommendations were made."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:17:59.301896",
+  "content_hash": "92aba6e2da32a36d2e99b751f1901f92ac54e1d7",
+  "duplicate_of": null
+}

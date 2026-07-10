@@ -1,0 +1,64 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Public Defender",
+    "parent_department": "Office of the Public Defender",
+    "report_date": "2018-01-11",
+    "audit_period_start": "2013-07-01",
+    "audit_period_end": "2016-09-22",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Office of the Public Defender (OPD) did not ensure that applications for legal representation were always adequately supported and maintained on file, and that eligibility determinations were subject to supervisory review as required.",
+        "description": "OPD lacked assurance that all clients were eligible because applications were not adequately supported/maintained and eligibility determinations were not reviewed by supervisors as required. Testing of 24 cases showed application decisions not supported for 9 cases, and 8 of 11 cases requiring supervisory review were not reviewed.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure applicant reported income supporting eligibility determinations is verified to reports from DLLR in accordance with State regulations, applications are maintained on file; eligibility determinations are reviewed and approved by supervisory personnel as required and documented; automated case management system used as source for identifying eligibility determinations requiring supervisory review.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "OPD did not ensure that administrative fees were assessed to all applicable clients.",
+        "description": "State regulations require applicants to pay administrative fees ($50 adults, $25 juveniles), but OPD failed to assess them properly. Testing of cases where fees weren't assessed found 8 cases totaling $400 where fees should have been charged; reviews were not documented.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 400.0,
+            "context": "unassessed administrative fees"
+          }
+        ],
+        "recommendation": "Assess administrative fees to applicants as required by State regulations; document periodic review of cases not assessed a fee.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "OPD has not implemented a formal process to determine whether existing attorney caseload standards should be revised. Average attorney caseloads for Circuit and District Courts continue to exceed current standards.",
+        "description": "OPD has no formal process to revise caseload standards, which haven't been reviewed since 2005. Average caseloads for Circuit and District Courts continue to exceed existing standards despite decreases between 2012-2015.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Implement a process to periodically determine if existing attorney caseload standards need to be modified, or new standards created, based on changes to OPD\u2019s operations and other relevant factors.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "Management agrees with recommendations regarding eligibility verification, supervisory review documentation, and caseload standard processes. Regarding administrative fees, management notes that state regulations effective December 7, 2017 no longer require assessment of these fees.",
+    "total_dollar_impact": 400.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T09:27:54.331960",
+  "content_hash": "22c54155d86a481299b465fca806fc1fe614f8b6",
+  "duplicate_of": "5a8f4d17cc9d724560674586"
+}

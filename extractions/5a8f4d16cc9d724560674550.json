@@ -1,0 +1,293 @@
+{
+  "extraction": {
+    "agency_name": "Department of State Police",
+    "parent_department": "Department of State Police",
+    "report_date": "2015-11-01",
+    "audit_period_start": "2011-12-20",
+    "audit_period_end": "2014-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "DSP did not properly account for financial activity pertaining to certain special funds for which the related year-end balances appeared questionable.",
+        "description": "DSP did not establish separate accounts in the State's accounting records to readily identify individual fund balances for four of five external services activities. Consequently, several different activities were combined and reflected in two special fund balances that appeared questionable at June 30, 2014. DSP had not investigated these balances or determined if any deficit was recoverable.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 44200000.0,
+            "context": "deficit balance of special fund"
+          },
+          {
+            "amount": 34400000.0,
+            "context": "positive balance of special fund"
+          },
+          {
+            "amount": 6100000.0,
+            "context": "speed camera monitoring program funds received in fiscal year 2014"
+          },
+          {
+            "amount": 2500000.0,
+            "context": "indirect costs properly reflected but expenditures not matched"
+          },
+          {
+            "amount": 885000.0,
+            "context": "indirect costs improperly charged to special fund"
+          }
+        ],
+        "recommendation": "DSP should establish separate accounts to individually track financial transactions for reimbursable services; ensure all applicable financial transactions are properly recorded; investigate the aforementioned fund balances and make necessary adjustments; and determine whether certain activity should be budgeted as reimbursable funds.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 2,
+        "title": "DSP lacked adequate controls over special fund collections and related accounts receivable.",
+        "description": "Checks were not recorded and endorsed immediately upon receipt, and employees verifying deposits were not independent. DSP did not verify the completeness of billings for overtime hours worked or adequately control adjustments to accounts receivable records totaling $12 million during fiscal year 2014.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10500000.0,
+            "context": "collections received and deposited into special funds"
+          },
+          {
+            "amount": 7000000.0,
+            "context": "billings for overtime hours worked by troopers"
+          },
+          {
+            "amount": 12000000.0,
+            "context": "adjustments to accounts receivable records"
+          }
+        ],
+        "recommendation": "DSP should ensure collections are recorded and endorsed immediately upon receipt; require an independent employee to verify deposits; ensure all reimbursable overtime was properly billed; and ensure adjustments to accounts receivable records are subject to independent review.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-07-01"
+      },
+      {
+        "number": 3,
+        "title": "Certain year-end closing transactions were not always adequately supported and reporting discrepancies were noted.",
+        "description": "DSP did not maintain adequate documentation to support that revenues totaling $28.2 million recorded during fiscal year 2014 budgetary closeout were available to cover incurred expenditures. DSP also retained special fund balances of $22.9 million at year-end without valid legal justification for the majority of these funds.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 28200000.0,
+            "context": "revenues recorded during fiscal year 2014 budgetary closeout"
+          },
+          {
+            "amount": 13400000.0,
+            "context": "federal and reimbursable fund revenue transactions tested"
+          },
+          {
+            "amount": 14800000.0,
+            "context": "revenue for CVED and ASED expenditures recorded at year-end"
+          },
+          {
+            "amount": 22900000.0,
+            "context": "special fund balances retained at year-end"
+          },
+          {
+            "amount": 7200000.0,
+            "context": "funds with valid legal justification for retention"
+          },
+          {
+            "amount": 15700000.0,
+            "context": "funds without substantiated legal justification for retention"
+          }
+        ],
+        "recommendation": "DSP should ensure all revenue transactions recorded to cover expenditures are accurate and adequately supported; work with the Department of Budget and Management to resolve deficit balances; ensure special fund balances are accurately reported; and revert improperly retained funds.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-06-30"
+      },
+      {
+        "number": 4,
+        "title": "DSP did not include or could not support the approximate quantities of services needed in its solicitations for certain contracts tested.",
+        "description": "Approximate quantities were not provided or supported for four of five contracts tested totaling $9 million. This failure impedes DSP's ability to determine if it received favorable bids and established reasonable contract values, as State procurement regulations require such information for indefinite quantity contracts.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9000000.0,
+            "context": "contracts tested where quantities not provided or supported"
+          },
+          {
+            "amount": 6600000.0,
+            "context": "transmission repair and DNA testing contracts"
+          },
+          {
+            "amount": 2400000.0,
+            "context": "latent print services and psychological testing contracts"
+          }
+        ],
+        "recommendation": "DSP should ensure procurement solicitations contain approximate quantities of specific items or services needed and document the basis for these quantities.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Procedural and documentation deficiencies were noted regarding the evaluation of vendor bids for certain service contracts.",
+        "description": "Deficiencies included incomplete technical evaluations for two contracts totaling $5.4 million, unreasonable financial proposal evaluation methodologies for two contracts totaling $6.6 million, and awarding a contract to a vendor that did not meet specifications. Additionally, none of the five awards were published on eMaryland Marketplace as required.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5400000.0,
+            "context": "technical evaluations not completed for psychological and DNA testing contracts"
+          },
+          {
+            "amount": 6600000.0,
+            "context": "transmission repair and DNA testing contracts with unreasonable evaluation basis"
+          },
+          {
+            "amount": 1300.0,
+            "context": "unit price for one vehicle type on transmission repair contract"
+          },
+          {
+            "amount": 115.0,
+            "context": "difference in unit price between winning and losing bidder"
+          },
+          {
+            "amount": 400000.0,
+            "context": "award amount for psychological testing contract"
+          },
+          {
+            "amount": 201000.0,
+            "context": "winning vendor's bid total based on DSP estimate"
+          }
+        ],
+        "recommendation": "DSP should ensure evaluations are completed and documented; use methodologies that ensure best value; award contracts only to vendors meeting requirements; maintain documentation supporting award amounts; and publish contract awards on eMM.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-11-10"
+      },
+      {
+        "number": 6,
+        "title": "DSP's procedures for processing HQL and handgun registration applications lacked certain controls.",
+        "description": "DSP did not require dealers to submit copies of applicant HQLs as required by law or verify exemptions adequately. DSP also lacked procedures to identify dealers who failed to submit finalized applications within seven days, and numerous individuals had unnecessary access capabilities on the ISAB&L system.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DSP should require dealers to submit HQL copies and explore options for exemption assurance; establish procedures to ensure timely receipt of finalized applications; restrict user access capabilities on ISAB&L; and produce system output reports of status changes.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Quality control procedures conducted to ensure the propriety of the HQL and handgun registration process and related records were not comprehensive.",
+        "description": "DSP did not adequately ensure accuracy of handgun registration data recorded in ISAB&L and MAFSS, with approximately 4,000 discrepancies identified. Additionally, applications requiring secondary evaluation due to possible criminal activity were excluded from independent quality control reviews until March 2015.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DSP should enhance procedures to ensure accurate data recording and investigate questionable data; ensure errors noted during dealer audits are corrected; and include all HQL and handgun applications in the independent quality control review process.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Controls over handgun registration application fees and related accounts receivable records were not sufficient.",
+        "description": "Handgun application fees were not adequately controlled upon receipt, checks were not endorsed immediately, and DSP did not periodically reconcile fee collections with accounts receivable records. Three employees had access to both cash receipts and accounts receivable records on ISAB&L.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 976000.0,
+            "context": "firearm application fee collections during fiscal year 2014"
+          },
+          {
+            "amount": 573000.0,
+            "context": "HQL application fee collections during fiscal year 2014"
+          }
+        ],
+        "recommendation": "DSP should ensure collections are recorded and endorsed immediately; implement independent reconciliation of collections with accounts receivable records; and ensure employees with cash receipt access do not have access to related accounts receivable records.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-01-31"
+      },
+      {
+        "number": 9,
+        "title": "Firewalls, the intrusion prevention system, and three virtual private networks were not configured to ensure DSP's network was properly secured.",
+        "description": "Firewall rules allowed unnecessary connections and included outdated rules. Traffic between untrusted third parties and devices in DSP's neutral network zone was not subject to IPS coverage, and traffic from third-party business partners via VPNs was not adequately restricted.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DSP should configure firewalls and VPNs to adequately secure its network and properly position and configure IPS appliances to review all traffic between untrusted third parties and devices in the neutral network zone.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-01"
+      },
+      {
+        "number": 10,
+        "title": "Procedures for maintaining and securing DSP's numerous workstations were not sufficient.",
+        "description": "DSP was running an outdated operating system on 1,034 active workstations. Certain workstations had users with administrative rights inappropriately defined, and tested workstations had not been updated with the latest releases for software products known to have significant security vulnerabilities.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DSP should update all workstations with outdated operating system software; limit local administrative rights on user workstations to only personnel that require such rights; and keep workstations up-to-date for critical security-related updates.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "DSP lacked assurance that adequate security and operational controls existed over its RMS.",
+        "description": "DSP had not performed independent security reviews at the primary service provider or subcontractor for the Records Management System (RMS) nor obtained reports of independent standards-based security reviews. The contract did not require comprehensive, independent reviews including tests of controls.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "DSP should request the Department of Information Technology to amend the contract to require SOC 2 Type 2 reviews; obtain and review copies of these reports; and ensure providers implement critical recommendations.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-01"
+      },
+      {
+        "number": 12,
+        "title": "DSP did not establish adequate controls over its equipment.",
+        "description": "DSP did not complete annual physical inventories of sensitive equipment as required for 95 of 113 locations during calendar year 2014. Additionally, three equipment purchases totaling approximately $140,000 had not been recorded in the detail records as of March 2015.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 276900000.0,
+            "context": "equipment balance reported to DGS as of June 30, 2014"
+          },
+          {
+            "amount": 2500000.0,
+            "context": "equipment purchases tested between August 2013 and June 2014"
+          },
+          {
+            "amount": 140000.0,
+            "context": "equipment purchases not recorded in detail records"
+          },
+          {
+            "amount": 85000.0,
+            "context": "video streaming and management equipment purchase not recorded"
+          }
+        ],
+        "recommendation": "DSP should comply with DGS Inventory Control Manual requirements by conducting physical inventories at required intervals, reconciling results, investigating differences, and recording all equipment purchases in inventory records.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31"
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of State Police generally agrees with the audit recommendations, though it disagrees with one recommendation regarding HQL submission requirements due to legislative changes and automation. DSP cites funding constraints for some IT updates but provides completion dates ranging from July 2015 to June 2016 for most corrective actions.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date inferred as November 1, 2015 based on 'November 2015' header. Total dollar impact set to null due to overlapping fund balance descriptions between Finding 1 and Finding 3."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 2 amount 12000000.0",
+    "dollar_amount_not_in_text: finding 3 amount 14800000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:39:11.499377",
+  "content_hash": "0cbb6adc4a0a320d556128a1fb45d2094067afb5",
+  "duplicate_of": "5a8f4d16cc9d72456067454e"
+}

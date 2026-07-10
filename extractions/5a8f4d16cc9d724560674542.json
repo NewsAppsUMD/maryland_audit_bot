@@ -1,0 +1,139 @@
+{
+  "extraction": {
+    "agency_name": "Department of Budget and Management",
+    "parent_department": "Department of Budget and Management",
+    "report_date": "2023-01-20",
+    "audit_period_start": "2017-09-08",
+    "audit_period_end": "2021-10-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "OPSB did not attempt to recover approximately $1.2 million in liquidated damages and invalid claim payments identified during certain 2017 and 2018 audits.",
+        "description": "OPSB did not pursue liquidated damages from a former Prescription Drug Benefits program administrator for plan year 2017, including undisputed damages of $305,000. OPSB also had not attempted to recover approximately $302,000 due from program participants for invalid payments identified during claims eligibility audits for plan year 2018.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1200000.0,
+            "context": "liquidated damages and invalid claim payments identified during certain 2017 and 2018 audits"
+          },
+          {
+            "amount": 305000.0,
+            "context": "undisputed liquidated damages not pursued initially for Prescription Drug Benefits program administrator"
+          },
+          {
+            "amount": 302000.0,
+            "context": "invalid payments due from plan participants identified in claims eligibility audits"
+          }
+        ],
+        "recommendation": "Implement a formal policy on the collection of liquidated damages; ensure that amounts due from plan participants are billed in a timely manner.",
+        "agency_agrees": true,
+        "agency_completion_date": "February 2023 / Completed"
+      },
+      {
+        "number": 2,
+        "title": "Audits of benefit program plans and claims eligibility were not completed in a timely manner.",
+        "description": "OPSB did not ensure all benefit program plan audits were conducted as required, with delays for 2019 and 2020 plan years. OPSB had also not completed claims eligibility audits for plan years 2019 and 2020 by January 2022.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2200000.0,
+            "context": "audit vendor payments between fiscal years 2018 and 2021"
+          }
+        ],
+        "recommendation": "Ensure all audits are completed within the required timeframe; complete past due audits; consider including financial penalties in future contracts; formalize written timeframes for claims eligibility audits.",
+        "agency_agrees": true,
+        "agency_completion_date": "December 2023 / June 2023 / Completed"
+      },
+      {
+        "number": 3,
+        "title": "(Policy Issue) OPSB did not have comprehensive procedures to monitor and ensure that SPMS agencies addressed all outstanding payroll discrepancies.",
+        "description": "OPSB did not monitor unresolved discrepancies with applicable agencies. A review of No Time Entered reports identified 113 employees at 26 agencies who received compensation totaling approximately $470,500 for three pay periods without timesheets.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 470500.0,
+            "context": "compensation paid to employees without timesheets for three pay periods"
+          }
+        ],
+        "recommendation": "Develop comprehensive procedures to ensure SPMS agencies resolve outstanding payroll processing discrepancies; establish corrective action for agencies that fail to resolve discrepancies timely.",
+        "agency_agrees": true,
+        "agency_completion_date": "February 2023 / April 2023"
+      },
+      {
+        "number": 4,
+        "title": "OPSB did not have comprehensive procedures to identify employees who were terminated or left State service, and were not removed from the payroll timely.",
+        "description": "Review disclosed that 68 employees within eight agencies received regular earnings totaling approximately $222,500 for time after their effective date of termination. A test of 12 employees disclosed 11 payments totaling $44,100 appearing improper.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 222500.0,
+            "context": "regular earnings paid after employees left State service"
+          },
+          {
+            "amount": 44100.0,
+            "context": "improper payments identified in test of 12 terminated employees"
+          }
+        ],
+        "recommendation": "Develop procedures to identify terminated employees not removed from payroll timely; investigate and recover improperly paid amounts; provide guidance to agencies.",
+        "agency_agrees": true,
+        "agency_completion_date": "April 2023 / June 2023"
+      },
+      {
+        "number": 5,
+        "title": "(Policy Issue) OPSB did not have a comprehensive process in place to formally monitor or periodically evaluate SPMS agency overtime.",
+        "description": "OPSB did not monitor overtime comprehensively. Analysis identified 2,537 employees receiving overtime payments totaling 50 percent or more of regular base salary in calendar year 2021, including 549 whose earnings exceeded their base salary.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 231300000.0,
+            "context": "SPMS agency overtime in calendar year 2021"
+          }
+        ],
+        "recommendation": "Develop and implement comprehensive procedures and policies for overtime usage including data analysis, documented justifications, agency-based policies, and addressing agencies with excessive overtime.",
+        "agency_agrees": true,
+        "agency_completion_date": "April 2023 / June 2023"
+      },
+      {
+        "number": 6,
+        "title": "OPSB did not ensure that employees terminated with prejudice were properly recorded in the State database and were not rehired by SPMS agencies.",
+        "description": "POC data was incomplete; 11 TWP employees on SPS were not recorded in POC. Eight TWP employees were rehired by a SPMS agency receiving $1.4 million in salary payments as of November 2021 after being added to the POC database.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000.0,
+            "context": "salary payments to rehired TWP employees as of November 2021"
+          }
+        ],
+        "recommendation": "Periodically compare SPS termination data to POC and payroll records; investigate and resolve discrepancies; ensure agencies review POC database prior to hiring.",
+        "agency_agrees": true,
+        "agency_completion_date": "January 2023 / Completed"
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DBM/OPSB agreed to all recommendations, citing staffing turnover and COVID-19 as factors for delays. They outlined plans to implement policies, complete audits, and improve monitoring procedures with estimated completion dates ranging from February 2023 to December 2023.",
+    "total_dollar_impact": 3595000.0,
+    "extraction_notes": "Report date taken from transmittal letter (January 20, 2023). Audit period explicitly stated as September 8, 2017 to October 31, 2021. Prior findings count based on preceding audit report dated May 14, 2019 containing six findings which were satisfactorily addressed."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 6, regex counted 4"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:23:26.071164",
+  "content_hash": "63b43286f073ec6010169261c7c5c0277e67d2e9",
+  "duplicate_of": "5a8f4d16cc9d724560674540"
+}

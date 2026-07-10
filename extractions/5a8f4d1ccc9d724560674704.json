@@ -1,0 +1,172 @@
+{
+  "extraction": {
+    "agency_name": "Office of the State Treasurer",
+    "parent_department": "Office of the State Treasurer",
+    "report_date": "2023-08-24",
+    "audit_period_start": "2018-03-28",
+    "audit_period_end": "2021-07-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The State Treasurer\u2019s Office (STO) did not adequately monitor the project administrator responsible for developing the new financial and insurance claims system and did not pursue damages when the project encountered severe implementation problems, delays, and cost increases.",
+        "description": "STO did not adequately monitor the vendor providing project administration services. The project is over budget and behind schedule, with costs increasing from an initial estimate of $5.2 million to an estimated total of $21.3 million.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9300000.0,
+            "context": "estimated completion cost in June 2019"
+          },
+          {
+            "amount": 21300000.0,
+            "context": "estimated total cost to complete as of June 2022"
+          },
+          {
+            "amount": 5200000.0,
+            "context": "initial estimated project cost"
+          },
+          {
+            "amount": 11500000.0,
+            "context": "project costs expended as of June 30, 2022"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "paid for project administration services"
+          },
+          {
+            "amount": 9900000.0,
+            "context": "paid for technical staff services"
+          }
+        ],
+        "recommendation": "Monitor contracted services by obtaining and reviewing required deliverables; determine feasibility of recovering amounts paid for project administration for any required deliverables not received; determine extent to which project administrator was responsible for delays/costs and pursue recovery.",
+        "agency_agrees": true,
+        "agency_completion_date": "Ongoing; 2023-06-30"
+      },
+      {
+        "number": 2,
+        "title": "STO did not sufficiently document several contract modifications to expand and extend the services of the vendor providing technical staff on the contract, which precluded STO from effectively monitoring the contract and validating the related charges.",
+        "description": "STO processed six modifications totaling $5.9 million without sufficient documentation such as labor categories or specific hours required. This prevented effective monitoring and validation of charges, including approximately $455,000 for staff not in the original proposal.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 5900000.0,
+            "context": "total contract modifications"
+          },
+          {
+            "amount": 5959910.0,
+            "context": "original contract award amount"
+          },
+          {
+            "amount": 11842006.0,
+            "context": "total contract award as of April 2022"
+          },
+          {
+            "amount": 543000.0,
+            "context": "invoices tested for services performed in June 2020, December 2020, and March 2021"
+          },
+          {
+            "amount": 455000.0,
+            "context": "charges for technical staff not included in original proposal"
+          }
+        ],
+        "recommendation": "Ensure all contract modifications include sufficient details to permit adequate monitoring; document review and approval of changes in contractor personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-06-30; 2023-08-15"
+      },
+      {
+        "number": 3,
+        "title": "STO did not determine the propriety of amounts paid to IWIF for the State\u2019s workers\u2019 compensation claims and related costs, and did not follow up on deficiencies noted in Maryland Insurance Administration audits.",
+        "description": "STO did not verify amounts reported by IWIF or implement recommendations from MIA audits. Payments to IWIF totaled $350.5 million for fiscal years 2019 through 2022. This finding is repeated from the preceding audit report (since at least 2007).",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [
+          {
+            "amount": 350500000.0,
+            "context": "payments to IWIF for fiscal years 2019 through 2022"
+          },
+          {
+            "amount": 290400000.0,
+            "context": "claims costs portion of payments"
+          },
+          {
+            "amount": 59000000.0,
+            "context": "administrative costs portion of payments"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "other adjustments portion of payments"
+          }
+        ],
+        "recommendation": "Establish a documented process to verify charges reported by IWIF; take appropriate action to address recommendations made by MIA in its audit reports.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-06-30; 2024-06-30"
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Redacted cybersecurity-related finding.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Redacted cybersecurity-related finding.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Redacted cybersecurity-related finding.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Redacted cybersecurity-related finding.",
+        "description": "Redacted cybersecurity-related finding.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "STO agrees to findings and recommendations. While some aspects require clarification, the agency does not anticipate these requiring Joint Audit and Evaluation Committee attention.",
+    "total_dollar_impact": 455000.0,
+    "extraction_notes": "Findings 4-7 are redacted cybersecurity-related findings per State law."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 3 amount 59000000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T14:15:04.452582",
+  "content_hash": "265db32d59059d1174e1c2ffbd7ab127888d30f8",
+  "duplicate_of": null
+}

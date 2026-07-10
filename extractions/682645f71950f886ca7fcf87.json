@@ -1,0 +1,305 @@
+{
+  "extraction": {
+    "agency_name": "Frederick County Public Schools",
+    "parent_department": "Maryland State Department of Education",
+    "report_date": "2015-04-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2013-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "FCPS Did Not Adequately Monitor the Work Performed to Review Student Activity Funds",
+        "description": "FCPS did not adequately verify that the CPA had performed all work under its contract for the annual review of SAF and had reported the results. FCPS did not require working papers documenting the review steps, and checklists were often missing required signatures.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should ensure a contract provision is established requiring working papers be prepared for each SAF review; these papers should be periodically reviewed by FCPS management; and results of each review formally communicated to school officials.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "FCPS Had Not Established Proper Controls Over Non-Cash Credits",
+        "description": "Non-cash credit adjustments were not properly controlled or independently reviewed. User access was not adequately restricted (13 employees had unnecessary capability), and duties were not always segregated.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 106000.0,
+            "context": "non-cash credits processed during fiscal year 2013"
+          },
+          {
+            "amount": 80000.0,
+            "context": "processed by one employee who also handled cash receipts in backup capacity"
+          }
+        ],
+        "recommendation": "FCPS should establish procedures to ensure non-cash credit adjustments are properly authorized and supported; restrict access capabilities to only users needing them; and segregate duties of accounts receivable and cash receipt functions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-07-01"
+      },
+      {
+        "number": 3,
+        "title": "Proper Controls Had Not Been Established Over Corporate Purchasing Cards",
+        "description": "FCPS lacked adequate controls over corporate purchasing cards (CPC). Functions of ordering and receiving were not segregated, and documentation of supervisory approval was missing for some cards. Periodic evaluations of card usage were not performed.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6800000.0,
+            "context": "expenditures totaled during fiscal year 2013"
+          }
+        ],
+        "recommendation": "FCPS should segregate CPC ordering, receiving, and audit functions; maintain documentation to support supervisory approval of all cards issued; and conduct periodic evaluations of card usage.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-01-01"
+      },
+      {
+        "number": 4,
+        "title": "FCPS\u2019 Procurement Policies Requiring Board Approval of Purchases of Over $25,000 Omitted Certain Types of Purchases",
+        "description": "Board approved policies delegated approval for sole and single source procurements over $25,000 to administrative individuals without requiring reporting to the Board. Sole and single source procurements totaled approximately $11.1 million during fiscal year 2013.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 11100000.0,
+            "context": "sole and single source procurements over $25,000 during fiscal year 2013"
+          },
+          {
+            "amount": 7400000.0,
+            "context": "test of five procurements disclosed deficiencies in four totaling $6.3 million"
+          }
+        ],
+        "recommendation": "FCPS should modify its policies to require that the Board be notified of delegated sole and single source procurements exceeding $25,000.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-01-01"
+      },
+      {
+        "number": 5,
+        "title": "User Capabilities For Processing Personnel and Payroll Transaction Were Not Adequately Monitored and Restricted",
+        "description": "Capabilities assigned to users for critical HR and payroll functions were not adequately monitored or restricted. FCPS had no procedure for periodic review of access capabilities. Reviews of HR transactions were not always independent.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should perform a periodic documented review of user access capabilities; conduct reviews for users with inappropriate capabilities; and perform a periodic documented independent review of personnel actions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-12-31"
+      },
+      {
+        "number": 6,
+        "title": "A High-Risk System Capability Allowing Changes to Historical Records Was Not Adequately Controlled",
+        "description": "Controls had not been established over Correction Mode (CM) access which enables users to change or delete historical records without leaving documentation. CM actions were not independently reviewed.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should evaluate whether the use of CM is necessary and restrict access; implement a documented independent review process of all CM actions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Physical Inventories Were Not Conducted as Required By FCPS Policy",
+        "description": "Physical inventories were not conducted as required. One location with equipment totaling $4.1 million did not conduct a physical inventory count during fiscal year 2013.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4100000.0,
+            "context": "equipment at one location not inventoried during fiscal year 2013"
+          }
+        ],
+        "recommendation": "FCPS should ensure all departments comply with applicable FCPS inventory procedures.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Proper Access, Account, and Password Controls Were Not Established Over Critical Applications, Servers, and a Database",
+        "description": "FCPS provided unnecessary access to sensitive personal information files. Network level access to management consoles was not restricted. Account and password controls were not in compliance with best practices.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should limit access to files containing sensitive personal information; limit network level access to management consoles; and establish appropriate account and password controls.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06-30"
+      },
+      {
+        "number": 9,
+        "title": "Frederick County Government Had Unnecessary Network Level Access to the Entire FCPS Network",
+        "description": "FCG connected directly to a FCPS network device without traffic filters. The entire FCG network could access all internal FCPS network resources via all ports.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should make the connection from FCG to the FCPS Internet firewall and define necessary network level traffic filters.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Malware Protection on FCPS Workstations Was Not Comprehensive",
+        "description": "Anti-malware software was not properly configured to limit user capabilities. Local administrator privileges were not restricted. Workstations had not been updated with latest security patches.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should disable settings allowing users to override security controls; configure computers with current anti-malware software; limit local administrative rights; and ensure computers are kept up-to-date.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Monitoring Controls Over a Certain Database and Application Were Not Sufficient to Protect Critical Data",
+        "description": "Monitoring of the student information system database was inadequate. FCPS did not monitor additions, changes, and deletions to a critical financial application\u2019s permission lists.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should implement proper monitoring of critical database security events; monitor changes to financial application permission lists; and regularly generate reports of application security events.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06-30"
+      },
+      {
+        "number": 12,
+        "title": "Policies Were Not Consistently Adhered To and Documentation Was Not Always Retained for Certain Professional Services Procurements",
+        "description": "FCPS did not always adhere to policies for procurement of professional services. A certificate of insurance was not obtained for procurements totaling approximately $1.6 million. Adequate documentation was missing for technical evaluations on procurements totaling approximately $2.7 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6300000.0,
+            "context": "deficiencies in four procurements totaling $6.3 million"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "procurements where certificate of insurance was not obtained"
+          },
+          {
+            "amount": 2700000.0,
+            "context": "procurements where adequate documentation for technical evaluations was missing"
+          }
+        ],
+        "recommendation": "FCPS should ensure procurement policies are applied consistently; contract terms requiring insurance purchase are complied with; Board policies be amended to require retention of bid documentation; and time periods allowed for submission of proposals be consistent.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-03-01"
+      },
+      {
+        "number": 13,
+        "title": "FCPS Did Not Adequately Document Preventive Maintenance Performed",
+        "description": "Documentation was not maintained to substantiate that preventive maintenance was performed. At one school, FCPS did not have documentation to support that preventive maintenance was being completed for the period from August 2010 to July 2013.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should perform all required preventive maintenance and maintain appropriate documentation; ensure that appropriate preventive maintenance tasks are established and kept current.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "Inventory Controls Over Transportation Department Parts Were Inadequate",
+        "description": "Procedures over parts inventories were inadequate. FCPS could not provide justification for negative inventory adjustments totaling $30,834 tested. Item quantities on hand were significantly lower than recorded in several instances.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 30834.0,
+            "context": "negative inventory adjustments tested without adequate justification"
+          },
+          {
+            "amount": 1927.0,
+            "context": "value of shortages for three items where quantities on hand were less than records"
+          }
+        ],
+        "recommendation": "FCPS should establish proper segregation of duties regarding custody, record keeping, and physical inventory counts; implement adequate safeguards over transportation parts inventories.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "Independent Reviews of Cafeteria Cash Operations Were Not Performed Timely",
+        "description": "FCPS did not ensure that reviews of cash handling operations at school cafeterias were performed timely. 35 schools had not been subject to review for periods ranging from 642 to 797 days.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should ensure that all school cafeteria cash handling operations are reviewed timely (annually).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "Cash Receipts Transactions Could Be Voided by Cashiers Without Independent Review or Approval",
+        "description": "Cashiers had the ability to void transactions on the automated point-of-sale system with no independent review. Schools did not generate output reports of voided transactions for subsequent review.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FCPS should have independent supervisory personnel review and approve voids; generate periodic reports of all void transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-02-02"
+      },
+      {
+        "number": 17,
+        "title": "FCPS\u2019 Controls Over Food Service Inventory Were Not Adequate",
+        "description": "A proper segregation of duties did not exist over food service inventories at numerous locations. The same individual maintained records, conducted counts, and reported results.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3500000.0,
+            "context": "expenditures for food and supplies during fiscal year 2013"
+          }
+        ],
+        "recommendation": "FCPS should implement additional controls over its food inventory records; perform additional centralized monitoring and oversight procedures.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-03-15"
+      },
+      {
+        "number": 18,
+        "title": "FCPS Did Not Verify the Propriety of Health Claim Reimbursements Paid to Third Party Administrator",
+        "description": "FCPS paid its largest TPA for reimbursement without verification that amounts were proper. FCPS did not obtain a listing of claims paid or verify service fees earned.",
+        "category": "other",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 49600000.0,
+            "context": "health claims expenditures processed by TPA in fiscal year 2013"
+          },
+          {
+            "amount": 2600000.0,
+            "context": "TPA\u2019s administrative fees in fiscal year 2013"
+          }
+        ],
+        "recommendation": "FCPS should establish procedures to verify amounts paid for health insurance and TPA service fees; obtain documentation to support actual claim payments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 26,
+    "prior_findings_repeated": 8,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "FCPS agreed with all findings and recommendations. The agency indicated that new procedures have been established for non-cash credits, procurement cards, and user access reviews. Implementation dates were provided for several recommendations, including January 2015 for procurement policies and June 2015 for IT controls.",
+    "total_dollar_impact": 10587927.0,
+    "extraction_notes": "Total dollar impact calculated by summing quantified questioned amounts: $6.3M (procurement deficiencies), $4.1M (equipment not inventoried), $106k (non-cash credits), $80k (inventory adjustments), and $1,927 (shortages). Prior findings count based on preceding audit report dated June 4, 2008."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 7 amount 4100000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T18:59:35.264901",
+  "content_hash": "4268b52952b142896009c4d5f6d83c15e4213ad3",
+  "duplicate_of": "5a945d36cc9d72404c150a12"
+}

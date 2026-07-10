@@ -1,0 +1,103 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Health",
+    "parent_department": "Maryland Department of Health",
+    "report_date": "2018-01-01",
+    "audit_period_start": "2014-03-24",
+    "audit_period_end": "2017-05-14",
+    "findings": [
+      {
+        "number": 1,
+        "title": "RICA did not maintain an admission team to make admission determinations as required by State regulations, and certain critical documentation was not maintained.",
+        "description": "RICA admitted students without the approval of an admission team as required by State regulations and did not consistently document important dates such as the approval date. Testing showed decisions were made in accordance with criteria but relied on one employee rather than a team, and five sampled referrals lacked documented completion or decision dates to assess timeliness.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure that student residency admission determinations are made by an admissions team as required by State regulations, and ensure that all critical dates are documented and monitored.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-09-01"
+      },
+      {
+        "number": 2,
+        "title": "There was a lack of segregation of duties in collection processing and accounts receivable recordkeeping.",
+        "description": "One employee was responsible for virtually all collection processing and accounts receivable recordkeeping without independent review or formal accounting for receipt forms. This created risk that errors or discrepancies could occur undetected as the employee had complete control over collections totaling approximately $2.2 million during fiscal year 2016.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2200000.0,
+            "context": "collections totaling approximately $2.2 million during fiscal year 2016"
+          }
+        ],
+        "recommendation": "Ensure the employee responsible for accounts receivable records does not have access to collections; ensure an independent employee verifies deposits; formally account for receipt forms; and pursue electronic funds transfer.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-01-01"
+      },
+      {
+        "number": 3,
+        "title": "RICA did not use a competitive procurement process for certain services, as required.",
+        "description": "RICA repeatedly obtained educational services from one vendor totaling approximately $230,000 without justification or competitive bidding despite other vendors providing similar services. The contract included automatic renewals with no maximum dollar amount and lacked required Board of Public Works approval.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 230000.0,
+            "context": "educational services from one vendor totaling approximately $230,000"
+          }
+        ],
+        "recommendation": "Comply with State procurement regulations and ensure procurements are properly solicited and documented; retroactively submit the educational services contract to the BPW for approval.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-01-01"
+      },
+      {
+        "number": 4,
+        "title": "RICA did not have a process to ensure that all vendor amounts billed agreed to the related contractual terms and conditions.",
+        "description": "Invoices were approved without verification against contract terms or supporting documentation. This included paying an unspecified 2% administrative fee totaling approximately $38,000 for one LEA and billing rates differing from the agreement for another vendor valued at $230,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 38000.0,
+            "context": "administrative fee associated with services... totaled approximately $38,000 in fiscal year 2016"
+          }
+        ],
+        "recommendation": "Establish a process to ensure employees approving invoices have all appropriate supporting documentation necessary to determine the propriety of related billings in accordance with contract terms and conditions.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-01-01"
+      },
+      {
+        "number": 5,
+        "title": "RICA did not report unprovided for payables totaling $700,000 to the Comptroller of Maryland at the 2015 fiscal year-end, as required.",
+        "description": "RICA paid outstanding FY 2015 invoices with FY 2016 funds but failed to report unprovided for payables totaling $700,000 to GAD during the closeout process as required by State Policy. The fiscal year-end closing instructions require a schedule when accounts payable were not recorded in accordance with policy.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 700000.0,
+            "context": "unprovided for payables totaling $700,000"
+          }
+        ],
+        "recommendation": "In the future, RICA report fiscal year-end unprovided for payables to GAD, as required.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-01-01"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "RICA concurred with all recommendations, noting effective dates of September 2017 for admission team changes and immediate implementation for other findings regarding segregation of duties, procurement compliance, invoice approval processes, and reporting of unprovided for payables.",
+    "total_dollar_impact": 968000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T10:55:04.796205",
+  "content_hash": "952f68dc2dedf24520051a584d724abf240129fd",
+  "duplicate_of": null
+}

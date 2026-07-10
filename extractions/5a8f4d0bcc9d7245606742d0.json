@@ -1,0 +1,157 @@
+{
+  "extraction": {
+    "agency_name": "Department of Human Resources",
+    "parent_department": "Department of Human Resources",
+    "report_date": "2015-06-01",
+    "audit_period_start": "2010-10-21",
+    "audit_period_end": "2014-05-04",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Required follow-up action was not always taken for employers with wage withholding orders that failed to remit wage withholding payments.",
+        "description": "Local child support offices did not take timely action for employers with wage withholding orders that failed to remit payments within 90 days as required by CSEA's procedures. Testing disclosed caseworkers did not follow up in a timely manner for selected cases where the system prompted contact, resulting in unpaid child support totaling approximately $226,000 for these 5 cases.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 226000.0,
+            "context": "unpaid child support for 5 cases"
+          },
+          {
+            "amount": 734000.0,
+            "context": "total unpaid child support according to CSES as of March 31, 2014"
+          },
+          {
+            "amount": 48500000.0,
+            "context": "aggregate unpaid child support balances over $500 identified in match"
+          }
+        ],
+        "recommendation": "We recommend that CSEA ensure that the local child support offices comply with its policies by taking timely follow-up action (such as, contacting the employers) when identified employers fail to remit wage withholding payments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Certain obligors were improperly excluded from the driver\u2019s license suspension process at a local child support office.",
+        "description": "Certain obligors were improperly excluded from the automated driver\u2019s license suspension process based on case coding in CSES when they entered payment plans, contrary to policy which allows removal only if court order prohibits future suspension. Testing found 7 cases where obligors were delinquent but not referred for suspension due to improper coding.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 143000.0,
+            "context": "balances for 7 cases where obligors did not make payments in compliance"
+          },
+          {
+            "amount": 10500000.0,
+            "context": "unpaid child support totaling approximately $10.5 million for 682 obligors with payment plans"
+          }
+        ],
+        "recommendation": "We recommend that CSEA ensure that the local office follows CSEA policy and that cases are coded properly, including the aforementioned cases, so that obligors who become delinquent on their payment plans are subject to the driver\u2019s license suspension process.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Certain obligors were improperly excluded from the occupational license suspension enforcement process.",
+        "description": "Certain obligors were improperly excluded from the automated occupational license suspension enforcement process based on case coding in CSES, such as cases coded to exclude due to inactive licenses or previously suspended/reinstated licenses where coding was not corrected after a monthly batch process was discontinued.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6800000.0,
+            "context": "unpaid child support for 281 obligors excluded from automated referral process"
+          },
+          {
+            "amount": 4400000.0,
+            "context": "unpaid child support for 206 obligors whose coding had not been corrected"
+          }
+        ],
+        "recommendation": "We recommend that CSEA a. reinstate the aforementioned obligors in the license suspension enforcement process, and b. ensure that the cases for obligors who have been identified as having an occupational license are properly coded and are only removed from the occupational license suspension enforcement process for reasons allowed by its policy.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-07-31"
+      },
+      {
+        "number": 4,
+        "title": "CSEA did not determine whether State licensing authorities took action to suspend obligors\u2019 occupational licenses when requested.",
+        "description": "CSEA did not routinely follow up with licensing authorities when notification or confirmation of requested license suspension was not received. Testing disclosed that for some cases, licenses had not been suspended by the authorities, and two authorities advised they do not suspend related licenses when requested.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31500000.0,
+            "context": "child support owed by 1,894 obligors referred to licensing authorities"
+          },
+          {
+            "amount": 2600000.0,
+            "context": "child support owed by 165 obligors referred to two authorities who do not suspend licenses"
+          }
+        ],
+        "recommendation": "We recommend that CSEA follow up with licensing authorities that do not notify CSEA of requested suspensions of obligors\u2019 occupational licenses (including cab driver\u2019s licenses and vehicle sales licenses), as required.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "CSEA needs to enhance its monitoring of the vendor responsible for providing all child support services at a local child support office.",
+        "description": "CSEA\u2019s quarterly review process did not sufficiently address vendor actions regarding delinquent obligors, and controls over adjustments to account balances and changes to payee information were inadequate. Testing found cases where follow-up was delayed or not taken, and adjustments lacked supporting documentation.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 144000.0,
+            "context": "delinquent balances for 15 selected cases"
+          },
+          {
+            "amount": 62000.0,
+            "context": "delinquent balances for 9 cases where follow-up not initiated timely"
+          },
+          {
+            "amount": 7800000.0,
+            "context": "adjustments totaling $7.8 million without supporting documentation"
+          }
+        ],
+        "recommendation": "We recommend that CSEA strengthen its monitoring efforts over the vendor. Specifically, CSEA should enhance its quarterly review process at this local office and consider using the accounting firm to ensure documented follow-up action is initiated within 30 days for cases delinquent more than 90 days, obligor account balance adjustments are properly supported, and payee information changes are verified.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "CSEA did not adequately monitor the new hire registry contract and did not verify the propriety of related invoices.",
+        "description": "CSEA did not verify that the vendor transmitted complete and timely new hire data, nor did it verify the number of records billed against those received. The contract required verification which was not performed during site visits or payment processing.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 925000.0,
+            "context": "total contract value for maintenance of new hire registry"
+          },
+          {
+            "amount": 189000.0,
+            "context": "payments made under the contract as of July 2014"
+          }
+        ],
+        "recommendation": "We recommend that CSEA establish procedures to verify a. the completeness and timeliness of the new hire registry information received from the vendor, and b. that the number of records billed agrees with the number of records received.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 11,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "CSEA agreed with five of the six findings and disagreed with Finding 4 regarding statutory authority to mandate suspensions by licensing authorities. For the findings they agreed with, CSEA described corrective actions implemented or in development, including enhanced automation, coding corrections, monitoring protocols, and reconciliation procedures.",
+    "total_dollar_impact": 32326000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T22:05:52.431499",
+  "content_hash": "bbde5487573505bad096ff5bcc00fdbe59fc0461",
+  "duplicate_of": "5a8f4d0bcc9d7245606742cc"
+}

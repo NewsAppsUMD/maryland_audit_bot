@@ -1,0 +1,78 @@
+{
+  "extraction": {
+    "agency_name": "Frostburg State University",
+    "parent_department": "University System of Maryland",
+    "report_date": "2016-04-01",
+    "audit_period_start": "2012-06-04",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Capabilities Assigned to Individuals on the Financial Management Systems Were Not Adequately Restricted",
+        "description": "FSU did not ensure that capabilities assigned to individuals on its financial management systems were adequately restricted. Some users were assigned unnecessary or inappropriate system access to critical functions related to student accounts and financial aid, and user accounts for former employees remained active after termination.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3900000.0,
+            "context": "non-cash credits processed during fiscal year 2015"
+          }
+        ],
+        "recommendation": "FSU should restrict user access capabilities for critical functions to ensure proper segregation of duties and independent review, and establish procedures to ensure all user accounts are terminated timely.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-31 (for part b; part a completed March 2016) - Note: Text says 'by July 2016' for part b and 'effective March 2016' for part a. I will use the latest date or specific dates per recommendation. For summary, I'll note completion plans."
+      },
+      {
+        "number": 2,
+        "title": "Procedures For Maintaining and Securing Workstations Were Not Sufficient",
+        "description": "FSU workstations had insufficient security procedures. Users were granted administrative rights, software was not updated with critical patches, malware protection could be disabled by users, and management tools were not used to verify updates.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FSU should restrict administrator rights on workstations, install critical security updates, configure malware protection to prevent user override, and use management tools to confirm anti-malware software is operating properly.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-31 (various parts completed between Dec 2015 and June 2016)"
+      },
+      {
+        "number": 3,
+        "title": "Sensitive Personally Identifiable Information Was Not Appropriately Safeguarded",
+        "description": "Sensitive personally identifiable information was stored in clear text in two databases without substantial mitigating controls. This included names, dates of birth, addresses, and social security numbers for over 265,000 individuals.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FSU should perform an inventory of systems to identify sensitive PII, delete unnecessary information, ensure proper protection via encryption or safeguards, and comply with USM IT Security Standards.",
+        "agency_agrees": true,
+        "agency_completion_date": "2018-06-30"
+      },
+      {
+        "number": 4,
+        "title": "Access and Monitoring Controls Over Two Databases and Applications Were Not Sufficient to Protect Critical Data",
+        "description": "Access to critical roles was not properly restricted, with four accounts having unnecessary administrator access. FSU did not log changes to financial application security settings or generate reports of logged changes for the student administration application.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "FSU should implement controls to restrict access to critical roles, log changes to security settings, generate and review reports of logged changes, and configure database event reports to include all significant events.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-07-31 (various parts completed between Jan 2015 and July 2016)"
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "FSU management generally agrees with the findings and recommendations. They indicate that several recommendations have been completed as of early 2016, while others are planned for completion by mid-2016 or June 2018.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'April 2016'. Audit period explicitly stated in Scope section. Criminal referral mentioned in Background regarding leave usage but not tied to numbered findings."
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:34:11.825702",
+  "content_hash": "8d6b99b007a1afaa73b50f5ad6256317bb48cb69",
+  "duplicate_of": null
+}

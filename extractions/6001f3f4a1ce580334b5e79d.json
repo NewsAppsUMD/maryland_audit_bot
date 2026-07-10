@@ -1,0 +1,67 @@
+{
+  "extraction": {
+    "agency_name": "Department of Veterans Affairs",
+    "parent_department": "Department of Veterans Affairs",
+    "report_date": "2021-01-05",
+    "audit_period_start": "2016-03-07",
+    "audit_period_end": "2020-04-02",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Department of Veteran\u2019s Affairs (DVA) did not adequately control and account for collections and certain accounts receivable.",
+        "description": "DVA failed to verify collections against bank deposit documentation, allowed the same employee to receive and record collections, and did not reconcile State records to bank records. This affected approximately $6.4 million in collections during fiscal year 2020.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 6,
+        "dollar_amounts": [
+          {
+            "amount": 6400000.0,
+            "context": "collections totaled during fiscal year 2020"
+          },
+          {
+            "amount": 3100000.0,
+            "context": "CHVH received approximately"
+          },
+          {
+            "amount": 2600000.0,
+            "context": "cemetery we examined received"
+          }
+        ],
+        "recommendation": "Ensure initial record of collections is independently agreed to validated bank deposit documentation; separate collection and accounts receivable duties; perform monthly reconciliations.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-03-31"
+      },
+      {
+        "number": 2,
+        "title": "DVA did not invoke a contract provision that would have enabled it to reduce payments to the vendor operating CHVH when required staffing was not provided, and did not document its rationale for not taking that action.",
+        "description": "DVA failed to invoke a contract provision to reduce payments for vacant staff positions and lacked documentation for not doing so. Vacancies resulted in an estimated $277,000 in potential overpayments.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 5,
+        "dollar_amounts": [
+          {
+            "amount": 277000.0,
+            "context": "estimated DVA could have collectively reduced vendor payments"
+          }
+        ],
+        "recommendation": "Reduce vendor payments for staff vacancies unless an exception is documented; recover any amounts due for staff vacancies since inception of the current contract.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-03-31"
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DVA generally agreed to findings and recommendations, noting that new procedures were adopted for remote deposits and separation of duties would occur after transition to USDVA procedures. They acknowledged responsibility under the contract regarding staffing vacancies but cited pandemic factors affecting implementation timelines.",
+    "total_dollar_impact": 277000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 2, regex counted 3"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:58:21.114045",
+  "content_hash": "c4462ce4271927d832269ecbffbe345d960ad05b",
+  "duplicate_of": "5a8f4d1ecc9d72456067475a"
+}

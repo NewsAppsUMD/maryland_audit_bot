@@ -1,0 +1,266 @@
+{
+  "extraction": {
+    "agency_name": "St. Mary's County Public Schools",
+    "parent_department": "St. Mary's County Public Schools",
+    "report_date": "2015-09-01",
+    "audit_period_start": "2010-07-01",
+    "audit_period_end": "2013-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "SMCPS Did Not Adequately Restrict User\u2019s Capabilities on Its Automated Procurement and Accounts Payable System",
+        "description": "Five employees were assigned capabilities that allowed them to perform incompatible functions and reviews of the transactions processed by these employees were either insufficient or non-existent. Unauthorized purchases and disbursements could be processed without detection.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should strengthen its controls over the automated procurement and accounts payable system by restricting users' capabilities to eliminate incompatible duties, restricting access to individuals whose job duties require such access, establishing independent electronic approval requirements for critical transactions, and requiring both electronic and manual approvals be based upon an independent supervisory review of applicable supporting documents.",
+        "agency_agrees": true,
+        "agency_completion_date": "FY 2016"
+      },
+      {
+        "number": 2,
+        "title": "Contracts Were Not Always Awarded Through Competitive Procurements and Contract Billings Were Not Always Properly Verified",
+        "description": "Nine contracts for special education services totaling $1.2 million were not competitively bid or supported by sole-source justifications and were not approved by the Board. The propriety of vendor billings for two contracts totaling $2.8 million was not properly monitored.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10200000.0,
+            "context": "test of 20 contractors who received payments"
+          },
+          {
+            "amount": 4000000.0,
+            "context": "deficiencies in procurements"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "payments for nine contracts not competitively bid"
+          },
+          {
+            "amount": 2800000.0,
+            "context": "payments for two contracts where billings were not properly monitored"
+          }
+        ],
+        "recommendation": "SMCPS should procure contracts of over $25,000 in value through a competitive process, document the justification for any sole-source procurements, submit all contracts to the Board for approval, and verify the propriety of vendor invoices prior to payment.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "HR and Payroll System User Capabilities Were Not Adequately Monitored and Restricted and Independent Documented Reviews of Transactions Were Not Performed",
+        "description": "Procedures for granting user access were inadequate with no independent supervisory review. Certain critical HR and payroll system access capabilities were not adequately restricted, allowing some users to perform unnecessary or incompatible functions.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should ensure requests to establish user access capabilities are subject to independent supervisory review and documented approval, limit access of critical functions to those employees who require such capabilities, eliminate access to incompatible system functions, and perform a periodic documented independent review of critical personnel and payroll transactions processed.",
+        "agency_agrees": true,
+        "agency_completion_date": "FY 2016"
+      },
+      {
+        "number": 4,
+        "title": "SMCPS Equipment Policies Were Not Comprehensive and Proper Controls and Recordkeeping Were Not Established Over Sensitive Equipment Items",
+        "description": "SMCPS had not established a comprehensive equipment policy. Adequate controls were not established over sensitive equipment inventory records which listed 16,500 items totaling approximately $10.6 million.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10600000.0,
+            "context": "value of sensitive equipment inventory records"
+          },
+          {
+            "amount": 35500.0,
+            "context": "recorded value of 15 sensitive items tested"
+          },
+          {
+            "amount": 17000.0,
+            "context": "overstated value of 3 items based on procurement records"
+          }
+        ],
+        "recommendation": "SMCPS should establish and follow a comprehensive equipment policy for maintaining inventory records, tagging equipment, conducting physical inventories, reporting lost and stolen items, disposing of equipment, and separating key equipment functions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Controls Over Accounts, Passwords, Database Access and Logging, and Security Monitoring Were Not Sufficient",
+        "description": "259 active domain accounts belonged to terminated employees. 336 active (non-student) domain accounts had passwords that had not been changed in over a year.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should implement strong account and password requirements in accordance with the best practices identified in the DoIT Information Security Policy, limit the assignment of access and privileges to the student information database to only those accounts requiring such access and privileges, and log all critical security and audit events.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "The SMCPS Computer Network Was Not Adequately Secured",
+        "description": "Thirty-one publicly accessible servers were located in the internal network rather than isolating these servers in a separate protected network zone. Wireless network connections at 10 locations could be obtained without authentication.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should relocate all publicly accessible servers to a separate protected network zone, perform a documented review and assessment of its network security risks and identify how HIPS coverage should be best applied, and secure its internal network by only allowing properly authenticated users to access the internal network through its wireless connection network.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Workstations and Servers Were Not Sufficiently Protected Against Malware",
+        "description": "229 workstations and 8 servers did not have anti-malware software installed. Over 600 of the computers were running an operating system that was no longer supported by the software vendor.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should use its enterprise-wide management tool to ensure that anti-malware software is installed on all computers and that the related signatures are kept up-to-date, restrict administrative privileges on workstations to network administrators, only operate computers with vendor supported and fully patched operating systems, and ensure that all computers are kept up-to-date for all critical security related updates.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "SMCPS Did Not Periodically Perform a System-Wide Analysis of Bus Routes and Related Bus Capacities to Maximize the Efficiency of Its Bus Routes",
+        "description": "157 routes (46 percent) were operated below 75 percent of SMCPS' desired capacity, with 31 of those 157 routes operating at less than 50 percent of desired capacity.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should periodically perform a system-wide analysis of all bus routes using the routing software to determine how per route ridership can be increased and the overall number of routes decreased to improve bus transportation efficiency.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Certain SMCPS Payments to Bus Contractors Did Not Consider Market Conditions, Actual Costs, or Available Discounts",
+        "description": "SMCPS will pay out approximately $2.3 million more over the 12-year life of 63 new buses than if the prime rate was used for ROI to determine PVA payments.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2300000.0,
+            "context": "potential cost savings over estimated 12-year life of 63 buses"
+          },
+          {
+            "amount": 479000.0,
+            "context": "fuel payments to bus contractors higher than necessary for fiscal years 2010 through 2013 due to federal excise tax inclusion"
+          }
+        ],
+        "recommendation": "SMCPS should use market investment rates as a basis for establishing contractor rates for the annual PVA, develop supportable cost estimates as the basis for establishing reasonable contractor rates for operation costs and per mile maintenance costs, and exclude federal fuel excise taxes from contractor payments.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Internal Controls Over Payments to Bus Contractors Were Not Adequate",
+        "description": "Payments to bus contractors were not reviewed to ensure propriety. A summary report was not subject to review or comparison to supporting documents by an independent employee.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should ensure that an employee independent of the payment processing verifies the accuracy and propriety of contractor payments, by comparison to supporting documentation, and documents the verification process.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Cash Receipt Duties Were Not Properly Segregated as Transactions Could Be Voided By Cashiers Without Independent Review or Approval",
+        "description": "Over 63,000 void transactions were processed during fiscal year 2013. SMCPS did not generate or analyze reports of voided transactions for unusual activity.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should have independent supervisory personnel review and approve voids at least on test basis, and that the reviews be documented.",
+        "agency_agrees": true,
+        "agency_completion_date": "August 2015"
+      },
+      {
+        "number": 12,
+        "title": "SMCPS Did Not Perform Documented Independent Verifications of Validated Deposits",
+        "description": "Cash collections for fiscal year 2013 totaled approximately $2.1 million. On-line payments per bank statements totaled approximately $1,018,800 while only $961,400 was credited to students' accounts.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 22400.0,
+            "context": "collections received in March 2013 tested"
+          },
+          {
+            "amount": 2100000.0,
+            "context": "cash collections for fiscal year 2013"
+          },
+          {
+            "amount": 1018800.0,
+            "context": "on-line payments per bank statements in fiscal year 2013"
+          },
+          {
+            "amount": 961400.0,
+            "context": "credited to students' accounts per electronic system"
+          },
+          {
+            "amount": 57400.0,
+            "context": "difference between on-line payments and credited amounts"
+          }
+        ],
+        "recommendation": "SMCPS should perform documented independent verifications of cafeteria sales deposits, perform periodic reconciliations of on-line payments received as recorded on the bank statements and the amounts credited to students' accounts, and investigate discrepancies identified.",
+        "agency_agrees": true,
+        "agency_completion_date": "December 2014"
+      },
+      {
+        "number": 13,
+        "title": "SMCPS Did Not Competitively Bid Healthcare Contracts For Administrative Services and Stop-Loss Coverage and Did Not Maintain Copies of the Annual Agreements",
+        "description": "SMCPS had not competitively bid the third party healthcare administrator and stop-loss insurance contracts for seven years. SMCPS did not have copies of the annual agreements on file for most of the seven-year period.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 34400000.0,
+            "context": "healthcare expenditures during fiscal year 2014"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "administrative fees included in healthcare expenditures"
+          },
+          {
+            "amount": 1200000.0,
+            "context": "stop-loss fees included in healthcare expenditures"
+          }
+        ],
+        "recommendation": "SMCPS should periodically select healthcare services vendors through competitive procurement processes, ensure that all healthcare contracts include provisions that specify how future year fees and rates will be determined, ensure fees billed are in accordance with the contract provisions, ensure all healthcare contracts are approved by the Board, and maintain copies of healthcare contracts for at least 6 years.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "SMCPS Did Not Ensure the Propriety of Payments for Employee and Retiree Healthcare Costs",
+        "description": "SMCPS paid for claim reimbursements invoiced by the TPA without any verification that the amounts invoiced were proper. SMCPS did not audit the propriety of the claims paid on its behalf.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "SMCPS should establish procedures to verify the amounts paid for health insurance and TPA service fees by obtaining documentation to support actual claim payments, ensuring that all amounts billed are proper, and using detailed claims payment data to ensure that claims paid above the stop-loss limit are reimbursed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 29,
+    "prior_findings_repeated": 6,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "SMCPS generally agreed with the recommendations, citing implementation plans such as FY 2016 reviews for access controls and August/December 2015 implementations for food service processes. The agency disagreed regarding the reasonableness of current bus contractor rates and identified discrepancies in online payment funds were due to vendor fees rather than errors.",
+    "total_dollar_impact": 6853400.0,
+    "extraction_notes": "Audit period based on 'generally for the period from July 1, 2010 through June 30, 2013' stated in Audit Scope section. Report date derived from title page September 2015."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 12 amount 2100000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T21:07:19.375163",
+  "content_hash": "81563c34553976f255970f63d6bf8c2643dd24be",
+  "duplicate_of": null
+}

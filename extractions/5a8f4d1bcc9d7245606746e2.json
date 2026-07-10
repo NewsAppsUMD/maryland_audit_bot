@@ -1,0 +1,176 @@
+{
+  "extraction": {
+    "agency_name": "Towson University",
+    "parent_department": "University System of Maryland",
+    "report_date": "2016-11-01",
+    "audit_period_start": "2011-12-12",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Towson University did not have an adequate process to monitor and adjust Provost Scholarship awards for changes in students\u2019 residency status, resulting in overpayments of scholarships totaling $123,500 to 9 out of 21 students tested.",
+        "description": "TU did not have an adequate process to monitor Provost Scholarship awards to ensure that students were receiving the correct scholarship award amounts based on their current residency status. Our test of 21 scholarship recipients disclosed overpayments totaling $123,500 to 9 students.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 123500.0,
+            "context": "overpayments of scholarships"
+          },
+          {
+            "amount": 68000.0,
+            "context": "refunds totaling"
+          },
+          {
+            "amount": 55500.0,
+            "context": "remainder of the overpayments"
+          }
+        ],
+        "recommendation": "We recommend that TU adequately monitor Provost Scholarship awards to ensure that award amounts reflect the student\u2019s current residency status.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "TU did not adequately restrict employee access capabilities for critical functions related to recording financial aid awards in its financial management system.",
+        "description": "TU did not adequately restrict employee access capabilities for critical functions related to recording financial aid awards. Consequently, certain employees had the capability to adjust critical financial aid data and alter financial aid award amounts without independent supervisory review and approval.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that TU a. restrict user access capabilities for critical financial aid functions in a manner that ensures a proper segregation of duties, and b. maintain documentation to support independent supervisory reviews of critical transactions processed.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "TU entered into three consecutive interagency agreements with the Maryland State Department of Education that enabled the Department to fill its Chief Information Officer position in a manner that was inconsistent with State law.",
+        "description": "TU\u2019s Division of Innovation and Applied Research (DIAR) entered into three consecutive interagency agreements with the Maryland State Department of Education (MSDE) that enabled MSDE to fill its Chief Information Officer (CIO) position in a manner that was not consistent with State law. The three agreements covered the period from November 2011 through June 2015.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 771000.0,
+            "context": "payments made by MSDE to DIAR totaling"
+          }
+        ],
+        "recommendation": "We recommend that TU avoid entering into such contract arrangements in future interagency agreements (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "TU did not have adequate procedures in place to ensure that changes to student residency status were proper.",
+        "description": "TU did not establish sufficient controls over changes to the student residency status recorded in student accounts. Accurate student residency determinations are critical because of the significant differences between in-state and out-of-state student tuition rates.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that TU a. review output reports of changes made to student residency by all departments, at least on a test basis; b. ensure that such reviews are documented; and c. ensure that the employee responsible for generating output reports... does not have system access capabilities to make residency status changes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Sensitive personally identifiable information was not properly protected by TU.",
+        "description": "Sensitive personally identifiable information was not properly protected. Specifically, we noted that sensitive PII was stored in a critical database in clear text and thirty accounts assigned to 32 individuals had unnecessary read access to this information.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that TU a. ensure PII is properly protected by encryption or other substantial mitigating controls; and b. restrict access to sensitive PII to only those individuals who require such access.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Procedures for maintaining and securing TU\u2019s numerous computers against malware were not sufficient.",
+        "description": "Procedures for maintaining and securing TU\u2019s numerous computers were not sufficient. Certain workstations were configured with users having administrative rights, and TU did not ensure that malware protection software was installed and operational on all of its 6,847 active computers.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that TU a. ensure that administrative rights on workstations are restricted to only system and network administrator personnel; and b. ensure that all of its computers have the necessary anti-malware software installed and operational.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Collections received by TU\u2019s Athletics Department were not adequately accounted for and controlled since checks were not recorded and endorsed upon receipt.",
+        "description": "Collections received by TU\u2019s Athletics Department were not adequately accounted for and controlled. Checks were not recorded immediately upon receipt and checks that could not be readily identified as to their purpose were not restrictively endorsed immediately upon receipt.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 85200.0,
+            "context": "checks totaling"
+          },
+          {
+            "amount": 3000000.0,
+            "context": "collections forwarded... totaled approximately"
+          }
+        ],
+        "recommendation": "We recommend that TU a. restrictively endorse and record all checks immediately upon receipt; and b. ensure that an employee independent of the cash receipts function verifies that all recorded collections are forwarded.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "TU had not established adequate controls over the addition of contractual employees to its payroll as well as rate changes for these employees.",
+        "description": "TU had not established sufficient controls over the addition of contractual employees to its automated payroll records and rate changes. TU did not perform an adequate review of contractual employees added to its payroll records, and output reports of rate changes were incomplete.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 42800000.0,
+            "context": "expenditures totaling approximately"
+          },
+          {
+            "amount": 185500000.0,
+            "context": "TU\u2019s payroll expenditures totaled"
+          }
+        ],
+        "recommendation": "We recommend that TU a. perform an independent supervisory review... of all contractual employees added to the payroll records; and b. take appropriate action to ensure that output reports of rate changes processed for contractual employees include all rate changes.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "TU did not adequately investigate the propriety of payments to its employees who were on multiple State payrolls.",
+        "description": "TU did not ensure that quarterly reports received from the Comptroller of Maryland\u2019s Central Payroll Bureau (CPB) of TU employees appearing simultaneously on multiple State payrolls were investigated. The CPB report for the fourth quarter of fiscal year 2015 identified 120 TU employees who worked at both TU and another State agency.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2100000.0,
+            "context": "payments totaling approximately"
+          },
+          {
+            "amount": 185500000.0,
+            "context": "TU\u2019s payroll expenditures totaled"
+          }
+        ],
+        "recommendation": "We recommend that TU a. review quarterly CPB reports and investigate employees on multiple payrolls in a timely manner; b. retain documentation to support these investigative efforts; and c. as necessary, work with the CPB to obtain reports.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland agreed with all recommendations and indicated that corrective procedures had been implemented or were in progress as of the report date.",
+    "total_dollar_impact": 123500.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T13:49:30.822031",
+  "content_hash": "d910e9928a77cac9127e38e44d851f06bf36de94",
+  "duplicate_of": null
+}

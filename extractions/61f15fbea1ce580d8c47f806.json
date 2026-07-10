@@ -1,0 +1,204 @@
+{
+  "extraction": {
+    "agency_name": "Calvert County Public Schools",
+    "parent_department": "Calvert County Public Schools",
+    "report_date": "2022-01-25",
+    "audit_period_start": "2020-10-01",
+    "audit_period_end": "2021-06-02",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Calvert County Public Schools' (CCPS) procurement policies did not incorporate certain requirements of State law and recognized best practices when participating in intergovernmental cooperative purchasing agreements (ICPA). In addition, ICPA invoices were not always verified to related price lists.",
+        "description": "CCPS procurement policies lacked statutory requirements and best practices for ICPAs. Testing of seven ICPAs totaling $8.6 million disclosed no written assessment of benefits was prepared. Additionally, testing of eight payments totaling $930,000 revealed that three payments totaling $288,000 were not verified to price lists or discounts, and five invoices totaling $642,000 could not be verified.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 8600000.0,
+            "context": "contract awards tested"
+          },
+          {
+            "amount": 930000.0,
+            "context": "payments tested for verification"
+          },
+          {
+            "amount": 288000.0,
+            "context": "unverified discounts/rates"
+          },
+          {
+            "amount": 642000.0,
+            "context": "invoices not verified to ICPA"
+          }
+        ],
+        "recommendation": "Incorporate statutory requirements and best practices into procurement policies; ensure amounts invoiced by ICPA vendors agreed with related contract pricing.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-07-01"
+      },
+      {
+        "number": 2,
+        "title": "CCPS did not always obtain Board approval for purchases exceeding $25,000 as required by its policy. Additionally, CCPS' automated financial management system lacked automated controls to prevent certain purchases from bypassing requirements for competitive bidding and Board approval.",
+        "description": "Testing of 10 purchases totaling $8.9 million disclosed that 4 purchases totaling approximately $6.6 million were not approved by the Board as required. Additionally, student transportation contracts (totaling $13.2 million in FY2020) lacked Board approval despite policy requirements. The automated system allowed purchase orders exceeding $25,000 to bypass competitive bidding and Board approval controls.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 25000.0,
+            "context": "Board approval threshold"
+          },
+          {
+            "amount": 8900000.0,
+            "context": "purchases tested"
+          },
+          {
+            "amount": 6600000.0,
+            "context": "not approved by Board"
+          },
+          {
+            "amount": 13200000.0,
+            "context": "bus contractor payments FY2020"
+          },
+          {
+            "amount": 44700000.0,
+            "context": "purchase orders exceeding $25,000 in FY2020"
+          }
+        ],
+        "recommendation": "Obtain Board approval for purchases that exceed $25,000; establish system controls to ensure delegated purchase orders comply with procurement policies.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-08-17"
+      },
+      {
+        "number": 3,
+        "title": "CCPS did not ensure critical human resources and payroll transactions were independently reviewed for propriety.",
+        "description": "Critical HR and payroll transactions (new hires, earnings, rate increases) were not subject to independent review. Testing of 10 employee additions/terminations, 10 other earnings transactions totaling approximately $420,000, and 10 salary increases totaling approximately $197,000 did not disclose inappropriate transactions but noted lack of independent review.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [
+          {
+            "amount": 420000.0,
+            "context": "other earnings transactions tested"
+          },
+          {
+            "amount": 197000.0,
+            "context": "salary increases tested"
+          }
+        ],
+        "recommendation": "Perform a documented independent supervisory review of HR and payroll transactions to appropriate supporting documentation.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-08-25"
+      },
+      {
+        "number": 4,
+        "title": "CCPS did not ensure employee access to its automated financial management system applications was appropriate and adequately controlled resulting in employees with unnecessary or incompatible access.",
+        "description": "Employee access to financial systems (purchasing, accounts payable, HR, payroll) was not appropriately controlled. Testing of 11 employees disclosed 4 had ability to process disbursements without independent review. Testing of 19 other employees disclosed 4 processed payroll transactions with unnecessary access to HR functions.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 2,
+        "dollar_amounts": [],
+        "recommendation": "Periodically perform a documented review of employee access capabilities; correct any improper capabilities or control issues.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-11-15"
+      },
+      {
+        "number": 5,
+        "title": "Sensitive personally identifiable information was maintained without adequate safeguards and being identified.",
+        "description": "Sensitive PII was maintained in a system database without adequate safeguards or identification. CCPS had not performed an inventory of systems to identify all stored sensitive PII or delete unnecessary records.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Implement appropriate information security safeguards for stored sensitive PII; perform an annual inventory of all systems to identify and delete unnecessary PII.",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-07-15"
+      },
+      {
+        "number": 6,
+        "title": "CCPS did not have malware protection software installed for 46 of 126 of its servers and multiple password controls for certain applications and the internal computer network were not sufficient.",
+        "description": "Malware protection was missing on 46 of 126 servers. Password controls (complexity, age, expiration) did not comply with best practices for various account groups accessing the network or critical applications.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 8,
+        "dollar_amounts": [],
+        "recommendation": "Ensure malware protection software is installed on all servers; establish password controls that comply with State's Information Technology Security Manual.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-11-01"
+      },
+      {
+        "number": 7,
+        "title": "Certain servers were improperly located within the internal network, intrusion detection prevention system coverage did not exist for untrusted encrypted traffic, and remote access to the internal CCPS network by faculty, staff, and students used a single authentication measure rather than the more secure multi-factor authentication.",
+        "description": "Servers created security risks due to lack of isolation. Intrusion detection prevention system (IDPS) coverage did not exist for untrusted encrypted traffic. Remote VPN access for approximately 18,000 individuals used single factor authentication instead of multi-factor authentication.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": 7,
+        "dollar_amounts": [],
+        "recommendation": "Isolate servers in a separate protected network zone; review and assess network security risks for IDPS coverage; implement multi-factor authentication for remote VPN connections.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-09-02"
+      },
+      {
+        "number": 8,
+        "title": "Certain elements of the payments to bus contractors could not be supported.",
+        "description": "CCPS paid $3.3 million for per-mile maintenance costs that could not be supported. The annual administrative operations fee totaling $575,000 lacked documented estimates to support its reasonableness or increases since 2014. Standard contracts also lacked a right to audit provision.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": 9,
+        "dollar_amounts": [
+          {
+            "amount": 3300000.0,
+            "context": "per-mile maintenance costs unsupported"
+          },
+          {
+            "amount": 575000.0,
+            "context": "operations fee without documented estimates"
+          }
+        ],
+        "recommendation": "Use actual documented maintenance costs or cost studies for contractor rates; document reasonableness of annual administrative costs; include provisions to audit bus contractors in future contracts.",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-06-30"
+      },
+      {
+        "number": 9,
+        "title": "CCPS did not audit or adequately verify the propriety of health care claims, insurance premiums and administrative fees paid to the third-party administrator, and the eligibility of enrolled dependents.",
+        "description": "CCPS did not audit medical claims paid by the TPA. Administrative fees and premiums were not adequately compared against CCPS records for all plan participants (excluding retirees). Dependent eligibility audits had not been performed since 2010.",
+        "category": "other",
+        "is_repeat": true,
+        "prior_finding_number": 12,
+        "dollar_amounts": [
+          {
+            "amount": 24900000.0,
+            "context": "health care payments total"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "administrative fees"
+          },
+          {
+            "amount": 815000.0,
+            "context": "stop-loss insurance coverage"
+          }
+        ],
+        "recommendation": "Conduct audits of health care claims and obtain documentation for year-end settlement; perform documented comparisons of enrolled participants to TPA invoices; conduct unannounced periodic audits of enrolled dependents.",
+        "agency_agrees": true,
+        "agency_completion_date": "2021-12-31"
+      }
+    ],
+    "prior_findings_count": 12,
+    "prior_findings_repeated": 6,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "CCPS indicated no concerns with the factual accuracy of the findings and agreed to all recommendations. The agency provided specific corrective actions and estimated completion dates for each recommendation in its response.",
+    "total_dollar_impact": 4805000.0,
+    "extraction_notes": "Audit fieldwork period used for audit_period_start/end. Prior finding numbers mapped from Figure 3 Status of Preceding Findings table."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 9, regex counted 11",
+    "dollar_amount_not_in_text: finding 2 amount 13200000.0",
+    "dollar_amount_not_in_text: finding 2 amount 44700000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T17:56:13.003990",
+  "content_hash": "d282f27e415910ca68c1a69e5f73da9283a871b8",
+  "duplicate_of": "5a945d34cc9d72404c1509fc"
+}

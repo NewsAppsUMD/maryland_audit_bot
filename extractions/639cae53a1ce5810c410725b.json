@@ -1,0 +1,134 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2022-12-15",
+    "audit_period_start": "2017-07-17",
+    "audit_period_end": "2021-09-15",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The University of Maryland Eastern Shore (UMES) did not adequately monitor its food service vendor to ensure required facility upgrades, investments, and commissions were received.",
+        "description": "UMES did not obtain or review vendor contractor invoices or take steps to verify that the vendor made all required upgrades and operational investments. UMES also did not verify reported sales to ensure the vendor submitted the required commissions, resulting in a lack of assurance that UMES received all facility upgrades, investments, and commissions required by the contract.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4100000.0,
+            "context": "vendor was to invest approximately $4.1 million in UMES facility upgrades"
+          },
+          {
+            "amount": 913000.0,
+            "context": "$913,000 in operational investments (such as wellness education and marketing)"
+          },
+          {
+            "amount": 184000.0,
+            "context": "vendor reported food sales of approximately $1,653,000 with related commissions totaling $184,000"
+          }
+        ],
+        "recommendation": "We recommend that UMES a. verify that its food service vendor provides the capital and operational investments required by the contract terms (repeat), and b. verify reported food service sales and ensure that the proper commissions are remitted (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "UMES had not established sufficient controls over student residency determinations and subsequent changes, and certain non-cash credits recorded in student accounts.",
+        "description": "Independent reviews of residency determinations were either not adequately documented or not conducted. One student was improperly charged in-state tuition rather than out-of-state tuition for multiple semesters. Additionally, certain non-cash credit adjustments totaling approximately $2.1 million were recorded from June 1, 2021 through the end of the audit period that were not subject to independent review.",
+        "category": "accounts_receivable",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 15600.0,
+            "context": "resulting in lost tuition revenue of approximately $15,600 for the applicable academic years"
+          },
+          {
+            "amount": 2100000.0,
+            "context": "non-cash credit adjustments totaling approximately $2.1 million were recorded... that were not subject to independent review"
+          }
+        ],
+        "recommendation": "We recommend that UMES a. ensure that independent supervisory reviews of initial student residency status determinations and residency status changes recorded in the student accounts receivable system are conducted and adequately documented (repeat); b. correct the student account records of the aforementioned student to reflect the proper residency status; and c. establish and implement a written policy requiring that an independent verification of non-cash credit adjustments to source documents be performed, at least on a test basis (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2023-01-01"
+      },
+      {
+        "number": 3,
+        "title": "UMES did not adequately control and account for mail collections, and did not ensure electronic collections were properly deposited into the State\u2019s bank account.",
+        "description": "UMES did not independently verify that all mail collections were deposited. UMES also did not ensure all electronic collections were deposited in the State's bank account as of December 2021, having not reconciled its record of electronic payments processed with receipt of funds since June 2020.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 6700000.0,
+            "context": "during fiscal year 2021, collections deposited totaled approximately $6.7 million"
+          },
+          {
+            "amount": 4500000.0,
+            "context": "$4.5 million from walk-in receipts"
+          },
+          {
+            "amount": 2200000.0,
+            "context": "$2.2 million in mail collections"
+          },
+          {
+            "amount": 6500000.0,
+            "context": "additional $6.5 million in electronic collections"
+          }
+        ],
+        "recommendation": "We recommend that UMES a. ensure that the initial record of collections received through the mail is independently agreed to validated bank deposit documentation; and b. reconcile its record of electronic collections with the receipt of the funds by the STO, at least quarterly, as required (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2022-12-31"
+      },
+      {
+        "number": 4,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "null",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "null",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 9,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland generally agrees with the recommendations. For Finding 1 and 2, they outlined corrective actions including hiring staff and updating procedures. For Finding 3, they noted staffing shortages but agreed to implement controls by December 2022; however, they disputed the factual accuracy regarding separation of duties for mail collections, which OLA reaffirmed as accurate.",
+    "total_dollar_impact": 7128600.0,
+    "extraction_notes": "Findings 4-6 are redacted cybersecurity findings. Finding 3a agency completion date is null in form but text implies ongoing; specific dates used from response column."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:15:14.187094",
+  "content_hash": "322d582cb3417eb23e8d672ab57f14c78ca7973c",
+  "duplicate_of": "5a8f4d1dcc9d724560674732"
+}

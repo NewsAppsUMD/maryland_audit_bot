@@ -1,0 +1,80 @@
+{
+  "extraction": {
+    "agency_name": "Department of Budget and Management",
+    "parent_department": "Department of Budget and Management",
+    "report_date": "2015-04-01",
+    "audit_period_start": "2011-05-23",
+    "audit_period_end": "2014-07-14",
+    "findings": [
+      {
+        "number": 1,
+        "title": "CCU did not adequately pursue potential wage garnishments from debtors.",
+        "description": "CCU did not always pursue wage garnishments on viable accounts identified through quarterly computer matches despite policies considering debts over $750. Testing showed delays or lack of referral to the Legal Measures Unit without documentation for several debtor accounts. Similar conditions have been noted in six preceding audit reports since 1997.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 137600000.0,
+            "context": "balances totaling"
+          },
+          {
+            "amount": 383900000.0,
+            "context": "wages earned of"
+          },
+          {
+            "amount": 1700000.0,
+            "context": "accounts totaling"
+          },
+          {
+            "amount": 132500.0,
+            "context": "earned wages totaling"
+          },
+          {
+            "amount": 23900000.0,
+            "context": "balances totaling"
+          },
+          {
+            "amount": 102400000.0,
+            "context": "wages earned of"
+          },
+          {
+            "amount": 178300.0,
+            "context": "accounts totaling"
+          },
+          {
+            "amount": 86000.0,
+            "context": "earned wages totaling"
+          }
+        ],
+        "recommendation": "We recommend that DBM take appropriate action to pursue potential wage garnishments from debtors in a timely manner and document all collection efforts (repeat). For example, DBM should consider supplementing CCU\u2019s debt collection policies to provide guidance on prioritizing accounts for potential wage garnishments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Controls over system access and sensitive personally identifiable information were not sufficient.",
+        "description": "CCU operated the Revenue Plus Collection System with approximately 1,500 users having unnecessary direct file modification access to critical programs and data files. A critical file contained approximately one million unique social security numbers in clear text without encryption.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DBM a. restrict access to critical program and data files to only those users requiring such access (repeat); and b. encrypt all files containing sensitive personally identifiable information.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-12-31"
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DBM CCU agrees with both findings and recommendations. For Finding 1, they expanded staff to file more suits/garnishments and will document efforts and establish prioritization guidelines. For Finding 2, they removed unnecessary user access and utilize encryption tools, with a new system planned for full encryption by end of 2017.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'April 2015'. Prior finding numbers not explicitly mapped in text. Dollar amounts extracted from Finding 1 analysis section only."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T21:43:41.980956",
+  "content_hash": "dfb49c34cd641c16516d4ea4d761b7cc4fd80e0f",
+  "duplicate_of": null
+}

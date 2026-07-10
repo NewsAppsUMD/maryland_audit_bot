@@ -1,0 +1,69 @@
+{
+  "extraction": {
+    "agency_name": "Laboratories Administration",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2016-03-01",
+    "audit_period_start": "2011-10-24",
+    "audit_period_end": "2015-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Controls were not established to ensure the propriety of laboratory services billings, and numerous individuals had unnecessary access to the accounts receivable system.",
+        "description": "Adequate controls were not established for billing propriety or account activity support. The verification process was not independent nor comprehensive, and user access to the STARLIMS system was not periodically reviewed, resulting in 14 users having unnecessary unrestricted capabilities as of June 2015.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 7500000.0,
+            "context": "laboratory fees billed during fiscal year 2015"
+          },
+          {
+            "amount": 1100000.0,
+            "context": "outstanding accounts receivable as of April 30, 2015"
+          }
+        ],
+        "recommendation": "a. establish procedures that require an independent, supervisory review and approval of all critical changes made to laboratory services activity, which includes a review of edits to bills and adjustments to accounts receivable records; b. require an independent, supervisory review and approval of the annual recording of approved laboratory services fees; c. periodically review system access and restrict such access to employees who need it for their job duties; d. immediately remove the unnecessary access granted to the aforementioned 14 individuals.",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-10-01"
+      },
+      {
+        "number": 2,
+        "title": "Controls over issuance of controlled dangerous substance permits and related collections were inadequate.",
+        "description": "Adequate controls were not established for CDS permit issuance and collections. Collections were not immediately recorded or deposited timely (checks delayed up to 38 days), checks containing sensitive information were stored insecurely rather than destroyed within 30 days, and permit issuances lacked independent supervisory review allowing potential misappropriation of fee collections.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2400000.0,
+            "context": "registration fees collected during fiscal year 2015"
+          },
+          {
+            "amount": 1800.0,
+            "context": "check payments for 15 applications recorded late"
+          },
+          {
+            "amount": 2600000.0,
+            "context": "checks on hand totaling approximately $2.6 million that had been deposited earlier"
+          }
+        ],
+        "recommendation": "a. record checks immediately upon receipt and deposit collections timely; b. safeguard checks that have been remotely deposited, in accordance with the State Treasurer's Policy on the Use of Remote Deposit Services by Maryland State Agencies; c. establish procedures to ensure that issued CDS permits, including fee-exempt permits, are reviewed for propriety by an independent supervisor (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2016-03-01"
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Administration concurs with most recommendations and has implemented or plans to implement procedural changes regarding independent reviews and system access controls. They agree to remove unnecessary user access but disagree on removing specific IT staff and vendors required for critical functions.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'March 2016'. Audit period found in Scope section. Finding 2 marked as repeat in recommendation text and Status of Findings section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:34:35.609020",
+  "content_hash": "bdddccc7e534f3153732f38910aae60aef0e5867",
+  "duplicate_of": null
+}

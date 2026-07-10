@@ -1,0 +1,334 @@
+{
+  "extraction": {
+    "agency_name": "Queen Anne\u2019s County Public Schools",
+    "parent_department": null,
+    "report_date": "2024-11-22",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Certain requirements of State law and recognized best practices were not incorporated into Queen Anne\u2019s County Public Schools (QACPS) policies and were not consistently used when participating in an intergovernmental cooperative purchasing agreement.",
+        "description": "State law requires a written assessment that using ICPAs provides cost benefits or efficiencies, but QACPS policies did not include this requirement. Critical best practices such as analyzing costs of competitive solicitations and researching available ICPAs were also not included in policies.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [
+          {
+            "amount": 2400000.0,
+            "context": "ICPA procurement method awards during fiscal year 2023"
+          },
+          {
+            "amount": 2800000.0,
+            "context": "Seven ICPAs tested awarded during fiscal years 2020 through 2023"
+          }
+        ],
+        "recommendation": "We recommend that QACPS incorporate the aforementioned statutory requirements and other identified and acknowledged best practices into its procurement policies and ensure that the performance of the requirements and best practices are documented when evaluating and participating in ICPAs.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "QACPS did not always prepare and approve purchase orders prior to obtaining goods or services and did not have system edits to prevent payments from exceeding contract maximums.",
+        "description": "Payments to 200 vendors totaling approximately $100 million during the period from July 2019 to May 2023 did not have an established purchase order. Additionally, 47 purchase orders had invoice payments totaling $600,000 that exceeded the approved purchase order amount.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 100000000.0,
+            "context": "Payments to vendors without established purchase orders"
+          },
+          {
+            "amount": 600000.0,
+            "context": "Invoice payments exceeding approved purchase order amount"
+          }
+        ],
+        "recommendation": "We recommend that QACPS ensure purchase orders are prepared and approved prior to obtaining the related goods or services; consider revising the procurement policy to require purchase orders for all contracts consistent with its practice; and establish controls to prevent invoice payments from exceeding the related purchase order.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "QACPS did not properly report vendor payments in aggregate of $25,000 or more to the Department of Budget and Management (DBM), as required to enhance transparency of the procurement process.",
+        "description": "For fiscal year 2022, QACPS reported only $10.1 million of the $43.2 million in vendor payments that were required to be reported to DBM, a difference of $33.1 million.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 10100000.0,
+            "context": "Vendor payments reported to DBM for fiscal year 2022"
+          },
+          {
+            "amount": 43200000.0,
+            "context": "Vendor payments required to be reported to DBM for fiscal year 2022"
+          }
+        ],
+        "recommendation": "We recommend that QACPS establish procedures to ensure all vendor payments in aggregate of $25,000 or greater are reported to DBM, as required; and retroactively report the vendor payments that were not reported to DBM for fiscal year 2022.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "QACPS could not document that the Queen Anne\u2019s County Board of Education (the Board) reviewed and approved salaries for three executive-level employees as required by State law.",
+        "description": "QACPS could not document that the Board reviewed and approved salaries for three of the eight executive-level employees tested. Their collective salaries totaled $446,000 during fiscal year 2022.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": 6,
+        "dollar_amounts": [
+          {
+            "amount": 446000.0,
+            "context": "Collective salaries for three executive-level employees during fiscal year 2022"
+          },
+          {
+            "amount": 11100.0,
+            "context": "Payroll payments tested to two of the three employees"
+          }
+        ],
+        "recommendation": "We recommend that QACPS obtain Board approval for executive-level salaries, as required.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "QACPS did not have a documented independent review and approval of other earnings payments which totaled $595,000 during fiscal year 2022.",
+        "description": "There was no evidence of independent supervisory review for other earnings payments (including final leave payouts, extra-duty pay, etc.) totaling $595,000 during fiscal year 2022. A sample of 15 payments totaling approximately $163,000 also lacked documentation.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": 5,
+        "dollar_amounts": [
+          {
+            "amount": 595000.0,
+            "context": "Other earnings payments during fiscal year 2022"
+          },
+          {
+            "amount": 163000.0,
+            "context": "Sample of other earnings payments processed from July 2021 to January 2023"
+          }
+        ],
+        "recommendation": "We recommend that QACPS perform a documented independent review and approval of other earnings payroll transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "QACPS did not always perform a required screening before hiring certain applicants for positions involving direct contact with minors.",
+        "description": "During fiscal year 2022, QACPS hired 136 individuals assigned to schools or student programs that would have contact with minors. Testing of 15 individuals disclosed that QACPS had not performed the required screening for 11 employees.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that QACPS perform and document the required screening for positions involving direct contact with minors, including those noted above, in compliance with State law.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "QACPS\u2019 equipment record keeping policies were not comprehensive, equipment records were not complete, and equipment disposals were not properly controlled.",
+        "description": "Equipment record keeping policies lacked critical controls. Additionally, 286 laptops each with a value over $1,000 and an aggregate value of approximately $355,000 were not recorded in the centralized equipment records as required by QACPS\u2019 policy.",
+        "category": "equipment_inventory",
+        "is_repeat": true,
+        "prior_finding_number": 7,
+        "dollar_amounts": [
+          {
+            "amount": 18900000.0,
+            "context": "Undepreciated value of capital equipment inventory as of June 30, 2022"
+          },
+          {
+            "amount": 5900000.0,
+            "context": "Total recorded cost of laptops in IT database as of April 2023"
+          },
+          {
+            "amount": 355000.0,
+            "context": "Aggregate value of laptops not recorded in centralized equipment records"
+          }
+        ],
+        "recommendation": "We recommend that QACPS establish a policy defining sensitive equipment items; establish requirements for conducting physical inventory counts and approving disposals; ensure that disposals are properly supported and independently approved; and ensure inventory records are properly maintained.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 8,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of this finding have been redacted from this public report in accordance with State Government Article, Section 2-1224(i) of the Annotated Code of Maryland.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 9,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of this finding have been redacted from this public report in accordance with State Government Article, Section 2-1224(i) of the Annotated Code of Maryland.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 10,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of this finding have been redacted from this public report in accordance with State Government Article, Section 2-1224(i) of the Annotated Code of Maryland.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 11,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of this finding have been redacted from this public report in accordance with State Government Article, Section 2-1224(i) of the Annotated Code of Maryland.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 12,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of this finding have been redacted from this public report in accordance with State Government Article, Section 2-1224(i) of the Annotated Code of Maryland.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 13,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of this finding have been redacted from this public report in accordance with State Government Article, Section 2-1224(i) of the Annotated Code of Maryland.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 14,
+        "title": "QACPS awarded a sole source contract for a school bus safety camera system instead of conducting a competitive procurement.",
+        "description": "QACPS did not solicit bids or consider other similar contracts competitively procured by other school systems. QACPS has not received any of the approximately $166,000 in citation revenue received for the first 27 months of the program\u2019s operation.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 166000.0,
+            "context": "Citation revenue not received by QACPS"
+          },
+          {
+            "amount": 789000.0,
+            "context": "Outstanding balance of technology fees due from future revenues as of April 2023"
+          }
+        ],
+        "recommendation": "We recommend that QACPS adhere to statutory requirements for competitive bidding, where appropriate; and ensure the basis and reasoning for revenue sharing and technology fees are documented in future school bus safety camera contracts.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 15,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of this finding have been redacted from this public report in accordance with State Government Article, Section 2-1224(i) of the Annotated Code of Maryland.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 16,
+        "title": "Certain elements of bus contractor payments could not be supported, did not reflect market conditions, or did not consider available fuel tax credits.",
+        "description": "QACPS used an ROI rate of 8.0 percent without documentation; if a prime rate plus two percent was used, QACPS could have saved approximately $805,000 over the life of buses. Additionally, payments to contractors for fuel taxes were not excluded, which would have lowered payments by approximately $139,000 in fiscal year 2022.",
+        "category": "procurement_disbursements",
+        "is_repeat": true,
+        "prior_finding_number": 16,
+        "dollar_amounts": [
+          {
+            "amount": 805000.0,
+            "context": "Estimated savings over the life of buses if prime rate plus two percent ROI used"
+          },
+          {
+            "amount": 2600000.0,
+            "context": "Per-mile bus operation and maintenance costs paid to bus contractors in fiscal year 2022"
+          },
+          {
+            "amount": 139000.0,
+            "context": "Estimated reduction in payments if fuel excise taxes excluded in fiscal year 2022"
+          }
+        ],
+        "recommendation": "We recommend that QACPS consider using an ROI to calculate the PVA payments to bus contractors that provides a reasonable rate of return consistent with the study from 2012; develop supportable cost estimates as the basis for per-mile bus operation and maintenance rates; independently verify and retain documentation that bus contractor\u2019s mileage reported on the manifests accurately reflect actual services provided; and exclude fuel excise taxes from contractor payments.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 17,
+        "title": "QACPS did not obtain and review support for reimbursable food and labor costs to ensure amounts invoiced by the FSMC vendor were supported and complied with USDA guidelines.",
+        "description": "QACPS could not provide documentation to support amounts invoiced totaling $1.4 million reviewed from five material invoices paid during the 2021-2022 and 2022-2023 school years.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1400000.0,
+            "context": "Material FSMC vendor invoices reviewed"
+          },
+          {
+            "amount": 601000.0,
+            "context": "Reimbursable food costs in invoices reviewed"
+          },
+          {
+            "amount": 623000.0,
+            "context": "Labor costs in invoices reviewed"
+          }
+        ],
+        "recommendation": "We recommend that QACPS establish contract requirements for the FSMC vendor to provide support of reimbursable costs; and perform a documented review of labor and food charges to ensure they are supported and allowable in accordance with USDA guidelines.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 18,
+        "title": "QACPS did not adequately monitor the performance of its third-party administrator that provides health care claims processing services.",
+        "description": "QACPS did not audit or adequately monitor the performance of its third-party administrator that provides health care claims processing services. QACPS health care expenditures totaled approximately $11 million, administrative fees totaled $469,000, and stop-loss insurance coverage totaled $1.1 million.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": 19,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 19,
+    "prior_findings_repeated": 6,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "QACPS generally agrees with the recommendations in this report. However, OLA identified certain instances where statements in the response conflict with or disagree with the report findings and reaffirmed the validity of their findings.",
+    "total_dollar_impact": 2065000.0,
+    "extraction_notes": "Audit period dates not explicitly stated as 'beginning/ending' range; used null. Redacted findings (8-13, 15) have limited description due to redaction. Prior finding numbers extracted from Figure 4 mapping."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 7 amount 18900000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T20:38:04.482383",
+  "content_hash": "557281345541b72b52b7f1b85b96fb26b2ea7bae",
+  "duplicate_of": "5a945d38cc9d72404c150a2e"
+}

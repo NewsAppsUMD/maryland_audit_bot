@@ -1,0 +1,71 @@
+{
+  "extraction": {
+    "agency_name": "University of Maryland, College Park",
+    "parent_department": "University System of Maryland",
+    "report_date": "2014-12-01",
+    "audit_period_start": "2013-02-01",
+    "audit_period_end": "2014-09-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "UMCP Did Not Ensure that Firewalls Were Used to Properly Secure All Campus Network Segments",
+        "description": "UMCP did not ensure firewalls were used at WAN connections or mandate their use for departments, with only 15 of over 500 departments using DIT firewall services and tested departments lacking coverage.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMCP implement a campus-wide policy which ensures that the UMCP WAN and all departmental networks are secured against unauthorized traffic from untrusted parties including the Internet, student computer labs, and student dormitories.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Firewalls and Intrusion Prevention Systems Were Not Configured to Ensure the Network Was Properly Secured",
+        "description": "Firewalls allowed unnecessary connections and had outdated rules, logs were not properly reviewed, IPS was not configured for untrusted segments, and HIPS was missing on critical servers.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMCP a. configure its firewalls to adequately secure its network (repeat); b. regularly review the security events on the event logs for all critical network devices, investigate any unusual or questionable items, document these reviews and investigations, and retain the documentation for future reference (repeat); and c. perform a documented review and assessment of its network security risks and identify how IPS and HIPS coverage should be best applied to its network and, based on this review and assessment, implement such coverage as necessary.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Malware Protection for UMCP Computers Needs Improvement",
+        "description": "The malware protection management tool did not verify software status on all managed computers, and some workstations had inappropriately assigned administrative rights.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMCP a. use the management tool to monitor all DIT-managed computers to ensure the computers have malware protection software that is operational and up-to-date, and that the related definition files are also kept up-to-date; and b. limit local administrative rights on user workstations to only personnel that require such rights.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "UMCP Lacked Assurance that the SMART System and Its Sensitive Data Were Properly Secured",
+        "description": "IGSR had not performed security reviews of the SMART system control environment, contracts lacked requirements for independent periodic reviews, and existing SOC reports did not cover critical controls or were not obtained by management.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMCP a. either require, via contract, that the primary contractor and any subcontractors performing material services for the SMART system periodically (annually) obtain SOC 2 Type 2 reviews and reports for the provided services or, use UMCP audit resources to perform annual security and control reviews to ensure that adequate controls exist over the system; b. obtain and review copies of any reports resulting from the aforementioned security and control reviews (for example SOC reports) and determine if the related independent reviews adequately address the aforementioned security concerns over the SMART system; and c. ensure that all critical exceptions noted (in either these SOC reports or in the UMCP audit reports) were adequately addressed by the primary contractor and its subcontractors.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 4,
+    "prior_findings_repeated": 2,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland agreed with all four findings and outlined remediation plans, including expanding firewall deployment, procuring a Firewall Management System, investing in log management technology, conducting network risk assessments, extending malware monitoring tools, limiting administrative rights, and ensuring contractors provide security documentation for the SMART system.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period combines fieldwork dates from February 2013 to September 2014. Prior findings count is based on preceding audit report dated October 6, 2009."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:45:17.965893",
+  "content_hash": "9e19f559290c448cb922dbf0db076f4a0cb23fae",
+  "duplicate_of": null
+}

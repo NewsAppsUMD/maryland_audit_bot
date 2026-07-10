@@ -1,0 +1,173 @@
+{
+  "extraction": {
+    "agency_name": "University of Maryland, College Park",
+    "parent_department": "University System of Maryland",
+    "report_date": "2015-05-01",
+    "audit_period_start": "2010-07-06",
+    "audit_period_end": "2014-03-04",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Faculty Summer Research Activities Were Not Adequately Documented to Support Related Compensation Disbursements",
+        "description": "The University of Maryland, College Park did not require faculty to submit documentation to substantiate summer research work performed to support related compensation payments. A test of nine faculty members disclosed that the university could not provide documentation for seven of them who received $392,000.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 17000000.0,
+            "context": "payments made in 2014"
+          },
+          {
+            "amount": 16000000.0,
+            "context": "payments to faculty members for summer research during the summers of 2013"
+          },
+          {
+            "amount": 595000.0,
+            "context": "additional compensation payments totaling for research activity during the summer of 2013"
+          },
+          {
+            "amount": 392000.0,
+            "context": "received by seven faculty members without documentation"
+          },
+          {
+            "amount": 37000.0,
+            "context": "federal funding for one of the research activities"
+          }
+        ],
+        "recommendation": "We recommend that UMCP require appropriate documentation, such as approved proposals and reports of work performed, be submitted to substantiate faculty summer research activities and that this documentation be reviewed to help confirm the work performed before payments are made.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Disbursement Transactions Lacked Sufficient Approval Requirements",
+        "description": "UMCP had not established independent online approval requirements for disbursement transactions processed in its automated financial system. Thirty-eight employees had the capability to process disbursement transactions without independent approval.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 397000000.0,
+            "context": "disbursements processed during fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that UMCP establish independent online approval requirements for all disbursement transactions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Certain Collections Were Not Sufficiently Controlled and Accounted For",
+        "description": "UMCP did not sufficiently control and account for certain cash, check, and credit card collections totaling approximately $395 million during fiscal year 2014. Procedures used by the Bursar's Office to verify collections deposited did not include all credit card receipts.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 395000000.0,
+            "context": "cash, check, and credit card collections during fiscal year 2014"
+          },
+          {
+            "amount": 528599.0,
+            "context": "credit card collections received through the Bursar's Office during fiscal years 2013 and 2014"
+          },
+          {
+            "amount": 479957.0,
+            "context": "total had not been verified to deposit"
+          },
+          {
+            "amount": 8000000.0,
+            "context": "credit card collections received through the Bursar's Office during fiscal year 2014"
+          },
+          {
+            "amount": 382000000.0,
+            "context": "cash and checks received by the Office during fiscal year 2014"
+          },
+          {
+            "amount": 5000000.0,
+            "context": "collections by UMCP's Dining Services during fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that UMCP a. ensure that an employee independent of the cash receipts functions, using the initial record of receipt, verifies that all collections, including credit card receipts, are subsequently deposited; b. ensure that employees with access to cash receipts do not have the ability to void transactions; and c. restrictively endorse all collections immediately upon receipt.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Certain Financial Aid Transactions Were Not Subject to Independent Review",
+        "description": "Financial aid awards and adjustments that were manually posted to student accounts were not subject to a documented, independent review. A total of 10 employees had the capability to manually adjust student financial aid in the automated records.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 114000000.0,
+            "context": "non-federal grants and scholarships during fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that UMCP a. ensure that the reviews of financial aid awards and adjustments manually posted to student accounts, including the selection process and results, are fully documented; and b. ensure that supervisory personnel without the capability to manually record financial aid awards and adjustments perform the reviews.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "Non-cash Credit Adjustments Were Not Sufficiently Controlled",
+        "description": "Non-cash credit adjustments posted manually to UMCP's automated student accounts receivable records by Bursar's Office and Dining Services employees were not adequately controlled. The system did not have the capability to require independent on-line supervisory approval.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 72000000.0,
+            "context": "non-cash credit adjustments posted to the accounts receivable records from January 2013 through February 2014"
+          }
+        ],
+        "recommendation": "We recommend that UMCP ensure that supervisory personnel independent of the accounts receivable process within each applicable UMCP unit verify, at least on a test basis, that manually processed non-cash credits posted by the unit were properly authorized.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "Sufficient Controls Were Not Established to Ensure the Accuracy of Meal Plan Records",
+        "description": "UMCP's Dining Services had not established adequate controls to ensure the accuracy of its student meal plan records. Specifically, UMCP had not performed a review of the propriety of the access capabilities assigned to users on the Dining Services automated system during our audit period.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 33000000.0,
+            "context": "meal plan revenue in fiscal year 2014"
+          }
+        ],
+        "recommendation": "We recommend that UMCP a. routinely review the access capabilities assigned to users on the Dining Services system for propriety and eliminate unnecessary user access as well as generic user accounts, and b. ensure that the individual responsible for performing the reconciliation of board meal plan records in the Dining Services system with the student accounts receivable records is independent of the related recordation functions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Access and Monitoring Controls Over Critical Production Data Files and Databases Were Not Sufficient",
+        "description": "Access and monitoring controls over critical production data files and databases were not sufficient to protect the related data. Mainframe security software access rules allowed numerous users unnecessary and unlogged direct modification access to critical production data files.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that UMCP a. restrict access to critical production data files to only those users requiring such access; b. log all direct modifications to critical production data files; c. amend the management report to include direct changes to all critical data files, including the aforementioned 29 files; and d. log the use of all critical privileges and direct changes to data and security tables in the financial and payroll/human resources databases.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 5,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University System of Maryland agrees or concurs with all seven findings and recommendations. They indicate that procedures have been modified, implemented, or will be reviewed to ensure compliance with internal controls regarding documentation, approvals, cash handling, financial aid reviews, credit adjustments, meal plan records, and IT security.",
+    "total_dollar_impact": 871957.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:40:37.134444",
+  "content_hash": "01965570a7f9e6b0c013d8e16253cb27859f8a71",
+  "duplicate_of": "5a8f4d1dcc9d724560674746"
+}

@@ -1,0 +1,290 @@
+{
+  "extraction": {
+    "agency_name": "University System of Maryland",
+    "parent_department": "University System of Maryland",
+    "report_date": "2014-11-01",
+    "audit_period_start": "2010-08-09",
+    "audit_period_end": "2013-12-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "UMES did not exercise effective oversight of grants awarded to the Foundation.",
+        "description": "UMES allowed management employees serving as Foundation Executive Director to exercise complete control over grant transactions. Grant agreements were vague and lacked specific deliverables or time periods. UMES provided funding in advance without documentation, and $25,000 could not be accounted for.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 640000.0,
+            "context": "total grants awarded to Foundation"
+          },
+          {
+            "amount": 25000.0,
+            "context": "unaccounted grant payment referred to Attorney General"
+          },
+          {
+            "amount": 191000.0,
+            "context": "expenditures for accounting services"
+          }
+        ],
+        "recommendation": "Ensure employees do not represent both UMES and Foundation in business transactions; ensure grant agreements include specific deliverables and time periods; obtain progress reports; review supporting documentation for all expenditures including $191,000; consult with USM Internal Audit.",
+        "agency_agrees": true,
+        "agency_completion_date": "March 31, 2015 (identification of non-compliant expenditures); June 30, 2015 (repayment plan); Within thirty days (consultation with Internal Audit). Effective immediately for new grants and Director responsibility changes."
+      },
+      {
+        "number": 2,
+        "title": "A UMES management employee was involved in business activities that were not formally disclosed to UMES as required and that raise questions regarding a potential conflict of interest. In addition, this employee did not always file financial disclosure statements with the State Ethics Commission.",
+        "description": "An employee serving as Foundation Executive Director conducted business through an LLC they owned without disclosing it to UMES or filing required financial disclosures. This arrangement raises questions regarding conflicts of interest and involves costs funded by UMES grants.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 380000.0,
+            "context": "costs incurred by LLC funded in part by UMES grants"
+          },
+          {
+            "amount": 200000.0,
+            "context": "federal grant awarded to UMES for agricultural project"
+          }
+        ],
+        "recommendation": "Refer matter to State Ethics Commission; require employee to file Research or Development Interest Form; identify positions meeting criteria for financial disclosure statements; ensure other employees comply with procedures.",
+        "agency_agrees": true,
+        "agency_completion_date": "Immediately refer matter and take action as directed by Commission."
+      },
+      {
+        "number": 3,
+        "title": "UMES disbursed federal funds totaling $385,000 to its affiliated Foundation for purposes inconsistent with applicable federal regulations.",
+        "description": "UMES used Revolving Loan Fund revenue for grant payments to the Foundation, violating federal regulations that require such income be used for future loans or administrative costs. This could result in federal fiscal sanctions.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 385000.0,
+            "context": "federal funds disbursed for purposes inconsistent with regulations"
+          }
+        ],
+        "recommendation": "Spend federal funds consistent with applicable federal regulations; seek reimbursement from the Foundation and deposit funds into RLF account.",
+        "agency_agrees": true,
+        "agency_completion_date": "Effective immediately for compliance; resolution and timetable for return of funds to be agreed upon as soon as possible."
+      },
+      {
+        "number": 4,
+        "title": "UMES and its affiliated Foundation did not comply with certain USM Board of Regents\u2019 policies.",
+        "description": "Resources provided to the Foundation were underreported in annual agreements. The Foundation engaged in activities potentially conflicting with UMES mission without approval. Required reports were not submitted timely or at all for several fiscal years, and a five-year business plan was missing.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 60000.0,
+            "context": "underreported staff resources each year"
+          },
+          {
+            "amount": 300000.0,
+            "context": "grant awarded to Foundation from Maryland Energy Administration"
+          }
+        ],
+        "recommendation": "Accurately disclose value of resources in annual agreements; obtain proper approvals for Foundation activities; obtain and submit required annual reports; prepare and submit a five-year business plan.",
+        "agency_agrees": true,
+        "agency_completion_date": "Fully comply with future reports and requirements."
+      },
+      {
+        "number": 5,
+        "title": "UMES had not established proper controls over financial aid awards, certain non-cash credits, and changes to student residency status.",
+        "description": "Financial aid awards were not independently verified for propriety. Non-cash credit adjustments related to housing and board charges were not adequately reviewed against source documents. Residency reclassifications lacked adequate documentation or approval in some cases.",
+        "category": "payroll",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 60900000.0,
+            "context": "financial aid awarded to students in fiscal year 2013"
+          },
+          {
+            "amount": 2800000.0,
+            "context": "housing and board non-cash credit adjustments processed in fiscal year 2013"
+          }
+        ],
+        "recommendation": "Ensure financial aid awards are selected and reviewed by independent personnel; ensure calculation and authorization of awards are supported by documentation; verify non-cash credit adjustments to source documents; maintain adequate documentation for residency reclassifications.",
+        "agency_agrees": true,
+        "agency_completion_date": "Effective July 1, 2014 (independent selection); July 31, 2014 (second review); Procedure modified through June 2014."
+      },
+      {
+        "number": 6,
+        "title": "UMES did not have adequate internal controls to ensure the timely referral of all delinquent student accounts to the Department of Budget and Management \u2013 Central Collection Unit (CCU).",
+        "description": "One employee was responsible for identifying and submitting delinquent accounts without independent review. Some accounts were referred late, and students with outstanding balances were allowed to register for classes.",
+        "category": "payroll",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 123000.0,
+            "context": "test of delinquent student accounts"
+          },
+          {
+            "amount": 31000.0,
+            "context": "outstanding balances not referred to CCU timely"
+          },
+          {
+            "amount": 13000.0,
+            "context": "delinquent balances allowed to register for classes"
+          },
+          {
+            "amount": 2300000.0,
+            "context": "balance of student accounts receivable as of June 30, 2013"
+          },
+          {
+            "amount": 1800000.0,
+            "context": "outstanding for over 120 days"
+          }
+        ],
+        "recommendation": "Establish procedures requiring independent reviews for CCU referrals; transfer delinquent accounts timely; not permit students with outstanding balances to register unless exempt.",
+        "agency_agrees": true,
+        "agency_completion_date": "Fall 2014 semester (query correction); Effective immediately."
+      },
+      {
+        "number": 7,
+        "title": "UMES did not ensure that capabilities assigned to individuals on the financial management systems were adequately restricted.",
+        "description": "Some users were assigned unnecessary or inappropriate system capabilities for critical functions related to cash receipts, student accounts, and financial aid. Supervisors could not identify improper access across departments due to limited security reports.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict user access capabilities for critical functions; periodically generate and review computer system security reports including all users.",
+        "agency_agrees": true,
+        "agency_completion_date": "All work has been completed."
+      },
+      {
+        "number": 8,
+        "title": "Controls over UMES accounts and passwords were not sufficient to properly protect this information.",
+        "description": "An unencrypted master file of accounts and passwords was maintained on a local workstation. Multiple employees had access to copies of these files, creating risk for unauthorized disclosure or modification of production data.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict access to account and password files; password protect these files with strong passwords that are periodically changed.",
+        "agency_agrees": true,
+        "agency_completion_date": "All work has been completed."
+      },
+      {
+        "number": 9,
+        "title": "UMES inappropriately stored sensitive personally identifiable information in clear text.",
+        "description": "Full social security numbers were stored unencrypted in a critical production database and document management server. Applications displayed full SSNs to users without masking or truncation.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Encrypt all database tables containing PII; retain documents in encrypted volume; mask or truncate social security numbers from displays.",
+        "agency_agrees": true,
+        "agency_completion_date": "July 2015."
+      },
+      {
+        "number": 10,
+        "title": "The UMES internal network was not adequately secured.",
+        "description": "Computer labs had unnecessary network access to critical resources. Guest wireless users had unnecessary access to devices. Host-based intrusion protection systems (HIPS) were missing on many addresses receiving encrypted traffic.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict access at network level to key administrative resources; perform documented review and assessment of network security risks.",
+        "agency_agrees": true,
+        "agency_completion_date": "August 2016 (HIPS deployment)."
+      },
+      {
+        "number": 11,
+        "title": "Procedures for installing and monitoring anti-malware software on network computers need improvement.",
+        "description": "Anti-malware software was not installed on approximately 100 computers due to performance issues. UMES lacked assurance that malware protection was installed on many computers as of March 2014.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Ensure anti-malware software is installed on all computers; remove decommissioned and renamed computers from source listing; monitor workstations and servers.",
+        "agency_agrees": true,
+        "agency_completion_date": "September 2015."
+      },
+      {
+        "number": 12,
+        "title": "UMES lacked accountability and control over its collections and had not reconciled certain student spending account balances.",
+        "description": "One employee could process voids and non-cash credits without independent verification. Two individuals had improper access to online banking system. Credit card collections were not reconciled with State Treasurer's Office records since May 2011, and student spending accounts were unreconciled for years.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 19400000.0,
+            "context": "collections in fiscal year 2013"
+          },
+          {
+            "amount": 6800000.0,
+            "context": "credit card receipts in fiscal year 2013"
+          },
+          {
+            "amount": 1600000.0,
+            "context": "student spending account funds in fiscal year 2013"
+          },
+          {
+            "amount": 66000.0,
+            "context": "unexplained difference in student spending account reconciliation"
+          }
+        ],
+        "recommendation": "Ensure employees with void capabilities do not have access to cash receipts; review online banking system access; ensure credit card transaction report prepared by independent employee; reconcile collections and accounts quarterly.",
+        "agency_agrees": true,
+        "agency_completion_date": "June 30, 2014 (reconciliation up to date); March 31, 2015 (student spending account reconciliation)."
+      },
+      {
+        "number": 13,
+        "title": "UMES\u2019 execution of certain lease agreements and contract extensions did not comply with USM\u2019s policies, and UMES did not adequately monitor certain vendors to ensure compliance with contract terms.",
+        "description": "Lease agreements were executed without Board approval. Fuel contracts were used without competitive bids. Sales reports for bookstore commissions were not verified against independent documentation.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 500000.0,
+            "context": "lease agreement threshold requiring Board approval"
+          },
+          {
+            "amount": 1500000.0,
+            "context": "value of student housing lease agreements in fiscal year 2014"
+          },
+          {
+            "amount": 564000.0,
+            "context": "value of second student housing lease agreement in fiscal year 2014"
+          },
+          {
+            "amount": 890000.0,
+            "context": "payments to fuel contractor in fiscal year 2013"
+          },
+          {
+            "amount": 225000.0,
+            "context": "guaranteed annual fee for bookstore contract"
+          },
+          {
+            "amount": 1960000.0,
+            "context": "reported sales by bookstore contractor in first year"
+          }
+        ],
+        "recommendation": "Obtain Board approval for leases over $500,000; comply with procurement policies for procurements over $100,000; ensure prices paid are in accordance with contracts; verify reported gross sales from bookstore contractor.",
+        "agency_agrees": true,
+        "agency_completion_date": "Fall of 2014 (Board approval); Solicitation processed and contract awarded."
+      }
+    ],
+    "prior_findings_count": 11,
+    "prior_findings_repeated": 1,
+    "criminal_referral": true,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "UMES agrees with all recommendations and provides completion dates ranging from immediate action to September 2015. The agency notes that some work has already been completed or is in progress.",
+    "total_dollar_impact": 476000.0,
+    "extraction_notes": "Report date inferred as November 1, 2014 based on 'November 2014' header. Prior finding number not stated for repeated Finding 5."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 12 amount 19400000.0",
+    "dollar_amount_not_in_text: finding 13 amount 1500000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T15:10:41.825241",
+  "content_hash": "bee6908b77d475d54bb17c76848a955586f277db",
+  "duplicate_of": null
+}

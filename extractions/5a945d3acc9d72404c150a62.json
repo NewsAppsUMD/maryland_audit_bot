@@ -1,0 +1,57 @@
+{
+  "extraction": {
+    "agency_name": "General Accounting Division",
+    "parent_department": "General Accounting Division",
+    "report_date": "2014-03-01",
+    "audit_period_start": "2009-12-25",
+    "audit_period_end": "2012-01-25",
+    "findings": [
+      {
+        "number": 1,
+        "title": "State agencies were not required to use L-3 data to assist them in monitoring their cardholders\u2019 purchasing activity.",
+        "description": "State agencies were not required to use Level-3 (L-3) data for monitoring. GAD began using it in 2011 but lacks specific knowledge of agency needs and cannot compare L-3 data to logs easily. Investigation found four cardholders made inappropriate purchases totaling approximately $255,000.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 255000.0,
+            "context": "inappropriate purchases identified by audit investigation"
+          }
+        ],
+        "recommendation": "GAD amend its Program Manual to require State user agencies to regularly obtain and use L-3 data and provide guidance to the agencies as to how the L-3 data can be used in their CPC verification procedures.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Certain aspects of CPC transactions can be evaluated on a global basis using computer matching processes or the purchasing card bank\u2019s online system to identify circumstances or trends that may indicate the inappropriate use of CPCs.",
+        "description": "Various automated analysis techniques (e.g., declined transaction review, vendor address matching) can identify misuse. One example involved a retired employee paid $25,800 via CPC to circumvent earnings limitations. Training on these techniques is recommended.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 25800.0,
+            "context": "payment to retired employee via CPC to circumvent earnings limitation"
+          }
+        ],
+        "recommendation": "GAD establish or sponsor orientation and training programs for agencies\u2019 management and CPC supervisors about other available techniques for analyzing and assessing the propriety of CPC transactions. Other transaction screening techniques... should be considered by agencies...",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": true,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "GAD agrees with both recommendations. They note L-3 data is only available from less than 40% of merchants but commit to amending the Program Manual by fiscal year end and providing training on verification procedures and screening techniques.",
+    "total_dollar_impact": 255000.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T23:06:41.363329",
+  "content_hash": "27f74156363edb8457ab7695bce551ccb8531c85",
+  "duplicate_of": null
+}

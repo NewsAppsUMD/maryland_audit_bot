@@ -1,0 +1,134 @@
+{
+  "extraction": {
+    "agency_name": "Department of General Services",
+    "parent_department": "Department of General Services",
+    "report_date": "2022-01-27",
+    "audit_period_start": "2016-05-31",
+    "audit_period_end": "2020-08-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Department of General Services (DGS) did not adequately account for funds in a non-budgeted clearing account and could not determine the proper disposition of $1.74 million of the remaining amount in the fund as the end of fiscal year 2020.",
+        "description": "DGS could not account for $1.74 million of funds in a non-budgeted clearing account at the end of fiscal year 2020 and misreported the balance to the Comptroller's General Accounting Division.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 1740000.0,
+            "context": "unaccounted funds in clearing account"
+          }
+        ],
+        "recommendation": "We recommend that DGS a. prepare periodic compositions of the funds maintained in the clearing account to ensure all funds are properly accounted for; b. determine the proper disposition of the aforementioned $1.74 million and take appropriate corrective action (such as reverting the funds); and c. accurately report the clearing account balance to the GAD, including the balance as of June 30, 2020.",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed"
+      },
+      {
+        "number": 2,
+        "title": "DGS did not timely deposit approximately $465,000 in commission rebates, which resulted in the retention of certain funds that should have been reverted to the State's General Fund, at June 30, 2020 fiscal year-end.",
+        "description": "Due to untimely deposits, DGS improperly retained approximately $465,000 in commission rebates instead of reverting these funds to the State's General Fund as required.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 465000.0,
+            "context": "commission rebates retained"
+          }
+        ],
+        "recommendation": "We recommend that DGS a. ensure all rebate checks are deposited and recorded timely; b. provide accurate information to DBM when requesting future budget amendments; and c. consult with DBM regarding the appropriate action, if any, in response to the authorization to use the $465,000 based on incorrect information submitted to DBM.",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed"
+      },
+      {
+        "number": 3,
+        "title": "DGS did not use available online controls to ensure that critical transactions were independently approved and were proper, and could not document that it verified the propriety of user access granted to its employees.",
+        "description": "DGS had not established sufficient controls to ensure that all disbursements processed on the State's Financial Management Information System (FMIS) were subject to independent approvals or documented verification of user access.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 3,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DGS a. establish online independent approval requirements for all critical transactions, or at a minimum, modify the manual review process to ensure it is consistently performed and documented for all disbursements (repeat); b. use the appropriate FMIS payment method to ensure that invoices are matched to the corresponding purchase order and receiving reports prior to payment (repeat); and c. document its monthly review of employee FMIS access and take action as appropriate.",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed / 7/1/2022"
+      },
+      {
+        "number": 4,
+        "title": "DGS did not verify that the Statewide fuel vendor performed accurate and valid fuel usage reconciliations, and conducted all environmental testing required by State regulations.",
+        "description": "DGS failed to verify the accuracy of fuel vendor reconciliations or ensure the vendor performed required environmental compliance testing on fuel tanks and equipment.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DGS a. verify and document, at least on a test basis, the accuracy of the vendor's fuel reconciliation reports by reviewing supporting documentation, including evidence of fuel deliveries and fuel inventories, and ensure that these verifications are documented and retained; and b. ensure that the contractor performs and reports the results of all required environmental compliance tests, and that any corrective actions are taken.",
+        "agency_agrees": true,
+        "agency_completion_date": "5/1/2022"
+      },
+      {
+        "number": 5,
+        "title": "DGS did not ensure that it received all administrative fees due from vendors providing goods and services to State agencies under Statewide contracts; and our review of selected contracts disclosed uncollected fees of approximately $227,300.",
+        "description": "DGS failed to collect $227,300 in administrative fees due from vendors on Statewide contracts because verification processes were insufficient or non-existent for certain agencies.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 5,
+        "dollar_amounts": [
+          {
+            "amount": 227300.0,
+            "context": "uncollected administrative fees"
+          }
+        ],
+        "recommendation": "We recommend that DGS a. ensure that all required sales reports and related contract fees, including those noted above, are received and collected (repeat); and b. verify reported sales to supporting documentation (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed / 10/1/2022"
+      },
+      {
+        "number": 6,
+        "title": "DGS did not have sufficient controls over cash receipts and non-cash credits posted to the accounts receivable records.",
+        "description": "DGS lacked adequate deposit verifications, maintained no log of destroyed checks, and allowed employees with access to record non-cash credits without independent approval or supervisory review.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": 1,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DGS a. ensure that the initial record of checks received, or a copy thereof, is given directly by its preparer to the independent employee responsible for verifying that all recorded collections were deposited (repeat); b. maintain a log of all destroyed checks and reconcile this log to the initial recordation of the deposits (repeat); c. ensure that non-cash credits to accounts receivable are subject to independent supervisory review and approval (repeat); and d. segregate the cash receipts and accounts receivable functions, as required.",
+        "agency_agrees": true,
+        "agency_completion_date": "Completed"
+      },
+      {
+        "number": 7,
+        "title": "DGS had not established adequate controls to ensure the propriety of certain overtime payments and leave adjustments.",
+        "description": "DGS lacked documentation for preauthorized overtime justification and allowed employees to adjust employee leave balances without independent review or approval.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DGS ensure that a. overtime preauthorization and justification be required, documented, and retained; and b. leave adjustments are subject to independent review and approval.",
+        "agency_agrees": true,
+        "agency_completion_date": "3/31/2022 / Completed"
+      },
+      {
+        "number": 8,
+        "title": "DGS did not adequately monitor State agencies to ensure they complied with State property and equipment requirements.",
+        "description": "DGS had not developed a formal process to select or prioritize State agencies for inventory audits, resulting in audits being performed for only 21 of the 76 State agencies during the audit period.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DGS monitor State agency compliance with State inventory standards to ensure that they comply with State property and equipment requirements. If personnel issues impact the completion of audits, consideration should be given to developing a policy to prioritize audits consistent with available resources.",
+        "agency_agrees": true,
+        "agency_completion_date": "06/30/2022"
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of General Services (DGS) noted general agreement to the audit findings and related recommendations in its response.",
+    "total_dollar_impact": 2432300.0,
+    "extraction_notes": "Report date taken from transmittal letter. Audit period from scope section. Prior finding numbers mapped from Figure 1 Status of Preceding Findings table."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T01:48:30.461683",
+  "content_hash": "32d15fe73414b42b7e7f83412f5cc24406dc1259",
+  "duplicate_of": "5a8f4d10cc9d72456067442e"
+}

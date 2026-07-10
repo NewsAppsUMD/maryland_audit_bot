@@ -1,0 +1,149 @@
+{
+  "extraction": {
+    "agency_name": "Executive Department",
+    "parent_department": "Executive Department",
+    "report_date": "2019-11-01",
+    "audit_period_start": "2015-01-21",
+    "audit_period_end": "2018-11-18",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Governor\u2019s Office of Crime Control and Prevention did not have a comprehensive methodology for awarding certain Local Law Enforcement grants, and did not verify expenditure and performance data reported by grantees.",
+        "description": "GOCCP lacked a comprehensive methodology for selecting grantees and allocating discretionary grant funds. Additionally, GOCCP did not verify expenditure and performance data reported by grantees through periodic reviews or audits of all recipients.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 31400000.0,
+            "context": "GOCCP awarded LLE grants in fiscal year 2018"
+          },
+          {
+            "amount": 17000000.0,
+            "context": "awarded in accordance with statute or budgetary appropriation"
+          },
+          {
+            "amount": 14400000.0,
+            "context": "awarded at GOCCP\u2019s discretion"
+          },
+          {
+            "amount": 6800000.0,
+            "context": "funds awarded under seven discretionary grant programs tested"
+          },
+          {
+            "amount": 4800000.0,
+            "context": "applications scored for four grant programs"
+          },
+          {
+            "amount": 381000.0,
+            "context": "funds not awarded on a competitive basis"
+          },
+          {
+            "amount": 29400000.0,
+            "context": "grantees that were not audited as of April 4, 2019"
+          }
+        ],
+        "recommendation": "GOCCP should enhance its policy to provide a comprehensive methodology for evaluating LLE grant applications and making award decisions, ensure discretionary grants are awarded in compliance with established policy, and verify grant expenditures and performance measure achievement by obtaining supporting documentation and conducting audits for all grantees.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Malware protection controls were not sufficient to provide the Executive Department with adequate assurance that its computers were properly protected.",
+        "description": "Numerous workstations had not been updated with latest releases for software known to have security vulnerabilities. As of June 2019, 110 of 116 identified workstations were running outdated versions, and 10 computers operated without installed malware protection software.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Executive Department should promptly install all critical security-related software updates for commonly vulnerable applications on all computers and ensure that all computers are operating with installed and current versions of the malware protection software supported by DoIT.",
+        "agency_agrees": true,
+        "agency_completion_date": "2019-12-31"
+      },
+      {
+        "number": 3,
+        "title": "The Executive Department did not complete physical inventories of its sensitive equipment, and did not periodically reconcile control accounts with the detailed records.",
+        "description": "The Executive Department did not complete physical inventories or reconcile equipment control account balances as required. As of June 30, 2018, 247 sensitive equipment items totaling approximately $320,000 had not been located, and there was a reconciliation difference of $187,562 between detail records and control accounts.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3800000.0,
+            "context": "value of equipment as of June 30, 2018"
+          },
+          {
+            "amount": 706000.0,
+            "context": "value of Office of the Governor\u2019s sensitive equipment"
+          },
+          {
+            "amount": 320000.0,
+            "context": "sensitive equipment items not located as of March 2019"
+          },
+          {
+            "amount": 1261780.0,
+            "context": "Office of the Governor\u2019s equipment balance according to detail records"
+          },
+          {
+            "amount": 1074218.0,
+            "context": "related control account balance"
+          },
+          {
+            "amount": 187562.0,
+            "context": "difference between detail records and control account balance"
+          }
+        ],
+        "recommendation": "The Executive Department should conduct complete physical inventories of sensitive equipment items and investigate missing equipment, and periodically reconcile control accounts balances with related detail records.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "The Executive Department did not have adequate procedures and controls to ensure that all collections were deposited.",
+        "description": "Certain collections were not immediately recorded or restrictively endorsed, and deposits were not made timely. Checks totaling approximately $247,000 at the Governor\u2019s Office of Community Initiatives were handled by multiple employees before recording. Eight deposits totaling $295,000 were forwarded 3 to 7 days after receipt.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 909000.0,
+            "context": "GFO processed cash receipts during fiscal year 2018"
+          },
+          {
+            "amount": 874000.0,
+            "context": "collections received at the units"
+          },
+          {
+            "amount": 247000.0,
+            "context": "checks received at the Governor\u2019s Office of Community Initiatives"
+          },
+          {
+            "amount": 329000.0,
+            "context": "deposits tested forwarded to GFO by four units"
+          },
+          {
+            "amount": 295000.0,
+            "context": "deposits forwarded between 3 and 7 business days after initial receipt"
+          }
+        ],
+        "recommendation": "The Executive Department should ensure that collections are recorded and restrictively endorsed immediately upon receipt, processed and forwarded by units to GFO for timely deposit, and verified to deposit by an employee independent of cash receipts functions.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Executive Department agreed with all findings and recommendations. Corrective actions included implementing consistent application spreadsheets for grant awards, reviewing discretionary programs, installing software updates, conducting physical inventories of sensitive equipment, and improving cash receipt controls to ensure immediate recording and independent verification.",
+    "total_dollar_impact": 507562.0,
+    "extraction_notes": "Report date inferred as November 1, 2019 based on 'November 2019' header. Prior findings count derived from text stating 'two findings contained in our preceding audit report'. Total dollar impact sums missing equipment ($320,000) and reconciliation difference ($187,562). Agency completion dates for FY20/FY20-FY21/Immediately converted to null due to YYYY-MM-DD format requirement."
+  },
+  "validation_flags": [
+    "dollar_amount_not_in_text: finding 1 amount 31400000.0",
+    "dollar_amount_not_in_text: finding 1 amount 6800000.0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T00:55:09.262864",
+  "content_hash": "e5de2a3e5c9a099572ba999e000bc6f139c87b76",
+  "duplicate_of": null
+}

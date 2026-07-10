@@ -1,0 +1,50 @@
+{
+  "extraction": {
+    "agency_name": "Department of General Services",
+    "parent_department": "Department of General Services",
+    "report_date": "2008-02-28",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "A DGS management employee continued to supervise an employee with responsibilities relating to a contract involving the firm that employed the management employee\u2019s spouse despite an agreement with the State Ethics Commission to the contrary. The same management employee was directly involved in a new contract totaling $4.3 million awarded to another firm that subsequently employed the management employee\u2019s spouse.",
+        "description": "Despite an agreement to the contrary with the State Ethics Commission, a DGS management employee continued to supervise an employee with responsibilities relating to a contract involving the firm that employed the management employee\u2019s spouse. In addition, we noted that the same management employee was directly involved in a new contract totaling $4.3 million awarded to another firm that subsequently employed the management employee\u2019s spouse, and DGS\u2019 revised operating policies had not prevented or detected this potential conflict.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 4300000.0,
+            "context": "contract totaling $4.3 million awarded to another firm"
+          },
+          {
+            "amount": 183000.0,
+            "context": "DGS made payments totaling $183,000 to the aforementioned firm"
+          },
+          {
+            "amount": 3100000.0,
+            "context": "approving contract billings... totaling approximately $3.1 million"
+          }
+        ],
+        "recommendation": "We recommend that DGS immediately refer this issue to the State Ethics Commission for further review and investigation. Additionally, we again recommend that DGS establish adequate procedures to ensure that conflicts of interest do not occur when awarding State contracts in the future. Finally, we recommend that DGS fully cooperate with the Office of the Attorney General\u2019s Criminal Division regarding this matter.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": true,
+    "fraud_hotline_origin": true,
+    "agency_response_summary": "DGS\u2019s response to our findings and recommendations is included in the appendix to this report.",
+    "total_dollar_impact": 7583000.0,
+    "extraction_notes": "Audit period dates were not explicitly stated using 'for the period beginning/ending' language for this specific review; conduct dates (Sept-Nov 2007) were noted instead. Agency response details are referenced as being in an appendix which was not included in the provided text."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 1, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T16:49:07.027677",
+  "content_hash": "9aefedad3b7a7808424e665ccde6161750d5a633",
+  "duplicate_of": null
+}

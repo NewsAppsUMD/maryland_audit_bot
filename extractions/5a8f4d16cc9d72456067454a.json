@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Department of Planning",
+    "parent_department": "Maryland Department of Planning",
+    "report_date": "2022-01-13",
+    "audit_period_start": "2016-11-21",
+    "audit_period_end": "2021-04-30",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The audit team states that since there are no recommendations in the report, a written response was not necessary.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No findings were disclosed in this report. The text explicitly states: 'Our audit did not disclose any findings that warrant mention in this report.' and 'Since there are no recommendations in this report, a written response was not necessary.'"
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T08:27:02.694168",
+  "content_hash": "664436dbcfb2f8da17f73ede6b48312aefe89206",
+  "duplicate_of": null
+}

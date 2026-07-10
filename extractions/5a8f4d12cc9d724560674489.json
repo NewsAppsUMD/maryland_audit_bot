@@ -1,0 +1,76 @@
+{
+  "extraction": {
+    "agency_name": "Judiciary",
+    "parent_department": "Judiciary",
+    "report_date": "2024-12-17",
+    "audit_period_start": "2019-06-10",
+    "audit_period_end": "2023-07-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Judiciary did not require independent approval of purchases less than $2,500. Consequently, one Clerk employee circumvented the Judiciary\u2019s procurement policies including the purchase approximately $438,600 in office supplies from a vendor that did not have a contract with the Judiciary and at higher cost than the Judiciary\u2019s existing office supply contract.",
+        "description": "The Judiciary lacked independent approval for purchases under $2,500, totaling $3.4 million during the audit period. One employee circumvented policy by processing over $1 million in transactions, including nearly $439,000 to an uncontracted vendor at higher costs than existing contracts.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2500.0,
+            "context": "purchase threshold"
+          },
+          {
+            "amount": 3400000.0,
+            "context": "total transactions under $2,500"
+          },
+          {
+            "amount": 1040970.0,
+            "context": "transactions by employee"
+          },
+          {
+            "amount": 438571.0,
+            "context": "payments to vendor without contract"
+          }
+        ],
+        "recommendation": "establish procedures for independent review of all transactions including those below $2,500; take corrective action, including disciplinary action, for improper transactions; and ensure existing contracts are used for the purchase of goods and services.",
+        "agency_agrees": true,
+        "agency_completion_date": "ongoing"
+      },
+      {
+        "number": 2,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of the analysis and recommendations have been redacted from this report copy in accordance with State law regarding cybersecurity findings.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Redacted cybersecurity-related finding",
+        "description": "The specifics of the analysis and recommendations have been redacted from this report copy in accordance with State law regarding cybersecurity findings.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": null,
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 7,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Judiciary agrees with all recommendations but notes existing procedures require independent approval for transactions under competitive thresholds via Express Purchase Orders (XPO). They plan to implement an annual review process and monitor spending activities to ensure compliance, with completion dates marked as ongoing.",
+    "total_dollar_impact": 438571.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:48:08.290572",
+  "content_hash": "90a17b84bcd1bf03397ebf876553484390e1f94a",
+  "duplicate_of": null
+}

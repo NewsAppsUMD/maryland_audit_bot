@@ -1,0 +1,114 @@
+{
+  "extraction": {
+    "agency_name": "Department of Natural Resources",
+    "parent_department": "Department of Natural Resources",
+    "report_date": "2017-07-01",
+    "audit_period_start": "2013-02-05",
+    "audit_period_end": "2016-01-05",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Numerous COMPASS users at the RSC could process voids and price changes without supervisory review and approval at the time the transactions were processed; and the post-transaction supervisory review at the Annapolis RSC was not effective.",
+        "description": "Numerous system users at the RSCs could process voids and price changes without supervisory review and approval. Our test of 10 voided transactions disclosed there was no documented supervisory review, and DNR management advised that output reports were not complete as they did not include all voided transactions.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 112000.0,
+            "context": "cumulatively reduced fees"
+          }
+        ],
+        "recommendation": "We recommend that DNR establish complete and reliable reports of voids and price changes and procedures for documented supervisory review and approval of these transactions (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DNR lacked assurance that COMPASS was properly secured against operational and security risks.",
+        "description": "DNR personnel advised us that as of May 2016, COMPASS' primary service provider and a critical subcontractor had not obtained independent security reviews. The dates of birth for 1.4 million customers and the drivers' licenses for 1.1 million customers were being stored in plain text.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DNR a. enforce the provisions of its COMPASS contract, by requiring that independent security reviews (such as SOC reviews with Type 2 reports) be performed for the primary service provider and all subcontractors providing material services; and b. obtain and review copies of these independent reports and ensure that the independent security reviews and related reports on COMPASS address all relevant and critical security controls and further ensure that the service providers implement all critical recommendations made in these reports (repeat).",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-12-01"
+      },
+      {
+        "number": 3,
+        "title": "DNR lacked adequate controls over collections at the Annapolis headquarters complex and the Annapolis RSC.",
+        "description": "An independent verification of validated deposits slips to recorded collections was not properly performed. Checks received by two departments were not adequately safeguarded, and FAS did not deposit certain checks pending a determination without maintaining a comprehensive listing of these unidentified checks requiring resolution.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 657400.0,
+            "context": "cash receipts deposited for two departments"
+          },
+          {
+            "amount": 788446.0,
+            "context": "checks withheld from deposit pending investigation"
+          },
+          {
+            "amount": 203500.0,
+            "context": "tested checks"
+          },
+          {
+            "amount": 1078.0,
+            "context": "unendorsed checks sighted"
+          }
+        ],
+        "recommendation": "We recommend that DNR a. ensure deposit verifications are performed by an employee independent of the cash receipts functions using initial recordation documents (repeat), b. initially record and restrictively endorse checks received in the mail immediately upon opening the envelopes, c. properly secure all collections until bank deposit, d. establish accountability and control over unidentified checks and document the final disposition of the checks, and e. ensure that supervisory employees responsible for closing out cashiers' daily transactions maintain independence from the cash collection process.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "DNR did not use available statewide contracts nor comply with State procurement regulations for the purchase of telecommunication tower maintenance and equipment installation services.",
+        "description": "DNR did not use available Statewide contracts nor comply with State procurement regulations when procuring certain telecommunication tower maintenance and equipment installation services. Purchases were artificially divided to circumvent oversight, and invoices were not adequately verified prior to payment.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 387200.0,
+            "context": "paid to vendor for services"
+          },
+          {
+            "amount": 73350.0,
+            "context": "additional payments from special bank accounts"
+          },
+          {
+            "amount": 288700.0,
+            "context": "procurements divided under $15,000"
+          },
+          {
+            "amount": 164800.0,
+            "context": "procurements using corporate purchasing cards"
+          },
+          {
+            "amount": 90650.0,
+            "context": "vendor was only bidder"
+          }
+        ],
+        "recommendation": "We recommend that DNR a. use available Statewide contracts and comply with State law and regulations by discontinuing the practice of artificially dividing procurements; b. when competitively procuring services, maintain complete bid documentation and ensure procurements are approved by appropriate internal personnel and control agencies; c. review the activity associated with this vendor for propriety, and report the results of the review, including related procurement activity, to the appropriate control agency; d. ensure that vendors are licensed in the State, and obtain and document all necessary vendor qualifications and certifications; and e. ensure invoices are adequately verified prior to payment by obtaining documented confirmation that the related equipment and services were received.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 6,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department of Natural Resources agrees with all recommendations and states that most have already been implemented or are in progress toward compliance by December 1, 2017. They acknowledge resource limitations regarding separation of duties but note ongoing efforts to consolidate Service Centers with the Maryland Motor Vehicle Administration.",
+    "total_dollar_impact": 1360996.0,
+    "extraction_notes": "Report date derived from header 'July 2017'. Audit period dates extracted from Scope section. Dollar amounts converted to integers. Prior findings count based on text stating 'six findings contained in our preceding audit report'."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:18:58.794284",
+  "content_hash": "84c7c402db20749a983d864e7e490deb6e5527a9",
+  "duplicate_of": "5a8f4d15cc9d72456067450e"
+}

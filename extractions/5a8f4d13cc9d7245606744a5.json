@@ -1,0 +1,114 @@
+{
+  "extraction": {
+    "agency_name": "Department of Labor, Licensing and Regulation",
+    "parent_department": "Department of Labor, Licensing and Regulation",
+    "report_date": "2017-08-01",
+    "audit_period_start": "2013-07-01",
+    "audit_period_end": "2016-08-16",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Licensees\u2019 sensitive personally identifiable information was stored without adequate safeguards.",
+        "description": "DLLR inappropriately stored sensitive PII in clear text on a critical server containing 589,836 unique social security numbers as of November 29, 2016. The agency had not performed an inventory to identify or delete unnecessary PII.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DLLR perform an inventory of its systems and identify all sensitive PII; determine if it is necessary to retain this PII and delete all unnecessary PII; determine if all necessary PII is properly protected by encryption or other substantial mitigating controls; and use approved encryption algorithms to encrypt all sensitive PII not otherwise properly protected.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-08-31"
+      },
+      {
+        "number": 2,
+        "title": "DLLR did not have an information technology disaster recovery plan for the recovery of its information systems operations.",
+        "description": "DLLR lacked a DRP for recovering computer operations from disasters like fire. Without it, significant delays could occur in restoring operations beyond expected planned recovery scenarios.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DLLR, in conjunction with DoIT, create a comprehensive DRP that covers all of its information technology operations and is in compliance with the best practices identified in the IT Disaster Recovery Guidelines.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "Password, account, and malware protection controls were not sufficient to properly protect DLLR\u2019s network.",
+        "description": "Domain passwords lacked complexity/expiry requirements; 239 workstations had unauthorized administrative rights; and 1,862 instances of outdated vulnerable software existed on DoIT supported workstations as of the audit date.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that DLLR, in conjunction with DoIT, establish password and account settings per State policy; limit assignment of administrative rights on workstations; and ensure all workstations are kept up-to-date for critical security-related updates.",
+        "agency_agrees": true,
+        "agency_completion_date": "2017-12-31"
+      },
+      {
+        "number": 4,
+        "title": "DLLR could not substantiate $9.9 million in federal fund revenues recorded at the end of fiscal year 2016, and could not substantiate that any funds had been received.",
+        "description": "DLLR could not substantiate approximately $9.9 million in federal fund revenues recorded for FY 2016 or confirm receipt as of January 2017. Revenue related to indirect costs from FYs 2014-2016; uncertainty exists on recovery.",
+        "category": "federal_funds",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 9900000.0,
+            "context": "federal fund revenues recorded at the end of fiscal year 2016"
+          }
+        ],
+        "recommendation": "We recommend that DLLR ensure that all year-end revenue transactions are properly supported and continue its efforts with the federal granting agency to recover the aforementioned revenues.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 5,
+        "title": "DLLR did not publish contract awards totaling $12 million on eMaryland Marketplace as required.",
+        "description": "DLLR failed to publish eight information technology, maintenance, and professional services contract awards (totaling approximately $12 million) made between May 2014 through December 2016 on eMM as of February 2017.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 12000000.0,
+            "context": "contract awards totaling"
+          }
+        ],
+        "recommendation": "We recommend that DLLR comply with State laws and procurement regulations by publishing contract awards on eMM within 30 days of the contract award.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "DLLR did not reconcile electronic receipts collected by its Division of Financial Regulation (DFR) with amounts recorded in the State\u2019s accounting records and with the related bank statements.",
+        "description": "DLLR did not perform monthly reconciliations of electronic credit card receipts for DFR with bank/accounting records as of September 2016. Only one reconciliation was conducted, which was not comprehensive.",
+        "category": "cash_receipts",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2400000.0,
+            "context": "DFR collections totaled approximately"
+          },
+          {
+            "amount": 950000.0,
+            "context": "foreclosed property registration fees"
+          }
+        ],
+        "recommendation": "We recommend that DLLR perform monthly reconciliations of DFR electronic licensing receipt collections with related bank statements and receipts recorded in the State\u2019s records; ensure the reconciliations are comprehensive.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 8,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "DLLR generally agrees with all findings and recommendations. The agency provided specific completion dates for IT inventory (August 31, 2017) and security controls (December 31, 2017). Regarding federal funds, the agency noted ongoing recovery efforts and corrective actions for management accountability. Procurement corrections were made in February 2017, and reconciliations are being performed through June 2017.",
+    "total_dollar_impact": 9900000.0,
+    "extraction_notes": "Report date derived from header 'August 2017'. Audit period explicitly stated in Scope section. Finding 6 marked as repeat with asterisk and text '(repeat)'. Total dollar impact sums questioned/unsubstantiated amounts ($9.9M). $12M contract value excluded from total impact as it represents compliance failure rather than unaccounted funds."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:20:25.189055",
+  "content_hash": "826849751309ac93f2e8708d68777a8a15e86680",
+  "duplicate_of": "5a8f4d13cc9d7245606744a3"
+}

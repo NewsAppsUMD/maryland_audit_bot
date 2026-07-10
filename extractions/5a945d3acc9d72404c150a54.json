@@ -1,0 +1,102 @@
+{
+  "extraction": {
+    "agency_name": "Board of License Commissioners for Anne Arundel County",
+    "parent_department": "Anne Arundel County",
+    "report_date": "2016-02-01",
+    "audit_period_start": null,
+    "audit_period_end": null,
+    "findings": [
+      {
+        "number": 1,
+        "title": "Anne Arundel County (County) restricted expenditures for legal services below the amounts authorized by the Comptroller of Maryland for fiscal years 2015 and 2016 contrary to State law.",
+        "description": "The County restricted BLC's authorized expenditures in fiscal years 2015 and 2016 below the amounts in the Comptroller of Maryland\u2019s approved budgets, which legal counsel advised was contrary to State law. In FY2015, $35,000 was restricted; in FY2016, $112,400 was reduced from the approved budget.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 35000.0,
+            "context": "restricted in fiscal year 2015"
+          },
+          {
+            "amount": 70000.0,
+            "context": "budget amendments for legal expenditures"
+          },
+          {
+            "amount": 112400.0,
+            "context": "reduction in authorized expenditures fiscal year 2016"
+          },
+          {
+            "amount": 90000.0,
+            "context": "reduction for legal fees"
+          }
+        ],
+        "recommendation": "a. seek the concurrence of the Comptroller, legal counsel, and County officials regarding the Comptroller\u2019s authority for its budget and the County\u2019s role in paying BLC expenditures consistent with County requirements and the approved budget; b. work with the County to authorize fiscal year 2016 expenditures consistent with the Comptroller\u2019s approved budget.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Certain work performed by BLC\u2019s contractual attorney appeared to overlap the responsibilities of BLC\u2019s staff counsel and administrative staff. The overall reasonableness of the hours charged and related costs for its contractual attorney could not be assessed primarily because of a lack of documentation.",
+        "description": "Certain work performed by the contractual attorney appeared to overlap responsibilities of staff counsel and administrative staff, with likely duplication of services. The reasonableness of hours charged could not be assessed due to a lack of documentation and inability to obtain comparable information from other boards.",
+        "category": "contract_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 55646.0,
+            "context": "fiscal year 2013 contractual attorney costs"
+          },
+          {
+            "amount": 118543.0,
+            "context": "fiscal year 2015 contractual attorney costs"
+          },
+          {
+            "amount": 28355.0,
+            "context": "fiscal year 2015 general legal services"
+          },
+          {
+            "amount": 49700.0,
+            "context": "fiscal year 2015 appeals work"
+          },
+          {
+            "amount": 21390.0,
+            "context": "fiscal year 2015 protest work"
+          }
+        ],
+        "recommendation": "a. discontinue assigning work to the contractual attorney for tasks that are the responsibilities of, or could be performed by, BLC\u2019s staff counsel and administrative staff; b. formalize procedures to assign specific tasks to the contractual attorney, agree on the related chargeable hours, and document all the legal arrangements; c. institute documented invoice approval procedures.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "BLC\u2019s contractual attorney represented a business applying for a liquor license; this relationship raises questions regarding a potential conflict of interest.",
+        "description": "The contractual attorney represented a business applying for a liquor license while also serving as the Board's counsel, without disclosing the relationship or obtaining consent, raising potential conflict of interest questions. Legal counsel advised this warranted review by the Attorney Grievance Commission.",
+        "category": "grants_monitoring",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 500.0,
+            "context": "charges for meeting preparation and attendance"
+          }
+        ],
+        "recommendation": "a. refer this matter to the State\u2019s Attorney Grievance Commission; b. prohibit its attorneys from representing applicants and licensees in matters involving the BLC.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Board agrees to refer the conflict of interest matter to the State's Attorney Grievance Commission and will prohibit its attorneys from representing applicants/licensees in BLC matters.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from 'February 2016' header. Audit period dates set to null as no explicit 'period beginning/ending' language was found. Agency response explicitly stated only for Finding 3."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T22:51:03.440620",
+  "content_hash": "54bcde0c3b653e50af6189d44b5b9f79575f23c6",
+  "duplicate_of": null
+}

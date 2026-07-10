@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Commission on Civil Rights",
+    "parent_department": null,
+    "report_date": "2015-09-01",
+    "audit_period_start": "2012-03-14",
+    "audit_period_end": "2015-06-08",
+    "findings": [],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The agency did not provide a written response because the audit contained no recommendations.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings were present in this report; the text states 'no significant deficiencies' and 'no recommendations'. The $2.9 million expenditure figure is background information, not tied to a finding."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T22:08:00.645410",
+  "content_hash": "3a3d66a425d8708bc5afa51f563f76eb82eb9ed6",
+  "duplicate_of": "5a8f4d0bcc9d7245606742d2"
+}

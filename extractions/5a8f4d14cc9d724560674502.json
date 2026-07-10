@@ -1,0 +1,22 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Health Insurance Plan",
+    "parent_department": null,
+    "report_date": "2017-03-23",
+    "audit_period_start": "2015-01-13",
+    "audit_period_end": "2016-07-01",
+    "findings": [],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "Since there are no recommendations in this report, a written response was not necessary.",
+    "total_dollar_impact": null,
+    "extraction_notes": "No numbered findings were disclosed in the report. Audit period end date taken from transmittal letter (July 1, 2016) which aligns with MHIP termination date."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T06:52:42.639531",
+  "content_hash": "c9d69b4af3e5ffc85a371e8ceacd4476b8e0978f",
+  "duplicate_of": null
+}

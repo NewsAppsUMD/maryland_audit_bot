@@ -1,0 +1,59 @@
+{
+  "extraction": {
+    "agency_name": "Comptroller of Maryland",
+    "parent_department": "Comptroller of Maryland",
+    "report_date": "2010-12-21",
+    "audit_period_start": "2010-01-01",
+    "audit_period_end": "2010-09-01",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Mainframe security software access and password controls were not adequate.",
+        "description": "Mainframe security software access and password controls were not adequate. Specifically, eighty-four users had unnecessary direct unlogged or logged access to critical production programs, fifty-two active accounts with access to critical files had passwords set to never expire, and the Help Desk did not request sufficient information to verify individuals requesting password resets.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITD a. restrict access to critical production programs to only those individuals requiring such access and log all such accesses, b. enforce appropriate password lifetimes and restrict direct user logon with system/application accounts, and c. request sufficient information to adequately verify the legitimacy of individuals requesting password resets.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Monitoring of security software reports and controls over changes to critical production procedure programs were not adequate.",
+        "description": "Security software violation logs for critical ITD data files were reviewed only for violations by ITD employees rather than all users, and entries on the log of changes to security rules were not verified. Changes to critical production procedure programs lacked change request forms or documentation that these changes were reviewed by management.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITD a. review the aforementioned security software logs and reports for all users, b. perform an independent verification of the propriety of changes to security rules, and c. generate and retain a change request form for all changes to critical production procedure programs and retain evidence of the review and approval of these forms.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "The ITD internal network was not properly secured.",
+        "description": "On-site contractors had unnecessary network level access to numerous critical ITD systems. Additionally, the ITD computer network was not effectively protected by intrusion detection and prevention system devices on traffic used by data center partners to access the mainframe computer.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that ITD a. restrict contractors\u2019 network level access to only those systems to which they require access, b. perform a documented review and assessment to identify how IDPS coverage should be applied to its network and implement such coverage (including installing the previously-purchased IDPS device on the aforementioned data line) for all critical segments of its network.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Comptroller of Maryland\u2019s response to this audit, on behalf of ITD, is included as an appendix to the report.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period derived from fieldwork dates (January 2010 to September 2010). Dollar amounts tied specifically to findings were not present in the text. Agency agreement status and completion dates are not stated as the appendix content is not included."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T03:12:33.608660",
+  "content_hash": "eb58b63d1a5c7fcf608821c0f3417cb693bcd07f",
+  "duplicate_of": null
+}

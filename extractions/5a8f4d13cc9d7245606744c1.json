@@ -1,0 +1,72 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Longitudinal Data System Center",
+    "parent_department": null,
+    "report_date": "2016-02-24",
+    "audit_period_start": "2013-07-01",
+    "audit_period_end": "2014-12-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "The Center Procured Certain Services Through an Interagency Agreement Rather Than Through a Competitive Procurement Process",
+        "description": "The Center used an interagency agreement with the University of Maryland, Baltimore to procure services worth approximately $475,000 instead of using a competitive procurement process. This avoided control agency approval and assurance that services were obtained at the most advantageous cost.",
+        "category": "procurement_disbursements",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 475000.0,
+            "context": "cost of services procured through interagency agreement"
+          },
+          {
+            "amount": 350000.0,
+            "context": "aggregate cost for IT services"
+          },
+          {
+            "amount": 125000.0,
+            "context": "cost for database training"
+          }
+        ],
+        "recommendation": "We recommend that the Center discontinue the practice of using interagency agreements as a mechanism to avoid a competitive procurement process to obtain contractual services.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "Sensitive Personally Identifiable Information Was Not Adequately Protected",
+        "description": "Sensitive PII was stored in clear text files on servers and SSNs were retained unencrypted in databases without substantial mitigating controls like data loss prevention software. This violated the State of Maryland Information Security Policy requiring encryption for confidential data.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that the Center a. in accordance with its procedures, delete all decrypted files containing sensitive PII, immediately after processing; and b. enable encryption for all databases tables containing sensitive PII.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-02-01"
+      },
+      {
+        "number": 3,
+        "title": "The Center\u2019s Servers Were Not Adequately Secured",
+        "description": "Servers hosted by DPSCS lacked security updates, anti-malware software, and had firewall configurations allowing unnecessary network access. These conditions made the servers susceptible to unauthorized access and potential disclosure of critical data.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "We recommend that, as required by the Information Security Policy, the Center a. continually update all of its servers with the latest operating system security patches issued by the operating system vendors; b. install anti-malware software on all of its servers and continually maintain this software at current version levels with up-to-date anti-malware signatures; c. keep its servers up-to-date for all critical security-related updates to potentially vulnerable installed software; and d. ensure network-level access to its servers is limited to only those individuals/devices requiring such access over required ports.",
+        "agency_agrees": true,
+        "agency_completion_date": "2015-06-01"
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Center concurs with all recommendations. For Finding 1, they agree to discontinue the practice while noting the context of the interagency agreement. For Findings 2 and 3, they state that recommended actions were fully implemented as of February 2015 and June 2015 respectively following a migration from DPSCS to MSDE data center.",
+    "total_dollar_impact": 475000.0,
+    "extraction_notes": "Report date derived from transmittal letter (February 24, 2016). Audit period explicitly stated in Scope and Agency Response. No parent department explicitly named for the independent Center unit."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T04:45:47.318943",
+  "content_hash": "92ac7ce4529a72f6509a51847bfc656348d16576",
+  "duplicate_of": null
+}

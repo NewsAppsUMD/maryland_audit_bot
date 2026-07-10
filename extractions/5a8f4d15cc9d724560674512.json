@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "agency_name": "Potomac River Fisheries Commission",
+    "parent_department": null,
+    "report_date": "2015-05-18",
+    "audit_period_start": null,
+    "audit_period_end": "2014-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Improve Overall Financial Controls",
+        "description": "The Commission has experienced an overall weakness in its operational and financial controls since the transition of the new Executive Secretary in fiscal year 2013. Issues include failure to prepare bank reconciliations timely or at all during fiscal year 2014, lack of Executive Secretary review of payroll transactions and reconciliations, segregation of duties issues where the Administrative Assistant has sole access to HR/Retirement systems without management review, and lack of documented cash collection reviews.",
+        "category": "federal_funds",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "The Executive Secretary needs to devote an additional portion of his time to oversee the financial administration of the Commission and ensure that proper controls are in place. This includes systematic review of all payroll transactions, retirement contributions, and cash collections by the Executive Secretary, and timely reconciliation of all bank accounts and subsequent review.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The provided text does not contain the Commission Response section content.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Audit period start date inferred as July 1, 2013 based on 'Year Ended June 30, 2014' but explicitly stated language for start date was not found. Commission Response text is missing from the provided document snippet."
+  },
+  "validation_flags": [
+    "findings_count_mismatch: extracted 1, regex counted 0"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T07:25:50.391582",
+  "content_hash": "64f40cb5cd75fa8ec3a272379b42e1c9b6878010",
+  "duplicate_of": null
+}

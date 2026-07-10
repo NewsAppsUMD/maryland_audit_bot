@@ -1,0 +1,75 @@
+{
+  "extraction": {
+    "agency_name": "Regional Institute for Children and Adolescents \u2013 Southern Maryland",
+    "parent_department": "Department of Health and Mental Hygiene",
+    "report_date": "2008-12-16",
+    "audit_period_start": "2005-12-01",
+    "audit_period_end": "2008-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Numerous recordkeeping and inventory deficiencies hindered adequate control over the asset liquidation process.",
+        "description": "RICA-SM lacked controls over equipment and supplies during the liquidation process. Deficiencies included no equipment control account, unsigned inventory count sheets for capital and non-capital items, and lack of tracking for asset disposition.",
+        "category": "equipment_inventory",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 423000.0,
+            "context": "capital equipment items value as of July 1, 2008"
+          },
+          {
+            "amount": 164000.0,
+            "context": "inventory book value of remaining items as of September 26, 2008"
+          },
+          {
+            "amount": 40820.0,
+            "context": "supplies valued as of June 30, 2008"
+          }
+        ],
+        "recommendation": "DHMH should ensure that its facilities maintain the required equipment records and perform physical inventories. For future agency closings, DHMH should ensure adequate accountability for all equipment and supplies to facilitate the liquidation process.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "DHMH had not completed a review of certain payments noted in our preceding audit report as questionable or non-compliant with contract terms.",
+        "description": "DHMH failed to complete a review of HVAC vendor payments totaling approximately $184,000 from fiscal years 2003-2005. A listing identified potential overpayments of $35,000, but the status of billing and recovery was undetermined as of August 13, 2008.",
+        "category": "contract_monitoring",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 184000.0,
+            "context": "payments to HVAC vendors during fiscal years 2003 through 2005"
+          },
+          {
+            "amount": 180000.0,
+            "context": "listing of invoices paid to vendors provided by RICA-SM"
+          },
+          {
+            "amount": 35000.0,
+            "context": "potential overpayments identified"
+          }
+        ],
+        "recommendation": "DHMH should conduct a complete review of payments to the aforementioned vendors. Specifically, DHMH should determine the status of the invoice review (such as whether invoices were reviewed by knowledgeable individuals and whether overpayments were billed/recovered) and determine if activity should be forwarded to the OAG-CD.",
+        "agency_agrees": false,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 2,
+    "prior_findings_repeated": 1,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The Department concurs with both findings but cites operational constraints for Finding 1 (rapid closure) and legal/practical barriers for Finding 2 (time elapsed, difficulty winning legal case). They commit to reemphasizing requirements for future closings.",
+    "total_dollar_impact": 35000.0,
+    "extraction_notes": "Finding 2 is marked as repeated based on the 'Status of Findings From Preceding Audit Report' section. No specific prior finding number was stated in the text."
+  },
+  "validation_flags": [
+    "criminal_division_in_text_but_referral_false_verify"
+  ],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:42:15.602462",
+  "content_hash": "de0bcaa47de12b752526cbb710d450ddd2732ed7",
+  "duplicate_of": null
+}

@@ -1,0 +1,40 @@
+{
+  "extraction": {
+    "agency_name": "Office of the Register of Wills",
+    "parent_department": null,
+    "report_date": "2014-07-01",
+    "audit_period_start": "2011-03-02",
+    "audit_period_end": "2014-03-31",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Deposit verifications were not performed by personnel independent of the collection process.",
+        "description": "Deposit verifications were not performed by personnel independent of the collection process. Specifically, the employee who performed the deposit verifications also prepared the deposits and performed the bank reconciliations. As a result, collections could potentially be misappropriated without detection.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2951630.0,
+            "context": "collections processed during fiscal year 2013"
+          }
+        ],
+        "recommendation": "We recommend that an employee independent of the collection process perform the deposit verification. We advised the Office on accomplishing the necessary separation of duties using existing personnel.",
+        "agency_agrees": null,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": null,
+    "prior_findings_repeated": null,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The report states that the Office's response to findings and recommendations is included as an appendix.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from header 'July 2014'. Agency response content not provided in text excerpt."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T11:18:45.013720",
+  "content_hash": "5f6fa66c2378a3f39ce08f5605259a8433d49b74",
+  "duplicate_of": "5a8f4d18cc9d72456067460a"
+}

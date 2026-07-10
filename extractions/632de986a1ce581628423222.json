@@ -1,0 +1,151 @@
+{
+  "extraction": {
+    "agency_name": "Morgan State University",
+    "parent_department": null,
+    "report_date": "2014-10-01",
+    "audit_period_start": "2010-03-24",
+    "audit_period_end": "2013-06-30",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Morgan State University (MSU) had not established adequate controls over changes to student residency status determinations.",
+        "description": "MSU lacked adequate controls for graduate and undergraduate residency changes, allowing unauthorized changes without detection due to insufficient independent verification. Additionally, 126 employees were granted system capabilities to change residency status that were not required for their job duties.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 3609.0,
+            "context": "full-time undergraduate tuition and fee charges for Maryland residents"
+          },
+          {
+            "amount": 8316.0,
+            "context": "nonresidents"
+          }
+        ],
+        "recommendation": "Improve controls over student residency status changes by ensuring independent supervisory review of a sufficient number of changes and restricting system capabilities to only those employees requiring such capabilities.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-06-27"
+      },
+      {
+        "number": 2,
+        "title": "Adjustments to room and board charges were not adequately reviewed.",
+        "description": "MSU lacked adequate controls over adjustments, with no documentation of independent supervisory review for tested cases reducing charges by $40,140. Additionally, $7,283 in charges were waived inconsistent with policy regarding cancellations after the start of classes. Total room and board adjustments to reduce student charges during fiscal year 2013 totaled approximately $4.8 million.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 40140.0,
+            "context": "room and board adjustments that reduced student charges"
+          },
+          {
+            "amount": 7283.0,
+            "context": "room and board charges waived for 2 students based upon cancellations received after the start of classes"
+          },
+          {
+            "amount": 4800000.0,
+            "context": "room and board adjustments to reduce student charges during fiscal year 2013"
+          }
+        ],
+        "recommendation": "Ensure room and board adjustments are reviewed/approved by independent supervisory personnel, documented, and comply with MSU policy.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-07-01"
+      },
+      {
+        "number": 3,
+        "title": "MSU had not established adequate accountability over outstanding grant receivables and outstanding grant accounts were not pursued for payment as required by the State\u2019s Central Collection Unit\u2019s (CCU) regulations.",
+        "description": "MSU did not record grant amounts due in centralized records, using handwritten logs instead. 34 billings totaling $912,634 were crossed through on logs without adequate explanation or supervisory review. Written payment demands were not sent at predetermined intervals for outstanding grants, with tests showing delays of 3 to 18 months before payment was received.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 912634.0,
+            "context": "billings totaling that had been crossed through on the logs without notations"
+          },
+          {
+            "amount": 6000000.0,
+            "context": "manual grant billings during fiscal year 2013"
+          },
+          {
+            "amount": 1300000.0,
+            "context": "test of 10 grant billings for fiscal years 2011 through 2013"
+          }
+        ],
+        "recommendation": "Establish centralized records, prepare reports to track outstanding accounts, document and review adjustments, investigate the 34 crossed-out adjustments, and send written payment demands/submit delinquent accounts to CCU.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 4,
+        "title": "Controls over electronic timesheets for regular and contractual employees were not sufficient to ensure the validity of all time reported.",
+        "description": "Controls were inadequate as 24 employees approved their own timesheets totaling $313,309 in earnings. Thirteen employees had capabilities to prepare/modify/approve timesheets without independent review (10,604 timesheets). During fiscal year 2013, 704 hours totaling $20,719 were recorded as worked after supervisory approval.",
+        "category": "information_systems_security",
+        "is_repeat": true,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 313309.0,
+            "context": "earnings from timesheets approved by employees"
+          },
+          {
+            "amount": 20719.0,
+            "context": "hours recorded as worked after supervisory approval"
+          }
+        ],
+        "recommendation": "Revise system capabilities to ensure independent supervisory review and approval of all timesheets, and ensure timesheets are approved after the end of the pay period.",
+        "agency_agrees": true,
+        "agency_completion_date": "2014-06-27"
+      },
+      {
+        "number": 5,
+        "title": "Access, monitoring, password, and account controls over the student administration, human resources, and financial systems were not sufficient.",
+        "description": "Powerful database privileges were not properly restricted with 16 accounts unnecessarily assigned. Monitoring of security events was inadequate without documentation of reviews. Password and account controls did not comply with DoIT Information Security Policy requirements, and the password file was not adequately secured.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Restrict powerful database privileges, log/review/retain documentation of critical privileges, ensure password/account controls comply with DoIT policy and secure the password file.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 6,
+        "title": "The MSU intrusion detection prevention system was not properly protecting the network.",
+        "description": "Network devices were improperly configured leaving critical servers unprotected. IDPS signatures had not been updated for at least 19 months and configurations were not backed up. Host-based intrusion protection systems (HIPS) were not used on numerous servers processing encrypted traffic, and authentication settings did not comply with DoIT requirements.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Review/assess network security risks for IDPS/HIPS coverage, update signatures/back up configurations, ensure authentication settings comply with DoIT requirements.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 7,
+        "title": "Malware protection on MSU workstations and servers needs improvement.",
+        "description": "No centralized management console existed for approximately 200 servers. Workstations had improper administrator rights, increasing malware risk. Computers were not updated with latest software patches or anti-malware versions, and users could disable security features.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [],
+        "recommendation": "Use centralized management console for anti-malware, restrict administrative privileges on workstations, keep computers updated for critical security patches, and update anti-malware software preventing users from disabling features.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 10,
+    "prior_findings_repeated": 3,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "The University concurred with all findings and recommendations. Management noted that several corrective actions were implemented during the audit or by specific dates in 2014 (e.g., system reconfigurations on June 27, 2014), with remaining enhancements planned for completion by the end of the fall 2014 semester or spring 2015 semester.",
+    "total_dollar_impact": 960057.0,
+    "extraction_notes": null
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-09T05:29:13.790131",
+  "content_hash": "91544a8be07620eb41dfb2a1e365090c21e00de9",
+  "duplicate_of": "5a8f4d14cc9d7245606744dd"
+}

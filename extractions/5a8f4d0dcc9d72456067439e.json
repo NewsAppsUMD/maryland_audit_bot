@@ -1,0 +1,86 @@
+{
+  "extraction": {
+    "agency_name": "Maryland Correctional Enterprises",
+    "parent_department": "Department of Public Safety and Correctional Services",
+    "report_date": "2015-07-15",
+    "audit_period_start": "2011-08-01",
+    "audit_period_end": "2015-02-19",
+    "findings": [
+      {
+        "number": 1,
+        "title": "Proper controls had not been established over mail receipts.",
+        "description": "MCE did not restrictively endorse checks or verify scanned marks in the remote deposit system as required. As of April 8, 2015, 110 checks totaling $215,290 were on hand that had not been endorsed or marked as scanned, and MCE failed to independently reconcile destroyed checks with records.",
+        "category": "cash_receipts",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 215290.0,
+            "context": "checks on hand processed using remote deposit that had not been restrictively endorsed"
+          },
+          {
+            "amount": 4700000.0,
+            "context": "mail receipts during fiscal year 2014"
+          }
+        ],
+        "recommendation": "a. restrictively endorse checks immediately upon receipt, b. ensure that checks scanned through the remote deposit system were properly marked as scanned, and c. independently reconcile the checks deposited at the bank and checks subsequently destroyed with the initial receipt log.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 2,
+        "title": "MCE lacked adequate controls to ensure that non-cash credit adjustments to customer accounts were authorized and proper.",
+        "description": "There was no independent supervisory review and approval of non-cash credit adjustments posted in MCE's automated system. A test of 10 adjustments totaling $2.8 million showed no evidence of post-approval review, though the adjustments themselves were proper.",
+        "category": "accounts_receivable",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 2800000.0,
+            "context": "non-cash credit adjustments selected for testing"
+          },
+          {
+            "amount": 3100000.0,
+            "context": "total non-cash credit adjustments processed during fiscal year 2014"
+          }
+        ],
+        "recommendation": "ensure that non-cash credit adjustments posted to the accounts receivable records are reviewed and approved by supervisory personnel and that this review is documented.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      },
+      {
+        "number": 3,
+        "title": "MCE lacked documentation that adjustments to its materials and supplies inventory records were reviewed and approved.",
+        "description": "MCE performed annual reconciliation but lacked documented supervisory review and approval for investigations and adjustments to inventory records. 39 adjustments totaling approximately $400,000 were made without documentation.",
+        "category": "information_systems_security",
+        "is_repeat": false,
+        "prior_finding_number": null,
+        "dollar_amounts": [
+          {
+            "amount": 400000.0,
+            "context": "adjustments in excess of $4,000 after completing fiscal year 2014 reconciliation"
+          },
+          {
+            "amount": 10300000.0,
+            "context": "materials and supplies inventory balance reported to DGS as of June 30, 2014"
+          }
+        ],
+        "recommendation": "ensure that investigations of inventory variances and the related inventory record adjustments are reviewed and approved, in writing, by appropriate supervisory personnel.",
+        "agency_agrees": true,
+        "agency_completion_date": null
+      }
+    ],
+    "prior_findings_count": 1,
+    "prior_findings_repeated": 0,
+    "criminal_referral": false,
+    "fraud_hotline_origin": false,
+    "agency_response_summary": "MCE agreed with all findings and recommendations. They implemented a policy to reconcile checks for Finding 1, began supervisory review documentation in the fourth quarter of fiscal year 2015 for Finding 2, and instituted written approval policies effective with the 2015 fiscal year-end inventory reconciliation for Finding 3.",
+    "total_dollar_impact": null,
+    "extraction_notes": "Report date derived from transmittal letter. Audit period derived from Scope section. Prior findings count based on singular 'finding' mentioned in Status of Preceding Findings section."
+  },
+  "validation_flags": [],
+  "model": "qwen3.5:35b",
+  "extracted_at": "2026-07-08T23:54:40.593372",
+  "content_hash": "ebf322515ef2899720c780c2fc519c9a194228ae",
+  "duplicate_of": "5a8f4d0dcc9d72456067439c"
+}
