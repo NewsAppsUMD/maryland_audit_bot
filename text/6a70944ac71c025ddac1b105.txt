@@ -1,0 +1,760 @@
+Title: Office of the Secretary of State
+Date: 2026-07-29
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/GetReport?fileId=6a70944ac71c025ddac1b105
+Extracted: 2026-08-10T11:28:26.053239
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Office of the Secretary of State
+July 2026
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative
+Audits has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Benjamin T. Brooks, Sr. Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Steven C. Johnson
+Senator Cheryl C. Kagan Delegate Mary A. Lehman
+Senator Clarence K. Lam, M.D. Delegate David H. Moon, Esq.
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Emily K. Shetty, Esq.
+Senator Bryan W. Simonaire Delegate Stephanie M. Smith, Esq.
+Senator Alonzo T. Washington Delegate Ryan S. Spiegel, Esq.
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.maryland.gov
+Website: ola.maryland.gov
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+July 29, 2026
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Office of the Secretary of
+State for the period beginning November 16, 2021 and ending November 30,
+2025. Under the Maryland Constitution and State statutes, the Office performs a
+variety of duties including attesting to the Governor’s signature on all public
+papers, registering and regulating charitable organizations, administering the
+Notary Public laws, administering the Address Confidentiality Program, and
+compiling and publishing the State’s administrative regulations.
+Our audit disclosed that the Office did not ensure that charitable organization
+information was accurately migrated from its legacy database system to its new
+automated system resulting in certain errors going undetected. The Office
+transitioned from the legacy database to Maryland OneStop in August 2022.
+According to the Office’s records, as of January 2026, there were 23,683 active
+Maryland registered organizations. Our test of information transferred for 20
+organizations disclosed that certain information for 3 organizations did not
+transfer properly and was not timely identified and corrected.
+Our audit also disclosed the Office did not ensure the vendor administering the
+Maryland Charity Campaign properly disbursed funds to designated charities.
+For example, the Office did not maintain an independent record of employee
+contributions and the amount to be paid to the respective charities to enable a
+verification. In addition, the Office did not obtain audits of the vendor’s financial
+statement records, as required. Furthermore, the Office did not verify the
+propriety of the administrative fees withheld by the vendor, which totaled
+approximately $304,000 for the 2024 campaign year.
+
+--- Page 4 ---
+Our audit also disclosed that the Office did not establish adequate controls over its
+collections to provide assurance all collections were subsequently deposited. For
+example, the Office did not verify that electronic payments processed by its third-
+party credit card vendor were properly credited to the State’s accounts. Similar
+conditions have been commented upon in one or more of our four preceding audit
+reports dating back to November 2011 but were not sufficiently corrected.
+Furthermore, our audit disclosed a cybersecurity-related finding. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted the finding from this audit report.
+Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(c), and using our
+professional judgment we have determined that the redacted finding falls under
+the referenced definition. The specifics of the cybersecurity finding were
+previously communicated to those parties responsible for acting on our
+recommendations.
+The Office’s response to this audit is included as an appendix to this report.
+Consistent with State law, we have redacted the elements of the Office’s response
+related to the cybersecurity audit finding. In accordance with State law, we
+reviewed the response and noted agreement to our findings and related
+recommendations and will notify the Office of any needed clarification to ensure
+the responses sufficiently address the related findings.
+We wish to acknowledge the cooperation extended to us during the audit by the
+Office.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Status of Findings From Preceding Audit Report 6
+Findings and Recommendations 7
+Charitable Organizations
+Finding 1 – The Office did not ensure that charitable organization 7
+information was accurately migrated from its legacy database to its new
+automated system resulting in certain errors going undetected.
+Maryland Charity Campaign
+Finding 2 – The Office did not ensure the vendor administering the 8
+Maryland Charity Campaign properly disbursed the funds to
+designated charities. In addition, the Office did not ensure the
+vendor obtained required audits and that administrative fees
+retained by the vendor were proper.
+Collections
+* Finding 3 – The Office did not establish adequate controls over 10
+collections.
+Audit Scope, Objectives, and Methodology 13
+Agency Response Appendix
+* Denotes item repeated in full or part from preceding audit report
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+The Office of the Secretary of State attests to the Governor's signature on all
+public papers and documents, and is the repository for the Governor's Executive
+Orders. The Office's many other duties and responsibilities include the following:
+ The Charities and Legal Services Division registers, regulates, and informs the
+public about charitable organizations (including foundations affiliated with
+State agencies) and professional solicitors; manages the Maryland Charity
+Campaign; administers the Notary Public laws and issues Notary Public
+commissions; prepares and processes extraditions and requisitions issued by
+the Governor; and registers public offering statements for condominiums and
+timeshares.
+ The Administration and Finance Division registers trademarks and
+administers certifications and apostilles for documents for international use.
+ The Division of State Documents compiles and publishes all of the State's
+administrative regulations in the Maryland Register and the Code of Maryland
+Regulations (COMAR).
+ The Safety and Support Services Division administers the Maryland Safe at
+Home Address Confidentiality Program, which is designed to protect victims
+of domestic violence by providing them with an alternate mailing address to
+prevent offenders from locating them.
+According to the State's records, the Office’s expenditures during fiscal year 2025
+totaled approximately $5.6 million (see Figure 1).
+4
+
+--- Page 7 ---
+Figure 1
+Secretary of State Positions, Expenditures, and
+Funding Sources
+Full-Time Equivalent Positions as of June 30, 2025
+Positions
+Filled 28
+Vacant 1
+Total 29
+Fiscal Year 2025 Expenditures
+Expenditures
+Salaries, Wages & Fringe Benefits $4,053,756
+Technical and Special Fees 499,001
+Operating Expenses 1,083,458
+Total $5,636,215
+Fiscal Year 2025 Funding Sources
+Funding
+General Fund $3,223,238
+Special Fund 2,186,022
+Reimbursable Fund 226,955
+Total $5,636,215
+Source: State financial and personnel records
+5
+
+--- Page 8 ---
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the three findings contained
+in our preceding audit report dated June 1, 2022. See Figure 2 for the results of
+our review.
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+The Office of the Secretary of State did not
+conduct independent reviews since August 2020
+to ensure that critical data obtained from
+Finding 1 Not repeated
+charitable organizations was accurately recorded,
+and that these organizations submitted the proper
+amount of fees.
+The Office did not investigate charitable
+organizations that failed to comply with the
+annual registration requirements of State law. In
+Finding 2 Not repeated
+addition, the Office did not monitor related fees
+incurred by delinquent organizations and refer
+accounts to the State's Central Collections Unit.
+Adequate controls were not established over cash Repeated
+Finding 3
+receipts. (Current Finding 3)
+6
+
+--- Page 9 ---
+Findings and Recommendations
+Charitable Organizations
+Background
+State law requires charitable organizations in Maryland to register with the
+Secretary of State and renew the registration annually within six months of the
+end of the organization’s fiscal year. State law also requires the organization to
+pay an annual registration fee of up to $300 depending on the total contributions
+received for the reporting year. Organizations that are late in meeting the
+requirements are assessed a fee of $25 per month, which accrues indefinitely until
+the organization achieves compliance.
+According to the Office’s records, as of January 20, 2026, there were 23,683
+active Maryland registered organizations. During fiscal year 2025, the Office
+recorded revenue from registration fees, renewal fees, and fines totaling
+approximately $2.9 million.
+Finding 1
+The Office did not ensure that charitable organization information was
+accurately migrated from its legacy database to its new automated system
+resulting in certain errors going undetected.
+Analysis
+The Office did not ensure that charitable organization information was accurately
+migrated from its legacy database to its new automated system resulting in certain
+errors going undetected. In August 2022, the Office transitioned from its legacy
+database to Maryland OneStop. The new system automated the registration
+application process that previously relied on manual forms being submitted and
+entered into the legacy database by Office employees. Maintaining accurate
+information is important because it is used to monitor organization compliance
+with reporting requirements, determine the amounts of annual registration fees,
+and is used by the general public to make informed decisions about charitable
+contributions.
+Our review disclosed that the Office could not document that it ensured the
+information was migrated properly. Specifically, we were advised by Office
+management that limited testing was performed when the new system was
+implemented but the Office could not document these efforts. Rather, the Office
+could only document corrections made to individual records as it became aware of
+errors.
+7
+
+--- Page 10 ---
+Our test of information transferred for 20 organizations disclosed that certain
+information for 3 organizations did not transfer properly and was not timely
+identified and corrected.1 For example, the Office ordered 1 organization to cease
+and desist2 soliciting in 2013 due to certain noncompliance issues but the
+organization was recorded as current in Maryland OneStop when the data was
+transferred. Another organization was recorded as non-current when they were
+exempt and should have been recorded as such. The aforementioned organization
+with a cease and desist order was corrected on the system in January 2025 (more
+than two years after the data migration). As of April 2026, the status for the
+aforementioned exempt organization and the third organization tested had still not
+been corrected.
+Recommendation 1
+We recommend that the Office verify that information was accurately
+migrated into Maryland OneStop, and correct any errors including those
+noted above.
+Maryland Charity Campaign
+We determined that a portion of Finding 2 related to “cybersecurity,” as defined
+by the State Finance and Procurement Article, Section 3.5-301(c) of the
+Annotated Code of Maryland, and therefore is subject to redaction from the
+publicly available audit report in accordance with the State Government Article 2-
+1224(i). Consequently, the specifics of a portion of the following finding,
+including the analysis, related recommendation(s), along with Office’s responses,
+have been redacted from this report copy.
+Finding 2
+The Office did not ensure that the vendor administering the Maryland
+Charity Campaign (MCC) properly disbursed the funds to designated
+charities. In addition, the Office did not ensure the vendor obtained
+required audits and that administrative fees retained by the vendor were
+proper.
+Analysis
+The Office did not ensure that the vendor administering the MCC properly
+disbursed the funds to designated charities. In addition, the Office did not ensure
+the vendor obtained required audits and that administrative fees retained by the
+1 Test items were selected as of April 14, 2026 based on registration status and type.
+2 As of April 2026, there were 11 organizations under a cease-and-desist order.
+8
+
+--- Page 11 ---
+vendor were proper. The MCC is a workplace giving program, overseen by the
+Office, that allows State employees and eligible retirees to donate to approved
+charities. According to the vendor’s records, donations totaled approximately
+$1.7 million between April 2024 and March 2025.
+ The Office did not verify that the MCC vendor disbursed the proper amount to
+charities. Specifically, the Office did not maintain an independent record of
+employee contributions and the amount to be paid to the respective charities to
+enable a verification to occur. In addition, the Office did not attempt to
+confirm with the charities that amounts reported as disbursed by the MCC
+vendor were received. We were able to confirm certain amounts reported by
+the MCC vendor were received by the charities but due to the lack of readily
+available records, we could not verify that all amounts contributed were
+properly disbursed.
+ The Office did not ensure the MCC vendor obtained required financial
+statement audits. The contract provided that the MCC vendor was to obtain
+audited financial statements certified by an independent accountant annually.
+Without this certification, the Office lacked assurance that the MCC’s records
+were accurate, including the accuracy of the administrative fee it retained.
+Subsequent to our request, the Office obtained copies of these audits.
+ Redacted cybersecurity-related finding.
+ The Office did not verify the propriety of the administrative fee withheld by
+the vendor, which totaled approximately $242,000, $229,000, and $304,000
+during the 2022, 2023, and 2024 campaign years, respectively. The contract
+with the MCC vendor provided that they could retain up to 20 percent of the
+prior year pledges to cover actual expenditures in accordance with a budget
+submitted to the Office. Our review disclosed that the Office did not obtain
+documentation to support the expenses reported by the vendor to ensure the
+fees retained were proper.3 In this regard, our review disclosed that $59,760
+of the expenses reported for the 2024 campaign were estimated rather than
+actual expenses which was not consistent with the contract.
+3 While we noted that certain information was included in the audited financial statements, as
+noted above these statements were not obtained to verify the fee and our review disclosed that the
+information in the audited statements were not sufficiently detailed to verify the fees.
+9
+
+--- Page 12 ---
+Recommendation 2
+We recommend that the Office
+a. ensure that amounts contributed by employees are properly disbursed to
+the charities,
+b. obtain and review required audits and take appropriate corrective action
+for any issues identified, and
+c. verify the propriety of the administrative fee withheld by the vendor and
+recover any amounts that are not supported.
+Collections
+Finding 3
+The Office did not establish adequate controls over collections.
+Analysis
+The Office did not establish adequate controls over collections. According to
+State records, the Office deposited approximately $15.5 million during the period
+from November 16, 2021 to November 30, 2025, which included electronic
+collections (such as credit card payments) totaling $9.9 million and check and
+money orders totaling $5.6 million. These collections primarily related to
+charitable registration and enforcement fees, document certification fees, and
+notary commissions.
+ The Office did not verify that electronic payments processed by its third-party
+credit card vendor were properly credited to one of the multiple bank accounts
+used for the various types of collections received by its units. Our review
+disclosed that the Office did not reconcile reported electronic collections to
+the State’s bank accounts to ensure the funds were received. Our test of credit
+card transactions for 21 arbitrarily selected days totaling approximately
+$510,000, disclosed that the Office could not provide certain bank statements
+to support that $374,000 in collections were credited to one of the State’s bank
+accounts.
+ Collections received by mail (including checks and money orders) were not
+always restrictively endorsed and recorded upon receipt and were not properly
+safeguarded. Specifically, Office management advised us that checks received
+by mail are recorded and endorsed throughout the day as time permits. In
+addition, these checks were not properly safeguarded as we observed several
+instances when unendorsed and unrecorded checks were left in an unsecured
+bin accessible to Office personnel. Furthermore, the Office could not readily
+10
+
+--- Page 13 ---
+provide a listing of checks received by mail since they were recorded in the
+same manner as walk-in checks.
+ The employee who verified that recorded collections were deposited also
+prepared the deposit and could modify the initial record of collections. In
+addition, this employee could void transactions without subsequent
+independent approval. Based on the Office’s records, 1,011 voids were
+processed during the audit period. The Office could not readily identify the
+voids processed by this employee but during the prior audit this employee
+processed 88 percent of the voided transactions. Our test of 11 of the voids4
+totaling approximately $51,000, including 10 by this employee, disclosed 4
+voids totaling $775 that were not supported. For example, the Office did not
+retain documentation for one void that reduced a deposit by $250 and Office
+personnel could not justify the void from the available information.
+ The Office did not ensure that collections were deposited within 1 working
+day of receipt, as required. Our test of collections from 21 arbitrarily selected
+days totaling $174,000 disclosed that collections received on 5 days totaling
+$39,000 were deposited between 8 and 15 days after receipt.
+Under these conditions, errors or other discrepancies could occur without timely
+detection. The Comptroller of Maryland’s Accounting Policies and Procedures
+Manual requires checks to be immediately endorsed and recorded upon receipt
+and adequately safeguarded. The Manual also requires that deposit verifications
+and void processing be performed by an employee independent of the cash
+receipts function and that the voids be independently reviewed and approved.
+Finally, the Manual generally requires that collections be deposited by the next
+business day.
+Similar conditions regarding the lack of independent deposit verifications and
+review of voids were commented upon in our four preceding audit reports dating
+back to 2011, and the lack of a verification that credit card receipts were properly
+credited to the State’s bank account was commented upon in our three preceding
+audit reports dating back to 2015. In response to our prior report, the Office
+indicated it would implement proper procedures and controls by June 2022. The
+Office’s management advised us that they did not implement proper procedures
+and the conditions were not sufficiently corrected, primarily due to staffing
+challenges and changes in systems during the audit period.
+4 Voided transactions were selected for testing based on either materiality or whether they were
+processed by the employee with excessive control.
+11
+
+--- Page 14 ---
+Recommendation 3
+We recommend that the Office
+a. ensure that an employee independent of the collection process verifies
+that all collections, including credit card transactions, are subsequently
+deposited/credited to the State’s bank account (repeat);
+b. record and restrictively endorse checks immediately upon receipt and
+ensure checks are safeguarded prior to deposit;
+c. independently verify that voided transactions are proper and supported
+(repeat) including those noted above; and
+d. ensure cash receipts are deposited timely.
+We advised the Office on accomplishing the necessary separation of duties
+using existing personnel.
+12
+
+--- Page 15 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Office of the Secretary of
+State for the period beginning November 16, 2021 and ending November 30,
+2025. The audit was conducted in accordance with generally accepted
+government auditing standards. Those standards require that we plan and perform
+the audit to obtain sufficient, appropriate evidence to provide a reasonable basis
+for our findings and conclusions based on our audit objectives. We believe that
+the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine the Office’s
+financial transactions, records, and internal control, and to evaluate its compliance
+with applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included charitable organizations, cash receipts,
+information systems security, and the Maryland Safe at Home Address
+Confidentiality Program. We also determined the status of the findings contained
+in our preceding audit report.
+Our audit did not include a review of certain support services provided to the
+Office by the Executive Department – Governor. These support services (such as
+maintenance of accounting records and related fiscal functions) are included
+within the scope of our audit of the Executive Department – Governor.
+Our assessment of internal controls was based on agency procedures and controls
+in place at the time of our fieldwork. Our tests of transactions and other auditing
+procedures were generally focused on the transactions occurring during our audit
+period of November 16, 2021 to November 30, 2025, but may include
+transactions before or after this period as we considered necessary to achieve our
+audit objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, test of transactions,
+and to the extent practicable, observations of the Office’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+13
+
+--- Page 16 ---
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Financial Management Information System (such as revenue and expenditure
+data) and the State’s Central Payroll Bureau (payroll data), as well as from the
+contractor administering the State’s Corporate Purchasing Card Program (credit
+card activity). The extracts are performed as part of ongoing internal processes
+established by the Office of Legislative Audits and were subject to various tests to
+determine data reliability. We determined that the data extracted from these
+sources were sufficiently reliable for the purposes the data were used during this
+audit.
+We also extracted data from the Office’s automated systems used to record
+information relating to charitable organizations and notarial commissions for the
+purpose of testing the Office’s procedures for ensuring compliance with certain
+requirements in the law applicable to charitable organizations and notarial
+commissions. We performed various tests of the relevant data and determined
+that the data were sufficiently reliable for the purposes the data were used during
+the audit. Finally, we performed other auditing procedures that we considered
+necessary to achieve our audit objectives. The reliability of data used in this
+report for background or informational purposes was not assessed.
+The Office’s management is responsible for establishing and maintaining
+effective internal control. Internal control is a process designed to provide
+reasonable assurance that objectives pertaining to the reliability of financial
+records; effectiveness and efficiency of operations, including safeguarding of
+assets; and compliance with applicable laws, rules, and regulations are achieved.
+As provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to the Office, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+14
+
+--- Page 17 ---
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings relating to conditions that we consider to be
+significant deficiencies in the design or operation of internal control that could
+adversely affect the Office’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes a finding regarding a significant instance of
+noncompliance with applicable laws, rules, and regulations. Other less significant
+findings were communicated to the Office that did not warrant inclusion in this
+report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(c), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation”. Based on that definition, and
+in our professional judgment, we concluded that a certain finding in this report
+falls under that definition. Consequently, for the publicly available audit report
+all specifics as to the nature of this cybersecurity finding and required corrective
+actions have been redacted. We have determined that such aforementioned
+practices, and government auditing standards, support the redaction of this
+information from the public audit report. The specifics of the cybersecurity
+finding have been communicated to the Office and those parties responsible for
+acting on our recommendations in an unredacted audit report.
+The Office’s response to our findings and recommendations is included as an
+appendix to this report. Depending on the version of the audit report, responses to
+any cybersecurity findings may be redacted in accordance with State law. As
+prescribed in the State Government Article, Section 2-1224 of the Annotated
+Code of Maryland, we will advise the Office regarding the results of our review
+of its response.
+15
+
+--- Page 18 ---
+APPENDIX
+
+--- Page 20 ---
+Office of the Secretary of State
+Agency Response Form
+Charitable Organizations
+Finding 1
+The Office did not ensure that charitable organization information was
+accurately migrated from its legacy database to its new automated system
+resulting in certain errors going undetected.
+We recommend that the Office verify that information was accurately
+migrated into Maryland OneStop, and correct any errors including those
+noted above.
+Agency Response
+Analysis
+Please provide The Office of the Secretary of State (OSOS) is committed to ensuring that its
+additional comments as public registry remains a reliable tool for Marylanders to cross reference
+deemed necessary. charitable organizations registered in the state through Maryland OneStop.
+OSOS’ transition from its legacy database to OneStop in 2022 was overseen by
+the previous administration, which auditors discovered did not fully transfer
+past compliance information to the new system or document testing efforts to
+verify the accuracy of information at the time of the transition. Since this issue
+was identified, OSOS has corrected every inconsistency named in this audit
+finding, and will use a systemic approach to review the over 29,000 entities
+transferred during the initial migration, with a goal to ensure any additional
+errors are identified and corrected by the end of 2026.
+Recommendation 1 Agree Estimated Completion Date: December 31,
+2026
+Please provide details of As of July 2026, OSOS has reviewed all test cases identified in the audit
+corrective action or finding, including the organization with a cease and desist order, to ensure they
+explain disagreement. have been updated to correctly reflect their standing with OSOS in the public
+registry. Additionally, all 11 organizations under a cease and desist order as of
+April 14, 2026 have been manually reviewed to ensure each one is correctly
+labeled in the registry. In lieu of testing documentation available during the
+prior administration, OSOS will perform a comprehensive and systemic review
+of charitable organizations listed in the public registry to correct any other
+possible inconsistencies, with plans to complete this review by the end of 2026.
+Page 1 of 6
+
+--- Page 21 ---
+Office of the Secretary of State
+Agency Response Form
+Maryland Charity Campaign
+The Office of Legislative Audits (OLA) has determined that a portion of Finding
+2 related to “cybersecurity,” as defined by the State Finance and Procurement
+Article, Section 3.5-301(c) of the Annotated Code of Maryland, and therefore is
+subject to redaction from the publicly available audit report in accordance with
+the State Government Article 2-1224(i). Consequently, the specifics of a portion
+of the following finding, including the analysis, related recommendations, along
+with the Office’s responses, have been redacted from this report copy.
+Finding 2
+The Office did not ensure that the vendor administering the Maryland
+Charity Campaign (MCC) properly disbursed the funds to designated
+charities. In addition, the Office did not ensure the vendor obtained
+required audits and that administrative fees retained by the vendor were
+proper.
+We recommend that the Office
+a. ensure that amounts contributed by employees are properly disbursed to
+the charities,
+b. obtain and review required audits and take appropriate corrective action
+for any issues identified, and
+c. verify the propriety of the administrative fee withheld by the vendor and
+recover any amounts that are not supported.
+Agency Response
+Analysis
+Please provide While OSOS manages the state’s contract with the vendor responsible for
+additional comments as administering the Maryland Charity Campaign (MCC) as the state entity
+deemed necessary. responsible for overseeing the Campaign, monitoring the collection of
+employee contributions and disbursement to participating charities is managed
+by the Office of the Comptroller and the MCC vendor directly. In this regard,
+the Comptroller 1) collects and aggregates pledges from state employees and
+retirees that participate in the program through voluntary payroll deductions, 2)
+retains a record of the total amount due to each charity, and 3) transfers these
+funds to the vendor for distribution to each charity in accordance with the
+Comptroller’s records.
+To protect the privacy of employees and retirees, individual contributions are
+kept confidential, and OSOS does not access that information. To ensure the
+Page 2 of 6
+
+--- Page 22 ---
+Office of the Secretary of State
+Agency Response Form
+propriety of the vendor’s disbursements to charities and retention of a portion
+of these funds in accordance with its contract, OSOS receives a copy of the
+Comptroller’s records from the vendor. In addition, OSOS has received copies
+of regular independent financial audits from the vendor as required in the
+contract to ensure the vendors records and retained fees are proper.
+Nonetheless, OSOS recognizes that its verification controls around the
+Campaign’s vendor disbursements can always be improved, and will ensure
+action is promptly taken to allow for stronger verification of contributions.
+The Maryland Charity Campaign (MCC) is a reliable and easy way for
+Maryland State Employees and retirees to pledge money to the vetted charities
+of their choice, and for charities to gather and monitor donations from state
+employees and retirees. Notably, neither the Office of the Comptroller nor
+participating charities have expressed any discrepancy that would indicate any
+improper payments were made by the vendor, underscoring the efficacy of
+controls currently in place for the MCC.
+Recommendation 2a Agree Estimated Completion Date: June 2027
+Please provide details of To protect the privacy of employees and retirees that participate in the
+corrective action or Maryland Charity Campaign, information about individual contributions is
+explain disagreement. retained solely by the Office of the Comptroller, who provides aggregate
+information to the MCC vendor to ensure amounts are distributed to the
+charities. Moving forward, OSOS will obtain copies of these records directly
+from the Comptroller to ensure it can independently cross-reference and verify
+documentation provided by the Comptroller to the vendor.
+OSOS has no indication that the employee’s pledges are not reaching the
+intended charities. While agency operating procedures can be changed
+promptly, because the MCC operates in an 18-month cycle from beginning to
+end, OSOS will be able to verify and audit by June 2027.
+Recommendation 2b Agree Estimated Completion Date: Completed,
+June 2026
+Please provide details of As required by the contract, the vendor has retained regular independent
+corrective action or financial audits and proactively shared them with OSOS. The audited financial
+explain disagreement. statements were subsequently provided by email to OLA on June 17th, as OLA
+acknowledges in the finding.
+Recommendation 2c Agree Estimated Completion Date: June 2027
+Please provide details of OSOS does verify the propriety of the administrative fee withheld by the
+corrective action or vendor, which has averaged 12%-15% of the pledged amounts, and has never
+explain disagreement. exceeded the 20% cap provided under the contract. Supporting documentation
+from the Comptroller and independent audits have consistently affirmed the
+propriety of the vendor’s retained fees. Nonetheless, OSOS will use records
+independently obtained to verify the propriety of any administrative fees
+charged by the vendor with the Comptroller to ensure that fee amounts remain
+Page 3 of 6
+
+--- Page 23 ---
+Office of the Secretary of State
+Agency Response Form
+proper going forward. OSOS has no indication that the administrative fees have
+been unsupported or excessive. While agency operating procedures can be
+changed promptly, because the MCC operates in an 18-month cycle from
+beginning to end, OSOS will be able to verify and audit by June 2027.
+Page 4 of 6
+
+--- Page 24 ---
+Office of the Secretary of State
+Agency Response Form
+Collections
+Finding 3
+The Office did not establish adequate controls over collections.
+We recommend that the Office
+a. ensure that an employee independent of the collection process verifies
+that all collections, including credit card transactions, are subsequently
+deposited/credited to the State’s bank account (repeat);
+b. record and restrictively endorse checks immediately upon receipt and
+ensure checks are safeguarded prior to deposit;
+c. independently verify that voided transactions are proper and supported
+(repeat) including those noted above; and
+d. ensure cash receipts are deposited timely.
+We advised the Office on accomplishing the necessary separation of duties
+using existing personnel.
+Agency Response
+Analysis
+Please provide OSOS possesses the capacity to monitor and verify the status of all deposited
+additional comments as collections through the review and monitoring of bank statements (check
+deemed necessary. deposits) and online accounts (credit card deposits). All funds are
+comprehensively accounted for, and multiple verification protocols have been
+established to guarantee that all monies transmitted to the office are accurately
+recorded and align precisely with actual deposits.
+During the audit period, the Administration and Finance Division did not have
+the staff or systems in place to establish adequate controls over collections.
+Going forward, the Division will have in place two staff members (the Director
+and a recently hired assistant) who will be able to independently monitor and
+verify collections of the staff who handle collections.
+Recommendation 3a Agree Estimated Completion Date: August 31,
+2026
+Please provide details of After the audit period concluded, OSOS obtained bank statements to verify that
+corrective action or all of the $374,000 in collections identified in this finding were properly
+explain disagreement. credited to the State’s bank accounts and is fully accounted for at this time.
+The Director of Administration and Finance Division of the OSOS will
+independently verify deposits and ensure transactions match with a full
+justification for reviewability.
+Page 5 of 6
+
+--- Page 25 ---
+Office of the Secretary of State
+Agency Response Form
+Recommendation 3b Agree Estimated Completion Date: August 31,
+2026
+Please provide details of The Director of Administration and Finance Division of the OSOS will
+corrective action or implement new standard operating procedures regarding check handling
+explain disagreement. and processing to ensure that checks are recorded and restrictively
+endorsed immediately upon receipt and ensure checks are properly
+safeguarded prior to deposit.
+The Division will be ordering an endorsement stamp that has a
+restrictive endorsement that would not allow further presentment of
+checks and order paper to any party other than the Comptroller.
+Unprocessed checks are being safeguarded by locking them in a safe
+onsite until they can be processed the next day.
+Recommendation 3c Agree Estimated Completion Date: August 31,
+2026
+Please provide details of The Director of Administration and Finance Division of the OSOS will ensure
+corrective action or that standard operating procedures for processing chargebacks and voided
+explain disagreement. transactions are proper and supported by documentation.
+Recommendation 3d Agree Estimated Completion Date: August 31,
+2026
+Please provide details of The Director of Administration and Finance Division of the OSOS will ensure
+corrective action or that cash receipts are deposited timely. OSOS notes that checks, money orders,
+explain disagreement. and debit and credit cards are the only permissible tender for OSOS services.
+No cash transactions are allowed.
+Page 6 of 6
+
+--- Page 26 ---
+A T
+UDIT EAM
+Robert A. Wells Jr., CPA
+Audit Manager
+Edward O. Kendall, CISA
+Principal Information Systems Auditor
+Thea A. Chimento, CFE
+Senior Auditor
+Emily M. Hofstaedter
+Chau D. Mai
+Staff Auditors
+Neha S. Tirkey
+Information Systems Staff Auditor
