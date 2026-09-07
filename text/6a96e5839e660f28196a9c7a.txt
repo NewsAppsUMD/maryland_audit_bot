@@ -1,0 +1,705 @@
+Title: Maryland Transportation Authority
+Date: 2026-08-27
+Type: Fiscal Compliance
+URL: https://www.ola.state.md.us/umbraco/Api/ReportFile/ViewReport?fileId=6a96e5839e660f28196a9c7a
+Extracted: 2026-09-07T11:18:04.278848
+--------------------------------------------------------------------------------
+
+--- Page 1 ---
+Audit Report
+Maryland Transportation Authority
+August 2026
+Public Notice
+In compliance with the requirements of the State Government Article Section
+2-1224(i), of the Annotated Code of Maryland, the Office of Legislative
+Audits has redacted cybersecurity findings and related auditee responses
+from this public report.
+OFFICE OF LEGISLATIVE AUDITS
+DEPARTMENT OF LEGISLATIVE SERVICES
+MARYLAND GENERAL ASSEMBLY
+
+--- Page 2 ---
+Joint Audit and Evaluation Committee
+Senator Shelly L. Hettleman (Senate Chair) Delegate Jared Solomon (House Chair)
+Senator Benjamin T. Brooks, Sr. Delegate Steven J. Arentz
+Senator Paul D. Corderman Delegate Andrea Fletcher Harrison
+Senator Katie Fry Hester Delegate Steven C. Johnson
+Senator Cheryl C. Kagan Delegate Mary A. Lehman
+Senator Clarence K. Lam, M.D. Delegate David H. Moon, Esq.
+Senator Cory V. McCray Delegate Julie Palakovich Carr
+Senator Justin D. Ready Delegate Emily K. Shetty, Esq.
+Senator Bryan W. Simonaire Delegate Stephanie M. Smith, Esq.
+Senator Alonzo T. Washington Delegate Ryan S. Spiegel, Esq.
+To Obtain Further Information
+Office of Legislative Audits
+The Warehouse at Camden Yards
+351 West Camden Street, Suite 400
+Baltimore, Maryland 21201
+Phone: 410-946-5900
+Maryland Relay: 711
+TTY: 410-946-5401 ꞏ 301-970-5401
+E-mail: webmaster@ola.maryland.gov
+Website: ola.maryland.gov
+To Report Fraud
+The Office of Legislative Audits operates a Fraud Hotline to report fraud, waste, or abuse involving State
+of Maryland government resources. Reports of fraud, waste, or abuse may be communicated anonymously
+by a toll-free call to 1-877-FRAUD-11, by mail to the Fraud Hotline, c/o Office of Legislative Audits, or
+through the Office’s website.
+Nondiscrimination Statement
+The Department of Legislative Services does not discriminate on the basis of age, ancestry, color, creed,
+marital status, national origin, race, religion, gender, gender identity, sexual orientation, or disability in the
+admission or access to its programs, services, or activities. The Department’s Information Officer has been
+designated to coordinate compliance with the nondiscrimination requirements contained in Section 35.107
+of the United States Department of Justice Regulations. Requests for assistance should be directed to the
+Information Officer at 410-946-5400 or 410-970-5400.
+
+--- Page 3 ---
+August 27, 2026
+Senator Shelly L. Hettleman, Senate Chair, Joint Audit and Evaluation Committee
+Delegate Jared Solomon, House Chair, Joint Audit and Evaluation Committee
+Members of Joint Audit and Evaluation Committee
+Annapolis, Maryland
+Ladies and Gentlemen:
+We have conducted a fiscal compliance audit of the Maryland Transportation
+Authority (MDTA) for the period beginning March 5, 2020 and ending May 31,
+2025. Due to the collapse of the Francis Scott Key Bridge on March 26, 2024, we
+delayed the start of our audit from its planned due date in March 2024 to April
+2025. MDTA is responsible for the supervision, financing, construction,
+operation, maintenance, and repair of the State’s toll facilities.
+Our audit disclosed that MDTA did not take available actions to collect unpaid
+tolls and penalties incurred by out-of-state vehicles, which totaled $818.1 million
+as of January 2026. According to MDTA records, approximately $668.7 million
+(82 percent) was outstanding for more than one year, including $386.3 million
+that was outstanding more than three years. For example, MDTA did not execute
+reciprocity agreements with other states as allowed by State law which could
+include provisions for these states to suspend the out-of-state motorists’ vehicle
+registration if the tolls are not paid.
+Furthermore, our audit disclosed a cybersecurity-related finding. However, in
+accordance with the State Government Article, Section 2-1224(i) of the
+Annotated Code of Maryland, we have redacted the finding from this audit report.
+Specifically, State law requires the Office of Legislative Audits to redact
+cybersecurity findings in a manner consistent with auditing best practices before
+the report is made available to the public. The term “cybersecurity” is defined in
+the State Finance and Procurement Article, Section 3.5-301(c), and using our
+professional judgment we have determined that the redacted finding falls under
+the referenced definition. The specifics of the cybersecurity finding were
+
+--- Page 4 ---
+previously communicated to those parties responsible for acting on our
+recommendations.
+The Maryland Department of Transportation’s (MDOT) response to this audit, on
+behalf of MDTA, is included as an appendix to this report. Consistent with State
+law, we have redacted the elements of MDOT’s response related to the
+cybersecurity audit finding. In accordance with State law, we have reviewed the
+response and, while MDOT generally agrees with the recommendations in this
+report, we identified certain instances in which statements in the response
+disagree or appear to be inconsistent with a report finding and recommendation.
+In each instance we reviewed and reassessed our audit documentation, and
+reaffirmed the validity of our finding. In accordance with generally accepted
+government auditing standards, we have included “auditor’s comments” within
+MDOT’s response to explain our position. We will advise the Joint Audit and
+Evaluation Committee of any outstanding issues that we cannot resolve with
+MDOT.
+We wish to acknowledge the cooperation extended to us during the audit by
+MDTA.
+Respectfully submitted,
+Brian S. Tanen
+Brian S. Tanen, CPA, CFE
+Legislative Auditor
+2
+
+--- Page 5 ---
+Table of Contents
+Background Information 4
+Agency Responsibilities 4
+Financial Statement Audits 5
+Special Review - Data Analysis of Electronic Tolling and Customer 5
+Service Processes
+Francis Scott Key Bridge Collapse 5
+Status of Findings from Preceding Audit Report 7
+Findings and Recommendations 8
+Out-of-State Toll Collections
+Finding 1 – The Maryland Transportation Authority (MDTA) did not 8
+take available efforts to collect unpaid tolls and penalties incurred by
+out-of-state vehicles, which totaled $818.1 million as of January 2026.
+Information Systems Security and Control
+Finding 2 – Redacted cybersecurity-related finding. 9
+Audit Scope, Objectives, and Methodology 10
+Agency Response Appendix
+3
+
+--- Page 6 ---
+Background Information
+Agency Responsibilities
+Title 4 of the Transportation Article, Annotated Code of Maryland, establishes the
+Maryland Transportation Authority (MDTA) as an agency of the State, to act on
+behalf of the Maryland Department of Transportation with regard to the
+supervision, financing, construction, operation, maintenance, and repair of the
+State’s toll facilities. The governing board of MDTA consists of eight members
+who are appointed by the Governor with the advice and consent of the Senate.
+The Secretary of Transportation serves as the Chairman.
+According to State records, during fiscal year 2025, MDTA’s expenditures totaled
+approximately $1.1 billion (see Figure 1), including $524.6 million for capital
+programs to construct, maintain and repair its facilities. According to its audited
+financial statements, MDTA’s operating revenues totaled $887.5 million
+(including $732.2 million in toll revenue) during fiscal year 2025. During the
+period June 30, 2021 through June 30, 2025, MDTA had vacancy rates that
+ranged from 10 percent to 20 percent.
+Figure 1
+MDTA Positions, Expenditures, and Funding Sources
+Full-Time Equivalent Positions as of June 30, 2025
+Positions
+Filled 1,523
+Vacant 174
+Total 1,697
+Fiscal Year 2025 Expenditures
+Expenditures
+Salaries, Wages and Fringe Benefits $ 243,056,871
+Technical and Special Fees 107,500
+Operating Expenses 885,027,787
+Total $1,128,192,158
+Fiscal Year 2025 Funding Sources
+Funding
+Non-Budgeted Fund $1,128,192,158
+Total $1,128,192,158
+Source: State financial and personnel records
+4
+
+--- Page 7 ---
+Financial Statement Audits
+MDTA engaged an independent accounting firm to perform audits of its financial
+statements for the fiscal years ended June 30, 2021, 2022, 2023, 2024, and 2025.
+In the related audit reports, the firm stated that MDTA’s financial statements
+presented fairly, in all material respects, the respective financial position of the
+business type activities of the MDTA and its changes in financial position and
+cash flows for the years then ended in accordance with accounting principles
+generally accepted in the United States of America.
+Special Review - Data Analysis of Electronic Tolling and
+Customer Service Processes
+On March 22, 2023, we issued a report on our Special Review - Data Analysis of
+Electronic Tolling and Customer Services Processes. The report identified
+approximately $435,000 in potentially improper toll charges to 10,474 Thomas J.
+Hatem Memorial Bridge discount plan customers and approximately $645,000
+relating to 82,847 customers that were potentially charged more than once for a
+single trip through a toll facility.
+We reviewed system controls implemented in response to this report and
+performed various tests of those controls. Our audit did not identify any
+conditions that warranted inclusion in this report. In addition, our audit disclosed
+that between September 2023 and April 2024 MDTA issued credits to 12,932
+Thomas J. Hatem Bridge discount plan customers totaling $637,000 and $695,000
+for duplicate tolls charged to customers.
+Francis Scott Key Bridge Collapse
+On March 26, 2024, a container ship collided with the Francis Scott Key Bridge,
+resulting in the bridge’s collapse. In April 2024, MDTA awarded a $50.3 million
+emergency contract for the removal, disposal, and cleanup of debris from the
+collapsed portion of the bridge. In March 2024, prior to awarding a design-build
+contractor, MDTA made a preliminary estimate to replace the bridge between
+$1.7 billion to $1.9 billion with a completion date in 2028. MDTA advised us
+that this estimate was made for the purposes of securing federal funding for the
+new bridge.
+In August 2024, MDTA approved the award of a design-build contract for $73
+million. Between January and July 2025, MDTA awarded three work
+authorizations totaling approximately $98 million on the contract for field and
+subsurface studies, purchasing materials, and conducting tests to ensure that the
+5
+
+--- Page 8 ---
+design is structurally feasible. Between July and November 2025, MDTA
+awarded five work authorizations totaling approximately $355.3 million for the
+demolition of the remaining bridge, certain materials (such as, platforms for
+bridge construction to support cranes and drilling machines), and the installation
+of these materials.
+In November 2025, design and preliminary engineering activities were
+approximately 70 percent complete, and MDTA announced that the total
+estimated cost to replace the bridge had increased to between $4.3 billion to $5.2
+billion and the estimated completion date was extended an additional two years to
+calendar year 2030. MDTA management advised that the increase and extended
+timeline was primarily due to increases in the materials cost, a change in the
+width and height of the new bridge, and the addition of a robust pier protection
+system to help reduce the likelihood of a similar incident. In addition, the revised
+estimate included $923.5 million in contingency costs which were not included in
+the original estimate.
+In January 2026, MDTA reported to the Maryland General Assembly’s Senate
+Budget and Taxation Committee and the House Appropriations Committee that it
+had expended approximately $238 million on the project as of November 2025.
+This amount included the cost to remove the debris of the bridge collapse,
+payments for the design-build contractor, and other related costs (such as
+construction management and inspection services).
+6
+
+--- Page 9 ---
+Status of Findings From Preceding Audit Report
+Our audit included a review to determine the status of the two findings contained
+in our preceding audit report dated September 13, 2021. See Figure 2 for the
+results of our review.
+Figure 2
+Status of Preceding Findings
+Preceding Implementation
+Finding Description
+Finding Status
+MDTA actions did not determine the impact of
+electronic toll collection system issues on its customers
+Finding 1 Not repeated
+and identify and correct certain related customer
+overbillings.
+Finding 2 Redacted cybersecurity-related finding.1 Status Redacted1
+1 The finding description as well as the implementation status of this cybersecurity-related finding
+has been redacted for the publicly available report in accordance with State Government Article,
+Section 2-1224(i) of the Annotated Code of Maryland.
+7
+
+--- Page 10 ---
+Findings and Recommendations
+Out-of-State Toll Collections
+Finding 1
+The Maryland Transportation Authority (MDTA) did not take available
+actions to collect unpaid tolls and penalties incurred by out-of-state vehicles,
+which totaled $818.1 million as of January 2026.
+Analysis
+MDTA did not take available actions to collect unpaid tolls and penalties incurred
+by out-of-state vehicles. As of January 2026, unpaid tolls and penalties incurred
+by out-of-state vehicles totaled $818.1 million (see Figure 3). According to
+MDTA records, approximately $668.7 million (82 percent) was outstanding for
+more than year, including
+$386.3 million that was
+Figure 3
+outstanding more than three
+Out-of-State Vehicle Tolls and Penalties
+years. Our review disclosed
+Unpaid as of January 2026
+that although MDTA sent the
+registered owner of the out-of- (amounts in millions)
+state vehicle a notice of the toll
+State Tolls Penalties Total
+and assessed penalties when the
+Virginia $ 51.9 $182.8 $234.7
+tolls were unpaid,2 it did not
+Pennsylvania 26.1 71.4 97.5
+take available action to collect
+New Jersey 26.5 54.2 80.7
+the amounts due.
+Florida 24.8 38.2 63.0
+North Carolina 19.1 39.5 58.6
+Specifically, as of February
+Other States 82.5 201.1 283.6
+2026, MDTA did not execute
+Total $230.9 $587.2 $818.1
+reciprocity agreements with
+other states as allowed by State
+So urce: MDTA records
+law which could include
+provisions for these states to suspend the out-of-state motorists’ vehicle
+registration if the tolls are not paid. In addition, MDTA did not contract with a
+third-party collection agency to help collect the unpaid tolls and civil penalties or
+request approval from the Secretary of the Department of Budget and
+Management (DBM) to refer these accounts to the Central Collection Unit (CCU).
+State law allows MDTA to refer out-of-state motorists to CCU only if it obtains
+approval from the Secretary of DBM.
+2 A $25 penalty is assessed for each video toll transaction not paid by the specified due date,
+which is generally 45 days after the date of the invoice.
+8
+
+--- Page 11 ---
+Concerns with unpaid out-of-state tolls and penalties were raised in the April
+2024 Joint Chairmen’s report. In January 2025, MDTA responded that it was
+optimistic about the possibility of entering into its first reciprocity agreement,
+which could include provisions to suspend the out-of-state motorists’ vehicle
+registration if the tolls were not paid. As of July 2026, MDTA was still working
+to finalize that agreement. In addition, MDTA indicated it was developing a
+request for proposal to hire a third-party collection agency. However, as of
+February 2026, MDTA had not entered into agreements with any other states and
+had not drafted the request for proposal.
+Recommendation 1
+We recommend that MDTA take available actions to help enforce collection
+of unpaid tolls and penalties due from out-of-state motorists, including
+a. executing reciprocity agreements with other states as allowed by State
+law,
+b. contracting with a third-party collection agency, and
+c. requesting approval from DBM to refer unpaid tolls to CCU.
+Information Systems Security and Control
+We determined that Finding 2 related to “cybersecurity,” as defined by the State
+Finance and Procurement Article, Section 3.5-301(c) of the Annotated Code of
+Maryland, and therefore is subject to redaction from the publicly available audit
+report in accordance with the State Government Article 2-1224(i). Consequently,
+the specifics of the following finding, including the analysis, related
+recommendations, along with MDOT’s responses, have been redacted from this
+report copy.
+Finding 2
+Redacted cybersecurity-related finding.
+9
+
+--- Page 12 ---
+Audit Scope, Objectives, and Methodology
+We have conducted a fiscal compliance audit of the Maryland Transportation
+Authority (MDTA) for the period beginning March 5, 2020 and ending May 31,
+2025. Due to the collapse of the Francis Scott Key Bridge on March 26, 2024, we
+delayed the start of our audit from its planned due date in March 2024 to April
+2025. The audit was conducted in accordance with generally accepted
+government auditing standards. Those standards require that we plan and perform
+the audit to obtain sufficient, appropriate evidence to provide a reasonable basis
+for our findings and conclusions based on our audit objectives. We believe that
+the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+As prescribed by the State Government Article, Section 2-1221 of the Annotated
+Code of Maryland, the objectives of this audit were to examine MDTA’s financial
+transactions, records, and internal control, and to evaluate its compliance with
+applicable State laws, rules, and regulations.
+In planning and conducting our audit, we focused on the major financial-related
+areas of operations based on assessments of significance and risk. The areas
+addressed by the audit included procurements and disbursements for capital
+projects and operating expenditures, equipment, corporate purchasing card,
+electronic tolling activities, certain cash receipts and payroll activities, and
+information systems security and control. We also determined the status of the
+findings contained in our preceding audit report.
+Our audit did not include certain payroll support services (such as processing of
+personnel transactions and maintenance of employee leave records) provided by
+the Maryland Department of Transportation (MDOT) – The Secretary’s Office to
+MDTA. These payroll support services are included within the scope of our audit
+of MDOT. In addition, our audit did not include an evaluation of internal controls
+over compliance with federal laws and regulations for federal financial assistance
+programs and an assessment of MDTA’s compliance with those laws and
+regulations because MDTA engages an independent accounting firm to annually
+audit such programs.
+MDTA engages an independent accounting firm to audit its annual financial
+statements. In the related audit reports for the fiscal years ended June 30, 2021,
+2022, 2023, 2024 and 2025 the firm stated that MDTA’s financial statements
+presented fairly, in all material respects, the respective financial position of the
+business-type activities of the MDTA as of June 30, 2021, 2022, 2023, 2024 and
+2025 and the respective changes in financial position and cash flows thereof for
+10
+
+--- Page 13 ---
+the years then ended in accordance with accounting principles generally accepted
+in the United States of America. We relied on the work of the independent
+accounting firm to provide audit coverage pertaining to bank and investment
+accounts, debt issuances and related debt covenants. Our audit procedures in
+those areas were generally limited, therefore, to obtaining a sufficient basis for
+that reliance.
+Our assessment of internal controls was based on MDTA’s procedures and
+controls in place at the time of our fieldwork. Our tests of transactions and other
+auditing procedures were generally focused on the transactions occurring during
+our audit period of March 5, 2020 to May 31, 2025, but may include transactions
+before or after this period as we considered necessary to achieve our audit
+objectives.
+To accomplish our audit objectives, our audit procedures included inquiries of
+appropriate personnel, inspections of documents and records, tests of transactions,
+and to the extent practicable, observations of MDTA’s operations. Generally,
+transactions were selected for testing based on auditor judgment, which primarily
+considers risk, the timing or dollar amount of the transaction, or the significance
+of the transaction to the area of operation reviewed. As a matter of course, we do
+not normally use sampling in our tests, so unless otherwise specifically indicated,
+neither statistical nor non-statistical audit sampling was used to select the
+transactions tested. Therefore, unless sampling is specifically indicated in a
+finding, the results from any tests conducted or disclosed by us cannot be used to
+project those results to the entire population from which the test items were
+selected.
+We also performed various data extracts of pertinent information from the State’s
+Central Payroll Bureau (payroll data), as well as from the contractor administering
+the State’s Corporate Purchasing Card Program (credit card activity). The
+extracts are performed as part of ongoing internal processes established by the
+Office of Legislative Audits and were subject to various tests to determine data
+reliability. We determined that the data extracted from these sources were
+sufficiently reliable for the purposes the data were used during this audit.
+We also extracted data from MDTA’s general ledger and purchasing and
+disbursement systems for the purpose of testing purchases and disbursements and
+extracted data from MDTA’s tolling customer service contractor for the purpose
+of testing collection efforts for electronic tolls. We performed various tests of the
+relevant data and determined that the data was sufficiently reliable for the
+purposes the data was used during the audit. Finally, we performed other auditing
+procedures that we considered necessary to achieve our audit objectives. The
+11
+
+--- Page 14 ---
+reliability of data used in this report for background or informational purposes
+was not assessed.
+MDTA’s management is responsible for establishing and maintaining effective
+internal control. Internal control is a process designed to provide reasonable
+assurance that objectives pertaining to the reliability of financial records;
+effectiveness and efficiency of operations, including safeguarding of assets; and
+compliance with applicable laws, rules, and regulations are achieved. As
+provided in Government Auditing Standards, there are five components of
+internal control: control environment, risk assessment, control activities,
+information and communication, and monitoring. Each of the five components,
+when significant to the audit objectives, and as applicable to MDTA, were
+considered by us during the course of this audit.
+Because of inherent limitations in internal control, errors or fraud may
+nevertheless occur and not be detected. Also, projections of any evaluation of
+internal control to future periods are subject to the risk that conditions may
+change or compliance with policies and procedures may deteriorate.
+Our reports are designed to assist the Maryland General Assembly in exercising
+its legislative oversight function and to provide constructive recommendations for
+improving State operations. As a result, our reports generally do not address
+activities we reviewed that are functioning properly.
+This report includes findings related to conditions that we consider to be a
+significant deficiency in the design or operation of internal control that could
+adversely affect MDTA’s ability to maintain reliable financial records, operate
+effectively and efficiently, and/or comply with applicable laws, rules, and
+regulations. Our report also includes a finding regarding a significant instance of
+noncompliance with applicable laws, rules, or regulations. Other less significant
+findings were communicated to MDTA that did not warrant inclusion in this
+report.
+State Government Article Section 2-1224(i) requires that we redact in a manner
+consistent with auditing best practices any cybersecurity findings before a report
+is made available to the public. This results in the issuance of two different
+versions of an audit report that contains cybersecurity findings – a redacted
+version for the public and an unredacted version for government officials
+responsible for acting on our audit recommendations.
+The State Finance and Procurement Article, Section 3.5-301(c), states that
+cybersecurity is defined as “processes or capabilities wherein systems,
+12
+
+--- Page 15 ---
+communications, and information are protected and defended against damage,
+unauthorized use or modification, and exploitation.” Based on that definition, and
+in our professional judgment, we concluded that a finding in this report falls under
+that definition. Consequently, for the publicly available audit report all specifics
+as to the nature of the cybersecurity finding and required corrective actions have
+been redacted. We have determined that such aforementioned practices, and
+government auditing standards, support the redaction of this information from the
+public audit report. The specifics of the cybersecurity finding have been
+communicated to MDTA and those parties responsible for acting on our
+recommendations in an unredacted audit report.
+The response from MDOT, on behalf of MDTA, to our findings and
+recommendations, is included as an appendix to this report. Depending on the
+version of the audit report, responses to any cybersecurity findings may be
+redacted in accordance with State law. As prescribed in the State Government 12
+Article, Section 2-1224 of the Annotated Code of Maryland, we will advise
+MDOT regarding the results of our review of its response.
+13
+
+--- Page 16 ---
+APPENDIX
+
+--- Page 17 ---
+Maryland Transportation Authority
+Agency Response Form
+Out-of-State Toll Collections
+Finding 1
+The Maryland Transportation Authority (MDTA) did not take available
+actions to collect unpaid tolls and penalties incurred by out-of-state vehicles,
+which totaled $818.1 million as of January 2026.
+We recommend that MDTA take available actions to help enforce collection
+of unpaid tolls and penalties due from out-of-state motorists, including
+a. executing reciprocity agreements with other states as allowed by State
+law,
+b. contracting with a third-party collection agency, and
+c. requesting approval from DBM to refer unpaid tolls to CCU.
+Agency Response
+Analysis
+Please provide In response to the COVID-19 pandemic, MDTA transitioned all tolling
+additional comments as at its facilities from cash payments to all-electronic tolling to automate
+deemed necessary. and streamline toll payments across the state. For customers that do not
+have an E-ZPass, MDTA issues a Notice of Toll Due to the address
+associated with the vehicle owner’s license plate. Maryland has several
+mechanisms to enforce unpaid tolls and penalties for in-state vehicles,
+including the ability to intercept state tax refunds from violators. This
+allowed MDTA to collect approximately $119.3 million in outstanding
+tolls and penalties from Maryland residents since FY 2023. However, a
+similar function does not exist for nonresident motorists, making
+collection avenues significantly more complex. The MDTA has been
+transparent in its acknowledgment of the challenges associated with
+collecting video tolls in its Joint Chairmen’s Report responses to the
+Maryland General Assembly and its annual Revenue Assurance
+presentation to the MDTA Board in recent years.
+The MDTA acknowledges the importance of implementing a multi-
+prong approach to collecting unpaid tolls from nonresident drivers, in
+accordance with best practice recommendations presented by OLA.
+This includes but is not limited to entering into toll enforcement
+reciprocity agreements with other jurisdictions, leveraging national
+electronic toll interoperability networks, and contracting with third party
+collection agencies to pursue unpaid debt. However, it is important to
+Page 1 of 6
+
+--- Page 18 ---
+Maryland Transportation Authority
+Agency Response Form
+note that these actions require significant time to implement. Executing
+reciprocity agreements, for example, depends on MDTA’s counterparts
+in other states to navigate laws and regulations associated with their
+respective transportation systems, creating long and unpredictable
+timelines for implementation.
+MDTA is committed to ensuring the below corrective actions are
+fulfilled in accordance with best practices, and implementing systems
+that will ensure the agency maximizes all opportunities to capture
+available revenues while holding debtors accountable to paying their
+dues to the State of Maryland.
+Recommendation 1a Agree Estimated Completion Date: 3Q 2027 for
+Pennsylvania
+Please provide details of Maryland law (Transportation Article § 21-1415) authorizes the
+corrective action or Maryland Transportation Authority (MDTA) to create agreements with
+explain disagreement. other jurisdictions for reciprocal toll violation enforcement. The agency
+recognizes the importance of pursuing toll enforcement reciprocity to
+collect unpaid tolls from out-of-state motorists. The implementation of
+reciprocal toll enforcement agreements is one of multiple strategies
+currently underway to aid in the collection of out-of-state toll debt.
+While reciprocity agreements are valuable tools to encourage payment
+compliance, the development and implementation of reciprocal toll
+enforcement agreements are challenging for the State of Maryland, as
+well as other tolling agencies nationally. As noted in the MDTA’s 2024
+and 2025 Joint Chairmen’s Report responses to the Maryland General
+Assembly, several of the primary obstacles, which complicate the
+development and implementation of reciprocal toll enforcement
+agreements, include (1) the notable differences in motor vehicle toll
+enforcement actions and financial penalties for unpaid tolls among
+states; (2) the need for the statutes, regulations, policies, operational
+processes, and technical capabilities of the agencies governing toll
+collection (tolling and motor vehicle) within each jurisdiction to be
+evaluated, and, where necessary, aligned before reaching a final
+agreement; and (3) reciprocal toll enforcement agreements are executed
+on a peer agency-to-peer agency basis rather than through direct state-to-
+state agreements.
+Currently, the State of Maryland is working diligently toward
+establishing its inaugural reciprocal toll enforcement agreement with the
+Page 2 of 6
+
+--- Page 19 ---
+Maryland Transportation Authority
+Agency Response Form
+Pennsylvania Turnpike Commission (PTC). The MDTA and the Motor
+Vehicle Administration (MVA) have jointly initiated discussions with
+the PTC and the Pennsylvania Department of Transportation’s Motor
+Vehicle Administration (PennDOT) regarding the establishment of a
+reciprocal toll enforcement agreement. The MDTA and the PTC have
+mutually agreed that it would be most beneficial to leverage the toll
+enforcement reciprocity agreement framework that is currently being
+negotiated between Pennsylvania and New York. The proposed
+agreement will likely entail flagging and/or suspending a motorist’s
+vehicle registration when either a Pennsylvania or Maryland resident
+owes qualifying unpaid tolls in the reciprocal jurisdiction. Next steps
+include, but are not limited to, verifying statutory alignment, drafting
+program requirements (e.g., governance structure, definition and
+agreement on terminology, etc.); legal review (draft agreement, statutes,
+etc.); and agreement finalization and execution between four agencies
+(MDTA, MVA, PTC, and PennDOT). Prior to going live with toll
+reciprocity, information technology system workflow testing, software
+updates, and staff training will be conducted. The parties have
+established target milestones for agreement execution and operational
+go-live of January 2027 and Fall 2027, respectively.
+PTC is deemed the best fit for Maryland’s first reciprocal toll
+enforcement agreement because (1) PTC’s toll enforcement actions and
+penalties for non-compliant motorists are operationally similar to those
+used by the MDTA; (2) PTC’s level of customer service is
+commensurate with the State of Maryland’s customer service objectives,
+including an adequate level of investment in automation and the
+corresponding assurance that motor vehicle registration flags will be
+released promptly when customers satisfy their outstanding toll
+obligations; and (3) the potential to achieve significant results going
+forward given that Pennsylvania residents owe the second highest
+amount of unpaid tolls and civil penalties.
+Additionally, it should be noted that the toll enforcement reciprocity
+agreement with Pennsylvania will be the MDTA’s pilot agreement. The
+MDTA is engaged in discussions with Virginia and the New York
+Thruway about the feasibility of entering into future agreements with a
+timeline to be determined in the future.
+Page 3 of 6
+
+--- Page 20 ---
+Maryland Transportation Authority
+Agency Response Form
+Lastly, the MDTA is also leveraging the national electronic toll
+interoperability network to increase the collection of toll revenue from
+out-of-state motorists using MDTA toll facilities. As part of this effort,
+MDTA is in the process of joining the Northern Hub (estimated to occur
+in the fourth quarter of calendar 2026), which will establish
+interoperability with the Central U.S. Interoperability Partnership
+(CUSIOP) Hub. This expansion will enable MDTA to electronically
+process toll transactions for motorists using interoperable transponders
+issued in Texas, Oklahoma, Kansas, and Colorado by charging
+customers' prepaid electronic toll accounts at the time of travel. Given
+that Texas and Florida are high volume outstanding debt states, many
+transactions that would otherwise become post-trip video tolls, requiring
+billing and collection efforts, will instead be collected electronically at
+the point of tolling. The CUSIOP Hub connection, which is being
+coordinated by the E-ZPass Interagency Group (IAG), will allow MDTA
+to immediately focus near-term on these states by end of calendar year
+2026.
+Recommendation 1b Agree Estimated Completion Date: 3Q 2027
+Please provide details of MDTA is actively developing a Request for Proposals (RFP) to initiate
+corrective action or out-of-state collections services for the first time. MDTA began this
+explain disagreement. effort by hosting Request for Information meetings with nine firms that
+operate within the toll collections services market. These discussions
+were used to better inform the development of the RFP structure, scope,
+and performance expectations typical in the tolling industry. In parallel,
+staff gathered information from other state transportation and tolling
+agencies regarding lessons learned and industry best practices. To date,
+RFP specifications have been developed to facilitate high industry
+response.
+Recommendation 1c Disagree Estimated Completion Date: N/A
+Please provide details of The MDTA acknowledges the important role that the Department of
+corrective action or Budget and Management’s (DBM) Central Collection Unit (CCU) has in
+explain disagreement. collecting unpaid debt from Maryland residents. Arguably, the most
+significant tool that CCU has is its State Tax Refund Intercept Program.
+The program enables CCU to seize a Maryland resident’s expected tax
+refund to pay off past-due debt to the State of Maryland (including toll
+debt). While this program has aided the MDTA in collecting
+approximately $119.3 million in outstanding tolls and penalties from
+Maryland residents since FY 2023, a similar program does not exist for
+nonresident motorists. Consequently, it has been the MDTA’s
+Page 4 of 6
+
+--- Page 21 ---
+Maryland Transportation Authority
+Agency Response Form
+experience that CCU’s ability to collect unpaid tolls from nonresident
+motorists is limited.
+The MDTA and DBM are aligned in the belief that referring outstanding
+toll debt for out-of-state motorists to CCU is not in the best interest of
+either agency at this time. Currently, CCU is limited in the tools
+available to pursue collection from out-of-state motorists. Furthermore,
+based on historical collection activity, CCU is concerned that the costs
+required to pursue the debts from out-of-state motorists could exceed the
+revenue collected and the additional burden on resources to handle this
+group of debtors could have a negative effect on collection activities on
+other State debt that CCU is currently pursuing. Lastly, the referral of
+out-of-state debt to CCU could restrict the MDTA’s other collection
+efforts, such as contracting with an outside collection agency.
+Consequently, outside of expanding national interoperability through the
+E-ZPass® Group and other hubs, the MDTA and DBM believe that the
+MDTA should pursue entering into toll enforcement reciprocity
+agreements and contracting with one or more third party collection
+agencies. These enhanced collection tools currently constitute the best
+mechanisms for collecting unpaid toll debt from out-of-state motorists.
+Auditor’s Comment: Although MDOT’s response indicates that it disagrees
+with Recommendation 1c, it also indicates that MDTA will continue to pursue
+other available collection actions as recommended. As noted in our Analysis,
+MDTA did not request approval from the Secretary of DBM to refer these
+accounts to CCU during our audit as allowed by State law. However, MDOT’s
+response states that MDTA and DBM are now aligned in the belief that referring
+outstanding toll debt for out-of-state motorists to CCU is not in the best interest of
+either agency at this time.
+Page 5 of 6
+
+--- Page 22 ---
+Maryland Transportation Authority
+Agency Response Form
+Information Systems Security and Control
+The Office of Legislative Audits (OLA) has determined that Finding 2 related
+to “cybersecurity,” as defined by the State Finance and Procurement Article,
+Section 3.5-301(c) of the Annotated Code of Maryland, and therefore is subject
+to redaction from the publicly available audit report in accordance with the
+State Government Article 2-1224(i). Although the specifics of the following
+finding, including the analysis, related recommendations, along with MDOT’s
+responses, have been redacted from this report copy, MDOT’s responses
+indicated agreement with the finding and related recommendations.
+Finding 2
+Redacted cybersecurity-related finding.
+Agency Response has been redacted by OLA.
+Page 6 of 6
+
+--- Page 23 ---
+A T
+UDIT EAM
+Adam J. Westover, CPA
+Audit Manager
+Michael K. Bliss, CISA
+Information Systems Audit Manager
+Tu N. Vuong
+Thomas J. Kraemer
+Edward J. Welsh, CFE
+Senior Auditors
+Joshua A. Nicodemus, CISA
+Information Systems Senior Auditor
+Ryan S. Krogen, CIA, CFE
+Yuvaraj N. Sharma
+Etai D. Stern
+Staff Auditors
